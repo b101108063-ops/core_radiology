@@ -1,0 +1,21 @@
+baseURL: "https://b101108063-ops.github.io/core_radiology/"
+languageCode: "zh-tw"
+title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
+theme: "hugo-book"
+enableEmoji: true
+hasCJKLanguage: true
+enableRobotsTXT: true
+disableFastRender: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  BookSection: "docs"
+  disableBreadcrumb: false
+  disableChapterBreadcrumb: true
+  BookSearch: true
+  BookPublic: true
+  BookMenuFormat: "full"
