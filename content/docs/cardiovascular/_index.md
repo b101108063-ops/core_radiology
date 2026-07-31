@@ -1,6 +1,6 @@
 ---
 title: "Cardiovascular Imaging"
-weight: 10
+weight: 9
 ---
 
 # Cardiovascular Imaging
@@ -9,43 +9,43 @@ Chapter 9 from Core Radiology: A Visual Approach to Diagnostic Imaging.
 
 Pages 658-693.
 
-<!--more-->
-
 ## Pages
 
-- [Page 658]({< ref "page_658.md" >})
-- [Page 659]({< ref "page_659.md" >})
-- [Page 660]({< ref "page_660.md" >})
-- [Page 661]({< ref "page_661.md" >})
-- [Page 662]({< ref "page_662.md" >})
-- [Page 663]({< ref "page_663.md" >})
-- [Page 664]({< ref "page_664.md" >})
-- [Page 665]({< ref "page_665.md" >})
-- [Page 666]({< ref "page_666.md" >})
-- [Page 667]({< ref "page_667.md" >})
-- [Page 668]({< ref "page_668.md" >})
-- [Page 669]({< ref "page_669.md" >})
-- [Page 670]({< ref "page_670.md" >})
-- [Page 671]({< ref "page_671.md" >})
-- [Page 672]({< ref "page_672.md" >})
-- [Page 673]({< ref "page_673.md" >})
-- [Page 674]({< ref "page_674.md" >})
-- [Page 675]({< ref "page_675.md" >})
-- [Page 676]({< ref "page_676.md" >})
-- [Page 677]({< ref "page_677.md" >})
-- [Page 678]({< ref "page_678.md" >})
-- [Page 679]({< ref "page_679.md" >})
-- [Page 680]({< ref "page_680.md" >})
-- [Page 681]({< ref "page_681.md" >})
-- [Page 682]({< ref "page_682.md" >})
-- [Page 683]({< ref "page_683.md" >})
-- [Page 684]({< ref "page_684.md" >})
-- [Page 685]({< ref "page_685.md" >})
-- [Page 686]({< ref "page_686.md" >})
-- [Page 687]({< ref "page_687.md" >})
-- [Page 688]({< ref "page_688.md" >})
-- [Page 689]({< ref "page_689.md" >})
-- [Page 690]({< ref "page_690.md" >})
-- [Page 691]({< ref "page_691.md" >})
-- [Page 692]({< ref "page_692.md" >})
-- [Page 693]({< ref "page_693.md" >})
+| Page | Content |
+|------|---------|
+| 658 | [Page 658](/core_radiology/docs/cardiovascular/page_658.md) |
+| 659 | [Page 659](/core_radiology/docs/cardiovascular/page_659.md) |
+| 660 | [Page 660](/core_radiology/docs/cardiovascular/page_660.md) |
+| 661 | [Page 661](/core_radiology/docs/cardiovascular/page_661.md) |
+| 662 | [Page 662](/core_radiology/docs/cardiovascular/page_662.md) |
+| 663 | [Page 663](/core_radiology/docs/cardiovascular/page_663.md) |
+| 664 | [Page 664](/core_radiology/docs/cardiovascular/page_664.md) |
+| 665 | [Page 665](/core_radiology/docs/cardiovascular/page_665.md) |
+| 666 | [Page 666](/core_radiology/docs/cardiovascular/page_666.md) |
+| 667 | [Page 667](/core_radiology/docs/cardiovascular/page_667.md) |
+| 668 | [Page 668](/core_radiology/docs/cardiovascular/page_668.md) |
+| 669 | [Page 669](/core_radiology/docs/cardiovascular/page_669.md) |
+| 670 | [Page 670](/core_radiology/docs/cardiovascular/page_670.md) |
+| 671 | [Page 671](/core_radiology/docs/cardiovascular/page_671.md) |
+| 672 | [Page 672](/core_radiology/docs/cardiovascular/page_672.md) |
+| 673 | [Page 673](/core_radiology/docs/cardiovascular/page_673.md) |
+| 674 | [Page 674](/core_radiology/docs/cardiovascular/page_674.md) |
+| 675 | [Page 675](/core_radiology/docs/cardiovascular/page_675.md) |
+| 676 | [Page 676](/core_radiology/docs/cardiovascular/page_676.md) |
+| 677 | [Page 677](/core_radiology/docs/cardiovascular/page_677.md) |
+| 678 | [Page 678](/core_radiology/docs/cardiovascular/page_678.md) |
+| 679 | [Page 679](/core_radiology/docs/cardiovascular/page_679.md) |
+| 680 | [Page 680](/core_radiology/docs/cardiovascular/page_680.md) |
+| 681 | [Page 681](/core_radiology/docs/cardiovascular/page_681.md) |
+| 682 | [Page 682](/core_radiology/docs/cardiovascular/page_682.md) |
+| 683 | [Page 683](/core_radiology/docs/cardiovascular/page_683.md) |
+| 684 | [Page 684](/core_radiology/docs/cardiovascular/page_684.md) |
+| 685 | [Page 685](/core_radiology/docs/cardiovascular/page_685.md) |
+| 686 | [Page 686](/core_radiology/docs/cardiovascular/page_686.md) |
+| 687 | [Page 687](/core_radiology/docs/cardiovascular/page_687.md) |
+| 688 | [Page 688](/core_radiology/docs/cardiovascular/page_688.md) |
+| 689 | [Page 689](/core_radiology/docs/cardiovascular/page_689.md) |
+| 690 | [Page 690](/core_radiology/docs/cardiovascular/page_690.md) |
+| 691 | [Page 691](/core_radiology/docs/cardiovascular/page_691.md) |
+| 692 | [Page 692](/core_radiology/docs/cardiovascular/page_692.md) |
+| 693 | [Page 693](/core_radiology/docs/cardiovascular/page_693.md) |
