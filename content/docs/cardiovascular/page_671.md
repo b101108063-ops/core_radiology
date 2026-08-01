@@ -6,48 +6,40 @@ weight: 671
 
 ![Page 671](/core_radiology/images/cardiovascular/page-671.png)
 
-## Text Content
+## 主動剝離分型 / Classification of Aortic Dissection
 
-```
-### PAGE 671 ###
-Classification of aortic dissection
+### Stanford 分型系統 / Stanford Classification System
 
-Stanford A aortic dissection:
-Ascending aorta, ±descending aorta
-Typically treated surgically
+#### Type A（Stanford A 型）
+| 項目 | 說明 |
+|------|------|
+| 定義 | 病灶涉及**升主動脈**（可合併或不合併降主動脈）|
+| 治療原則 | **手術治療**為主 |
+| 特點 | 可能併發心包填塞（hemopericardium）|
 
-Stanford B aortic dissection:
-Descending aorta only
-Typically treated medically
+#### Type B（Stanford B 型）
+| 項目 | 說明 |
+|------|------|
+| 定義 | **僅涉及降主動脈**，升主動脈正常 |
+| 治療原則 | **內科治療**為主（血壓控制）|
 
-true lumen
+### 影像特徵 / Imaging Features
+| 類型 | 真腔（True Lumen）| 假腔（False Lumen）|
+|------|-----------------|------------------|
+| 對比劑顯影 | 通常較早顯影 | 顯影較延遲 |
+| 管腔壓迫 | — | 假腔壓迫真腔 |
+| 血栓形成 | 少見 | 常見（因血流緩慢）|
 
-false
-lumen
+### 鑑別診斷要點 / Differential Diagnosis Key Points
+| 疾病 | 區分特點 |
+|------|----------|
+| **Type A 主動剝離** | 病灶在升主動脈，可能有心包填塞 |
+| **Type B 主動剝離** | 病灶僅在降主動脈 |
+| 壁內血腫（IMH）| 無內膜瓣，別月牙形高密度 |
+| 穿透性粥樣硬化潰僚（PAU）| 潰場面，無剝離瓣 |
 
-•
-
-Stanford A
-
-•
-
-Axial contrast-enhanced gated CT shows a
-dissection flap in the ascending aorta only
-(yellow arrow). The descending aorta appears
-normal. There is a moderate hemopericardium
-consistent with rupture (red arrows).
-
-662
-
-Stanford B
-
-Axial contrast-enhanced gated CT in a different
-patient shows a dissection flap in the descending
-aorta only (arrows).
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- **Stanford 分型是指導治療的核心**：Type A 手術，Type B 內科治療
+- Type A 病變可能破裂進入心包，導致**心包填塞**，是致死性併發症
+- CT 血管造影（CTA）是診斷主動剝離的首選無創檢查
+- 準確區分 Type A 與 Type B 對治療決策至關重要
