@@ -6,48 +6,18 @@ weight: 667
 
 ![Page 667](/core_radiology/images/cardiovascular/page-667.png)
 
-## Text Content
+## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging
 
-```
-### PAGE 667 ###
-9 Cardiovascular imaging
-Contents
-Aortic anatomy
+### 章節目錄 / Contents
 
-659
-
-Acute aortic syndrome
-
-661
-
-Traumatic aortic injury
-
-665
-
-Aortic aneurysms and miscellaneous disorders
-Coronary CT angiography
-Cardiac MRI
-
-666
-
-673
-
-678
-
-Plain film imaging of heart disease
-Nonischemic myocardial disease
-Pericardial disease
-
-681
-686
-
-689
-
-658
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+| 單元 | 標題 | 頁碼 |
+|------|------|------|
+| 1 | 主動脈解剖 / Aortic Anatomy | 659 |
+| 2 | 急性主動脈症候群 / Acute Aortic Syndrome | 661 |
+| 3 | 外傷性主動脈損傷 / Traumatic Aortic Injury | 665 |
+| 4 | 主動脈瘤及相關疾病 / Aortic Aneurysms and Miscellaneous Disorders | 666 |
+| 5 | 冠狀動脈 CT 血管造影 / Coronary CT Angiography | 673 |
+| 6 | 心臟 MRI / Cardiac MRI | 678 |
+| 7 | 心臟疾病 X 光片影像 / Plain Film Imaging of Heart Disease | 681 |
+| 8 | 非缺血性心肌疾病 / Nonischemic Myocardial Disease | 686 |
+| 9 | 心包疾病 / Pericardial Disease | 689 |
