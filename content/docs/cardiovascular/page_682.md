@@ -6,94 +6,76 @@ weight: 682
 
 ![Page 682](/core_radiology/images/cardiovascular/page-682.png)
 
-## Text Content
+## 冠狀动脉 CT 血管造影 / Coronary CT Angiography (CCTA)
 
-```
-### PAGE 682 ###
-Coronary CT angiography
-Evidence for using coronary CT to evaluate for ischemic cardiac disease
+### 臨床應用證據 / Evidence for Clinical Use
 
-•
+#### 診斷效能 / Diagnostic Performance
+| 項目 | 數據 |
+|------|------|
+| 排除顯著冠狀动脉疾病 | **Negative predictive value >90%** |
+| 顯著狹窄定義 | **>50% 管腔直徑** |
 
-•
+#### 臨床試驗結果 / Clinical Trial Results
+| 試驗 | 結論 |
+|------|------|
+| **ACRIN-PA** | 早期 CCTA 提升效率、改善臨床決策、縮短住院時間 |
+| **ROMICAT-II** | 早期 CCTA 提升效率及臨床決策，但輻射劑量增加，無顯著成本差異 |
 
-•
+#### 重要限制 / Important Limitation
+- CCTA 對顯著狹窄敏感，但**鈣化斑塊可能產生光暈假影（blooming artifact）**，導致過度診斷
 
-Coronary CT angiography (CCTA) is an excellent test to rule out hemodynamically
-significant coronary artery disease. Meta-analyses of multiple trials have shown the
-negative predictive value for CCTA to be in the high 90s.
-The ACRIN-PA and ROMICAT-II clinical trials (both published 2012 NEJM) evaluate the
-use of CCTA in the emergency room setting for acute chest pain in low to medium risk
-patients. Both trials conclude that early CCTA improves efficiency, clinical decision
-making, and leads to a shorter hospitalization, although the ROMICAT-II trial did note
-increased radiation exposure in the CCTA group and no significant cost difference.
-Coronary CT is very sensitive for hemodynamically significant (>50% lumenal
-diameter) stenoses; however, a stenosis found on CT may be overcalled, especially if
-there is calcified plaque, which can cause a blooming artifact.
+---
 
-ECG gating and radiation dose
+### 心電圖同步與輻射劑量 / ECG Gating and Radiation Dose
 
-•
+#### 劑量估算 / Dose Estimation
+- **劑量-長度乘積（DLP）× 0.017 = 有效劑量（mSv）**
 
-ECG gating is used to minimize cardiac motion. The choice of ECG gating has a large
-effect on patient radiation dose.
-To estimate the radiation dose, the dose–length product (DLP) should be multiplied by a conversion
-factor of 0.017 to arrive at the dose in millisieverts.
+#### 同步方式比較 / Gating Methods Comparison
+| 方式 | 優點 | 缺點 |
+|------|------|------|
+| **回顧性同步（Retrospective）** | 可建立電影重組評估心臟及瓣膜功能（每心跳 10-20 幀）| 輻射劑量顯著增加 |
+| **前瞻性同步（Prospective）** | 輻射劑量較低 | 僅取得部分心動周期，無法做電影重組 |
 
-•
+---
 
-In a retrospectively gated exam, continuous CT scanning is performed throughout the
-cardiac cycle and the images are correlated to the ECG cycle afterwards.
-The main advantage of retrospective gating is the ability to create cine reconstructions to evaluate
-cardiac and valvular function, typically with 10–20 frames per cardiac cycle.
-The main disadvantage of retrospective gating is a significant increase in radiation exposure
-compared to a prospectively gated study.
+### 空間解析度與狹窄分級 / Spatial Resolution and Stenosis Grading
 
-•
+#### 解析度對比 / Resolution Comparison
+| 參數 | 數據 |
+|------|------|
+| 冠狀动脉平均管腔直徑 | 約 **3 mm** |
+| CT 等向體素解析度 | **0.35–0.5 mm**（僅 6–9 體素覆盖整個管腔）|
+| 心導管造影解析度 | **0.16 mm**（約 18 體素）|
 
-For prospective gating, the ECG is used to time image acquisition at a specific phase of the
-cardiac cycle, exposing the patient to radiation only during this segment of the cardiac cycle.
-The main advantage of prospective gating is decreased radiation exposure.
-However, since only a fraction of the cardiac cycle is acquired, cine reconstructions are not possible.
+#### 狹窄分類 / Stenosis Classification
+| 分類 | 臨床意義 |
+|------|---------|
+| **<20%** | 輕度 |
+| **20–50%** | 中度 |
+| **50–70%** | 中重度 |
+| **>70%** | 重度（考慮血行動力學顯著性）|
 
-Spatial resolution and grading of stenoses
+> ⚠️ **>50% 狹窄被視為潛在血行動力學顯著性病變；<50% 則不具顯著性。**
 
-•
-•
+---
 
-•
-•
+### 時間解析度 / Temporal Resolution
 
-Coronary arteries have an average luminal diameter of approximately 3 mm.
-CT has an isotropic voxel resolution of 0.35 to 0.5 mm, which allows only 6 to 9 voxels
-to image the entire coronary artery lumen. This is insufficient resolution to grade a
-stenosis with accuracy greater than approximately 20% of the diameter.
-In contrast, catheter angiography has a spatial resolution of approximately 0.16 mm,
-to depict the average lumen of a coronary artery over approximately 18 pixels.
-Due to the limited spatial resolution of CT, a stenosis is classified into categories: <20%;
-20–50%; 50–70%, or >70%. A >50% stenosis is considered potentially hemodynamically
-significant. Conversely, a <50% stenosis is considered not hemodynamically significant.
+| 設備 | 旋轉時間 | 時間解析度 |
+|------|---------|----------|
+| 傳統 CT | 330 ms | ~175 ms（需 >180°）|
+| **雙源 CT（Dual source）** | — | **~75 ms**（僅需 90°）|
 
-Temporal resolution and “freezing” of cardiac motion
+---
 
-•
-•
+### 檢查前準備 / Pre-Procedure
+- 建議目標心率：**<60 bpm**（以最大化 R-R 間期）
 
-A CT scanner requires slightly more than 180 degrees of gantry rotation for image
-acquisition: For a complete rotation time of 330 ms, the temporal resolution is ~175 ms.
-Dual source CT has two X-ray sources oriented 90 degrees to each other and needs to rotate
-only 90 degrees to complete a reconstruction, with a temporal resolution of ~75 ms.
-
-Procedure
-
-•
-
-A low heart rate (typically below 60 bpm) is desired in order to maximize the R–R interval.
-673
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- CCTA 是排除血行動力學顯著冠狀动脉疾病的優秀工具，Negative predictive value 超過 90%
+- 回顧性同步可評估心臟功能，但輻射劑量較高
+- CT 空間解析度有限，狹窄分級僅能以類別區分（<20%、20-50%、50-70%、>70%）
+- 雙源 CT 的時間解析度顯著提升（~75 ms），可更好地「凍結」心臟運動
+- 檢查前需控制心率以優化影像品質

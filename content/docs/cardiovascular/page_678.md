@@ -6,54 +6,53 @@ weight: 678
 
 ![Page 678](/core_radiology/images/cardiovascular/page-678.png)
 
-## Text Content
+## 腹主動瘤內漏（三）/ AAA Endoleaks (Continued)
 
-```
-### PAGE 678 ###
-Type III endoleak: Device failure causing leakage
+### Type III 內漏：器械故障 / Type III Endoleak: Device Failure
 
-•
+#### 疾病名稱 / Disease Name
+**Type III 內漏（Type III Endoleak）** 是因器械故障導致 graft  fabric 或模組化 graft 接合處出現滲漏。
 
-Type III endoleak represents device failure causing leakage through graft fabric or
-segments of a modular graft.
-Type III endoleak: Blood enters the excluded
-aneurysm sac via a defect in the graft.
+#### 臨床特點 / Clinical Features
+| 項目 | 說明 |
+|------|------|
+| 機制 | 血液通過 graft 的缺陷進入被隔離的动脉瘤囊 |
+| 常見原因 | graft  fabric 破損、模組化 graft 接合處分離 |
+| 處理原則 | 需要積極介入治療 |
 
-Coronal CT demonstrates contrast extravasating
-(yellow arrow) through the angulation of a
-modular aortic graft.
+#### 影像特徵 / Imaging Features
+- CT 冠狀面可見對比劑通過模組化主動 graft 的彎曲處外滲
 
-Types IV and V endoleaks
+---
 
-•
+### Type IV 及 Type V 內漏 / Types IV and V Endoleaks
 
-Both type IV and type V endloeaks are diagnoses of exclusion as no endoleak can be
-visualized by imaging although the sac continues to increase in size.
+#### Type IV 內漏 / Type IV Endoleak
+| 項目 | 說明 |
+|------|------|
+| 機制 | 多孔隙 graft 導致滲漏 |
+| 特點 | 通常為暫時性，見於程序進行中 |
+| 預後 | 停用抗凝血製劑後約一個月內自行緩解 |
+| 現代 graft | 現代 graft 已少見 |
 
-•
+#### Type V 內漏（Endotension）/ Type V Endoleak (Endotension)
+| 項目 | 說明 |
+|------|------|
+| 定義 | 动脉瘤囊持續增大，但影像上無法看到任何內漏 |
+| 機制 | 可能是低於影像解析度的微小內漏 |
+| 特點 | 排除性診斷 |
 
-Type IV endoleak: Type IV endoleak
-is caused by a porous graft and is
-typically transient and seen intraprocedurally. Type IV endoleak usually
-resolves within one month after
-withdrawal of anticoagulation. It is
-rarely seen with modern grafts.
+### 內漏分型總結 / Endoleak Classification Summary
+| 類型 | 機制 | 預後 |
+|------|------|------|
+| **Type I** | Graft 密封不良 | 需積極治療 |
+| **Type II** | 側支血流 | 監測為主 |
+| **Type III** | 器械故障 | 需積極治療 |
+| **Type IV** | 多孔隙 graft（短暫性）| 自行緩解 |
+| **Type V** | 無可見內漏（endotension）| 排除性診斷 |
 
-669
-
-•
-
-Type V endoleak: Also called
-endotension, type V endoleak
-is continued expansion of the
-aneurysm without any other
-endoleak present, thought to be due
-to an endoleak below the resolution
-of imaging.
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- **Type III 內漏**為器械故障，需積極再介入治療
+- **Type IV 內漏**為暫時性，抗凝血劑停用後通常自行緩解，現代 graft 已少見
+- **Type V 內漏**為排除性診斷，臨床上需排除其他類型內漏
+- EVAR 術後需終身影像監測以早期發現各類內漏
