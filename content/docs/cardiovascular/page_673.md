@@ -6,62 +6,43 @@ weight: 673
 
 ![Page 673](/core_radiology/images/cardiovascular/page-673.png)
 
-## Text Content
+## 穿透性粥樣硬化潰湯 / Penetrating Atherosclerotic Ulcer (PAU)
 
-```
-### PAGE 673 ###
-Penetrating atherosclerotic ulcer (PAU)
-Penetrating atherosclerotic ulcer (PAU)
+### 疾病名稱 / Disease Name
+**穿透性粥樣硬化潰湯（Penetrating Atherosclerotic Ulcer, PAU）** 是指粥樣硬化斑塊穿透內膜，血液進入中膜形成的病變。
 
-
-
+### 病理機制 / Pathophysiology
+| 步驟 | 說明 |
+|------|------|
+| 步驟 1 | 粥樣硬化斑塊穿透內膜 |
+| 步驟 2 | 斑塊潰湯，使血液進入中膜 |
+| 步驟 3 | 中膜擴大，形成**動脈瘤樣變化** |
 
-adventitia
-media
-intima
+### 臨床特點 / Clinical Features
+- PAU 可能導致**囊狀動脈瘤（saccular aneurysm）**形成
+- 與剝離及壁內血腫不同，PAU 主要由**粥樣硬化**而非高血壓引起
+- 粥樣硬化相關剝離的理論之一是起始於穿透性潰湯
 
-
-aortic lumen
+### 診斷要點 / Diagnostic Key Points
+| 檢查方法 | 發現 |
+|---------|------|
+| **CT 血管造影（CTA）** | 對比劑潰湯超出主動腔的預期輪廓 |
+| 降主動 PAU | 可能在整個胸腹主動腔內發現多發潰湯 |
 
- Atherosclerotic plaque penetrates the intima.
- Atherosclerotic plaque ulcerates, allowing blood to extend into the media.
- PAU may cause the media to enlarge, leading to an aneurysm formation.
+### 鑑別診斷 / Differential Diagnosis
+| 疾病 | 區分特點 |
+|------|----------|
+| **PAU** | 潰湯超出主動腔預期輪廓 |
+| 單純性潰湯性粥樣硬化斑塊 | 不超出主動腔預期輪廓，屬慢性粥樣硬化 |
+| 主動剝離 | 有內膜瓣，真假腔交通 |
+| 壁內血腫 | 無潰湯，有弧形高密度血腫 |
 
-Axial contrast-enhanced CT shows multiple
-penetrating ulcers (arrows) in the descending
-aorta, extending beyond the expected contour of
-the aortic lumen.
+### 重要提醒 / Important Note
+- 粥樣硬化斑塊代表慢性疾病，**不屬於急性主動症候群**
+- 若發現 PAU，建議對整個主動腔進行成像
 
-•
-•
-
-•
-
-•
-
-Sagittal oblique gated contrast-enhanced CT in a
-different patient shows a penetrating atherosclerotic
-ulcer (arrow) of the ascending aorta, extending
-beyond the expected contour of the lumen.
-
-Penetrating atherosclerotic ulcer (PAU) is a focal defect in the intima that occurs at the
-site of an atherosclerotic plaque. PAU may lead to saccular aneurysm formation.
-In contrast to dissection and IMH, PAU tends to be caused by atherosclerosis rather
-than hypertension. One of the theories of dissection secondary to atherosclerosis is
-that it begins as a penetrating ulcer.
-On imaging, PAU appears as contrast ulcerating beyond the expected contour of
-the aortic wall. The primary differential would be a simple ulcerated atherosclerotic
-plaque, which would not extend beyond the expected contour of the aortic wall.
-Atherosclerotic plaque represents chronic atherosclerotic disease and is not an acute
-aortic syndrome.
-Multiple ulcers may be present throughout the thoracoabdominal aorta, and as with
-all acute aortic pathologies, imaging of the full aorta is recommended if a PAU is seen.
-
-664
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- PAU 在影像上表現為對比劑潰湯超出主動腔壁的預期輪廓
+- 與其他急性主動症候群不同，PAU 主要與粥樣硬化相關
+- 多發潰湯可能遍布整個胸腹主動腔
+- 所有急性主動病變都建議進行全主動腔成像

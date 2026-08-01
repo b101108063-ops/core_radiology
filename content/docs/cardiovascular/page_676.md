@@ -4,73 +4,60 @@ weight: 676
 ---
 # Cardiovascular Imaging - Page 676
 
-![Page 676](/core_radiology/images/cardiovascular/page-676.png)
+![Page 676](/core_radiology_hugo/content/docs/cardiovascular/page-676.png)
 
-## Text Content
+## 腹主動瘤 / Abdominal Aortic Aneurysm (AAA)
 
-```
-### PAGE 676 ###
-Abdominal aortic aneurysm
-Abdominal aortic aneurysm (AAA)
-Abdominal aortic aneurysm:
-Axial CT of the infrarenal
-aorta demonstrates a
-large, peripherally calcified
-abdominal aortic aneurysm
-(arrows) containing
-extensive mural thrombus.
-Case courtesy Michael
-Hanley, MD, University of
-Virginia Health System.
+### 疾病名稱 / Disease Name
+**腹主動瘤（Abdominal Aortic Aneurysm, AAA）** 是指腹主動局部病理性擴大，直徑 ≥3 cm。
 
-•
+### 流行病學 / Epidemiology
+| 項目 | 說明 |
+|------|------|
+| 發生率 | 老年男性可達 **5.9%**（至 80 歲）|
+| 性別差異 | 女性較少見 |
+| 死亡原因 | 破裂性腹主動瘤是老年男性第 **13 位** 死因 |
 
-Abdominal aortic aneurysm (AAA) is relatively prevalent in older men (seen in up to
-5.9% of men by age 80) and less common in women. Rupture of abdominal aortic
-aneurysm is the 13th leading cause of death in older men. Risk factors for development
-of an abdominal aortic aneurysm include age, male sex, smoking, and family history.
-• An abdominal aortic aneurysm is defined as an aortic diameter ≥3 cm. Similar to
-measurement of thoracic aortic aneurysms, double-oblique reformatted images
-should be used to obtain a true cross-sectional diameter. Volume measurement can
-also be used to monitor for endoleak on follow-up.
-• The natural history of abdominal aortic aneurysm is progressive enlargement and
-eventual rupture.
-The annual risk of rupture for an AAA between 5.5 and 5.9 cm is 9.4%.
-The annual risk of rupture for an AAA between 6.0 and 6.5 cm is 10.2%.
-The annual risk of rupture for an AAA between 6.5 and 6.9 cm is 19.2%.
-The annual risk of rupture for an AAA greater than 7 cm is 32.5%.
+### 風險因子 / Risk Factors
+- **年齡**、**男性**、**吸煙**、**家族史**
 
-•
+### 自然病史 / Natural History
+- AAA 的自然病程是逐漸擴大，最終破裂
 
-Ultrasound screening of high-risk patients is approved by Medicare in the US for patients
-older than age 65. If an aneurysm is detected on screening, follow-up is recommended:
-Aneurysm <4 cm: Follow-up in 6 months; if no change g annual surveillance.
-Aneurysm 4–4.5 cm: Follow-up in 6 months; if no change g 6-month surveillance.
-Aneurysm 5–5.5 cm: Consider surgery.
-Aneurysm >5.5 cm: Surgery recommended.
+### 年度破裂風險 / Annual Rupture Risk
+| AAA 直徑 | 年度破裂風險 |
+|---------|------------|
+| **5.5–5.9 cm** | 9.4% |
+| **6.0–6.5 cm** | 10.2% |
+| **6.5–6.9 cm** | 19.2% |
+| **>7 cm** | 32.5% |
 
-•
-•
-•
+### 超音波篩檢 / Ultrasound Screening
+| 對象 | 建議 |
+|------|------|
+| 年齡 >65 歲高風險患者 | Medicare 批准的超音波篩檢 |
 
-•
+### 追蹤與手術時機 / Follow-up and Surgical Timing
+| AAA 大小 | 建議 |
+|---------|------|
+| **<4 cm** | 6 個月後追蹤；無變化則每年監測 |
+| **4–4.5 cm** | 6 個月後追蹤；無變化則每 6 個月監測 |
+| **5–5.5 cm** | 考慮手術 |
+| **>5.5 cm** | 建議手術 |
 
-In addition to a size >5.5 cm, repair is recommended when the AAA is expanding at a
-rapid rate (>5 mm/year) or is symptomatic.
-The mortality of elective open AAA repair is >3%, while the mortality for urgent repair
-is 19%. A ruptured AAA has a mortality of at least 50%.
-Repair of abdominal aortic aneurysm can be performed with a traditional open or
-endovascular technique. Endovascular repair is preferred for patients with high
-surgical risks and is associated with reductions in major morbidity and hospital time.
-Long-term outcomes are equivalent between endovascular and open repair, but
-endovascular repair often requires repeat interventions.
-Complications of endovascular repair of AAA include rupture, dissection, infection,
-endoleak, and aorto-enteric fistula.
-667
+> ⚠️ 除了大小，手術適應症還包括：**年生長率 >5 mm/年** 或有症狀的 AAA。
 
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
+### 治療方式 / Treatment Options
+| 方式 | 優缺點 |
+|------|--------|
+| **傳統開放手術** | 選擇性手術死亡率 >3%；緊急手術死亡率 19% |
+| **血管內修復（EVAR）** | 適合高手術風險患者，減少重大併發症及住院時間；長期結果與開放手術相當，但常需再次介入 |
 
-
-```
+### 破裂預後 / Prognosis of Rupture
+- 破裂性 AAA 死亡率至少 **50%**
+
+### 臨床要點 / Clinical Key Points
+- AAA 直徑測量應使用**雙斜重建圖像**取得真正的橫截面直徑
+- 直徑越大，年度破裂風險越高
+- 破裂性 AAA 死亡率高，及早篩檢高風險人群至關重要
+- 血管內修復適合高手術風險患者，但常需再次介入治療
