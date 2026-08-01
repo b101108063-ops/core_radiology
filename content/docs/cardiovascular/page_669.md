@@ -6,88 +6,44 @@ weight: 669
 
 ![Page 669](/core_radiology/images/cardiovascular/page-669.png)
 
-## Text Content
+## 主動脈弓變異（續）/ Aortic Arch Variants (Continued)
 
-```
-### PAGE 669 ###
-Aberrant right subclavian
-right
-left
-right
-left
-common
-common
-vertebral
-vertebral
-carotid
-carotid
+### 迷行右鎖骨下动脉 / Aberrant Right Subclavian Artery
 
-right
-subclavian
+#### 疾病名稱 / Disease Name
+**迷行右鎖骨下动脉（Aberrant Right Subclavian Artery）** 是主動弓的先天性變異。
 
-left
-subclavian
-aortic arch
+#### 臨床特點 / Clinical Features
+| 項目 | 說明 |
+|------|------|
+| 發生率 | 約 **1%** |
+| 病理解剖 | 右鎖骨下动脉起源於主動弓，位於左鎖骨下动脉遠端，於食道後方繞行進入右臂 |
+| 症狀 | 大多數無症狀 |
+| 罕見併發症 | ** Dysphagia lusoria（吞嚥困難）**：因食道受壓迫引起 |
 
-ascending
-aorta
+#### 診斷要點 / Diagnostic Key Points
+- **鋇劑食道造影（Barium esophogram）**：食道後壁壓跡
+- **CT 頸部成像**：甲狀腺手術前需注意此變異
+- **重要注意**：若計劃甲狀腺手術，**喉返神經**不在正常位置，手術風險增加
 
-•
+#### 附加發現 / Additional Finding
+- **Kommerel 憩室（Diverticulum of Kommerel）**：迷行鎖骨下动脉起源處的小膨出
 
-•
+---
 
-descending
-aorta
+### 左椎动脉直接起源於主動脈 / Left Vertebral Artery Origin Directly from Aorta
 
-An aberrant right subclavian is seen in 1% of patients. The right subclavian artery
-arises directly from the aortic arch distal to the left subclavian and loops behind the
-esophagus on its way into the right arm.
-It is very uncommon for an aberrant right subclavian artery to cause symptoms, but this
-anomaly may rarely be a cause of dysphagia via esophageal compression, called dysphagia
-lusoria. Barium esophogram features a posterior indentation on the esophagus.
-Although usually incidental, it is important to mention the presence of an aberrant right subclavian
-artery when reading a neck CT. If thyroid surgery is planned, then the recurrent laryngeal nerve will
-not be in its usual location.
+#### 疾病名稱 / Disease Name
+**左椎动脉直接起源於主動弓（Aortic origin of the left vertebral artery）** 是一種四血管主動弓變異。
 
-•
+#### 臨床特點 / Clinical Features
+| 項目 | 說明 |
+|------|------|
+| 發生率 | 約 **6%** |
+| 分支順序 | 左椎动脉為主動弓第三分支（在左鎖骨下动脉近端）|
+| 正常型態 | 左椎动脉通常起源於左鎖骨下动脉 |
 
-A diverticulum of Kommerel represents a small bulge at the origin of the aberrant
-subclavian artery.
-
-Left vertebral origin off aorta
-right
-left
-right
-left
-common
-common
-vertebral
-vertebral
-carotid carotid
-
-right
-subclavian
-brachiocephalic
-
-left
-subclavian
-aortic arch
-
-descending
-aorta
-
-ascending
-aorta
-
-•
-
-A four vessel arch with direct origin of the vertebral artery off of the aorta is seen in 6% of
-the population. The left vertebral is the third aortic branch, proximal to the left subclavian.
-660
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 迷行右鎖骨下动脉大多為偶然發現，影像報告中應註明
+- 甲狀腺或頸部手術前需確認有無此變異
+- 左椎动脉直接起源於主動弓為相對常見的變異，發生率約 6%

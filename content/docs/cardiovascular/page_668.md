@@ -6,85 +6,30 @@ weight: 668
 
 ![Page 668](/core_radiology/images/cardiovascular/page-668.png)
 
-## Text Content
+## 主動脈解剖 / Aortic Anatomy
 
-```
-### PAGE 668 ###
-Aortic anatomy
-Aortic arch and variants
-Normal aortic arch branching
-right
-left
-right common common
-vertebral carotid carotid
-thyrocervical
-trunk
-right
-subclavian internal
-mammary
+### 主動脈弓及變異 / Aortic Arch and Variants
 
-thyrocervical
-trunk
+#### 正常主動脈弓分支 / Normal Aortic Arch Branching
 
-brachiocephalic
+| 分支名稱 | 說明 |
+|---------|------|
+| **無名动脉（Brachiocephalic trunk）** | 主動(direction)弓第一分支 |
+| **左總頸动脉（Left common carotid artery）** | 主動弓第二分支 |
+| **左鎖骨下动脉（Left subclavian artery）** | 主動弓第三分支 |
 
-left
-subclavian
-aortic arch
+- **正常主動弓分支型態**佔 **66%** 的人口
 
-ascending
-aorta
+#### 常見變異：無名动脉與左總頸动脉共同起源 / Common Variant: Common Origin of Brachiocephalic and Left Common Carotid
 
-•
+| 特徵 | 說明 |
+|------|------|
+| 發生率 | 約 **13%**（黑人中更常見）|
+| 變異內容 | 無名动脉與左總頸动脉共同起源 |
+| 命名爭議 | 常被錯誤稱為「牛主動弓（bovine aortic arch）」，但此為誤稱 |
+| 真正牛主動弓 | 牛隻的主動弓僅有單一粗大血管起源 |
 
-left
-vertebral
-
-internal
-mammary
-
-descending
-aorta
-
-The normal aortic branching pattern is seen 66% of the time and features three
-arteries arising from the aortic arch: Brachiocephalic trunk (inominate artery), left
-common carotid, and left subclavian artery.
-
-Common origin of the brachiocephalic artery and left common carotid artery
-right
-left
-right
-left
-vertebral common common
-carotid carotid vertebral
-
-right
-subclavian
-
-left
-subclavian
-
-brachiocephalic
-aortic arch
-
-descending
-aorta
-
-ascending
-aorta
-
-•
-
-A common origin of the brachiocephalic artery and left common carotid artery is seen
-in 13% of patients (more commonly in blacks) and is often incorrectly referred to as
-a “bovine aortic arch.” The term “bovine aortic arch” is a misnomer and is not the
-preferred description of this anomaly, as a true bovine arch in cattle features a single
-great vessel arising from the aortic arch.
-659
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 「牛主動弓」一詞為誤稱，建議描述為「無名动脉與左總頸动脉共同起源」
+- 此變異在黑人族群中更常見
+- 影像報告中應清楚描述分支型態以供外科手術規劃參考

@@ -6,87 +6,60 @@ weight: 670
 
 ![Page 670](/core_radiology/images/cardiovascular/page-670.png)
 
-## Text Content
+## 急性主動脈症候群 / Acute Aortic Syndrome
 
-```
-### PAGE 670 ###
-Acute aortic syndrome
-Overview of acute aortic syndrome
-•
+### 概述 / Overview
 
-•
-•
-•
-•
-•
+#### 疾病定義 / Disease Definition
+**急性主動脈症候群（Acute Aortic Syndrome）** 是一組以主動脈壁損傷為特徵的相關疾病，臨床上以嚴重胸痛為主要表現。
 
-Acute aortic syndrome represents a clinical spectrum of three related diseases
-that are characterized by damage to at least one component of the aortic wall, and
-presents as severe chest pain.
-A defect primarily in the intima is seen in penetrating atherosclerotic ulcer (PAU).
-A defect in the media only describes intramural hematoma (IMH).
-A defect in the intima extending to media is the hallmark of aortic dissection.
-A defect in all three layers (aortic transection) is almost always due to trauma and is
-considered a separate entity.
-The treatment of acute aortic syndrome depends primarily on the location (ascending
-versus descending aorta) and is often the same regardless of the underlying etiology.
-Ascending aorta: Treatment is most commonly surgical.
-Descending aorta: Treatment is most commonly medical (blood pressure control).
+#### 疾病分類 / Disease Classification
+| 疾病類型 | 病理機制 | 主要缺陷層面 |
+|---------|---------|-------------|
+| **穿透性粥樣硬化潰瘍（PAU）** | 內膜缺陷 | 內膜（intima）|
+| **壁內血腫（IMH）** | 僅中膜受損 | 中膜（media）|
+| **主動脈剝離（Aortic Dissection）** | 內膜延伸至中膜 | 內膜＋中膜 |
+| **主動脈離斷（Aortic Transection）** | 三層皆受損 | 全層（外傷造成）|
 
-•
+#### 治療原則 / Treatment Principles
+| 病灶位置 | 治療方式 |
+|---------|---------|
+| **升主動脈（Ascending aorta）** | 手術治療為主 |
+| **降主動脈（Descending aorta）** | 內科治療為主（血壓控制）|
 
-Imaging of the full aorta is generally required in any acute aortic pathology.
+> ⚠️ 任何急性主動脈病變通常需要完整主動脈成像。
 
-Aortic dissection
-Dissection
+---
 
-adventitia
-media
-intima
+### 主動脈剝離 / Aortic Dissection
 
-
+#### 病理機制 / Pathophysiology
+1. **內膜破裂**（通常因粥樣硬化斑塊潰瘍、外傷或动脉瘤）
+2. 形成**內膜-中膜瓣（intimomedial flap）**
+3. 血液進入中膜形成**假腔（false lumen）**
+4. 假腔內血流較慢，容易血栓形成
+5. 血液經**再入口撕裂（re-entry tear）**離開假腔
 
-
+#### 風險因子 / Risk Factors
+| 因子 | 說明 |
+|------|------|
+| **高血壓** | 最常見風險因子 |
+| 結締組織疾病 | 特別是**馬凡氏症候群（Marfan syndrome）** |
+| 藥物使用 | 古柯鹼 |
+| 先天性血管病變 | **雙葉主動脈瓣（bicuspid aortic valve）**相關血管病變 |
+| 其他 | 重量訓練、突然減速傷害 |
 
-
+#### Stanford 分型 / Stanford Classification
+| 分型 | 定義 | 治療方式 |
+|------|------|---------|
+| **Type A** | 病灶涉及升主動脈（± 降主動脈）| 手術治療 |
+| **Type B** | 僅涉及降主動脈 | 內科治療 |
 
-false lumen
+#### 重要鑑別 / Important Note
+- 粥樣硬化相關的主動剝離**較常見於 Type B（降主動脈）**
 
-
-
-
-
-true lumen
-
- Intima is disrupted, typically by an ulcerative plaque, trauma, or aneurysm.
- An intimomedial flap is created.
- The media is “dissected” and expanded by either the false lumen (if blood is flowing) or intramural hematoma (if filled with clot).
- Blood flow is slower in the false lumen, leading to thrombosis.
- Blood exits the false lumen via a re-entry tear. Typically, the re-entry tear obstructs the outflow leading to higher pressures in the
-false lumen. This pressure differential contributes to compression of the true lumen and differences in contrast
-opacification between the true and false lumens.
-
-•
-•
-
-•
-
-The key feature of dissection is a disruption in the intima, which allows high-pressure
-blood to infiltrate and expand the media.
-The most common risk factor for aortic dissection is hypertension, but other risk
-factors include connective tissue disorders (especially Marfan syndrome), cocaine
-use, aortopathy associated with a bicuspid aortic valve, weight lifting, and sudden
-deceleration injury.
-The classification of aortic dissection is the Stanford classification, which divides
-dissection into types A (ascending aorta) and B (non-ascending aorta). Type A is
-typically treated surgically, and type B is typically treated medically.
-Aortic dissection secondary to atherosclerosis is more commonly type B (descending aorta).
-
-661
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 主動剝離的關鍵特徵是內膜中斷，高壓血流滲入並擴張中膜
+- 高血壓是最重要的風險因子
+- 治療方式取決於病灶位置（升主動脈 vs. 降主動脈），而非病因
+- 完整主動脈成像是急性主動脈病變的必要檢查
