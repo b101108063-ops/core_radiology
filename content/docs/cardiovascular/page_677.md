@@ -6,46 +6,37 @@ weight: 677
 
 ![Page 677](/core_radiology/images/cardiovascular/page-677.png)
 
-## Text Content
+## 腹主動瘤 - 內漏 / AAA - Endoleaks
 
-```
-### PAGE 677 ###
-Abdominal aortic aneurysms - Endoleaks
-•
+### 疾病名稱 / Disease Name
+**內漏（Endoleak）** 是指在血管內修復術（EVAR）後，支架 graft 排除的动脉瘤囊內仍有持續血流灌注。
 
-An endoleak is persistent flow into an excluded aneurysm sac after endovascular
-treatment with a stent graft.
+### 分型系統 / Classification System
 
-Type I endoleak: Inadequate seal of graft
+#### Type I 內漏：Graft 密封不良 / Type I Endoleak: Inadequate Seal
+| 亞型 | 說明 |
+|------|------|
+| **Type IA** | 近端密封不良 |
+| **Type IB** | 遠端密封不良 |
 
-•
+- **機制**：Graft 與主動壁之間密封不完整，使血液進入被隔離的动脉瘤囊
+- **處理**：需要積極治療（通常需手術或血管內修復）
 
-Type I endoleak is inadequate graft seal. Type IA is a proximal leak and IB is distal.
-Type IA endoleak: Inadequate proximal seal
-allows blood into the excluded aneurysm sac.
+#### Type II 內漏：側支血流持續灌注 / Type II Endoleak: Persistent Collateral Flow
+| 項目 | 說明 |
+|------|------|
+| 常見來源 | 腰动脉（Lumbar arteries）、下腸繫膜动脉（IMA）|
+| 機制 | 側支循環使血液持續流入被隔離的动脉瘤囊 |
+| 特點 | 通常為良性，但需監測 |
 
-Inadequate proximal seal leads to enhancement
-in the proximal aneurysm sac (yellow arrow).
+### 內漏總覽 / Endoleak Summary
+| 類型 | 機制 | 處理原則 |
+|------|------|---------|
+| **Type I** | Graft 密封不良 | 積極治療（再介入）|
+| **Type II** | 側支血流 | 監測為主，若持續或增加則治療 |
 
-Type II endoleak: Persistent collateral flow to excluded aneurysm
-
-•
-
-Type II endoleak is persistent collateral flow to the excluded aneurysm sac, which
-typically arises from the lumbar arteries or the inferior mesenteric artery (IMA).
-Type II endoleak: Communication from either
-the IMA or a lumbar artery causes blood to flow
-into the excluded aneurysm sac.
-
-668
-
-Axial image shows focal enhancement in the
-excluded aneurysm sac (yellow arrow), with faint
-communication (red arrow) leading to the IMA.
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- **Type I 內漏** 因密封不良，血液持續進入动脉瘤囊，破裂風險高，需要積極治療
+- **Type II 內漏** 來自側支血流（腰动脉或 IMA），通常預後較好，但仍需長期監測
+- EVAR 術後需定期影像追蹤（CT 或超音箱）以早期發現內漏
+- 內漏不及時處理可能導致动脉瘤囊持續增大及破裂
