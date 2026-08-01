@@ -6,61 +6,42 @@ weight: 693
 
 ![Page 693](/core_radiology/images/cardiovascular/page-693.png)
 
-## Text Content
+## 人工瓣膜影像 / Imaging of Prosthetic Valves
 
-```
-### PAGE 693 ###
-Imaging of prosthetic valves
+### 瓣膜位置關係 / Valve Position Relationships
 
-A
+#### 側面 X 光上的瓣膜定位 / Valve Localization on Lateral Radiograph
+| 瓣膜 | 位置描述 |
+|------|---------|
+| **主動脈瓣（Aortic valve）** | 中心位於從胸骨-橫膈交界處至氣管分歧部的連線上 |
+| **三尖瓣（Tricuspid valve）** | 位於二尖瓣的右側及前方 |
+| **肺動脈瓣（Pulmonic valve）** | 位置最高、最靠左側 |
+| **二尖瓣（Mitral valve）** | 位於三尖瓣的左側及後方 |
 
-A
-M
+#### 心動周期中的瓣膜狀態 / Valve State During Cardiac Cycle
+- 房室瓣（二尖瓣及三尖瓣）在**舒張期開放**
 
-T
+---
 
-M
+### 影像評估要點 / Imaging Evaluation Key Points
 
-T
+#### 位置關係 / Positional Relationships
+| 瓣膜對 | 位置關係 |
+|--------|---------|
+| 三尖瓣 vs. 二尖瓣 | 三尖瓣在右側及前方 |
+| 二尖瓣 vs. 主動脈瓣 | 二尖瓣在後方 |
+| 肺動脈瓣 vs. 所有其他瓣膜 | 最高、最左側 |
 
-Prosthetic aortic (A), mitral (M), and tricuspid (T) valves. Note that on the lateral radiograph (right
-image) the aortic valve is located on a plane drawn from the sternal/diaphragmatic junction and the
-carina (yellow line).
+#### 評估挑戰 / Evaluation Challenges
+| 挑戰 | 說明 |
+|------|------|
+| 心腔擴大 | 可能使瓣膜位置偏離正常 |
+| 心臟旋轉 | 可能影響瓣膜的相對位置 |
 
-P
-P
-
-A
-
-A
-
-T
-
-T
-
-Prosthetic aortic (A), pulmonic (P), and tricuspid (T) valves in a different patient. The tricuspid
-prosthesis is a ring annuloplasty. The aortic valve is seen on the plane connecting the sternal/
-diaphragmatic junction with the carina on the lateral radiograph.
-
-•
-•
-•
-•
-•
-
-On the lateral radiograph, the aortic valve is centered on the plane drawn from the
-sternal/diaphragmatic junction and the carina.
-The tricuspid valve is to the right and anterior to the mitral valve.
-The pulmonic valve is the most superior and most leftward valve.
-Evaluation of prosthetic valves can be challenging in patients with abnormal chamber
-enlargement or cardiac rotation.
-The atrioventricular valves (mitral and tricuspid) are open in diastole.
-
-684
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 側面 X 光是評估人工瓣膜位置的關鍵投影
+- 主動脈瓣位於從胸骨-橫膈交界處至氣管分歧部的連線上
+- 三尖瓣位於二尖瓣的右側及前方（而非左側及後方）
+- 肺動脈瓣是所有瓣膜中位置最高且最靠左側的
+- 房室瓣在舒張期開放，這對理解心臟血流動力學很重要
+- 心腔擴大或心臟旋轉可能使瓣膜位置的評估更具挑戰性
