@@ -6,63 +6,59 @@ weight: 662
 
 ![Page 662](/core_radiology/images/cardiovascular/page-662.png)
 
-## Text Content
+## 超音波導引囊腫抽吸 / Ultrasound-Guided Cyst Aspiration
 
-```
-### PAGE 662 ###
-Ultrasound-guided cyst aspiration
+### 適應症 / Indications
+- 影像懷疑的囊腫需要抽吸時
 
-•
+### 技術要點 / Technical Points
+| 項目 | 說明 |
+|------|------|
+| 針具 | 20- 或 18-gauge 針頭連接標準注射器 |
+| 方法 | 類似核心針切片技術 |
+| 目標 | 瞄準囊腫進行抽吸 |
 
-•
+### 囊腫液評估 / Cyst Aspirate Evaluation
+| 抽出液外觀 | 處理方式 |
+|-----------|----------|
+| 血性 | 送細胞學檢查 |
+| 透明 | 送細胞學檢查 |
+| 綠色、灰色、黃色、雲霧狀 | 良性外觀，可丟棄 |
 
-The procedure for ultrasound-guided cyst aspiration is similar to that of a core
-needle biopsy. Instead of employing a spring-loaded biopsy gun, a standard syringe is
-attached to a 20- or 18-gauge needle and the targeted cyst is aspirated.
-The cyst aspirate should be sent for cytology if bloody or clear. Benign-appearing
-aspirate, which may be green, grey, yellow, or cloudy, may be discarded. Note that
-only benign-appearing cysts should be aspirated. A complex mass should be biopsied
-with a core device.
+### 重要提醒 / Important Note
+- **僅抽吸良性外觀囊腫**
+- 複雜性腫塊（complex mass）需使用核心切片裝置進行切片
 
-Stereotactic-guided core biopsy
+---
 
-Stereotactic biopsy of calcifications:
-Paired 15-degree oblique pre-fire images (top
-images)show the targeted calcifications (arrows)
-with appropriate position of the biopsy device.
-Specimen radiograph confirms that the targeted
-calcifications are present within the specimen
-(arrow).
+## 傳統立體定位切片 / Stereotactic-Guided Core Biopsy
 
-•
+### 適應症 / Indications
+- **首選適應症**：顯微鈣化（calcifications）的切片
+- 其他應用：僅在一個 view 可见的病灶，或乳房攝影可見但超音箱未見的腫塊
 
-•
+### 設備類型 / Equipment Types
+| 類型 | 優點 |
+|------|------|
+| 俯臥式切片台（Prone table） | 消除血管迷走性暈厥風險 |
+| 坐姿式立體定位裝置（Seated upright） | 成本較低、患者舒適度較佳 |
 
-•
+### 禁忌症 / Contraindications
+| 禁忌 | 說明 |
+|------|------|
+| 乳房太薄（壓迫厚度 <3 cm）| 可用細針頭（petite needles）至 22 mm |
+| 位置過深或乳頭下 | 不適合 |
+| 無法配合俯臥姿勢 | 考量坐姿式 |
+| 凝血功能未獲控制 | 需先矫正 |
+| 常规阿司匹林或氯吡格雷使用 | **非禁忌症** |
 
-•
-•
+### 技術要點 / Technical Points
+- 整個程序中乳房保持壓迫固定
+- 取得病灶兩側各 15° 的立體 spot view（一對 30° 範圍內）
+- 由電腦計算三維空間中的實際路徑
 
-Stereotactic guidance is employed most commonly to biopsy calcifications. Less
-commonly, a stereotactic approach can be used to sample a mammographic finding
-seen only in one view or a mammographic mass not seen on ultrasound.
-Stereotactic biopsy tables can be prone or seated upright. The advantage of a prone
-table is elimination of risk from vasovagal syncope. The seated stereotactic apparatus
-is less expensive and may offer greater patient comfort.
-Contraindications to stereotactic biopsy include a very thin breast measuring <3 cm
-compressed (although petite needles are available to sample lesions in breasts as
-thin as 22 mm), far posterior or subareolar location, inability to be positioned on
-the stereotactic table, and uncontrolled coagulation abnormality. Routine aspirin or
-clopidogrel use is not a contraindication.
-The breast is immobilized in compression during the entire procedure.
-Paired stereo spot views of the target are obtained 15° to each side (30° apart) relative
-to the needle path. Once targeting is confirmed by the radiologist, the actual needle
-path in three-dimensional space is calculated by computer.
-653
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:26:14 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.009
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 立體定位切片是顯微鈣化切片的首選方法
+- 術中標本 X 光片（specimen radiograph）可確認目標鈣化存在於樣本中
+- 阿司匹林及氯吡格雷不需停藥
+- 不一致結果需再次切片

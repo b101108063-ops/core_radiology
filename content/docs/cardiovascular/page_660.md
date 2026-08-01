@@ -6,52 +6,57 @@ weight: 660
 
 ![Page 660](/core_radiology/images/cardiovascular/page-660.png)
 
-## Text Content
+## 男性乳腺疾病 / Male Breast Disease
 
-```
-### PAGE 660 ###
-Male breast disease
-Gynecomastia
+### 男性女乳症 / Gynecomastia
 
-Gynecomastia: Bilateral MLO mammogram (left image) shows a flame-shaped density in the right
-breast (arrows) in the subareolar region. The left breast is normal. Ultrasound shows a fan-shaped
-geographic region of subareolar shadowing surrounded by normal breast tissue.
+#### 疾病名稱 / Disease Name
+**男性女乳症（Gynecomastia）** 是指男性乳腺良性腺體組織增生，是男性評估乳腺症狀時最常見的診斷。
 
-•
+#### 臨床特點 / Clinical Features
+- 表現為乳頭下可觸及腫塊
+- 常見原因：
+  - 肝硬化
+  - 藥物（抗高血壓藥、抗抑鬱藥）
+  - 大麻
+  - 腦下垂體激素功能障礙
+  - 激素分泌性腫瘤
 
-•
-•
+#### 診斷要點 / Diagnostic Key Points
+- **乳房攝影（Mammography）**：
+  - 典型表現：火焰狀或三角形**乳頭下密度（subareolar density）**
+  - 診斷特異性高
+- **超音波（Ultrasound）**：
+  - 表現多變，可能具誤導性
+  - 若乳房攝影已具診斷性，一般不需超音箱檢查
 
-Gynecomastia is the benign development of glandular tissue in a male. It is the most
-common diagnosis of males evaluated for a focal breast complaint and clinically
-presents with a subareolar palpable abnormality.
-Gynecomastia may be due to cirrhosis, drugs (including antihypertensives and
-antidepressants), marijuana, pituitary hormone dysfunction, or a hormone-producing tumor.
-The typical mammographic appearance is a flame-shaped or triangular subareolar density.
-Mammography is sufficiently diagnostic. The ultrasound appearance is variable and may
-be misleading. Ultrasound is generally avoided if the mammographic views are diagnostic.
+---
 
-Male breast cancer
+### 男性乳癌 / Male Breast Cancer
 
-Male breast cancer: Left MLO and CC views to evaluate a palpable finding (marked cutaneously by
-the triangle) show a round mass (arrows) with obscured margins in the slightly upper outer breast.
-Ultrasound shows a round mass with an angular margin (red arrow) and heterogeneous internal echoes.
-Case courtesy Christine Denison, MD, Brigham and Women’s Hospital.
+#### 疾病名稱 / Disease Name
+**男性乳癌（Male Breast Cancer）** 佔所有乳癌不到 1%，多好發於 60 歲以上男性。
 
-•
-•
+#### 臨床特點 / Clinical Features
+- 主要臨床表現為可觸及腫塊
+- 年齡通常大於 60 歲
+- 預後較女性乳癌差（因確診常延遲）
 
-Male breast cancer accounts for less than 1% of all breast cancers. It tends to affect
-men greater than 60 years of age and clinically presents as a palpable mass.
-While the typical appearance of male breast cancer is a spiculated mass, it is important
-to remember that a benign male breast mass is very rare and any breast mass in a
-male should be regarded with suspicion. Breast cancer may occasionally present as a
-round, circumscribed mass, which is just as suspicious as a spiculated mass.
-651
+#### 診斷要點 / Diagnostic Key Points
+- **典型影像表現**：毛刺狀腫塊（spiculated mass）
+- **重要提醒**：男性良性乳腺腫塊極為罕見，任何乳腺腫塊都應高度懷疑惡性
+- 乳癌偶可表現為圓形、邊界清楚的腫塊，其可疑程度與毛刺狀腫塊相當
+- 超音波可見邊緣角度異常（angular margin）、內部迴聲不均勻
 
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:26:14 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.009
-Cambridge Books Online © Cambridge University Press, 2013
+#### 鑑別診斷 / Differential Diagnosis
+| 診斷 | 區分特點 |
+|------|----------|
+| 男性女乳症 | 火焰狀/三角形乳頭下密度、雙側、病史 |
+| 男性乳癌 | 單側、不規則腫塊、毛刺邊緣、年長男性 |
+| 乳頭下脂肪墊 | 質地均勻、侷限於乳頭下區域 |
 
-
-```
+### 臨床要點 / Clinical Key Points
+- 男性乳癌雖然罕見，但任何男性乳腺腫塊都應積極評估
+- 乳房攝影對男性女乳症已具診斷價值，無需常規超音箱
+- 乳癌在男性也可能表現為圓形、邊界清楚的腫塊
+- 年齡大於 60 歲、出現可觸及腫塊應高度警覺

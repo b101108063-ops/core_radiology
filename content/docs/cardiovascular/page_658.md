@@ -6,41 +6,34 @@ weight: 658
 
 ![Page 658](/core_radiology/images/cardiovascular/page-658.png)
 
-## Text Content
+## 囊外矽膠植入物破裂 / Extracapsular Silicone Implant Rupture
 
-```
-### PAGE 658 ###
-Extracapsular silicone implant rupture
+### 疾病名稱 / Disease Name
+**囊外矽膠植入物破裂（Extracapsular Silicone Implant Rupture）** 是指植入物破裂且矽膠滲漏至乳腺實質內。
 
-•
+### 臨床特點 / Clinical Features
+- 囊外破裂可在乳房攝影上表現為高密度矽膠延伸至囊外
+- 矽膠進入乳腺組織，形成**矽膠肉芽腫（silicone granuloma）**
+- 超音波檢查可見游離矽膠呈現典型**「雪暴徵象（snowstorm appearance）」**
 
-•
+### 診斷要點 / Diagnostic Key Points
+- **乳房攝影（Mammography）**：
+  - 高密度矽膠延伸至囊外
+  - MLO 標準 view 可見植入物後移位
+  - 植入物位移 CC view 可更清楚顯示乳腺內高密度矽膠肉芽腫範圍
+- **超音波（Ultrasound）**：
+  - 迴聲性陰影腫塊
+  - 典型雪暴徵象
+  - 可測量病灶大小
 
-Extracapsular rupture of a silicone implant may be evident on mammography as
-high density silicone extending beyond the edge of the capsule into the breast
-parenchyma.
+### 鑑別診斷 / Differential Diagnosis
+| 診斷 | 區分特點 |
+|------|----------|
+| 囊內破裂 | 植入物內輪廓異常，無遊離矽膠外滲 |
+| 乳腺惡性腫瘤 | 形狀不規則、邊緣毛刺、較強的陰影 |
+| 矽膠肉芽腫 | 為囊外破裂的後續表現 |
 
-Extracapsular rupture: Standard MLO mammogram (left image) shows a retropectoral implant
-and frank extravasation of high density silicone into the breast parenchyma (arrows). The implantdisplaced CC mammogram better shows the extent of the high density intraparenchymal silicone
-granulomas.
-
-On ultrasound, extracapsular silicone rupture causes free silicone to appear in the
-breast parenchyma, which has a classic snowstorm appearance on ultrasound.
-
-Extracapsular rupture of silicone implant:
-Ultrasound shows an echogenic,
-shadowing mass with a classic snowstorm
-appearance (calipers), suggestive of
-silicone granuloma from extracapsular
-rupture.
-Case courtesy Christine Denison, MD,
-Brigham and Women’s Hospital.
-
-649
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:26:14 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.009
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 囊外破裂比囊內破裂更具臨床重要性，因矽膠渗入組織可引起發炎反應
+- 超音波雪暴徵象是囊外破裂的特徵性表現
+- 影像引導下切片可確診並排除惡性
