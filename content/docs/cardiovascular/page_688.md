@@ -6,74 +6,43 @@ weight: 688
 
 ![Page 688](/core_radiology/images/cardiovascular/page-688.png)
 
-## Text Content
+## 延遲增強 MRI（續）/ Delayed Enhancement MRI (Continued)
 
-```
-### PAGE 688 ###
-Transmural delayed enhancement
-Transmural delayed enhancement due to
-infarct:
-Delayed contrast-enhanced short-axis
-cardiac MRI shows transmural enhancement
-(arrows) of the inferior wall of the left
-ventricle, consistent with transmural
-infarction in the right coronary artery
-territory.
-Case courtesy Michael Hanley, MD, University
-of Virginia Health System.
+### 透壁性延遲增強 / Transmural Delayed Enhancement
 
-•
-•
-•
+#### 疾病名稱 / Disease Name
+**透壁性延遲增強（Transmural Delayed Enhancement）** 代表全層心肌厚度皆有的延遲增強。
 
-Ischemic-type delayed enhancement may involve the endocardium only or may be
-transmural. Transmural enhancement extends across the entire myocardial thickness.
-Transmural delayed enhancement represents nonviable scar from prior transmural infarct.
-Evaluation of the cine images will usually demonstrate hypokinesis in the region of
-abnormal delayed enhancement.
+#### 臨床特點 / Clinical Features
+| 項目 | 說明 |
+|------|------|
+| 機制 | 全層疤痕組織（ prior transmural infarct 的不可逆損傷）|
+| 電影 MRI 發現 | 異常延遲增強區域通常有運動減退（hypokinesis）|
 
-Delayed enhancement: Nonischemic
-•
+#### 與心內膜下增強的關係 / Relationship to Subendocardial Enhancement
+- 缺血性延遲增強可僅涉及心內膜或為透壁性
+- **透壁性增強**：横跨整層心肌厚度
+- **心內膜下增強**：僅涉及心內膜層
 
-Delayed enhancement not following a vascular territory is not due to ischemia.
-Several distinct patterns of nonischemic delayed enhancement have been described.
+---
 
-Mid-myocardial delayed enhancement
-Mid-myocardial delayed enhancement due
-to Chagas disease:
-Delayed contrast-enhanced short-axis
-cardiac MRI shows patchy mid-myocardial
-enhancement (arrows) throughout the left
-ventricle myocardium. This is a nonischemic
-distribution, but is nonspecific.
-Case courtesy Michael Hanley, MD, University
-of Virginia Health System.
+### 非缺血性延遲增強 / Nonischemic Delayed Enhancement
 
-•
+#### 疾病概述 / Disease Overview
+- 延遲增強**不遵循血管分佈**即非缺血性
+- 多種非缺血性延遲增強模式已被描述
 
-Dilated cardiomyopathy (DCM) is the most common nonischemic cardiomyopathy. Most
-commonly idiopathic, DCM may also be caused by alcohol abuse, myocarditis, or drug
-toxicity. MRI imaging of DCM will show mid-myocardial delayed enhancement. Additional
-MRI findings of DCM include diffuse chamber enlargement and reduced ejection fraction.
-• Sarcoidosis is a systemic disease of noncaseating granulomas with cardiac manifestations
-of arrhythmias, left ventricular dysfunction, and restrictive cardiomyopathy. Cardiac
-findings are usually seen in conjunction with other manifestations of sarcoid, including
-lung disease and adenopathy. Cardiac MRI of sarcoid typically shows either midmyocardial or subepicardial delayed enhancement in a nodular or patchy pattern.
-• Chagas disease is caused by the protozoan Trypanosoma cruzi, and can lead to a
-cardiomyopathy. On cardiac MRI, there is typically epicardial or mid-myocardial
-delayed enhancement, which can be seen even before the development of symptoms.
-• Hypertrophic cardiomyopathy is characterized by abnormal left ventricular
-myocardial thickening without dilation. Pathologic thickening may be diffuse or focal.
-In severe cases, hypertrophic cardiomyopathy may be a cause of sudden death. On
-cardiac MRI, there can be mid-myocardial delayed enhancement in the regions of
-hypertrophied myocardium and at the junctions of the interventricular septum and
-the right ventricular free wall, due to myofibril disarray. Evaluation of the cine images
-will show reduced diastolic filling of the left ventricle.
-679
+#### 心肌中層增強 / Mid-Myocardial Delayed Enhancement
 
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
+| 疾病 | 說明 |
+|------|------|
+| **擴張型心肌病（DCM）** | 最常見的非缺血性心肌病變；多為特發性，也可由酒精濫用、心肌炎或藥物毒性引起；MRI 顯示心肌中層延遲增強，伴有心腔擴大和射血分數降低 |
+| **結節病（Sarcoidosis）** | 非乾酪性肉芽腫的全身性疾病；心臟表現包括心律不整、左心室功能障礙、限制性心肌病變；典型 MRI 發現為結節或片狀分佈的心肌中層或心外膜下延遲增強 |
+| **Chagas 病** | 由原生動物錐蟲引起；可導致心肌病變；MRI 可見心外膜或心肌中層延遲增強，可在症狀出現前早期發現 |
+| **肥厚型心肌病（HCM）** | 特徵為左心室心肌異常增厚而無擴張；嚴重者可為猝死原因；MRI 可見肥厚區域及室間隔與右心室游離壁交界處的心肌中層延遲增強（因肌原纖維排列紊亂）；電影 MRI 顯示左心室舒張功能障礙 |
 
-
-```
+### 臨床要點 / Clinical Key Points
+- **透壁性延遲增強**代表全層疤痕，代表既往透壁性心肌梗塞
+- 非缺血性延遲增強的關鍵特點是**不遵循血管分佈**
+- DCM 最常見的非缺血性心肌病，MRI 有心肌中層增強及心腔擴大
+- HCM 嚴重者可導致猝死，MRI 有助評估

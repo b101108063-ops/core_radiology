@@ -6,79 +6,47 @@ weight: 689
 
 ![Page 689](/core_radiology/images/cardiovascular/page-689.png)
 
-## Text Content
+## 非缺血性延遲增強（續）/ Nonischemic Delayed Enhancement (Continued)
 
-```
-### PAGE 689 ###
-Epicardial/subepicardial delayed enhancement
+### 心外膜下延遲增強 / Epicardial/Subepicardial Delayed Enhancement
 
-•
+#### 相關疾病 / Related Diseases
+| 疾病 | 說明 |
+|------|------|
+| **心肌炎（Myocarditis）** | 心肌炎症；最常見原因為病毒感染，其次為自體免疫疾病和藥物毒性；心外膜下延遲增強為典型表現，伴有受影響區域的室壁運動異常 |
+| **Chagas 病** | 可引起心外膜或心肌中層延遲增強 |
+| **結節病** | 可引起心肌中層或心外膜下延遲增強（結節或片狀）|
 
-•
-•
+---
 
-Myocarditis is inflammation of the myocardium, which may be secondary to multiple
-causes. Viral infection is the most common cause of myocarditis, followed by autoimmune
-disorders and drug toxicity. In addition to subepicardial delayed enhancement, cardiac MRI
-of myocarditis also shows wall motion abnormalities in the affected regions.
-Chagas disease may cause epicardial or mid-myocardial delayed enhancement.
-Sarcoidosis may cause either mid-myocardial or subepicardial delayed enhancement
-in a nodular or patchy pattern.
+### 環形心內膜下延遲增強 / Circumferential Subendocardial Delayed Enhancement
 
-Circumferential subendocardial delayed enhancement
+#### 相關疾病 / Related Diseases
+| 疾病 | 說明 |
+|------|------|
+| **類澱粉沉積症（Amyloidosis）** | 醣蛋白沉積於細胞外間隙的疾病；心臟表現為雙心室心肌增厚，導致瀰漫性心室心內膜下延遲增強 |
+| **心臟移植患者** | 可見環形心內膜下延遲增強，病理上與心肌纖維化相關 |
 
-•
+---
 
-•
+### 延遲增強 MRI 總結 / Summary of Delayed Enhancement MRI
 
-Amyloidosis is a disorder of glycoprotein deposition throughout the extracellular
-spaces. In the heart, amyloidosis causes biventricular myocardial thickening, which
-leads to diffuse ventricular subendocardial delayed enhancement.
-Cardiac transplant patients may demonstrate circumferential subendocardial delayed
-enhancement, thought to correlate with the presence of myocardial fibrosis pathologically.
+#### 缺血性 / Ischemic
+| 分型 | 說明 |
+|------|------|
+| **心內膜下（Subendocardial）** | 心內膜下心肌梗塞 |
+| **透壁性（Transmural）** | 透壁性心肌梗塞 |
 
-Summary of delayed enhancement MRI
-Delayed enhancement MRI
+#### 非缺血性 / Nonischemic
+| 分型 | 相關疾病 |
+|------|---------|
+| **心肌中層（Mid-myocardial）** | 擴張型心肌病、心肌炎、結節病、Chagas 病 |
+| **心外膜下（Epicartial）** | 心肌炎、結節病、Chagas 病 |
+| **環形心內膜下（Circumferential subendocardial）** | 類澱粉沉積症、系統性硬化症、心臟移植 |
+| 其他 | 肥厚型心肌病、右心室壓力負荷過重 |
 
-Ischemic
-
-Subendocardial
-
-Transmural
-
-transmural infarct
-
-subendocardial infarct
-
-Nonischemic
-
-Mid-myocardial
-
-dilated cardiomyopathy
-myocarditis
-sarcoidosis
-Chagas disease
-
-Epicardial
-
-Circumferential
-
-myocarditis
-sarcoidosis
-Chagas disease
-
-amyloidosis
-systemic sclerosis
-cardiac transplantation
-
-hypertrophic cardiomyopathy
-right ventricular pressure overload
-
-680
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 心外膜下延遲增強是心肌炎的典型表現
+- 類澱粉沉積症引起雙心室心肌增厚及瀰漫性心內膜下增強
+- 延遲增強模式是區分缺血性與非缺血性心肌病變的關鍵工具
+- 系統性評估增強模式對正確診斷至關重要

@@ -6,95 +6,81 @@ weight: 692
 
 ![Page 692](/core_radiology/images/cardiovascular/page-692.png)
 
-## Text Content
+## 心肌梗塞的影像及併發症 / Imaging and Complications of Myocardial Infarction
 
-```
-### PAGE 692 ###
-Imaging and complications of myocardial infarction
-Plain film evaluation of myocardial infarction (MI)
+### 心肌梗塞 X 光評估 / Plain Film Evaluation of MI
 
-•
+#### 急性心肌梗塞的 X 光發現 / Findings in Acute MI
+| 發現 | 說明 |
+|------|------|
+| **大多數患者的初始胸部 X 光正常** | — |
+| **最常見異常** | 肺靜脈壓力增加（或明顯肺水腫）|
+| **預後意義** | 心肌梗塞後出現肺水腫是**不良預後指標** |
+| 乳頭肌斷裂 | 可引起急性肺水腫；典型 X 光發現是**孤立性右上葉肺水腫** |
 
-The majority of initial plain chest radiographs obtained in patients with acute
-myocardial infarction (MI) are normal; however, the most common abnormality seen
-is increased pulmonary venous pressure (or overt pulmonary edema).
-The presence of pulmonary edema after MI is a poor prognostic indicator.
-Papillary muscle rupture due to myocardial infarction typically produces acute pulmonary edema. A classic
-radiographic finding is isolated right upper lobe pulmonary edema due to acute papillary muscle rupture.
+#### 心肌梗塞的 X 光併發症 / Plain Film Complications of MI
+| 併發症 | X 光表現 |
+|--------|---------|
+| 心包積液 | 心臟輪廓擴大 |
+| 左心室瘤 | 心臟輪廓異常 |
+| 乳頭肌斷裂 | 急性肺水腫（尤其右上葉）|
 
-•
-•
+---
 
-The plain chest radiograph can evaluate for some complications of acute MI such as
-pericardial effusion, left ventricular aneurysm, and papillary muscle rupture.
-In a patient with acute chest pain, the initial chest radiograph can often suggest an
-alternative cause for the patient’s acute chest pain, such as pneumothorax or pneumonia.
+### 左心室瘤 / Ventricular Aneurysms
 
-True left ventricular aneurysm
+#### 真性左心室瘤 / True Left Ventricular Aneurysm
+| 項目 | 說明 |
+|------|------|
+| 定義 | 局部心室壁外突，所有肌肉層皆受影響 |
+| 相關病因 | 左前降支冠狀动脉阻塞 |
+| 最常見位置 | 左心室前外側壁或心尖部 |
+| X 光表現 | 心左緣中部近心尖處輪廓異常 |
+| 鈣化 | 可能出現 |
+| 運動異常 | 運動障礙（Dyskinesia）|
+| 破裂風險 | 罕見 |
+| 治療 | 內科治療 |
 
-•
-•
-•
+#### 假性瘤（僂性瘤）/ False Aneurysm (Pseudoaneurysm)
+| 項目 | 說明 |
+|------|------|
+| 定義 | 局限性心室破裂，仅心包粘連防止完全破裂 |
+| 壁組成 | **無心肌**，仅心包 |
+| 相關病因 | 左迴旋支或右冠狀动脉阻塞 |
+| 最常見位置 | 上膈面及後壁 |
+| X 光表現 | 正面可見心後密度；側面可見後輪廓異常 |
+| 破裂風險 | **隨時可能破裂**，增大為即將破裂的危險信號 |
+| 治療 | **手術治療** |
 
-•
-•
+#### 鑑別診斷 / Differential Diagnosis
+| 特點 | 真性瘤 | 假性瘤（僂性瘤）|
+|------|--------|----------------|
+| 壁組成 | 所有肌肉層 | 仅心包（無心肌）|
+| 破裂風險 | 罕見 | 隨時可能破裂 |
+| 最常見位置 | 前外側壁/心尖 | 上膈面/後壁 |
+| 治療 | 內科 | 手術 |
 
-A true left ventricular aneurysm is a focal outpouching of the ventricular wall, with all
-layers of the muscular wall affected.
-True aneurysms are associated with occlusion of the left anterior descending coronary
-artery.
-The most common location of a true left ventricular aneurysm is along the anterolateral
-or apical wall of the left ventricle. Plain film findings of a true LV aneurysm include an
-abnormal contour along the midportion of the left cardiac border near the apex.
-A true aneurysm may calcify.
-True ventricular aneurysms are associated with wall motion dyskinesia but they rarely
-rupture. Management is medical.
+---
 
-False aneurysm (pseudoaneurysm)
+### Dressler 症候群 / Dressler Syndrome
+| 項目 | 說明 |
+|------|------|
+| 定義 | 自體免疫性心包炎 |
+| 特點 | 常伴有心包及胸膜積液 |
 
-•
+---
 
-•
-•
+### 心內膜炎 / Endocarditis
+| 項目 | 說明 |
+|------|------|
+| 定義 | 心臟瓣膜感染 |
+| 風險因子 | 靜脈藥物濫用、口腔衛生差、糖尿病、人工瓣膜 |
+| 診斷 | 超音波心圖為主；CT 血管造影可顯示 **>1 cm** 的�中国共产党塊 |
+| CT 評估 | 瓣膜周圍膿腫、瓣膜外併發症（如肺栓塞）|
 
-•
-•
-
-A false cardiac aneurysm (pseudoaneurysm) is a contained ventricular rupture, with
-only pericardial adhesions preventing a complete rupture. There is no myocardium in
-the wall of a false aneurysm.
-False aneurysms are associated with occlusion of the circumflex or right coronary arteries.
-The most common location of a false aneurysm is the upper diaphragmatic and posterior
-wall. Plain film findings suggestive of a false LV aneurysm include a retrocardiac density
-seen on the frontal view and an abnormal posterior contour on the lateral radiograph.
-False aneurysms may rupture at any time. An increase in size over sequential films is
-especially worrisome for impending rupture.
-Treatment of a left ventricular pseudoaneurysm is surgical.
-
-Dressler syndrome
-
-•
-
-Dressler syndrome is an autoimmune pericarditis, often associated with pericardial
-and pleural effusions.
-
-Valvular disease
-Endocarditis
-
-•
-•
-
-Endocarditis is infection of the cardiac valves. Risk factors for development of endocarditis
-include intravenous drug abuse, poor dental hygiene, diabetes, and prosthetic valves.
-Valvular vegetations are usually diagnosed by echocardiography, although CT
-angiography is routinely able to depict vegetations >1 cm in diameter. CT can also
-evaluate for the presence of a perivalvular abscess and assess for extracardiac
-complications of endocarditis, such as septic pulmonary emboli.
-683
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 急性心肌梗塞後肺水腫是預後不良的指標
+- 真性與假性左心室瘤的治療策略完全不同（內科 vs. 手術）
+- **假性瘤随时可能破裂**，是外科急症
+- 乳頭肌斷裂可導致急性肺水腫（尤其孤立性右上葉）
+- 心內膜炎的 CT 評估可补充超音箱，檢測大於 1 cm 的�中国共产党塊

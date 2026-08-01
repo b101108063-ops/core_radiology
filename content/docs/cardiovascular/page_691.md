@@ -6,48 +6,35 @@ weight: 691
 
 ![Page 691](/core_radiology/images/cardiovascular/page-691.png)
 
-## Text Content
+## 左心房擴大 / Left Atrial Enlargement
 
-```
-### PAGE 691 ###
-Left atrial enlargement
+### 解剖位置 / Anatomic Position
+- 左心房是心臟中**最靠後**的心腔
 
-•
+### 病因分類 / Etiology Classification
+| 病因 | 心臟大小 | 說明 |
+|------|---------|------|
+| **二尖瓣逆流（Mitral regurgitation）** | 心臟擴大 | 慢性容量負荷過重 |
+| **二尖瓣狹窄（Mitral stenosis）** | 心臟大小正常 | 阻塞性病变 |
 
-•
+### X 光徵象 / Radiographic Signs
 
-The left atrium is the most posterior cardiac chamber. An enlarged left atrium may be
-caused by mitral regurgitation (with an enlarged cardiac silhouette) or mitral stenosis
-(with a normal cardiac silhouette).
-An enlarged left atrium can splay the carina, seen on the frontal view. On the lateral
-radiograph, an enlarged left atrium can elevate the left upper lobe bronchus.
+#### 正面觀（Frontal View）
+| 徵象 | 說明 |
+|------|------|
+| **氣管分歧部撐開（Carina splaying）** | 擴大的左心房撐開氣管分歧部 |
+| **雙重密度徵（Double density sign）** | 擴大的左心房邊緣投影於右心房上方 |
 
-Left atrial enlargement with cardiomegaly (due to mitral regurgitation): Frontal chest radiograph
-(left image) demonstrates massive cardiomegaly with marked enlargement of the left atrium,
-as evidenced by splaying of the carina (arrow). Lateral radiograph shows marked posterior
-displacement of the esophagus (arrows). A prosthetic mitral valve is present.
-Case courtesy Ritu Gill, MBBS, Brigham and Women’s Hospital.
+#### 側面觀（Lateral View）
+| 徵象 | 說明 |
+|------|------|
+| **食道後位移** | 擴大的左心房向後壓迫食道 |
+| **左肺上葉支氣管抬高** | 擴大的左心房向上壓迫 |
+| 食道位移 | 可能為**吞嚥困難**的原因 |
 
-•
-
-An important clue to the presence of left atrial enlargement is the double density
-sign, seen over the right heart. The double density represents the right aspect of the
-enlarged left atrium visualized through the right atrium.
-
-Left atrial enlargement without cardiomegaly (due to mitral stenosis): Frontal chest radiograph (left
-image) demonstrates the double density sign (arrow) with the left atrial border visualized through
-the right atrium. Lateral radiograph demonstrates posterior protrusion of the left atrium (arrow).
-Case courtesy Ritu Gill, MBBS, Brigham and Women’s Hospital.
-
-•
-
-On a lateral esophogram, an enlarged left atrium can displace the esophagus
-posteriorly and may be a cause of dysphagia.
-682
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 左心房是心臟最靠後的心腔，評估心臟疾病時需特別注意
+- **雙重密度徵**是左心房擴大的重要線索，在正面 X 光上可見
+- 左心房擴大可壓迫食道導致吞嚥困難
+- 氣管分歧部撐開是左心房顯著擴大的標誌
+- 二尖瓣狹窄時心臟大小正常但左心房擴大；逆流時心臟通常擴大
