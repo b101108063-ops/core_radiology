@@ -6,79 +6,52 @@ weight: 686
 
 ![Page 686](/core_radiology/images/cardiovascular/page-686.png)
 
-## Text Content
+## 惡性冠狀动脉異常 / Malignant Coronary Artery Anomalies
 
-```
-### PAGE 686 ###
-Malignant coronary artery anomaly
-Malignant: Anomalous origin of LEFT coronary
-artery arising from the RIGHT coronary sinus,
-passing between the aorta and the PA.
+### 疾病名稱 / Disease Name
+**惡性冠狀动脉異常（Malignant Coronary Artery Anomaly）** 指冠狀动脉起源或行徑異常，導致猝死風險增加。
 
-Malignant: Anomalous origin of RIGHT coronary
-artery arising from the LEFT coronary sinus,
-passing between the aorta and the PA.
+### 發病機制 / Pathophysiology
+- **Interarterial 行徑**（主動脉與肺动脉或右心室輸出道之間行走）是最重要的惡性行徑
+- 運動時主動脉擴張可能壓迫異常血管，導致心肌梗塞
+- 猝死風險高達 **40%**
 
-pulmonary
-artery (PA)
+### 臨床特點 / Clinical Features
+| 異常類型 | 特點 |
+|---------|------|
+| 左冠狀动脉起源於右冠狀竇 | 行走於主動脉與肺动脉之間 |
+| 右冠狀动脉起源於左冠狀竇 | 行走於主動脉與右心室輸出道之間 |
+| 兩者皆可發生 Interarterial 行徑 | 猝死風險相似 |
 
-pulmonary
-artery (PA)
+### 治療 / Treatment
+- **手術搭橋移植（Surgical bypass grafting）**
 
-aorta
+---
 
-aorta
-right
+### 異常左冠狀动脉起源於肺动脉 / ALCAPA (Bland-White-Garland Syndrome)
 
-noncoronary
+#### 疾病名稱 / Disease Name
+**異常左冠狀动脉起源於肺动脉（Anomalous Left Coronary Artery from the Pulmonary Artery, ALCAPA）**，又稱**Bland-White-Garland 症候群**。
 
-right
-left
+#### 臨床特點 / Clinical Features
+| 項目 | 說明 |
+|------|------|
+| 發病率 | 極罕見但嚴重 |
+| 自然病程 | 若不治療，**嬰兒期第一年死亡率超過 90%** |
+| 病理機制 | 左冠狀动脉起源於肺动脉，導致心肌缺血 |
 
-noncoronary
+#### 治療 / Treatment
+| 年齡 | 治療方式 |
+|------|---------|
+| 兒童 | 直接種植異常冠狀动脉 |
+| 成人 | 結扎異常血管並搭橋移植 |
 
-left
+#### 罕見變異：ARCAPA
+- **異常右冠狀动脉起源於肺动脉（ARCAPA）**：較少見，治療方式相似
 
-RVOT
-
-Malignant course of anomalous right coronary artery:
-Sequential axial images from a coronary CT show anomalous origin of the right coronary artery (arrow) from
-the left coronary sinus, which then courses between the aorta and the right ventricular outflow tract (RVOT).
-Case courtesy Michael Hanley, MD, University of Virginia Health System.
-
-•
-
-•
-•
-
-Anomalous interarterial (between the pulmonary artery or right ventricular outflow
-tract and the aorta) course of a coronary artery carries a high risk of sudden death of up
-to 40%, associated with exercise. It is thought that dilation of the aorta occurs during
-exercise, which may compress the anomalous vessel resulting in myocardial infarction.
-Either an anomalous left coronary artery or anomalous right coronary artery may take
-a malignant interarterial course.
-Treatment is surgical bypass grafting.
-
-Anomalous left coronary artery from the pulmonary artery (ALCAPA)/Bland–White–Garland syndrome
-
-•
-
-•
-•
-
-Also called Bland–White–Garland syndrome, anomalous left coronary artery from the
-pulmonary artery (ALCAPA) is a very rare but serious coronary artery anomaly, where
-the left coronary artery arises from the pulmonary artery. Most affected patients are
-infants, with over 90% mortality in the first year of life if untreated.
-Treatment is surgical, with either direct implantation of the anomalous coronary artery (in
-children) or ligation of the anomalous vessel in conjunction with bypass grafting (in adults).
-Less commonly, the RCA may arise from the pulmonary artery, which is known as
-anomalous right coronary artery from the pulmonary artery (ARCAPA). Treatment is similar.
-677
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- 惡性冠狀动脉異常（Interarterial 行徑）運動時猝死風險高達 40%
+- ALCAPA/Bland-White-Garland 症候群若不治療，嬰兒期死亡率超過 90%
+- ALCAPA 治療首選手術，方式因年齡而異
+- ARCAPA 較少見，治療原則與 ALCAPA 相似
+- 早期診斷對改善預後至關重要

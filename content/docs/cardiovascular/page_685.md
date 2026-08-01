@@ -6,83 +6,62 @@ weight: 685
 
 ![Page 685](/core_radiology/images/cardiovascular/page-685.png)
 
-## Text Content
+## 冠狀动脉顯性判定及結構異常 / Dominance & Structural Anomalies
 
-```
-### PAGE 685 ###
-Determination of dominance
+### 顯性判定 / Determination of Dominance
 
-•
+| 顯性類型 | 發生率 | 供應血管 |
+|---------|--------|---------|
+| **右主型（Right-dominant）** | 約 **85%** | RCA 供應 PDA、PLA、AVN |
+| **左主型（Left-dominant）** | 約 **7%** | LCx 供應 PDA、PLA、AVN |
+| **雙主型（Codominant）** | 約 **7%** | RCA 供應 PDA，LCx 供應 PLA |
 
-•
-•
+---
 
-Whichever side supplies the PDA, PLA, and AV nodal branch (AVN) is considered the
-dominant coronary artery. Most commonly, in about 85% of cases, the RCA is the
-dominant artery.
-Left-dominant anatomy is uncommon, occurring in approximately 7% of cases. In leftdominant anatomy, the LCx supplies the PDA, PLA, and AVN.
-Codominant anatomy can also be seen in approximately 7% of cases, typically with the
-RCA supplying the PDA, while the LCx supplies the PLA.
+### 冠狀动脉起源異常 / Anomalies of Coronary Artery Origin
 
-Structural coronary artery anomalies
-Coronary artery anomalies: Overview
+#### 惡性異常（Malignant Anomalies）
+| 異常類型 | 說明 |
+|---------|------|
+| **肺动脉起源的冠狀动脉（ALCAPA/ARCAPA）** | 任何冠狀动脉起源於肺动脉，極罕見但致死性 |
+| 右冠狀动脉起源於左冠狀竇 | 惡性 |
+| 左主冠狀动脉起源於右冠狀竇 | 惡性 |
+| LCx 或 LAD 起源於右冠狀竇 | 惡性 |
+| 任何冠狀动脉起源於無冠狀竇 | 惡性 |
 
-•
-•
-•
+#### 潛在惡性異常（Potentially Malignant）
+- 起源於對側冠狀竇，取決於其行徑
 
-Anomalies of the coronary arteries are rare. A malignant coronary artery anomaly carries
-an increased risk of sudden death (in up to 40% of patients), often associated with exercise.
-Multidetector CT is the best modality to evaluate anomalous coronary artery anatomy.
-Anomalies of coronary artery origin may be always malignant (if arising from the
-pulmonary artery) or potentially malignant (depending on the course):
-Coronary artery arising from the pulmonary artery which is malignant. Either the right or left
-main coronary artery may arise from the pulmonary artery. Both are very rare.
-Anomalous left coronary artery from the pulmonary artery (ALCAPA).
-Anomalous right coronary artery from the pulmonary artery (ARCAPA).
-RCA arising from left coronary sinus.
-Left main coronary artery (LMCA) arising from right coronary sinus.
-Left circumflex (LCx) or left anterior descending (LAD) arising from right coronary sinus.
-Any artery arising from the noncoronary sinus.
+---
 
-•
+### 冠狀动脉行徑異常 / Anomalies of Coronary Artery Course
 
-Anomalies of coronary artery course may be benign or malignant and include:
-Interarterial course (between the aorta and pulmonary artery) of an anomalous coronary artery
-is malignant.
-Retroaortic, prepulmonic, and septal coronary artery course are all considered benign.
+| 行徑類型 | 臨床意義 |
+|---------|---------|
+| **主動脉-肺动脉間行徑（Interarterial）** | **惡性**：主動脉與肺动脉間行走，運動時猝死風險高 |
+| 主動脉後行徑（Retroaortic）| 良性 |
+| 肺动脉前行徑（Prepulmonic）| 良性 |
+| 間隔行徑（Septal）| 良性 |
+| **壁內行徑（Intramural）** | **惡性**：冠狀动脉在主動脉壁內行走一小段，通常為裂隙狀結構，猝死風險高 |
 
-•
+---
 
-An intramural course of a coronary artery is seen when the vessel courses through
-the wall of the aorta for a short segment. This anomaly is associated with sudden
-death. There is typically a slit-like configuration of the coronary artery on CCTA. The
-treatment of intramural coronary artery is bypass, reimplantation, or the unroofing
-procedure, which opens and enlarges the ostium from inside the aorta.
+### 壁內行徑 / Intramural Course
+| 項目 | 說明 |
+|------|------|
+| 特徵 | 冠狀动脉在主動脉壁內行走短距離 |
+| CCTA 表現 | 裂隙樣結構（slit-like configuration）|
+| 治療 | 搭橋移植、再植入手術、或「去頂術（unroofing procedure）」 |
 
-Benign coronary artery anomaly
-Prepulmonic (benign) course of the left
-anterior descending (LAD) coronary
-artery:
+---
 
-PA
+### 良性冠狀动脉異常 / Benign Coronary Artery Anomaly
+- 任何**不在主動脉與肺动脉之間**行走的冠狀动脉均屬良性
+- 例如：肺动脉前行徑的 LAD
 
-Axial image from a gated coronary CT
-shows an anomalous course of the LAD,
-which runs anterior (arrows) to the
-pulmonary artery (PA).
-Case courtesy Michael Hanley, MD,
-University of Virginia Health System.
-
-•
-
-An aberrant coronary artery course is considered clinically benign if the coronary
-artery does not course between the aorta and the pulmonary artery.
-676
-
-Downloaded from Cambridge Books Online by IP 202.47.112.250 on Thu Oct 10 14:23:31 WEST 2013.
-http://dx.doi.org/10.1017/CBO9781139225762.010
-Cambridge Books Online © Cambridge University Press, 2013
-
-
-```
+### 臨床要點 / Clinical Key Points
+- **顯性判定**：取決於誰供應 PDA、PLA 和 AVN
+- **主動脉-肺动脉間行徑（Interarterial）是最重要的惡性行徑異常**，猝死風險可達 40%
+- ALCAPA 若不治療，嬰兒期死亡率超過 90%
+- MDCT（含 CCTA）是評估冠狀动脉解剖異常的最佳工具
+- 壁內行徑治療方式包括去頂術，是較新且保留竇的手術方式
