@@ -4,8 +4,6 @@ weight: 557
 ---
 # Nuclear Imaging - Page 557
 
-<img src="/core_radiology/images/nuclear/page-557.png" alt="Page 557" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### PET-CT 腫瘤適應症（續）/ PET-CT Oncologic Indications (Continued)
@@ -51,3 +49,9 @@ weight: 557
 > - 頭頸部癌症治療後需等待 **至少 4 個月** 再做 PET-CT，以減少發炎偽影
 > - 甲狀腺球蛋白上升但放射性碘掃描陰性時，**FDG PET-CT** 可偵測去分化或遠處轉移
 > - 淋巴瘤化療後追蹤時，詢問是否使用 **G-CSF** 非常重要，以避免將藥物性骨髓攝取誤判為疾病進展
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-557.png](/core_radiology/images/nuclear/page-557.png){target="_blank"}

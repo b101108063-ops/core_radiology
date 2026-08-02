@@ -4,8 +4,6 @@ weight: 556
 ---
 # Nuclear Imaging - Page 556
 
-<img src="/core_radiology/images/nuclear/page-556.png" alt="Page 556" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### PET-CT 腫瘤適應症 / PET-CT Oncologic Indications
@@ -49,3 +47,9 @@ weight: 556
 > - SPN 判讀需結合 **大小、形態、FDG 攝取** 綜合判斷，不可只看 SUV
 > - 類癌與支氣管肺泡細胞癌因代謝活性低，PET 可能偽陰性；需結合臨床與 CT 特徵
 > - 有結核或肉芽腫疾病流行區域病史時，需注意 FDG 陽性的假陽性可能
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-556.png](/core_radiology/images/nuclear/page-556.png){target="_blank"}

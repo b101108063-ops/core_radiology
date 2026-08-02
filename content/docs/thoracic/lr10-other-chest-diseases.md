@@ -5,8 +5,6 @@ weight: 97
 
 # LR 10: Other Chest Diseases 其他胸部疾病：肺癌、肺栓塞、縱隔腫瘤
 
-<img src="/core_radiology/images/thoracic/lr-other-chest-diseases.png" alt="Other Chest Diseases" style="max-width:100%;height:auto;" />
-
 ## 肺癌 Lung Cancer
 
 ### 支氣管肺癌 Bronchogenic Carcinoma
@@ -206,3 +204,9 @@ weight: 97
 ---
 
 **Source: Learning Radiology, Chapter 10 — Recognizing Other Diseases of the Chest (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-other-chest-diseases.png](/core_radiology/images/thoracic/lr-other-chest-diseases.png){target="_blank"}

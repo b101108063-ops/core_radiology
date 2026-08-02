@@ -4,8 +4,6 @@ weight: 564
 ---
 # Nuclear Imaging - Page 564
 
-<img src="/core_radiology/images/nuclear/page-564.png" alt="Page 564" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 核醫心臟學病例範例 / Sample Nuclear Cardiology Cases
@@ -41,3 +39,9 @@ weight: 564
 > - **可逆性缺陷**（stress 有，rest 消失）= 心肌缺血；提示有意義的冠狀動脈疾病
 > - 缺陷大小（大 / 中 / 小）、嚴重度（輕 / 中 / 重）、位置（何冠狀动脉分布區）是系統性描述灌流缺陷的三要素
 > - 大型可逆性缺陷（5 個或以上節段）屬於高風險發現
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-564.png](/core_radiology/images/nuclear/page-564.png){target="_blank"}

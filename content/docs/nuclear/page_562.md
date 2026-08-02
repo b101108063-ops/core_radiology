@@ -4,8 +4,6 @@ weight: 562
 ---
 # Nuclear Imaging - Page 562
 
-<img src="/core_radiology/images/nuclear/page-562.png" alt="Page 562" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 核醫心臟學（續）/ Nuclear Cardiology (Continued)
@@ -60,3 +58,9 @@ weight: 562
 > - 咖啡因會阻斷血管擴張劑效果，**需停用 24 小時** 後再執行檢查
 > - Dipyridamole stress 後給予 **aminophylline** 需持續監測，因 aminophylline 半衰期比 dipyridamole 短
 > - Dobutamine 適用於無法使用血管擴張劑的病人，模擬運動效果增加心肌耗氧
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-562.png](/core_radiology/images/nuclear/page-562.png){target="_blank"}

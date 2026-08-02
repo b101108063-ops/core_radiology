@@ -4,8 +4,6 @@ weight: 571
 ---
 # Nuclear Imaging - Page 571
 
-<img src="/core_radiology/images/nuclear/page-571.png" alt="Page 571" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 膽道影像（HIDA）/ Hepatobiliary Imaging (HIDA)
@@ -47,3 +45,9 @@ weight: 571
 > - 膽囊顯影可排除急性膽囊炎；HIDA 對急性膽囊炎敏感度約 **86–98%**
 > - 檢查前 **NPO 時間過長（>24 小時）** 或 **近期進食（4 小時內）** 均會造成膽囊不顯影，造成假陽性
 > - HIDA 可同時評估膽道通暢性（小腸顯影）與膽囊排空功能
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-571.png](/core_radiology/images/nuclear/page-571.png){target="_blank"}

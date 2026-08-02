@@ -5,8 +5,6 @@ weight: 99
 
 # LR 14: ICU Portable Chest X-ray ICU床旁胸部X光判讀
 
-<img src="/core_radiology/images/thoracic/lr-icu-chest.png" alt="ICU Portable Chest X-ray" style="max-width:100%;height:auto;" />
-
 ## 重症監護單元概覽 ICU Overview
 
 ### ICU患者為何需要床旁X光?
@@ -227,3 +225,9 @@ weight: 99
 ---
 
 **Source: Learning Radiology, Chapter 9 — Critical Care Radiology + Chapter 10 — Other Diseases of the Chest (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-icu-chest.png](/core_radiology/images/thoracic/lr-icu-chest.png){target="_blank"}

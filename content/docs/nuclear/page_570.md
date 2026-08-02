@@ -4,8 +4,6 @@ weight: 570
 ---
 # Nuclear Imaging - Page 570
 
-<img src="/core_radiology/images/nuclear/page-570.png" alt="Page 570" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 胃腸道影像（續）/ Gastrointestinal Imaging (Continued)
@@ -56,3 +54,9 @@ weight: 570
 > - Meckel 掃描用於懷疑 **Meckel 憩室**（尤其兒童或不明原因消化道出血）
 > - Meckel 憩室中異位胃黏膜為發炎與出血的根源；約 10–60% 含胃黏膜
 > - 標記紅血球掃描可初步定位出血位置，為後續血管攝影或手術介入提供指引
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-570.png](/core_radiology/images/nuclear/page-570.png){target="_blank"}

@@ -4,8 +4,6 @@ weight: 554
 ---
 # Nuclear Imaging - Page 554
 
-<img src="/core_radiology/images/nuclear/page-554.png" alt="Page 554" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 正子發射電腦斷層 (PET-CT) / Positron Emission Tomography–Computed Tomography (PET-CT)
@@ -40,3 +38,9 @@ weight: 554
 > - SUV 數值需謹慎解讀，不同設備與時間點的 SUV **不可直接比較**
 > - 低惡性度腫瘤（如支氣管肺泡細胞癌、類癌）可能 **FDG 陰性**，臨床上需注意假陰性
 > - 活動性肉芽腫疾病（結核等）可能 FDG 陽性，需注意假陽性
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-554.png](/core_radiology/images/nuclear/page-554.png){target="_blank"}

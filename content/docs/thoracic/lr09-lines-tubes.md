@@ -5,8 +5,6 @@ weight: 96
 
 # LR 09: Recognizing the Correct Placement of Lines and Tubes 氣管內管、胸腔引流管與靜脈導管的正確放置
 
-<img src="/core_radiology/images/thoracic/lr-lines-tubes.png" alt="Lines and Tubes" style="max-width:100%;height:auto;" />
-
 ## 重症監護放射學概覽 Critical Care Radiology Overview
 
 ### ICU常見疾病與X光表現 Common ICU Findings
@@ -261,3 +259,9 @@ weight: 96
 ---
 
 **Source: Learning Radiology, Chapter 9 — Critical Care Radiology (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-lines-tubes.png](/core_radiology/images/thoracic/lr-lines-tubes.png){target="_blank"}

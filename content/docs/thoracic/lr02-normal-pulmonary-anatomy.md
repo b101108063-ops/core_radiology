@@ -5,8 +5,6 @@ weight: 90
 
 # LR 02: Recognizing Normal Pulmonary Anatomy 正常肺部分解剖學
 
-<img src="/core_radiology/images/thoracic/lr-chest-basics.png" alt="Chest X-ray Anatomy" style="max-width:100%;height:auto;" />
-
 ## 技術合格的胸部X光 Technical Adequacy of Chest X-Ray
 
 ### 合格的胸部X光關鍵要素 Key Elements of an Adequate Chest Radiograph
@@ -137,3 +135,9 @@ weight: 90
 ---
 
 **Source: Learning Radiology, Chapter 2 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-chest-basics.png](/core_radiology/images/thoracic/lr-chest-basics.png){target="_blank"}

@@ -4,8 +4,6 @@ weight: 561
 ---
 # Nuclear Imaging - Page 561
 
-<img src="/core_radiology/images/nuclear/page-561.png" alt="Page 561" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 核醫心臟學（續）/ Nuclear Cardiology (Continued)
@@ -64,3 +62,9 @@ weight: 561
 > - Thallium-201 有再分布特性，可同時評估活性與灌流；但半衰期長、輻射劑量高
 > - Tc-99m sestamibi 無再分布，需分別注射stress與rest劑量進行顯像
 > - Rubidium-82 半衰期極短（76秒），僅能用於藥理學壓力測試
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-561.png](/core_radiology/images/nuclear/page-561.png){target="_blank"}

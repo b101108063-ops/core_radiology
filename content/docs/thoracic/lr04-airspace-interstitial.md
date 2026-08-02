@@ -5,8 +5,6 @@ weight: 91
 
 # LR 04: Airspace vs Interstitial Lung Disease 肺泡型與間質型肺部疾病
 
-<img src="/core_radiology/images/thoracic/lr-airspace-interstitial.png" alt="Airspace vs Interstitial" style="max-width:100%;height:auto;" />
-
 ## 肺泡型疾病 Airspace Disease 特徵
 
 ### 定義 Definition
@@ -160,3 +158,9 @@ weight: 91
 ---
 
 **Source: Learning Radiology, Chapter 4 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-airspace-interstitial.png](/core_radiology/images/thoracic/lr-airspace-interstitial.png){target="_blank"}

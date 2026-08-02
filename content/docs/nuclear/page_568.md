@@ -4,8 +4,6 @@ weight: 568
 ---
 # Nuclear Imaging - Page 568
 
-<img src="/core_radiology/images/nuclear/page-568.png" alt="Page 568" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 甲狀腺疾病（續）/ Thyroid Disorders (Continued)
@@ -44,3 +42,9 @@ weight: 568
 > - Tc-99m sestamibi **雙相位顯影**是定位副甲狀腺腺瘤的首選非侵入性方法
 > - 副甲狀腺腺瘤延遲圖像持續滯留（不消退）與甲狀腺腺瘤的消退模式為關鍵鑑別點
 > - 副甲狀腺機能亢進手術前定位時，Sestamibi 掃描可與頸部超聲相互補充
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-568.png](/core_radiology/images/nuclear/page-568.png){target="_blank"}

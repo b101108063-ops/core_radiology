@@ -4,8 +4,6 @@ weight: 563
 ---
 # Nuclear Imaging - Page 563
 
-<img src="/core_radiology/images/nuclear/page-563.png" alt="Page 563" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 核醫心臟學（續）/ Nuclear Cardiology (Continued)
@@ -47,3 +45,9 @@ weight: 563
 > - **SA 軸向** 為評估灌流缺陷的主要視圖（甜甜圈結構）
 > - 冠狀动脉供血模式存在個體差異，影像判讀時需結合臨床與造影資料
 > - 心尖節段由 LAD 供血；下壁與下間隔通常由 RCA 供血（右優勢者）
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-563.png](/core_radiology/images/nuclear/page-563.png){target="_blank"}

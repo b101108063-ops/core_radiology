@@ -4,8 +4,6 @@ weight: 555
 ---
 # Nuclear Imaging - Page 555
 
-<img src="/core_radiology/images/nuclear/page-555.png" alt="Page 555" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### PET-CT（續）/ PET-CT (Continued)
@@ -47,3 +45,9 @@ weight: 555
 > - 判讀前需確認病人 **血糖控制、禁食狀態、是否說話或走動**，以排除生理性攝取
 > - **棕色脂肪攝取** 在寒冷環境或化療後常見，需與淋巴結或病灶鑑別
 > - 乳癌病人在化療後需注意 **G-CSF 刺激** 導致的骨髓 FDG 攝取
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-555.png](/core_radiology/images/nuclear/page-555.png){target="_blank"}

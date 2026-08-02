@@ -4,8 +4,6 @@ weight: 565
 ---
 # Nuclear Imaging - Page 565
 
-<img src="/core_radiology/images/nuclear/page-565.png" alt="Page 565" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 甲狀腺影像 / Thyroid Imaging
@@ -72,3 +70,9 @@ weight: 565
 > - **Tc-99m pertechnetate** 適合需要快速結果或已注射顯影劑的病人，但影像品質較 I-123 差
 > - 懷孕期間 **I-131 絕對禁忌**（通過胎盤且可被胎兒甲狀腺攝取）
 > - 哺乳期接受 I-131 治療後需 **永久停止哺乳**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-565.png](/core_radiology/images/nuclear/page-565.png){target="_blank"}

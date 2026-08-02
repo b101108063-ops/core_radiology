@@ -5,8 +5,6 @@ weight: 93
 
 # LR 06: Atelectasis 肺膨脹不全（肺塌陷）
 
-<img src="/core_radiology/images/thoracic/lr-atelectasis.png" alt="Atelectasis" style="max-width:100%;height:auto;" />
-
 ## 定義 What is Atelectasis?
 
 **肺膨脹不全（Atelectasis）** = 肺臟部分或全部喪失膨脹（容積減少），導致密度增加（變白）。
@@ -147,3 +145,9 @@ weight: 93
 ---
 
 **Source: Learning Radiology, Chapter 6 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-atelectasis.png](/core_radiology/images/thoracic/lr-atelectasis.png){target="_blank"}

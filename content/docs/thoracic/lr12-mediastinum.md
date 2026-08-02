@@ -5,8 +5,6 @@ weight: 98
 
 # LR 12: Mediastinum 縱隔腔：解剖分區與常見疾病
 
-<img src="/core_radiology/images/thoracic/lr-mediastinum.png" alt="Mediastinum" style="max-width:100%;height:auto;" />
-
 ## 縱隔腔解剖分區 Mediastinal Compartments
 
 ### 傳統X光分區 Traditional Radiographic Classification
@@ -176,3 +174,9 @@ weight: 98
 ---
 
 **Source: Learning Radiology, Chapter 10 — Recognizing Other Diseases of the Chest (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-mediastinum.png](/core_radiology/images/thoracic/lr-mediastinum.png){target="_blank"}

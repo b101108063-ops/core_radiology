@@ -4,8 +4,6 @@ weight: 572
 ---
 # Nuclear Imaging - Page 572
 
-<img src="/core_radiology/images/nuclear/page-572.png" alt="Page 572" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 膽道影像（續）/ Hepatobiliary Imaging (Continued)
@@ -54,3 +52,9 @@ weight: 572
 > - **Rim sign** 陽性提示可能為壞疽性膽囊炎，需提高警覺
 > - 慢性膽囊炎的 HIDA 診斷較困難；**GBEF <35%** 可輔助，但標準 Protocol 尚未建立
 > - 膽囊排空功能評估需注意 CCK 注射速率對結果的影響
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-572.png](/core_radiology/images/nuclear/page-572.png){target="_blank"}

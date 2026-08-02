@@ -4,8 +4,6 @@ weight: 566
 ---
 # Nuclear Imaging - Page 566
 
-<img src="/core_radiology/images/nuclear/page-566.png" alt="Page 566" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 甲狀腺疾病（續）/ Thyroid Disorders (Continued)
@@ -52,3 +50,9 @@ weight: 566
 > - **冷結節** 約 20% 為惡性，最常見為良性囊腫；需結合細胞學結果判斷
 > - Graves 病 24 小時攝取值 **>50%** 為典型表現，結合瀰漫性甲狀腺腫大與毒症症狀確診
 > - **橋本氏甲狀腺炎** 影像表現多變，可類似 Graves 病或類似多結節性甲狀腺腫；確診需結合甲狀腺抗體檢驗
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-566.png](/core_radiology/images/nuclear/page-566.png){target="_blank"}

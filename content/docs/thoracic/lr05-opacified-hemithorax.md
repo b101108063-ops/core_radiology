@@ -5,8 +5,6 @@ weight: 92
 
 # LR 05: Opacified Hemithorax 單側胸腔變白：鑑別診斷
 
-<img src="/core_radiology/images/thoracic/lr-opacified-hemithorax.png" alt="Opacified Hemithorax" style="max-width:100%;height:auto;" />
-
 ## 單側胸腔變白的四大病因 Four Major Causes
 
 | 病因 Cause | 機制 Mechanism | 是否有位移 Shift? |
@@ -127,3 +125,9 @@ weight: 92
 ---
 
 **Source: Learning Radiology, Chapter 5 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-opacified-hemithorax.png](/core_radiology/images/thoracic/lr-opacified-hemithorax.png){target="_blank"}

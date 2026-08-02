@@ -4,8 +4,6 @@ weight: 559
 ---
 # Nuclear Imaging - Page 559
 
-<img src="/core_radiology/images/nuclear/page-559.png" alt="Page 559" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### PET-CT 腫瘤適應症（續）/ PET-CT Oncologic Indications (Continued)
@@ -39,3 +37,9 @@ weight: 559
 > - HCC 因葡萄糖-6-磷酸酶活性高，FDG PET 敏感度低；建議使用 **對比劑強化 CT 或 MRI** 追蹤
 > - 前列腺癌 FDG PET 價值有限；膽鹼（choline）或 PMSA 標記 PET 為更合適的分子影像工具
 > - 泌尿系統腫瘤（腎細胞癌、膀胱癌）因尿液 FDG 背景干擾，PET-CT 偵測效能受限
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-559.png](/core_radiology/images/nuclear/page-559.png){target="_blank"}

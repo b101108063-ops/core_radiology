@@ -5,8 +5,6 @@ weight: 94
 
 # LR 07: Pleural Effusion 肋膜積液
 
-<img src="/core_radiology/images/thoracic/lr-pleural-effusion.png" alt="Pleural Effusion" style="max-width:100%;height:auto;" />
-
 ## 胸膜腔正常解剖與生理 Normal Anatomy and Physiology
 
 ### 正常解剖 Normal Anatomy
@@ -176,3 +174,9 @@ weight: 94
 ---
 
 **Source: Learning Radiology, Chapter 7 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-pleural-effusion.png](/core_radiology/images/thoracic/lr-pleural-effusion.png){target="_blank"}

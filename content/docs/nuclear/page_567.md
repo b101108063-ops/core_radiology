@@ -4,8 +4,6 @@ weight: 567
 ---
 # Nuclear Imaging - Page 567
 
-<img src="/core_radiology/images/nuclear/page-567.png" alt="Page 567" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 甲狀腺疾病（續）/ Thyroid Disorders (Continued)
@@ -61,3 +59,9 @@ weight: 567
 > - 甲狀腺癌追蹤時，**甲狀腺球蛋白** 是關鍵腫瘤標記；抗甲狀腺球蛋白抗體陽性干擾監測
 > - 甲狀腺癌 I-131 治療前需停甲狀腺素使 TSH 升高，以增加腫瘤細胞攝取
 > - Graves 病 I-131 治療劑量個體差異大；治療後需長期追蹤甲狀腺功能（可能發生甲狀腺功能低下）
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-567.png](/core_radiology/images/nuclear/page-567.png){target="_blank"}

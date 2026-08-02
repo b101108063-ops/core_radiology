@@ -4,8 +4,6 @@ weight: 558
 ---
 # Nuclear Imaging - Page 558
 
-<img src="/core_radiology/images/nuclear/page-558.png" alt="Page 558" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### PET-CT 腫瘤適應症（續）/ PET-CT Oncologic Indications (Continued)
@@ -35,3 +33,9 @@ weight: 558
 > - 淋巴瘤化療後追蹤時，需詢問是否使用 **G-CSF**，以避免將藥物性骨髓攝取誤判為疾病進展
 > - FDG PET-CT 在乳癌主要用於 **復發或轉移** 偵測，非常規早期分期
 > - 部分低惡性度淋巴瘤 FDG 攝取可能不足，判讀時需注意假陰性
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-558.png](/core_radiology/images/nuclear/page-558.png){target="_blank"}

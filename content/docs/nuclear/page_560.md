@@ -4,8 +4,6 @@ weight: 560
 ---
 # Nuclear Imaging - Page 560
 
-<img src="/core_radiology/images/nuclear/page-560.png" alt="Page 560" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 核醫心臟學 / Nuclear Cardiology
@@ -52,3 +50,9 @@ weight: 560
 > - 評估灌流缺陷時需同時回答五個系統性問題：**可逆性、大小、嚴重度、位置、相關異常**
 > - 左心室射出分率（EF）可由 **Gated SPECT** 計算，是重要的預後指標
 > - 心肌活性評估（冬眠心肌 vs. 疤痕）直接影響再血管化治療的臨床決策
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-560.png](/core_radiology/images/nuclear/page-560.png){target="_blank"}

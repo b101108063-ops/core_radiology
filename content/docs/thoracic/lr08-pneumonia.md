@@ -5,8 +5,6 @@ weight: 95
 
 # LR 08: Pneumonia 肺炎
 
-<img src="/core_radiology/images/thoracic/lr-pneumonia.png" alt="Pneumonia" style="max-width:100%;height:auto;" />
-
 ## 肺炎的一般特徵 General Characteristics of Pneumonia
 
 | 特徵 Feature | 說明 Description |
@@ -174,3 +172,9 @@ weight: 95
 ---
 
 **Source: Learning Radiology, Chapter 8 (William Herring, MD, FACR)**
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：lr-pneumonia.png](/core_radiology/images/thoracic/lr-pneumonia.png){target="_blank"}

@@ -4,8 +4,6 @@ weight: 569
 ---
 # Nuclear Imaging - Page 569
 
-<img src="/core_radiology/images/nuclear/page-569.png" alt="Page 569" style="max-width:100%;height:auto;" />
-
 ## Text Content
 
 ### 胃腸道影像 / Gastrointestinal Imaging
@@ -44,3 +42,9 @@ weight: 569
 > - **FNH** 為含 Kupffer 細胞的良性腫瘤，硫膠體掃描可能正常或呈現不同表現；HIDA 可輔助診斷
 > - **膠體移位**（脾臟和骨髓攝取增加）為肝功能障礙的間接徵象，常見於肝硬化
 > - 肝硬化病人出現**局灶性減少**需高度懷疑 HCC，並進一步以對比劑 CT/MRI 確認
+
+---
+
+## 圖片出處 / Image References
+
+- [圖1：page-569.png](/core_radiology/images/nuclear/page-569.png){target="_blank"}
