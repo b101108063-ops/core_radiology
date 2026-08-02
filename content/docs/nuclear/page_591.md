@@ -2,12 +2,5 @@
 title: "Nuclear Imaging - Page 591"
 weight: 591
 ---
-# Nuclear Imaging - Page 591
 
-![Page 591](/core_radiology/images/nuclear/page-591.png)
-
-## Text Content
-
-```
-
-```
+> 此頁面內容已整合至 [章節總覽](../) 。
