@@ -91,3 +91,18 @@ description: 肺臟、縱膈、氣道、胸膜、X光判讀
 | 84 | [Thoracic Imaging - Page 84](/core_radiology/docs/thoracic/84/) |
 | 85 | [Thoracic Imaging - Page 85](/core_radiology/docs/thoracic/85/) |
 | 86 | [Thoracic Imaging - Page 86](/core_radiology/docs/thoracic/86/) |
+
+## Learning Radiology 胸部X光基礎章節
+
+| 章節 Chapter | 內容 Topic | 連結 Link |
+|---|---|---|
+| LR 02 | Recognizing Normal Pulmonary Anatomy 正常肺部分解剖學 | [Normal Pulmonary Anatomy](/core_radiology/docs/thoracic/lr02-normal-pulmonary-anatomy/) |
+| LR 04 | Airspace vs Interstitial Lung Disease 肺泡型與間質型疾病 | [Airspace vs Interstitial](/core_radiology/docs/thoracic/lr04-airspace-interstitial/) |
+| LR 05 | Opacified Hemithorax 單側胸腔變白 | [Opacified Hemithorax](/core_radiology/docs/thoracic/lr05-opacified-hemithorax/) |
+| LR 06 | Recognizing Atelectasis 肺葉塌陷 | [Atelectasis](/core_radiology/docs/thoracic/lr06-atelectasis/) |
+| LR 07 | Recognizing Pleural Effusion 肋膜積液 | [Pleural Effusion](/core_radiology/docs/thoracic/lr07-pleural-effusion/) |
+| LR 08 | Recognizing Pneumonia 肺炎 | [Pneumonia](/core_radiology/docs/thoracic/lr08-pneumonia/) |
+| LR 09 | Lines and Tubes — ICU 導管與管線 | [Lines and Tubes](/core_radiology/docs/thoracic/lr09-lines-tubes/) |
+| LR 10 | Other Chest Diseases 其他胸部疾病（肺癌、肺栓塞） | [Other Chest Diseases](/core_radiology/docs/thoracic/lr10-other-chest-diseases/) |
+| LR 12 | Mediastinum 縱隔腔 | [Mediastinum](/core_radiology/docs/thoracic/lr12-mediastinum/) |
+| LR 14 | ICU Portable Chest X-ray ICU床旁胸部X光 | [ICU Portable CXR](/core_radiology/docs/thoracic/lr14-icu-portable-chest/) |
