@@ -49,3 +49,4 @@ Pages 658-693.
 | 691 | [Page 691](/core_radiology/docs/cardiovascular/page_691.md) |
 | 692 | [Page 692](/core_radiology/docs/cardiovascular/page_692.md) |
 | 693 | [Page 693](/core_radiology/docs/cardiovascular/page_693.md) |
+| 694 | [Page 694 — LR Integration: Cardiac Anatomy & Adult Heart Disease](/core_radiology/docs/cardiovascular/page_694.md) |

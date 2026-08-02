@@ -60,3 +60,4 @@ Pages 694–740.
 | 738 | [盆腔血管創傷（續）/ Pelvic Vascular Trauma (Continued)](/core_radiology/docs/interventional/738.md) |
 | 739 | [UAE 及慢性下肢动脉疾病 / UAE & Chronic Lower Extremity Disease](/core_radiology/docs/interventional/739.md) |
 | 740 | [急性下肢缺血 / Acute Lower Extremity Ischemia](/core_radiology/docs/interventional/740.md) |
+| 741 | [Page 741 — LR Integration: Interventional Radiology](/core_radiology/docs/interventional/page_741.md) |

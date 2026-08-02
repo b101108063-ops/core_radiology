@@ -79,3 +79,4 @@ Pages 592-657.
 | 655 | [Page 655](/core_radiology/docs/breast/655.md) |
 | 656 | [Page 656](/core_radiology/docs/breast/656.md) |
 | 657 | [Page 657](/core_radiology/docs/breast/657.md) |
+| LR | [LR Ch.29 — Breast Imaging (Learning Radiology Integration)](/core_radiology/docs/breast/page_658_lr.md) |

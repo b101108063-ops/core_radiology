@@ -84,3 +84,5 @@ Chapter 2 — Core Radiology
 | 155 | [Page 155](/core_radiology/docs/gi/155/) |
 | 156 | [Page 156](/core_radiology/docs/gi/156/) |
 | 157 | [Page 157](/core_radiology/docs/gi/157/) |
+| 158 | [Page 158 — LR Integration: GI/Hepatobiliary/Urinary](/core_radiology/docs/gi/page_158.md) |
+| 159 | [Page 159 — LR Integration: Abdominal Trauma](/core_radiology/docs/gi/page_159.md) |
