@@ -77,10 +77,49 @@
       margin: 0;
     }
 
+    .toc-group {
+      margin: 0.2rem 0;
+    }
+
+    .toc-group-header {
+      display: flex;
+      align-items: center;
+      padding: 0.3rem 0.5rem;
+      font-size: 0.75rem;
+      color: #aaa;
+      cursor: pointer;
+      border-radius: 4px;
+      user-select: none;
+    }
+
+    .toc-group-header:hover {
+      background: #1e1e1e;
+    }
+
+    .toc-group-header .arrow {
+      font-size: 0.6rem;
+      margin-right: 0.4rem;
+      transition: transform 0.2s;
+      color: #666;
+    }
+
+    .toc-group-header.collapsed .arrow {
+      transform: rotate(-90deg);
+    }
+
+    .toc-group-items {
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+
+    .toc-group-items.collapsed {
+      max-height: 0 !important;
+    }
+
     .toc-item {
       display: block;
-      padding: 0.3rem 0.6rem;
-      font-size: 0.8rem;
+      padding: 0.3rem 0.6rem 0.3rem 1.6rem;
+      font-size: 0.78rem;
       color: #888;
       text-decoration: none;
       border-radius: 4px;
@@ -340,13 +379,58 @@
     return;
   }
 
+  // Group headings: each H2 is a group, H3s belong to the previous H2
+  var groups = [];
+  var currentH2 = null;
+
   headings.forEach(function(h, i) {
     if (!h.id) h.id = 'heading-' + i;
-    var a = document.createElement('a');
-    a.href = '#' + h.id;
-    a.className = 'toc-item ' + (h.tagName === 'H2' ? 'toc-item-h2' : 'toc-item-h3');
-    a.textContent = h.textContent.replace(/[^\w\u4e00-\u9fff\u3000-\u303f\uff00-\uffef\s\-\(\)]/g, '').trim();
-    nav.appendChild(a);
+
+    if (h.tagName === 'H2') {
+      currentH2 = {
+        title: h.textContent.replace(/[^\w\u4e00-\u9fff\u3000-\u303f\uff00-\uffef\s\-\(\)]/g, '').trim(),
+        id: h.id,
+        items: []
+      };
+      groups.push(currentH2);
+    } else if (h.tagName === 'H3' && currentH2) {
+      currentH2.items.push({
+        title: h.textContent.replace(/[^\w\u4e00-\u9fff\u3000-\u303f\uff00-\uffef\s\-\(\)]/g, '').trim(),
+        id: h.id
+      });
+    }
+  });
+
+  groups.forEach(function(group, gi) {
+    var groupEl = document.createElement('div');
+    groupEl.className = 'toc-group';
+
+    // Group header (always visible, click to collapse)
+    var headerEl = document.createElement('div');
+    headerEl.className = 'toc-group-header';
+    headerEl.innerHTML = '<span class="arrow">▼</span>' + group.title;
+    headerEl.addEventListener('click', function() {
+      var items = groupEl.querySelector('.toc-group-items');
+      var isCollapsed = items.classList.contains('collapsed');
+      items.classList.toggle('collapsed');
+      headerEl.classList.toggle('collapsed', !isCollapsed);
+    });
+    groupEl.appendChild(headerEl);
+
+    // Items container
+    var itemsEl = document.createElement('div');
+    itemsEl.className = 'toc-group-items';
+
+    group.items.forEach(function(item) {
+      var a = document.createElement('a');
+      a.href = '#' + item.id;
+      a.className = 'toc-item';
+      a.textContent = item.title;
+      itemsEl.appendChild(a);
+    });
+
+    groupEl.appendChild(itemsEl);
+    nav.appendChild(groupEl);
   });
 
   var items = nav.querySelectorAll('.toc-item');
