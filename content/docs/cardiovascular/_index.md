@@ -184,11 +184,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 695
 
 
 
-![Page 695](/core_radiology/images/interventional/page-695.png)
 
 
 
@@ -308,11 +306,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 696
 
 
 
-![Page 696](/core_radiology/images/interventional/page-696.png)
 
 
 
@@ -418,11 +414,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 697
 
 
 
-![Page 697](/core_radiology/images/interventional/page-697.png)
 
 
 
@@ -530,11 +524,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 698
 
 
 
-![Page 698](/core_radiology/images/interventional/page-698.png)
 
 
 
@@ -674,11 +666,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 699
 
 
 
-![Page 699](/core_radiology/images/interventional/page-699.png)
 
 
 
@@ -768,11 +758,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 700
 
 
 
-![Page 700](/core_radiology/images/interventional/page-700.png)
 
 
 
@@ -838,11 +826,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 701
 
 
 
-![Page 701](/core_radiology/images/interventional/page-701.png)
 
 
 
@@ -884,11 +870,9 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 702
 
 
 
-![Page 702](/core_radiology/images/interventional/page-702.png)
 
 
 ## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging
