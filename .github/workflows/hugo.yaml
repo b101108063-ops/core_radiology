@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: |
           git clone https://github.com/alex-shpak/hugo-book themes/hugo-book
-          hugo --minify
+          hugo
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
