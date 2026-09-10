@@ -3,12 +3,11 @@ title: "Neuroimaging"
 weight: 4
 ---
 
-# Neuro
 
 # Neuroimaging - Page 201
 
 
-### 神經影像學 / Neuroimaging — Chapter 4
+## 神經影像學 / Neuroimaging — Chapter 4
 
 **Contents / 目錄**
 
@@ -40,20 +39,18 @@ weight: 4
 | Spine tumors / 脊椎腫瘤 | 328 |
 | Degenerative spine / 退化性脊椎 | 334 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 神經影像學涵蓋腦部、脊椎、頭頸部影像診斷，為放射科核心領域
 > - 本章節依解剖區域系統性編排：腦實質 → 頭頸部 → 脊椎
 > - 熟悉正常解剖與變異為正確診斷之基礎
 
----
-
 # Neuroimaging - Page 202
 
 
-### 腦室系統解剖 / Ventricular Anatomy
+## 腦室系統解剖 / Ventricular Anatomy
 
-#### 側腦室結構 / Lateral Ventricle Anatomy
+### 側腦室結構 / Lateral Ventricle Anatomy
 
 | 結構 Structure | 位置 Location |
 |---|---|
@@ -64,7 +61,7 @@ weight: 4
 | **Temporal horn / 顳角** | Lateral ventricle, inferior |
 | **Foramen of Monro** | Connects lateral ventricles → third ventricle |
 
-#### 第三腦室 / Third Ventricle
+### 第三腦室 / Third Ventricle
 
 | 凹陷 Recess | 位置 Position |
 |---|---|
@@ -76,27 +73,25 @@ weight: 4
 - **Massa intermedia（間腦黏連）**：連接兩側視丘的灰白質結構
 - **Cerebral aqueduct（中腦水管/Sylvian導水管）**：連接第三與第四腦室
 
-#### 第四腦室 / Fourth Ventricle
+### 第四腦室 / Fourth Ventricle
 
 - 向下延續為脊髓中央管
 - 經三個孔道排入蜘蛛膜下腔：
   - **Foramina of Luschka（一對，側面）**
   - **Foramen of Magendie（單一，中線）**
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 腦室系統阻塞會導致**腦積水（hydrocephalus）**，需確認阻塞位置與原因
 > - **Foramen of Monro** 阻塞→單側腦室擴大；**中腦水管**阻塞→第三與側腦室擴大
 > - 熟悉腦室系統解剖為評估腦積水、腦內壓升高及腫瘤佔位之基礎
 
----
-
 # Neuroimaging - Page 203
 
 
-### 腦脊髓液與腦水腫 / CSF and Cerebral Edema
+## 腦脊髓液與腦水腫 / CSF and Cerebral Edema
 
-#### 腦脊髓液動力學 / CSF Dynamics
+### 腦脊髓液動力學 / CSF Dynamics
 
 | 項目 Item | 數值 Value |
 |---|---|
@@ -109,7 +104,7 @@ weight: 4
 - **CSF 吸收**：主要經蜘蛛膜顆粒（arachnoid granulations）吸收至靜脈竇，少部分經淋巴系統與腦靜脈吸收
 - **注意**：腦室內無脈絡叢：大腦水管、枕角、額角
 
-### 腦水腫類型 / Types of Cerebral Edema
+## 腦水腫類型 / Types of Cerebral Edema
 
 | 類型 Type | 機制 Mechanism | 影像特徵 Imaging Features |
 |---|---|---|
@@ -117,24 +112,22 @@ weight: 4
 | **血管性水腫 Vasogenic edema** | 毛細血管通透性增加 | 主要影響白質；ADC ↑；常見於腫瘤、感染、梗塞 |
 | **間質性水腫 Interstitial edema** | CSF 流動不平衡 | 腦室周圍液體堆積（transependymal flow）；常見於阻塞性腦積水 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **細胞毒性水腫**：ADC 值降低；為急性腦梗塞的早期指標（數分鐘內可見）
 > - **血管性水腫**：ADC 值升高；常見於腫瘤周圍（需與腫瘤浸潤鑑別）
 > - 腦水腫類型的鑑別有助於縮小診斷範圍並指導治療
 
----
-
 # Neuroimaging - Page 204
 
 
-### 腦疝脫 / Herniation Syndromes
+## 腦疝脫 / Herniation Syndromes
 
-#### 定義 / Definition
+### 定義 / Definition
 
 - 顱腔容積固定，顱內壓增加時可導致腦組織跨越大腦鍘膜褶皺突出
 
-#### 腦疝脫分類 / Classification of Herniation
+### 腦疝脫分類 / Classification of Herniation
 
 | 類型 Type | 機制 Mechanism | 併發症 Complications |
 |---|---|---|
@@ -142,35 +135,33 @@ weight: 4
 | **經小腦幕疝脫（Transtentorial/Uncal herniation）** | 內側顳葉（鉤迴）向下經小腦幕切跡 | CN III 麻痺；PCA 受壓→顳枕葉梗塞；Duret 出血；對側大腦腳受壓 |
 | **小腦扁桃體疝脫（Tonsillar herniation）** | 小腦扁桃體向下穿過枕骨大孔 | 延腦受壓迫→呼吸抑制，常可致命 |
 
-### 經小腦幕（鉤迴）疝脫 — 向下型 / Downward Transtentorial Herniation
+## 經小腦幕（鉤迴）疝脫 — 向下型 / Downward Transtentorial Herniation
 
-#### 臨床與影像特徵 / Clinical and Imaging Features
+### 臨床與影像特徵 / Clinical and Imaging Features
 
 - **CN III（動眼神經）受壓**：瞳孔放大、眼球「下外」偏斜
 - **PCA（大脑後动脉）受壓**：內側顳葉/枕葉梗塞
 - **Duret 出血**：中腦、橋腦被蓋部點狀出血（穿通血管剪切）
 - **對側大腦腳受壓**：對側偏癱（同側病變側偏癱 = Kernohan 現象）
 
-### 小腦扁桃體疝脫 / Cerebellar Tonsillar Herniation
+## 小腦扁桃體疝脫 / Cerebellar Tonsillar Herniation
 
 - **致命性**：延腦呼吸中樞受壓
 - **後顱窩容積有限**：小腦梗塞易發生疝脫
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Subfalcine 疝脫**：最常見；扣帶迴下方移位，注意 ACA 梗塞與單側腦積水
 > - **Uncal 疝脫**：瞳孔放大為早期徵兆；注意 CN III 麻痺與 Duret 出血
 > - **Tonsillar 疝脫**：後顱窩病變（腫瘤、梗塞、出血）之緊急併發症
 > - 腦疝脫為神經放射科急症，需立即處理顱內壓升高
 
----
-
 # Neuroimaging - Page 205
 
 
-### 水腦症 / Hydrocephalus
+## 水腦症 / Hydrocephalus
 
-#### 交通性水腦症 / Communicating Hydrocephalus
+### 交通性水腦症 / Communicating Hydrocephalus
 
 | 特徵 Feature | 說明 Description |
 |---|---|
@@ -178,48 +169,46 @@ weight: 4
 | **原因** | 蜘蛛膜下腔出血（影響蜘蛛膜顆粒吸收）；腦膜炎 |
 | **正常壓力水腦症（NPH）** | 交通性水腦的一種；CSF 壓力正常；典型三聯症：癡呆、步態不穩、尿失禁 |
 
-#### 非交通性（阻塞性）水腦症 / Noncommunicating (Obstructive) Hydrocephalus
+### 非交通性（阻塞性）水腦症 / Noncommunicating (Obstructive) Hydrocephalus
 
 | 特徵 Feature | 說明 Description |
 |---|---|
 | **定義** | 腦室系統中某處阻塞 |
 | **常見原因** | 第三腦室囊腫（colloid cyst）；後顱窩腫瘤阻塞第四腦室出口 |
 
-### 軸內與軸外病變 / Intra-axial vs. Extra-axial Lesions
+## 軸內與軸外病變 / Intra-axial vs. Extra-axial Lesions
 
 | 類型 Type | 定義 Definition | 範例 Examples |
 |---|---|---|
 | **軸內病變（Intra-axial）** | 病變位於腦實質內（軟膜下） | 膠質瘤、轉移瘤、腦膿瘋 |
 | **軸外病變（Extra-axial）** | 病變位於軟膜之外 | 腦膜瘤、神經鞘瘤、硬膜外膿瘋 |
 
-### 基底池 / Basal Cisterns
+## 基底池 / Basal Cisterns
 
 - 基底池（又稱中腦周圍池）為圍繞中腦與橋腦的 CSF 填充空間
 - 包括：鞍上池（suprasellar cistern）、橋前池（prepontine cistern）、腳間池（interpeduncular cistern）、環池（ambient cistern）、四疊體池（quadrigeminal cistern）
 - **臨床意義**：基底池受壓或消失為即將發生或已發生腦疝脫的徵兆
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **NPH** 為可治療之癡呆原因，典型三聯症：步態不穩、記憶減退、大小便失禁
 > - 軸內與軸外病變的鑑別影響鑑別診斷方向（軸外：腦膜瘤、神經鞘瘤；軸內：膠質瘤、轉移瘤）
 > - 基底池消失提示顱內壓升高及腦疝脫風險
 > - 熟悉腦室與基底池正常解剖為評估水腦症與顱內壓升高之基礎
 
----
-
 # Neuroimaging - Page 206
 
 
-### MRI 於神經放射學 / MRI in Neuroradiology
+## MRI 於神經放射學 / MRI in Neuroradiology
 
-#### T1 與 T2 信號原則 / T1 and T2 Signal Principles
+### T1 與 T2 信號原則 / T1 and T2 Signal Principles
 
 | 訊號 Signal | T1 效應 T1 Effect | T2 效應 T2 Effect |
 |---|---|---|
 | **縮短（Shortening）** | T1 加權像：**高信號（明亮）** | T2 加權像：**低信號（黑暗）** |
 | **延長（Prolongation）** | T1 加權像：**低信號（黑暗）** | T2 加權像：**高信號（明亮）** |
 
-#### T1 高信號原因 / Causes of T1 Hyperintensity
+### T1 高信號原因 / Causes of T1 Hyperintensity
 
 | 原因 Cause | 說明 Description |
 |---|---|
@@ -232,7 +221,7 @@ weight: 4
 | **Slow-flowing blood（慢速血流）** | 血管內 |
 | **Calcium（鈣化）** | 少見（常為低信號）|
 
-#### T2 低信號原因 / Causes of T2 Hypointensity
+### T2 低信號原因 / Causes of T2 Hypointensity
 
 | 原因 Cause | 說明 Description |
 |---|---|
@@ -243,7 +232,7 @@ weight: 4
 | **Flow void（血流信號缺失）** | 快速血流 |
 | **Desiccated mucin（乾燥黏液）** | 鼻竇病變 |
 
-### FLAIR（液體衰減反轉恢復）序列 / FLAIR
+## FLAIR（液體衰減反轉恢復）序列 / FLAIR
 
 | 特性 Feature | 說明 Description |
 |---|---|
@@ -251,21 +240,19 @@ weight: 4
 | **灰白質對比** | T1：白質比灰質亮；FLAIR：白質比灰質暗 |
 | **臨床應用** | 腦梗塞、脫髓鞘疾病、腦室周圍病變 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **T1 高信號**常見原因：脂肪、出血、顯影劑、蛋白質——快速鑑別診斷線索
 > - **T2 低信號**需注意：鈣化、出血、纖維化、高細胞密度腫瘤
 > - **FLAIR** 為神經放射科主力序列，CSF 抑制使腦室周圍及皮質病變更易見
 > - 正確術語：「病灶在 T2 加權影像上呈高信號」，而非「T2 縮短」
 
----
-
 # Neuroimaging - Page 207
 
 
-### 擴散加權影像與 ADC / Diffusion-Weighted Imaging and ADC
+## 擴散加權影像與 ADC / Diffusion-Weighted Imaging and ADC
 
-#### 基本原理 / Basic Principles
+### 基本原理 / Basic Principles
 
 | 項目 Item | 說明 Description |
 |---|---|
@@ -274,12 +261,12 @@ weight: 4
 | **ADC（表觀擴散係數）圖** | 純擴散資訊，無 T2 加權；受限擴散→**低信號** |
 | **臨床靈敏度** | 腦梗塞症狀發生後數分鐘內即可見，敏感度與特異度約 95% |
 
-#### T2 透射效應 / T2 Shine-through
+### T2 透射效應 / T2 Shine-through
 
 - DWI 本身含 T2 加權，因此 T2 高信號病變可能同時在 DWI 上呈高信號
 - 需與 ADC 圖對照：若 ADC 同時為低信號（暗），方能確診受限擴散
 
-#### 受限擴散鑑別診斷 / Differential Diagnosis of Restricted Diffusion
+### 受限擴散鑑別診斷 / Differential Diagnosis of Restricted Diffusion
 
 | 病因 Etiology | 說明 Description |
 |---|---|
@@ -290,31 +277,29 @@ weight: 4
 | **皰疹病毒腦炎 Herpes encephalitis** | 早期可見 |
 | **CJD（Creutzfeldt–Jakob disease）** | 皮質/基底節區域 |
 
-#### 各向異性 / Anisotropy
+### 各向異性 / Anisotropy
 
 - 腦內擴散影像在三個正交梯度方向取得，以補償大白質束的固有各向異性
 - b 值越高：擴散對比越佳，但信噪比降低
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **DWI 為急性腦梗塞的首選序列**，症狀發生後數分鐘即可見高信號
 > - **ADC 低信號（暗）**= 受限擴散；**ADC 高信號（亮）**= 自由擴散（T2 透射）
 > - 膿瘋與囊腫（表皮樣囊腫）均呈受限擴散，但 ADC 值有所不同
 > - 注意 **T2 透射效應**：DWI 高信號但 ADC 正常/高信號時，並非真正受限擴散
 
----
-
 # Neuroimaging - Page 208
 
 
-### 磁敏感加權成像 / Susceptibility-Weighted Imaging (GRE)
+## 磁敏感加權成像 / Susceptibility-Weighted Imaging (GRE)
 
 | 項目 Item | 說明 Description |
 |---|---|
 | **原理** | 擷取 T2* 訊號；省略 180° 再聚焦脈衝，對磁場不均勻性敏感 |
 | **臨床價值** | 檢出微小出血（hemosiderin）與鈣化；造成「暈染」假影，使小病灶更明顯 |
 
-#### 多發黑點鑑別診斷 / Differential of Multiple Dark Spots on GRE
+### 多發黑點鑑別診斷 / Differential of Multiple Dark Spots on GRE
 
 | 病因 Etiology | 病變分布 Distribution |
 |---|---|
@@ -324,9 +309,9 @@ weight: 4
 | **軸索剪切傷 Axonal shear injury** | 瀰漫性灰白質交界處 |
 | **多發性出血性轉移瘤 Hemorrhagic metastases** | 灰白質交界處 |
 
-### 磁共振波譜 / MR Spectroscopy (MRS)
+## 磁共振波譜 / MR Spectroscopy (MRS)
 
-#### 基本原理 / Basic Principles
+### 基本原理 / Basic Principles
 
 | 化合物 Compound | 意義 Significance |
 |---|---|
@@ -336,32 +321,30 @@ weight: 4
 | **Lactate（乳酸）** | 無氧代謝；惡性腫瘤中可見「雙峰」 |
 | **Canavan 病** | 罕見 NAA 升高之脫髓鞘疾病 |
 
-#### 波譜分析要點 / Spectroscopy Key Points
+### 波譜分析要點 / Spectroscopy Key Points
 
 - 膠質母細胞瘤：光譜逐漸過渡（浸潤性生長）；轉移瘤：光譜突然變化
 - **Hunter's angle**：正常光譜中連接最高峰的連線應向上翹起（如起飛之飛機）
 
-### 灌流加權成像 / Perfusion-Weighted Imaging
+## 灌流加權成像 / Perfusion-Weighted Imaging
 
 | 項目 Item | 說明 Description |
 |---|---|
 | **原理** | 快速重複成像（EPI）並注射 GD-DTPA 對比劑；對比劑造成訊號**暫時降低** |
 | **臨床應用** | 腦中風評估；腫瘤分級（高度惡性腫瘤 rCBV 升高）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **GRE/SWI**：檢出微出血首選；腦微出血常分布於特定解剖位置，有助於病因鑑別
 > - **MRS**：區分膠質母細胞瘤（浸潤性光譜變化）與轉移瘤（突然變化）；區分復發腫瘤與放射性壞死（放射性壞死 rCBV 低）
 > - **Perfusion**：高度惡性膠質瘤 rCBV 升高；鑑別腫瘤復發（高 rCBV）與放射性壞死（低 rCBV）
 
----
-
 # Neuroimaging - Page 209
 
 
-### 腦部增強模式 / Patterns of Enhancement in the Brain
+## 腦部增強模式 / Patterns of Enhancement in the Brain
 
-#### 血腦屏障與增強 / Blood-Brain Barrier and Enhancement
+### 血腦屏障與增強 / Blood-Brain Barrier and Enhancement
 
 | 結構 Structure | 是否正常增強 Normal Enhancement? |
 |---|---|
@@ -372,14 +355,14 @@ weight: 4
 | **Area postrema** | ✓ 正常增強（第四腦室底部）|
 | **硬膜 Dura** | ✗ 正常不增強（但缺乏 BBB）|
 
-#### 腦膜增強分類 / Classification of Meningeal Enhancement
+### 腦膜增強分類 / Classification of Meningeal Enhancement
 
 | 類型 Type | 位置 Location | 特徵 Features |
 |---|---|---|
 | **Pachymeningeal（硬膜）增強** | 硬腦膜；厚、線性 | 硬膜水腫信號（非 BBB 破裂）|
 | **Leptomeningeal（軟膜-蜘蛛膜）增強** | 軟膜+蜘蛛膜；沿腦溝蜿蜒 | CSF 分布；腦表面輪廓 |
 
-#### 腦室周圍增強（軸內）/ Periventricular Enhancement
+### 腦室周圍增強（軸內）/ Periventricular Enhancement
 
 | 病因 Etiology | 影像特徵 Imaging Features |
 |---|---|
@@ -388,21 +371,19 @@ weight: 4
 | **原發性膠質瘤 Primary glial tumor** | 浸潤性，可有腦室周圍強化 |
 | **多發性硬化症 Multiple sclerosis** | 活性斑塊可有強化；亞表層表面受累 |
 
-#### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 缺乏 BBB 之正常結構（脈絡叢、腦下垂體、松果體）本身即可強化
 > - **腦室周圍強化**：淋巴瘤（高細胞密度，ADC 低）、感染性室管膜炎（細線性）、脫髓鞘（不完全環形強化）
 > - 硬膜增強在 CT 上不可見（骨頭與硬膜均呈白色），MRI 為首選
 > - 增強類型的鑑別對病因診斷至關重要
 
----
-
 # Neuroimaging - Page 210
 
 
-### 環形強化 / Ring Enhancement
+## 環形強化 / Ring Enhancement
 
-#### 記憶口訣 / MAGIC DR
+### 記憶口訣 / MAGIC DR
 
 **M.A.G.I.C. D.R.** — 環形強化鑑別診斷：
 
@@ -416,7 +397,7 @@ weight: 4
 | **D** | **Demyelination（脫髓鞘）** | 無顯著佔位效應；強化環常不完全（"C"形）|
 | **R** | **Radiation（放射性壞死）** | 與高級別腫瘤外觀相同；rCBV 低 |
 
-#### 疾病特徵 / Disease-Specific Features
+### 疾病特徵 / Disease-Specific Features
 
 | 疾病 Disease | 強化特徵 Enhancement Features |
 |---|---|
@@ -426,25 +407,23 @@ weight: 4
 | **脫髓鞘 Demyelination** | 無佔位效應；"C"形強化（不完全環）|
 | **放射性壞死 Radiation necrosis** | rCBV 降低（與腫瘤復發鑑別）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 環形強化最常見原因：**高級別腫瘤**與**膿瘋**；臨床病史關鍵
 > - **膿瘋**：DWI 高信號 + ADC 低信號為最具鑑別價值的序列
 > - **脫髓鞘**：缺乏佔位效應 + 不完全環形強化為典型表現
 > - **放射性壞死 vs 腫瘤復發**：perfusion MRI（rCBV）為關鍵鑑別工具
 
----
-
 # Neuroimaging - Page 211
 
 
-### 神經影像學引言 / Introduction
+## 神經影像學引言 / Introduction
 
 本章節涵蓋腦部、脊椎與頭頸部影像診斷，為放射科核心領域。
 
-### 腦室系統解剖 / Ventricular Anatomy
+## 腦室系統解剖 / Ventricular Anatomy
 
-#### 側腦室結構 / Lateral Ventricle
+### 側腦室結構 / Lateral Ventricle
 
 | 結構 Structure | 位置 Position |
 |---|---|
@@ -455,7 +434,7 @@ weight: 4
 | **Temporal horn / 顳角** | 側腦室下方 |
 | **Foramen of Monro** | 連接側腦室與第三腦室 |
 
-#### 第三腦室 / Third Ventricle
+### 第三腦室 / Third Ventricle
 
 | 凹陷 Recess | 位置 Position |
 |---|---|
@@ -467,23 +446,21 @@ weight: 4
 - **Massa intermedia（間腦黏連）**：連接兩側視丘
 - **Cerebral aqueduct（Sylvian 導水管）**：連接第三與第四腦室
 
-#### 第四腦室 / Fourth Ventricle
+### 第四腦室 / Fourth Ventricle
 
 - 向下延續為脊髓中央管
 - 三個出口排入蜘蛛膜下腔：**Luschka（一對，側面）**、**Magendie（單一，中線）**
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 腦室系統為 CSF 循環路徑：側腦室 → Monro孔 → 第三腦室 → 中腦水管 → 第四腦室 → 蜘蛛膜下腔
 > - **Massa intermedia** 為視丘間連接結構，第三腦室腫瘤可使其移位
 > - 熟悉腦室解剖為評估腦積水與佔位性病變之基礎
 
----
-
 # Neuroimaging - Page 212
 
 
-### 腦脊髓液動力學 / CSF Dynamics
+## 腦脊髓液動力學 / CSF Dynamics
 
 | 項目 Item | 數值 Value |
 |---|---|
@@ -496,7 +473,7 @@ weight: 4
 - **注意**：腦室內無脈絡叢：大腦水管、枕角、額角
 - **CSF 吸收**：主要經蜘蛛膜顆粒（arachnoid granulations）吸收至靜脈竇，少部分經淋巴系統與腦靜脈吸收
 
-### 腦水腫 / Cerebral Edema
+## 腦水腫 / Cerebral Edema
 
 | 類型 Type | 機制 Mechanism | 影像特徵 Imaging Features |
 |---|---|---|
@@ -504,25 +481,23 @@ weight: 4
 | **血管性水腫 Vasogenic edema** | 毛細血管通透性增加 | 主要影響白質；ADC ↑；常見於腫瘤、感染、梗塞 |
 | **間質性水腫 Interstitial edema** | CSF 流動不平衡 | 腦室周圍液體堆積（transependymal flow）；常見於阻塞性腦積水 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **細胞毒性水腫**：ADC 值降低，為急性腦梗塞的早期指標
 > - **血管性水腫**：ADC 值升高，常見於腫瘤周圍
 > - **間質性水腫**：腦室周圍 CSF 滲透，見於阻塞性腦積水
 > - 腦水腫類型的鑑別有助於縮小診斷範圍
 
----
-
 # Neuroimaging - Page 213
 
 
-### 腦疝脫 / Herniation Syndromes
+## 腦疝脫 / Herniation Syndromes
 
-#### 定義 / Definition
+### 定義 / Definition
 
 - 顱腔容積固定，顱內壓增加時可導致腦組織跨越大腦鍘膜褶皺突出
 
-#### 腦疝脫分類 / Classification of Herniation
+### 腦疝脫分類 / Classification of Herniation
 
 | 類型 Type | 機制 Mechanism | 併發症 Complications |
 |---|---|---|
@@ -530,26 +505,24 @@ weight: 4
 | **經小腦幕（鉤迴）疝脫（Transtentorial/Uncal herniation）** | 內側顳葉（鉤迴）向下經小腦幕切跡 | CN III 麻痺；PCA 受壓→顳枕葉梗塞；Duret 出血；對側大腦腳受壓 |
 | **小腦扁桃體疝脫（Tonsillar herniation）** | 小腦扁桃體向下穿過枕骨大孔 | 延腦受壓迫→呼吸抑制，常可致命 |
 
-#### 向上經小腦幕疝脫 / Upward Transtentorial Herniation
+### 向上經小腦幕疝脫 / Upward Transtentorial Herniation
 
 - 後顱窩腫塊效應導致小腦蚓部向上經小腦幕突出
 - 主要併發症：中腦水管阻塞→阻塞性腦積水
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Subfalcine 疝脫**：最常見；ACA 梗塞與單側腦積水為常見併發症
 > - **Uncal 疝脫**：瞳孔放大（CN III 麻痺）為早期徵兆
 > - **向上型經小腦幕疝脫**：後顱窩病變之緊急併發症，導致腦積水
 > - 腦疝脫為神經放射科急症，需立即處理顱內壓升高
 
----
-
 # Neuroimaging - Page 214
 
 
-### 水腦症 / Hydrocephalus
+## 水腦症 / Hydrocephalus
 
-#### 交通性水腦症 / Communicating Hydrocephalus
+### 交通性水腦症 / Communicating Hydrocephalus
 
 | 特徵 Feature | 說明 Description |
 |---|---|
@@ -557,21 +530,21 @@ weight: 4
 | **原因** | 蜘蛛膜下腔出血（影響蜘蛛膜顆粒吸收）；腦膜炎 |
 | **正常壓力水腦症（NPH）** | 交通性水腦；CSF 壓力正常；三聯症：癡呆、步態不穩、尿失禁 |
 
-#### 非交通性（阻塞性）水腦症 / Noncommunicating (Obstructive) Hydrocephalus
+### 非交通性（阻塞性）水腦症 / Noncommunicating (Obstructive) Hydrocephalus
 
 | 特徵 Feature | 說明 Description |
 |---|---|
 | **定義** | 腦室系統中某處阻塞 |
 | **常見原因** | 第三腦室囊腫（colloid cyst）；後顱窩腫瘤阻塞第四腦室出口 |
 
-### 軸內與軸外病變 / Intra-axial vs. Extra-axial Lesions
+## 軸內與軸外病變 / Intra-axial vs. Extra-axial Lesions
 
 | 類型 Type | 定義 Definition | 範例 Examples |
 |---|---|---|
 | **軸內病變（Intra-axial）** | 位於腦實質內（軟膜下） | 膠質瘤、轉移瘤、腦膿瘋 |
 | **軸外病變（Extra-axial）** | 位於軟膜之外 | 腦膜瘤、神經鞘瘤、硬膜外膿瘋 |
 
-### 基底池 / Basal Cisterns
+## 基底池 / Basal Cisterns
 
 | 結構 Structure | 位置 Position |
 |---|---|
@@ -583,28 +556,26 @@ weight: 4
 
 - 基底池消失提示顱內壓升高及腦疝脫風險
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **NPH** 為可治療之癡呆原因，典型三聯症：步態不穩、記憶減退、大小便失禁
 > - 軸內與軸外病變的鑑別影響鑑別診斷方向
 > - 基底池消失為顱內壓升高及腦疝脫的徵兆
 > - 後顱窩腫瘤易導致阻塞性腦積水
 
----
-
 # Neuroimaging - Page 215
 
 
-### MRI 於神經放射學 / MRI in Neuroradiology
+## MRI 於神經放射學 / MRI in Neuroradiology
 
-#### T1 與 T2 信號原則 / T1 and T2 Signal Principles
+### T1 與 T2 信號原則 / T1 and T2 Signal Principles
 
 | 訊號改變 Signal Change | T1 加權像 T1-weighted | T2 加權像 T2-weighted |
 |---|---|---|
 | **縮短 Shortening** | **高信號（明亮）** | **低信號（黑暗）** |
 | **延長 Prolongation** | 低信號（黑暗） | 高信號（明亮） |
 
-#### T1 高信號原因 / Causes of T1 Hyperintensity
+### T1 高信號原因 / Causes of T1 Hyperintensity
 
 | 原因 Cause | 說明 |
 |---|---|
@@ -617,7 +588,7 @@ weight: 4
 | **Slow-flowing blood（慢速血流）** | 血管內 |
 | **Calcium（鈣化）** | 少見 |
 
-#### T2 低信號原因 / Causes of T2 Hypointensity
+### T2 低信號原因 / Causes of T2 Hypointensity
 
 | 原因 Cause | 說明 |
 |---|---|
@@ -628,7 +599,7 @@ weight: 4
 | **Flow void（血流信號缺失）** | 快速血流 |
 | **Desiccated mucin（乾燥黏液）** | 鼻竇病變 |
 
-#### FLAIR 序列 / FLAIR
+### FLAIR 序列 / FLAIR
 
 | 特性 Feature | 說明 |
 |---|---|
@@ -636,14 +607,12 @@ weight: 4
 | **灰白質對比** | T1：白質 > 灰質；FLAIR：白質 < 灰質 |
 | **臨床應用** | 腦梗塞、脫髓鞘疾病、腦室周圍病變 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **T1 高信號**三常見原因：脂肪、出血、顯影劑
 > - **T2 低信號**需注意：鈣化、出血、纖維化、高細胞密度腫瘤
 > - **FLAIR** 為神經放射科主力序列，CSF 抑制使腦室周圍病變更易見
 > - 正確術語：「病灶在 T2 加權影像上呈高信號」
-
----
 
 # Neuroimaging - Page 216
 
@@ -651,45 +620,45 @@ weight: 4
 
 ## 擴散加權成像 / Diffusion Weighted Imaging (DWI) 與錶觀擴散係數 / Apparent Diffusion Coefficient (ADC)
 
-### 擴散MRI原理 / Principles of Diffusion MRI
+## 擴散MRI原理 / Principles of Diffusion MRI
 
 - 擴散加權成像基於**布朗運動**原理——水分子質子的隨機運動可被成像
 - 布朗運動越強，信號衰減越大
 - **游離水（腦脊液）** 受信號衰減影響最大
 - 病理性過程（特別是**缺血**）導致擴散率降低，信號衰減減少
 
-### 擴散MRI的組成 / Components of Diffusion MRI
+## 擴散MRI的組成 / Components of Diffusion MRI
 
 | 序列 Sequence | 特徵 Features |
 |---|---|
 | **DWI（擴散加權成像）** | 本質上為T2加權序列（使用回波平面技術）；降低擴散率呈**高信號** |
 | **ADC圖** | 顯示純擴散信息，無T2權重；降低擴散率呈**低信號** |
 
-### 臨床應用 / Clinical Applications
+## 臨床應用 / Clinical Applications
 
 - 擴散成像徹底改變了**腦梗塞**的評估
 - 症狀發作後數分鐘內，敏感性和特異性約達 **95%**
 - 在腦卒中成像中，擴散受限組織代表**梗塞區**
 
-### 重要陷阱：DWI穿透效應 / Important Pitfall: T2 Shine-Through
+## 重要陷阱：DWI穿透效應 / Important Pitfall: T2 Shine-Through
 
 - DWI圖像本質上為T2加權
 - 本身在T2加權圖像上呈高信號的病變，可能在DWI上呈高信號，但並非真正的擴散受限
 - **確診必須與ADC圖相互對照**：對應的低信號灶證實真正的擴散受限
 
-### 技術考量 / Technical Considerations
+## 技術考量 / Technical Considerations
 
 - 擴散圖像在三個正交梯度方向上採集，以克服大型白質束的固有各向異性
 - **各向異性**：水分子沿白質束方向擴散的趨勢
 
-### b值 / b-value
+## b值 / b-value
 
 - b值是影響擴散異常檢測靈敏度的關鍵參數
 - **高b值** = 檢測降低擴散率的對比度更佳
 - 代價：信噪比降低（除非掃描時間相應增加）
 - ADC圖由至少兩個不同b值的圖像計算得出
 
-### 降低擴散的鑑別診斷 / Differential Diagnosis for Reduced Diffusion
+## 降低擴散的鑑別診斷 / Differential Diagnosis for Reduced Diffusion
 
 | 病因 Etiology | 說明 Notes |
 |---|---|
@@ -700,20 +669,18 @@ weight: 4
 | **皰疹病毒腦炎** | Herpes encephalitis |
 | **克雅二氏症** | Creutzfeldt–Jakob disease |
 
-### 質子密度成像 / Proton Density (PD) Imaging
+## 質子密度成像 / Proton Density (PD) Imaging
 
 - 質子密度圖像並非常用神經影像MRI方案中的常規序列
 - 但質子密度序列在評估**多發性硬化症（MS）**方面有最高信噪比
 - 對後顱窩脫髓鞘斑塊的可視化特別有價值
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **DWI**是檢測急性腦梗塞的首選序列，症狀發作後數分鐘內即可見受限信號
 > - **ADC圖**是確診工具：DWI高信號 + ADC低信號 = 真正的擴散受限
 > - **T2穿透效應**：單看DWI高信號不足以確診，必須與ADC相互對照
 > - 識別導致擴散受限的病因時，須結合臨床病史：DWI對鑑別梗塞、膿瘋、腫瘤至關重要
-
----
 
 # Neuroimaging - Page 217
 
@@ -721,13 +688,13 @@ weight: 4
 
 ## 梯度回憶回波 / Gradient Recall Echo (GRE)
 
-### GRE信號特徵 / Signal Characteristics
+## GRE信號特徵 / Signal Characteristics
 
 - GRE捕捉**T2\*信號**
 - 由於省略了180度重聚焦脈衝，GRE圖像對**磁場不均勻性**敏感
 - **含鐵血紅素（hemosiderin）和鈣化**在磁場中產生不均勻性，在GRE上形成**「暈染」偽影**，使即使是小型病變也非常醒目
 
-### GRE低信號灶的鑑別診斷 / Differential Diagnosis of Multiple Dark Spots on GRE
+## GRE低信號灶的鑑別診斷 / Differential Diagnosis of Multiple Dark Spots on GRE
 
 | 病因 Etiology | 特徵性分布 Characteristic Distribution |
 |---|---|
@@ -741,13 +708,13 @@ weight: 4
 
 ## 磁共振波譜 / Magnetic Resonance Spectroscopy (MRS)
 
-### 基本原理 / Principles
+## 基本原理 / Principles
 
 - MRS描述腦區域的**化學成分**
 - 可幫助區分**復發腫瘤與放射性壞死**
 - 有助於鑑別**膠質母細胞瘤與轉移瘤**
 
-### 關鍵化合物與波譜 / Key Compounds and Spectroscopy
+## 關鍵化合物與波譜 / Key Compounds and Spectroscopy
 
 | 化合物 Compound | 正常作用 Normal Role | 病變時變化 Changes in Disease |
 |---|---|---|
@@ -756,12 +723,12 @@ weight: 4
 | **肌酸（Creatine）** | 細胞能量儲備 | 提供能量代謝信息 |
 | **乳酸（Lactate）** | 無氧代謝產物 | 高級別腫瘤中出現**乳酸雙峰**，提示無氧代謝 |
 
-### 波譜解讀：亨特角 / Hunter's Angle
+## 波譜解讀：亨特角 / Hunter's Angle
 
 - 連接最高峰畫一條線，正常的波譜應像起飛的飛機**向上傾斜**
 - 若線向下傾斜，提示波譜異常
 
-### 腫瘤波譜特徵 / Tumor Spectroscopy Features
+## 腫瘤波譜特徵 / Tumor Spectroscopy Features
 
 | 腫瘤類型 | 波譜特徵 Spectroscopic Features |
 |---|---|
@@ -772,13 +739,13 @@ weight: 4
 
 ## 灌注加權成像 / Perfusion Weighted Imaging
 
-### 基本原理 / Principles
+## 基本原理 / Principles
 
 - 彈性成像技術：在注射對比劑團塊（bolus）時反覆成像
 - 原理：Gd對比劑造成磁場干擾，**瞬時降低**圖像強度
 - 灌注圖像為**迴波平面T2\*圖像**，採集速度非常快
 
-### 臨床應用 / Clinical Applications
+## 臨床應用 / Clinical Applications
 
 - **腦卒中評估**：缺血區域血容量降低
 - **腫瘤評估**：
@@ -786,14 +753,12 @@ weight: 4
   - 放射性壞死：**rCBV降低**（區分復發腫瘤與壞死的關鍵）
   - 灌注MRI是鑑別**放射性壞死與腫瘤復發**的最重要工具
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **GRE**：對檢測微出血、鈣化、海綿狀血管畸形高度敏感；「暈染」偽影使小病變更醒目
 > - **MRS**：NAA下降＋膠鹼升高提示腫瘤；正常波譜連線應「向上起飛」（亨特角）
 > - **灌注MRI**：rCBV是區分腫瘤復發（高rCBV）與放射性壞死（低rCBV）的關鍵指標
 > - 多技術聯合（灌注＋波譜＋DWI）可提高診斷準確性
-
----
 
 # Neuroimaging - Page 218
 
@@ -801,13 +766,13 @@ weight: 4
 
 ## 腦強化的型態 / Patterns of Enhancement in the Brain
 
-### 血腦屏障與強化 / Blood Brain Barrier and Enhancement
+## 血腦屏障與強化 / Blood Brain Barrier and Enhancement
 
 - **血腦屏障（BBB）的微觀或宏觀破壞**導致對比劑給予後的**腦實質強化**
 - 可由感染、炎症、腫瘤、外傷和血管病因引起
 - BBB由星形膠質細胞足突與腦毛細血管內皮細胞共同構成，防止毛細血管與受保護的腦細胞外液直接相通
 
-### 不具血腦屏障的正常腦區 / CNS Regions Without Normal BBB
+## 不具血腦屏障的正常腦區 / CNS Regions Without Normal BBB
 
 | 結構 Structure | 功能 Function |
 |---|---|
@@ -818,13 +783,13 @@ weight: 4
 
 > **注意**：硬腦膜也缺乏BBB，但正常情況下不強化
 
-### 血管性強化 / Vascular Enhancement
+## 血管性強化 / Vascular Enhancement
 
 - 血管性強化是由局部血流量增加引起，可見於：血管擴張、充血、新生血管形成或動靜脈分流
 - **CT**：动脉期主要顯示血管內強化；數分鐘後延遲期才能最好地顯示腦實質強化（包括大腦鐮和小腦幕的硬膜褶皺）
 - **MRI**：常規增強序列在注射後數分鐘的腦實質期採集；顱內血管MRI通常使用非對比劑TOF技術
 
-### 強化分類 / Classification of Enhancement
+## 強化分類 / Classification of Enhancement
 
 | 類型 Type | 位置 Location | 說明 Description |
 |---|---|---|
@@ -835,7 +800,7 @@ weight: 4
 
 ## 腦室周圍強化 / Periventricular Enhancement (軸內)
 
-### 鑑別診斷 / Differential Diagnosis
+## 鑑別診斷 / Differential Diagnosis
 
 | 病因 | 臨床/影像特徵 |
 |---|---|
@@ -844,20 +809,18 @@ weight: 4
 | **原發性膠質瘤** Primary glial tumor | 可引起腦室周圍強化 |
 | **多發性硬化症** Multiple sclerosis | 可累及腦室周圍表面；活動性斑塊可強化 |
 
-### 原發性CNS淋巴瘤 / Primary CNS Lymphoma 要點
+## 原發性CNS淋巴瘤 / Primary CNS Lymphoma 要點
 
 - 惡性B細胞腫瘤，表現多樣：可呈腦室周圍強化、孤立腦內腫塊或多發腦內腫塊
 - **富細胞性**是其特徵：導致ADC低信號、T2低信號
 - 系統性淋巴瘤累及腦膜（硬膜及軟膜）常見；原發性CNS淋巴瘤很少累及腦膜
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腦室周圍強化**：可為腫瘤性、感染性或脫髓鞘性病因
 > - **原發性CNS淋巴瘤**：高細胞性→ADC低信號＋T2低信號；均勻強化（免疫正常者）
 > - **巨細胞病毒室管膜炎**：典型為腦室邊緣細線狀強化
 > - 強化型態結合臨床病史是縮小鑑別診斷範圍的關鍵
-
----
 
 # Neuroimaging - Page 219
 
@@ -865,12 +828,12 @@ weight: 4
 
 ## 腦迴強化 / Gyriform Enhancement (軸內)
 
-### 定義 / Definition
+## 定義 / Definition
 
 - 腦皮層（腦迴）表面的淺表強化
 - 病因包括：**腦部感染、炎症或缺血**
 
-### 腦迴強化的鑑別診斷 / Differential Diagnosis of Gyriform Enhancement
+## 腦迴強化的鑑別診斷 / Differential Diagnosis of Gyriform Enhancement
 
 | 病因 | 關鍵特徵 |
 |---|---|
@@ -879,7 +842,7 @@ weight: 4
 | **亞急性腦梗塞** Subacute infarct | 初始缺血事件後約**6天至6週**可見腦迴強化 |
 | **後部可逆性腦病綜合徵（PRES）** | 血管性水腫觸發自調調節失常；可出現腦迴強化；罕見情況下可見擴散受限 |
 
-### 亞急性腦梗塞強化時程 / Timeline of Subacute Infarct Enhancement
+## 亞急性腦梗塞強化時程 / Timeline of Subacute Infarct Enhancement
 
 | 時間 Time | 強化特徵 Enhancement |
 |---|---|
@@ -891,12 +854,12 @@ weight: 4
 
 ## 結節狀皮層下強化 / Nodular Subcortical Enhancement (軸內)
 
-### 最常見病因 / Most Common Etiology
+## 最常見病因 / Most Common Etiology
 
 - **轉移性疾病**：血行轉移性腫瘤最常見於**灰白質交界處**
 - 原理：腫瘤栓子在白質簡單血管與灰質複雜分支血管的交界處「卡住」
 
-### 灰白質交界處轉移瘤 / Gray–White Junction Metastases
+## 灰白質交界處轉移瘤 / Gray–White Junction Metastases
 
 | 特徵 | 說明 |
 |---|---|
@@ -905,15 +868,13 @@ weight: 4
 | 水腫 Edema | 幾乎總是伴隨存在；皮層轉移可無水腫 |
 | 靜脈轉移 | 盆腔惡性腫瘤經Batson椎靜脈叢轉移至後顱窩 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腦迴強化**：皮層表面淺表強化，見於感染、炎症或亞急性缺血（6天至6週）
 > - **皰疹腦炎**：首先累及內側顳葉和扣帶迴；DWI/ADC擴散受限是重要輔助
 > - **結節狀皮層下強化**：**血行轉移瘤**是首要考量；典型位於灰白質交界處
 > - 轉移瘤幾乎總是伴隨周圍水腫；缺乏水腫的皮層病變可能僅在增強掃描時可見
 > - **PRES**：血管性水腫相關腦迴強化，結合血壓升高或免疫抑制劑使用病史
-
----
 
 # Neuroimaging - Page 220
 
@@ -921,12 +882,12 @@ weight: 4
 
 ## 環形強化 / Ring Enhancement (軸內)
 
-### 概述 / Overview
+## 概述 / Overview
 
 - 周邊（環形）強化是常見表現，鑑別診斷範圍廣泛
 - **兩種最常見病因**：**高級別腫瘤**與**腦膿瘋**
 
-### 記憶口訣：MAGIC DR
+## 記憶口訣：MAGIC DR
 
 | 字母 | 病因 | 關鍵特徵 |
 |---|---|---|
@@ -940,7 +901,7 @@ weight: 4
 
 ---
 
-### 各疾病特徵 / Disease-Specific Features
+## 各疾病特徵 / Disease-Specific Features
 
 | 疾病 | 強化特徵 | 輔助序列 Key Auxiliary Sequences |
 |---|---|---|
@@ -952,7 +913,7 @@ weight: 4
 | **脫髓鞘** | 無佔位效應；"C"形不完全環 | 結合臨床MS病史 |
 | **放射性壞死** | 外觀與高級別腫瘤相同 | 灌注：**rCBV低**（與腫瘤復發鑑別）|
 
-### 與高級別腫瘤相似的病因 / Tumor-Mimics
+## 與高級別腫瘤相似的病因 / Tumor-Mimics
 
 | 病變 | 區分要點 |
 |---|---|
@@ -960,7 +921,7 @@ weight: 4
 | **膿瘋 vs 膠質瘤** | DWI/ADC：DWI高信號+ADC低信號 → 膿瘋 |
 | **脫髓鞘 vs 高級別腫瘤** | 無佔位效應 + 不完全環形強化 → 脫髓鞘 |
 
-### 腫瘤併發症 / Tumor Complications
+## 腫瘤併發症 / Tumor Complications
 
 **腦腫瘤的「三H」**：
 
@@ -970,15 +931,13 @@ weight: 4
 | **腦積水 Hydrocephalus** | 腫瘤阻塞腦脊液流動；後顱窩腫瘤更易引起第四腦室受壓導致腦積水 |
 | **腦疝 Herniation** | 腫塊及其周圍血管性水腫共同導致腦疝 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 環形強化最常見原因：**高級別腫瘤**與**膿瘖**；臨床病史關鍵
 > - **膿瘖**：DWI高信號 + ADC低信號為最具鑑別價值的序列
 > - **脫髓鞘**：缺乏佔位效應 + 不完全環形強化（"C"形）為典型表現
 > - **放射性壞死 vs 腫瘤復發**：灌注MRI（rCBV）為關鍵鑑別工具
 > - **MAGIC DR** 口訣有助於系統性鑑別診斷
-
----
 
 # Neuroimaging - Page 221
 
@@ -986,7 +945,7 @@ weight: 4
 
 ## 硬腦膜（腦膜）強化 / Pachymeningeal (Dural) Enhancement (腦外)
 
-### 概述 / Overview
+## 概述 / Overview
 
 - **硬腦膜（pachymeninges）**來自希臘語*pachy*（厚），指厚而堅韌的**硬腦膜**，是大腦最外層的覆蓋物
 - 硬腦膜不具備血腦屏障；對比分子正常情況下可擴散進入硬腦膜
@@ -994,7 +953,7 @@ weight: 4
 - **MRI上正常硬腦膜強化也不可見**：因為硬腦膜正常含水量低，缺乏足夠水質子與Gd對比劑產生可見信號
 - 硬腦膜病變常引起硬腦膜水腫，提供足夠水質子使Gd可見
 
-### 硬腦膜強化的鑑別診斷 / Differential Diagnosis of Pachymeningeal Enhancement
+## 硬腦膜強化的鑑別診斷 / Differential Diagnosis of Pachymeningeal Enhancement
 
 | 病因 | 關鍵特徵 |
 |---|---|
@@ -1008,12 +967,12 @@ weight: 4
 
 ## 軟膜-蛛網膜（柔膜）強化 / Leptomeningeal (Pia-Arachnoid) Enhancement (腦外)
 
-### 概述 / Overview
+## 概述 / Overview
 
 - **軟膜-蛛網膜（leptomeninges）**來自希臘語*lepto*（薄/窄），包括**軟膜（pia）**和**蛛網膜（arachnoid）**
 - 軟膜-蛛網膜強化沿腦溝的起伏輪廓分布，因為它同時包括蛛網膜下腔和軟膜表面的強化
 
-### 軟膜-蛛網膜強化的鑑別診斷 / Differential Diagnosis of Leptomeningeal Enhancement
+## 軟膜-蛛網膜強化的鑑別診斷 / Differential Diagnosis of Leptomeningeal Enhancement
 
 | 病因 | 特徵 |
 |---|---|
@@ -1022,7 +981,7 @@ weight: 4
 | **病毒性腦炎** Viral encephalitis | 可引起顱神經在蛛網膜下腔段強化 |
 | **慢血流** Slow vascular flow | 可類似軟膜-蛛網膜強化；仔細檢查可見其為**血管內分布**的FLAIR高信號；Moyamoya病的慢血流導致**「常春藤徵」（ivy sign）** |
 
-### FLAIR蛛網膜下腔高信號的鑑別診斷 / Subarachnoid FLAIR Hyperintensity Differential
+## FLAIR蛛網膜下腔高信號的鑑別診斷 / Subarachnoid FLAIR Hyperintensity Differential
 
 | 病因 | FLAIR高信號 | 強化 |
 |---|---|---|
@@ -1030,22 +989,20 @@ weight: 4
 | **蛛網膜下腔出血** | 有 | **無**（GRE/SWI暈染偽影有助鑑別）|
 | **氧氣/Propofol治療** | 有（偽影）| 無 |
 
-### CNS腫瘤致軟膜-蛛網膜癌病的腫瘤類型 / Neoplasms Causing Leptomeningeal Carcinomatosis
+## CNS腫瘤致軟膜-蛛網膜癌病的腫瘤類型 / Neoplasms Causing Leptomeningeal Carcinomatosis
 
 | 縮寫 | 腫瘤 |
 |---|---|
 | **MOCLEGG** | **M**edulloblastoma, **O**ligodendroglioma, **C**horoid plexus tumor, **L**ymphoma, **E**pendymoma, **G**lioblastoma, **G**erminoma |
 | **GEMCLOG** | **G**erminoma, **E**pendymoma, **M**edulloblastoma, **C**horoid plexus, **L**ymphoma, **O**ligodendroglioma, **G**lioblastoma |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **硬腦膜強化**：在CT上不可見（顱骨遮擋）；在MRI上提示硬腦膜病變而非BBB破壞
 > - **顱內低壓**：典型姿勢性頭痛＋小腦扁桃體下沉＋瀰漫性硬腦膜強化
 > - **軟膜-蛛網膜強化**：**腦膜炎**（特別是結核性）為首要注意病因
 > - **細線狀強化** → 細菌或病毒性腦膜炎；**增厚結節狀強化** → 真菌性腦膜炎
 > - **軟膜-蛛網膜癌病**：MOCLEGG/GEMCLOG口號有助記憶；須行全腦全脊髓MRI評估轉移範圍
-
----
 
 # Neuroimaging - Page 222
 
@@ -1053,7 +1010,7 @@ weight: 4
 
 ## 顱內腫瘤的系統性評估 / Systematic Approach to Intracranial Tumors
 
-### 第一步：評估腫瘤相關併發症 / Step 1: Evaluate Tumor Complications
+## 第一步：評估腫瘤相關併發症 / Step 1: Evaluate Tumor Complications
 
 **腦腫瘤的「三H」**：
 
@@ -1069,7 +1026,7 @@ weight: 4
 - **甲**狀腺癌 Thyroid carcinoma
 - **絨**毛膜癌 Choriocarcinoma
 
-### 第二步：判斷軸內或軸外 / Step 2: Intra-axial vs. Extra-axial
+## 第二步：判斷軸內或軸外 / Step 2: Intra-axial vs. Extra-axial
 
 | 特徵 | 軸內（Intra-axial）| 軸外（Extra-axial）|
 |---|---|---|
@@ -1079,19 +1036,19 @@ weight: 4
 | **灰質介於腫塊與白質之間** | 無 | 有 |
 | 例子 | 膠質瘤、轉移瘤 | 腦膜瘤、神經鞘瘤 |
 
-### 軸外腫瘤的典型影像學特徵 / Extra-axial Mass Findings
+## 軸外腫瘤的典型影像學特徵 / Extra-axial Mass Findings
 
 - 腫塊與腦之間有**CSF裂隙**
 - **灰質受壓/捲曲**
 - 灰質介於腫塊與白質之間
 
-### 軸內腫瘤的典型影像學特徵 / Intra-axial Mass Findings
+## 軸內腫瘤的典型影像學特徵 / Intra-axial Mass Findings
 
 - 腫塊直接與白質相鄰，無介入灰質
 - 白質水腫不具特異性：即使軸外腫瘤（如腦膜瘤）也可引起白質水腫
 - 軸內和軸外腫瘤都可見腦膜強化
 
-### 第三步：定位病變 / Step 3: Location-Based Differential
+## 第三步：定位病變 / Step 3: Location-Based Differential
 
 | 位置 | 常見腫瘤 |
 |---|---|
@@ -1101,7 +1058,7 @@ weight: 4
 | **鞍上/鞍區** | 顱咽管瘤、垂體腺瘤 |
 | **腦室內** | 室管膜瘤、脈絡叢乳頭狀瘤 |
 
-### 第四步：強化與否 / Step 4: Enhancement Pattern
+## 第四步：強化與否 / Step 4: Enhancement Pattern
 
 | 腫瘤類型 | 強化特徵 |
 |---|---|
@@ -1110,14 +1067,14 @@ weight: 4
 | **毛細胞型星形細胞瘤** | 囊性腫塊伴顯著強化結節；為良性（WHO I級），但強化明顯 |
 | 高級別原發腫瘤 | 強化程度與組織學分級無關；大型高級別腫瘤可能僅輕度強化 |
 
-### 第五步：病變數量 / Step 5: Number of Lesions
+## 第五步：病變數量 / Step 5: Number of Lesions
 
 | 數量 | 診斷提示 |
 |---|---|
 | **單發病變** | 原發腫瘤（膠質瘤、腦膜瘤等）或單發轉移 |
 | **多發病變** |  overwhelmingly確診為**轉移瘤** |
 
-### 第六步：MRI信號特徵 / Step 6: Distinctive MRI Signal Characteristics
+## 第六步：MRI信號特徵 / Step 6: Distinctive MRI Signal Characteristics
 
 | 信號特徵 | 腫瘤類型 |
 |---|---|
@@ -1125,8 +1082,8 @@ weight: 4
 | **T1高信號** | 轉移性黑色素瘤（黑色素T1高信號）；含脂肪腫瘤（皮樣囊腫/畸胎瘤）；出血性轉移瘤 |
 | **囊性成分** | 與CSF信號相同（各序列等信號）；囊位於低級別腫瘤邊緣；壞死位於高級別腫瘤內部（被強化腫瘤包繞）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腦腫瘤「三H」**：出血、腦積水、腦疝——急診篩查首選CT
 > - **軸內vs軸外**：CSF裂隙＋灰質受壓＝軸外；無介入灰質＝軸內
 > - **強化不等於高級別**：幼年性毛細胞型星形細胞瘤（WHO I級）強化顯著；低級別膠質瘤可不強化
@@ -1134,15 +1091,13 @@ weight: 4
 > - **T2低信號**的富細胞腫瘤：淋巴瘤、髓母細胞瘤、生殖細胞瘤
 > - **T1高信號**轉移瘤：黑色素瘤（含黑色素）、皮樣囊腫/畸胎瘤（含脂肪）
 
----
-
 # Neuroimaging - Page 223
 
 ![Page 223](/core_radiology/images/neuro/page-223.png)
 
 ## 星形細胞瘤 / Astrocytoma
 
-### 星形細胞瘤分類概覽 / Astrocytoma Classification Overview
+## 星形細胞瘤分類概覽 / Astrocytoma Classification Overview
 
 | 等級 WHO Grade | 腫瘤類型 | 特徵 |
 |---|---|---|
@@ -1153,7 +1108,7 @@ weight: 4
 
 ---
 
-### 幼年性毛細胞型星形細胞瘤 / Juvenile Pilocytic Astrocytoma (JPA)
+## 幼年性毛細胞型星形細胞瘤 / Juvenile Pilocytic Astrocytoma (JPA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -1166,7 +1121,7 @@ weight: 4
 
 ---
 
-### 低級別（纖維型）星形細胞瘤 / Low-Grade (Fibrillary) Astrocytoma
+## 低級別（纖維型）星形細胞瘤 / Low-Grade (Fibrillary) Astrocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1178,7 +1133,7 @@ weight: 4
 
 ---
 
-### 間變性星形細胞瘤 / Anaplastic Astrocytoma
+## 間變性星形細胞瘤 / Anaplastic Astrocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1189,7 +1144,7 @@ weight: 4
 
 ---
 
-### 膠質母細胞瘤 / Glioblastoma Multiforme (GBM)
+## 膠質母細胞瘤 / Glioblastoma Multiforme (GBM)
 
 | 特徵 | 說明 |
 |---|---|
@@ -1202,7 +1157,7 @@ weight: 4
 | **經腦室膜播散** | 腫瘤沿腦室壁（室管膜細胞下）蔓延 |
 | **特殊術語** | **蝴蝶神經膠質瘤（Butterfly glioma）**：GBM跨中線經胼胝體蔓延 |
 
-### GBM鑑別診斷 / Differential Diagnosis of Transcallosal Mass
+## GBM鑑別診斷 / Differential Diagnosis of Transcallosal Mass
 
 | 病因 | 說明 |
 |---|---|
@@ -1210,15 +1165,13 @@ weight: 4
 | **淋巴瘤** | 也可跨中線蔓延 |
 | **脫髓鞘疾病** | 可似腫瘤 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **JPA**（WHO I級）：後顱窩兒童腫瘤；囊性＋強化結節＝典型表現；視覺通路的JPA與NF1相關
 > - **低級別星形細胞瘤**（WHO II級）：浸潤性但不強化（特點）；T2高信號
 > - **間變性星形細胞瘤**（WHO III級）：介於低級別與GBM之間；最終進展為GBM
 > - **GBM**（WHO IV級）：最常見原發CNS惡性腫瘤；不均勻強化＋周圍浸潤性T2信號；可跨胼胝體（蝴蝶 glioma）
 > - **JPA vs Ependymoma vs Medulloblastoma**：三者均為後顱窩兒童腫瘤，但JPA囊性伴強化結節；髓母細胞瘤CT高密度；室管膜瘤有「牙膏」特徵（經第四腦室孔擠出）
-
----
 
 # Neuroimaging - Page 224
 
@@ -1226,7 +1179,7 @@ weight: 4
 
 ## 其他膠質瘤 / Other Gliomas
 
-### 大腦神經膠質瘤病 / Gliomatosis Cerebri
+## 大腦神經膠質瘤病 / Gliomatosis Cerebri
 
 | 特徵 | 說明 |
 |---|---|
@@ -1235,7 +1188,7 @@ weight: 4
 | **典型影像** | 累及區域呈**瀰漫性T2延長**；有 mass effect 但**通常不強化** |
 | **預後** | 預後不良；可進展為GBM |
 
-### 瀰漫性T2延長的鑑別診斷 / Differential Diagnosis of Diffuse T2 Prolongation
+## 瀰漫性T2延長的鑑別診斷 / Differential Diagnosis of Diffuse T2 Prolongation
 
 常見於免疫抑制患者：
 
@@ -1247,7 +1200,7 @@ weight: 4
 
 ---
 
-### 少突膠質細胞瘤 / Oligodendroglioma
+## 少突膠質細胞瘤 / Oligodendroglioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1257,7 +1210,7 @@ weight: 4
 | **鈣化** | 約**75%**有鈣化（CT顯示最佳）|
 | **少見水腫** | 因為生長緩慢，周圍水腫不明顯 |
 
-### 少突膠質細胞瘤變異型 / Oligodendroglioma Variants
+## 少突膠質細胞瘤變異型 / Oligodendroglioma Variants
 
 | 變異型 | 預後/特徵 |
 |---|---|
@@ -1266,7 +1219,7 @@ weight: 4
 
 ---
 
-### 室管膜瘤 / Ependymoma
+## 室管膜瘤 / Ependymoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1278,7 +1231,7 @@ weight: 4
 
 ---
 
-### Lhermitte-Duclos病 / Lhermitte-Duclos Disease
+## Lhermitte-Duclos病 / Lhermitte-Duclos Disease
 
 | 特徵 | 說明 |
 |---|---|
@@ -1289,14 +1242,14 @@ weight: 4
 
 ---
 
-### 胚胎性腫瘤 / Embryonal Tumors
+## 胚胎性腫瘤 / Embryonal Tumors
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | WHO IV級侵襲性兒童惡性腫瘤；屬於**原始神經外胚層腫瘤（PNET）**家族 |
 | **PNET位置** | 顱內PNET更常見於後顱窩，也可發生於幕上 |
 
-### 非典型畸胎樣/橫紋肌樣腫瘤 / Atypical Teratoid/Rhabdoid Tumor (ATRT)
+## 非典型畸胎樣/橫紋肌樣腫瘤 / Atypical Teratoid/Rhabdoid Tumor (ATRT)
 
 | 特徵 | 說明 |
 |---|---|
@@ -1305,15 +1258,13 @@ weight: 4
 | **好發位置** | 約半數發生於後顱窩 |
 | **腎臟關聯** | 與腎臟恶性橫紋肌樣瘤（Malignant rhabdoid tumor）相關 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Gliomatosis cerebri**：瀰漫性浸潤兩個以上腦葉；T2瀰漫延長但不強化；預後差
 > - **少突膠質細胞瘤**：年輕癲癇患者；75%有鈣化；緩慢生長，水腫輕微
 > - **室管膜瘤**：「牙膏腫瘤」經第四腦室孔擠出（兒童後顱窩）；成人脊髓腫瘤
 > - **Lhermitte-Duclos**：小腦「燈芯絨/虎紋」病變；Cowden綜合徵標誌
 > - **ATRT**：極具侵襲性；幼兒後顱窩腫瘤；與腎臟恶性橫紋肌樣瘤相關
-
----
 
 # Neuroimaging - Page 225
 
@@ -1321,7 +1272,7 @@ weight: 4
 
 ## 髓母細胞瘤 / Medulloblastoma
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -1332,7 +1283,7 @@ weight: 4
 | **MRI特徵** | T2低信號（高細胞性）；ADC值低；呈**明顯強化**；可因內部出血和鈣化而信號不均勻 |
 | **轉移** | 高達**33%**患者存在**軟膜-蛛網膜轉移** |
 
-### 髓母細胞瘤的MRI信號特徵 / Signal Characteristics
+## 髓母細胞瘤的MRI信號特徵 / Signal Characteristics
 
 | 序列 | 信號 |
 |---|---|
@@ -1344,7 +1295,7 @@ weight: 4
 
 > **低ADC值**是區分髓母細胞瘤與**室管膜瘤**和**毛細胞型星形細胞瘤**的重要工具（後兩者ADC值較高）
 
-### 軟膜-蛛網膜轉移 / Leptomeningeal Metastasis
+## 軟膜-蛛網膜轉移 / Leptomeningeal Metastasis
 
 | 特徵 | 說明 |
 |---|---|
@@ -1352,7 +1303,7 @@ weight: 4
 | **「糖霜」徵 Zuckerguss** | 腦表面似糖霜覆蓋的icing-like強化 |
 | **術前評估** | 手術前應進行**全腦全脊髓MRI** |
 
-### 成人髓母細胞瘤 / Adult Medulloblastoma
+## 成人髓母細胞瘤 / Adult Medulloblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1361,7 +1312,7 @@ weight: 4
 
 ---
 
-### 後顱窩兒童腫瘤的鑑別診斷 / Posterior Fossa Pediatric Tumors Differential
+## 後顱窩兒童腫瘤的鑑別診斷 / Posterior Fossa Pediatric Tumors Differential
 
 | 腫瘤 | 特徵 | ADC值 |
 |---|---|---|
@@ -1371,7 +1322,7 @@ weight: 4
 
 ---
 
-### 髓母細胞瘤鑑別要點 / Key Differentiating Points
+## 髓母細胞瘤鑑別要點 / Key Differentiating Points
 
 | 鑑別腫瘤 | 與髓母細胞瘤的區別 |
 |---|---|
@@ -1379,15 +1330,13 @@ weight: 4
 | **毛細胞型星形細胞瘤** | 囊性＋強化結節（不同於髓母細胞瘤的實性高密度腫塊）；ADC值高 |
 | **ATRT** | 相似（均為後顱窩小兒腫瘤）；ATRT患者年齡更小；與腎臟恶性橫紋肌樣瘤相關 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **髓母細胞瘤**：兒童後顱窩最常見腫瘤之一；小腦蚓部中線起源；CT高密度＋T2低信號＋ADC低值＝高度提示
 > - **ADC值低**是高細胞性腫瘤的標誌；區分髓母細胞瘤（低ADC）與JPA（高ADC囊性）的關鍵
 > - **軟膜轉移常見**（33%）；術前須行全腦全脊髓MRI（"糖霜"徵）
 > - **成人髓母細胞瘤**的特點：偏心生長起源於小腦半球，而非兒童的中線蚓部
 > - 後顱窩兒童腫瘤三強：髓母細胞瘤（高密度/低ADC）、室管膜瘤（牙膏）、JPA（囊性＋結節強化）
-
----
 
 # Neuroimaging - Page 226
 
@@ -1395,13 +1344,13 @@ weight: 4
 
 ## 囊性腫瘤伴強化壁結節 / Tumors with a Cyst and an Enhancing Nodule
 
-### 概覽 / Overview
+## 概覽 / Overview
 
 - 少數低級別、分泌液體的腫瘤可呈現為囊性腫塊伴強化壁結節
 
 ---
 
-### 毛細血管母細胞瘤 / Hemangioblastoma
+## 毛細血管母細胞瘤 / Hemangioblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1416,7 +1365,7 @@ weight: 4
 
 ---
 
-### 多形性黃色星形細胞瘤 / Pleomorphic Xanthoastrocytoma (PXA)
+## 多形性黃色星形細胞瘤 / Pleomorphic Xanthoastrocytoma (PXA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -1429,7 +1378,7 @@ weight: 4
 
 ---
 
-### 神經節膠質瘤 / Ganglioglioma
+## 神經節膠質瘤 / Ganglioglioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1439,7 +1388,7 @@ weight: 4
 
 ---
 
-### 囊性腫塊伴強化結節的鑑別診斷 / Differential Diagnosis
+## 囊性腫塊伴強化結節的鑑別診斷 / Differential Diagnosis
 
 | 腫瘤 | 與結節膠質瘤的區別 |
 |---|---|
@@ -1448,14 +1397,12 @@ weight: 4
 | **PXA** | 顳葉；青少年；硬膜增厚強化 |
 | **神經節膠質瘤** | 顳葉；年輕成人；癲癇；可見顱骨重塑 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **血管母細胞瘤**：高度血管性囊性腫瘤；小腦最常見；與VHL綜合徵相關（30%患者）；有流空血管
 > - **PXA**：顳葉囊性＋強化結節；青少年；慢性癲癇；硬膜增厚是特點
 > - **神經節膠質瘤**：年輕成人顳葉癲癇；囊性＋結節＋鈣化
 > - 囊性腫塊伴強化結節的組合：JPA、血管母細胞瘤、PXA、神經節膠質瘤
-
----
 
 # Neuroimaging - Page 227
 
@@ -1463,7 +1410,7 @@ weight: 4
 
 ## 腦室內腫瘤 / Intraventricular Tumors
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 位置 Location | 常見腫瘤 |
 |---|---|
@@ -1473,7 +1420,7 @@ weight: 4
 
 ---
 
-### 中樞神經細胞瘤 / Central Neurocytoma
+## 中樞神經細胞瘤 / Central Neurocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1485,7 +1432,7 @@ weight: 4
 
 ---
 
-### 脈絡叢乳頭狀瘤 / Choroid Plexus Papilloma
+## 脈絡叢乳頭狀瘤 / Choroid Plexus Papilloma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1502,7 +1449,7 @@ weight: 4
 
 ---
 
-### 腦室內腦膜瘤 / Intraventricular Meningioma
+## 腦室內腦膜瘤 / Intraventricular Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1513,7 +1460,7 @@ weight: 4
 
 ---
 
-### 兒童腦室內腫瘤總覽 / Pediatric Intraventricular Tumors
+## 兒童腦室內腫瘤總覽 / Pediatric Intraventricular Tumors
 
 | 腫瘤 | 典型位置 | 年齡 |
 |---|---|---|
@@ -1521,14 +1468,12 @@ weight: 4
 | **室管膜瘤** | 第四腦室 | 兒童 |
 | **髓母細胞瘤** | 第四腦室/小腦 | 兒童 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **中樞神經細胞瘤**：年輕成人；附著於透明隔；多發囊性區域；預後極好
 > - **脈絡叢乳頭狀瘤**：<1歲嬰兒最常見腦腫瘤；兒童位於側腦室三角區；成人位於第四腦室；呈花椰菜樣外觀
 > - **腦室內腦膜瘤**：老年患者；三角區；均勻強化（高細胞性）
 > - 腦室內腫瘤定位結合患者年齡可大幅縮小鑑別診斷範圍
-
----
 
 # Neuroimaging - Page 228
 
@@ -1536,7 +1481,7 @@ weight: 4
 
 ## 結節下巨大星形細胞瘤 / Subependymal Giant Cell Astrocytoma (SEGA)
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -1548,7 +1493,7 @@ weight: 4
 
 ---
 
-### 結節下瘤 / Subependymoma
+## 結節下瘤 / Subependymoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1562,7 +1507,7 @@ weight: 4
 
 ---
 
-### 腦室內腫瘤鑑別診斷 / Intraventricular Tumor Differential
+## 腦室內腫瘤鑑別診斷 / Intraventricular Tumor Differential
 
 | 腫瘤 | 強化 | 典型位置 | 年齡/特徵 |
 |---|---|---|---|
@@ -1575,7 +1520,7 @@ weight: 4
 
 ---
 
-### SEGA與Subependymoma的比較 / SEGA vs Subependymoma
+## SEGA與Subependymoma的比較 / SEGA vs Subependymoma
 
 | 特徵 | SEGA | Subependymoma |
 |---|---|---|
@@ -1586,14 +1531,12 @@ weight: 4
 | **好發人群** | 結節性硬化症患者 | 中老年成人 |
 | **發現方式** | 結節性硬化症篩查 | 偶然發現 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **SEGA**：結節性硬化症的標誌性腦腫瘤；側腦室Monro孔附近；需定期監測
 > - **Subependymoma**：第四腦室下端（obex）最常見；**不強化**是特點；中老年成人偶然發現
 > - **不強化**是區分Subependymoma與SEGA、室管膜瘤的關鍵
 > - 腦室內腫瘤的定位（位置＋強化與否）是鑑別診斷的核心
-
----
 
 # Neuroimaging - Page 229
 
@@ -1601,7 +1544,7 @@ weight: 4
 
 ## 中樞神經系統淋巴瘤 / CNS Lymphoma
 
-### 原發性CNS淋巴瘤 / Primary CNS Lymphoma (PCNSL)
+## 原發性CNS淋巴瘤 / Primary CNS Lymphoma (PCNSL)
 
 | 特徵 | 說明 |
 |---|---|
@@ -1612,7 +1555,7 @@ weight: 4
 
 ---
 
-### PCNSL的關鍵影像學特徵 / Key Imaging Features of PCNSL
+## PCNSL的關鍵影像學特徵 / Key Imaging Features of PCNSL
 
 | 特徵 | 影像學表現 |
 |---|---|
@@ -1620,7 +1563,7 @@ weight: 4
 | **高細胞性** | CT高密度；T2相對低信號；**擴散受限**（ADC低值）|
 | **強化模式** | 均勻強化（免疫正常者）；免疫抑制者可壞死 |
 
-### 免疫正常患者的PCNSL / PCNSL in Immunocompetent Patients
+## 免疫正常患者的PCNSL / PCNSL in Immunocompetent Patients
 
 | 影像特徵 | 說明 |
 |---|---|
@@ -1632,7 +1575,7 @@ weight: 4
 
 ---
 
-### 免疫抑制患者的PCNSL / PCNSL in Immunocompromised Patients
+## 免疫抑制患者的PCNSL / PCNSL in Immunocompromised Patients
 
 | 特徵 | 說明 |
 |---|---|
@@ -1642,7 +1585,7 @@ weight: 4
 
 ---
 
-### PCNSL的鑑別診斷 / Differential Diagnosis of PCNSL
+## PCNSL的鑑別診斷 / Differential Diagnosis of PCNSL
 
 | 疾病 | 與PCNSL的區別要點 |
 |---|---|
@@ -1651,15 +1594,13 @@ weight: 4
 | **脫髓鞘疾病（活動性）** | 典型為不完全環形強化；無佔位效應或輕微 |
 | **腦室周圍白質病變** | PCNSL的高細胞性（DWI受限＋T2低信號）是區分於其他白質病變的關鍵 |
 
-### PCNSL的臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **PCNSL**：高細胞性腦腫瘤；CT高密度＋T2低信號＋ADC低值（擴散受限）= 三聯徵
 > - **均勻強化**是免疫正常PCNSL的特點；免疫抑制者可壞死
 > - **DWI/ADC**：低ADC值是高細胞性腫瘤（淋巴瘤、髓母細胞瘤、ATRT）的共同特徵
 > - 對化放療高度敏感（可「融化」），但易復發
 > - 免疫正常與免疫抑制患者的PCNSL表現不同（強化模式）
-
----
 
 # Neuroimaging - Page 230
 
@@ -1667,7 +1608,7 @@ weight: 4
 
 ## 原發性CNS淋巴瘤（續）/ Primary CNS Lymphoma (PCNSL) — Continued
 
-### PCNSL與免疫抑制 / PCNSL and Immunosuppression
+## PCNSL與免疫抑制 / PCNSL and Immunosuppression
 
 | 特徵 | 說明 |
 |---|---|
@@ -1680,7 +1621,7 @@ weight: 4
 
 ## 腦膜瘤 / Meningioma
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -1690,7 +1631,7 @@ weight: 4
 | **WHO分級** | 多數為I級（良性）；少數為II級（非典型）或III級（間變性）|
 | **數量** | 可單發或多發（與NF2相關）|
 
-### 腦膜瘤的MRI信號特徵 / MRI Signal Characteristics of Meningioma
+## 腦膜瘤的MRI信號特徵 / MRI Signal Characteristics of Meningioma
 
 | 序列 | 信號特徵 |
 |---|---|
@@ -1699,13 +1640,13 @@ weight: 4
 | **FLAIR** | 等信號；周圍可見高信號水腫 |
 | **強化** | **均勻明顯強化**；可見**硬膜尾（dural tail）** |
 
-### 硬膜尾 / Dural Tail
+## 硬膜尾 / Dural Tail
 
 - 腦膜瘤刺激引起的硬腦膜反應性增厚
 - 強化延伸至腫瘤附著點以外的硬腦膜
 - 並非腫瘤本身浸潤，而是反應性改變
 
-### 腦膜瘤的鑑別診斷 / Differential Diagnosis of Meningioma
+## 腦膜瘤的鑑別診斷 / Differential Diagnosis of Meningioma
 
 | 疾病 | 區別要點 |
 |---|---|
@@ -1713,20 +1654,18 @@ weight: 4
 | **腦膜瘤 vs 膠質瘤** | 膠質瘤為軸內；腦膜瘤為軸外 |
 | **多發腦膜瘤** | 高度提示**NF2**（神經纖維瘤病II型）|
 
-### 腦膜瘤的治療併發症 / Treatment Complications of Meningioma
+## 腦膜瘤的治療併發症 / Treatment Complications of Meningioma
 
 - **術後復發**：良性腦膜瘤切除後仍可復發
 - **放療後腦膜瘤**：放療後可誘發腦膜瘤
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腦膜瘤**：最常見的軸外腦腫瘤之一；中老年女性好發；均勻強化＋硬膜尾是典型特徵
 > - **硬膜尾**：不是腫瘤浸潤，而是硬腦膜反應性增厚
 > - **CT高密度**提示高細胞性；T2信號取決於組織學亞型
 > - **多發腦膜瘤**：高度提示NF2；需要遺傳學評估
 > - PCNSL的**高細胞性三聯徵**（CT高密度、T2低信號、ADC低值）與腦膜瘤的**均勻強化＋硬膜尾**是兩種截然不同的診斷模式
-
----
 
 # Neuroimaging - Page 231
 
@@ -1734,7 +1673,7 @@ weight: 4
 
 ## 原發性CNS淋巴瘤（續）/ Primary CNS Lymphoma (PCNSL) — Continued
 
-### 免疫正常患者的PCNSL / PCNSL in Immunocompetent Patients
+## 免疫正常患者的PCNSL / PCNSL in Immunocompetent Patients
 
 | 特徵 | 說明 |
 |---|---|
@@ -1742,7 +1681,7 @@ weight: 4
 | **好發位置** | 額葉和基底節最常見 |
 | **強化模式** | **均勻強化**，無中心壞死 |
 
-### PCNSL的鑑別診斷 / Differential for Corpus Callosum Involvement
+## PCNSL的鑑別診斷 / Differential for Corpus Callosum Involvement
 
 | 病因 | 說明 |
 |---|---|
@@ -1750,21 +1689,21 @@ weight: 4
 | **膠質母細胞瘤** | GBM也可跨胼胝體蔓延 |
 | **脫髓鞘病變** | 可似腫瘤 |
 
-### 免疫抑制患者的PCNSL / PCNSL in Immunocompromised Patients
+## 免疫抑制患者的PCNSL / PCNSL in Immunocompromised Patients
 
 | 特徵 | 說明 |
 |---|---|
 | **典型表現** | 基底節區**環形強化**腦室周圍腫塊 |
 | **環形強化原因** | 中心壞死 |
 
-### 免疫抑制患者環形強化基底節腫塊的鑑別 / Ring-Enhancing Basal Ganglia Mass in Immunocompromised
+## 免疫抑制患者環形強化基底節腫塊的鑑別 / Ring-Enhancing Basal Ganglia Mass in Immunocompromised
 
 | 疾病 | 鑑別要點 |
 |---|---|
 | **淋巴瘤** | rCBV升高；Thallium掃描攝取；FDG PET高攝取 |
 | **弓漿蟲病** | rCBV低；Thallium陰性；FDG PET低攝取；經驗性抗弓漿蟲治療有效 |
 
-### 輔助檢查比較 / Diagnostic Methods Comparison
+## 輔助檢查比較 / Diagnostic Methods Comparison
 
 | 方法 | 淋巴瘤 | 弓漿蟲病 |
 |---|---|---|
@@ -1775,7 +1714,7 @@ weight: 4
 
 > **注意**：強化模式不能可靠鑑別淋巴瘤與弓漿蟲病，因為兩者皆顯示強化（強化反映毛細血管滲漏，而非灌注）
 
-### 繼發性CNS淋巴瘤 / Secondary CNS Lymphoma
+## 繼發性CNS淋巴瘤 / Secondary CNS Lymphoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1787,7 +1726,7 @@ weight: 4
 
 ## 轉移性疾病 / Metastatic Disease to the Brain
 
-### 軸內轉移 / Intra-axial Metastasis
+## 軸內轉移 / Intra-axial Metastasis
 
 **最常見的原發腫瘤**：
 
@@ -1797,7 +1736,7 @@ weight: 4
 | **乳腺癌** | 常見轉移來源 |
 | **黑色素瘤** | 常見轉移來源；易出血 |
 
-### 軸內轉移的關鍵特徵 / Key Features of Intra-axial Metastases
+## 軸內轉移的關鍵特徵 / Key Features of Intra-axial Metastases
 
 | 特徵 | 說明 |
 |---|---|
@@ -1806,14 +1745,12 @@ weight: 4
 | **水腫** | 大型轉移瘤常伴明顯水腫 |
 | **小型轉移** | 可僅表現為增強後圖像上可見的小型強化灶 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **PCNSL**：免疫正常者均勻強化；免疫抑制者環形強化（中心壞死）
 > - **免疫抑制患者**：環形強化基底節腫塊的首要鑑別為淋巴瘤與弓漿蟲病；灌注rCBV是關鍵（淋巴瘤高，弓漿蟲低）
 > - **軸內轉移**：肺癌、乳腺癌、黑色素瘤最常見；灰白質交界處；總是強化
 > - Thallium掃描和FDG PET有助於鑑別淋巴瘤（攝取）與弓漿蟲病（不攝取）
-
----
 
 # Neuroimaging - Page 232
 
@@ -1821,7 +1758,7 @@ weight: 4
 
 ## 硬膜腫瘤 / Dural Neoplasms
 
-### 腦膜瘤 / Meningioma
+## 腦膜瘤 / Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1832,7 +1769,7 @@ weight: 4
 | **組織學** | 絕大多數為良性；1-2%為間變性或惡性 |
 | **轉移** | 良性與惡性腦膜瘤均可轉移（罕見）|
 
-### 腦膜瘤的WHO分級 / WHO Grading of Meningioma
+## 腦膜瘤的WHO分級 / WHO Grading of Meningioma
 
 | 分級 | 說明 |
 |---|---|
@@ -1840,7 +1777,7 @@ weight: 4
 | **II級** | 非典型 |
 | **III級** | 間變性/惡性 |
 
-### 腦膜瘤的好發位置 / Common Locations of Meningioma
+## 腦膜瘤的好發位置 / Common Locations of Meningioma
 
 | 位置 | 說明 |
 |---|---|
@@ -1852,7 +1789,7 @@ weight: 4
 | **腦室內** | 三角區（較少見）|
 | **顱骨內** | 可似骨纖維發育不良 |
 
-### 腦膜瘤的影像學特徵 / Imaging Features of Meningioma
+## 腦膜瘤的影像學特徵 / Imaging Features of Meningioma
 
 | 影像方法 | 特徵 |
 |---|---|
@@ -1862,12 +1799,12 @@ weight: 4
 | **強化** | **均勻明顯強化** |
 | **腦膜尾** | 增強的硬膜尾（由血管活性物質引起，非腫瘤蔓延）|
 
-### 腦膜瘤的腦膜尾 / Dural Tail
+## 腦膜瘤的腦膜尾 / Dural Tail
 
 - 並非腫瘤浸潤，而是硬腦膜的反應性增厚
 - 由血管活性物質引起
 
-### 腦膜瘤相關發現 / Associated Findings
+## 腦膜瘤相關發現 / Associated Findings
 
 | 發現 | 說明 |
 |---|---|
@@ -1877,27 +1814,25 @@ weight: 4
 
 ---
 
-### 硬膜轉移 / Dural Metastasis
+## 硬膜轉移 / Dural Metastasis
 
 | 特徵 | 說明 |
 |---|---|
 | **常見原發腫瘤** | **乳腺癌**（最常見）、淋巴瘤、小細胞肺癌、黑色素瘤 |
 | **影像表現** | 硬膜為基礎的腫塊；相鄰硬膜強化 |
 
-### 與NF2的關聯 / Association with NF2
+## 與NF2的關聯 / Association with NF2
 
 - **多發腦膜瘤**高度提示**神經纖維瘤病II型（NF2）**
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腦膜瘤**：最常見軸外腫瘤；中老年女性；均勻強化＋腦膜尾是典型特徵
 > - **硬膜尾**：非腫瘤蔓延，而是反應性增強（血管活性物質所致）
 > - **CT高密度**（25%鈣化）和**T2信號多變**有助於與其他軸外腫瘤鑑別
 > - **不擴大骨孔（porus acusticus）**是腦膜瘤區別於聽神經瘤的關鍵（見CPA章節）
 > - **多發腦膜瘤**提示NF2；放療後也可出現多發腦膜瘤
 > - **硬膜轉移**：乳腺癌最常見；需與腦膜瘤鑑別（結合病史）
-
----
 
 # Neuroimaging - Page 233
 
@@ -1907,7 +1842,7 @@ weight: 4
 
 ---
 
-### 兒童後顱窩腫塊 / Posterior Fossa Mass in a Child
+## 兒童後顱窩腫塊 / Posterior Fossa Mass in a Child
 
 | 臨床/影像特徵 | 診斷 |
 |---|---|
@@ -1919,7 +1854,7 @@ weight: 4
 
 ---
 
-### 成人後顱窩腫塊 / Posterior Fossa Mass in an Adult
+## 成人後顱窩腫塊 / Posterior Fossa Mass in an Adult
 
 | 臨床/影像特徵 | 診斷 |
 |---|---|
@@ -1930,7 +1865,7 @@ weight: 4
 
 ---
 
-### 後顱窩兒童腫瘤總覽 / Summary of Pediatric Posterior Fossa Tumors
+## 後顱窩兒童腫瘤總覽 / Summary of Pediatric Posterior Fossa Tumors
 
 | 腫瘤 | WHO分級 | 特徵性影像/臨床 |
 |---|---|---|
@@ -1940,7 +1875,7 @@ weight: 4
 | **血管母細胞瘤** | I級 | 小腦囊性＋結節＋流空血管；VHL |
 | **ATRT** | IV級 | 比髓母細胞瘤更年幼；侵襲性；腎臟恶性橫紋肌樣瘤 |
 
-### 後顱窩成人腫瘤總覽 / Summary of Adult Posterior Fossa Tumors
+## 後顱窩成人腫瘤總覽 / Summary of Adult Posterior Fossa Tumors
 
 | 腫瘤 | 臨床/影像特徵 |
 |---|---|
@@ -1949,15 +1884,13 @@ weight: 4
 | **星形細胞瘤** | 強化輕微或無 |
 | **髓母細胞瘤** | 年輕成人；偏心生長（小腦半球）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **兒童後顱窩腫塊**：髓母細胞瘤（高密度/低ADC）、JPA（囊性結節）、室管膜瘤（腦室內/牙膏）是三強
 > - **成人後顱窩腫塊**：轉移瘤最常見（多發＋強化＋水腫）；年輕成人需考慮髓母細胞瘤
 > - **VHL病史**：幾乎肯定為血管母細胞瘤（囊性＋強化結節＋流空血管）
 > - **腎臟腫塊+幼兒後顱窩腫塊**：高度提示ATRT
 > - 結合**年齡＋位置＋強化模式**是後顱窩腫塊鑑別診斷的核心方法
-
----
 
 # Neuroimaging - Page 234
 
@@ -1965,12 +1898,12 @@ weight: 4
 
 ## 橋小腦角區（CPA）腫塊 / Cerebellopontine Angle (CPA) Mass
 
-### 解剖概述 / CPA Anatomy
+## 解剖概述 / CPA Anatomy
 
 - CPA是橋和小腦與岩骨後面之間的區域
 - 重要結構包括：**第V對（三叉神經）、第VII對（面神經）、第VIII對（前庭蝸神經）顱神經**，以及**小腦前下動脈（AICA）**
 
-### CPA腫塊概述 / CPA Mass Overview
+## CPA腫塊概述 / CPA Mass Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -1980,7 +1913,7 @@ weight: 4
 
 ---
 
-### 聽神經瘤（神經鞘瘤）/ Vestibular Schwannoma
+## 聽神經瘤（神經鞘瘤）/ Vestibular Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -1991,7 +1924,7 @@ weight: 4
 | **經典型表現** | **「冰淇淋甜筒」徵**：Cone（cone）穿過並擴大骨孔；Ice cream頂部位於橋小腦角 |
 | **較大病變** | 可出現囊性變 |
 
-### 聽神經瘤的MRI特徵 / MRI Features of Vestibular Schwannoma
+## 聽神經瘤的MRI特徵 / MRI Features of Vestibular Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2000,7 +1933,7 @@ weight: 4
 | **骨孔擴大** | 特徵性所見（與腦膜瘤鑑別的關鍵）|
 | **內耳道** | 腫瘤可延伸至內耳道 |
 
-### 其他CPA神經鞘瘤 / Other CPA Schwannomas
+## 其他CPA神經鞘瘤 / Other CPA Schwannomas
 
 | 腫瘤 | 特點 |
 |---|---|
@@ -2009,7 +1942,7 @@ weight: 4
 
 ---
 
-### CPA腫塊的鑑別診斷 / Differential Diagnosis of CPA Masses
+## CPA腫塊的鑑別診斷 / Differential Diagnosis of CPA Masses
 
 | 腫瘤 | 發病率 | 骨孔擴大 | 其他特點 |
 |---|---|---|---|
@@ -2018,7 +1951,7 @@ weight: 4
 | **Arachnoid囊腫** | 常見 | 否 | CSF信號；FLAIR完全抑制；無擴散受限 |
 | **動脈瘤** | 少見 | 否 | 流空；搏動偽影；MRA/CTA確診 |
 
-### 聽神經瘤 vs 腦膜瘤 / Schwannoma vs Meningioma
+## 聽神經瘤 vs 腦膜瘤 / Schwannoma vs Meningioma
 
 | 鑑別點 | 聽神經瘤 | 腦膜瘤 |
 |---|---|---|
@@ -2028,15 +1961,13 @@ weight: 4
 | **腦膜尾** | 無 | 有 |
 | **鈣化** | 罕見 | 約20% |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **聽神經瘤**佔CPA腫塊75%以上；**骨孔擴大**是與腦膜瘤鑑別的關鍵
 > - **「冰淇淋甜筒」徵**：Cone穿過骨孔＋Ice cream頂部壓迫橋小腦角
 > - CPA區域的重要顱神經：V（三叉）、VII（面）、VIII（前庭蝸）
 > - **聽神經瘤**是NF2患者最常見的腫瘤之一
 > - 較大的聽神經瘤可出現囊性變
-
----
 
 # Neuroimaging - Page 235
 
@@ -2044,7 +1975,7 @@ weight: 4
 
 ## CPA區其他病變 / Other CPA Region Lesions
 
-### 腦膜瘤 / Meningioma
+## 腦膜瘤 / Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2053,7 +1984,7 @@ weight: 4
 | **鈣化** | 約**20%**有鈣化（對比聽神經瘤罕見鈣化）|
 | **與聽神經瘤的關鍵鑑別** | **不擴大骨孔（porus acusticus）** |
 
-### 預後顱窩/左CPA腦膜瘤 / Prepontine/Left CPA Meningioma
+## 預後顱窩/左CPA腦膜瘤 / Prepontine/Left CPA Meningioma
 
 - 可從預後顱窩池延伸至左CPA和左骨孔
 - 可延伸至左側Dorello管（導致第VI顱神經麻痹）
@@ -2061,7 +1992,7 @@ weight: 4
 
 ---
 
-### 蛛網膜囊腫 / Arachnoid Cyst
+## 蛛網膜囊腫 / Arachnoid Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -2071,7 +2002,7 @@ weight: 4
 | **FLAIR** | **完全抑制**（與表皮樣囊腫鑑別的關鍵）|
 | **DWI** | **無擴散受限**（與表皮樣囊腫鑑別的關鍵）|
 
-### 蛛網膜囊腫 vs 表皮樣囊腫 / Arachnoid Cyst vs Epidermoid
+## 蛛網膜囊腫 vs 表皮樣囊腫 / Arachnoid Cyst vs Epidermoid
 
 | 特徵 | 蛛網膜囊腫 | 表皮樣囊腫 |
 |---|---|---|
@@ -2080,7 +2011,7 @@ weight: 4
 
 ---
 
-### 動靜脈瘤 / Aneurysm
+## 動靜脈瘤 / Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -2089,7 +2020,7 @@ weight: 4
 | **MRI線索** | **流空**和**搏動偽影** |
 | **確診** | **MRA或CTA** |
 
-### 動靜脈瘤的鑑別價值 / Diagnostic Value
+## 動靜脈瘤的鑑別價值 / Diagnostic Value
 
 - 動靜脈瘤可酷似其他CPA腫瘤
 - MRI上的流空和搏動偽影是診斷線索
@@ -2097,7 +2028,7 @@ weight: 4
 
 ---
 
-### CPA腫塊鑑別診斷總結 / CPA Mass Differential Summary
+## CPA腫塊鑑別診斷總結 / CPA Mass Differential Summary
 
 | 腫塊類型 | 發病率 | 骨孔 | 鈣化 | 特殊徵象 |
 |---|---|---|---|---|
@@ -2107,15 +2038,13 @@ weight: 4
 | **表皮樣囊腫** | 常見 | 不擴大 | 無 | DWI受限；FLAIR不完全抑制 |
 | **動靜脈瘤** | 少見 | 不擴大 | 無 | 流空；搏動偽影；MRA/CTA確診 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **CPA腦膜瘤**：不擴大骨孔（與聽神經瘤的關鍵鑑別）；可有20%鈣化；引起骨肥厚
 > - **蛛網膜囊腫**：所有序列與CSF信號相同；FLAIR完全抑制；無DWI受限
 > - **表皮樣囊腫**：DWI受限；FLAIR不完全抑制（與蛛網膜囊腫的關鍵鑑別）
 > - **動靜脈瘤**：流空和搏動偽影是MRI上的線索；MRA/CTA確診
 > - CPA腫塊的鑑別：結合**骨孔是否擴大＋信號特徵＋強化模式**
-
----
 
 # Neuroimaging - Page 236
 
@@ -2123,7 +2052,7 @@ weight: 4
 
 ## 表皮樣囊腫 / Epidermoid Cyst
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -2132,7 +2061,7 @@ weight: 4
 | **生長特點** | 病變沿結構之間「 insinuates」，包繞顱神經和血管 |
 | **病理特徵** | 典型「花椰菜樣」外觀 |
 
-### 影像學特徵 / Imaging Features
+## 影像學特徵 / Imaging Features
 
 | 序列 | 信號特徵 |
 |---|---|
@@ -2143,7 +2072,7 @@ weight: 4
 | **DWI** | **非常高信號**（受限擴散＋T2穿透效應的組合）|
 | **ADC** | **低信號**（DWI暗）|
 
-### 表皮樣囊腫 vs 蛛網膜囊腫 / Epidermoid vs Arachnoid Cyst
+## 表皮樣囊腫 vs 蛛網膜囊腫 / Epidermoid vs Arachnoid Cyst
 
 | 特徵 | 表皮樣囊腫 | 蛛網膜囊腫 |
 |---|---|---|
@@ -2151,14 +2080,14 @@ weight: 4
 | **DWI** | **高信號（受限）** | 無受限 |
 | **生長方式** | 沿結構間隙生長，包繞神經血管 | 囊性佔位，不包繞 |
 
-### White Epidermoid / 白色表皮樣囊腫
+## White Epidermoid / 白色表皮樣囊腫
 
 - 少數表皮樣囊腫在T1加權圖像上可呈高信號
 - 又稱**「白色表皮樣囊腫」（white epidermoid）**
 
 ---
 
-### 術後隨訪 / Postoperative Follow-up
+## 術後隨訪 / Postoperative Follow-up
 
 - **DWI隨訪**對於檢測任何殘留灶至關重要
 - 殘留的表皮樣囊腫在DWI上呈高信號
@@ -2167,7 +2096,7 @@ weight: 4
 
 ## 軸內後顱窨腫瘤 / Intra-axial Posterior Fossa Neoplasm
 
-### 軸內腫瘤侵犯CPA的機制 / Mechanism of CPA Invasion
+## 軸內腫瘤侵犯CPA的機制 / Mechanism of CPA Invasion
 
 | 腫瘤類型 | 侵犯方式 |
 |---|---|
@@ -2177,21 +2106,19 @@ weight: 4
 | **室管膜瘤** | 可經第四腦室外側孔（Luschka孔）伸展至CPA |
 | **血管母細胞瘤** | VHL相關；典型為囊性囊＋強化結節；常有流空血管 |
 
-### VHL的顱內另一表現 / Other Intracranial VHL Manifestations
+## VHL的顱內另一表現 / Other Intracranial VHL Manifestations
 
 | 腫瘤 | 位置 |
 |---|---|
 | **內淋巴囊腫瘤** | 巖骨後緣沿線 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **表皮樣囊腫**：DWI高信號＋ADC低信號是特徵；FLAIR不完全抑制（與蛛網膜囊腫的關鍵鑑別）
 > - 表皮樣囊腫有「花椰菜樣」表面，包繞神經血管結構
 > - **白色表皮樣囊腫**：T1高信號（少見）
 > - 軸內後顱窩腫瘤可外生性侵犯CPA；室管膜瘤經Luschka孔侵入CPA
 > - VHL患者：血管母細胞瘤（小腦囊性＋強化結節＋流空血管）＋內淋巴囊腫瘤
-
----
 
 # Neuroimaging - Page 237
 
@@ -2199,7 +2126,7 @@ weight: 4
 
 ## 鞍區、鞍上區與海綿竇的解剖 / Anatomy of Sella, Suprasellar Region, and Cavernous Sinus
 
-### 海綿竇通過的顱神經 / Cranial Nerves Traversing Cavernous Sinus
+## 海綿竇通過的顱神經 / Cranial Nerves Traversing Cavernous Sinus
 
 | 顱神經 | 名稱 | 功能 |
 |---|---|---|
@@ -2209,7 +2136,7 @@ weight: 4
 | **CN V¹** | 眼支 | 感覺：額部 |
 | **CN V²** | 上頜支 | 感覺：頰部；經圓孔出顱 |
 
-### 不通過海綿竇的結構 / Structures NOT in Cavernous Sinus
+## 不通過海綿竇的結構 / Structures NOT in Cavernous Sinus
 
 | 結構 | 說明 |
 |---|---|
@@ -2221,7 +2148,7 @@ weight: 4
 
 ## 腦下垂體 / Pituitary Gland
 
-### 胚胎髮育 / Embryology
+## 胚胎髮育 / Embryology
 
 | 結構 | 起源 |
 |---|---|
@@ -2229,7 +2156,7 @@ weight: 4
 | **腦下垂體後葉** | 神經外胚層；由下丘腦軸突組成 |
 | **Rathke囊殘留** | 不完全退化可留下裂隙，可形成**顱頜囊腫**或**Rathke裂囊腫** |
 
-### 前葉激素 / Anterior Pituitary Hormones (記憶口號: **FLO GAT**)
+## 前葉激素 / Anterior Pituitary Hormones (記憶口號: **FLO GAT**)
 
 | 激素 | 全寫 |
 |---|---|
@@ -2243,7 +2170,7 @@ weight: 4
 
 > 前葉：GAT FLP（生長、腎上腺、甲狀腺＋卵泡、黃體、泌乳）
 
-### 後葉 / Posterior Pituitary
+## 後葉 / Posterior Pituitary
 
 | 功能 | 說明 |
 |---|---|
@@ -2263,14 +2190,14 @@ weight: 4
 
 ## 空蝶鞍與假性腦瘤 / Empty Sella and Pseudotumor Cerebri
 
-### 空蝶鞍 / Empty Sella
+## 空蝶鞍 / Empty Sella
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 單獨存在時為正常變異；部分為CSF填充，腺體扁平貼於蝶鞍底 |
 | **與假性腦瘤的關聯** | 空蝶鞍是假性腦瘤的組成部分 |
 
-### 假性腦瘤 / Pseudotumor Cerebri (特發性顱內高壓)
+## 假性腦瘤 / Pseudotumor Cerebri (特發性顱內高壓)
 
 | 特徵 | 說明 |
 |---|---|
@@ -2282,14 +2209,14 @@ weight: 4
 
 ## 鞍區/鞍旁腫塊的評估方法 / Approach to Sellar/Parasellar Mass
 
-### 第一步：區分病變是否固有的垂體性 / Step 1: Intrinsic vs Extra-pituitary
+## 第一步：區分病變是否固有的垂體性 / Step 1: Intrinsic vs Extra-pituitary
 
 | 類型 | 常見病因 |
 |---|---|
 | **固有垂體性** | **垂體腺瘤**（最常見）；Rathke裂囊腫；垂體炎 |
 | **鞍外性** | 顱頜囊瘤；腦膜瘤；海綿竇腫瘤等 |
 
-### 固有垂體腫塊的鑑別診斷 / Differential for Intrinsic Pituitary Mass
+## 固有垂體腫塊的鑑別診斷 / Differential for Intrinsic Pituitary Mass
 
 | 腫瘤 | 說明 |
 |---|---|
@@ -2298,15 +2225,13 @@ weight: 4
 | **垂體炎** | 垂體炎症 |
 | **顱頜囊瘤** | 罕見於蝶鞍內；幾乎從不發生於垂體本身 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Rathke囊**：前葉的胚胎來源；殘留可致顱頜囊瘤或Rathke裂囊腫
 > - **後葉亮點**：正常T1高信號（矢狀位最佳）；是後葉功能正常的標誌
 > - **空蝶鞍**：單獨存在為正常變異；與假性腦瘤相關
 > - 鞍區腫塊首先區分：**固有垂體性**（腺瘤最常見）vs **鞍外性**
 > - V¹/V²/CN III,IV,VI在海綿竇中走行；V³經卵圓孔出顱（不在海綿竇中）
-
----
 
 # Neuroimaging - Page 238
 
@@ -2316,7 +2241,7 @@ weight: 4
 
 ---
 
-### 垂體微腺瘤 / Pituitary Microadenoma
+## 垂體微腺瘤 / Pituitary Microadenoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2326,7 +2251,7 @@ weight: 4
 
 ---
 
-### 垂體大腺瘤 / Pituitary Macroadenoma
+## 垂體大腺瘤 / Pituitary Macroadenoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2337,7 +2262,7 @@ weight: 4
 | **藥物治療後出血** | 垂體大腺瘤在藥物治療後可出血，產生複雜MRI表現 |
 | **瘤內出血 vs 垂體卒中** | 瘤內出血是影像學發現；垂體卒中是臨床綜合徵（劇烈頭痛＋內分泌功能障礙，由原本正常的垂體出血引起）|
 
-### 垂體大腺瘤的MRI特徵 / MRI Features of Macroadenoma
+## 垂體大腺瘤的MRI特徵 / MRI Features of Macroadenoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2348,7 +2273,7 @@ weight: 4
 
 ---
 
-### 淋巴細胞性垂體炎 / Lymphocytic Hypophysitis
+## 淋巴細胞性垂體炎 / Lymphocytic Hypophysitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -2361,7 +2286,7 @@ weight: 4
 
 ---
 
-### 肉芽腫性垂體炎 / Granulomatous Hypophysitis
+## 肉芽腫性垂體炎 / Granulomatous Hypophysitis
 
 | 病因 | 說明 |
 |---|---|
@@ -2370,14 +2295,14 @@ weight: 4
 | **結核** | 感染性病因 |
 | **朗格漢斯細胞組織細胞增生症（LCH）** | 兒童疾病；可累及垂體柄 |
 
-### 肉芽腫性垂體炎 vs 淋巴細胞性垂體炎
+## 肉芽腫性垂體炎 vs 淋巴細胞性垂體炎
 
 - 影像學表現相同
 - 確診需結合臨床和實驗室檢查
 
 ---
 
-### Rathke裂囊腫 / Rathke's Cleft Cyst
+## Rathke裂囊腫 / Rathke's Cleft Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -2395,15 +2320,13 @@ weight: 4
 | **淋巴細胞性垂體炎** | 垂體柄增粗＋強化 | 圍產期女性；尿崩症 |
 | **肉芽腫性垂體炎** | 垂體柄增粗＋強化 | 系統性疾病史 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **垂體微腺瘤**：<10mm；ACTH瘤可高強化；其他多為低強化
 > - **垂體大腺瘤**：>10mm；可包繞但不狹窄頸內动脉；視交叉受壓上移
 > - **垂體卒中**：原本正常的垂體突然出血的臨床綜合徵（劇烈頭痛＋內分泌障礙）
 > - **淋巴細胞性垂體炎**：圍產期女性；尿崩症；對類固醇有反應
 > - **垂體瘤 vs 腦膜瘤**：腺瘤可包繞但不狹窄頸內动脉；腦膜瘤趨向於狹窄頸內动脉
-
----
 
 # Neuroimaging - Page 239
 
@@ -2411,14 +2334,14 @@ weight: 4
 
 ## 鞍上區腫塊 / Suprasellar Mass
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
 | **鞍上區兒童最常見** | **顱頜囊瘤** |
 | **鞍上區成人最常見** | **垂體大腺瘤**（向上延伸）|
 
-### SATCHMO記憶口號 / Mnemonic
+## SATCHMO記憶口號 / Mnemonic
 
 | 字母 | 病因 |
 |---|---|
@@ -2432,7 +2355,7 @@ weight: 4
 
 ---
 
-### 顱頜囊瘤 / Craniopharyngioma
+## 顱頜囊瘤 / Craniopharyngioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2442,7 +2365,7 @@ weight: 4
 | **病理特徵** | 可有牙釉質產生；**幾乎總是鈣化** |
 | **囊內液** | 典型囊內為「**機器油**」外觀（由脫屑鱗狀上皮、角蛋白和膽固醇組成）|
 
-### 顱頜囊瘤的MRI特徵 / MRI Features of Craniopharyngioma
+## 顱頜囊瘤的MRI特徵 / MRI Features of Craniopharyngioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2451,7 +2374,7 @@ weight: 4
 | **囊壁/實性元素** | **明顯強化** |
 | **CT特徵** | 鞍上區低衰減腫塊伴**粗大鈣化** |
 
-### 顱頜囊瘤 vs Rathke裂囊腫 / Craniopharyngioma vs Rathke's Cleft Cyst
+## 顱頜囊瘤 vs Rathke裂囊腫 / Craniopharyngioma vs Rathke's Cleft Cyst
 
 | 特徵 | 顱頜囊瘤 | Rathke裂囊腫 |
 |---|---|---|
@@ -2462,7 +2385,7 @@ weight: 4
 
 ---
 
-### 鞍上區病變的年齡分布 / Age-Based Differential
+## 鞍上區病變的年齡分布 / Age-Based Differential
 
 | 人群 | 最常見鞍上病變 |
 |---|---|
@@ -2471,15 +2394,13 @@ weight: 4
 
 ---
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **顱頜囊瘤**：兒童最常見鞍上病變；**雙峰年齡分布**；幾乎總是鈣化和強化
 > - **機器油囊液**：顱頜囊瘤的特徵性囊內內容物
 > - 顱頜囊瘤與Rathke裂囊腫的關鍵鑑別：**強化＋鈣化 vs 無強化無鈣化**
 > - SATCHMO口號有助於記憶鞍上區病變譜
 > - 鞍上區成人：垂體大腺瘤向上延伸最常見
-
----
 
 # Neuroimaging - Page 240
 
@@ -2487,7 +2408,7 @@ weight: 4
 
 ## Rathke裂囊腫 / Rathke's Cleft Cyst
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -2496,7 +2417,7 @@ weight: 4
 | **好發人群** | 中年成人；女性發病率是男性的2倍 |
 | **發病率** | 屍檢研究中高達22%（臨床上通常無症狀或偶然發現）|
 
-### 影像學特徵 / Imaging Features
+## 影像學特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -2506,7 +2427,7 @@ weight: 4
 | **強化模式** | **無內部強化**；可有輕微邊緣強化 |
 | **「爪徵」（Claw sign）** | 強化後的垂體組織完全包裹囊腫 |
 
-### Rathke裂囊腫 vs 顱頜囊瘤 / Key Distinguishing Features
+## Rathke裂囊腫 vs 顱頜囊瘤 / Key Distinguishing Features
 
 | 特徵 | Rathke裂囊腫 | 顱頜囊瘤 |
 |---|---|---|
@@ -2531,7 +2452,7 @@ weight: 4
 | **關鍵影像所見** | 趨向於**包繞並狹窄**海綿竇或床突上段頸內动脉 |
 | **CT特徵** | 可有鈣化 |
 
-### 腦膜瘤 vs 垂體大腺瘤 / Meningioma vs Pituitary Macroadenoma
+## 腦膜瘤 vs 垂體大腺瘤 / Meningioma vs Pituitary Macroadenoma
 
 | 鑑別點 | 腦膜瘤 | 垂體大腺瘤 |
 |---|---|---|
@@ -2544,7 +2465,7 @@ weight: 4
 
 ---
 
-### 鞍上區/鞍旁腫塊鑑別總結 / Summary of Suprasellar/Parasellar Masses
+## 鞍上區/鞍旁腫塊鑑別總結 / Summary of Suprasellar/Parasellar Masses
 
 | 腫瘤 | 年齡 | 強化 | 鈣化 | 與垂體關係 |
 |---|---|---|---|---|
@@ -2553,15 +2474,13 @@ weight: 4
 | **垂體大腺瘤** | 成人 | 強化 | 無 | 取代垂體 |
 | **腦膜瘤** | 中年女性 | 均勻強化 | 可有 | 垂體正常/分開 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Rathke裂囊腫**：中年女性；無強化無鈣化（與顱頜囊瘤的關鍵鑑別）；蛋白含量決定信號
 > - **爪徵**：強化垂體組織包裹囊腫（Rathke裂囊腫的特徵）
 > - **鞍旁腦膜瘤**：中年女性；第二常見成人鞍上腫瘤；趨向狹窄頸內动脉；可有骨肥厚
 > - **垂體大腺瘤**：蝶鞍擴大＋垂體被取代＋不狹窄頸內动脉
 > - **顱頜囊瘤 vs Rathke裂囊腫**：強化+鈣化 vs 無強化無鈣化
-
----
 
 # Neuroimaging - Page 241
 
@@ -2571,7 +2490,7 @@ weight: 4
 
 ---
 
-### 視路膠質瘤 / Optic Pathway Glioma
+## 視路膠質瘤 / Optic Pathway Glioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2581,7 +2500,7 @@ weight: 4
 | **成人型** | 與兒童的低級別腫瘤不同，成人視路膠質瘤為侵襲性腫瘤 |
 | **影像特徵** | T1等信號；T2高信號；通常強化 |
 
-### NF1相關影像標誌 / NF1 Imaging Signs
+## NF1相關影像標誌 / NF1 Imaging Signs
 
 | 所見 | 說明 |
 |---|---|
@@ -2590,7 +2509,7 @@ weight: 4
 
 ---
 
-### 生殖細胞瘤 / Germinoma
+## 生殖細胞瘤 / Germinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2599,7 +2518,7 @@ weight: 4
 | **好發人群** | 兒童和青少年 |
 | **影像特徵** | 均質、明顯強化的中線腫塊；T2低信號；ADC圖低信號（高細胞性）|
 
-### 鞍上區vs松果體區生殖細胞瘤 / Suprasellar vs Pineal Germinoma
+## 鞍上區vs松果體區生殖細胞瘤 / Suprasellar vs Pineal Germinoma
 
 | 位置 | 特徵 |
 |---|---|
@@ -2608,7 +2527,7 @@ weight: 4
 
 ---
 
-### 表皮樣囊腫與皮樣囊腫 / Epidermoid and Dermoid Cysts
+## 表皮樣囊腫與皮樣囊腫 / Epidermoid and Dermoid Cysts
 
 | 特徵 | 表皮樣囊腫 | 皮樣囊腫 |
 |---|---|---|
@@ -2620,14 +2539,14 @@ weight: 4
 | **DWI** | **受限擴散** | 受限擴散 |
 | **並發症** | — | 破裂可致化學性腦膜炎或腦室炎 |
 
-### 皮樣囊腫的脂肪內容 / Dermoid Fat Content
+## 皮樣囊腫的脂肪內容 / Dermoid Fat Content
 
 - 皮樣囊腫可含囊內脂肪
 - 破裂可引起**化學性腦膜炎或腦室炎**
 
 ---
 
-### 動靜脈瘤 / Aneurysm
+## 動靜脈瘤 / Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -2638,7 +2557,7 @@ weight: 4
 
 ---
 
-### 鞍上區病變總結 / Suprasellar Lesions Summary
+## 鞍上區病變總結 / Suprasellar Lesions Summary
 
 | 病變 | 特徵 |
 |---|---|
@@ -2649,15 +2568,13 @@ weight: 4
 | **表皮樣囊腫** | DWI受限；FLAIR不完全抑制 |
 | **動靜脈瘤** | 不可活檢；MRA/CTA確診 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **視路膠質瘤**：兒童鞍上第二常見；NF1相關；成人為侵襲性
 > - **生殖細胞瘤**：兒童青少年；鞍上或松果體；T2低信號+ADC低值（高細胞性）
 > - **鞍旁區轉移瘤**：**乳腺癌**是最常見累及鞍旁區的轉移瘤
 > - **鞍上區囊腫**：表皮樣（DWI受限）vs 皮樣（含脂肪可破裂致化學性腦膜炎）
 > - **動靜脈瘤**：MRI可見搏動偽影；**絕對不可活檢**；MRA/CTA確診
-
----
 
 # Neuroimaging - Page 242
 
@@ -2665,7 +2582,7 @@ weight: 4
 
 ## 下丘腦錯構瘤 / Hypothalamic Hamartoma
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -2673,7 +2590,7 @@ weight: 4
 | **發病率** | 罕見的兒童期病變 |
 | **典型表現** | **性早熟**；**痴笑樣癲癇（gelastic seizures，大笑發作）** |
 
-### 影像學特徵 / Imaging Features
+## 影像學特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -2683,7 +2600,7 @@ weight: 4
 | **T1加權** | 等信號 |
 | **FLAIR** | 高信號 |
 
-### 下丘腦錯構瘤 vs 其他鞍上病變 / Key Differentiating Features
+## 下丘腦錯構瘤 vs 其他鞍上病變 / Key Differentiating Features
 
 | 特徵 | 下丘腦錯構瘤 | 顱頜囊瘤 | 生殖細胞瘤 |
 |---|---|---|---|
@@ -2693,15 +2610,15 @@ weight: 4
 
 ---
 
-### 鞍旁區其他病變 / Other Parasellar Lesions
+## 鞍旁區其他病變 / Other Parasellar Lesions
 
-#### 轉移瘤 / Metastasis
+### 轉移瘤 / Metastasis
 
 | 特徵 | 說明 |
 |---|---|
 | **最常見** | **乳腺癌**遠遠是鞍旁區最常見的轉移瘤 |
 
-#### 淋巴瘤 / Lymphoma
+### 淋巴瘤 / Lymphoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2710,14 +2627,14 @@ weight: 4
 
 ---
 
-### 鞍上區/鞍旁區病變的年齡鑑別 / Age-Based Suprasellar Differential
+## 鞍上區/鞍旁區病變的年齡鑑別 / Age-Based Suprasellar Differential
 
 | 人群 | 常見病變 |
 |---|---|
 | **兒童** | 顱頜囊瘤；視路膠質瘤；生殖細胞瘤；下丘腦錯構瘤；LCH垂體炎 |
 | **成人** | 垂體大腺瘤；腦膜瘤；Rathke裂囊腫；動靜脈瘤；淋巴瘤/垂體炎 |
 
-### 鞍上區病變鑑別要點 / Key Diagnostic Points
+## 鞍上區病變鑑別要點 / Key Diagnostic Points
 
 | 病變 | 關鍵特徵 |
 |---|---|
@@ -2727,15 +2644,13 @@ weight: 4
 | **生殖細胞瘤** | 明顯強化＋T2低信號 |
 | **Rathke裂囊腫** | 無強化無鈣化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **下丘腦錯構瘤**：不強化的灰質等信號鞍上腫塊＋痴笑樣癲癇/性早熟 = 典型表現
 > - **痴笑樣癲癇**是下丘腦錯構瘤的特徵性臨床表現
 > - **鞍旁區轉移瘤**：乳腺癌最常見
 > - 鞍上區病變的**年齡分佈**是鑑別診斷的首要考量
 > - **不強化**的鞍上病變：下丘腦錯構瘤、Rathke裂囊腫（無鈣化）
-
----
 
 # Neuroimaging - Page 243
 
@@ -2743,13 +2658,13 @@ weight: 4
 
 ## 鞍上區腫塊的鑑別診斷 / Differential Diagnosis of Suprasellar Mass
 
-### 概述 / Overview
+## 概述 / Overview
 
 > **鞍上區腫塊的鑑別診斷高度依賴於患者年齡**
 
 ---
 
-### 兒童鞍上區腫塊 / Suprasellar Mass in a Child
+## 兒童鞍上區腫塊 / Suprasellar Mass in a Child
 
 | 診斷特徵 | 診斷 |
 |---|---|
@@ -2761,7 +2676,7 @@ weight: 4
 
 ---
 
-### 成人鞍上區腫塊 / Suprasellar Mass in an Adult
+## 成人鞍上區腫塊 / Suprasellar Mass in an Adult
 
 | 診斷特徵 | 診斷 |
 |---|---|
@@ -2772,7 +2687,7 @@ weight: 4
 | 與血池強化程度相同的強化？若有血栓則有鈣化邊緣？ | **動靜脈瘤** |
 | 強化、增粗的垂體柄？尿崩症？ | **淋巴細胞性或肉芽腫性垂體炎** |
 
-### 垂體炎補充說明 / Hypophysitis Additional Notes
+## 垂體炎補充說明 / Hypophysitis Additional Notes
 
 | 病因 | 臨床場景 |
 |---|---|
@@ -2781,7 +2696,7 @@ weight: 4
 
 ---
 
-### 鞍上區病變年齡鑑別總表 / Age-Based Summary
+## 鞍上區病變年齡鑑別總表 / Age-Based Summary
 
 | 病變 | 兒童 | 成人 | 強化 | 鈣化 |
 |---|---|---|---|---|
@@ -2795,16 +2710,14 @@ weight: 4
 | **動靜脈瘤** | 少見 | ✅ | 與血池相同 | 血栓時有 |
 | **LCH垂體炎** | ✅ | 少見 | ✅ | ❌ |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **年齡是首要考量**：兒童首先考慮顱頜囊瘤；成人首先考慮垂體大腺瘤
 > - **不強化**：下丘腦錯構瘤、Rathke裂囊腫
 > - **強化+鈣化**：顱頜囊瘤（兒童）
 > - **強化+無鈣化**：垂體大腺瘤、腦膜瘤（成人）
 > - **增粗垂體柄+尿崩症**：LCH垂體炎（兒童）、淋巴/肉芽腫性垂體炎（成人）
 > - **與血池強化程度相同**：高度提示動靜脈瘤
-
----
 
 # Neuroimaging - Page 244
 
@@ -2814,7 +2727,7 @@ weight: 4
 
 ---
 
-### 松果體解剖 / Pineal Anatomy
+## 松果體解剖 / Pineal Anatomy
 
 | 結構 | 說明 |
 |---|---|
@@ -2825,7 +2738,7 @@ weight: 4
 | **功能** | 釋放**褪黑素（melatonin）**，調節睡眠/覺醒週期 |
 | **BBB** | 松果體**不具備血腦屏障** |
 
-### 松果體區佔位的臨床後果 / Clinical Consequences of Pineal Mass
+## 松果體區佔位的臨床後果 / Clinical Consequences of Pineal Mass
 
 | 併發症 | 說明 |
 |---|---|
@@ -2833,7 +2746,7 @@ weight: 4
 | **大腦導水管受壓** | 阻塞CSF流動→腦積水 |
 | **四疊體板受壓** | 導致**Parinaud綜合徵**（向上注視麻痹、瞳孔光反射分離、眼球震顫）|
 
-### 松果體區腫瘤的手術考量 / Surgical Planning
+## 松果體區腫瘤的手術考量 / Surgical Planning
 
 | 腫瘤類型 | 與大腦內靜脈的關係 |
 |---|---|
@@ -2844,7 +2757,7 @@ weight: 4
 
 ---
 
-### 松果體區腫瘤概述 / Pineal Region Tumors Overview
+## 松果體區腫瘤概述 / Pineal Region Tumors Overview
 
 | 腫瘤 | 排名 | 特徵 |
 |---|---|---|
@@ -2854,7 +2767,7 @@ weight: 4
 | **松果體細胞瘤** | 低級別 | WHO I-II級；生長緩慢 |
 | **松果體母細胞瘤** | 高度惡性 | WHO IV級；兒童；PNET家族 |
 
-### 性腺外生殖細胞腫瘤 / Extragonadal Germ Cell Tumors
+## 性腺外生殖細胞腫瘤 / Extragonadal Germ Cell Tumors
 
 | 位置 | 說明 |
 |---|---|
@@ -2863,15 +2776,13 @@ weight: 4
 | **其他** | 縱隔、骶尾部 |
 | **胚胎學** | 胚胎早期全能生殖細胞異常遷移所致 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Parinaud綜合徵**：向上注視麻痹＋瞳孔光反射分離＋眼球震顫＝松果體區腫瘤
 > - 松果體區腫塊首先區分：**起源於松果體本身** vs **起源於鄰近結構**
 > - 松果體**不具備BBB**：解釋為何某些腫瘤（如生殖細胞瘤）對放療高度敏感
 > - **大腦內靜脈位置**：被腫瘤抬起→松果體細胞腫瘤；被壓低→小腦幕腦膜瘤
 > - 松果體區**兒童**最常見：生殖細胞瘤（80%位於松果體，20%位於鞍上）
-
----
 
 # Neuroimaging - Page 245
 
@@ -2881,7 +2792,7 @@ weight: 4
 
 ---
 
-### 生殖細胞瘤 / Germinoma
+## 生殖細胞瘤 / Germinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2896,7 +2807,7 @@ weight: 4
 
 ---
 
-### 畸胎瘤 / Teratoma
+## 畸胎瘤 / Teratoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2908,7 +2819,7 @@ weight: 4
 
 ---
 
-### 松果體囊腫 / Pineal Cyst
+## 松果體囊腫 / Pineal Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -2919,7 +2830,7 @@ weight: 4
 | **隨訪** | 小型松果體囊腫通常不需常規隨訪（極少數會增大）|
 | **囊腫特徵** | 多數囊腫不完全為單純性；多數在FLAIR上不完全抑制；多數有輕微邊緣強化；約25%可有囊壁鈣化 |
 
-### 松果體囊腫 vs 松果體細胞瘤 / Pineal Cyst vs Pineocytoma
+## 松果體囊腫 vs 松果體細胞瘤 / Pineal Cyst vs Pineocytoma
 
 | 特徵 | 松果體囊腫 | 松果體細胞瘤 |
 |---|---|---|
@@ -2931,7 +2842,7 @@ weight: 4
 
 ---
 
-### 松果體細胞瘤 / Pineocytoma
+## 松果體細胞瘤 / Pineocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2941,7 +2852,7 @@ weight: 4
 
 ---
 
-### 松果體母細胞瘤 / Pineoblastoma
+## 松果體母細胞瘤 / Pineoblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -2954,7 +2865,7 @@ weight: 4
 | **鈣化模式** | 與生殖細胞瘤「吞沒」並使松果體鈣化不同，松果體母細胞瘤呈**「爆裂樣」外周鈣化** |
 | **轉移** | 高度傾向**軟膜-蛛網膜種植**和CSF播散 |
 
-### 松果體區腫瘤總覽 / Pineal Region Tumor Summary
+## 松果體區腫瘤總覽 / Pineal Region Tumor Summary
 
 | 腫瘤 | WHO分級 | 特徵性影像 |
 |---|---|---|
@@ -2964,15 +2875,13 @@ weight: 4
 | **松果體細胞瘤** | I-II級 | 實性；強化 |
 | **松果體母細胞瘤** | IV級 | 浸潤性；「爆裂樣」外周鈣化；ADC低值；CSF播散 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **生殖細胞瘤**：松果體區最常見；青少年男性；放療預後極好；可同時有鞍上病灶
 > - **松果體囊腫**：40%屍檢可見；女性多見；多數<1cm；FLAIR不完全抑制
 > - **松果體母細胞瘤**：高度惡性PNET；兒童；「爆裂樣」外周鈣化；CSF播散
 > - **三側性視網膜母細胞瘤**：雙側視網膜＋松果體（均為光感覺器官）
 > - **松果體囊腫延遲強化陷阱**：對比劑給藥>60分鐘後成像可使囊腫呈實性強化
-
----
 
 # Neuroimaging - Page 246
 
@@ -2980,13 +2889,13 @@ weight: 4
 
 ## 松果體區病變（松果體外）/ Pineal Region Mass (Extra-Pineal)
 
-### 概述 / Overview
+## 概述 / Overview
 
 松果體區病變首先需區分：**起源於松果體本身** vs **起源於鄰近結構**
 
 ---
 
-### 轉移瘤 / Metastases
+## 轉移瘤 / Metastases
 
 | 特徵 | 說明 |
 |---|---|
@@ -2996,7 +2905,7 @@ weight: 4
 
 ---
 
-### 膠質瘤 / Gliomas
+## 膠質瘤 / Gliomas
 
 | 特徵 | 說明 |
 |---|---|
@@ -3005,7 +2914,7 @@ weight: 4
 
 ---
 
-### 大腦大靜脈（Galen靜脈）動靜脈瘤 / Vein of Galen Aneurysm
+## 大腦大靜脈（Galen靜脈）動靜脈瘤 / Vein of Galen Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -3015,7 +2924,7 @@ weight: 4
 
 ---
 
-### 腦膜瘤 / Meningioma
+## 腦膜瘤 / Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -3025,7 +2934,7 @@ weight: 4
 
 ---
 
-### 四疊體板脂肪瘤 / Quadrigeminal Plate Lipoma
+## 四疊體板脂肪瘤 / Quadrigeminal Plate Lipoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -3035,7 +2944,7 @@ weight: 4
 
 ---
 
-### 松果體區/松果體外腫瘤鑑別 / Pineal vs Extra-Pineal Mass
+## 松果體區/松果體外腫瘤鑑別 / Pineal vs Extra-Pineal Mass
 
 | 腫瘤 | 起源 | 與大腦內靜脈關係 |
 |---|---|---|
@@ -3044,15 +2953,13 @@ weight: 4
 | **膠質瘤** | 中腦/四疊體/胼胝體壓部 | 變異 |
 | **Galen靜脈動靜脈瘤** | 靜脈 | 擴張 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **轉移至松果體**：因無BBB而相對常見；2/3伴有軟膜疾病
 > - **Galen靜脈「動靜脈瘤」**：實為動靜脈瘻，非真性動靜脈瘤
 > - **大腦內靜脈位置**：被抬起→松果體起源；被壓低→小腦幕腦膜瘤
 > - **四疊體板脂肪瘤**：T1高信號（脂肪）；可伴胼胝體發育異常
 > - 松果體區病變的**影像報告**應明確說明與大腦內靜脈的關係（手術計劃必需）
-
----
 
 # Neuroimaging - Page 247
 
@@ -3060,7 +2967,7 @@ weight: 4
 
 ## 腦創傷 / Cerebral Trauma
 
-### 軸外出血概覽 / Extra-Axial Hemorrhage Overview
+## 軸外出血概覽 / Extra-Axial Hemorrhage Overview
 
 | 出血類型 | 位置 | 形狀 | CT密度 |
 |---|---|---|---|
@@ -3072,7 +2979,7 @@ weight: 4
 
 ---
 
-### 珠網膜下腔出血 / Subarachnoid Hemorrhage (SAH)
+## 珠網膜下腔出血 / Subarachnoid Hemorrhage (SAH)
 
 | 特徵 | 說明 |
 |---|---|
@@ -3082,7 +2989,7 @@ weight: 4
 
 ---
 
-### 硬膜外血腫 / Epidural Hematoma (EDH)
+## 硬膜外血腫 / Epidural Hematoma (EDH)
 
 | 特徵 | 說明 |
 |---|---|
@@ -3092,7 +2999,7 @@ weight: 4
 | **Swirl徵** | 血腫內混合高低衰減提示**活動性出血**；低衰減為超急性未凝血液；高衰減為已凝血液 |
 | **急診處理** | 大型EDH因佔位效應和疝出風險為**神經外科急診**；小型可保守治療 |
 
-### 硬膜外血腫的血管來源 / EDH Vascular Source
+## 硬膜外血腫的血管來源 / EDH Vascular Source
 
 | 類型 | 來源 | 特點 |
 |---|---|---|
@@ -3101,7 +3008,7 @@ weight: 4
 
 ---
 
-### 硬膜下血腫 / Subdural Hematoma (SDH)
+## 硬膜下血腫 / Subdural Hematoma (SDH)
 
 | 特徵 | 說明 |
 |---|---|
@@ -3111,7 +3018,7 @@ weight: 4
 | **萎縮患者風險** | 萎縮（腦體積縮小）患者即使輕微外傷也易發生SDH（大腦靜脈跨越擴大的CSF空間被牽拉伸長）|
 | **腦室分流患者** | 分流術後腦室不具備自然 tamponade 作用，SDH風險增加 |
 
-### 等密度硬膜下血腫 / Iso-dense Subdural Hematoma
+## 等密度硬膜下血腫 / Iso-dense Subdural Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -3121,22 +3028,20 @@ weight: 4
 
 ---
 
-### 腦室內出血 / Intraventricular Hemorrhage
+## 腦室內出血 / Intraventricular Hemorrhage
 
 | 特徵 | 說明 |
 |---|---|
 | **來源** | 室管膜下靜脈撕裂；或珠網膜下腔/腦實質血腫直接延伸 |
 | **併發症** | 室管膜瘢痕形成增加**阻塞性腦積水**風險（可阻塞大腦導水管）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **硬膜外血腫**：雙凸透鏡形、不跨顱縫＋顳骨骨折＝典型；Swirl徵提示活動性出血
 > - **硬膜下血腫**：新月形、可跨顱縫；腦萎縮患者輕微外傷即可致病
 > - **等密度SDH**：亞急性期（1-3週）；診斷線索：佔位效應＋白質捲曲＋皮層增厚
 > - **分流患者**：腦室不具tampanade作用，SDH危險性增加
 > - **腦室內出血**：增加非交通性腦積水風險（室管膜瘢痕阻塞導水管）
-
----
 
 # Neuroimaging - Page 248
 
@@ -3146,7 +3051,7 @@ weight: 4
 
 ---
 
-###  coup/contrecoup 機制 / Coup/Contrecoup Mechanism
+##  coup/contrecoup 機制 / Coup/Contrecoup Mechanism
 
 | 特徵 | 說明 |
 |---|---|
@@ -3155,7 +3060,7 @@ weight: 4
 
 ---
 
-### 皮層挫傷 / Cortical Contusion
+## 皮層挫傷 / Cortical Contusion
 
 | 特徵 | 說明 |
 |---|---|
@@ -3166,7 +3071,7 @@ weight: 4
 
 ---
 
-### 腦實質內血腫 / Intraparenchymal Hematoma
+## 腦實質內血腫 / Intraparenchymal Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -3175,7 +3080,7 @@ weight: 4
 
 ---
 
-### 瀰漫性軸索損傷 / Diffuse Axonal Injury (DAI)
+## 瀰漫性軸索損傷 / Diffuse Axonal Injury (DAI)
 
 | 特徵 | 說明 |
 |---|---|
@@ -3185,7 +3090,7 @@ weight: 4
 | **CT敏感性** | 對DAI相對不敏感；出血性DAI可在受累區域顯示微小高密度灶 |
 | **MRI敏感性** | 檢測DAI比CT敏感得多，需多序列：FLAIR、GREDWI |
 
-### DAI分級 / DAI Grading
+## DAI分級 / DAI Grading
 
 | 分級 | 受累位置 |
 |---|---|
@@ -3195,7 +3100,7 @@ weight: 4
 
 > 分級越高，預後越差
 
-### DAI的MRI序列敏感性 / MRI Sequence Sensitivity for DAI
+## DAI的MRI序列敏感性 / MRI Sequence Sensitivity for DAI
 
 | 序列 | 敏感性 | 適用情況 |
 |---|---|---|
@@ -3203,7 +3108,7 @@ weight: 4
 | **FLAIR** | 最高 | 非出血性DAI |
 | **DWI** | 高 | 急性DAI（細胞毒性水腫＋細胞腫脹→受限擴散）|
 
-### 創傷性軸索損傷的常見位置 / Common DAI Locations
+## 創傷性軸索損傷的常見位置 / Common DAI Locations
 
 | 位置 | 說明 |
 |---|---|
@@ -3211,16 +3116,14 @@ weight: 4
 | **胼胝體** | II-III級DAI |
 | **背外側中腦** | III級DAI；提示最嚴重損傷 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **coup/contrecoup**：撞擊側和對側均可受傷
 > - **皮層挫傷**：亞急性期可呈環形強化（需結合外傷史）；慢性期MRI可見含鐵血黃素沉積
 > - **DAI**：剪切力導致軸索損傷；MRI比CT敏感得多
 > - **GRE對出血性DAI極敏感**；FLAIR對非出血性DAI最敏感
 > - **DAI分級**：I級→II級→III級（背外側中腦）；分級越高預後越差
 > - **DWI**：急性DAI可見擴散受限（細胞毒性水腫）
-
----
 
 # Neuroimaging - Page 249
 
@@ -3230,14 +3133,14 @@ weight: 4
 
 ---
 
-### 顴-上頜複合骨折 / Zygomaticomaxillary Complex (ZMC) Fractures
+## 顴-上頜複合骨折 / Zygomaticomaxillary Complex (ZMC) Fractures
 
 | 特徵 | 說明 |
 |---|---|
 | **又稱** | 俗稱「三腳架」骨折（tripod fracture），但此名稱不精確 |
 | **後果** | 導致顴骨游離（floating zygoma）|
 
-### 顴骨正常連接 / Normal Zygomatic Articulations
+## 顴骨正常連接 / Normal Zygomatic Articulations
 
 | 連接 | 骨 |
 |---|---|
@@ -3246,7 +3149,7 @@ weight: 4
 | **顴顳連接** | 顳骨 |
 | **顴蝶連接** | 蝶骨 |
 
-### ZMC骨折的組成 / ZMC Fracture Components
+## ZMC骨折的組成 / ZMC Fracture Components
 
 | 骨折位置 | 中斷的連接 |
 |---|---|
@@ -3257,7 +3160,7 @@ weight: 4
 
 ---
 
-### Le Fort 骨折 / Le Fort Fractures
+## Le Fort 骨折 / Le Fort Fractures
 
 | 骨折類型 | 模式 | 可移動的結構 |
 |---|---|---|
@@ -3265,14 +3168,14 @@ weight: 4
 | **Le Fort II** | 錐體形骨折，保留上頜竇內壁 | 鼻和硬腭作為一個整體游離 |
 | **Le Fort III** | 面部完全解體，經顴弓骨折 | 整個面中部游離 |
 
-### Le Fort 骨折的共同特徵 / Common Features of Le Fort Fractures
+## Le Fort 骨折的共同特徵 / Common Features of Le Fort Fractures
 
 | 特徵 | 說明 |
 |---|---|
 | **共同點** | 所有Le Fort骨折均中斷翼突上頜支撐（pterygomaxillary buttress），並使上頜骨與顱底脫離 |
 | **翼突板骨折** | 所有Le Fort骨折的定義均包含**翼突板骨折** |
 
-### 各型Le Fort骨折詳解 / Le Fort Fracture Details
+## 各型Le Fort骨折詳解 / Le Fort Fracture Details
 
 | 類型 | 別名 | 游離結構 |
 |---|---|---|
@@ -3280,7 +3183,7 @@ weight: 4
 | **Le Fort II** | 錐體形骨折 | 鼻和硬腭作為單一整體移動 |
 | **Le Fort III** | 面部分解 | 整個面中部與顱底遊離 |
 
-### Le Fort骨折鑑別 / Le Fort Fracture Comparison
+## Le Fort骨折鑑別 / Le Fort Fracture Comparison
 
 | 鑑別點 | Le Fort I | Le Fort II | Le Fort III |
 |---|---|---|---|
@@ -3288,16 +3191,14 @@ weight: 4
 | **遊離部分** | 硬腭 | 鼻+硬腭（整體）| 整個面中部 |
 | **上頜竇** | 所有壁 | 保留內壁 | 完全解體 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **ZMC骨折**（「三腳架」）：顴骨四個連接均中斷→顴骨遊離
 > - **Le Fort骨折**：均中斷翼突上頜支撐＋翼突板骨折是定義要素
 > - **Le Fort I**：水平骨折→硬腭遊離
 > - **Le Fort II**：錐體形→鼻+硬腭整體移動
 > - **Le Fort III**：面中部完全解體→經顴弓骨折
 > - Le Fort骨折可混合出現（如Le Fort II+III），臨床評估需全面
-
----
 
 # Neuroimaging - Page 250
 
@@ -3307,16 +3208,16 @@ weight: 4
 
 ---
 
-### 中央溝 / Central Sulcus
+## 中央溝 / Central Sulcus
 
-#### 定位中央溝的方法 / How to Find the Central Sulcus
+### 定位中央溝的方法 / How to Find the Central Sulcus
 
 | 位置 | 定位方法 |
 |---|---|
 | **矢狀位** | 沿扣帶溝稍偏中線追蹤；扣帶溝連接緣分支（marginal ramus）；緣分支正前方為扣帶旁小葉（paracentral lobule），含運動和感覺皮層 |
 | **軸位** | 中央溝形成特徵性的倒置**希臘字母Ω（omega）形**；Ω正前方的運動區域控制手部 |
 
-#### 中央溝的標誌性結構 / Anatomical Landmarks of Central Sulcus
+### 中央溝的標誌性結構 / Anatomical Landmarks of Central Sulcus
 
 | 結構 | 位置關係 |
 |---|---|
@@ -3326,7 +3227,7 @@ weight: 4
 | **扣帶旁小葉** | 緣分支前方，含運動帶和感覺帶 |
 | **緣分支** | 扣帶溝的延續 |
 
-#### 手部運動區的識別 / Identifying the Hand Motor Area
+### 手部運動區的識別 / Identifying the Hand Motor Area
 
 | 標誌 | 說明 |
 |---|---|
@@ -3335,7 +3236,7 @@ weight: 4
 
 ---
 
-### 大腦皮層功能區 / Functional Cortical Regions
+## 大腦皮層功能區 / Functional Cortical Regions
 
 | 區域 | 位置 | 功能 |
 |---|---|---|
@@ -3344,14 +3245,12 @@ weight: 4
 | **扣帶旁小葉** | 內側扣帶溝緣分支前方 | 運動+感覺（大腿/腳部） |
 | **扣帶溝** | 扣帶溝前方 | 認知/情感（扣帶皮層） |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **中央溝**是分界運動皮層（前）與感覺皮層（後）的關鍵解剖標誌
 > - **矢狀位定位**：沿扣帶溝追蹤→找到緣分支→前方為中央溝
 > - **軸位定位**：倒置**Ω形**是中央溝的特徵性表現；Ω正前方控制手部
 > - 識別中央溝是**神經影像學定位**的基本功
-
----
 
 # Neuroimaging - Page 251
 
@@ -3361,7 +3260,7 @@ weight: 4
 
 ---
 
-### 頸內動靜脈（ICA）分段 / Internal Carotid Artery Segments
+## 頸內動靜脈（ICA）分段 / Internal Carotid Artery Segments
 
 | 段 Segment | 名稱 | 特點 |
 |---|---|---|
@@ -3372,7 +3271,7 @@ weight: 4
 | **C5** | 床突段（Clinoid）| 頸總環和頸遠環標誌此段 |
 | **C6-C7** | 床突上段（Supraclinoid）| 發出眼動靜脈、後交通動靜脈、前脈絡膜動靜脈 |
 
-### 床突上段的重要分支 / Key Branches of Supraclinoid ICA
+## 床突上段的重要分支 / Key Branches of Supraclinoid ICA
 
 | 分支 | 供應區域 | 臨床意義 |
 |---|---|---|
@@ -3380,7 +3279,7 @@ weight: 4
 | **後交通動靜脈（P-comm）** | 與椎基底循環的吻合 | 胎兒型PCA由ICA經擴大的P-comm供血 |
 | **前脈絡膜動靜脈（Anterior choroidal）** | 視交叉、海馬、內囊後肢 | 儘管較小但供應關鍵結構 |
 
-### ICA分段與硬膜環 / Carotid Rings
+## ICA分段與硬膜環 / Carotid Rings
 
 | 結構 | 說明 |
 |---|---|
@@ -3392,7 +3291,7 @@ weight: 4
 
 ## 大腦Willis環 / Circle of Willis
 
-### 前循環結構 / Anterior Circulation
+## 前循環結構 / Anterior Circulation
 
 | 結構 | 說明 |
 |---|---|
@@ -3403,7 +3302,7 @@ weight: 4
 | **內側紋狀體穿通支** | 從ACA發出，供應內側基底節 |
 | **外側紋狀體穿通支** | 從MCA發出，供應外側基底節 |
 
-### 後循環結構 / Posterior Circulation
+## 後循環結構 / Posterior Circulation
 
 | 結構 | 說明 |
 |---|---|
@@ -3414,7 +3313,7 @@ weight: 4
 | **小腦後下動靜脈（PICA）** | 從椎動靜脈發出 |
 | **椎動靜脈** | 脊髓前動靜脈 |
 
-### 前脈絡膜動靜脈供應區 / Anterior Choroidal Artery Territory
+## 前脈絡膜動靜脈供應區 / Anterior Choroidal Artery Territory
 
 | 結構 | 說明 |
 |---|---|
@@ -3422,15 +3321,13 @@ weight: 4
 | **海馬** | 記憶相關 |
 | **內囊後肢** | 運動/感覺傳導 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Willis環分段**：C1-C7（頸→巖骨→破裂孔→海綿竇→床突→床突上）
 > - **眼動靜脈**在遠環遠側發出（90%）；此為顱內SAH風險分界
 > - **前脈絡膜動靜脈**：ICA分叉前的最後分支；供應視交叉、海馬、內囊後肢
 > - **P-comm**：ICA與椎基底循環的吻合；胎兒型PCA由ICA供血
 > - Willis環變異常見；正常解剖僅約25%
-
----
 
 # Neuroimaging - Page 252
 
@@ -3440,7 +3337,7 @@ weight: 4
 
 ---
 
-### 關鍵穿通支 / Critical Perforators
+## 關鍵穿通支 / Critical Perforators
 
 | 分支 | 起源 | 供應區域 |
 |---|---|---|
@@ -3451,7 +3348,7 @@ weight: 4
 | **Percheron動靜脈** | PCA P1段（變異）| 雙側腹內側丘腦＋中腦上部 |
 | **前脈絡膜動靜脈** | ICA（分叉前）| 視交叉、海馬、內囊後肢 |
 
-### Percheron動靜脈梗塞 / Artery of Percheron Infarct
+## Percheron動靜脈梗塞 / Artery of Percheron Infarct
 
 | 特徵 | 說明 |
 |---|---|
@@ -3460,7 +3357,7 @@ weight: 4
 | **中腦受累時** | 梗塞呈「V形」 |
 | **鑑別診斷** | 深靜脈血栓形成也可導致雙側丘腦梗塞 |
 
-### P-comm動靜脈瘤 / P-comm Aneurysm
+## P-comm動靜脈瘤 / P-comm Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -3481,14 +3378,14 @@ weight: 4
 | **胎兒型PCA** | 約20% | PCA由ICA（經P-comm）供血 |
 | **P1段發育不全** | — | 影響後循環供血 |
 
-### 單側ACA / Azygos ACA
+## 單側ACA / Azygos ACA
 
 | 特徵 | 說明 |
 |---|---|
 | **發生率** | 3% |
 | **相關疾病** | 與**全前腦發育不良（holoprosencephaly）**相關 |
 
-### 胎兒型PCA / Fetal PCA
+## 胎兒型PCA / Fetal PCA
 
 | 特徵 | 說明 |
 |---|---|
@@ -3497,19 +3394,17 @@ weight: 4
 
 ---
 
-### 正常Willis環解剖 / Normal Circle of Willis
+## 正常Willis環解剖 / Normal Circle of Willis
 
 > **正常Willis環解剖僅見於約25%的人群**
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Heubner迴旋動靜脈**：從A1發出（而非A2）；供應尾狀核頭和內囊前肢
 > - **Percheron動靜脈**：雙側丘腦腹內側梗塞的罕見原因；當中腦受累呈V形
 > - **P-comm動靜脈瘤**：可致第III顱神經麻痹
 > - **Willis環變異**：正常解剖僅25%；認識變異對評估卒中和動靜脈瘤至關重要
 > - **胎兒型PCA**（20%）：PCA由ICA供血；介入治療時需注意
-
----
 
 # Neuroimaging - Page 253
 
@@ -3519,7 +3414,7 @@ weight: 4
 
 ---
 
-### MCA分段 / MCA Segments
+## MCA分段 / MCA Segments
 
 | 段 Segment | 名稱 | 定義 |
 |---|---|---|
@@ -3528,21 +3423,21 @@ weight: 4
 | **M3** | 島蓋段（Opercular）| 從外側裂頂到皮層表面 |
 | **M4** | 皮層段（Cortical）| 小的皮層分支 |
 
-### MCA分叉 / Bifurcation
+## MCA分叉 / Bifurcation
 
 | 特徵 | 說明 |
 |---|---|
 | **分叉位置** | M1在外側裂內向上偏轉進入島閾時分叉 |
 | **實用命名** | 分叉前MCA常稱M1；分叉後MCA常稱M2 |
 
-### M1段的重要分支 / Key Branches of M1
+## M1段的重要分支 / Key Branches of M1
 
 | 分支 | 供應區域 |
 |---|---|
 | **外側紋狀體穿通支** | 外側殼核、外部囊、內囊後肢 |
 | **豆紋動靜脈** | 內囊和基底節（高血壓性出血的常見部位）|
 
-### MCA皮層分支 / MCA Cortical Branches
+## MCA皮層分支 / MCA Cortical Branches
 
 | 分支 | 供應區域 |
 |---|---|
@@ -3551,14 +3446,14 @@ weight: 4
 | **中央前回動靜脈** | 運動皮層（手部代表區）|
 | **頂葉動靜脈** | 感覺皮層 |
 
-### MCA的Sylvian裂分支 / Sylvian Branches
+## MCA的Sylvian裂分支 / Sylvian Branches
 
 | 結構 | 說明 |
 |---|---|
 | **Sylvian點（Sylvian point）** | M2在外側裂內的分支點 |
 | **Sylvian裂** | 額葉、頂葉與顳葉之間的深裂 |
 
-### MCA區域 / MCA Territory
+## MCA區域 / MCA Territory
 
 | 區域 | 說明 |
 |---|---|
@@ -3566,15 +3461,13 @@ weight: 4
 | **外側裂下方的分支** | 供應顳葉和頂葉後部 |
 | **深穿通支** | 供應基底節和內囊（豆紋動靜脈）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **M1到M2的過渡**：技術上為進入外側裂的向上偏轉點；實用上分叉前為M1，分叉後為M2
 > - **豆紋動靜脈**：從M1/M2發出；高血壓性基底節出血的常見來源
 > - **MCA區域**：外側裂上方支配額葉/頂葉；下方支配顳葉/頂葉後部
 > - **MCA梗塞**：導致對側偏癱、感覺障礙、偏盲（視放射受累）
 > - 識別MCA分段對介入治療和手術計劃非常重要
-
----
 
 # Neuroimaging - Page 254
 
@@ -3584,7 +3477,7 @@ weight: 4
 
 ---
 
-### ACA分段 / ACA Segments
+## ACA分段 / ACA Segments
 
 | 段 Segment | 名稱 | 說明 |
 |---|---|---|
@@ -3592,7 +3485,7 @@ weight: 4
 | **A2段** | 遠段（環繞胼胝體）| 從A-comm到膝部分支 |
 | **A3段** | 膝部以遠 | 皮層分支 |
 
-### A2段分支 / Branches of A2
+## A2段分支 / Branches of A2
 
 | 分支 | 供應區域 |
 |---|---|
@@ -3600,7 +3493,7 @@ weight: 4
 | **眶額動靜脈（Orbitofrontal）** | 眶額皮層 |
 | **Heubner迴旋動脈** | 尾狀核頭、內囊前肢 |
 
-### A3段分支 / Branches of A3
+## A3段分支 / Branches of A3
 
 | 分支 | 供應區域 |
 |---|---|
@@ -3611,14 +3504,14 @@ weight: 4
 | **頂上動靜脈** | 頂葉內側上部 |
 | **頂下動靜脈** | 頂葉內側下部 |
 
-### 胼胝體周緣動靜脈 / Pericallosal & Callosomarginal Arteries
+## 胼胝體周緣動靜脈 / Pericallosal & Callosomarginal Arteries
 
 | 動靜脈 | 說明 |
 |---|---|
 | **胼胝體周緣動靜脈（Pericallosal）** | A3段的主要延續 |
 | **胼胝體緣動靜脈（Callosomarginal）** | 與扣帶溝伴行 |
 
-### Heubner迴旋動靜脈的起源 / Origin of Recurrent Artery of Heubner
+## Heubner迴旋動靜脈的起源 / Origin of Recurrent Artery of Heubner
 
 | 起源 | 頻率 |
 |---|---|
@@ -3631,7 +3524,7 @@ weight: 4
 
 ## 持續性頸總脈-基底循環連接 / Persistent Carotid-Basilar Connections
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -3639,7 +3532,7 @@ weight: 4
 | **正常退化** | 這些胎兒連接在出生前通常退化 |
 | **持續存在** | 偶爾可持續存在至出生後 |
 
-### 持續性三叉神經動靜脈 / Persistent Trigeminal Artery (PTA)
+## 持續性三叉神經動靜脈 / Persistent Trigeminal Artery (PTA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -3648,14 +3541,14 @@ weight: 4
 | **影像特徵** | 側位血管造影可見典型**「三叉戟」（trident）或「τ」（tau）徵** |
 | **與動靜脈瘤的關聯** | 與動靜脈瘤相關 |
 
-### Saltzman分型 / Saltzman Classification
+## Saltzman分型 / Saltzman Classification
 
 | 類型 | 連接方式 |
 |---|---|
 | **Type I** | 連接到基底動靜脈 |
 | **Type II** | 連接到小腦上動靜脈（SCA）|
 
-### 其他罕見連接 / Other Rare Connections
+## 其他罕見連接 / Other Rare Connections
 
 | 名稱 | 說明 |
 |---|---|
@@ -3663,15 +3556,13 @@ weight: 4
 | **舌下神經動靜脈（Hypoglossal）** | 罕見 |
 | ** proatlantal段間動靜脈** | 罕見 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **ACA分段**：A1（近段）→A2（環繞胼胝體）→A3（膝部以遠皮層分支）
 > - **Heubner迴旋動靜脈**：最常從A1段（A-comm近側）發出；供應尾狀核頭和內囊前肢
 > - **Percheron動靜脈**：雙側丘腦梗塞的罕見原因
 > - **持續性三叉神經動靜脈**：最常見；與動靜脈瘤相關；trident/tau徵是特徵
 > - 認識這些變異對**介入治療和外科手術**非常重要
-
----
 
 # Neuroimaging - Page 255
 
@@ -3681,7 +3572,7 @@ weight: 4
 
 ---
 
-### 顱內主要動靜脈供應區域 / Major Intracranial Arterial Territories
+## 顱內主要動靜脈供應區域 / Major Intracranial Arterial Territories
 
 | 動靜脈 | 供應區域 |
 |---|---|
@@ -3694,7 +3585,7 @@ weight: 4
 
 ---
 
-### 穿通支供應 / Perforator Territories
+## 穿通支供應 / Perforator Territories
 
 | 分支 | 供應區域 |
 |---|---|
@@ -3706,7 +3597,7 @@ weight: 4
 
 ---
 
-### 大腦動靜脈區域的定位標誌 / Anatomical Landmarks for Vascular Territories
+## 大腦動靜脈區域的定位標誌 / Anatomical Landmarks for Vascular Territories
 
 | 水平/結構 | ACA區域 | MCA區域 | PCA區域 | 其他 |
 |---|---|---|---|---|
@@ -3716,7 +3607,7 @@ weight: 4
 
 ---
 
-### 腦血管區域與臨床關係 / Clinical Correlation
+## 腦血管區域與臨床關係 / Clinical Correlation
 
 | 梗塞區域 | 常見責任動靜脈 | 臨床表現 |
 |---|---|---|
@@ -3725,7 +3616,7 @@ weight: 4
 | **丘腦** | PCA穿通支、Percheron動靜脈 | 意識障礙、認知障礙 |
 | **外側裂周圍** | MCA M2段 | 顱葉症狀、失語 |
 
-### 皮層功能區與動靜脈供應 / Cortical Function & Blood Supply
+## 皮層功能區與動靜脈供應 / Cortical Function & Blood Supply
 
 | 功能區 | 動靜脈供應 |
 |---|---|
@@ -3734,8 +3625,8 @@ weight: 4
 | **視覺皮層（ primary）** | PCA（距狀裂）|
 | **語言區（Broca/Wernicke）** | MCA（左側半球）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **MCA區域**：外側裂兩側（額葉、頂葉、顳葉上部）；最常見的大腦皮層梗塞區域
 > - **ACA區域**：內側額葉；導致對側下肢無力/感覺障礙
 > - **PCA區域**：枕葉、顳葉下部；導致對側偏盲
@@ -3743,15 +3634,13 @@ weight: 4
 > - **穿通支**：豆紋動靜脈（MCA）→基底節/內囊；Percheron動靜脈→雙側丘腦
 > - 識別**CT高密度區域**（早期梗塞）和**供應區域**有助於快速定位責任動靜脈
 
----
-
 # Neuroimaging - Page 256
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
 ## 腦卒中的影像學評估 / Imaging of Stroke
 
-### 評估候選人的治療資格 / Determine Potential Candidate for Therapy
+## 評估候選人的治療資格 / Determine Potential Candidate for Therapy
 
 | 原則 | 說明 |
 |---|---|
@@ -3759,7 +3648,7 @@ weight: 4
 | **卒中治療的目的** | 恢復腦灌注 |
 | **靜脈溶栓（tPA）** | 對適當患者可產生近乎神奇的療效；但選擇不當有顱內出血致命風險 |
 
-### AHA指南要點 / AHA Guidelines
+## AHA指南要點 / AHA Guidelines
 
 | 要點 | 說明 |
 |---|---|
@@ -3768,7 +3657,7 @@ weight: 4
 | **高級影像** | 包括血管成像、擴散成像和灌注成像；不應延遲治療時間 |
 | **判讀要求** | 影像應由具有腦影像專業知識的醫師判讀 |
 
-### 治療時間窗口 / Treatment Windows
+## 治療時間窗口 / Treatment Windows
 
 | 治療方式 | 時間窗口 |
 |---|---|
@@ -3778,7 +3667,7 @@ weight: 4
 | **前循環動靜脈治療** | 部分作者建議延長至8小時 |
 | **後循環卒中** | 許多作者認為無時間限制（未治療可致災難性後果）|
 
-### 靜脈tPA的排除標準 / IV tPA Exclusion Criteria
+## 靜脈tPA的排除標準 / IV tPA Exclusion Criteria
 
 | 排除標準 | 說明 |
 |---|---|
@@ -3789,7 +3678,7 @@ weight: 4
 
 ---
 
-### 灌注成像在卒中的應用 / Perfusion Stroke Imaging
+## 灌注成像在卒中的應用 / Perfusion Stroke Imaging
 
 | 概念 | 說明 |
 |---|---|
@@ -3797,7 +3686,7 @@ weight: 4
 | **半暗帶灌注** | 接受灌注但低於正常（約<20 mL/100g/min vs 正常灰質約60 mL/100g/min）|
 | **梗塞核心** | 通常為不可逆死亡組織，即使治療也無法恢復 |
 
-### 灌注生理學 / Perfusion Physiology
+## 灌注生理學 / Perfusion Physiology
 
 | 組織類型 | 灌注率 |
 |---|---|
@@ -3805,15 +3694,13 @@ weight: 4
 | **半暗帶** | <20 mL/100g/min（細胞功能障礙但可挽救）|
 | **梗塞核心** | 極低（不可逆損傷）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **卒中影像首要目的**：排除顱內出血，確定候選人
 > - **tPA時間窗口**：3小時（部分機構4.5小時）；不可延遲
 > - **後循環卒中**：無嚴格時間限制，因未治療可致災難性後果
 > - **灌注成像**：理論上可評估半暗帶，但尚無臨床指南
 > - **半暗帶**：低灌注但功能障礙可逆轉的腦區
-
----
 
 # Neuroimaging - Page 257
 
@@ -3821,14 +3708,14 @@ weight: 4
 
 ## 急性卒中：非增強CT成像 / Acute Stroke: Noncontrast CT Imaging
 
-### 非增強CT在急性卒中的角色 / Role of Noncontrast CT
+## 非增強CT在急性卒中的角色 / Role of Noncontrast CT
 
 | 應用場景 | 說明 |
 |---|---|
 | **初始檢查** | 患者在靜脈tPA時間窗口內（3小時或部分機構4.5小時）時的首選 |
 | **主要目的** | 排除將從血栓溶解治療中受害的患者；**最重要的是排除顱內出血** |
 
-### 超急性期的CT敏感性 / CT Sensitivity in Hyperacute Stage
+## 超急性期的CT敏感性 / CT Sensitivity in Hyperacute Stage
 
 | 問題 | 說明 |
 |---|---|
@@ -3837,7 +3724,7 @@ weight: 4
 
 ---
 
-### 島葉條紋徵 / Insular Ribbon Sign
+## 島葉條紋徵 / Insular Ribbon Sign
 
 | 特徵 | 說明 |
 |---|---|
@@ -3845,7 +3732,7 @@ weight: 4
 | **機制** | 灰白質交界在非常窄的卒中窗口（W30/L30）最明顯 |
 | **臨床意義** | 早期MCA梗塞的徵象 |
 
-### 豆狀核模糊徵 / Obscuration of Lentiform Nucleus
+## 豆狀核模糊徵 / Obscuration of Lentiform Nucleus
 
 | 特徵 | 說明 |
 |---|---|
@@ -3855,7 +3742,7 @@ weight: 4
 
 ---
 
-### 高密度动脉徵 / Hyperdense Artery Sign
+## 高密度动脉徵 / Hyperdense Artery Sign
 
 | 特徵 | 說明 |
 |---|---|
@@ -3865,22 +3752,20 @@ weight: 4
 | **敏感性** | 相對不敏感（約1/3病例可見）|
 | **預後提示** | 某些作者認為高密度动脉徵提示更差預後 |
 
-### CT所見與MRI對照 / CT vs MRI Findings
+## CT所見與MRI對照 / CT vs MRI Findings
 
 | 徵象 | CT | MRI（對應）|
 |---|---|---|
 | **灰白質分界消失** | 島葉條紋徵/豆狀核模糊 | FLAIR/DWI |
 | **急性血栓** | 高密度动脉徵 | GRE暈染偽影 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **非增強CT**：在tPA時間窗口內的首選初始檢查；主要目的是**排除顱內出血**
 > - **島葉條紋徵**：島葉灰白質分界消失=早期MCA梗塞
 > - **高密度MCA徵**：直接顯示血栓；特異但敏感性有限
 > - **W30/L30窗口**：使灰白質交界最明顯的CT窗口設置
 > - CT對超急性期梗塞敏感性低；MRI（DWI）在症狀發作後數分鐘內即可檢測
-
----
 
 # Neuroimaging - Page 258
 
@@ -3888,7 +3773,7 @@ weight: 4
 
 ## 急性卒中：MRI成像 / Acute Stroke: MR Imaging
 
-### MRI在急性卒中的優勢 / MRI Advantages in Acute Stroke
+## MRI在急性卒中的優勢 / MRI Advantages in Acute Stroke
 
 | 序列 | 急性卒中檢測能力 |
 |---|---|
@@ -3899,7 +3784,7 @@ weight: 4
 
 ---
 
-### 急性MCA區域梗塞的MRI所見 / Acute MCA Infarct MRI Findings
+## 急性MCA區域梗塞的MRI所見 / Acute MCA Infarct MRI Findings
 
 | 序列 | 所見 |
 |---|---|
@@ -3908,14 +3793,14 @@ weight: 4
 | **GRE** | 右側近端MCA暈染偽影=血管內血栓（CT高密度动脉徵的MRI對應）|
 | **TOF MRA** | 右側MCA完全閉合；左側靜脈污染 |
 
-### DWI vs FLAIR在超急性卒中的敏感性 / DWI vs FLAIR Sensitivity
+## DWI vs FLAIR在超急性卒中的敏感性 / DWI vs FLAIR Sensitivity
 
 | 序列 | 超急性期敏感性 |
 |---|---|
 | **DWI** | **更高**；可在數分鐘內檢測急性梗塞 |
 | **FLAIR** | 可正常；超急性期可能僅輕微高信號 |
 
-### 急性卒中的MRI序列選擇 / MRI Sequence Selection
+## 急性卒中的MRI序列選擇 / MRI Sequence Selection
 
 | 情況 | 首選序列 |
 |---|---|
@@ -3924,7 +3809,7 @@ weight: 4
 | **血管評估** | TOF MRA（非增強）|
 | **梗塞演變隨訪** | FLAIR + DWI |
 
-### 血栓的MRI表現 / MRI Signs of Thrombus
+## 血栓的MRI表現 / MRI Signs of Thrombus
 
 | 表現 | MRI序列 | 對應CT表現 |
 |---|---|---|
@@ -3932,15 +3817,13 @@ weight: 4
 | **流空消失** | T1/T2 | 血管閉合 |
 | **DWI高信號** | DWI | 梗塞區域 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **DWI**：檢測超急性期梗塞最敏感的序列（數分鐘內）；比FLAIR更敏感
 > - **GRE**：檢測急性血栓的出血成份；MRI上血栓=暈染偽影
 > - **TOF MRA**：非增強血管成像；可評估閉合部位和側支循環
 > - **FLAIR**：超急性期可正常；主要用於隨訪和演變評估
 > - MRI可同時評估**梗塞範圍＋血栓位置＋出血成份**
-
----
 
 # Neuroimaging - Page 259
 
@@ -3948,7 +3831,7 @@ weight: 4
 
 ## 梗塞的演變 / Evolution of Infarction
 
-### 梗塞演變分期 / Stages of Infarction Evolution
+## 梗塞演變分期 / Stages of Infarction Evolution
 
 | 分期 | 時間 | 關鍵特徵 |
 |---|---|---|
@@ -3960,7 +3843,7 @@ weight: 4
 
 ---
 
-### 各序列隨時間變化 / MRI Sequence Changes Over Time
+## 各序列隨時間變化 / MRI Sequence Changes Over Time
 
 | 分期 | FLAIR | DWI | ADC |
 |---|---|---|---|
@@ -3972,7 +3855,7 @@ weight: 4
 
 ---
 
-### 超急性期病理生理 / Hyperacute Phase Pathophysiology
+## 超急性期病理生理 / Hyperacute Phase Pathophysiology
 
 | 機制 | 說明 |
 |---|---|
@@ -3983,7 +3866,7 @@ weight: 4
 
 ---
 
-### 佔位效應與強化的時間關係 / Mass Effect and Enhancement Timeline
+## 佔位效應與強化的時間關係 / Mass Effect and Enhancement Timeline
 
 | 時間 | 佔位效應 | 強化 |
 |---|---|---|
@@ -3994,15 +3877,13 @@ weight: 4
 
 > **重要**：顯著佔位效應和強化通常**不同時出現**；若兩者同時出現需考慮其他病因
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **超急性期（0-6小時）**：DWI高信號+ADC低信號；FLAIR可正常
 > - **急性期（6-72小時）**：T2高信號（灰質為主）；佔位效應增加
 > - **亞急性期**：強化6天至6週（「2-2-2規則」：2天開始、2週達峰、2月消失）
 > - **慢性期**：囊性腦軟化；DWI正常；ADC高信號
 > - **強化與佔位效應峰值時間不重疊**：重疊提示其他病因（如腫瘤）
-
----
 
 # Neuroimaging - Page 260
 
@@ -4012,7 +3893,7 @@ weight: 4
 
 ---
 
-### 急性期（6-72小時）/ Acute Infarct (6-72 hours)
+## 急性期（6-72小時）/ Acute Infarct (6-72 hours)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4024,7 +3905,7 @@ weight: 4
 
 ---
 
-### 早期亞急性期（1.5-5天）/ Early Subacute Infarct
+## 早期亞急性期（1.5-5天）/ Early Subacute Infarct
 
 | 特徵 | 說明 |
 |---|---|
@@ -4036,7 +3917,7 @@ weight: 4
 
 ---
 
-### 晚期亞急性期（5天-2週）/ Late Subacute Infarct
+## 晚期亞急性期（5天-2週）/ Late Subacute Infarct
 
 | 特徵 | 說明 |
 |---|---|
@@ -4044,7 +3925,7 @@ weight: 4
 | **腦迴強化** | 關鍵影像學所見（可類似腫瘤）；但典型無顯著佔位效應 |
 | **強化窗口** | 初始事件後約**6天至6週**可見強化 |
 
-### 強化規則：2-2-2規則 / Enhancement Rule: "2-2-2" Rule
+## 強化規則：2-2-2規則 / Enhancement Rule: "2-2-2" Rule
 
 | 時間點 | 說明 |
 |---|---|
@@ -4054,7 +3935,7 @@ weight: 4
 
 ---
 
-### 慢性期 / Chronic Infarct
+## 慢性期 / Chronic Infarct
 
 | 特徵 | 說明 |
 |---|---|
@@ -4063,7 +3944,7 @@ weight: 4
 | **DWI** | 通常恢復正常 |
 | **皮層層狀壞死** | 少數情況下可發生（替代腦軟化）；T1和T2均高信號（脂質負荷巨噬細胞沉積）|
 
-### 各期鑑別要點 / Differential by Stage
+## 各期鑑別要點 / Differential by Stage
 
 | 分期 | 需鑑別的疾病 |
 |---|---|
@@ -4071,15 +3952,13 @@ weight: 4
 | **佔位效應+強化同時存在** | 需排除腫瘤、感染 |
 | **慢性期軟化囊** | 需與囊性腫瘤、術後改變鑑別 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **急性期**：佔位效應增加+出血風險→監測顱內壓
 > - **早期亞急性**：T2高信號**從灰質擴展到白質**是特點；佔位效應達峰
 > - **晚期亞急性**：腦迴強化≠腫瘤（無顯著佔位效應）；強化「2-2-2」規則
 > - **慢性期**：囊性腦軟化形成；DWI恢復正常；注意Wallerian變性
 > - **強化+顯著佔位效應共存**：需考慮非單純梗塞的其他診斷
-
----
 
 # Neuroimaging - Page 261
 
@@ -4089,9 +3968,9 @@ weight: 4
 
 ---
 
-### 高流量病變（分流性病變）/ HIGH-FLOW LESIONS
+## 高流量病變（分流性病變）/ HIGH-FLOW LESIONS
 
-#### 動靜脈畸形 / Arteriovenous Malformation (AVM)
+### 動靜脈畸形 / Arteriovenous Malformation (AVM)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4100,7 +3979,7 @@ weight: 4
 | **臨床表現** | 癲癇或出血（通常為腦實質出血，罕見珠網膜下腔）|
 | **相關發現** | 供血動靜脈或病灶內動靜脈瘤常見→增加出血風險 |
 
-### Spetzler-Martin量表 / Spetzler-Martin Scale
+## Spetzler-Martin量表 / Spetzler-Martin Scale
 
 | 評分因素 | 低分（低風險）| 高分（高風險）|
 |---|---|---|
@@ -4110,7 +3989,7 @@ weight: 4
 
 > 大AVM＋深靜脈引流＋功能區＝高風險；小AVM＋淺表靜脈引流＋非功能區＝低風險
 
-### AVM的影像特徵 / AVM Imaging Features
+## AVM的影像特徵 / AVM Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -4119,7 +3998,7 @@ weight: 4
 | **取代而非推壓** | AVM取代而非推壓腦組織；幾乎無佔位效應 |
 | **血管造影隱匿** | 出血性AVM若被血腫壓迫可為血管造影隱匿 |
 
-### 增加出血風險的因素 / Bleeding Risk Factors
+## 增加出血風險的因素 / Bleeding Risk Factors
 
 | 因素 | 說明 |
 |---|---|
@@ -4130,14 +4009,14 @@ weight: 4
 
 ---
 
-### 硬膜動靜脈瘻 / Dural Arteriovenous Fistula (dAVF)
+## 硬膜動靜脈瘻 / Dural Arteriovenous Fistula (dAVF)
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 硬膜動靜脈間的高流量分流 |
 | **分類基礎** | **皮層靜脈引流的存在及程度**是最重要的預後因素 |
 
-### Cognard分類 / Cognard Classification
+## Cognard分類 / Cognard Classification
 
 | 類型 | 描述 | 出血風險 |
 |---|---|---|
@@ -4148,22 +4027,20 @@ weight: 4
 | **Type IV** | 直接皮層靜脈引流＋靜脈擴張 | 66% |
 | **Type V** | 脊髓靜脈引流 | 可致脊髓病變 |
 
-### 頸總動靜脈海綿竇瘻 / Carotid-Cavernous Fistula (CCF)
+## 頸總動靜脈海綿竇瘻 / Carotid-Cavernous Fistula (CCF)
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | dAVF的一種；通常為外傷後動靜脈瘻（海綿竇段ICA與海綿竇之間）|
 | **眼部症狀** | 眼球突出、顱神經麻痹（上眼瞼靜脈擴張＋海綿竇內分流）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **AVM**：先天性高流量畸形；無毛細血管床；佔位效應輕微
 > - **Spetzler-Martin量表**：大小＋靜脈引流＋功能區＝評估手術風險
 > - **dAVF**：Cognard分類（Type I→IV出血風險遞增）；皮層靜脈引流是關鍵
 > - **CCF**：外傷後常見；眼部症狀（眼球突出）是特點
 > - AVM和dAVF的治療：栓塞、立體定向放射或手術切除
-
----
 
 # Neuroimaging - Page 262
 
@@ -4173,7 +4050,7 @@ weight: 4
 
 ---
 
-### 海綿狀血管畸形 / Cavernous Malformation (Cavernoma)
+## 海綿狀血管畸形 / Cavernous Malformation (Cavernoma)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4182,7 +4059,7 @@ weight: 4
 | **家族性** | 多發海綿狀血管畸形＝**家族性海綿狀血管瘤病**（遺傳性疾病）|
 | **放射性誘導** | 可由腦部放射治療誘發 |
 
-### 海綿狀血管畸形的影像特徵 / Imaging Features
+## 海綿狀血管畸形的影像特徵 / Imaging Features
 
 | 影像方法 | 特徵 |
 |---|---|
@@ -4191,7 +4068,7 @@ weight: 4
 | **強化** | 通常無強化；延遲強化可見 |
 | **血管成像** | CTA或血管造影通常**隱匿** |
 
-### 海綿狀血管畸形的大小 / Size Range
+## 海綿狀血管畸形的大小 / Size Range
 
 | 大小 | 說明 |
 |---|---|
@@ -4200,7 +4077,7 @@ weight: 4
 
 ---
 
-### 發育性靜脈畸形 / Developmental Venous Anomaly (DVA)
+## 發育性靜脈畸形 / Developmental Venous Anomaly (DVA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4210,7 +4087,7 @@ weight: 4
 
 ---
 
-### 毛細血管擴張 / Capillary Telangiectasia
+## 毛細血管擴張 / Capillary Telangiectasia
 
 | 特徵 | 說明 |
 |---|---|
@@ -4222,7 +4099,7 @@ weight: 4
 
 ---
 
-### 血管畸形總結 / Vascular Malformation Summary
+## 血管畸形總結 / Vascular Malformation Summary
 
 | 類型 | 流量 | 分流 | 出血風險 | 關鍵特徵 |
 |---|---|---|---|---|
@@ -4232,15 +4109,13 @@ weight: 4
 | **DVA** | 低 | 無 | **無**（本身）| caput medusa；靜脈引流 |
 | **毛細血管擴張** | 低 | 無 | 極低 | 腦幹；筆觸樣強化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **海綿狀血管畸形**：爆米花樣＋周圍含鐵血黃素環；與DVA相鄰；家族性可多發
 > - **DVA**：「不可觸碰」病變；caput medusa是特徵；切除可致靜脈性梗塞
 > - **毛細血管擴張**：腦幹；筆觸樣強化；另一個「不可觸碰」病變
 > - **AVM vs 海綿狀血管畸形**：高流vs低流；有vs無分流；MRI流空vs爆米花樣
 > - 識別這些「不可觸碰」病變對手術計劃至關重要
-
----
 
 # Neuroimaging - Page 263
 
@@ -4250,7 +4125,7 @@ weight: 4
 
 ---
 
-### 珠網膜下腔出血（SAH）/ Subarachnoid Hemorrhage
+## 珠網膜下腔出血（SAH）/ Subarachnoid Hemorrhage
 
 | 特徵 | 說明 |
 |---|---|
@@ -4259,7 +4134,7 @@ weight: 4
 | **未明原因** | 高達**22%**的SAH找不到病因 |
 | **臨床表現** | 雷擊樣頭痛＋腦膜刺激徵 |
 
-### 非創傷性SAH的CT敏感性 / CT Sensitivity for SAH
+## 非創傷性SAH的CT敏感性 / CT Sensitivity for SAH
 
 | 時間 | CT敏感性 |
 |---|---|
@@ -4268,7 +4143,7 @@ weight: 4
 
 > 若CT陰性但臨床高度懷疑SAH，標準治療是行**腰椎穿刺**尋找**黃變（xanthochromia）**
 
-### SAH的CT鑑別診斷 / CT Differential for High Attenuation Subarachnoid Material
+## SAH的CT鑑別診斷 / CT Differential for High Attenuation Subarachnoid Material
 
 | 病因 | 說明 |
 |---|---|
@@ -4279,14 +4154,14 @@ weight: 4
 
 ---
 
-### SAH的MRI表現 / MRI Findings of SAH
+## SAH的MRI表現 / MRI Findings of SAH
 
 | 序列 | 表現 |
 |---|---|
 | **FLAIR** | **高信號**（急性SAH）|
 | **GRE** | 磁化率偽影 |
 
-### FLAIR珠網膜下腔高信號的MRI鑑別診斷 / MRI Differential for Increased FLAIR Signal
+## FLAIR珠網膜下腔高信號的MRI鑑別診斷 / MRI Differential for Increased FLAIR Signal
 
 | 病因 | 強化 |
 |---|---|---|
@@ -4299,23 +4174,21 @@ weight: 4
 
 ---
 
-### 血管造影 / Angiography
+## 血管造影 / Angiography
 
 | 方法 | 應用 |
 |---|---|
 | **導管血管造影** | 評估動靜脈瘤的金標準 |
 | **CT血管造影（CTA）** | 多項研究顯示與導管血管造影等效（檢測SAH相關瘤）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **SAH最常見原因**：創傷（非創傷性：動靜脈瘤破裂）
 > - **雷擊樣頭痛**：非創傷性SAH的典型臨床表現
 > - **CT敏感性**：前6小時>95%；第5天降至50%
 > - **CT陰性時**：腰椎穿刺找黃變（膽紅素滲出=出血後>6小時）
 > - **MRI**：FLAIR高信號；GRE磁化率偽影
 > - **CTA**：與導管血管造影等效檢測破裂動靜脈瘤
-
----
 
 # Neuroimaging - Page 264
 
@@ -4325,7 +4198,7 @@ weight: 4
 
 ---
 
-### SAH分布與破裂動靜脈瘤位置的關係 / SAH Pattern and Aneurysm Location
+## SAH分布與破裂動靜脈瘤位置的關係 / SAH Pattern and Aneurysm Location
 
 | SAH分布 | 提示的動靜脈瘤位置 | 佔所有顱內動靜脈瘤比例 |
 |---|---|---|
@@ -4338,7 +4211,7 @@ weight: 4
 
 ---
 
-### Hunt and Hess分級 / Hunt and Hess Score
+## Hunt and Hess分級 / Hunt and Hess Score
 
 | 分級 | 臨床表現 |
 |---|---|
@@ -4350,7 +4223,7 @@ weight: 4
 
 ---
 
-### Fisher分級 / Fisher Grade (CT表現)
+## Fisher分級 / Fisher Grade (CT表現)
 
 | 分級 | CT所見 |
 |---|---|
@@ -4361,9 +4234,9 @@ weight: 4
 
 ---
 
-### SAH的併發症 / Complications of SAH
+## SAH的併發症 / Complications of SAH
 
-#### 腦血管痙攣 / Vasospasm
+### 腦血管痙攣 / Vasospasm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4371,14 +4244,14 @@ weight: 4
 | **峰值時間** | 初始發作後約**7天** |
 | **後果** | 可致卒中或出血 |
 
-### 血管痙攣的治療 / Treatment of Vasospasm
+## 血管痙攣的治療 / Treatment of Vasospasm
 
 | 治療 | 方式 |
 |---|---|
 | **內科治療** | 三H療法：高血压、高血容量、血液稀釋 |
 | **介入治療** | 顱內灌注血管舒張劑（罌粟鹼等）|
 
-#### 急性腦積水 / Acute Hydrocephalus
+### 急性腦積水 / Acute Hydrocephalus
 
 | 特徵 | 說明 |
 |---|---|
@@ -4386,7 +4259,7 @@ weight: 4
 | **機制** | 珠網膜粒阻塞→腦脊液流出障礙 |
 | **治療** | 腦室造口引流（ventriculostomy）|
 
-### 顱內動靜脈瘤的臨床分布 / Clinical Distribution of Intracranial Aneurysms
+## 顱內動靜脈瘤的臨床分布 / Clinical Distribution of Intracranial Aneurysms
 
 | 位置 | 比例 |
 |---|---|
@@ -4396,15 +4269,13 @@ weight: 4
 | **基底動靜脈瘤尖** | 5% |
 | **其他** | 9% |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **SAH分布**：前縱裂→A-comm；鞍上池→P-comm；外側裂→MCA
 > - **Fisher分級**：Grade 3-4提示高風險（厚SAH >1mm）
 > - **血管痙攣**：SAH後7天達峰；三H療法（高血压、高血容量、血液稀釋）
 > - **急性腦積水**：20-30%發生；腦室造口引流
 > - ** Hunt and Hess**：I-V級臨床分級；V級為最嚴重
-
----
 
 # Neuroimaging - Page 265
 
@@ -4412,7 +4283,7 @@ weight: 4
 
 ## 腦血管痙攣 / Cerebral Vasospasm
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -4421,7 +4292,7 @@ weight: 4
 | **峰值時間** | SAH後約**7天** |
 | **後果** | 可致缺血性卒中和出血性轉化 |
 
-### 血管痙攣的發生時間 / Timeline of Vasospasm
+## 血管痙攣的發生時間 / Timeline of Vasospasm
 
 | 時間 | 說明 |
 |---|---|
@@ -4429,7 +4300,7 @@ weight: 4
 | **4-14天** | 高峰期（7天達峰）|
 | **14天後** | 逐漸消退 |
 
-### 血管痙攣的影像學評估 / Imaging of Vasospasm
+## 血管痙攣的影像學評估 / Imaging of Vasospasm
 
 | 方法 | 說明 |
 |---|---|
@@ -4437,7 +4308,7 @@ weight: 4
 | **CTA** | 可評估血管直徑狹窄程度 |
 | **DSA** | 金標準；可同時行介入治療 |
 
-### 三H療法 / Triple-H Therapy
+## 三H療法 / Triple-H Therapy
 
 | 組成 | 目的 |
 |---|---|
@@ -4447,7 +4318,7 @@ weight: 4
 
 ---
 
-### 介入治療 / Endovascular Treatment
+## 介入治療 / Endovascular Treatment
 
 | 方法 | 藥物 |
 |---|---|
@@ -4455,7 +4326,7 @@ weight: 4
 
 ---
 
-### 遲發性腦缺血 / Delayed Cerebral Ischemia (DCI)
+## 遲發性腦缺血 / Delayed Cerebral Ischemia (DCI)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4465,7 +4336,7 @@ weight: 4
 
 ---
 
-### 動靜脈瘤的自然史 / Natural History of Unruptured Aneurysms
+## 動靜脈瘤的自然史 / Natural History of Unruptured Aneurysms
 
 | 特徵 | 說明 |
 |---|---|
@@ -4473,7 +4344,7 @@ weight: 4
 | **大小** | >7-10mm的動靜脈瘤破裂風險更高 |
 | **症狀性vs無症狀性** | 症狀性動靜脈瘤破裂風險更高 |
 
-### 動靜脈瘤的治療決策 / Treatment Decision for Aneurysms
+## 動靜脈瘤的治療決策 / Treatment Decision for Aneurysms
 
 | 因素 | 考慮 |
 |---|---|
@@ -4482,15 +4353,13 @@ weight: 4
 | **形態** | 規則vs不規則（有子瘤或分葉）|
 | **患者年齡/身體狀況** | 治療風險vs破裂風險權衡 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **血管痙攣**：SAH後7天達峰；三H療法為內科治療首選
 > - **遲發性腦缺血（DCI）**：血管痙攣相關；3-14天為高峰期
 > - **尼莫地平**：口服預防血管痙攣的標準藥物
 > - **未破裂動靜脈瘤**：破裂率1-2%/年；大小>7-10mm通常建議積極治療
 > - 動靜脈瘤的治療決策需平衡**破裂風險**與**治療風險**
-
----
 
 # Neuroimaging - Page 266
 
@@ -4498,7 +4367,7 @@ weight: 4
 
 ## 表層含鐵血黃素沉著症 / Superficial Siderosis
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -4506,23 +4375,21 @@ weight: 4
 | **臨床表現** | 感覺神經性耳聾；共濟失調 |
 | **MRI特徵** | 鐵在T2加權圖像上沿受累腦溝呈低信號勾畫 |
 
-### 影像學所見 / Imaging Findings
+## 影像學所見 / Imaging Findings
 
 | 所見 | 說明 |
 |---|---|
 | **T2低信號** | 沿受累溝回的軟膜表面與珠網膜下腔交界處可見薄層低信號界面 |
 | **常見部位** | 小腦溝、顱葉溝回、基底池 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **表層含鐵血黃素沉著症**：反覆SAH導致軟膜含鐵沉積；T2低信號勾畫腦溝輪廓
 > - **感覺神經性耳聾+共濟失調**：不明原因的進行性感覺神經性耳聾應考慮表層含鐵血黃素沉著症
 
----
-
 ## 腳間池珠網膜下腔出血 / Perimesencephalic Subarachnoid Hemorrhage
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -4530,7 +4397,7 @@ weight: 4
 | **預後** | 遠比動靜脈瘤破裂性出血預後好 |
 | **診斷標準** | 排除性診斷 |
 
-### 診斷標準 / Diagnostic Criteria
+## 診斷標準 / Diagnostic Criteria
 
 | 標準 | 說明 |
 |---|---|
@@ -4538,7 +4405,7 @@ weight: 4
 | **血管造影** | 標準治療：相隔一周行兩次導管血管造影；兩次均需陰性 |
 | **病因** | 不明；可能為血管造影隱匿的靜脈性出血 |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -4546,7 +4413,7 @@ weight: 4
 | **預後** | 良好；通常無殘留神經功能缺損 |
 | **血管痙攣** | 部分患者可出現輕度至中度血管痙攣 |
 
-### 鑑別要點 / Key Points
+## 鑑別要點 / Key Points
 
 | 腳間池SAH | 動靜脈瘤性SAH |
 |---|---|
@@ -4554,13 +4421,11 @@ weight: 4
 | 兩次血管造影陰性 | 找到責任動靜脈瘤 |
 | 預後良好 | 預後取決於併發症 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腳間池SAH**：非動靜脈瘤性；排除性診斷；預後良好
 > - **確診要求**：兩次相隔一周的導管血管造影均陰性
 > - 若出血超出腳間池範圍，應積極尋找動靜脈瘤
-
----
 
 # Neuroimaging - Page 267
 
@@ -4568,7 +4433,7 @@ weight: 4
 
 ## 可逆性腦血管收縮綜合徵 / Reversible Cerebral Vasoconstriction Syndrome (RCVS)
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -4581,7 +4446,7 @@ weight: 4
 
 ---
 
-### 囊狀動靜脈瘤 / Saccular Aneurysm
+## 囊狀動靜脈瘤 / Saccular Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4591,14 +4456,14 @@ weight: 4
 | **好發人群** | 幾乎僅見於成人；女性略多 |
 | **病因** | 血流動力學應力＋血管壁獲得性退變的組合 |
 
-### 囊狀動靜脈瘤的危險因素 / Risk Factors for Saccular Aneurysm
+## 囊狀動靜脈瘤的危險因素 / Risk Factors for Saccular Aneurysm
 
 | 類型 | 因素 |
 |---|---|
 | **非遺傳性** | 高血壓；炎症性血管病（如大動脈炎、巨細胞性動脈炎）|
 | **遺傳性疾病** | 結締組織疾病（Marfan、Ehlers-Danlos）；多囊腎；神經纖維瘤病I型 |
 
-### 動靜脈瘤的解剖 / Aneurysm Anatomy
+## 動靜脈瘤的解剖 / Aneurysm Anatomy
 
 | 結構 | 說明 |
 |---|---|
@@ -4606,7 +4471,7 @@ weight: 4
 | **瘤體（body）** | 動靜脈瘤囊 |
 | **頸體比** | 影響治療選擇；相對小頸的動靜脈瘤更易於線圈栓塞 |
 
-### 囊狀動靜脈瘤按大小分類 / Size Classification
+## 囊狀動靜脈瘤按大小分類 / Size Classification
 
 | 大小 | 直徑 |
 |---|---|
@@ -4618,7 +4483,7 @@ weight: 4
 
 ---
 
-### 梭形動靜脈瘤 / Fusiform Aneurysm
+## 梭形動靜脈瘤 / Fusiform Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4629,7 +4494,7 @@ weight: 4
 
 ---
 
-### 黴菌性（感染性）動靜脈瘤 / Mycotic (Infectious) Aneurysm
+## 黴菌性（感染性）動靜脈瘤 / Mycotic (Infectious) Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4640,7 +4505,7 @@ weight: 4
 
 ---
 
-### 腫瘤性動靜脈瘤 / Oncotic Aneurysm
+## 腫瘤性動靜脈瘤 / Oncotic Aneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4649,7 +4514,7 @@ weight: 4
 
 ---
 
-### 外傷性假性動靜脈瘤 / Traumatic Pseudoaneurysm
+## 外傷性假性動靜脈瘤 / Traumatic Pseudoaneurysm
 
 | 特徵 | 說明 |
 |---|---|
@@ -4658,15 +4523,13 @@ weight: 4
 | **特點** | 與黴菌性類似，趨向於遠端發生 |
 | **易損位置** | 鄰近骨質的血管（基底動靜脈、椎動靜脈）易發生夾層性動靜脈瘤 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **RCVS**：雷擊樣頭痛＋可逆性腦血管收縮
 > - **囊狀動靜脈瘤**：最常見；Willis環分叉處；大小是破裂風險的關鍵
 > - **梭形動靜脈瘤**：無瘤頸；椎基底更常見；更難治療
 > - **黴菌性動靜脈瘤**：2-4%；心內膜炎病史；遠端循環；易破裂
 > - **巨型動靜脈瘤**：常以佔位效應就診（顱神經麻痹）
-
----
 
 # Neuroimaging - Page 268
 
@@ -4676,7 +4539,7 @@ weight: 4
 
 ---
 
-### 靜脈竇 / Dural Sinuses
+## 靜脈竇 / Dural Sinuses
 
 | 竇 | 說明 |
 |---|---|
@@ -4685,7 +4548,7 @@ weight: 4
 | **乙狀竇** | 連接至頸靜脈球 |
 | **Torcular Herophili** | 上矢狀竇、橫竇和直竇的匯合處 |
 
-### 橫竇的不對稱 / Transverse Sinus Asymmetry
+## 橫竇的不對稱 / Transverse Sinus Asymmetry
 
 | 情況 | 說明 |
 |---|---|
@@ -4694,7 +4557,7 @@ weight: 4
 
 ---
 
-### 深部腦靜脈 / Deep Cerebral Veins
+## 深部腦靜脈 / Deep Cerebral Veins
 
 | 靜脈 | 說明 |
 |---|---|
@@ -4702,7 +4565,7 @@ weight: 4
 | **Rosenthal基底靜脈** | 引流顱葉和間腦 |
 | **大腦大靜脈（Galen靜脈）** | 匯集深靜脈血液 |
 
-### 靜脈角的解剖 / Venous Angle
+## 靜脈角的解剖 / Venous Angle
 
 | 特徵 | 說明 |
 |---|---|
@@ -4711,14 +4574,14 @@ weight: 4
 
 ---
 
-### 淺部腦靜脈 / Superficial Cerebral Veins
+## 淺部腦靜脈 / Superficial Cerebral Veins
 
 | 靜脈 | 說明 |
 |---|---|
 | **Trolard靜脈** | 連接淺皮層靜脈與上矢狀竇 |
 | **Labbé靜脈** | 引流顱葉凸面至橫竇或乙狀竇 |
 
-### Labbé靜脈損傷 / Vein of Labbé Injury
+## Labbé靜脈損傷 / Vein of Labbé Injury
 
 | 特徵 | 說明 |
 |---|---|
@@ -4727,7 +4590,7 @@ weight: 4
 
 ---
 
-### 靜脈竇匯合 / Venous Sinus Drainage Summary
+## 靜脈竇匯合 / Venous Sinus Drainage Summary
 
 | 竇/靜脈 | 引流區域 |
 |---|---|
@@ -4737,15 +4600,13 @@ weight: 4
 | **大腦內靜脈** | 深部結構（丘腦、基底節）|
 | **基底靜脈（Rosenthal）** | 顱葉、間腦 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **上矢狀竇**引流凸面皮層；**Labbé靜脈**引流顱葉；兩者是顱葉靜脈引流的主要通道
 > - **靜脈角**是透明隔靜脈和丘腦紋狀體靜脈的交點，即Monro孔的位置
 > - **橫竇不對稱**常見；左側發育不全是正常變異
 > - **Labbé靜脈損傷**可致顱葉靜脈性梗塞和失語；顱葉手術時需保護
 > - 認識靜脈解剖對**靜脈竇血栓**和**靜脈性梗塞**的診斷至關重要
-
----
 
 # Neuroimaging - Page 269
 
@@ -4753,21 +4614,21 @@ weight: 4
 
 ## 靜脈血栓形成 / Venous Thrombosis
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
 | **發病率** | 年輕患者卒中的常見原因之一 |
 | **危險因素** | 妊娠、口服避孕藥、血栓形成傾 向、惡性腫瘤、感染 |
 
-### 靜脈血栓的CT表現 / CT Features of Venous Thrombosis
+## 靜脈血栓的CT表現 / CT Features of Venous Thrombosis
 
 | 徵象 | 說明 |
 |---|---|
 | **繩徵（Cord sign）** | 非增強CT上血栓靜脈/竇的高密度 |
 | **空三角徵（Empty delta sign）** | 增強CT上，上矢狀竇內的充盈缺損 |
 
-### 靜脈血栓的MRI表現 / MRI Features of Venous Thrombosis
+## 靜脈血栓的MRI表現 / MRI Features of Venous Thrombosis
 
 | 序列 | 表現 |
 |---|---|
@@ -4775,7 +4636,7 @@ weight: 4
 | **FLAIR** | 血栓呈高信號 |
 | **MR靜脈成像（MRV）** | 血栓靜脈/竇無血流信號 |
 
-### 靜脈血栓的併發症 / Complications
+## 靜脈血栓的併發症 / Complications
 
 | 併發症 | 說明 |
 |---|---|
@@ -4784,7 +4645,7 @@ weight: 4
 
 ---
 
-### 靜脈性梗塞的特征性模式 / Characteristic Patterns of Venous Infarction
+## 靜脈性梗塞的特征性模式 / Characteristic Patterns of Venous Infarction
 
 | 血栓位置 | 梗塞部位 |
 |---|---|
@@ -4792,7 +4653,7 @@ weight: 4
 | **深靜脈系統血栓** | → **雙側丘腦** |
 | **橫竇血栓** | → **顱葉後部** |
 
-### 各靜脈竇血栓的典型梗塞分布 / Infarction by Sinus
+## 各靜脈竇血栓的典型梗塞分布 / Infarction by Sinus
 
 | 靜脈竇 | 典型梗塞區域 |
 |---|---|
@@ -4801,7 +4662,7 @@ weight: 4
 | **橫竇** | 顱葉後部/顱頂交界處 |
 | **乙狀竇** | 顱葉 |
 
-### 靜脈竇血栓的臨床表現 / Clinical Presentation
+## 靜脈竇血栓的臨床表現 / Clinical Presentation
 
 | 表現 | 說明 |
 |---|---|
@@ -4809,15 +4670,13 @@ weight: 4
 | **癲癇** | 常見 |
 | **局灶性神經功能缺損** | 取決於靜脈引流區域 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **靜脈血栓**：年輕患者卒中重要原因；妊娠、口服避孕藥是常見危險因素
 > - **CT繩徵**：血栓竇的高密度（特徵性）
 > - **靜脈性梗塞特徵**：取決於血栓位置；上矢狀竇→旁矢狀凸面；深靜脈→雙側丘腦
 > - 靜脈性梗塞與**动脉性梗塞**的鑑別要點：靜脈性梗塞分布不符合动脉供應區
 > - **MRV**是確診靜脈血栓的主要MRI方法
-
----
 
 # Neuroimaging - Page 270
 
@@ -4827,7 +4686,7 @@ weight: 4
 
 ---
 
-### CT成像 / CT Imaging of Hemorrhage
+## CT成像 / CT Imaging of Hemorrhage
 
 | 特徵 | 說明 |
 |---|---|
@@ -4837,9 +4696,9 @@ weight: 4
 
 ---
 
-### MRI成像：血紅蛋白的演變 / MR Evolution of Hemoglobin
+## MRI成像：血紅蛋白的演變 / MR Evolution of Hemoglobin
 
-#### 血紅蛋白演變階段 / Stages of Hemoglobin Evolution
+### 血紅蛋白演變階段 / Stages of Hemoglobin Evolution
 
 | 階段 | 過程 |
 |---|---|
@@ -4851,7 +4710,7 @@ weight: 4
 
 ---
 
-### 出血的MRI信號特徵 / MR Signal Characteristics of Hemorrhage
+## 出血的MRI信號特徵 / MR Signal Characteristics of Hemorrhage
 
 | 血紅蛋白階段 | T1信號 | T2信號 |
 |---|---|---|
@@ -4861,7 +4720,7 @@ weight: 4
 | **細胞外正鐵血紅蛋白** | **亮** | **亮** |
 | **含鐵血黃素/鐵蛋白** | 黑 | 黑 |
 
-### 出血分期記憶 / Hemorrhage Dating Rules
+## 出血分期記憶 / Hemorrhage Dating Rules
 
 | 規律 | 說明 |
 |---|---|
@@ -4871,7 +4730,7 @@ weight: 4
 | **細胞外正鐵血紅蛋白** | T2**亮**（與T1同）|
 | **非超急性期** | T2通常**黑**（細胞外正鐵血紅蛋白例外：亮）|
 
-### 超急性血腫 / Hyperacute Hematoma
+## 超急性血腫 / Hyperacute Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -4880,7 +4739,7 @@ weight: 4
 
 ---
 
-### 慢血流狀態 / Slow Flow States
+## 慢血流狀態 / Slow Flow States
 
 | 特徵 | 說明 |
 |---|---|
@@ -4891,7 +4750,7 @@ weight: 4
 
 ---
 
-### 腦內出血的治療 / Treatment of Intraparenchymal Hemorrhage
+## 腦內出血的治療 / Treatment of Intraparenchymal Hemorrhage
 
 | 原則 | 說明 |
 |---|---|
@@ -4899,22 +4758,20 @@ weight: 4
 | **主要治療** | **支持治療**：血壓控制、凝血障礙糾正 |
 | **手術治療** | 大血腫若佔位效應明顯或腦疝風險高可手術清除 |
 
-### 後顱窩出血的手術指徵 / Posterior Fossa Hemorrhage Surgery
+## 後顱窩出血的手術指徵 / Posterior Fossa Hemorrhage Surgery
 
 | 標準 | 說明 |
 |---|---|
 | **大小** | >**3 cm** 的後顱窩出血通常需手術 |
 | **風險** | 腦幹受壓或第四腦室阻塞致腦積水的風險 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **非增強CT**：急診評估顱內出血的首選；急性出血高密度
 > - **出血時間判定**：T1/T2信號演變反映血紅蛋白的化學狀態
 > - **正鐵血紅蛋白**：T1亮；細胞內型T2也黑（獨特組合）
 > - **慢血流**：T2上血流高信號（不似快血流的黑）；可酷似強化
 > - **後顱窩出血>3cm**：腦幹受壓和腦積水風險→手術清除
-
----
 
 # Neuroimaging - Page 271
 
@@ -4922,7 +4779,7 @@ weight: 4
 
 ## 腦實質內血腫各階段的MRI特徵 / MR Stages of Parenchymal Hematoma
 
-### 出血分期總表 / Hemorrhage Stages Summary
+## 出血分期總表 / Hemorrhage Stages Summary
 
 | 分期 | 時間 | 血紅蛋白形式 | T1信號 | T2信號 |
 |---|---|---|---|---|
@@ -4932,13 +4789,13 @@ weight: 4
 | **晚期亞急性期** | 1週-數月 | 細胞外正鐵血紅蛋白 | **高信號** | **高信號** |
 | **慢性期** | 數月+ | 細胞外鐵（含鐵血黃素/鐵蛋白）| 等或低信號 | **低信號** |
 
-### 演變過程 / Transitions
+## 演變過程 / Transitions
 
 > 脫氧 → 氧化 → 細胞裂解 → 整合
 
 ---
 
-### 超急性期血腫（<6小時）/ Hyperacute Hematoma
+## 超急性期血腫（<6小時）/ Hyperacute Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -4949,7 +4806,7 @@ weight: 4
 
 ---
 
-### 急性期血腫（6-72小時）/ Acute Hematoma
+## 急性期血腫（6-72小時）/ Acute Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -4959,7 +4816,7 @@ weight: 4
 
 ---
 
-### 早期亞急性期血腫（3天-1週）/ Early Subacute Hematoma
+## 早期亞急性期血腫（3天-1週）/ Early Subacute Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -4969,7 +4826,7 @@ weight: 4
 
 ---
 
-### 晚期亞急性期血腫（1週-數月）/ Late Subacute Hematoma
+## 晚期亞急性期血腫（1週-數月）/ Late Subacute Hematoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -4980,7 +4837,7 @@ weight: 4
 
 ---
 
-### 慢性期含鐵血黃素沉積 / Chronic Sequela (Hemosiderin/Ferritin)
+## 慢性期含鐵血黃素沉積 / Chronic Sequela (Hemosiderin/Ferritin)
 
 | 特徵 | 說明 |
 |---|---|
@@ -4990,15 +4847,13 @@ weight: 4
 | **GRE** | 暈染偽影 |
 | **強化** | 血腫周圍可有強化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **超急性期（<6小時）**：氧合血紅蛋白；T2可見周圍暗環（脫氧緣）
 > - **急性期（6-72小時）**：去氧血紅蛋白；T2**低信號**
 > - **早期亞急性**：細胞內正鐵血紅蛋白；**T1高+T2低**（獨特組合）
 > - **晚期亞急性**：細胞外正鐵血紅蛋白；**T1高+T2高**（與CSF信號相似）
 > - **慢性期**：含鐵血黃素/鐵蛋白；**T2和GRE低信號**（永久存在）
-
----
 
 # Neuroimaging - Page 272
 
@@ -5008,7 +4863,7 @@ weight: 4
 
 ---
 
-### 高血壓性出血 / Hypertensive Hemorrhage
+## 高血壓性出血 / Hypertensive Hemorrhage
 
 | 特徵 | 說明 |
 |---|---|
@@ -5016,7 +4871,7 @@ weight: 4
 | **機制** | 慢性高血壓的微血管病變導致血管病變 |
 | **病理** | 慢性高血壓→ arteriolar平滑肌增生→平滑肌細胞死亡→膠原替代→血管擴張→出血傾向 |
 
-### 高血壓性出血的特徵性位置 / Characteristic Locations
+## 高血壓性出血的特徵性位置 / Characteristic Locations
 
 | 位置 | 說明 |
 |---|---|
@@ -5024,7 +4879,7 @@ weight: 4
 | **丘腦** | 常見部位 |
 | **小腦** | 常見部位 |
 
-### 高血壓性出血的影像學線索 / Imaging Clues
+## 高血壓性出血的影像學線索 / Imaging Clues
 
 | 發現 | 說明 |
 |---|---|
@@ -5034,7 +4889,7 @@ weight: 4
 
 ---
 
-### 腦澱粉樣血管病 / Cerebral Amyloid Angiopathy (CAA)
+## 腦澱粉樣血管病 / Cerebral Amyloid Angiopathy (CAA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5043,14 +4898,14 @@ weight: 4
 | **臨床線索** | 患者為**正常血壓老年成人** |
 | **主要影像特徵** | 血腫位置幾乎總是**腦葉或皮層**，常位於頂葉或枕葉 |
 
-### CAA的影像學線索 / Imaging Features of CAA
+## CAA的影像學線索 / Imaging Features of CAA
 
 | 發現 | 說明 |
 |---|---|
 | **GRE/SWI微出血** | 腦實質內**皮層**多發微出血 |
 | **與高血壓的對比** | 高血壓微出血位於**基底節/腦幹**，而非皮層 |
 
-### 高血壓性出血 vs CAA / Hypertensive vs CAA
+## 高血壓性出血 vs CAA / Hypertensive vs CAA
 
 | 鑑別點 | 高血壓性出血 | CAA |
 |---|---|---|
@@ -5059,15 +4914,13 @@ weight: 4
 | **患者** | 高血壓成人 | 正常血壓老年 |
 | **GRE微出血位置** | 基底節、腦幹 | **皮層** |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **高血壓性出血**：最常見的自發性腦實質出血；典型位置=基底節、丘腦、小腦
 > - **CAA**：老年正常血壓患者的腦葉出血；第二常見（非創傷性老年出血）
 > - **GRE微出血的位置**是區分高血壓（基底節）和CAA（皮層）的關鍵
 > - 老年正常血壓患者腦葉出血→首先考慮CAA
 > - 高血壓患者典型位置出血→首先考慮高血壓性出血
-
----
 
 # Neuroimaging - Page 273
 
@@ -5077,7 +4930,7 @@ weight: 4
 
 ---
 
-### 動靜脈瘤破裂出血 / Aneurysmal Hemorrhage
+## 動靜脈瘤破裂出血 / Aneurysmal Hemorrhage
 
 | 特徵 | 說明 |
 |---|---|
@@ -5088,7 +4941,7 @@ weight: 4
 
 ---
 
-### 動靜脈畸形（AVM）/ Arteriovenous Malformation
+## 動靜脈畸形（AVM）/ Arteriovenous Malformation
 
 | 特徵 | 說明 |
 |---|---|
@@ -5098,7 +4951,7 @@ weight: 4
 
 ---
 
-### 硬膜動靜脈瘻（dAVF）/ Dural AV Fistula
+## 硬膜動靜脈瘻（dAVF）/ Dural AV Fistula
 
 | 特徵 | 說明 |
 |---|---|
@@ -5108,7 +4961,7 @@ weight: 4
 
 ---
 
-### 靜脈血栓形成 / Venous Thrombosis
+## 靜脈血栓形成 / Venous Thrombosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -5117,14 +4970,14 @@ weight: 4
 
 ---
 
-### 出血性腫瘤 / Hemorrhagic Neoplasm
+## 出血性腫瘤 / Hemorrhagic Neoplasm
 
 | 特徵 | 說明 |
 |---|---|
 | **表現** | 腦腫瘤有時以急性出血為首發表現 |
 | **最常見原發腫瘤** | 膠質母細胞瘤 |
 
-### 常見導致出血性轉移的腫瘤 / Tumors Causing Hemorrhagic Metastases
+## 常見導致出血性轉移的腫瘤 / Tumors Causing Hemorrhagic Metastases
 
 | 腫瘤 | 說明 |
 |---|---|
@@ -5134,7 +4987,7 @@ weight: 4
 | **腎細胞癌** | 常見出血轉移 |
 | **乳腺癌/肺癌** | 整體常見，但每例出血較少見 |
 
-### 出血性腫瘤的診斷線索 / Diagnostic Clues
+## 出血性腫瘤的診斷線索 / Diagnostic Clues
 
 | 線索 | 說明 |
 |---|---|
@@ -5143,22 +4996,20 @@ weight: 4
 | **多發強化病變** | 多發強化病變強烈提示轉移性疾病 |
 | **隨訪** | 若診斷不清，出血改善後隨訪MRI |
 
-### 抗血管生成藥物風險 / Avastin Risk
+## 抗血管生成藥物風險 / Avastin Risk
 
 | 藥物 | 風險 |
 |---|---|
 | **Bevacizumab（Avastin）** | 增加出血性轉移的風險 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **動靜脈瘤破裂**：非創傷性SAH最常見原因；血腫位於破裂瘤附近
 > - **AVM**：年輕患者腦實質出血需考慮；擴大的供血動靜脈是特點
 > - **dAVF**：後顱窩/海綿竇區域高流量分流
 > - **靜脈血栓**：靜脈高壓可致出血性梗塞
 > - **出血性腫瘤**：膠質母細胞瘤是最常見原發；絨毛膜癌、黑色素瘤、腎癌、甲狀腺癌是最易出血的轉移
 > - **多發強化病變**：高度提示轉移性疾病
-
----
 
 # Neuroimaging - Page 274
 
@@ -5168,7 +5019,7 @@ weight: 4
 
 ---
 
-### 海綿狀血管畸形 / Cavernous Malformation
+## 海綿狀血管畸形 / Cavernous Malformation
 
 | 特徵 | 說明 |
 |---|---|
@@ -5180,7 +5031,7 @@ weight: 4
 
 ---
 
-### 梗塞的出血性轉化 / Hemorrhagic Transformation of Infarct
+## 梗塞的出血性轉化 / Hemorrhagic Transformation of Infarct
 
 | 特徵 | 說明 |
 |---|---|
@@ -5193,7 +5044,7 @@ weight: 4
 
 ---
 
-### 中樞神經系統血管炎 / CNS Vasculitis
+## 中樞神經系統血管炎 / CNS Vasculitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -5205,7 +5056,7 @@ weight: 4
 
 ---
 
-### 煙霧病 / Moyamoya
+## 煙霧病 / Moyamoya
 
 | 特徵 | 說明 |
 |---|---|
@@ -5215,7 +5066,7 @@ weight: 4
 | **動靜脈瘤** | 煙霧病患者易患動靜脈瘤（尤其後循環）|
 | **灌注研究** | 受累血管區域血流量降低 |
 
-### 煙霧病的影像學特徵 / Key Moyamoya Features
+## 煙霧病的影像學特徵 / Key Moyamoya Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -5223,15 +5074,13 @@ weight: 4
 | **側支循環** | 豆紋穿通支增殖（煙霧外觀）|
 | **常春藤徵** | FLAIR上慢血流的高信號 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **海綿狀血管畸形**：MRI爆米花樣；與相鄰DVA提示近期出血
 > - **梗塞出血性轉化**：6-12%溶栓後可發生；粗大动脉徵是CT風險因素
 > - **煙霧病**：進行性顱內ICA狹窄＋豆紋側支（煙霧）＋常春藤徵
 > - **血管炎**：多發T2延長（深白質/基底節）；血管造影確診
 > - 出血病因鑑別需結合**年齡＋位置＋基礎疾病**
-
----
 
 # Neuroimaging - Page 275
 
@@ -5241,9 +5090,9 @@ weight: 4
 
 ---
 
-### 老年人出血病因 / Older Adults
+## 老年人出血病因 / Older Adults
 
-#### 高血壓性出血 / Hypertensive Hemorrhage
+### 高血壓性出血 / Hypertensive Hemorrhage
 
 | 臨床線索 | 影像線索 |
 |---|---|
@@ -5251,7 +5100,7 @@ weight: 4
 | — | 基底節多發T2\*微出血？ |
 | — | 既往腔隙梗塞和腦室周圍白質病變？ |
 
-#### 腦澱粉樣血管病 / Cerebral Amyloid Angiopathy
+### 腦澱粉樣血管病 / Cerebral Amyloid Angiopathy
 
 | 臨床線索 | 影像線索 |
 |---|---|
@@ -5260,7 +5109,7 @@ weight: 4
 
 ---
 
-### 動靜脈瘤相關 / Aneurysmal
+## 動靜脈瘤相關 / Aneurysmal
 
 | 動靜脈瘤破裂 | 說明 |
 |---|---|
@@ -5269,22 +5118,22 @@ weight: 4
 
 ---
 
-### 血管畸形 / Vascular Malformations
+## 血管畸形 / Vascular Malformations
 
-#### AVM
+### AVM
 
 | 臨床線索 | 影像線索 |
 |---|---|
 | 年輕患者腦實質出血？ | 擴大的供血動靜脈？ |
 | — | 相鄰腦軟化症？ |
 
-#### dAVF
+### dAVF
 
 | 臨床線索 | 影像線索 |
 |---|---|
 | 出血位於海綿竇附近或後顱窩？ | 擴大的腦膜動靜脈或皮層靜脈？ |
 
-#### 海綿狀血管畸形
+### 海綿狀血管畸形
 
 | 臨床線索 | 影像線索 |
 |---|---|
@@ -5293,16 +5142,16 @@ weight: 4
 
 ---
 
-### 其他病因 / Other Etiologies
+## 其他病因 / Other Etiologies
 
-#### 靜脈血栓形成
+### 靜脈血栓形成
 
 | 臨床線索 | 影像線索 |
 |---|---|
 | 旁矢狀或雙側丘腦出血？ | 年輕患者（尤其女性）？ |
 | — | 皮層靜脈或靜脈竇密度增高？ |
 
-#### 出血性腫瘤
+### 出血性腫瘤
 
 | 臨床線索 | 影像線索 |
 |---|---|
@@ -5310,14 +5159,14 @@ weight: 4
 | — | 比預期更不均勻的信號？ |
 | — | 多發強化病變？ |
 
-#### 出血性梗塞
+### 出血性梗塞
 
 | 病史線索 | 說明 |
 |---|---|
 | 梗塞臨床病史？ | 可為梗塞的首發表現 |
 | 血栓溶解治療病史？ | 6-12%溶栓後可發生 |
 
-#### 中樞神經系統血管炎
+### 中樞神經系統血管炎
 
 | 臨床/影像線索 | 說明 |
 |---|---|
@@ -5325,14 +5174,14 @@ weight: 4
 | 全身性血管炎病史？ | 繼發性血管炎 |
 | 血管造影上多發狹窄/擴張？ | 確診 |
 
-#### 煙霧病
+### 煙霧病
 
 | 臨床/影像線索 | 說明 |
 |---|---|
 | 顱內頸總動靜脈閉塞？ | 進行性狹窄 |
 | 多發側支血管？ | 豆紋穿通支增殖 |
 
-### 出血病因鑑別要點 / Key Diagnostic Approach
+## 出血病因鑑別要點 / Key Diagnostic Approach
 
 | 患者特徵 | 首先要考慮的病因 |
 |---|---|
@@ -5343,15 +5192,13 @@ weight: 4
 | **後顱窨出血＋有瘻症狀** | dAVF |
 | **多發強化病變** | 轉移瘤 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **老年人出血**：高血壓（基底節/丘腦）vs CAA（腦葉）是最主要鑑別
 > - **年輕患者**：AVM是首先要考慮的病因
 > - **煙霧病史+出血**：煙霧病相關出血
 > - **靜脈竇/皮層靜脈血栓**：靜脈性出血（旁矢狀/雙側丘腦）
 > - 系統性方法：年齡＋血壓＋位置＋基礎疾病→縮小鑑別範圍
-
----
 
 # Neuroimaging - Page 276
 
@@ -5359,7 +5206,7 @@ weight: 4
 
 ## 白質疾病概覽 / White Matter Disease Overview
 
-### 白質損傷的典型MRI表現 / Typical MRI Appearance
+## 白質損傷的典型MRI表現 / Typical MRI Appearance
 
 | 特徵 | 說明 |
 |---|---|
@@ -5367,7 +5214,7 @@ weight: 4
 | **不典型表現** | *瘤樣*脫髓鞘可呈腫瘤樣，伴強化 |
 | **關鍵影像學所見** | 相對於病變大小，**佔位效應輕微** |
 
-### 正常結構可類似白質疾病 / Normal Structures Mimicking White Matter Disease
+## 正常結構可類似白質疾病 / Normal Structures Mimicking White Matter Disease
 
 | 結構 | 說明 |
 |---|---|
@@ -5376,7 +5223,7 @@ weight: 4
 
 ---
 
-### 白質疾病常見模式 / Common White Matter Disease Patterns
+## 白質疾病常見模式 / Common White Matter Disease Patterns
 
 | 人群 | 常見病因 |
 |---|---|
@@ -5387,7 +5234,7 @@ weight: 4
 
 ## 特發性/自體免疫性/炎症性白質疾病 / Idiopathic/Autoimmune/Inflammatory White Matter Disease
 
-### 多發性硬化症 / Multiple Sclerosis (MS)
+## 多發性硬化症 / Multiple Sclerosis (MS)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5396,7 +5243,7 @@ weight: 4
 | **發病率** | 最常見的慢性脫髓鞘疾病；常導致嚴重殘疾 |
 | **好發人群** | 中年高加索女性（北緯地區）|
 
-### MS的兩種主要臨床表現 / Clinical Presentations of MS
+## MS的兩種主要臨床表現 / Clinical Presentations of MS
 
 | 類型 | 說明 |
 |---|---|
@@ -5405,28 +5252,26 @@ weight: 4
 | **原發進展型** | 隱匿發病，無明顯急性加重 |
 | **繼發進展型** | 似復發-緩解型，但發作間不完全緩解，導致進行性殘疾 |
 
-### 視神經炎 / Optic Neuritis
+## 視神經炎 / Optic Neuritis
 
 | 特徵 | 說明 |
 |---|---|
 | **臨床意義** | 可為MS的首發徵兆 |
 | **MRI目的** | 視神經炎發作後行腦MRI以尋找其他（臨床靜默的）病變 |
 
-### McDonald診斷標準 / McDonald Criteria
+## McDonald診斷標準 / McDonald Criteria
 
 | 原則 | 說明 |
 |---|---|
 | **空間多發** | 不同CNS區域的病變 |
 | **時間多發** | 跨掃描的新病變 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **白質損傷典型MRI**：T2延長；相對於病變大小佔位效應輕微是脫髓鞘的關鍵特點
 > - **MS**：復發-緩解型最常見；中年女性；McDonald標準要求空間和時間多發
 > - **視神經炎**：可為MS首發；MRI尋找其他無症狀病變
 > - 老年人白質改變：最可能是慢性微血管缺血
-
----
 
 # Neuroimaging - Page 277
 
@@ -5436,7 +5281,7 @@ weight: 4
 
 ---
 
-### Dawson指 / Dawson Fingers
+## Dawson指 / Dawson Fingers
 
 | 特徵 | 說明 |
 |---|---|
@@ -5445,7 +5290,7 @@ weight: 4
 
 ---
 
-### 活動性脫髓鞘 / Active Demyelination
+## 活動性脫髓鞘 / Active Demyelination
 
 | 特徵 | 說明 |
 |---|---|
@@ -5453,7 +5298,7 @@ weight: 4
 
 ---
 
-### 黑洞穴 / Black Holes
+## 黑洞穴 / Black Holes
 
 | 特徵 | 說明 |
 |---|---|
@@ -5462,7 +5307,7 @@ weight: 4
 
 ---
 
-### 慢性MS改變 / Chronic MS Changes
+## 慢性MS改變 / Chronic MS Changes
 
 | 改變 | 說明 |
 |---|---|
@@ -5472,7 +5317,7 @@ weight: 4
 
 ---
 
-### 瘤樣MS / Tumefactive MS
+## 瘤樣MS / Tumefactive MS
 
 | 特徵 | 說明 |
 |---|---|
@@ -5481,7 +5326,7 @@ weight: 4
 
 ---
 
-### 脊髓受累 / Spinal Cord Involvement
+## 脊髓受累 / Spinal Cord Involvement
 
 | 特徵 | 說明 |
 |---|---|
@@ -5491,14 +5336,14 @@ weight: 4
 
 ---
 
-### MS的變異型 / MS Variants
+## MS的變異型 / MS Variants
 
 | 變異型 | 特點 |
 |---|---|
 | **同心圓性（Balo）硬化症** | 極罕見；正常和異常髓鞘交替的同心圓條紋；病理學特異；年輕患者多見 |
 | **Marburg變異型（急性MS）** | 暴發性MS；數月內死亡 |
 
-### Devic病（視神經脊髓炎）/ Devic Disease (Neuromyelitis Optica)
+## Devic病（視神經脊髓炎）/ Devic Disease (Neuromyelitis Optica)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5508,15 +5353,13 @@ weight: 4
 | **機制** | NMO-IgG激活補體級聯並誘導脫髓鞘 |
 | **影像** | MS樣病變，伴視神經和脊髓受累；腦病變如有，趨向於腦室周圍 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Dawson指**：MS特徵性（胼胝體+指向腦室的卵圓形T2高信號）
 > - **強化=活動性病變**；**黑洞穴=更嚴重脫髓鞘**
 > - **瘤樣MS**：環形強化但無顯著佔位效應（與腫瘤鑑別的關鍵）
 > - **Devic病**：視神經+脊髓同時受累；NMO-IgG確診；比MS預後差
 > - **孤立性脊髓受累**：高達20%的MS可見
-
----
 
 # Neuroimaging - Page 278
 
@@ -5526,7 +5369,7 @@ weight: 4
 
 ---
 
-### MS變異型 / MS Variants
+## MS變異型 / MS Variants
 
 | 變異型 | 特點 |
 |---|---|
@@ -5535,7 +5378,7 @@ weight: 4
 
 ---
 
-### 滲透性脫髓鞘 / Osmotic Demyelination
+## 滲透性脫髓鞘 / Osmotic Demyelination
 
 | 特徵 | 說明 |
 |---|---|
@@ -5543,7 +5386,7 @@ weight: 4
 | **機制** | 快速滲透梯度改變→內皮損傷→BBB破壞→細胞外毒素釋放→髓鞘損傷 |
 | **高危人群** | 營養不良者：嗜酒者、慢性肺病、肝移植受者 |
 
-### 滲透性脫髓鞘的MRI所見 / MRI Features
+## 滲透性脫髓鞘的MRI所見 / MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -5552,7 +5395,7 @@ weight: 4
 
 ---
 
-### Marchiafava-Bignami病 / Marchiafava-Bignami
+## Marchiafava-Bignami病 / Marchiafava-Bignami
 
 | 特徵 | 說明 |
 |---|---|
@@ -5561,7 +5404,7 @@ weight: 4
 
 ---
 
-### Wernicke腦病 / Wernicke Encephalopathy
+## Wernicke腦病 / Wernicke Encephalopathy
 
 | 特徵 | 說明 |
 |---|---|
@@ -5573,7 +5416,7 @@ weight: 4
 
 ## 血管性白質疾病 / Vascular White Matter Disease
 
-### 後部可逆性腦病綜合徵（PRES）/ Posterior Reversible Encephalopathy Syndrome (PRES)
+## 後部可逆性腦病綜合徵（PRES）/ Posterior Reversible Encephalopathy Syndrome (PRES)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5582,14 +5425,14 @@ weight: 4
 | **其他病因** | 子癇、敗血症、自體免疫疾病、多藥化療、實體或幹細胞移植 |
 | **水腫性質** | 與梗塞不同，為**血管性水腫**（非細胞毒性）；DWI可正常、升高或受限 |
 
-### PRES的MRI所見 / PRES MRI Findings
+## PRES的MRI所見 / PRES MRI Findings
 
 | 特徵 | 說明 |
 |---|---|
 | **分佈** | **對稱性**皮層下白質異常（CT低衰減；MRI T2延長）；後循環為主（枕葉、頂葉、後顱窩）|
 | **佔位效應/強化** | 可有輕微佔位效應和強化 |
 
-### 與梗塞的對比 / PRES vs Infarct
+## 與梗塞的對比 / PRES vs Infarct
 
 | 特徵 | PRES | 梗塞 |
 |---|---|---|
@@ -5597,14 +5440,12 @@ weight: 4
 | **對稱性** | 對稱 | 通常不對稱 |
 | **DWI** | 正常/升高/受限 | 受限 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **滲透性脫髓鞘**：積極糾正低鈉血症後；橋腦central T2延長；高危人群：嗜酒者、營養不良者
 > - **PRES**：急性高血壓最常見；後循環為主；對稱性皮層下白質T2延長
 > - **Wernicke腦病**：臨床三聯徵；乳頭體和丘腦T2延長
 > - PRES和滲透性脫髓鞘是**可逆性**白質疾病，及時治療可改善
-
----
 
 # Neuroimaging - Page 279
 
@@ -5612,7 +5453,7 @@ weight: 4
 
 ## 遺傳性血管病 / Hereditary Vasculopathy
 
-### CADASIL / Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy
+## CADASIL / Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy
 
 | 特徵 | 說明 |
 |---|---|
@@ -5630,7 +5471,7 @@ weight: 4
 | **本質** | 主要影響小血管（軟膜和小的腦實質血管）的血管炎症性疾病群 |
 | **病因** | 狼瘡、結節性多發性血管炎、巨細胞性血管炎、乾燥綜合徵 |
 
-### 血管炎的MRI所見 / MRI Features
+## 血管炎的MRI所見 / MRI Features
 
 | 所見 | 說明 |
 |---|---|
@@ -5638,7 +5479,7 @@ weight: 4
 | **與MS的對比** | 表現可似MS |
 | **出血** | 可有病灶性出血（GRE/SWI顯示最佳）——MS無此表現 |
 
-### 血管炎的影像學檢查 / Imaging
+## 血管炎的影像學檢查 / Imaging
 
 | 方法 | 敏感性 |
 |---|---|
@@ -5659,7 +5500,7 @@ weight: 4
 
 ## 感染性（病毒性）白質疾病 / Infectious (Viral) White Matter Disease
 
-### 進行性多灶性白質腦病（PML）/ Progressive Multifocal Leukoencephalopathy (PML)
+## 進行性多灶性白質腦病（PML）/ Progressive Multifocal Leukoencephalopathy (PML)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5668,7 +5509,7 @@ weight: 4
 | **與MS治療的關聯** | 約千分之一的**natalizumab（Tysabri）**治療的MS患者可並發PML |
 | **確診** | CSF中JC病毒DNA的PCR |
 
-### PML的MRI特徵 / PML MRI Features
+## PML的MRI特徵 / PML MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -5676,7 +5517,7 @@ weight: 4
 | **U纖維受累** | **弓狀（皮層下U）纖維**常受累（連接皮層與皮層的有髓纖維）|
 | **佔位效應/強化** | 罕見 |
 
-### AIDS患者的鑑別診斷 / Differential in AIDS
+## AIDS患者的鑑別診斷 / Differential in AIDS
 
 | 特徵 | HIV腦炎 | PML |
 |---|---|---|
@@ -5684,15 +5525,13 @@ weight: 4
 | **皮層下白質** | 不受累 | **受累** |
 | **腦萎縮** | 存在 | 不存在 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **CADASIL**：前顳葉病變高度特異；對稱性皮層下白質T2延長；偏頭痛+復發性卒中
 > - **血管炎**：多發T2延長；GRE出血（區別於MS）；血管造影確診
 > - **微血管病**：80%老年人可見；**不累及胼胝體**是關鍵鑑別點
 > - **PML**：免疫抑制患者；不對稱性白質病變+弓狀纖維受累；JC病毒PCR確診
 > - AIDS患者：HIV腦炎（對稱，腦萎縮）vs PML（不對稱，弓狀纖維受累）
-
----
 
 # Neuroimaging - Page 280
 
@@ -5702,7 +5541,7 @@ weight: 4
 
 ---
 
-### 亞急性硬化性全腦炎 / Subacute Sclerosing Panencephalitis (SSPE)
+## 亞急性硬化性全腦炎 / Subacute Sclerosing Panencephalitis (SSPE)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5714,7 +5553,7 @@ weight: 4
 
 ## 病毒後白質疾病 / Post-Viral White Matter Disease
 
-### 急性播散性腦脊髓炎 / Acute Disseminated Encephalomyelitis (ADEM)
+## 急性播散性腦脊髓炎 / Acute Disseminated Encephalomyelitis (ADEM)
 
 | 特徵 | 說明 |
 |---|---|
@@ -5724,7 +5563,7 @@ weight: 4
 | **分佈** | 與MS相似，可累及腦、腦幹或脊髓 |
 | **視神經炎/脊髓受累** | ADEM可見視神經炎和脊髓受累（如MS）|
 
-### Hurst變異型 / Hurst Variant
+## Hurst變異型 / Hurst Variant
 
 | 特徵 | 說明 |
 |---|---|
@@ -5735,7 +5574,7 @@ weight: 4
 
 ## 醫源性白質疾病 / Iatrogenic White Matter Disease
 
-### 放射性損傷 / Radiation Injury
+## 放射性損傷 / Radiation Injury
 
 | 分期 | 時間 | 特點 |
 |---|---|---|
@@ -5743,14 +5582,14 @@ weight: 4
 | **早遲發期** | 治療後數週至6個月 | 脫髓鞘；MRI：瀰漫性白質T2延長 |
 | **晚遲發期** | 治療後數月至數年 | 白質損傷或局竈性放射性壞死；常有佔位效應、水腫和強化 |
 
-### 晚遲發放射性損傷的特點 / Late Delayed Radiation Features
+## 晚遲發放射性損傷的特點 / Late Delayed Radiation Features
 
 | 特徵 | 說明 |
 |---|---|
 | **佔位效應/水腫/強化** | 常見 |
 | **放射性壞死** | 需在有放射治療史的環形強化腫塊鑑別診斷中考慮 |
 
-### 放射治療的其他併發症 / Other Radiation Complications
+## 放射治療的其他併發症 / Other Radiation Complications
 
 | 併發症 | 說明 |
 |---|---|
@@ -5761,22 +5600,20 @@ weight: 4
 
 ---
 
-### 化療相關白質疾病 / Chemotherapy-Related White Matter Disease
+## 化療相關白質疾病 / Chemotherapy-Related White Matter Disease
 
 | 特徵 | 說明 |
 |---|---|
 | **分佈** | 可為局竈性、多竈性或瀰漫性白質疾病 |
 | **與放療的關係** | 與放療聯合化療時更常見 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **SSPE**：麻疹後多年發病；白質病變伴水腫和佔位效應（鑑別於其他脫髓鞘）
 > - **ADEM**：兒童單相性疾病；病毒感染/疫苗接种後；預後通常良好
 > - **Hurst變異型**：暴發性出血性脫髓鞘；數天內死亡
 > - **晚遲發放射性損傷**：放射治療後數月至數年；放射性壞死在鑑別診斷中很重要
 > - **放療後可誘發**：腦膜瘤、毛細血管擴張、海綿狀血管畸形、煙霧病
-
----
 
 # Neuroimaging - Page 281
 
@@ -5784,7 +5621,7 @@ weight: 4
 
 ## 化膿性感染 / Pyogenic Abscess
 
-### 病因 / Etiology
+## 病因 / Etiology
 
 | 途徑 | 說明 |
 |---|---|
@@ -5792,7 +5629,7 @@ weight: 4
 | **直接蔓延** | 來自鼻竇炎或乳突炎 |
 | **細菌性腦膜炎的並發症** | 可為並發症 |
 
-### 膿瘋的演變分期 / Evolution and Staging
+## 膿瘋的演變分期 / Evolution and Staging
 
 | 分期 | 時間 | 特徵 |
 |---|---|---|
@@ -5803,7 +5640,7 @@ weight: 4
 
 > 膿瘖完全形成約需**2週**
 
-### 化膿性膿瘋的典型影像學表現 / Classic Imaging Appearance
+## 化膿性膿瘋的典型影像學表現 / Classic Imaging Appearance
 
 | 特徵 | 說明 |
 |---|---|
@@ -5813,7 +5650,7 @@ weight: 4
 | **DWI** | **受限擴散**：DWI極亮、ADC暗 |
 | **囊內容物** | DWI高信號、ADC低信號 |
 
-### 腦室周圍病變的特點 / Periventricular Lesions
+## 腦室周圍病變的特點 / Periventricular Lesions
 
 | 特徵 | 說明 |
 |---|---|
@@ -5821,7 +5658,7 @@ weight: 4
 | **即將破裂的徵兆** | 腦室邊緣中斷 |
 | **破裂後果** | 腦室炎；死亡率極高 |
 
-### 與膠質瘤/轉移瘤的鑑別 / Differentiation from Glioma/Metastasis
+## 與膠質瘤/轉移瘤的鑑別 / Differentiation from Glioma/Metastasis
 
 | 特徵 | 膿瘖 | 膠質瘤/轉移瘤 |
 |---|---|---|
@@ -5829,14 +5666,12 @@ weight: 4
 | **DWI** | **受限擴散**（高信號）| 通常無受限 |
 | **強化** | 均勻薄環 | 厚而不規則 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **化膿性膿瘋**：DWI高信號+ADC低信號是最具鑑別價值的序列
 > - **T2低信號邊緣**（薄且光滑）是膿瘖的特徵（與腫瘤鑑別的關鍵）
 > - 腦室周圍膿瘋朝向腦室的壁更薄；破裂可致腦室炎（死亡率極高）
 > - 完全形成約需2週；早期（腦炎期）為非特異性強化
-
----
 
 # Neuroimaging - Page 282
 
@@ -5844,7 +5679,7 @@ weight: 4
 
 ## 結核瘤與萊姆病 / Tuberculoma and Lyme Disease
 
-### 結核瘤 / Tuberculoma
+## 結核瘤 / Tuberculoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -5856,7 +5691,7 @@ weight: 4
 
 ---
 
-### 萊姆病 / Lyme Disease
+## 萊姆病 / Lyme Disease
 
 | 特徵 | 說明 |
 |---|---|
@@ -5868,7 +5703,7 @@ weight: 4
 
 ## 真菌感染 / Fungal Infection
 
-### 隱球菌病 / Cryptococcosis
+## 隱球菌病 / Cryptococcosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -5878,14 +5713,14 @@ weight: 4
 | **臨床表現** | 最常見為慢性基底腦膜炎 |
 | **影像最常見所見** | **腦積水**（非特異）|
 
-### 隱球菌的傳播與影像 / Cryptococcus Spread and Imaging
+## 隱球菌的傳播與影像 / Cryptococcus Spread and Imaging
 
 | 形式 | 影像特徵 |
 |---|---|
 | **沿基底節血管周圍空間傳播** | 表現為圓形CSF信號病變（膠凍樣假囊）|
 | **脈絡叢受累** | 腦室內產生環形強化的肉芽腫（隱球菌瘤） |
 
-### 隱球菌的治療 / Treatment
+## 隱球菌的治療 / Treatment
 
 | 藥物 | 說明 |
 |---|---|
@@ -5895,7 +5730,7 @@ weight: 4
 
 ## 寄生蟲感染 / Parasitic Infection
 
-### 神經囊蟲病 / Neurocysticercosis
+## 神經囊蟲病 / Neurocysticercosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -5903,7 +5738,7 @@ weight: 4
 | **病原體** | 絛蟲*Taenia solium* |
 | **臨床表現** | 癲癇 |
 
-### 神經囊蟲病的四個階段 / Stages of Neurocysticercosis
+## 神經囊蟲病的四個階段 / Stages of Neurocysticercosis
 
 | 階段 | 影像特徵 |
 |---|---|
@@ -5912,7 +5747,7 @@ weight: 4
 | **3. 結節/顆粒期** | 水腫消退，囊壁增厚 |
 | **4. 鈣化期** | CT小腦實質鈣化；GRE小磁化率焦點 |
 
-### 腦室內囊蟲病 / Intraventricular Neurocysticercosis
+## 腦室內囊蟲病 / Intraventricular Neurocysticercosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -5921,20 +5756,18 @@ weight: 4
 | **FLAIR特點** | 蛋白質豐富的囊內液在FLAIR上不被抑制，導水管囊腫最明顯 |
 | **臨床表現** | 腦積水可為首發表現 |
 
-### 拉丁型（Racemose Form）
+## 拉丁型（Racemose Form）
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 舊術語，描述無可見頭節的變異型；現認為代表頭節退化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **結核瘤**：T2中心低信號（對比化膿性膿瘋的高信號）
 > - **隱球菌病**：AIDS患者常見；腦積水是常見影像發現；CD4<100時易感
 > - **神經囊蟲病**：免疫正常患者最常見寄生蟲感染；癲癇；四個階段（活性→膠質→結節→鈣化）
 > - 囊蟲病腦室內型（20%）：導水管最常見；FLAIR顯示囊腫（蛋白豐富液體不被抑制）
-
----
 
 # Neuroimaging - Page 283
 
@@ -5942,7 +5775,7 @@ weight: 4
 
 ## 弓漿蟲病 / Toxoplasmosis
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -5951,7 +5784,7 @@ weight: 4
 | **CD4閾值** | CD4<100 cells/μL時AIDS患者易感 |
 | **排名** | AIDS中第二常見CNS感染（第一位：HIV腦炎）|
 
-### 典型影像學表現 / Typical Imaging Appearance
+## 典型影像學表現 / Typical Imaging Appearance
 
 | 特徵 | 說明 |
 |---|---|
@@ -5961,13 +5794,13 @@ weight: 4
 | **MRI FLAIR** | 基底節不均勻腫塊伴廣泛水腫 |
 | **強化** | **光滑環形強化** |
 
-### 特異性徵象 / Specific Signs
+## 特異性徵象 / Specific Signs
 
 | 徵象 | 說明 |
 |---|---|
 | **非對稱靶徵（Asymmetric target sign）** | 不常見但相對特異；描述強化壁上的離心性強化結節 |
 
-### 與CNS淋巴瘤的鑑別 / Differential: CNS Lymphoma
+## 與CNS淋巴瘤的鑑別 / Differential: CNS Lymphoma
 
 | 鑑別點 | 弓漿蟲病 | CNS淋巴瘤 |
 |---|---|---|
@@ -5976,7 +5809,7 @@ weight: 4
 | **FDG-PET** | **低代謝** | 高代謝 |
 | **Thallium閃爍掃描** | 不攝取 | 攝取 |
 
-### 弓漿蟲病的影像特徵總結 / Summary
+## 弓漿蟲病的影像特徵總結 / Summary
 
 | 檢查 | 所見 |
 |---|---|
@@ -5986,14 +5819,12 @@ weight: 4
 | **FDG-PET** | 不對稱低代謝（受累側）|
 | **Thallium** | 不攝取 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **弓漿蟲病**：AIDS患者最常見腦腫塊；CD4<100時易感；基底節單發或多發環形強化
 > - **與淋巴瘤的關鍵鑑別**：弓漿蟲病**無擴散受限**、rCBV不升高、PET低代謝
 > - **非對稱靶徵**：弓漿蟲病的相對特異性表現
 > - 免疫抑制患者基底節強化的首要鑑別：弓漿蟲病 vs CNS淋巴瘤
-
----
 
 # Neuroimaging - Page 284
 
@@ -6003,14 +5834,14 @@ weight: 4
 
 ---
 
-### 皰疹病毒腦炎 / Herpes Encephalitis
+## 皰疹病毒腦炎 / Herpes Encephalitis
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 潛伏在三叉神經節的HSV-1再激活所致的破壞性（若未治療）壞死性腦炎 |
 | **臨床表現** | 非特異；發熱和頭痛通常是突出症狀；意識障礙 |
 
-### 皰疹腦炎的MRI所見 / MRI Findings
+## 皰疹腦炎的MRI所見 / MRI Findings
 
 | 序列 | 所見 |
 |---|---|
@@ -6020,7 +5851,7 @@ weight: 4
 | **出血時** | T1縮短和梯度磁化率 |
 | **強化** | 感染後期出現；典型為腦迴樣強化 |
 
-### 皰疹腦炎的關鍵點 / Key Points
+## 皰疹腦炎的關鍵點 / Key Points
 
 | 點 | 說明 |
 |---|---|
@@ -6028,7 +5859,7 @@ weight: 4
 | **DWI/ADC** | 受累區域典型顯示**擴散受限** |
 | **免疫抑制患者** | HSV-6感染應在上述發現中考慮（但強化和擴散異常可缺如）|
 
-### 皰疹腦炎的鑑別診斷 / Differential
+## 皰疹腦炎的鑑別診斷 / Differential
 
 | 疾病 | 特點 |
 |---|---|
@@ -6039,7 +5870,7 @@ weight: 4
 
 ---
 
-### HIV腦病 / HIV Encephalopathy
+## HIV腦病 / HIV Encephalopathy
 
 | 特徵 | 說明 |
 |---|---|
@@ -6050,7 +5881,7 @@ weight: 4
 
 ---
 
-### 巨細胞病毒（CMV）腦炎 / Cytomegalovirus (CMV) Encephalitis
+## 巨細胞病毒（CMV）腦炎 / Cytomegalovirus (CMV) Encephalitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -6058,21 +5889,19 @@ weight: 4
 | **最常見CNS表現** | 腦室炎或腦膜腦炎 |
 | **特徵性影像** | 沿整個腦室系統的**室管膜下FLAIR高信號和強化** |
 
-### CMV新生兒感染 / Neonatal CMV
+## CMV新生兒感染 / Neonatal CMV
 
 | 特徵 | 說明 |
 |---|---|
 | **地位** | 最常見的TORCH感染之一 |
 | **影像所見** | 萎縮、腦軟化、腦室擴大、**腦室周圍鈣化** |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **皰疹腦炎**：發熱+內側顱葉T2延長=首先考慮；DWI擴散受限；需緊急抗病毒治療
 > - **HIV腦病**：AIDS最常見CNS感染；對稱性白質T2延長；不累及U纖維
 > - **CMV腦炎**：CD4<50；腦室炎；室管膜下FLAIR高信號和強化
 > - 免疫抑制患者顱內感染的檢查步驟：考慮HIV腦病、CMV、PML、皰疹腦炎
-
----
 
 # Neuroimaging - Page 285
 
@@ -6082,14 +5911,14 @@ weight: 4
 
 ---
 
-### Creutzfeldt-Jakob病 / Creutzfeldt-Jakob Disease (CJD)
+## Creutzfeldt-Jakob病 / Creutzfeldt-Jakob Disease (CJD)
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 由阮病毒引起的罕見神經退化性疾病 |
 | **典型MRI所見** | **皮層條紋樣（cortical ribboning）** |
 
-### CJD的MRI特徵 / MRI Features of CJD
+## CJD的MRI特徵 / MRI Features of CJD
 
 | 特徵 | 描述 |
 |---|---|
@@ -6098,21 +5927,21 @@ weight: 4
 | **丘腦受累** | 常受累 |
 | **運動皮層** | 經常**保留**（不對稱）|
 
-### CJD的特徵性徵象 / Characteristic Signs of CJD
+## CJD的特徵性徵象 / Characteristic Signs of CJD
 
 | 徵象 | 描述 |
 |---|---|
 | **Pulvinar徵** | 丘腦枕核的DWI和FLAIR高信號 |
 | **曲棍球棒徵（Hockey stick sign）** | 背內側丘腦的DWI和FLAIR高信號 |
 
-### 丘腦受累的MRI所見 / Thalamic Involvement
+## 丘腦受累的MRI所見 / Thalamic Involvement
 
 | 徵象 | 受累結構 |
 |---|---|
 | **Pulvinar徵** | 丘腦枕核 |
 | **曲棍球棒徵** | 背內側丘腦 |
 
-### CJD的臨床與病理特點 / Clinical Pathological Features
+## CJD的臨床與病理特點 / Clinical Pathological Features
 
 | 特點 | 說明 |
 |---|---|
@@ -6121,22 +5950,20 @@ weight: 4
 | **臨床特徵** | 快速進行性癡呆；肌陣攣；最終死亡 |
 | **皮層條紋樣** | CJD的特徵性MRI表現 |
 
-### 與其他疾病的對比 / Differential
+## 與其他疾病的對比 / Differential
 
 | 疾病 | 與CJD的區別 |
 |---|---|
 | **阿茲海默症** | 無皮層條紋樣；進展較慢 |
 | **其他癡呆** | 無DWI受限模式 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **CJD**：阮病毒引起的罕見快速進行性癡呆；皮層條紋樣+基底節/丘腦受累是典型
 > - **曲棍球棒徵**：背內側丘腦高信號=高度提示CJD
 > - **Pulvinar徵**：丘腦枕核高信號
 > - **運動皮層保留**：CJD的特點（幫助與其他疾病鑑別）
 > - DWI和FLAIR高信號的皮層分佈模式是CJD診斷的關鍵
-
----
 
 # Neuroimaging - Page 286
 
@@ -6146,7 +5973,7 @@ weight: 4
 
 ---
 
-### 肝臟疾病 / Liver Disease
+## 肝臟疾病 / Liver Disease
 
 | 特徵 | 說明 |
 |---|---|
@@ -6155,7 +5982,7 @@ weight: 4
 
 ---
 
-### 低血糖 / Hypoglycemia
+## 低血糖 / Hypoglycemia
 
 | 特徵 | 說明 |
 |---|---|
@@ -6164,7 +5991,7 @@ weight: 4
 
 ---
 
-### 缺氧缺血性腦病 / Hypoxic Ischemic Encephalopathy (HIE)
+## 缺氧缺血性腦病 / Hypoxic Ischemic Encephalopathy (HIE)
 
 | 特徵 | 說明 |
 |---|---|
@@ -6173,7 +6000,7 @@ weight: 4
 | **預後** | 基底節受累預後較差 |
 | **CT所見** | 灰白質分界消失；瀰漫性低衰減；腦溝消失 |
 
-### HIE的MRI所見 / MRI Findings
+## HIE的MRI所見 / MRI Findings
 
 | 序列 | 所見 |
 |---|---|
@@ -6182,7 +6009,7 @@ weight: 4
 
 ---
 
-### 甲醇中毒 / Methanol Poisoning
+## 甲醇中毒 / Methanol Poisoning
 
 | 特徵 | 說明 |
 |---|---|
@@ -6191,21 +6018,19 @@ weight: 4
 
 ---
 
-### 一氧化碳中毒 / Carbon Monoxide Poisoning
+## 一氧化碳中毒 / Carbon Monoxide Poisoning
 
 | 特徵 | 說明 |
 |---|---|
 | **MRI所見** | 蒼白球的對稱性T2延長和擴散受限 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **肝臟疾病**：蒼白球/黑質T1高信號=錳沉積
 > - **低血糖**：嚴重時累及皮層、海馬、基底節
 > - **HIE**：全腦缺氧；基底節受累預後差；「白小腦徵」是特點
 > - **甲醇中毒**：首發視神經炎；殼核出血性壞死
 > - **CO中毒**：蒼白球對稱性T2延長
-
----
 
 # Neuroimaging - Page 287
 
@@ -6215,7 +6040,7 @@ weight: 4
 
 ---
 
-### 筋膜解剖：咽後間隙 / Fascial Anatomy - Retropharyngeal Space
+## 筋膜解剖：咽後間隙 / Fascial Anatomy - Retropharyngeal Space
 
 | 間隙 | 說明 |
 |---|---|
@@ -6226,7 +6051,7 @@ weight: 4
 
 ---
 
-### 口腔底筋膜解剖 / Fascial Anatomy - Floor of Mouth
+## 口腔底筋膜解剖 / Fascial Anatomy - Floor of Mouth
 
 | 間隙 | 說明 |
 |---|---|
@@ -6235,7 +6060,7 @@ weight: 4
 
 ---
 
-### 口腔底感染：Ludwig angina / Ludwig Angina
+## 口腔底感染：Ludwig angina / Ludwig Angina
 
 | 特徵 | 說明 |
 |---|---|
@@ -6244,13 +6069,11 @@ weight: 4
 | **臨床優先** | 舌可迅速向後移位；確保氣道通暢是臨床首要任務 |
 | **影像所見** | 口腔底的水腫和滲出改變 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **咽後間隙**：感染可向上蔓延至顱底，向下至縱隔；危險間隙是感染的傳播通道
 > - **Ludwig angina**：口腔底蜂窩組織炎；確保氣道通暢是首要
 > - **舌下間隙和下頜下間隙**：以口底肌為界，但後方延續
-
----
 
 # Neuroimaging - Page 288
 
@@ -6260,7 +6083,7 @@ weight: 4
 
 ---
 
-### 咽後膿腫 / Retropharyngeal Abscess
+## 咽後膿腫 / Retropharyngeal Abscess
 
 | 特徵 | 說明 |
 |---|---|
@@ -6268,7 +6091,7 @@ weight: 4
 | **兒童病因** | 上呼吸道感染蔓延（咽炎等）；淋巴結增大後化膿破裂 |
 | **成人病因** | 穿透性損傷（魚刺嵌頓或器械損傷）|
 
-### 咽後膿腫的影像所見 / Imaging Findings
+## 咽後膿腫的影像所見 / Imaging Findings
 
 | 檢查 | 所見 |
 |---|---|
@@ -6277,7 +6100,7 @@ weight: 4
 
 ---
 
-### 扁桃體周膿腫 / Peritonsillar Abscess
+## 扁桃體周膿腫 / Peritonsillar Abscess
 
 | 特徵 | 說明 |
 |---|---|
@@ -6286,7 +6109,7 @@ weight: 4
 
 ---
 
-### Lemierre綜合徵 / Lemierre Syndrome
+## Lemierre綜合徵 / Lemierre Syndrome
 
 | 特徵 | 說明 |
 |---|---|
@@ -6298,7 +6121,7 @@ weight: 4
 
 ---
 
-### Bezold膿腫 / Bezold Abscess
+## Bezold膿腫 / Bezold Abscess
 
 | 特徵 | 說明 |
 |---|---|
@@ -6306,14 +6129,12 @@ weight: 4
 | **蔓延** | 感染蔓延至鄰近軟組織 |
 | **影像所見** | 中耳和乳突氣房的混濁；常有乳突尖骨質侵蝕 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **咽後膿腫**：兒童（感染蔓延）vs 成人（穿透性損傷）
 > - **扁桃體周膿腫**：「熱土豆音」=特點
 > - **Lemierre綜合徵**：年輕成人；Fusobacterium；血栓性靜脈炎＋頸內靜脈＋肺轉移
 > - **Bezold膿腫**：耳乳突炎並發症；乳突尖骨質侵蝕
-
----
 
 # Neuroimaging - Page 289
 
@@ -6323,7 +6144,7 @@ weight: 4
 
 ---
 
-### 黏液囊腫 / Ranula
+## 黏液囊腫 / Ranula
 
 | 特徵 | 說明 |
 |---|---|
@@ -6331,7 +6152,7 @@ weight: 4
 | **起源位置** | 所有黏液囊腫均起源於舌下腺，因此均始於舌下間隙 |
 | **plunging ranula** | 從舌下間隙通過口底肌後緣或經缺陷延伸至下頜下間隙 |
 
-### Ranula vs Dermoid囊腫
+## Ranula vs Dermoid囊腫
 
 | 鑑別 | 說明 |
 |---|---|
@@ -6340,7 +6161,7 @@ weight: 4
 
 ---
 
-### 皮樣囊腫/表皮樣囊腫 / Dermoid/Epidermoid
+## 皮樣囊腫/表皮樣囊腫 / Dermoid/Epidermoid
 
 | 特徵 | 說明 |
 |---|---|
@@ -6351,7 +6172,7 @@ weight: 4
 
 ---
 
-### 甲狀腺舌管囊腫 / Thyroglossal Duct Cyst (TDC)
+## 甲狀腺舌管囊腫 / Thyroglossal Duct Cyst (TDC)
 
 | 特徵 | 說明 |
 |---|---|
@@ -6361,14 +6182,14 @@ weight: 4
 | **位置** | 65%位於舌骨下；其餘位於舌骨水平或上方；多數位於中線，也可輕度偏離中線 |
 | **並發症** | 甲狀腺乳頭狀癌（1%，罕見）|
 
-### 甲狀腺舌管囊腫的位置 / TDC Location
+## 甲狀腺舌管囊腫的位置 / TDC Location
 
 | 位置 | 頻率 |
 |---|---|
 | **舌骨下** | 65% |
 | **舌骨水平或上方** | 35% |
 
-### 囊性病變的鑑別診斷 / Differential for Cystic Lesions
+## 囊性病變的鑑別診斷 / Differential for Cystic Lesions
 
 | 病變 | 位置 | 特點 |
 |---|---|---|
@@ -6376,13 +6197,11 @@ weight: 4
 | **Dermoid/Epidermoid** | 中線 | 「大理石袋」徵（dermoid）|
 | **甲狀腺舌管囊腫** | 中線（可偏離）| 伸舌時上移 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **黏液囊腫**：舌下腺囊腫；舌下間隙；plunging型延伸至下頜下間隙
 > - **皮樣囊腫**：含脂肪；中線；「大理石袋」徵是特異性MRI發現
 > - **甲狀腺舌管囊腫**：兒童頸部腫塊；伸舌時上移；沿甲狀腺下降路徑
-
----
 
 # Neuroimaging - Page 290
 
@@ -6392,7 +6211,7 @@ weight: 4
 
 ---
 
-### 囊性轉移 / Cystic Metastasis
+## 囊性轉移 / Cystic Metastasis
 
 | 特徵 | 說明 |
 |---|---|
@@ -6401,9 +6220,9 @@ weight: 4
 
 ---
 
-### 腮腺區囊性病變 / Solitary Parotid Region Cystic Lesion
+## 腮腺區囊性病變 / Solitary Parotid Region Cystic Lesion
 
-#### 第一鰓裂囊腫 / First Branchial Cleft Cyst (BCC)
+### 第一鰓裂囊腫 / First Branchial Cleft Cyst (BCC)
 
 | 特徵 | 說明 |
 |---|---|
@@ -6413,9 +6232,9 @@ weight: 4
 
 ---
 
-### 下頜骨周囊性病變 / Cystic Lesions About the Mandible
+## 下頜骨周囊性病變 / Cystic Lesions About the Mandible
 
-#### 第二鰓裂囊腫 / Second Branchial Cleft Cyst
+### 第二鰓裂囊腫 / Second Branchial Cleft Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -6423,7 +6242,7 @@ weight: 4
 | **可能位置** | 從腭扁桃體到鎖骨上區的任何路徑；多數位於下頜角附近 |
 | **典型位置** | 位於以下結構之間：下頜下腺（後方）、胸鎖乳突肌（前方的外包膜）|
 
-### 第二鰓裂囊腫的典型位置 / Classic Location
+## 第二鰓裂囊腫的典型位置 / Classic Location
 
 | 結構 | 位置關係 |
 |---|---|
@@ -6431,14 +6250,14 @@ weight: 4
 | **胸鎖乳突肌** | 後方 |
 | **頸總鞘** | 密切相關 |
 
-### 感染性第二鰓裂囊腫 / Superinfected Second BCC
+## 感染性第二鰓裂囊腫 / Superinfected Second BCC
 
 | 特徵 | 說明 |
 |---|---|
 | **表現** | 壁強化；周圍軟組織炎症改變 |
 | **與下頜下腺膿腫的區別** | 下頜下腺膿腫通常位於下頜骨正下方（牙源性疾病）|
 
-### 老年人的囊性病變 / Cystic Lesions in Older Adults
+## 老年人的囊性病變 / Cystic Lesions in Older Adults
 
 | 要點 | 說明 |
 |---|---|
@@ -6446,14 +6265,12 @@ weight: 4
 | **需考慮** | 囊性轉移（如甲狀腺乳頭狀癌、舌根/扁桃體鱗狀細胞癌）|
 | **提示囊性轉移的特點** | 囊壁不規則或有壁結節 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **第一鰓裂囊腫**：罕見；位於腮腺/外耳道附近
 > - **第二鰓裂囊腫**：最常見鰓裂囊腫；下頜角典型位置
 > - **囊性轉移**：老年人囊性頸部病變需考慮；甲狀腺乳頭狀癌、鱗狀細胞癌
 > - 老年人囊性病變：囊壁不規則或有壁結節→高度懷疑惡性
-
----
 
 # Neuroimaging - Page 291
 
@@ -6461,7 +6278,7 @@ weight: 4
 
 ## 下頜下/咀嚼肌膿腫 / Submandibular/Masticator Abscess
 
-### 病因 / Causes
+## 病因 / Causes
 
 | 病因 | 說明 |
 |---|---|
@@ -6469,14 +6286,14 @@ weight: 4
 | **化膿性淋巴結炎** | 可為來源 |
 | **鄰近唾液腺感染蔓延** | 可為來源 |
 
-### 影像學所見 / Imaging Findings
+## 影像學所見 / Imaging Findings
 
 | 所見 | 說明 |
 |---|---|
 | **CT** | 不規則、厚壁、周圍強化的液體積聚，位於下頜骨下方 |
 | **特點** | 頸部脂肪通常有滲出改變 |
 
-### 治療 / Treatment
+## 治療 / Treatment
 
 | 治療 | 說明 |
 |---|---|
@@ -6487,7 +6304,7 @@ weight: 4
 
 ## 其他頸部囊性病變 / Other Neck Cystic Lesions
 
-### 淋巴管畸形 / Lymphatic Malformations
+## 淋巴管畸形 / Lymphatic Malformations
 
 | 類型 | 囊腔大小 |
 |---|---|
@@ -6495,7 +6312,7 @@ weight: 4
 | **海綿狀淋巴管瘤** | 囊腔較小 |
 | **毛細血管淋巴管瘤** | 囊腔最小 |
 
-### 囊性水瘤 / Cystic Hygroma
+## 囊性水瘤 / Cystic Hygroma
 
 | 特徵 | 說明 |
 |---|---|
@@ -6505,7 +6322,7 @@ weight: 4
 
 ---
 
-### Tornwaldt囊腫 / Thornwaldt Cyst
+## Tornwaldt囊腫 / Thornwaldt Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -6524,14 +6341,12 @@ weight: 4
 | **臨床重要性** | 通常是唯一有功能的甲狀腺組織；需評估頸部以確認正常甲狀腺缺失 |
 | **易感性** | 易患甲狀腺炎和甲狀腺癌 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **下頜下膿腫**：牙源性疾病最常見；需抗生素＋穿刺引流
 > - **囊性水瘤**：頸後三角最常見；與染色體異常相關
 > - **Tornwaldt囊腫**：鼻咽中線；口臭的可能原因
 > - **異位甲狀腺**：女性多見；需確認正常甲狀腺是否存在
-
----
 
 # Neuroimaging - Page 292
 
@@ -6539,7 +6354,7 @@ weight: 4
 
 ## 喉部解剖 / Larynx Anatomy
 
-### 喉部分區 / Laryngeal Subdivisions
+## 喉部分區 / Laryngeal Subdivisions
 
 | 分區 | 範圍 | 包含結構 |
 |---|---|---|
@@ -6547,7 +6362,7 @@ weight: 4
 | **聲門（Glottic）** | 聲帶 | 真聲帶、甲杓肌 |
 | **聲門下（Subglottic）** | 聲帶下1cm到第一氣管環 | 氣管 |
 
-### 喉部軟骨 / Laryngeal Cartilages
+## 喉部軟骨 / Laryngeal Cartilages
 
 | 軟骨 | 說明 |
 |---|---|
@@ -6556,34 +6371,32 @@ weight: 4
 | **環狀軟骨** | 完整環，提供支撐 |
 | **杓狀軟骨** | 成對 |
 
-### 聲門上解剖 / Supraglottic Anatomy
+## 聲門上解剖 / Supraglottic Anatomy
 
 | 結構 | 說明 |
 |---|---|
 | **杓會厭皺襞** | 黏膜覆蓋延伸；標誌喉入口 |
 | **假聲帶** | 前庭的黏膜皺襞；外側有旁脂肪可定位 |
 
-### 聲門解剖 / Glottic Anatomy
+## 聲門解剖 / Glottic Anatomy
 
 | 結構 | 說明 |
 |---|---|
 | **真聲帶** | 甲杓肌的內側纖維組成聲帶肌 |
 | **定位標誌** | 軸位CT/MRI上：旁脂肪轉變為肌肉（甲杓肌）的過渡 |
 
-### 喉部黏膜 / Laryngeal Mucosa
+## 喉部黏膜 / Laryngeal Mucosa
 
 | 結構 | 說明 |
 |---|---|
 | **覆蓋範圍** | 整個喉部（包括會厭、杓會厭皺襞、假聲帶）均被黏膜覆蓋 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **喉部分區**：聲門上（會厭→前庭）、聲門（真聲帶）、聲門下（1cm以下→氣管）
 > - **環狀軟骨**：唯一完整環的喉軟骨
 > - **真聲帶定位**：軸位上旁脂肪轉為肌肉的過渡處
 > - 理解喉部解剖對**腫瘤分期**和**外傷評估**至關重要
-
----
 
 # Neuroimaging - Page 293
 
@@ -6593,7 +6406,7 @@ weight: 4
 
 ---
 
-### 聲帶麻痹 / Vocal Cord Paralysis
+## 聲帶麻痹 / Vocal Cord Paralysis
 
 | 病因 | 說明 |
 |---|---|
@@ -6601,20 +6414,20 @@ weight: 4
 | **次常見** | 迷走神經或喉返神經路徑上的腫塊病變 |
 | **最常見腫塊** | 縱隔或胸部腫塊 |
 
-### 心聲綜合徵 / Cardiovocal Syndrome
+## 心聲綜合徵 / Cardiovocal Syndrome
 
 | 特徵 | 說明 |
 |---|---|
 | **病因** | 左心房或肺動靜脈增大壓迫喉返神經 |
 
-### 聲帶麻痹的CT所見 / CT Findings
+## 聲帶麻痹的CT所見 / CT Findings
 
 | 所見 | 說明 |
 |---|---|
 | **杓會厭皺襞** | 增厚、內移 |
 | **梨狀竇** | 患側擴大 |
 
-### 神經支配 / Nerve Innervation
+## 神經支配 / Nerve Innervation
 
 | 神經 | 說明 |
 |---|---|
@@ -6623,7 +6436,7 @@ weight: 4
 
 ---
 
-### 喉囊腫 / Laryngocele
+## 喉囊腫 / Laryngocele
 
 | 特徵 | 說明 |
 |---|---|
@@ -6632,7 +6445,7 @@ weight: 4
 | **危險因素** | 喇叭手、玻璃吹製師、COPD患者 |
 | **內容物** | 可充滿空氣或液體 |
 
-### 喉囊腫的鑑別 / Differential
+## 喉囊腫的鑑別 / Differential
 
 | 要點 | 說明 |
 |---|---|
@@ -6640,14 +6453,14 @@ weight: 4
 
 ---
 
-### 喉癌 / Laryngeal Cancer
+## 喉癌 / Laryngeal Cancer
 
 | 特徵 | 說明 |
 |---|---|
 | **腫瘤類型** | 絕大多數為黏膜鱗狀細胞癌 |
 | **亞型** | 淋巴瘤、軟骨肉瘤等較少見，可為黏膜下生長 |
 
-### 腫瘤分布 / Tumor Distribution
+## 腫瘤分布 / Tumor Distribution
 
 | 分區 | 百分比 |
 |---|---|
@@ -6655,28 +6468,26 @@ weight: 4
 | **聲門** | 65% |
 | **聲門下** | 5% |
 
-### 跨聲門腫瘤 / Transglottic Tumor
+## 跨聲門腫瘤 / Transglottic Tumor
 
 | 特徵 | 說明 |
 |---|---|
 | **定義** | 跨越喉室累及假聲帶和真聲帶的腫瘤 |
 | **治療意義** | 小的聲門上或聲門：可雷射切除＋保喉；小的聲門下或跨聲門：需全喉切除（極大手術）|
 
-### 喉部外傷 / Laryngeal Trauma
+## 喉部外傷 / Laryngeal Trauma
 
 | 類型 | 特點 |
 |---|---|
 | **鈍挫傷** | 甲狀軟骨和環狀軟骨易骨折；年輕患者軟骨未完全骨化時難檢測 |
 | **插管創傷** | 可致杓狀軟骨脫位 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **聲帶麻痹**：左側返喉神經最常受累；需評估從顱底到左肺動靜脈
 > - **喉囊腫**：喇叭手、COPD；液性囊腫需排除鱗狀細胞癌
 > - **喉癌**：65%聲門；30%聲門上；5%聲門下；鱗狀細胞癌最常見
 > - **跨聲門腫瘤**：需全喉切除；保喉可能性降低
-
----
 
 # Neuroimaging - Page 294
 
@@ -6684,14 +6495,14 @@ weight: 4
 
 ## 鼻竇解剖 / Paranasal Sinus Anatomy
 
-### 竇口鼻道複合體（OMU）/ Ostiomeatal Unit
+## 竇口鼻道複合體（OMU）/ Ostiomeatal Unit
 
 | 結構 | 說明 |
 |---|---|
 | **竇口鼻道複合體** | 上頜竇、額竇、前組篩竇的共同引流通道 |
 | **組成** | 上頜竇口、篩漏斗、鉤突、半月裂孔、篩泡、中鼻道 |
 
-### 各鼻竇的引流 / Sinus Drainage
+## 各鼻竇的引流 / Sinus Drainage
 
 | 竇 | 引流位置 |
 |---|---|
@@ -6701,14 +6512,14 @@ weight: 4
 | **額竇** | 通過額隱窩→竇口鼻道複合體 |
 | **蝶竇** | 通過蝶篩隱窩→後組篩竇 |
 
-### 竇口鼻道複合體的意義 / Clinical Significance
+## 竇口鼻道複合體的意義 / Clinical Significance
 
 | 原則 | 說明 |
 |---|---|
 | **上頜竇單獨病變** | 最可能為竇口或漏斗阻塞 |
 | **多竇病變** | 最可能為半月裂孔阻塞 |
 
-### 竇的結構 / Sinus Structure
+## 竇的結構 / Sinus Structure
 
 | 竇 | 特點 |
 |---|---|
@@ -6717,7 +6528,7 @@ weight: 4
 | **額竇** | 出生時不存在；為擴大的前組篩竇 |
 | **蝶竇** | 通過蝶篩隱窩引流 |
 
-### 鼻甲與鼻道 / Turbinates and Meatuses
+## 鼻甲與鼻道 / Turbinates and Meatuses
 
 | 結構 | 說明 |
 |---|---|
@@ -6725,14 +6536,12 @@ weight: 4
 | **中鼻甲/中鼻道** | 上頜竇、前後篩竇、額竇的共同引流 |
 | **下鼻甲/下鼻道** | 淚管的引流 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **竇口鼻道複合體（OMU）**：上頜竇、額竇、前組篩竇的共同引流通道
 > - **紙樣板**：篩竇外側壁；分隔篩竇與眼眶；骨折可致眼眶蜂窩組織炎
 > - **竇口引流規律**：各竇均有特定引流位置；阻塞位置決定病變範圍
 > - 額竇和蝶竇均源於篩竇的氣房擴大
-
----
 
 # Neuroimaging - Page 295
 
@@ -6742,21 +6551,21 @@ weight: 4
 
 ---
 
-### 慢性鼻竇炎 / Chronic Sinusitis
+## 慢性鼻竇炎 / Chronic Sinusitis
 
 | 特徵 | 說明 |
 |---|---|
 | **病因** | 正常引流通道阻塞 |
 | **治療目標** | 功能性鼻竇內視鏡手術（FESS）的目標是解除阻塞 |
 
-### 術前評估的關鍵解剖變異 / Critical Anatomic Variants
+## 術前評估的關鍵解剖變異 / Critical Anatomic Variants
 
 | 變異 | 臨床意義 |
 |---|---|
 | **紙樣板骨缺損（Dehiscent lamina papyracea）** | 眼眶內側壁骨缺損；手術中可能意外進入眼眶 |
 | **篩骨篩板骨缺損（Dehiscent cribriform plate）** | 額葉下方骨缺損；內視鏡手術中可能進入顱腔 |
 
-### 紙樣板骨缺損的影像表現 / Imaging of Dehiscent Lamina Papyracea
+## 紙樣板骨缺損的影像表現 / Imaging of Dehiscent Lamina Papyracea
 
 | 所見 | 說明 |
 |---|---|
@@ -6765,21 +6574,21 @@ weight: 4
 
 ---
 
-### 鼻竇的影像學 / Imaging of the Sinuses
+## 鼻竇的影像學 / Imaging of the Sinuses
 
 | 方法 | 應用 |
 |---|---|
 | **CT** | 鼻竇影像的首選方法 |
 | **MRI** | 常規鼻竇病變評估中非常規使用；對並發症（如骨髓炎）有幫助 |
 
-### CT與X線片的比較 / CT vs Radiography
+## CT與X線片的比較 / CT vs Radiography
 
 | 點 | 說明 |
 |---|---|
 | **低mA CT** | 輻射劑量與標準四視角X線片相似 |
 | **X線片的作用** | 在鼻竇病變評估中**無作用** |
 
-### MRI在鼻竇炎中的應用 / MRI in Sinusitis
+## MRI在鼻竇炎中的應用 / MRI in Sinusitis
 
 | 應用 | 說明 |
 |---|---|
@@ -6787,7 +6596,7 @@ weight: 4
 | **分泌物的信號** | 複雜（取決於急慢性）；脫水分泌物T2可低信號 |
 | **骨髓炎** | MRI在評估疑似並發症時有作用 |
 
-### 鼻竇影像的關鍵原則 / Key Principles
+## 鼻竇影像的關鍵原則 / Key Principles
 
 | 原則 | 說明 |
 |---|---|
@@ -6795,14 +6604,12 @@ weight: 4
 | **CT首選** | 評估鼻竇病變的首選方法 |
 | **術前解剖** | 必須識別骨缺損等變異以避免手術並發症 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **慢性鼻竇炎**：正常引流通道阻塞是病因；FESS的目標是解除阻塞
 > - **紙樣板骨缺損**：眼眶內側壁骨缺損；術前識別可避免眼眶並發症
 > - **CT首選**：鼻竇病變評估；X線片無作用
 > - **MRI的有限作用**：常規評估非常規使用；主要用於並發症（骨髓炎等）
-
----
 
 # Neuroimaging - Page 296
 
@@ -6821,7 +6628,7 @@ weight: 4
 
 ## 鼻竇疾病 / Sinonasal Disease
 
-### 急性鼻竇炎 / Acute Sinusitis
+## 急性鼻竇炎 / Acute Sinusitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -6829,7 +6636,7 @@ weight: 4
 | **空氣-液平** | 可代表急性鼻竇炎，非特異性 |
 | **黏膜增厚** | 最常見代表慢性鼻竇炎，也可見於急性 |
 
-### 慢性鼻竇炎 / Chronic Sinusitis
+## 慢性鼻竇炎 / Chronic Sinusitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -6837,7 +6644,7 @@ weight: 4
 | **發病率** | 美國每年超過3000萬人受累 |
 | **病因** | 正常引流通道阻塞；FESS的目標是解除阻塞 |
 
-### 鼻竇炎的並發症 / Complications of Sinusitis
+## 鼻竇炎的並發症 / Complications of Sinusitis
 
 | 類型 | 說明 |
 |---|---|
@@ -6845,20 +6652,18 @@ weight: 4
 | **顱內並發症** | 海綿竇血栓、腦膜炎、膿腫（硬膜外、硬膜下、腦實質）|
 | **骨質並發症** | 骨髓炎；額骨骨髓炎可致*Pott's puffy tumor*（帽狀腱膜下膿腫伴軟組織水腫）|
 
-### 黏液囊腫 / Mucus Retention Cyst
+## 黏液囊腫 / Mucus Retention Cyst
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 常見偶然發現；黏膜小漿液或黏液腺阻塞 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Haller氣房**：眼眶下方篩竇氣房；大型時阻塞上頜竇口
 > - **Onodi氣房**：視神經安全相關；內視鏡手術中可能誤傷
 > - **慢性鼻竇炎**：12週以上；引流通道阻塞是病因
 > - **Pott's puffy tumor**：額骨骨髓炎並發帽狀腱膜下膿腫
-
----
 
 # Neuroimaging - Page 297
 
@@ -6894,7 +6699,7 @@ weight: 4
 | **特徵** | 竇口特徵性擴張；可骨質侵蝕並延伸至鼻咽 |
 | **治療** | 完全切除是預防復發的關鍵 |
 
-### 鼻竇炎分類 / Sinusitis Classification
+## 鼻竇炎分類 / Sinusitis Classification
 
 | 類型 | 特點 |
 |---|---|
@@ -6902,13 +6707,11 @@ weight: 4
 | **急性侵襲性** | 免疫抑制；骨質破壞＋顱內/眶內蔓延 |
 | **鼻竇息合** | 單側；擴展至鼻咽；完全切除 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **慢性過敏性真菌性鼻竇炎**：免疫正常；有氣喘；CT高密度竇內容物
 > - **急性侵襲性真菌性鼻竇炎**：免疫抑制患者；Aspergillus最危險
 > - **鼻竇息合**：從上頜竇擴展至鼻咽；完全切除防復發
-
----
 
 # Neuroimaging - Page 298
 
@@ -6938,7 +6741,7 @@ weight: 4
 | **治療** | 手術切除 |
 | **復發率** | 約15% |
 
-### 內翻性乳頭狀瘤 vs 黏液囊腫 / Comparison
+## 內翻性乳頭狀瘤 vs 黏液囊腫 / Comparison
 
 | 特徵 | 內翻性乳頭狀瘤 | 黏液囊腫 |
 |---|---|---|
@@ -6948,14 +6751,12 @@ weight: 4
 | **惡性風險** | 10-20% | 無 |
 | **復發率** | ~15% | 低 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **黏液囊腫**：竇口阻塞→竇擴張；MRI信號取決於脫水程度
 > - **內翻性乳頭狀瘤**：腦迴樣強化=特徵；10-20%與鱗狀細胞癌相關
 > - **與鱗狀細胞癌的關聯**：任何內翻性乳頭狀瘤患者術前需排除並發惡性
 > - 兩者都有復發風險；內翻性乳頭狀瘤復發率達15%
-
----
 
 # Neuroimaging - Page 299
 
@@ -6963,7 +6764,7 @@ weight: 4
 
 ## 唾液腺解剖 / Salivary Gland Anatomy
 
-### 大唾液腺 / Major Salivary Glands
+## 大唾液腺 / Major Salivary Glands
 
 | 腺體 | 說明 |
 |---|---|
@@ -6971,7 +6772,7 @@ weight: 4
 | **下頜下腺** | 位於口腔底和頸部；繞過口底肌後緣 |
 | **舌下腺** | 最小；位於口腔底前方 |
 
-### 腮腺 / Parotid Gland
+## 腮腺 / Parotid Gland
 
 | 特徵 | 說明 |
 |---|---|
@@ -6979,14 +6780,14 @@ weight: 4
 | **淋巴組織** | 唯一含固有淋巴組織的唾液腺（胚胎髮育最晚被膜）|
 | **面神經** | 從莖突後緣出顱後進入腮腺 |
 
-### 下頜下腺 / Submandibular Gland
+## 下頜下腺 / Submandibular Gland
 
 | 特徵 | 說明 |
 |---|---|
 | **位置** | 部分位於口腔底，部分位於頸部 |
 | **口底肌** | 分隔口腔底與頸部 |
 
-### 小唾液腺 / Minor Salivary Glands
+## 小唾液腺 / Minor Salivary Glands
 
 | 特徵 | 說明 |
 |---|---|
@@ -6994,7 +6795,7 @@ weight: 4
 | **正常影像** | 通常不可見 |
 | **腫瘤** | 最常見為良性多形性腺瘤；但小唾液腺來源的腫瘤惡性可能性高於大唾液腺 |
 
-### 唾液腺腫瘤的惡性風險 / Malignancy Risk
+## 唾液腺腫瘤的惡性風險 / Malignancy Risk
 
 | 腺體 | 惡性風險 |
 |---|---|
@@ -7002,14 +6803,12 @@ weight: 4
 | **下頜下腺** | 中等 |
 | **小唾液腺** | **高**（比大唾液腺來源的腫瘤更可能是惡性）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腮腺**：最大唾液腺；面神經是淺深葉分界；含固有淋巴組織
 > - **下頜下腺**：口腔底和頸部分布；口底肌分隔這兩個區域
 > - **小唾液腺**：正常影像不可見；起源的腫瘤惡性風險較高
 > - 認識唾液腺解剖對**腫瘤定位和分期**至關重要
-
----
 
 # Neuroimaging - Page 300
 
@@ -7019,7 +6818,7 @@ weight: 4
 
 ---
 
-### 多形性腺瘤 / Pleomorphic Adenoma
+## 多形性腺瘤 / Pleomorphic Adenoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7028,7 +6827,7 @@ weight: 4
 | **MRI特徵** | T1低、T2高（似水）；典型有強化（對比單純囊腫）|
 | **CT敏感性** | CT對檢測小腮腺腫瘤不敏感；**MRI為首選** |
 
-### 多形性腺瘤的治療 / Treatment
+## 多形性腺瘤的治療 / Treatment
 
 | 原則 | 說明 |
 |---|---|
@@ -7037,7 +6836,7 @@ weight: 4
 | **惡性轉化風險** | 逐漸進展為*癌性多形性腺瘤（carcinoma ex pleomorphic adenoma）**的風險增加 |
 | **影像與癌的鑑別** | 影像學不能區分良性多形性腺瘤和黏液表皮樣癌 |
 
-### 手術原則 / Surgical Principle
+## 手術原則 / Surgical Principle
 
 | 原則 | 說明 |
 |---|---|
@@ -7045,7 +6844,7 @@ weight: 4
 
 ---
 
-### Warthin瘤 / Warthin Tumor
+## Warthin瘤 / Warthin Tumor
 
 | 特徵 | 說明 |
 |---|---|
@@ -7055,28 +6854,26 @@ weight: 4
 | **危險因素** | 吸煙 |
 | **惡性轉化** | 無（對比多形性腺瘤）|
 
-### Warthin瘤的MRI特徵 / MRI Features
+## Warthin瘤的MRI特徵 / MRI Features
 
 | 特徵 | 說明 |
 |---|---|
 | **典型表現** | 囊性腫瘤 |
 | **強化** | **不強化**（對比多形性腺瘤）|
 
-### 腮腺良性腫瘤的鑑別 / Benign Parotid Tumor Differential
+## 腮腺良性腫瘤的鑑別 / Benign Parotid Tumor Differential
 
 | 腫瘤 | 特點 |
 |---|---|
 | **多形性腺瘤** | 最常見；T2高信號；有強化；惡性轉化風險 |
 | **Warthin瘤** | 囊性；不強化；老年男性；吸煙相關；雙側15% |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **多形性腺瘤**：80%腮腺腫瘤；中年女性；T2高信號；有強化；術中保留囊膜防播散
 > - **Warthin瘤**：10%；老年男性；吸煙；囊性；**不強化**（與多形性腺瘤鑑別的關鍵）
 > - 影像學不能可靠區分良性多形性腺瘤和黏液表皮樣癌
 > - 雙側腮腺腫瘤需考慮Warthin瘤
-
----
 
 # Neuroimaging - Page 301
 
@@ -7086,7 +6883,7 @@ weight: 4
 
 ---
 
-### 黏液表皮樣癌 / Mucoepidermoid Carcinoma
+## 黏液表皮樣癌 / Mucoepidermoid Carcinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7096,7 +6893,7 @@ weight: 4
 
 ---
 
-### 腺樣囊性癌 / Adenoid Cystic Carcinoma
+## 腺樣囊性癌 / Adenoid Cystic Carcinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7108,7 +6905,7 @@ weight: 4
 
 ---
 
-### 癌性多形性腺瘤 / Carcinoma ex Pleomorphic Adenoma
+## 癌性多形性腺瘤 / Carcinoma ex Pleomorphic Adenoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7119,7 +6916,7 @@ weight: 4
 
 ---
 
-### 鱗狀細胞癌 / Squamous Cell Carcinoma
+## 鱗狀細胞癌 / Squamous Cell Carcinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7131,7 +6928,7 @@ weight: 4
 
 ## 炎症性唾液腺疾病 / Inflammatory Salivary Disease
 
-### 唾液腺結石病 / Sialolithiasis and Obstructive Sialadenitis
+## 唾液腺結石病 / Sialolithiasis and Obstructive Sialadenitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -7140,7 +6937,7 @@ weight: 4
 
 ---
 
-### 結節病 / Sarcoidosis
+## 結節病 / Sarcoidosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -7148,14 +6945,12 @@ weight: 4
 | **葡萄膜腮腺熱（Uveoparotid fever）** | 雙側葡萄膜炎、腮腺增大、面神經麻痹；對結節病有病理學特異性 |
 | **影像** | Gallium-67閃爍成像產生經典型「熊貓徵」 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **腺樣囊性癌**：沿神經蔓延（感覺異常/麻痹）；50%遠處轉移；是下頜下腺最常見惡性腫瘤
 > - **黏液表皮樣癌**：5%腮腺腫瘤；MRI上與多形性腺瘤無法區分
 > - **癌性多形性腺瘤**：原有腫塊迅速增大=惡性轉化信號
 > - **結節病**：腮腺增大；「熊貓徵」；葡萄膜腮腺熱有診斷特異性
-
----
 
 # Neuroimaging - Page 302
 
@@ -7163,7 +6958,7 @@ weight: 4
 
 ## Sjögren綜合徵 / Sjögren Syndrome
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -7171,13 +6966,13 @@ weight: 4
 | **分型** | 繼發於類風濕關節炎等全身性結締組織疾病者為**繼發性Sjögren**；僅影響唾液和淚腺者為**原發性Sjögren** |
 | **好發人群** | 中年女性 |
 
-### 影像學特徵 / Imaging Features
+## 影像學特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
 | **MRI所見** | 唾液腺組織萎縮和脂肪替代；多發結節；異常強化；多發小囊性灶；點狀鈣化 |
 
-### 併發症 / Complication
+## 併發症 / Complication
 
 | 特徵 | 說明 |
 |---|---|
@@ -7188,26 +6983,24 @@ weight: 4
 
 ## HIV淋巴上皮病變 / HIV Lymphoepithelial Lesions
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | HIV患者常有淋巴功能障礙的腮腺表現，包括多發性雙側淋巴上皮囊腫和實性腫塊 |
 | **特異性** | 腮腺是唯一含固有淋巴組織的唾液腺；因此淋巴上皮病變僅影響腮腺 |
 
-### 影像學特徵 / Imaging Features
+## 影像學特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
 | **CT所見** | 雙側多發周圍強化的囊性病變 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Sjögren綜合徵**：中年女性；唾液腺/淚腺功能障礙；脂肪替代和囊性改變
 > - **淋巴瘤風險**：任何新的顯著腮腺腫塊需排除淋巴瘤
 > - **HIV淋巴上皮囊腫**：雙側多發囊性病變；腮腺是唯一受累的唾液腺
-
----
 
 # Neuroimaging - Page 303
 
@@ -7215,7 +7008,7 @@ weight: 4
 
 ## 前顱底與翼齶窩解剖 / Anterior Skull Base and Pterygopalatine Fossa Anatomy
 
-### 翼齶窩 / Pterygopalatine Fossa
+## 翼齶窩 / Pterygopalatine Fossa
 
 | 特徵 | 說明 |
 |---|---|
@@ -7223,7 +7016,7 @@ weight: 4
 | **位置** | 上頜竇後方；眶下裂下方 |
 | **正常內容** | 對稱脂肪和軟組織 |
 
-### 翼齶窩六壁 / Six Walls of Pterygopalatine Fossa
+## 翼齶窩六壁 / Six Walls of Pterygopalatine Fossa
 
 | 壁 | 結構/通向 |
 |---|---|
@@ -7234,7 +7027,7 @@ weight: 4
 | **前壁** | 上頜竇後壁 |
 | **後壁** | 翼板 |
 
-### 翼齶窩的關鍵孔道 / Key Foramina
+## 翼齶窩的關鍵孔道 / Key Foramina
 
 | 孔道 | 內容/通向 |
 |---|---|
@@ -7244,20 +7037,18 @@ weight: 4
 | **翼管（Vidian canal）** | 翼管神經和動靜脈 |
 | **頸動靜脈管（Carotid canal）** | 頸內動靜脈 |
 
-### 翼齶窩不對稱的意義 / Asymmetry Significance
+## 翼齶窩不對稱的意義 / Asymmetry Significance
 
 | 發現 | 意義 |
 |---|---|
 | **不對稱** | 高度懷疑腫塊（如淋巴瘤或唾液腺腫瘤的神經周圍蔓延）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **翼齶窩**：面部與顱內的交通樞紐；神經周圍蔓延的重要通道
 > - **不對稱脂肪/軟組織**：高度懷疑佔位病變（淋巴瘤、腺樣囊性癌等）
 > - **圓孔**：CN V2；翼齶窩→中顱窩
 > - 翼齶窩病變可沿上述孔道向各方向蔓延
-
----
 
 # Neuroimaging - Page 304
 
@@ -7267,7 +7058,7 @@ weight: 4
 
 ---
 
-### 青少年鼻咽血管纖維瘤 / Juvenile Nasopharyngeal Angiofibroma (JNA)
+## 青少年鼻咽血管纖維瘤 / Juvenile Nasopharyngeal Angiofibroma (JNA)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7276,7 +7067,7 @@ weight: 4
 | **行為** | 雖然無轉移行為，但局部侵襲性強；可通過顱底孔道蔓延 |
 | **復發** | 若切除不完全，腫瘤常復發 |
 
-### JNA的CT三聯徵 / Classic Triad
+## JNA的CT三聯徵 / Classic Triad
 
 | 所見 | 說明 |
 |---|---|
@@ -7284,7 +7075,7 @@ weight: 4
 | **2. 翼齶窩擴張** | 腫瘤中心在鼻咽 |
 | **3. 上頜竇後壁前弓或移位** | 特徵性所見 |
 
-### JNA的MRI/CT特徵 / Imaging Features
+## JNA的MRI/CT特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -7295,14 +7086,14 @@ weight: 4
 
 ---
 
-### 嗅溝腦膜瘤 / Olfactory Groove Meningioma
+## 嗅溝腦膜瘤 / Olfactory Groove Meningioma
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 良性；起源於嗅溝的腦膜上皮細胞 |
 | **位置** | 前顱底最常見的顱內病變 |
 
-### 腦膜瘤的影像特徵 / Imaging Features
+## 腦膜瘤的影像特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -7310,14 +7101,12 @@ weight: 4
 | **腦膜尾** | 強化硬膜尾 |
 | **骨質變化** | 常有反應性骨硬化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **JNA**：青春期男性；鼻塞＋鼻出血；翼齶窩擴張＋上頜竇後壁前移是三聯徵
 > - **JNA術前栓塞**：減少術中出血
 > - **嗅溝腦膜瘤**：前顱底最常見；強化＋腦膜尾是特點
 > - 腦膜瘤和JNA都是前顱底常見腫瘤；JNA有非常特徵的年齡/性別分布
-
----
 
 # Neuroimaging - Page 305
 
@@ -7327,14 +7116,14 @@ weight: 4
 
 ---
 
-### 前顱窩腫瘤概覽 / Overview
+## 前顱窩腫瘤概覽 / Overview
 
 | 要點 | 說明 |
 |---|---|
 | **影像學的角色** | 不是給出單一診斷，而是幫助外科醫生確定可切除性和最佳手術入路 |
 | **重要描述內容** | 骨質破壞、腦實質侵犯、眼眶和海綿竇蔓延 |
 
-### 眼眶侵犯 / Orbital Invasion
+## 眼眶侵犯 / Orbital Invasion
 
 | 要點 | 說明 |
 |---|---|
@@ -7343,7 +7132,7 @@ weight: 4
 
 ---
 
-### 嗅神經母細胞瘤 / Esthesioneuroblastoma (Olfactory Neuroblastoma)
+## 嗅神經母細胞瘤 / Esthesioneuroblastoma (Olfactory Neuroblastoma)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7356,7 +7145,7 @@ weight: 4
 
 ---
 
-### 鱗狀細胞癌 / Squamous Cell Carcinoma (SCC)
+## 鱗狀細胞癌 / Squamous Cell Carcinoma (SCC)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7367,7 +7156,7 @@ weight: 4
 
 ---
 
-### 腺樣囊性癌 / Adenoid Cystic Carcinoma
+## 腺樣囊性癌 / Adenoid Cystic Carcinoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7379,21 +7168,19 @@ weight: 4
 
 ---
 
-### 橫紋肌肉瘤 / Rhabdomyosarcoma
+## 橫紋肌肉瘤 / Rhabdomyosarcoma
 
 | 特徵 | 說明 |
 |---|---|
 | **發病率** | 兒童頭頸部最常見腫瘤 |
 | **說明** | 在兒童影像章節討論 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **嗅神經母細胞瘤**：雙峰年齡分布；邊緣囊性所見是特點
 > - **鱗狀細胞癌**：鼻竇最常見惡性；骨質破壞＋強化與良性疾病鑑別
 > - **腺樣囊性癌**：遠處轉移常見；三叉神經周圍蔓延是特點
 > - 前顱底腫瘤的影像學目標是評估**可切除性**，而非確診
-
----
 
 # Neuroimaging - Page 306
 
@@ -7401,7 +7188,7 @@ weight: 4
 
 ## 顳骨概覽 / Temporal Bone Overview
 
-### 聲音傳導路徑 / Sound Pathway
+## 聲音傳導路徑 / Sound Pathway
 
 | 結構 | 說明 |
 |---|---|
@@ -7409,7 +7196,7 @@ weight: 4
 | **中耳（聽小骨）** | 放大聲波 |
 | **內耳（耳蝸）** | 將機械能轉化為電脈冲 |
 
-### 顳骨三區 / Three Divisions
+## 顳骨三區 / Three Divisions
 
 | 分區 | 包含結構 |
 |---|---|
@@ -7417,7 +7204,7 @@ weight: 4
 | **中耳** | 鼓膜、聽小骨（錘骨、砧骨、蹬骨）、面神經 |
 | **內耳** | 耳蝸、半規管、前庭 |
 
-### 各區好發疾病 / Disease Susceptibility
+## 各區好發疾病 / Disease Susceptibility
 
 | 分區 | 常見疾病 |
 |---|---|
@@ -7425,20 +7212,18 @@ weight: 4
 | **中耳** | 膽脂瘤、中耳炎、乳突炎、頸靜脈球體瘤 |
 | **內耳** | 耳蝸發育不良、半規管發育不全、前庭導水管擴大 |
 
-### 迷路 / Labyrinth
+## 迷路 / Labyrinth
 
 | 特徵 | 說明 |
 |---|---|
 | **組成** | 耳蝸、前庭、半規管 |
 | **功能** | 聽覺＋平衡/位置感覺 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **顳骨分區**：外耳→中耳（放大）→內耳（轉換）
 > - **迷路**包括耳蝸（前庭導水管擴大）、半規管（迷路炎）和前庭
 > - 理解分區有助於理解各區不同的疾病易感性
-
----
 
 # Neuroimaging - Page 307
 
@@ -7448,7 +7233,7 @@ weight: 4
 
 ---
 
-### 先天性外耳道異常 / Congenital EAC Stenosis, Hypoplasia and Atresia
+## 先天性外耳道異常 / Congenital EAC Stenosis, Hypoplasia and Atresia
 
 | 特徵 | 說明 |
 |---|---|
@@ -7458,7 +7243,7 @@ weight: 4
 
 ---
 
-### 急性外耳炎 / Acute External Otitis (Swimmer's Ear)
+## 急性外耳炎 / Acute External Otitis (Swimmer's Ear)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7466,7 +7251,7 @@ weight: 4
 
 ---
 
-### 外耳道骨質增生 / EAC Exostosis (Surfer's Ear)
+## 外耳道骨質增生 / EAC Exostosis (Surfer's Ear)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7474,7 +7259,7 @@ weight: 4
 
 ---
 
-### 壞死性（惡性）外耳炎 / Necrotizing (Malignant) External Otitis
+## 壞死性（惡性）外耳炎 / Necrotizing (Malignant) External Otitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -7484,7 +7269,7 @@ weight: 4
 
 ---
 
-### 阻塞性角化病 / Keratosis Obturans
+## 阻塞性角化病 / Keratosis Obturans
 
 | 特徵 | 說明 |
 |---|---|
@@ -7493,7 +7278,7 @@ weight: 4
 
 ---
 
-### 外耳道膽脂瘤 / EAC Cholesteatoma
+## 外耳道膽脂瘤 / EAC Cholesteatoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7502,20 +7287,18 @@ weight: 4
 
 ---
 
-### 外耳道惡性腫瘤 / EAC Malignancy
+## 外耳道惡性腫瘤 / EAC Malignancy
 
 | 特徵 | 說明 |
 |---|---|
 | **最常見類型** | 鱗狀細胞癌 |
 | **危險因素** | 可能與陽光曝晒或慢性炎症相關 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **壞死性外耳炎**：老年糖尿病；銅綠假單胞菌；可向顱底蔓延
 > - **先天性外耳道閉鎖**：聽小骨（第一鰓裂來源）通常異常
 > - **膽脂瘤**：外耳道軟組織腫塊需考慮此鑑別
-
----
 
 # Neuroimaging - Page 308
 
@@ -7525,7 +7308,7 @@ weight: 4
 
 ---
 
-### 頸靜脈球體瘤 / Glomus Tympanicum
+## 頸靜脈球體瘤 / Glomus Tympanicum
 
 | 特徵 | 說明 |
 |---|---|
@@ -7536,7 +7319,7 @@ weight: 4
 
 ---
 
-### 面神經鞘瘤 / Facial Nerve Schwannoma
+## 面神經鞘瘤 / Facial Nerve Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7546,7 +7329,7 @@ weight: 4
 | **CT所見** | 受累面神經所通過的骨性管道擴大；通常**無鈣化** |
 | **MRI** | 快速對比強化 |
 
-### 面神經在顳骨內的分段 / Facial Nerve Segments in Temporal Bone
+## 面神經在顳骨內的分段 / Facial Nerve Segments in Temporal Bone
 
 | 分段 | 徑路 | 分支 |
 |---|---|---|
@@ -7556,7 +7339,7 @@ weight: 4
 
 ---
 
-### 膽固醇肉芽腫（膽固醇囊腫）/ Cholesterol Granuloma
+## 膽固醇肉芽腫（膽固醇囊腫）/ Cholesterol Granuloma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7565,7 +7348,7 @@ weight: 4
 | **內視鏡所見** | 鼓膜後**藍色**腫塊 |
 | **MRI T1** | **高信號**（特點）|
 
-### 膽固醇肉芽腫 vs 膽脂瘤 / Cholesterol Granuloma vs Cholesteatoma
+## 膽固醇肉芽腫 vs 膽脂瘤 / Cholesterol Granuloma vs Cholesteatoma
 
 | 特徵 | 膽固醇肉芽腫 | 膽脂瘤 |
 |---|---|---|
@@ -7573,13 +7356,11 @@ weight: 4
 | **擴散** | 不受限 | 受限 |
 | **T1 MRI** | **高信號** | — |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **頸靜脈球體瘤**：中耳最常見原發腫瘤；鼓膜後紅色腫塊；搏動性耳鳴
 > - **面神經鞘瘤**：膝神經節最常受累；30%無面癱症狀；CT無鈣化
 > - **膽固醇肉芽腫**：T1高信號是特點（與膽脂瘤鑑別）
-
----
 
 # Neuroimaging - Page 309
 
@@ -7587,35 +7368,35 @@ weight: 4
 
 ## 膽脂瘤 / Cholesteatoma
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 顳骨的「放置錯誤位置的皮肤」的非腫瘤性病變 |
 | **名稱誤導** | 實為不含脂肪，也非腫瘤；顱內「膽脂瘤」實為表皮樣囊腫 |
 
-### 分類 / Classification
+## 分類 / Classification
 
 | 類型 | 百分比 | 說明 |
 |---|---|---|
 | **後天性** | 98% | 鼓膜穿孔、炎症或表皮成分創傷性植入的後遺症 |
 | **先天性** | 少見 | 可發生於顳骨任何位置 |
 
-### 病因 / Etiology
+## 病因 / Etiology
 
 | 類型 | 病因 |
 |---|---|
 | **後天性** | 鼓膜穿孔、炎症或創傷性種植 |
 | **先天性** | 可能代表持續的胎兒上皮鱗狀細胞巢 |
 
-### 臨床表現 / Clinical Presentation
+## 臨床表現 / Clinical Presentation
 
 | 表現 | 說明 |
 |---|---|
 | **先天性** | 通常無症狀，可為鼓膜後白腫塊 |
 | **大型** | 復發性耳病、耳咽管阻塞、慢性耳漏、混合性聽力損失 |
 
-### CT評估的三個關鍵標誌 / Three Key CT Landmarks
+## CT評估的三個關鍵標誌 / Three Key CT Landmarks
 
 | 標誌 | 說明 |
 |---|---|
@@ -7623,21 +7404,19 @@ weight: 4
 | **鼓室蓋（Tegmen tympani）** | 骨性屋頂，分隔乳突與大腦 |
 | **面神經** | 神经侵犯評估 |
 
-### CT所見 / CT Findings
+## CT所見 / CT Findings
 
 | 所見 | 說明 |
 |---|---|
 | **CT敏感性** | 即使小膽脂瘤也能檢測 |
 | **典型所見** | 境界清楚的軟組織腫塊；相鄰骨質侵蝕；聽小骨侵蝕；鼓竇（scutum）變鈍 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **膽脂瘤**：非腫瘤性；「皮肤在錯誤位置」；98%為後天性
 > - **CT三個關鍵評估標誌**：外半規管、鼓室蓋、面神經
 > - **聽小骨侵蝕**和**鼓竇變鈍**是CT上的重要發現
 > - CT不能可靠區分膽脂瘤與膽固醇肉芽腫或腫瘤
-
----
 
 # Neuroimaging - Page 310
 
@@ -7645,14 +7424,14 @@ weight: 4
 
 ## 膽脂瘤的MRI特徵 / MRI Features of Cholesteatoma
 
-### MRI評估膽脂瘤的最特異序列 / Most Specific MRI Sequences
+## MRI評估膽脂瘤的最特異序列 / Most Specific MRI Sequences
 
 | 序列 | 所見 |
 |---|---|
 | **DWI（擴散加權成像）** | **高信號**（受限擴散）；與顱內表皮囊囊腫相似 |
 | **對比增强T1** | **無強化** |
 
-### 膽脂瘤的MRI信號特徵 / MRI Signal Characteristics
+## 膽脂瘤的MRI信號特徵 / MRI Signal Characteristics
 
 | 序列 | 信號 |
 |---|---|
@@ -7661,14 +7440,14 @@ weight: 4
 | **對比T1** | **無強化** |
 | **DWI** | **高信號**（受限擴散）|
 
-### DWI高信號的機制 / Mechanism of DWI Hyperintensity
+## DWI高信號的機制 / Mechanism of DWI Hyperintensity
 
 | 機制 | 說明 |
 |---|---|
 | **T2穿透效應** | 膽脂瘤內容物黏稠 |
 | **真正的擴散受限** | 也存在 |
 
-### 膽脂瘤 vs 膽固醇肉芽腫 / Cholesteatoma vs Cholesterol Granuloma
+## 膽脂瘤 vs 膽固醇肉芽腫 / Cholesteatoma vs Cholesterol Granuloma
 
 | 特徵 | 膽脂瘤 | 膽固醇肉芽腫 |
 |---|---|---|
@@ -7677,21 +7456,19 @@ weight: 4
 | **對比強化** | 無 | 無/輕微 |
 | **CT骨質改變** | 侵蝕 | 侵蝕 |
 
-### 膽脂瘤的影像學方法 / Imaging Approach
+## 膽脂瘤的影像學方法 / Imaging Approach
 
 | 方法 | 作用 |
 |---|---|
 | **CT** | 檢測骨質改變和術前計劃的首選 |
 | **MRI（DWI）** | 區分膽脂瘤與其他軟組織腫塊；對比強化無助於區分 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **DWI高信號+無強化**：膽脂瘤的MRI特徵（與顱內表皮囊囊囊腫相同）
 > - **T1高信號**：膽固醇肉芽腫的特點（與膽脂瘤鑑別）
 > - **CT對比MRI**：CT是檢測骨質改變的首選；MRI的DWI是區分軟組織成分的關鍵
 > - 膽脂瘤和膽固醇肉芽腫CT上均可有骨質侵蝕，需MRI鑑別
-
----
 
 # Neuroimaging - Page 311
 
@@ -7701,7 +7478,7 @@ weight: 4
 
 ---
 
-### 內耳發育不良 / Cochlear Dysplasia (Mondini Deformity)
+## 內耳發育不良 / Cochlear Dysplasia (Mondini Deformity)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7712,7 +7489,7 @@ weight: 4
 
 ---
 
-### Michel發育不全 / Michel Aplasia
+## Michel發育不全 / Michel Aplasia
 
 | 特徵 | 說明 |
 |---|---|
@@ -7721,7 +7498,7 @@ weight: 4
 
 ---
 
-### 前庭導水管擴大綜合徵 / Enlarged Vestibular Aqueduct Syndrome
+## 前庭導水管擴大綜合徵 / Enlarged Vestibular Aqueduct Syndrome
 
 | 特徵 | 說明 |
 |---|---|
@@ -7730,7 +7507,7 @@ weight: 4
 
 ---
 
-### 耳硬化症 / Otospongiosis (Otosclerosis)
+## 耳硬化症 / Otospongiosis (Otosclerosis)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7738,14 +7515,14 @@ weight: 4
 | **好發人群** | 年輕至中年女性；85%為雙側 |
 | **兩型** | 窗型和後窗型（迷路性）|
 
-### 耳硬化症分型 / Types
+## 耳硬化症分型 / Types
 
 | 分型 | 特點 |
 |---|---|
 | **Fenestral（窗型）** | 更常見；位於卵圓窗前方；通常影響卵圓窗 |
 | **Retrofenestral（後窗型）** | 更嚴重；影響迷路耳囊 |
 
-### 骨質脫鈣的鑑別診斷 / Differential for Cochlear Demineralization
+## 骨質脫鈣的鑑別診斷 / Differential for Cochlear Demineralization
 
 | 患者年齡 | 疾病 |
 |---|---|
@@ -7754,7 +7531,7 @@ weight: 4
 | **老年成人** | Paget病 |
 | **任何年齡** | 後窗型耳硬化症 |
 
-### 迷路炎 / Labyrinthitis
+## 迷路炎 / Labyrinthitis
 
 | 分期 | 特點 |
 |---|---|
@@ -7762,13 +7539,11 @@ weight: 4
 | **纖維性** | 膠原替代；T2信號降低 |
 | **骨化性（最終期）** | 骨屑替代；CT最佳 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **Mondini發育不良**：耳蝸發育不全（2.5圈→融合）；前庭導水管擴大
 > - **耳硬化症**：年輕女性；85%雙側；後窗型更嚴重
 > - **迷路炎三期**：急性（強化）→纖維性（T2低）→骨化性（CT）
-
----
 
 # Neuroimaging - Page 312
 
@@ -7776,7 +7551,7 @@ weight: 4
 
 ## 顱骨骨折 / Temporal Bone Fractures
 
-### 骨折分類 / Classification
+## 骨折分類 / Classification
 
 | 分類 | 基礎 |
 |---|---|
@@ -7785,7 +7560,7 @@ weight: 4
 
 ---
 
-### 縱向骨折 / Longitudinal Fracture
+## 縱向骨折 / Longitudinal Fracture
 
 | 特徵 | 說明 |
 |---|---|
@@ -7798,7 +7573,7 @@ weight: 4
 
 ---
 
-### 橫向骨折 / Transverse Fracture
+## 橫向骨折 / Transverse Fracture
 
 | 特徵 | 說明 |
 |---|---|
@@ -7807,7 +7582,7 @@ weight: 4
 | **聽力損失** | **感覺神經性** |
 | **面神經損傷** | **50%** |
 
-### 縱向 vs 橫向骨折 / Longitudinal vs Transverse
+## 縱向 vs 橫向骨折 / Longitudinal vs Transverse
 
 | 特徵 | 縱向 | 橫向 |
 |---|---|---|
@@ -7816,14 +7591,12 @@ weight: 4
 | **聽力損失** | 傳導性 | 感覺神經性 |
 | **面神經損傷** | 20% | **50%** |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **縱向骨折**：最常見；傳導性聽力損失；20%面癱
 > - **橫向骨折**：面癱風險更高（50%）；感覺神經性聽力損失
 > - **迷路破壞性骨折**：臨床結局更差
 > - 面神經和聽小骨是顱骨骨折評估的關鍵結構
-
----
 
 # Neuroimaging - Page 313
 
@@ -7831,7 +7604,7 @@ weight: 4
 
 ## 岩骨尖 / Petrous Apex
 
-### 岩骨尖解剖 / Anatomy
+## 岩骨尖解剖 / Anatomy
 
 | 特徵 | 說明 |
 |---|---|
@@ -7839,7 +7612,7 @@ weight: 4
 | **鄰近結構** | Dorello管（CN VI）、Meckel腔、顱內頸總動靜脈 |
 | **正常成分** | 骨髓和密質骨；約10%有氣化 |
 
-### 膽固醇囊腫 / Cholesterol Cyst (Cholesterol Granuloma)
+## 膽固醇囊腫 / Cholesterol Cyst (Cholesterol Granuloma)
 
 | 特徵 | 說明 |
 |---|---|
@@ -7850,7 +7623,7 @@ weight: 4
 
 ---
 
-### 岩尖炎 / Apical Petrositis
+## 岩尖炎 / Apical Petrositis
 
 | 特徵 | 說明 |
 |---|---|
@@ -7859,7 +7632,7 @@ weight: 4
 | **CT所見** | 岩骨尖氣房混濁＋骨質脫礦和吸收 |
 | **MRI** | 強化 |
 
-### 先天性膽脂瘤 / Congenital Cholesteatoma
+## 先天性膽脂瘤 / Congenital Cholesteatoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7868,14 +7641,14 @@ weight: 4
 
 ---
 
-### 神經鞘瘤 / Schwannoma
+## 神經鞘瘤 / Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
 | **起源** | CN V、VII或VIII |
 | **MRI** | 境界清楚的擴張性強化腫塊；可並囊性變 |
 
-### Langerhans細胞組織細胞增生症 / Langerhans Cell Histiocytosis
+## Langerhans細胞組織細胞增生症 / Langerhans Cell Histiocytosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -7883,14 +7656,12 @@ weight: 4
 | **CT** | 界限清楚的溶骨性病變，無骨硬化邊 |
 | **MRI** | 軟組織腫塊伴周圍水腫；明顯強化 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **岩骨尖囊腫**：T1高信號；脂肪抑制不抑制；最常見岩骨尖病變
 > - **Gradenigo三聯徵**：乳突炎＋CN V痛＋CN VI麻痹
 > - **神經鞘瘤**：邊界清的強化腫塊；可囊性變
 > - 10%岩骨尖有氣化→增加膽固醇囊腫和岩尖炎的風險
-
----
 
 # Neuroimaging - Page 314
 
@@ -7898,7 +7669,7 @@ weight: 4
 
 ## 岩骨尖病變鑑別診斷 / Differential of Petrous Apex Lesion
 
-### 鑑別診斷口號：**ACGME'S MC**
+## 鑑別診斷口號：**ACGME'S MC**
 
 | 記憶字 | 診斷 |
 |---|---|
@@ -7913,7 +7684,7 @@ weight: 4
 
 ---
 
-### 良性病變的鑑別 / Benign Lesions
+## 良性病變的鑑別 / Benign Lesions
 
 | 特徵 | 診斷 |
 |---|---|
@@ -7926,14 +7697,14 @@ weight: 4
 
 ---
 
-### 惡性病變的鑑別 / Malignant Lesions
+## 惡性病變的鑑別 / Malignant Lesions
 
 | 特徵 | 診斷 |
 |---|---|
 | **侵襲性外觀？** | 轉移/骨髓瘤 |
 | **侵襲性/T2高信號？** | 軟骨肉瘤/脊索瘤 |
 
-### 軟骨肉瘤與脊索瘤 / Chondrosarcoma vs Chordoma
+## 軟骨肉瘤與脊索瘤 / Chondrosarcoma vs Chordoma
 
 | 特徵 | 軟骨肉瘤 | 脊索瘤 |
 |---|---|---|
@@ -7941,13 +7712,11 @@ weight: 4
 | **T2信號** | 高（分葉狀，花椰菜樣）| 高 |
 | **CT基質** | 環-弧軟骨基質 | 無內部基質 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **ACGME'S MC**口號有助於記憶岩骨尖病變
 > - **膽固醇肉芽腫**：T1高信號；脂肪抑制不抑制；最常見
 > - **軟骨肉瘤 vs 脊索瘤**：T2高信號分葉狀；軟骨肉瘤有弧-環基質
-
----
 
 # Neuroimaging - Page 315
 
@@ -7955,14 +7724,14 @@ weight: 4
 
 ## 斜坡 / Clivus
 
-### 正常信號 / Normal Signal
+## 正常信號 / Normal Signal
 
 | 人群 | T1 MRI信號 |
 |---|---|
 | **成人** | 應顯示脂肪髓信號 |
 | **兒童** | 可因持續造血髓而呈低信號 |
 
-### 局竈性骨髓替代的意義 / Focal Marrow Replacement
+## 局竈性骨髓替代的意義 / Focal Marrow Replacement
 
 | 發現 | 意義 |
 |---|---|
@@ -7971,7 +7740,7 @@ weight: 4
 
 ---
 
-### 脊索瘤 / Chordoma
+## 脊索瘤 / Chordoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -7980,7 +7749,7 @@ weight: 4
 | **CT** | 無內部基質；可見被侵蝕骨的殘留鈣化 |
 | **MRI** | 與軟骨肉瘤相似；T2高信號伴骨質破壞 |
 
-### 脊索瘤 vs 軟骨肉瘤 / Chordoma vs Chondrosarcoma
+## 脊索瘤 vs 軟骨肉瘤 / Chordoma vs Chondrosarcoma
 
 | 特徵 | 脊索瘤 | 軟骨肉瘤 |
 |---|---|---|
@@ -7990,13 +7759,13 @@ weight: 4
 
 ---
 
-### 轉移 / Metastasis
+## 轉移 / Metastasis
 
 | 特徵 | 說明 |
 |---|---|
 | **乳腺癌** | 最常見轉移至斜坡的實體腫瘤 |
 
-### 鑑別要點 / Key Points
+## 鑑別要點 / Key Points
 
 | 病變 | 關鍵特徵 |
 |---|---|
@@ -8004,14 +7773,12 @@ weight: 4
 | **軟骨肉瘤** | 偏中線；弧-環基質 |
 | **斜坡轉移** | 乳腺癌史；骨質破壞 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **脊索瘤**：35%位於斜坡；局部侵襲性；T2高信號
 > - **軟骨肉瘤**：弧-環基質；與脊索瘤可難以區分
 > - **斜坡骨髓信號**：成人T1應為脂肪；局竈性替代需排除腫瘤
 > - 斜坡T2高信號分葉狀腫瘤需考慮軟骨肉瘤或脊索瘤
-
----
 
 # Neuroimaging - Page 316
 
@@ -8019,7 +7786,7 @@ weight: 4
 
 ## 副神經節瘤（血管球瘤）/ Paragangliomas (Glomus Tumors)
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -8030,7 +7797,7 @@ weight: 4
 
 ---
 
-### 頸靜脈球瘤 / Glomus Jugulare
+## 頸靜脈球瘤 / Glomus Jugulare
 
 | 特徵 | 說明 |
 |---|---|
@@ -8039,14 +7806,14 @@ weight: 4
 | **臨床表現** | 搏動性耳鳴、傳導性聽力損失 |
 | **CT所見** | 骨質「蛀蝕」性破壞 |
 
-### 鼓室球瘤 / Glomus Tympanicum
+## 鼓室球瘤 / Glomus Tympanicum
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 僅限於中耳的副神經節瘤 |
 | **內視鏡所見** | 血管性紅色鼓膜後腫塊 |
 
-### 鼓室頸靜脈球瘤 / Glomus Jugulotympanicum
+## 鼓室頸靜脈球瘤 / Glomus Jugulotympanicum
 
 | 特徵 | 說明 |
 |---|---|
@@ -8054,7 +7821,7 @@ weight: 4
 
 ---
 
-### 鑑別診斷 / Differential of Vascular Middle Ear Mass
+## 鑑別診斷 / Differential of Vascular Middle Ear Mass
 
 | 疾病 | 特點 |
 |---|---|
@@ -8062,13 +7829,11 @@ weight: 4
 | **迷走頸內動靜脈** | 先天變異 |
 | **鼓膜血管瘤** | 血管瘤 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **副神經節瘤**：<5%惡性；「鹽和胡椒」MRI特徵
 > - **頸靜脈球瘤**：女性；搏動性耳鳴；骨質蛀蝕性破壞
 > - 副神經節瘤與MEN 1和NF 1相關
-
----
 
 # Neuroimaging - Page 317
 
@@ -8078,21 +7843,21 @@ weight: 4
 
 ---
 
-### 頸總體瘤 / Carotid Body Tumor (Glomus Caroticum)
+## 頸總體瘤 / Carotid Body Tumor (Glomus Caroticum)
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 頸總體的副神經節瘤 |
 | **特徵性表現** | 分開頸內和頸外動靜脈 |
 
-### 迷走球瘤 / Glomus Vagale
+## 迷走球瘤 / Glomus Vagale
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 迷走神經的副神經節瘤 |
 | **與頸總體瘤的區別** | 迷走球瘤將頸內和頸外動靜脈向內向前移位；頸總體瘤分開兩者 |
 
-### 副神經節瘤的MRI特徵 / MRI Features of Paragangliomas
+## 副神經節瘤的MRI特徵 / MRI Features of Paragangliomas
 
 | 特徵 | 說明 |
 |---|---|
@@ -8100,7 +7865,7 @@ weight: 4
 | **流空** | T2高信號伴點狀流空 |
 | **T2** | 高信號 |
 
-### 副神經節瘤 vs 神經鞘瘤 / Paraganglioma vs Schwannoma
+## 副神經節瘤 vs 神經鞘瘤 / Paraganglioma vs Schwannoma
 
 | 特徵 | 副神經節瘤 | 神經鞘瘤 |
 |---|---|---|
@@ -8108,20 +7873,18 @@ weight: 4
 | **流空** | 有（典型）| 無 |
 | **骨質破壞** | 蛀蝕性 | 骨質重塑（光滑）|
 
-### 迷走神經鞘瘤的鑑別 / Vagus Nerve Schwannoma
+## 迷走神經鞘瘤的鑑別 / Vagus Nerve Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
 | **位置** | 與迷走球瘤相同 |
 | **與副神經節瘤的區別** | 血管性較低；無典型流空 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **頸總體瘤**：分開頸內外動靜脈（特點）；副神經節瘤
 > - **迷走球瘤**：移位頸內外動靜脈向內向前；副神經節瘤
 > - **高血流信號**：副神經節瘤的MRI特點（與神經鞘瘤鑑別）
-
----
 
 # Neuroimaging - Page 318
 
@@ -8129,7 +7892,7 @@ weight: 4
 
 ## 眼眶解剖 / Orbital Anatomy
 
-### 眼眶五骨 / Five Bones of the Orbit
+## 眼眶五骨 / Five Bones of the Orbit
 
 | 骨 | 參與構成 |
 |---|---|
@@ -8139,14 +7902,14 @@ weight: 4
 | **顴骨** | 外側壁 |
 | **上頜骨** | 眶下壁 |
 
-### 視神經孔通過的結構 / Structures Through Optic Foramen
+## 視神經孔通過的結構 / Structures Through Optic Foramen
 
 | 結構 | 說明 |
 |---|---|
 | **視神經** | 傳送視覺信號 |
 | **眼動靜脈** | 眼血液供應 |
 
-### 眶上裂通過的結構 / Superior Orbital Fissure
+## 眶上裂通過的結構 / Superior Orbital Fissure
 
 | 結構 | 功能 |
 |---|---|
@@ -8158,14 +7921,14 @@ weight: 4
 
 ---
 
-### 眼眶筋膜隔 / Orbital Septum
+## 眼眶筋膜隔 / Orbital Septum
 
 | 特徵 | 說明 |
 |---|---|
 | **位置** | 眶緣的結締組織延伸至瞼板 |
 | **分隔** | 瞼前區（淺層）和眶後（深層）|
 
-### 眶後眶分為四區 / Four Post-Septal Compartments
+## 眶後眶分為四區 / Four Post-Septal Compartments
 
 | 區域 | 內容 |
 |---|---|
@@ -8174,20 +7937,18 @@ weight: 4
 | **球內（Intraconal）** | 視神經/鞘、淋巴結、脂肪 |
 | **眼球（Globe）** | 眼球本身 |
 
-### 眼直肌附著 / Extraocular Muscle Origin
+## 眼直肌附著 / Extraocular Muscle Origin
 
 | 肌肉 | 附著點 |
 |---|---|
 | **所有直肌（除外下斜肌）** | 總腱環（Zinn環）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **眼眶五骨**：額、篩、淚、顴、上頜骨
 > - **總腱環（Zinn環）**：眼外肌（除外下斜肌）的共同附著點
 > - **眶上裂**：CN III/IV/V¹/VI、眼上靜脈；感染可向顱內蔓延
 > - 眼眶感染分類：瞼前（隔前）→瞼後（隔後）→骨膜下→眼球
-
----
 
 # Neuroimaging - Page 319
 
@@ -8195,14 +7956,14 @@ weight: 4
 
 ## 眼眶感染 / Orbital Infection
 
-### 眼眶感染概覽 / Overview
+## 眼眶感染概覽 / Overview
 
 | 病因 | 說明 |
 |---|---|
 | **最常見病因** | 鼻竇感染直接蔓延 |
 | **其他病因** | 外傷、異物、牙源性感染 |
 
-### 眼眶感染的演變過程 / Spectrum
+## 眼眶感染的演變過程 / Spectrum
 
 | 疾病 | 嚴重程度 |
 |---|---|
@@ -8214,7 +7975,7 @@ weight: 4
 
 ---
 
-### 瞼蜂窩組織炎 / Preseptal Cellulitis
+## 瞼蜂窩組織炎 / Preseptal Cellulitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -8222,7 +7983,7 @@ weight: 4
 
 ---
 
-### 眼眶蜂窩組織炎/phanled葛 / Orbital Cellulitis/Phlegmon
+## 眼眶蜂窩組織炎/phanled葛 / Orbital Cellulitis/Phlegmon
 
 | 特徵 | 說明 |
 |---|---|
@@ -8231,7 +7992,7 @@ weight: 4
 
 ---
 
-### 骨膜下膿腫 / Subperiosteal Abscess
+## 骨膜下膿腫 / Subperiosteal Abscess
 
 | 特徵 | 說明 |
 |---|---|
@@ -8241,14 +8002,14 @@ weight: 4
 
 ---
 
-### 海綿竇血栓 / Cavernous Sinus Thrombosis
+## 海綿竇血栓 / Cavernous Sinus Thrombosis
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 眼眶感染的最嚴重並發症 |
 | **臨床表現** | 海綿竇受累導致多發顱神經麻痹 |
 
-### 眼眶感染的蔓延途徑 / Routes of Spread
+## 眼眶感染的蔓延途徑 / Routes of Spread
 
 | 途徑 | 說明 |
 |---|---|
@@ -8256,21 +8017,19 @@ weight: 4
 | **眶上靜脈（無瓣膜）** | 感染向顱內蔓延 |
 | **眼靜脈** | 感染向海綿竇蔓延 |
 
-### 眼眶感染與顱內並發症 / Intracranial Complications
+## 眼眶感染與顱內並發症 / Intracranial Complications
 
 | 並發症 | 說明 |
 |---|---|
 | **腦膿腫** | 可為硬膜外、硬膜下或腦實質膿腫 |
 | **腦膜炎** | 軟膜-蛛網膜炎症 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **眼眶感染最常見病因**：鼻竇炎蔓延
 > - **骨膜下膿腫**：需手術引流的眼科急症
 > - **海綿竇血栓**：感染可沿無瓣膜眼靜脈向顱內蔓延
 > - 眶上靜脈和眼靜脈是眼眶至顱內的感染通道
-
----
 
 # Neuroimaging - Page 320
 
@@ -8280,14 +8039,14 @@ weight: 4
 
 ---
 
-### 眼眶血管瘤 / Orbital Hemangioma
+## 眼眶血管瘤 / Orbital Hemangioma
 
 | 類型 | 特徵 |
 |---|---|
 | **海綿狀血管瘤（成人）** | 最常見成人眼眶腫瘤；進行性眼球突出 |
 | **毛細血管瘤（嬰兒）** | 罕見；僅見於一歲內 |
 
-### 海綿狀血管瘤（成人）的影像特徵 / Cavernous Hemangioma
+## 海綿狀血管瘤（成人）的影像特徵 / Cavernous Hemangioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8299,7 +8058,7 @@ weight: 4
 
 ---
 
-### 眼眶淋巴瘤 / Orbital Lymphoma
+## 眼眶淋巴瘤 / Orbital Lymphoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8308,14 +8067,14 @@ weight: 4
 | **CT** | 高密度腫塊 |
 | **MRI T1/T2** | 低信號（高細胞性）|
 
-### 眼眶淋巴瘤的臨床特點 / Clinical Features
+## 眼眶淋巴瘤的臨床特點 / Clinical Features
 
 | 特徵 | 說明 |
 |---|---|
 | **與眼球形狀關係** | 淋巴瘤趨向於塑形（mold）眼球而非擠壓 |
 | **典型表現** | 無痛性眼球突出 |
 
-### 眼眶假瘤 vs 淋巴瘤 / Orbital Pseudotumor vs Lymphoma
+## 眼眶假瘤 vs 淋巴瘤 / Orbital Pseudotumor vs Lymphoma
 
 | 特徵 | 假瘤 | 淋巴瘤 |
 |---|---|---|
@@ -8325,46 +8084,44 @@ weight: 4
 
 ---
 
-### 眼眶海綿狀血管瘤 vs 淋巴瘤 / Cavernous Hemangioma vs Lymphoma
+## 眼眶海綿狀血管瘤 vs 淋巴瘤 / Cavernous Hemangioma vs Lymphoma
 
 | 特徵 | 海綿狀血管瘤 | 淋巴瘤 |
 |---|---|---|
 | **T2信號** | 高 | 低 |
 | **強化模式** | 早期斑片狀 | 均勻/輕微 |
 
-### 眼眶囊性腫瘤 / Orbital Cystic Lesions
+## 眼眶囊性腫瘤 / Orbital Cystic Lesions
 
 | 囊腫 | 特點 |
 |---|---|
 | **皮樣囊腫** | 先天性；眶內囊性腫瘤 |
 | **表皮樣囊腫** | 眶內囊性腫瘤 |
 
-### 眼眶神經鞘瘤 / Orbital Schwannoma
+## 眼眶神經鞘瘤 / Orbital Schwannoma
 
 | 特徵 | 說明 |
 |---|---|
 | **起源** | 眶內感覺神經 |
 
-### 眼眶神經纖維瘤 / Orbital Neurofibroma
+## 眼眶神經纖維瘤 / Orbital Neurofibroma
 
 | 特徵 | 說明 |
 |---|---|
 | **與NF1的關聯** | NF1患者 |
 
-### 眼眶疾病的主要鑑別 / Key Differentials
+## 眼眶疾病的主要鑑別 / Key Differentials
 
 | 疾病 | 典型MRI特徵 |
 |---|---|
 | **淋巴瘤** | T1/T2低信號；無痛性眼球突出 |
 | **海綿狀血管瘤** | T2高信號；眼內容易識別 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **眼眶淋巴瘤**：T1/T2低信號（高細胞性）；無痛性眼球突出；系統性
 > - **海綿狀血管瘤**：T2高信號；成人最常見眼眶腫瘤
 > - **假瘤 vs 淋巴瘤**：假瘤常有疼痛；兩者均塑形眼球
-
----
 
 # Neuroimaging - Page 321
 
@@ -8374,7 +8131,7 @@ weight: 4
 
 ---
 
-### 甲狀腺眼病 / Thyroid Ophthalmopathy (Thyroid Eye Disease)
+## 甲狀腺眼病 / Thyroid Ophthalmopathy (Thyroid Eye Disease)
 
 | 特徵 | 說明 |
 |---|---|
@@ -8383,7 +8140,7 @@ weight: 4
 | **好發順序** | 下直肌→內直肌→上直肌→外直肌（記憶：I'M SLow）|
 | **特點** | 與假瘤不同，thyroid ophthalmopathy保留肌肉肌腱 |
 
-### 甲狀腺眼病 vs 假瘤 / Thyroid vs Pseudotumor
+## 甲狀腺眼病 vs 假瘤 / Thyroid vs Pseudotumor
 
 | 特徵 | 甲狀腺眼病 | 假瘤 |
 |---|---|---|
@@ -8392,7 +8149,7 @@ weight: 4
 | **肌腱受累** | **保留** | **受累** |
 | **治療** | 皮質類固醇（臨時）；20%需手術 | 皮質類固醇 |
 
-### 眼眶假瘤 / Orbital Pseudotumor
+## 眼眶假瘤 / Orbital Pseudotumor
 
 | 特徵 | 說明 |
 |---|---|
@@ -8401,14 +8158,14 @@ weight: 4
 | **最好發結構** | 淚腺 |
 | **治療** | 皮質類固醇 |
 
-### Tolosa-Hunt綜合徵 / Tolosa-Hunt Syndrome
+## Tolosa-Hunt綜合徵 / Tolosa-Hunt Syndrome
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 與眼眶假瘤相同的病理過程，但位於海綿竇 |
 | **治療** | 皮質類固醇 |
 
-### 眼眶肌肉增大列表 / I'M SLow Mnemonic
+## 眼眶肌肉增大列表 / I'M SLow Mnemonic
 
 | 字母 | 肌肉 |
 |---|---|
@@ -8417,13 +8174,11 @@ weight: 4
 | **S** | 上直肌（Superior rectus）|
 | **Low** | 外直肌（Lateral rectus）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **甲狀腺眼病**：無痛性眼球突出；眼眶脂肪先增大→肌肉增大；I'M SLow順序
 > - **眼眶假瘤**：疼痛性眼球突出；淚腺最常受累；排除性診斷
 > - **Tolosa-Hunt**：海綿竇假瘤
-
----
 
 # Neuroimaging - Page 322
 
@@ -8433,7 +8188,7 @@ weight: 4
 
 ---
 
-### 視神經膠質瘤 / Optic Nerve Glioma
+## 視神經膠質瘤 / Optic Nerve Glioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8441,7 +8196,7 @@ weight: 4
 | **兒童腫瘤** | 低級別星形細胞瘤；惰性進程 |
 | **成人腫瘤** | 間變性星形細胞瘤或GBM；預後差 |
 
-### 兒童視神經膠質瘤 / Childhood Optic Glioma
+## 兒童視神經膠質瘤 / Childhood Optic Glioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8449,7 +8204,7 @@ weight: 4
 | **特點** | 常雙側 |
 | **MRI** | 紡錘形增大；T2高信號；強化多變 |
 
-### 成人視神經膠質瘤 / Adult Optic Glioma
+## 成人視神經膠質瘤 / Adult Optic Glioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8459,7 +8214,7 @@ weight: 4
 
 ---
 
-### 視神經腦膜瘤 / Optic Nerve Meningioma
+## 視神經腦膜瘤 / Optic Nerve Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8467,7 +8222,7 @@ weight: 4
 | **好發人群** | 中年女性 |
 | **典型表現** | 緩慢進行性視力障礙；常保留中心視野 |
 
-### 視神經腦膜瘤的MRI所見 / MRI Findings
+## 視神經腦膜瘤的MRI所見 / MRI Findings
 
 | 所見 | 說明 |
 |---|---|
@@ -8475,14 +8230,14 @@ weight: 4
 | **強化模式** | 均勻對比強化 |
 | **電車軌徵（Tram-track sign）** | 強化腫瘤鞘+非強化神經=軸位圖上的特徵性所見 |
 
-### 視神經腦膜瘤的治療 / Treatment
+## 視神經腦膜瘤的治療 / Treatment
 
 | 特徵 | 說明 |
 |---|---|
 | **放療** | 視神經腦膜瘤的首選治療 |
 | **手術** | 可能並發視神經損傷 |
 
-### 視神經腦膜瘤 vs 膠質瘤 / Meningioma vs Glioma
+## 視神經腦膜瘤 vs 膠質瘤 / Meningioma vs Glioma
 
 | 特徵 | 腦膜瘤 | 膠質瘤 |
 |---|---|---|
@@ -8490,13 +8245,11 @@ weight: 4
 | **形狀** | 環形 | 紡錘形 |
 | **好發人群** | 中年女性 | 兒童（膠質瘤）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **視神經膠質瘤**：兒童（低級別/惰性）vs 成人（高級別/預後差）
 > - **視神經腦膜瘤**：中年女性；放療首選；電車軌徵是MRI特點
 > - **NF1相關**：視路膠質瘤常為雙側
-
----
 
 # Neuroimaging - Page 323
 
@@ -8504,21 +8257,21 @@ weight: 4
 
 ## 視神經炎症 / Optic Neuritis
 
-### 病因 / Etiology
+## 病因 / Etiology
 
 | 病因 | 說明 |
 |---|---|
 | **最常見** | 多發性硬化症（MS）|
 | **其他** | 病毒感染、結節病、血管炎、毒素接觸 |
 
-### 臨床特點 / Clinical Features
+## 臨床特點 / Clinical Features
 
 | 特徵 | 說明 |
 |---|---|
 | **典型表現** | 疼痛、亞急性視力喪失、色彩感知下降 |
 | **疼痛性質** | 疼痛性 |
 
-### 視神經炎的MRI所見 / MRI Findings
+## 視神經炎的MRI所見 / MRI Findings
 
 | 所見 | 說明 |
 |---|---|
@@ -8526,7 +8279,7 @@ weight: 4
 | **慢性期** | 視神經萎縮 |
 | **腦/脊髓成像** | >75%患者有腦白質病變 |
 
-### 視神經脊髓炎 / Devic綜合徵（視神經脊髓炎）
+## 視神經脊髓炎 / Devic綜合徵（視神經脊髓炎）
 
 | 特徵 | 說明 |
 |---|---|
@@ -8537,7 +8290,7 @@ weight: 4
 
 ## 眼球疾病 / Globe Disorders
 
-### 眼球腫瘤總覽 / Globe Tumor Overview
+## 眼球腫瘤總覽 / Globe Tumor Overview
 
 | 腫瘤 | 特點 |
 |---|---|
@@ -8545,7 +8298,7 @@ weight: 4
 | **Coat病** | 視網膜血管病；無強化 |
 | **早產兒視網膜病（ROP）** | 早產兒；雙側小眼球 |
 
-### 視網膜母細胞瘤 / Retinoblastoma
+## 視網膜母細胞瘤 / Retinoblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -8557,21 +8310,19 @@ weight: 4
 | **CT所見** | 眼球大小正常；鈣化性視網膜腫塊 |
 | **MRI所見** | T1等至高信號；T2低信號；強化 |
 
-### 三側/四側性視網膜母細胞瘤 / Tri-lateral/Quadrilateral Retinoblastoma
+## 三側/四側性視網膜母細胞瘤 / Tri-lateral/Quadrilateral Retinoblastoma
 
 | 類型 | 組成 |
 |---|---|
 | **三側性** | 雙側視網膜母細胞瘤＋松果體母細胞瘤 |
 | **四側性** | 雙側視網膜母細胞瘤＋松果體/鞍上視網膜母細胞瘤 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **視神經炎**：MS最常見；>75%有腦白質病變
 > - **視網膜母細胞瘤**：<5歲；白色瞳孔；單側（散發）或雙側（家族性）
 > - **視網膜母細胞瘤**：眼球大小正常；鈣化是特點
 > - 眼球病變的MRI評估需結合超聲和MRI
-
----
 
 # Neuroimaging - Page 324
 
@@ -8579,7 +8330,7 @@ weight: 4
 
 ## 甲狀腺眼病 / Thyroid Eye Disease
 
-### 甲狀腺眼病的病理生理 / Pathophysiology
+## 甲狀腺眼病的病理生理 / Pathophysiology
 
 | 特徵 | 說明 |
 |---|---|
@@ -8587,7 +8338,7 @@ weight: 4
 | **演變** | 眼眶脂肪增加→眼外肌增大→纖維化 |
 | **好發順序** | I'M SLOW |
 
-### 甲狀腺眼病特徵 / Features
+## 甲狀腺眼病特徵 / Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -8597,7 +8348,7 @@ weight: 4
 | **眼球突出** | 常見 |
 | **眼外肌受累** | 下直肌→內直肌→上直肌→外直肌 |
 
-### 甲狀腺眼病與假瘤的鑑別 / Differential
+## 甲狀腺眼病與假瘤的鑑別 / Differential
 
 | 特徵 | 甲狀腺眼病 | 假瘤 |
 |---|---|---|
@@ -8606,7 +8357,7 @@ weight: 4
 | **肌腱受累** | **保留** | **受累** |
 | **治療** | 皮質類固醇（臨時）；手術 | 皮質類固醇 |
 
-### 甲狀腺眼病的手術治療 / Surgical Treatment
+## 甲狀腺眼病的手術治療 / Surgical Treatment
 
 | 適應症 | 說明 |
 |---|---|
@@ -8614,20 +8365,18 @@ weight: 4
 | **眼眶減壓手術** | 解除視神經在眶尖受壓 |
 | **眼眶減壓術** | 眶壁移除解除眶尖壓力 |
 
-### 甲狀腺眼病的神經影像 / Neuroimaging
+## 甲狀腺眼病的神經影像 / Neuroimaging
 
 | 序列 | 所見 |
 |---|---|
 | **CT/MRI** | 眼外肌增大（肌腹增大，肌腱保留）|
 | **冠狀位** | 評估眼外肌大小 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **甲狀腺眼病**：I'M SLOW記憶順序；肌肉增大但保留肌腱是與假瘤的關鍵區別
 > - **眼球突出**：甲狀腺眼病的常見臨床表現
 > - 20%患者最終需要手術治療
-
----
 
 # Neuroimaging - Page 325
 
@@ -8635,7 +8384,7 @@ weight: 4
 
 ## 甲狀腺相關眼眶疾病 / Thyroid Orbitopathy
 
-### 甲狀腺相關眼眶疾病的發病機制 / Pathogenesis
+## 甲狀腺相關眼眶疾病的發病機制 / Pathogenesis
 
 | 特徵 | 說明 |
 |---|---|
@@ -8643,7 +8392,7 @@ weight: 4
 | **介導因素** | 淋巴細胞產透明質酸 |
 | **結局** | 眼眶脂肪增加、眼外肌增大、最終纖維化 |
 
-### 甲狀腺眼眶疾病的手術考量 / Surgical Considerations
+## 甲狀腺眼眶疾病的手術考量 / Surgical Considerations
 
 | 考量 | 說明 |
 |---|---|
@@ -8651,14 +8400,14 @@ weight: 4
 | **手術目標** | 眼眶減壓解除眶尖視神經受壓 |
 | **後果** | 不治療可致不可逆視神經病變 |
 
-### 甲狀腺眼病與其他眼外肌疾病的鑑別 / Differential
+## 甲狀腺眼病與其他眼外肌疾病的鑑別 / Differential
 
 | 疾病 | 區別點 |
 |---|---|
 | **甲狀腺眼病** | 無痛性眼球突出；眼外肌增大；肌腱保留 |
 | **假瘤 | 疼痛性眼球突出；淚腺增大；眼外肌和肌腱均增厚 |
 
-### 甲狀腺眼病的手術適應症 / Surgical Indications
+## 甲狀腺眼病的手術適應症 / Surgical Indications
 
 | 適應症 | 說明 |
 |---|---|
@@ -8666,7 +8415,7 @@ weight: 4
 | **眼心綜合徵** | 靜脈充血相關視力喪失 |
 | **美容** | 曝露性角膜病變 |
 
-### 甲狀腺眼病的神經眼科評估 / Neuro-Ophthalmic Assessment
+## 甲狀腺眼病的神經眼科評估 / Neuro-Ophthalmic Assessment
 
 | 評估內容 | 說明 |
 |---|---|
@@ -8674,14 +8423,12 @@ weight: 4
 | **眼球運動** | 眼外肌功能 |
 | **視野** | 中心/周邊視野 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - 甲狀腺眼眶疾病的治療目標是減少眶內壓力保護視神經
 > - 皮質類固醇可緩解症狀但20%患者最終需手術
 > - 視神經在眶尖受壓是手術的明確適應症
 > - 眼外肌增大的MRI測量有助於評估疾病嚴重程度和治療反應
-
----
 
 # Neuroimaging - Page 326
 
@@ -8691,7 +8438,7 @@ weight: 4
 
 ---
 
-### 持續性原始玻璃體增生症 / Persistent Hyperplastic Primary Vitreous (PHPV)
+## 持續性原始玻璃體增生症 / Persistent Hyperplastic Primary Vitreous (PHPV)
 
 | 特徵 | 說明 |
 |---|---|
@@ -8702,14 +8449,14 @@ weight: 4
 
 ---
 
-### 眼球缺損 / Coloboma
+## 眼球缺損 / Coloboma
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 胚胎期眼球溝閉合不全所致 |
 | **超聲所見** | 錐形或切跡形畸形 |
 
-### 眼球缺損的類型 / Types
+## 眼球缺損的類型 / Types
 
 | 類型 | 位置 |
 |---|---|
@@ -8717,7 +8464,7 @@ weight: 4
 | **虹膜缺損** | 前方 |
 | **葡萄膜缺損** | 常伴小眼球和囊腫 |
 
-### 眼球缺損的關聯綜合徵 / Associated Syndromes
+## 眼球缺損的關聯綜合徵 / Associated Syndromes
 
 | 綜合徵 | 說明 |
 |---|---|
@@ -8727,7 +8474,7 @@ weight: 4
 
 ---
 
-### 蝶骨翼發育不良 / Sphenoid Wing Dysplasia
+## 蝶骨翼發育不良 / Sphenoid Wing Dysplasia
 
 | 特徵 | 說明 |
 |---|---|
@@ -8737,28 +8484,26 @@ weight: 4
 
 ---
 
-### 隔離-視神經發育不良 / Septo-Optic Dysplasia
+## 隔離-視神經發育不良 / Septo-Optic Dysplasia
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 視神經發育不全＋透明隔缺如 |
 | **常見並發** | 腦裂畸形（schizencephaly）|
 
-### 腦裂畸形 / Schizencephaly
+## 腦裂畸形 / Schizencephaly
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 大腦半球的完全厚度裂隙 |
 | **結果** | 腦室與蛛網膜下腔相通 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **PHPV**：無鈣化的小眼球；與視網膜母細胞瘤和ROP鑑別
 > - **眼球缺損**：與13/18三體、CHARGE、VATER關聯
 > - **蝶骨翼發育不良**：NF1的特徵；搏動性眼球突出
 > - **隔離-視神經發育不良**：透明隔缺如＋視神經發育不全；常伴腦裂畸形
-
----
 
 # Neuroimaging - Page 327
 
@@ -8766,7 +8511,7 @@ weight: 4
 
 ## 咀嚼肌間隙 / Masticator Space
 
-### 咀嚼肌間隙解剖 / Anatomy
+## 咀嚼肌間隙解剖 / Anatomy
 
 | 結構 | 說明 |
 |---|---|
@@ -8775,7 +8520,7 @@ weight: 4
 | **骨** | 下頜骨 |
 | **神經** | CN V3（顱神經V的下頜支）；經卵圓孔出顱 |
 
-### 咀嚼肌間隙的肌肉 / Muscles
+## 咀嚼肌間隙的肌肉 / Muscles
 
 | 肌肉 | 說明 |
 |---|---|
@@ -8784,7 +8529,7 @@ weight: 4
 | **內翼狀肌** | 前移/側移下頜 |
 | **外翼狀肌** | 前移下頜 |
 
-### CN V3的經過 / CN V3 Course
+## CN V3的經過 / CN V3 Course
 
 | 結構 | 說明 |
 |---|---|
@@ -8793,7 +8538,7 @@ weight: 4
 
 ---
 
-### 咀嚼肌間隙病變的鑑別 / Differential
+## 咀嚼肌間隙病變的鑑別 / Differential
 
 | 病變 | 臨床特點 |
 |---|---|
@@ -8801,7 +8546,7 @@ weight: 4
 | **下頜骨病變** | 骨肉瘤和轉移是兩種最常見的惡性下頜骨病變 |
 | **橫紋肌肉瘤** | 兒童頭頸部最常見腫瘤 |
 
-### 咀嚼肌間隙膿腫 / Masticator Abscess
+## 咀嚼肌間隙膿腫 / Masticator Abscess
 
 | 特徵 | 說明 |
 |---|---|
@@ -8809,28 +8554,26 @@ weight: 4
 | **CT所見** | 咀嚼肌間隙液體聚集；蜂窩組織炎 |
 | **MRI** | T2高信號；邊緣強化 |
 
-### 下頜骨病變 / Mandibular Lesions
+## 下頜骨病變 / Mandibular Lesions
 
 | 病變 | 特點 |
 |---|---|
 | **骨肉瘤** | 最常見的惡性下頜骨腫瘤之一 |
 | **轉移** | 常見繼發性惡性下頜骨腫瘤 |
 
-### 咀嚼肌間隙腫瘤的MRI特徵 / MRI Features
+## 咀嚼肌間隙腫瘤的MRI特徵 / MRI Features
 
 | 腫瘤類型 | MRI特徵 |
 |---|---|
 | **橫紋肌肉瘤** | 兒童；浸潤性軟組織腫塊 |
 | **膿腫** | 環形強化的液體集合 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **咀嚼肌間隙**：位於腮腺前方；含咀嚼肌、下頜骨、CN V3
 > - **CN V3**：經卵圓孔；咀嚼肌間隙病變需評估沿V3的神經周蔓延
 > - **牙源性感染**：最常見咀嚼肌間隙病變原因
 > - **橫紋肌肉瘤**：兒童頭頸部最常見惡性腫瘤
-
----
 
 # Neuroimaging - Page 328
 
@@ -8838,7 +8581,7 @@ weight: 4
 
 ## 頸動靜脈隙 / Carotid Space
 
-### 頸動靜脈隙解剖 / Anatomy
+## 頸動靜脈隙解剖 / Anatomy
 
 | 特徵 | 說明 |
 |---|---|
@@ -8846,7 +8589,7 @@ weight: 4
 | **範圍** | 從顱底至主動脈弓 |
 | **內容物** | 頸總動靜脈、頸總體、顱神經（IX、X、XI、XII）|
 
-### 通過頸動靜脈隙的顱神經 / Cranial Nerves
+## 通過頸動靜脈隙的顱神經 / Cranial Nerves
 
 | 神經 | 說明 |
 |---|---|
@@ -8855,7 +8598,7 @@ weight: 4
 | **副神經（XI）** | 僅通過頸動靜脈隙的一部分 |
 | **舌下神經（XII）** | 僅通過頸動靜脈隙的一部分 |
 
-### 頸動靜脈間隙的血管位移模式 / Vascular Displacement Patterns
+## 頸動靜脈間隙的血管位移模式 / Vascular Displacement Patterns
 
 | 病變來源 | 位移方向 |
 |---|---|
@@ -8865,7 +8608,7 @@ weight: 4
 
 ---
 
-### 頸動靜脈隙腫瘤的鑑別 / Differential
+## 頸動靜脈隙腫瘤的鑑別 / Differential
 
 | 腫瘤 | 特點 |
 |---|---|
@@ -8873,7 +8616,7 @@ weight: 4
 | **神經鞘瘤** | 較低血管性；MRI信號多變 |
 | **神經纖維瘤** | NF1相關；與神經鞘瘤MRI難以區分 |
 
-### 副神經節瘤 vs 神經鞘瘤 / Paraganglioma vs Schwannoma
+## 副神經節瘤 vs 神經鞘瘤 / Paraganglioma vs Schwannoma
 
 | 特徵 | 副神經節瘤 | 神經鞘瘤 |
 |---|---|---|
@@ -8881,21 +8624,19 @@ weight: 4
 | **強化模式** | 均勻強化 | 不均勻強化 |
 | **流空效應** | 典型（鹽和胡椒）| 無 |
 
-### 頸動靜脈隙的淋巴結 / Lymph Nodes
+## 頸動靜脈隙的淋巴結 / Lymph Nodes
 
 | 說明 | 內容 |
 |---|---|
 | **淋巴結位置** | 頸動靜脈隙周圍 |
 | **隙內淋巴結** | **沒有** |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **頸動靜脈隙**：頸內/頸外動靜脈+顱神經IX-XII
 > - **迷走神經是唯一**全程在頸動靜脈隙內的神經
 > - **副神經節瘤**：高血管性；「鹽和胡椒」特徵；沿CN X播散
 > - 血管位移模式是頸動靜脈隙腫塊鑑別診斷的關鍵
-
----
 
 # Neuroimaging - Page 329
 
@@ -8905,7 +8646,7 @@ weight: 4
 
 ---
 
-### 咽旁間隙 / Parapharyngeal Space (PPS)
+## 咽旁間隙 / Parapharyngeal Space (PPS)
 
 | 特徵 | 說明 |
 |---|---|
@@ -8913,7 +8654,7 @@ weight: 4
 | **內容物** | 僅偶有異位小唾液腺組織 |
 | **成像特點** | 因脂肪含量在CT/MRI上清晰可見 |
 
-### 咽旁間隙位移模式 / PPS Displacement Patterns
+## 咽旁間隙位移模式 / PPS Displacement Patterns
 
 | 相鄰間隙病變 | PPS位移方向 |
 |---|---|
@@ -8921,7 +8662,7 @@ weight: 4
 | **腮腺**（如多形性腺瘤）| 向前向內（anteromedially）|
 | **頸動靜脈隙**（如副神經節瘤）| 向前（anteriorly）|
 
-### 椎前間隙 / Perivertebral Space
+## 椎前間隙 / Perivertebral Space
 
 | 特徵 | 說明 |
 |---|---|
@@ -8929,7 +8670,7 @@ weight: 4
 | **位置** | 舌骨上頸部 |
 | **內容物** | 椎動靜脈、椎旁肌肉、脊柱、穿出行神經 |
 
-### 椎前間隙的組成 / Components
+## 椎前間隙的組成 / Components
 
 | 組成 | 說明 |
 |---|---|
@@ -8938,7 +8679,7 @@ weight: 4
 
 ---
 
-### 各間隙病變的位移總結 / Summary of Space Displacement
+## 各間隙病變的位移總結 / Summary of Space Displacement
 
 | 間隙 | 典型病變 | PPS位移 |
 |---|---|---|
@@ -8946,22 +8687,20 @@ weight: 4
 | **腮腺** | 多形性腺瘤、淋巴瘤 | 前內 |
 | **頸動靜脈隙** | 副神經節瘤、神經鞘瘤 | 前 |
 
-### 咽旁間隙是確定腫瘤來源的標誌 / PPS as Landmark
+## 咽旁間隙是確定腫瘤來源的標誌 / PPS as Landmark
 
 | 原則 | 說明 |
 |---|---|
 | **位移方向可預測** | 咽旁間隙被相鄰間隙病變推移的方向是可預測的 |
 | **鑑別價值** | 有助於判斷腫塊起源於哪個相鄰間隙 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **咽旁間隙**：三角形脂肪間隙；位移方向可預測
 > - **咀嚼肌間隙病變**：PPS向後內移位
 > - **腮腺病變**：PPS向前內移位
 > - **頸動靜脈隙病變**：PPS向前移位
 > - **椎前間隙**：位於脊柱前方；含椎動靜脈和椎旁肌肉
-
----
 
 # Neuroimaging - Page 330
 
@@ -8969,7 +8708,7 @@ weight: 4
 
 ## 頸部淋巴結 / Cervical Lymph Nodes
 
-### 頸部淋巴結分區概覽 / Overview
+## 頸部淋巴結分區概覽 / Overview
 
 | 分區 | 位置 |
 |---|---|
@@ -8982,7 +8721,7 @@ weight: 4
 | **VA** | 副神經區（上）|
 | **VB** | 副神經區（下）|
 
-### 頸部淋巴結分區的邊界 / Boundaries
+## 頸部淋巴結分區的邊界 / Boundaries
 
 | 邊界結構 | 說明 |
 |---|---|
@@ -8996,7 +8735,7 @@ weight: 4
 
 ---
 
-### 頸部淋巴結引流的臨床意義 / Clinical Significance
+## 頸部淋巴結引流的臨床意義 / Clinical Significance
 
 | 區域 | 引流腫瘤類型 |
 |---|---|
@@ -9004,7 +8743,7 @@ weight: 4
 | **II/III/IV** | 咽喉、、甲狀腺 |
 | **VA/VB** | 頭部、頸部皮膚 |
 
-### 頸部淋巴結分區與鱗狀細胞癌 / SCC Association
+## 頸部淋巴結分區與鱗狀細胞癌 / SCC Association
 
 | 原發腫瘤 | 常見淋巴結轉移分區 |
 |---|---|
@@ -9012,14 +8751,14 @@ weight: 4
 | **咽喉** | II, III |
 | **，甲狀腺** | VI |
 
-### 淋巴結大小標準 / Size Criteria
+## 淋巴結大小標準 / Size Criteria
 
 | 標準 | 說明 |
 |---|---|
 | **短軸直徑** | >10-15mm（不同分區略有不同）|
 | **頸靜脈二腹肌淋巴結** | >8mm |
 
-### 淋巴結轉移的影像特徵 / Imaging Features of Metastasis
+## 淋巴結轉移的影像特徵 / Imaging Features of Metastasis
 
 | 特徵 | 說明 |
 |---|---|
@@ -9028,15 +8767,13 @@ weight: 4
 | **皮髓質界限** | 模糊或消失 |
 | **壞死** | 高信號（CT低密度）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **淋巴結分區IA-IB**：頦下和下頜下
 > - **淋巴結分區II-IV**：頸靜脈上中下區（II最大）
 > - **淋巴結分區VA/VB**：副神經區
 > - 淋巴結位移和強化模式是評估轉移的關鍵
 > - 鱗狀細胞癌主要轉移至II、III區
-
----
 
 # Neuroimaging - Page 331
 
@@ -9044,7 +8781,7 @@ weight: 4
 
 ## 頸部淋巴結分區 / Cervical Lymph Node Levels
 
-### 頸部淋巴結分區系統 / AJCC System
+## 頸部淋巴結分區系統 / AJCC System
 
 | 分區 | 說明 |
 |---|---|
@@ -9058,7 +8795,7 @@ weight: 4
 | **VI** | 氣管前區（舌骨至胸骨柄上緣）|
 | **VII** | 上縱隔區（胸骨柄至頭臂靜脈）|
 
-### 各分區的邊界 / Boundaries
+## 各分區的邊界 / Boundaries
 
 | 分區 | 上界 | 下界 | 後界 |
 |---|---|---|---|
@@ -9070,7 +8807,7 @@ weight: 4
 
 ---
 
-### 鱗狀細胞癌的淋巴結轉移 / SCC Metastasis
+## 鱗狀細胞癌的淋巴結轉移 / SCC Metastasis
 
 | 腫瘤部位 | 常見轉移分區 |
 |---|---|
@@ -9078,21 +8815,19 @@ weight: 4
 | **咽喉** | II, III |
 | **甲狀腺** | VI |
 
-### 淋巴結分期的預後意義 / Prognostic Significance
+## 淋巴結分期的預後意義 / Prognostic Significance
 
 | 發現 | 預後影響 |
 |---|---|
 | **單個轉移淋巴結** | 鱗狀細胞癌生存率降低50% |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **鱗狀細胞癌**：90%的成人頭頸部癌症
 > - **淋巴結分區IA-IB**：頦下和下頜下
 > - **淋巴結分區II**：頸靜脈上區（最大分區）
 > - 淋巴結狀況是頭頸部癌症分期的關鍵因素
 > - 單個轉移淋巴結可使生存率降低50%
-
----
 
 # Neuroimaging - Page 332
 
@@ -9100,7 +8835,7 @@ weight: 4
 
 ## 脊柱腫瘤概覽 / Spine Tumors Overview
 
-### 腫瘤定位：三個間室 / Three Compartments
+## 腫瘤定位：三個間室 / Three Compartments
 
 | 間室 | 位置 | 代表性疾病 |
 |---|---|---|
@@ -9110,14 +8845,14 @@ weight: 4
 
 ---
 
-### 評估步驟 / Evaluation Steps
+## 評估步驟 / Evaluation Steps
 
 | 步驟 | 說明 |
 |---|---|
 | **第一步** | 確定腫瘤起源的間室 |
 | **每間室** | 有各自不同的鑑別診斷 |
 
-### 髓內腫瘤 / Intramedullary Tumors
+## 髓內腫瘤 / Intramedullary Tumors
 
 | 腫瘤 | 說明 |
 |---|---|
@@ -9125,7 +8860,7 @@ weight: 4
 | **室管膜瘤** | 成人最常見；常見出血 |
 | **血管母細胞瘤** | VHL相關；囊性＋強化結節 |
 
-### 硬膜內髓外腫瘤 / Intradural Extramedullary Tumors
+## 硬膜內髓外腫瘤 / Intradural Extramedullary Tumors
 
 | 腫瘤 | 說明 |
 |---|---|
@@ -9133,7 +8868,7 @@ weight: 4
 | **腦膜瘤** | 女性多見；鈣化常見 |
 | **表皮/皮樣囊腫** | 先天性；受限擴散 |
 
-### 硬膜外腫瘤 / Extradural Tumors
+## 硬膜外腫瘤 / Extradural Tumors
 
 | 腫瘤 | 說明 |
 |---|---|
@@ -9141,14 +8876,12 @@ weight: 4
 | **血管瘤** | 常見；T2高信號 |
 | **脂肪瘤病** | 硬膜外脂肪過多 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **評估脊柱腫瘤的第一步**：確定在三個間室中的哪一個
 > - **髓內腫瘤**（星形細胞瘤、室管膜瘤）佔95%
 > - **硬膜內髓外腫瘤**：神經鞘瘤和腦膜瘤佔90%
 > - 脊柱腫瘤的定位決定了鑑別診斷的方向
-
----
 
 # Neuroimaging - Page 333
 
@@ -9156,7 +8889,7 @@ weight: 4
 
 ## 髓內腫瘤 / Intramedullary Lesions
 
-### 髓內腫瘤概述 / Overview
+## 髓內腫瘤概述 / Overview
 
 | 統計 | 說明 |
 |---|---|
@@ -9166,7 +8899,7 @@ weight: 4
 
 ---
 
-### 星形細胞瘤 / Astrocytoma
+## 星形細胞瘤 / Astrocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9179,7 +8912,7 @@ weight: 4
 | **強化** | 幾乎總是強化 |
 | **出血** | 罕見（對比室管膜瘤）|
 
-### 星形細胞瘤 vs 室管膜瘤 / Astrocytoma vs Ependymoma
+## 星形細胞瘤 vs 室管膜瘤 / Astrocytoma vs Ependymoma
 
 | 特徵 | 星形細胞瘤 | 室管膜瘤 |
 |---|---|---|
@@ -9190,7 +8923,7 @@ weight: 4
 
 ---
 
-### 室管膜瘤 / Ependymoma
+## 室管膜瘤 / Ependymoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9201,7 +8934,7 @@ weight: 4
 | **囊性改變** | 腫瘤囊腫和極性囊腫常見 |
 | **經典型發現** | 椎體「扇形邊緣」（罕見於今）|
 
-### 血管母細胞瘤 / Hemangioblastoma
+## 血管母細胞瘤 / Hemangioblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9210,21 +8943,19 @@ weight: 4
 | **MRI特點** | 明顯強化、囊腫形成、多發流空 |
 | **15%** | 同時有髓內和硬膜內髓外成分 |
 
-### 脫髓鞘病變 / Demyelinating Lesion
+## 脫髓鞘病變 / Demyelinating Lesion
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 活動性MS斑塊可強化並模擬腫瘤 |
 | **與腫瘤的鑑別** | 無脊髓擴張（不同於腫瘤）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **星形細胞瘤**：兒童最常見；低級別；少見出血
 > - **室管膜瘤**：成人最常見；常出血；與NF2相關
 > - **血管母細胞瘤**：VHL相關；囊性+明顯強化
 > - 髓內腫瘤的MRI鑑別困難，出血支持室管膜瘤
-
----
 
 # Neuroimaging - Page 334
 
@@ -9234,7 +8965,7 @@ weight: 4
 
 ---
 
-### 神經鞘瘤（神經鞘瘤 vs 神經纖維瘤）/ Nerve-sheath Tumors
+## 神經鞘瘤（神經鞘瘤 vs 神經纖維瘤）/ Nerve-sheath Tumors
 
 | 特徵 | 神經鞘瘤 | 神經纖維瘤 |
 |---|---|---|
@@ -9245,7 +8976,7 @@ weight: 4
 | **神經累及** | 偏心性（可保留神經）| 完全環形累及 |
 | **手術** | 可「剝出」（保留神經）| 需切除神經 |
 
-### 神經鞘瘤/神經纖維瘤的MRI特徵 / MRI Features
+## 神經鞘瘤/神經纖維瘤的MRI特徵 / MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -9254,7 +8985,7 @@ weight: 4
 | **T2信號** | T2高信號 |
 | **強化** | 均勻強化 |
 
-### 靶徵 / Target Sign
+## 靶徵 / Target Sign
 
 | 特徵 | 說明 |
 |---|---|
@@ -9263,7 +8994,7 @@ weight: 4
 
 ---
 
-### 腦膜瘤 / Meningioma
+## 腦膜瘤 / Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9276,7 +9007,7 @@ weight: 4
 
 ---
 
-### 表皮囊腫 / Epidermoid Cyst
+## 表皮囊腫 / Epidermoid Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -9289,7 +9020,7 @@ weight: 4
 
 ---
 
-### 皮樣囊腫 / Dermoid Cyst
+## 皮樣囊腫 / Dermoid Cyst
 
 | 特徵 | 說明 |
 |---|---|
@@ -9299,14 +9030,12 @@ weight: 4
 | **T1** | **高信號**（脂肪）|
 | **並發症** | 罕見破裂可致致命性化學性腦膜炎 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **神經鞘瘤 vs 神經纖維瘤**：神經鞘瘤可偏心生長並保留神經；神經纖維瘤與NF1相關
 > - **腦膜瘤**：老年女性；胸椎後方/頸椎前方；鈣化常見
 > - **表皮囊腫**：受限擴散（與arachnoid囊腫的關鍵鑑別）
 > - **皮樣囊腫**：T1高信號（脂肪）；可破裂致化學性腦膜炎
-
----
 
 # Neuroimaging - Page 335
 
@@ -9314,7 +9043,7 @@ weight: 4
 
 ## 脊柱腫瘤總結 / Spine Tumors Summary
 
-### 脊柱腫瘤定位的回顧 / Localization Review
+## 脊柱腫瘤定位的回顧 / Localization Review
 
 | 間室 | 常見腫瘤 |
 |---|---|
@@ -9324,7 +9053,7 @@ weight: 4
 
 ---
 
-### 髓內腫瘤的年齡分佈 / Age Distribution
+## 髓內腫瘤的年齡分佈 / Age Distribution
 
 | 年齡組 | 最常見髓內腫瘤 |
 |---|---|
@@ -9333,7 +9062,7 @@ weight: 4
 
 ---
 
-### 脊柱囊性病變的鑑別 / Cystic Spine Lesions
+## 脊柱囊性病變的鑑別 / Cystic Spine Lesions
 
 | 囊腫類型 | T1信號 | T2信號 | 擴散受限 | 強化 |
 |---|---|---|---|---|
@@ -9344,7 +9073,7 @@ weight: 4
 
 ---
 
-### 脊柱腫瘤的治療原則 / Treatment Principles
+## 脊柱腫瘤的治療原則 / Treatment Principles
 
 | 腫瘤類型 | 治療 |
 |---|---|
@@ -9355,7 +9084,7 @@ weight: 4
 
 ---
 
-### 硬膜外腫瘤的常見原發腫瘤 / Common Primary Sources
+## 硬膜外腫瘤的常見原發腫瘤 / Common Primary Sources
 
 | 原發腫瘤 | 脊柱轉移常見部位 |
 |---|---|
@@ -9365,7 +9094,7 @@ weight: 4
 | **腎癌** | 腰椎（可見骨溶解）|
 | **甲狀腺癌** | 頸椎（成骨性）|
 
-### 臨床上容易被忽略的脊柱腫瘤 / Commonly Missed
+## 臨床上容易被忽略的脊柱腫瘤 / Commonly Missed
 
 | 腫瘤 | 容易被忽略的原因 |
 |---|---|
@@ -9373,15 +9102,13 @@ weight: 4
 | **多發性骨髓瘤** | 可類似血管瘤 |
 | **脊索瘤** | 位置偏中線（骶尾部/斜坡）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **髓內**：星形細胞瘤（兒童）vs 室管膜瘤（成人）
 > - **硬膜內髓外**：神經鞘瘤（最常見）+腦膜瘤
 > - **硬膜外**：轉移最常見；肺癌和乳腺癌最常見原發
 > - **囊腫鑑別**：表皮囊腫的受限擴散是關鍵鑑別點
 > - 完整的脊柱腫瘤評估需要確定在三個間室中的位置
-
----
 
 # Neuroimaging - Page 336
 
@@ -9389,7 +9116,7 @@ weight: 4
 
 ## 頸部淋巴結分區 II / Cervical Lymph Node Levels II
 
-### AJCC頸部淋巴結分區回顧 / AJCC System Review
+## AJCC頸部淋巴結分區回顧 / AJCC System Review
 
 | 分區 | 位置 | 邊界標誌 |
 |---|---|---|
@@ -9403,7 +9130,7 @@ weight: 4
 | **VI** | 氣管前區 | 舌骨至胸骨柄上緣 |
 | **VII** | 上縱隔區 | 胸骨柄至頭臂靜脈 |
 
-### 淋巴結分區的解剖標誌 / Anatomic Landmarks
+## 淋巴結分區的解剖標誌 / Anatomic Landmarks
 
 | 標誌 | 相關分區 |
 |---|---|
@@ -9413,14 +9140,14 @@ weight: 4
 | **胸鎖乳突肌後緣** | IIB/III/IV後界 |
 | **前斜角肌後緣** | VB下界 |
 
-### 淋巴結大小標準 / Size Criteria
+## 淋巴結大小標準 / Size Criteria
 
 | 淋巴結 | 短軸直徑 |
 |---|---|
 | **大多數頸部LN** | >10-15mm |
 | **頸靜脈二腹肌LN** | >8mm |
 
-### 鱗狀細胞癌的淋巴結分期 / SCC Staging
+## 鱗狀細胞癌的淋巴結分期 / SCC Staging
 
 | N分期 | 標準 |
 |---|---|
@@ -9429,14 +9156,12 @@ weight: 4
 | **N1** | 單側單個<3cm |
 | **N2** | >3cm或多個 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **頸部淋巴結分區IA-VII**：對鱗狀細胞癌分期至關重要
 > - **鱗狀細胞癌**：90%的頭頸部惡性腫瘤
 > - **單個轉移淋巴結**：生存率降低50%
 > - 淋巴結狀況是頭頸部癌症最重要的預後因素
-
----
 
 # Neuroimaging - Page 337
 
@@ -9444,7 +9169,7 @@ weight: 4
 
 ## 脊柱腫瘤定位 / Spine Tumor Localization
 
-### 三個間室的鑑別診斷 / Three-Compartment Differential
+## 三個間室的鑑別診斷 / Three-Compartment Differential
 
 | 間室 | 位置 | 常見疾病 |
 |---|---|---|
@@ -9454,14 +9179,14 @@ weight: 4
 
 ---
 
-### 間室定位的步驟 / Steps for Localization
+## 間室定位的步驟 / Steps for Localization
 
 | 步驟 | 操作 |
 |---|---|
 | **第一步** | 確定腫瘤在哪個間室 |
 | **第二步** | 根據間室縮小鑑別診斷 |
 
-### 間室邊界 / Compartment Boundaries
+## 間室邊界 / Compartment Boundaries
 
 | 間室 | 邊界 |
 |---|---|
@@ -9471,7 +9196,7 @@ weight: 4
 
 ---
 
-### 硬膜外病變的常見病因 / Common Extradural Causes
+## 硬膜外病變的常見病因 / Common Extradural Causes
 
 | 病因 | 說明 |
 |---|---|
@@ -9480,7 +9205,7 @@ weight: 4
 | **感染/膿腫** | 硬膜外膿腫 |
 | **血管瘤** | 椎體血管瘤（T2高信號）|
 
-### 脊柱腫瘤影像評估要點 / Imaging Checklist
+## 脊柱腫瘤影像評估要點 / Imaging Checklist
 
 | 評估內容 | 意義 |
 |---|---|
@@ -9489,14 +9214,12 @@ weight: 4
 | **骨質破壞** | 侵襲性 vs 良性 |
 | **強化模式** | 實性 vs 囊性 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **脊柱腫瘤定位**：首先確定在三個間室中的位置
 > - **髓內**（星形細胞瘤/室管膜瘤）— 硬膜內髓外（神經鞘瘤/腦膜瘤）— 硬膜外（轉移）
 > - 間室定位決定了鑑別診斷和活檢策略
 > - MRI是評估脊柱腫瘤的首選成像方式
-
----
 
 # Neuroimaging - Page 338
 
@@ -9504,7 +9227,7 @@ weight: 4
 
 ## 髓內腫瘤 / Intramedullary Tumors
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 統計 | 數值 |
 |---|---|
@@ -9513,7 +9236,7 @@ weight: 4
 
 ---
 
-### 星形細胞瘤 / Astrocytoma
+## 星形細胞瘤 / Astrocytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9525,7 +9248,7 @@ weight: 4
 | **強化** | 幾乎總是強化 |
 | **出血** | 罕見 |
 
-### 室管膜瘤 / Ependymoma
+## 室管膜瘤 / Ependymoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9536,7 +9259,7 @@ weight: 4
 | **T2所見** | 周邊含鐵血黃素（暗邊）|
 | **囊性改變** | 腫瘤囊腫和極性囊腫常見 |
 
-### 星形細胞瘤 vs 室管膜瘤 / Key Differences
+## 星形細胞瘤 vs 室管膜瘤 / Key Differences
 
 | 特徵 | 星形細胞瘤 | 室管膜瘤 |
 |---|---|---|
@@ -9547,7 +9270,7 @@ weight: 4
 
 ---
 
-### 血管母細胞瘤 / Hemangioblastoma
+## 血管母細胞瘤 / Hemangioblastoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9556,21 +9279,19 @@ weight: 4
 | **MRI特點** | 顯著強化＋囊腫＋流空 |
 | **15%** | 同時有髓內和硬膜內髓外成分 |
 
-### 脫髓鞘病變 / Demyelinating Lesion
+## 脫髓鞘病變 / Demyelinating Lesion
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | 活動性MS斑塊可強化並類似腫瘤 |
 | **與腫瘤鑑別** | **無脊髓擴張** |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **星形細胞瘤**：兒童最常見；低級別；出血罕見
 > - **室管膜瘤**：成人最常見；出血常見；與NF2相關
 > - **血管母細胞瘤**：VHL相關；三聯徵（囊腫、強化、流空）
 > - MRI上出血支持室管膜瘤而非星形細胞瘤
-
----
 
 # Neuroimaging - Page 339
 
@@ -9580,7 +9301,7 @@ weight: 4
 
 ---
 
-### 室管膜瘤的MRI特徵 / Ependymoma MRI Features
+## 室管膜瘤的MRI特徵 / Ependymoma MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -9590,7 +9311,7 @@ weight: 4
 | **囊性改變** | 腫瘤囊腫和極性囊腫常見 |
 | **經典型發現** | 椎體扇形邊緣（晚期；今少見）|
 
-### 血管母細胞瘤的MRI特徵 / Hemangioblastoma MRI Features
+## 血管母細胞瘤的MRI特徵 / Hemangioblastoma MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -9602,7 +9323,7 @@ weight: 4
 
 ---
 
-### 脫髓鞘病變 / Demyelinating Lesion
+## 脫髓鞘病變 / Demyelinating Lesion
 
 | 特徵 | 說明 |
 |---|---|
@@ -9610,7 +9331,7 @@ weight: 4
 | **模擬腫瘤** | 可能類似髓內腫瘤 |
 | **關鍵鑑別** | **無明顯脊髓擴張** |
 
-### MS斑塊 vs 髓內腫瘤 / MS Plaque vs Tumor
+## MS斑塊 vs 髓內腫瘤 / MS Plaque vs Tumor
 
 | 特徵 | MS斑塊 | 髓內腫瘤 |
 |---|---|---|
@@ -9621,28 +9342,26 @@ weight: 4
 
 ---
 
-### 硬膜內髓外腫瘤概覽 / Intradural Extramedullary Overview
+## 硬膜內髓外腫瘤概覽 / Intradural Extramedullary Overview
 
 | 腫瘤 | 佔比 |
 |---|---|
 | **神經鞘瘤+腦膜瘤** | 約90% |
 | **其他** | 皮樣囊腫、表皮囊腫、室管膜瘤 |
 
-### 硬膜內髓外腫瘤的MRI特徵 / Imaging Features
+## 硬膜內髓外腫瘤的MRI特徵 / Imaging Features
 
 | 特徵 | 說明 |
 |---|---|
 | **典型所見** | 脊髓和腫瘤之間的CSF裂隙 |
 | **位置** | 蛛網膜下腔 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **室管膜瘤**：出血（周邊含鐵血黃素）是與星形細胞瘤鑑別的關鍵
 > - **血管母細胞瘤**：VHL相關；三聯徵（囊腫、強化、流空）
 > - **MS斑塊**：無脊髓擴張（與腫瘤的關鍵鑑別）
 > - **硬膜內髓外腫瘤**：神經鞘瘤和腦膜瘤佔90%
-
----
 
 # Neuroimaging - Page 340
 
@@ -9652,7 +9371,7 @@ weight: 4
 
 ---
 
-### 神經鞘瘤 vs 神經纖維瘤 / Schwannoma vs Neurofibroma
+## 神經鞘瘤 vs 神經纖維瘤 / Schwannoma vs Neurofibroma
 
 | 特徵 | 神經鞘瘤 | 神經纖維瘤 |
 |---|---|---|
@@ -9662,7 +9381,7 @@ weight: 4
 | **包膜** | **有**（可剝出）| 無 |
 | **神經累及** | 偏心（可保留神經）| 環形（需切除神經）|
 
-### 神經鞘瘤的MRI特徵 / Schwannoma MRI
+## 神經鞘瘤的MRI特徵 / Schwannoma MRI
 
 | 特徵 | 說明 |
 |---|---|
@@ -9671,7 +9390,7 @@ weight: 4
 | **T2** | 高信號 |
 | **強化** | 均勻強化 |
 
-### 靶徵 / Target Sign
+## 靶徵 / Target Sign
 
 | 特徵 | 說明 |
 |---|---|
@@ -9680,7 +9399,7 @@ weight: 4
 
 ---
 
-### 腦膜瘤 / Meningioma
+## 腦膜瘤 / Meningioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9693,7 +9412,7 @@ weight: 4
 
 ---
 
-### 表皮囊腫 / Epidermoid
+## 表皮囊腫 / Epidermoid
 
 | 特徵 | 說明 |
 |---|---|
@@ -9705,7 +9424,7 @@ weight: 4
 
 ---
 
-### 皮樣囊腫 / Dermoid
+## 皮樣囊腫 / Dermoid
 
 | 特徵 | 說明 |
 |---|---|
@@ -9714,15 +9433,13 @@ weight: 4
 | **T1** | **高信號**（脂肪）|
 | **並發症** | 破裂→化學性腦膜炎 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **神經鞘瘤**：啞鈴形；椎間孔擴大；可手術剝出
 > - **神經纖維瘤**：NF1相關；需切除神經
 > - **腦膜瘤**：老年女性；胸椎後方；鈣化常見
 > - **表皮囊腫**：受限擴散（與arachnoid囊腫的關鍵鑑別）
 > - **皮樣囊腫**：T1高信號（脂肪）
-
----
 
 # Neuroimaging - Page 341
 
@@ -9732,7 +9449,7 @@ weight: 4
 
 ---
 
-### 粘液乳頭狀室管膜瘤 / Myxopapillary Ependymoma
+## 粘液乳頭狀室管膜瘤 / Myxopapillary Ependymoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9741,7 +9458,7 @@ weight: 4
 | **起源** | 終絲室管膜細胞 |
 | **生長特點** | 慢速生長；經典導致椎體扇形邊緣和椎管擴大 |
 
-### 粘液乳頭狀室管膜瘤的MRI / MRI Features
+## 粘液乳頭狀室管膜瘤的MRI / MRI Features
 
 | 特徵 | 說明 |
 |---|---|
@@ -9753,7 +9470,7 @@ weight: 4
 
 ---
 
-### 蛛網膜炎 / Arachnoiditis
+## 蛛網膜炎 / Arachnoiditis
 
 | 特徵 | 說明 |
 |---|---|
@@ -9762,7 +9479,7 @@ weight: 4
 | **現今病因** | 腰椎手術（更常見）|
 | **臨床** | 腰椎手術後持續背痛的原因 |
 
-### 蛛網膜炎的MRI分型 / Three Patterns
+## 蛛網膜炎的MRI分型 / Three Patterns
 
 | 分型 | 表現 |
 |---|---|
@@ -9770,21 +9487,19 @@ weight: 4
 | **Group 2** | 神經根周邊團塊（空硬膜囊徵）|
 | **Group 3** | 硬膜囊內軟組織填塞（最嚴重）|
 
-### Group 2的「空硬膜囊徵」/ Empty Thecal Sac Sign
+## Group 2的「空硬膜囊徵」/ Empty Thecal Sac Sign
 
 | 特徵 | 說明 |
 |---|---|
 | **本質** | Group 2蛛網膜炎的神經根被推向周邊 |
 | **MRI所見** | 硬膜囊中心空虛（無神經根）|
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **粘液乳頭狀室管膜瘤**：圓錐/終絲最常見腫瘤；慢速生長；可腦膜種植
 > - **蛛網膜炎**：腰椎手術後背痛的重要原因
 > - **Group 2**蛛網膜炎的「空硬膜囊徵」是特徵性MRI所見
 > - 蛛網膜炎三型分組有助於臨床管理
-
----
 
 # Neuroimaging - Page 342
 
@@ -9792,7 +9507,7 @@ weight: 4
 
 ## 硬膜外病變 / Extradural Lesions
 
-### 硬膜外病變概述 / Overview
+## 硬膜外病變概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -9802,7 +9517,7 @@ weight: 4
 
 ---
 
-### 椎間盤退行性疾病 / Degenerative Disease
+## 椎間盤退行性疾病 / Degenerative Disease
 
 | 特徵 | 說明 |
 |---|---|
@@ -9811,14 +9526,14 @@ weight: 4
 
 ---
 
-### 椎體/硬膜外轉移 / Vertebral Body/Epidural Metastasis
+## 椎體/硬膜外轉移 / Vertebral Body/Epidural Metastasis
 
 | 特徵 | 說明 |
 |---|---|
 | **發病率** | 成人最常見的硬膜外惡性腫瘤 |
 | **最常見原發** | 乳腺癌、肺癌、前列腺癌 |
 
-### 椎體轉移的MRI / MRI of Metastasis
+## 椎體轉移的MRI / MRI of Metastasis
 
 | 信號 | 意義 |
 |---|---|
@@ -9828,7 +9543,7 @@ weight: 4
 
 ---
 
-### 椎間盤炎/骨髓炎 / Discitis/Osteomyelitis
+## 椎間盤炎/骨髓炎 / Discitis/Osteomyelitis
 
 | 特徵 | 說明 |
 |---|---|
@@ -9837,7 +9552,7 @@ weight: 4
 
 ---
 
-### 血管瘤 / Hemangioma
+## 血管瘤 / Hemangioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9846,7 +9561,7 @@ weight: 4
 | **MRI T1/T2** | **兩者均高信號**（特徵性）|
 | **CT所見** | 條紋狀「燈芯絨」外觀；軸位像「點狀」 |
 
-### 侵襲性血管瘤 / Aggressive Hemangioma
+## 侵襲性血管瘤 / Aggressive Hemangioma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9854,14 +9569,12 @@ weight: 4
 | **並發症** | 可有硬膜外軟組織導致脊髓壓迫 |
 | **好發人群** | 女性多見 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **硬膜外轉移**：成人最常見硬膜外惡性腫瘤；乳腺癌、肺癌、前列腺癌最常見
 > - **血管瘤**：T1和T2**兩者均高信號**是特徵
 > - **椎間盤炎/骨髓炎**：感染性硬膜外病變的重要鑑別
 > - 硬膜外病變的MRI評估需常規包括T1序列
-
----
 
 # Neuroimaging - Page 343
 
@@ -9871,7 +9584,7 @@ weight: 4
 
 ---
 
-### 中老年人的原發性椎骨腫瘤 / Middle-Aged/Older Adults
+## 中老年人的原發性椎骨腫瘤 / Middle-Aged/Older Adults
 
 | 腫瘤 | 特點 |
 |---|---|
@@ -9879,7 +9592,7 @@ weight: 4
 | **漿細胞瘤** | 溶骨性膨脹性病變；多發性骨髓瘤前驅 |
 | **軟骨肉瘤** | 低度惡性；T2高信號；軟骨基質 |
 
-### 青少年和年輕成人的原發性椎骨腫瘤 / Adolescents/Young Adults
+## 青少年和年輕成人的原發性椎骨腫瘤 / Adolescents/Young Adults
 
 | 腫瘤 | 特點 |
 |---|---|
@@ -9890,7 +9603,7 @@ weight: 4
 
 ---
 
-### 脊索瘤 / Chordoma
+## 脊索瘤 / Chordoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9902,7 +9615,7 @@ weight: 4
 
 ---
 
-### 漿細胞瘤 / Plasmacytoma
+## 漿細胞瘤 / Plasmacytoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9913,7 +9626,7 @@ weight: 4
 
 ---
 
-### 軟骨肉瘤 / Chondrosarcoma
+## 軟骨肉瘤 / Chondrosarcoma
 
 | 特徵 | 說明 |
 |---|---|
@@ -9923,7 +9636,7 @@ weight: 4
 
 ---
 
-### 硬膜外脂肪瘤病 / Epidural Lipomatosis
+## 硬膜外脂肪瘤病 / Epidural Lipomatosis
 
 | 特徵 | 說明 |
 |---|---|
@@ -9931,7 +9644,7 @@ weight: 4
 | **並發症** | 可壓迫神經結構；嚴重可致馬尾綜合徵 |
 | **病因** | 皮質類固醇（Cushing病/綜合徵）、肥胖 |
 
-### 硬膜外脂肪瘤病的病因 / Causes
+## 硬膜外脂肪瘤病的病因 / Causes
 
 | 病因 | 說明 |
 |---|---|
@@ -9939,14 +9652,12 @@ weight: 4
 | **Cushing病/綜合徵** | 內源性皮質醇過多 |
 | **病態肥胖** | 罕見原因 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **脊索瘤**：老年；骶尾部最常見；T2高信號
 > - **漿細胞瘤**：孤立性溶骨病變；為骨髓瘤前驅
 > - **ABC**：青少年；液-液平面是MRI特點
 > - **硬膜外脂肪瘤病**：類固醇使用或Cushing綜合徵的並發症
-
----
 
 # Neuroimaging - Page 344
 
@@ -9954,7 +9665,7 @@ weight: 4
 
 ## 椎間盤退行性疾病 / Degenerative Spine Disease
 
-### 椎間盤結構 / Disc Anatomy
+## 椎間盤結構 / Disc Anatomy
 
 | 結構 | 說明 |
 |---|---|
@@ -9963,7 +9674,7 @@ weight: 4
 
 ---
 
-### 椎間盤膨出/突出 / Disc Bulge vs Herniation
+## 椎間盤膨出/突出 / Disc Bulge vs Herniation
 
 | 類型 | 定義 |
 |---|---|
@@ -9971,7 +9682,7 @@ weight: 4
 | **突出** | <90°； neck > dome |
 | **突出（Extrusion）** | <90°； dome > neck（似囊狀动脉瘤）|
 
-### 椎間盤突出的分類 / Classification
+## 椎間盤突出的分類 / Classification
 
 | 類型 | 周徑 | 形態 |
 |---|---|---|
@@ -9981,14 +9692,14 @@ weight: 4
 
 ---
 
-### 椎間盤突出的影像 / Imaging
+## 椎間盤突出的影像 / Imaging
 
 | 技術 | 目的 |
 |---|---|
 | **MRI** | 評估椎間盤和神經結構 |
 | **T2** | 評估椎間盤含水量 |
 
-### 椎間盤突出的臨床意義 / Clinical Significance
+## 椎間盤突出的臨床意義 / Clinical Significance
 
 | 意義 | 說明 |
 |---|---|
@@ -9997,14 +9708,14 @@ weight: 4
 
 ---
 
-### 背痛概述 / Back Pain Overview
+## 背痛概述 / Back Pain Overview
 
 | 統計 | 說明 |
 |---|---|
 | **就診原因** | 美國第二大就診原因 |
 | **最常見原因** | 創傷或年齡相關退行性改變 |
 
-### 椎間盤退行性疾病的術語 / Terminology
+## 椎間盤退行性疾病的術語 / Terminology
 
 | 術語 | 說明 |
 |---|---|
@@ -10013,14 +9724,12 @@ weight: 4
 | **突出（Extrusion）** | 局竈性<90°；dome > neck |
 | **Schmorl結節** | 椎間盤物質突入椎體 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **椎間盤結構**：髓核（中央）+纖維環（外周）
 > - **突出 vs 突出**：取決於neck和dome的相對大小
 > - **>180°**=廣基膨出；**<90°**=突出/突出
 > - 椎間盤突出可導致神經根壓迫和椎管狹窄
-
----
 
 # Neuroimaging - Page 345
 
@@ -10028,14 +9737,14 @@ weight: 4
 
 ## 椎間盤突出的位置和神經根受累 / Herniation Location & Nerve Root Impingement
 
-### 神經根出口的解剖 / Nerve Root Exit Anatomy
+## 神經根出口的解剖 / Nerve Root Exit Anatomy
 
 | 區域 | 說明 |
 |---|---|
 | **胸/腰椎** | 每條神經根在相應椎體**下方**出椎間孔 |
 | **頸椎** | 每條神經根在相應椎體**上方**出椎間孔 |
 
-### 頸椎神經根出口 / Cervical Root Exit Example
+## 頸椎神經根出口 / Cervical Root Exit Example
 
 | 水平 | 神經根 | 出口位置 |
 |---|---|---|
@@ -10044,7 +9753,7 @@ weight: 4
 
 ---
 
-### 椎間盤突出的位置分類 / Four Positions
+## 椎間盤突出的位置分類 / Four Positions
 
 | 位置 | 說明 |
 |---|---|
@@ -10055,14 +9764,14 @@ weight: 4
 
 ---
 
-### 突出位置與受累神經根的關係 / Root Impingement by Location
+## 突出位置與受累神經根的關係 / Root Impingement by Location
 
 | 突出位置 | 受累神經根 |
 |---|---|
 | **中央/旁中央** | **下降神經根**（相應椎間盤水平下方）|
 | **椎間孔/遠外側** | **出口神經根**（相應椎間盤水平）|
 
-### L4-L5突出實例 / Example: L4-L5 Herniation
+## L4-L5突出實例 / Example: L4-L5 Herniation
 
 | 突出位置 | 受累神經根 |
 |---|---|
@@ -10071,7 +9780,7 @@ weight: 4
 
 ---
 
-### MRI軸位圖的定位 / Axial Localization
+## MRI軸位圖的定位 / Axial Localization
 
 | 位置 | 與關節面的關係 |
 |---|---|
@@ -10080,28 +9789,26 @@ weight: 4
 | **椎間孔** | 椎間孔內 |
 | **遠外側** | 椎間孔外 |
 
-### 椎間盤突出的治療 / Treatment
+## 椎間盤突出的治療 / Treatment
 
 | 方法 | 適應症 |
 |---|---|
 | **保守治療** | 多數患者 |
 | **手術** | 保守無效的神經根性症狀 |
 
-### 臨床要點 / Clinical Key Points
 
+> **臨床要點**
 > - **頸椎**：神經根在椎體**上方**出口（如C7在C6-C7上方）
 > - **胸/腰椎**：神經根在椎體**下方**出口（如L4在L4-L5下方）
 > - **中央/旁中央突出**：影響**下降神經根**
 > - **椎間孔/遠外側突出**：影響**出口神經根**
 > - 理解神經根出口解剖對定位症狀水平至關重要
 
----
-
 # 腦部正常解剖學與 MRI / Normal Brain Anatomy and MRI
 
 ## 腦部正常解剖 / Normal Brain Anatomy
 
-### 斷層掃描解剖 / Cross-Sectional Anatomy on CT
+## 斷層掃描解剖 / Cross-Sectional Anatomy on CT
 
 | 結構 Structure | 位置 Position | 說明 Description |
 |---|---|---|
@@ -10117,7 +9824,7 @@ weight: 4
 | **橋腦 Pons / 延髓 Medulla oblongata** | 第四腦室前方 | |
 | **小腦幕 Tentorium cerebelli** | 分隔後顱窩與幕上區 | |
 
-### 腦室系統 / Ventricular System
+## 腦室系統 / Ventricular System
 
 | 結構 Structure | 說明 Description |
 |---|---|
@@ -10127,7 +9834,7 @@ weight: 4
 | **透明隔 Septum pellucidum** | 分隔兩側額角 |
 | **胼胝體 Corpus callosum** | 連接左右大腦半球；嘴部（genu）在前，壓部（splenium）在後 |
 
-### 基底節與周圍結構 / Basal Ganglia and Surrounding Structures
+## 基底節與周圍結構 / Basal Ganglia and Surrounding Structures
 
 | 結構 Structure | 說明 Description |
 |---|---|
@@ -10137,7 +9844,7 @@ weight: 4
 | **丘腦 Thalamus** | 位於基底節後方 |
 | **內囊 Internal capsule** | 介於基底節與丘腦之間 |
 
-### 大腦皮質與白質 / Cortex and White Matter
+## 大腦皮質與白質 / Cortex and White Matter
 
 - **皮質 Cortex**：由灰質組成，含有神經元細胞體，呈現溝（sulci）和迴（gyri）結構
 - **白質 White matter（髓質）**：位於皮質下方，含髓鞘軸突束
@@ -10147,7 +9854,7 @@ weight: 4
 
 ## CT 密度 / CT Densities
 
-### 基本原則 / Basic Principle
+## 基本原則 / Basic Principle
 
 > **非增強 CT 掃描中，白色（高密度）通常代表骨頭（鈣質）或血液；無金屬異物情況下**
 
@@ -10157,7 +9864,7 @@ weight: 4
 | **等密度（Isodense）** | 正常腦組織、某些亞急性硬膜下血腫、蛋白質含量高的病變 |
 | **低密度（Hypodense / Dark）** | 脂肪（非常見於頭部）、空氣、水（如 CSF）、慢性硬膜下血腫/水囊瘤 |
 
-### 生理性鈣化 / Physiologic Calcifications
+## 生理性鈣化 / Physiologic Calcifications
 
 | 位置 Location | 說明 |
 |---|---|
@@ -10166,7 +9873,7 @@ weight: 4
 | **脈絡叢 Choroid plexus** | 側腦室內 |
 | **大腦鐮 / 小腦幕 Falx / Tentorium** | 硬膜鈣化 |
 
-### 靜脈注射對比劑後可增強的正常結構 / Normal Structures That Enhance with Contrast
+## 靜脈注射對比劑後可增強的正常結構 / Normal Structures That Enhance with Contrast
 
 - 靜脈竇（Venous sinuses）
 - 脈絡叢（ Choroid plexus）
@@ -10176,7 +9883,7 @@ weight: 4
 
 ## MRI 與腦部 / MRI and the Brain
 
-### MRI 優勢 / MRI Advantages
+## MRI 優勢 / MRI Advantages
 
 | 優勢 | 說明 |
 |---|---|
@@ -10185,7 +9892,7 @@ weight: 4
 | **脫髓鞘疾病** | 比 CT 更敏感 |
 | **早期中風檢測** | 擴散加权成像（DWI）可在發病後 20-30 分鐘檢出 |
 
-### MRI 劣勢 / MRI Limitations
+## MRI 劣勢 / MRI Limitations
 
 | 劣勢 | 說明 |
 |---|---|
@@ -10193,7 +9900,7 @@ weight: 4
 | **骨質評估** | 不如 CT 敏感 |
 | **植入金屬** | 心律調節器等可能禁忌 |
 
-### T1 與 T2 權重影像 / T1 and T2 Weighted Imaging
+## T1 與 T2 權重影像 / T1 and T2 Weighted Imaging
 
 | 特徵 | T1 權重 | T2 權重 |
 |---|---|---|
@@ -10202,7 +9909,7 @@ weight: 4
 | **白質** | 較白 | 灰階 |
 | **脂肪** | 亮（白）| 亮（白）|
 
-### MRI 信號特徵 / Signal Characteristics on MRI
+## MRI 信號特徵 / Signal Characteristics on MRI
 
 | 組織類型 | T1 明亮 | T1 暗 | T2 明亮 | T2 暗 |
 |---|---|---|---|---|
@@ -10219,7 +9926,7 @@ weight: 4
 | **晚期亞急性出血 Late subacute** | ✅ | | ✅ | |
 | **黑色素 Melanin** | ✅ | | ✅ | |
 
-### 評估原則 / Evaluation Approach
+## 評估原則 / Evaluation Approach
 
 1. **尋找佔位效應（Mass effect）**：觀察腦室、基底池、腦溝的位置及形態變化
 2. **尋找血液**：高密度（CT）/ 各時期 MRI 信號變化
@@ -10242,7 +9949,7 @@ weight: 4
 
 ## 顱骨骨折 / Skull Fractures
 
-### 骨折分類 / Classification of Skull Fractures
+## 骨折分類 / Classification of Skull Fractures
 
 | 類型 Type | 特徵 Features | 臨床意義 Clinical Significance |
 |---|---|---|
@@ -10250,21 +9957,21 @@ weight: 4
 | **凹陷骨折 Depressed fracture** | 碎片向內凹陷 | 可伴隨 underlying brain injury；可能需要手術抬起 |
 | **顱底骨折 Basilar skull fracture** | 線性骨折位於顱底 | 最嚴重；可能伴隨 CSF 漏（鼻漏、耳漏）|
 
-### 線性顱骨骨折 / Linear Skull Fractures
+## 線性顱骨骨折 / Linear Skull Fractures
 
 - 最常見的顱骨骨折類型
 - 主要重要性在於評估當時是否發生了顱內損傷（如硬膜外血腫）
 - 顱頂骨折最常發生於顳骨和頂骨
 - **診斷要點**：需使用骨窗（bone window）才能清楚顯示骨折線
 
-### 凹陷性顱骨骨折 / Depressed Skull Fractures
+## 凹陷性顱骨骨折 / Depressed Skull Fractures
 
 - 多為高能量撞擊，局限於小範圍（如鐵錘敲擊）
 - 最常見於額頂區，通常為粉碎性
 - 碎片深度超過相鄰骨頭內板時，可能需要手術治療
 - 可伴隨 underlying brain injury
 
-### 顱底骨折 / Basilar Skull Fractures
+## 顱底骨折 / Basilar Skull Fractures
 
 - **最嚴重**的顱骨骨折類型
 - 可伴隨硬膜撕裂，導致 CSF 漏
@@ -10277,7 +9984,7 @@ weight: 4
 
 ## 面部骨折 / Facial Fractures
 
-### 眼眶爆裂骨折 / Blow-out Fracture
+## 眼眶爆裂骨折 / Blow-out Fracture
 
 | 特徵 Feature | 說明 Description |
 |---|---|
@@ -10293,7 +10000,7 @@ weight: 4
 - 脂肪和/或眼外肌向下突出至上頜竇頂部的軟組織塊
 - 上頜竇內積液（血液）
 
-### 三腳骨折 / Tripod Fracture
+## 三腳骨折 / Tripod Fracture
 
 | 特徵 Feature | 說明 Description |
 |---|---|
@@ -10305,7 +10012,7 @@ weight: 4
 
 ## 顱內出血 / Intracranial Hemorrhage
 
-### 腦膜結構 / The Meninges
+## 腦膜結構 / The Meninges
 
 | 層次 Layer | 特性 Characteristics |
 |---|---|
@@ -10313,7 +10020,7 @@ weight: 4
 | **蜘蛛膜 Arachnoid** | 無血管的中層；與硬膜之間為潛在性硬膜下腔 |
 | **軟膜 Pia mater** | 緊贴腦與脊髓表面；含有供應的血管；與蜘蛛膜之間為蜘蛛膜下腔 |
 
-### 創傷相關顱內出血分類 / Types of Traumatic Intracranial Hemorrhage
+## 創傷相關顱內出血分類 / Types of Traumatic Intracranial Hemorrhage
 
 | 類型 Type | 位置 Location | 特徵 Features |
 |---|---|---|
@@ -10326,7 +10033,7 @@ weight: 4
 
 ## 硬膜外血腫 / Epidural Hematoma (Extradural Hematoma)
 
-### 病因與機制 / Etiology and Mechanism
+## 病因與機制 / Etiology and Mechanism
 
 | 要點 Key Point | 說明 |
 |---|---|
@@ -10336,7 +10043,7 @@ weight: 4
 | **顱骨骨折** | 約 95% 伴顱骨骨折（常為顳骨）|
 | **好發部位** | 顳頂區 |
 
-### 診斷要點 / Diagnostic Features
+## 診斷要點 / Diagnostic Features
 
 | 特徵 Feature | 說明 |
 |---|---|
@@ -10352,7 +10059,7 @@ weight: 4
 
 ## 硬膜下血腫 / Subdural Hematoma (SDH)
 
-### 病因與機制 / Etiology and Mechanism
+## 病因與機制 / Etiology and Mechanism
 
 | 要點 Key Point | 說明 |
 |---|---|
@@ -10362,7 +10069,7 @@ weight: 4
 | **出血來源** | 橋靜脈（bridging veins）— 從大腦皮質跨至靜脈竇 |
 | **位置** | 硬膜與蜘蛛膜之間 |
 
-### 急性硬膜下血腫 / Acute Subdural Hematoma
+## 急性硬膜下血腫 / Acute Subdural Hematoma
 
 > ⚠️ **急性硬膜下血腫常預示更嚴重的腦實質損傷、顱內壓升高，死亡率較高**
 
@@ -10374,7 +10081,7 @@ weight: 4
 | **跨中線** | **不行**（但可進入大腦縱裂）|
 | **形狀** | 弧形帶狀血液 |
 
-### 亞急性 / 等密度硬膜下血腫 / Subacute / Isodense SDH
+## 亞急性 / 等密度硬膜下血腫 / Subacute / Isodense SDH
 
 | 特徵 Feature | 說明 |
 |---|---|
@@ -10382,7 +10089,7 @@ weight: 4
 | **診斷技巧** | 注意單側腦溝消失或偏移 |
 | **表現** | 患側腦溝不清或消失；與對側正常側比較 |
 
-### 慢性硬膜下血腫 / Chronic Subdural Hematoma
+## 慢性硬膜下血腫 / Chronic Subdural Hematoma
 
 | 特徵 Feature | 說明 |
 |---|---|
@@ -10394,7 +10101,7 @@ weight: 4
 
 ## 腦實質內出血 / Intracerebral Hematoma (Intracerebral Hemorrhage)
 
-### 病因 / Etiology
+## 病因 / Etiology
 
 創傷並非唯一原因：
 
@@ -10408,14 +10115,14 @@ weight: 4
 | **澱粉樣血管病** | |
 | **靜脈血栓形成** | |
 
-###  coup 與 contrecoup 損傷 / Coup and Contrecoup Injuries
+##  coup 與 contrecoup 損傷 / Coup and Contrecoup Injuries
 
 | 類型 | 機制 |
 |---|---|
 | **Coup injury（衝擊傷）** | 撞擊點本身的腦組織損傷 |
 | **Contrecoup injury（對側傷）** | 加速/減速損傷，腦組織被推向對側撞擊顱骨內面 |
 
-### 腦挫傷 / Cerebral Contusion
+## 腦挫傷 / Cerebral Contusion
 
 | 特徵 | 說明 |
 |---|---|
@@ -10425,7 +10132,7 @@ weight: 4
 | **腦室內出血** | 可出現 |
 | **佔位效應** | 常見；可能導致腦疝 |
 
-### 腦內出血的 CT 表現時間演變 / Evolution of Intracerebral Hemorrhage on CT
+## 腦內出血的 CT 表現時間演變 / Evolution of Intracerebral Hemorrhage on CT
 
 | 時間 | CT 表現 |
 |---|---|
@@ -10438,7 +10145,7 @@ weight: 4
 
 ## 腦疝 / Brain Herniation
 
-### 腦疝分類 / Types of Brain Herniation
+## 腦疝分類 / Types of Brain Herniation
 
 | 類型 Type | 特徵 Features |
 |---|---|
@@ -10446,7 +10153,7 @@ weight: 4
 | **經小腦幕疝 Transtentorial herniation（如鉤回疝 uncal herniation）** | 第二常見；顳葉內側（鉤回）經小腦幕切跡向下移位；壓迫同側顳角，導致對側顳角擴大 |
 | **扁桃體疝 Tonsillar herniation** | 後顱窩腦組織經枕骨大孔向下移位 |
 
-### 腦疝的後果 / Consequences of Herniation
+## 腦疝的後果 / Consequences of Herniation
 
 - 腦組織損傷
 - 顱神經及血管受壓（導致出血或缺血）
@@ -10457,7 +10164,7 @@ weight: 4
 
 ## 瀰漫性軸索損傷 / Diffuse Axonal Injury (DAI)
 
-### 病因與臨床 / Etiology and Clinical Features
+## 病因與臨床 / Etiology and Clinical Features
 
 | 要點 Key Point | 說明 |
 |---|---|
@@ -10468,7 +10175,7 @@ weight: 4
 | **好發部位** | **胼胝體**最常受累 |
 | **預後** | 頭部外傷中**預後最差** |
 
-### 影像學表現 / Imaging Features
+## 影像學表現 / Imaging Features
 
 | 影像類型 | 表現 Findings |
 |---|---|
@@ -10476,7 +10183,7 @@ weight: 4
 | **MRI** | **首選**檢查；T1、T2 可見亮點；Gradient echo 或 SWI 序列最敏感 |
 | **SWI（磁敏感加權成像）** | 點狀低信號（暗）病變 |
 
-### MRI 診斷要點 / MRI Diagnostic Points
+## MRI 診斷要點 / MRI Diagnostic Points
 
 | 要點 | 說明 |
 |---|---|
@@ -10505,7 +10212,7 @@ weight: 4
 
 ## 顱內壓升高 / Increased Intracranial Pressure (IICP)
 
-### 臨床表現 / Clinical Manifestations
+## 臨床表現 / Clinical Manifestations
 
 | 症狀 Sign | 說明 |
 |---|---|
@@ -10513,7 +10220,7 @@ weight: 4
 | **頭痛 Headache** | |
 | **複視 Diplopia** | |
 
-### 病因分類 / Etiology
+## 病因分類 / Etiology
 
 | 類別 Category | 說明 |
 |---|---|
@@ -10524,14 +10231,14 @@ weight: 4
 
 ## 腦水腫 / Cerebral Edema
 
-### 分類 / Classification
+## 分類 / Classification
 
 | 類型 Type | 機制 Mechanism | 特徵 Features |
 |---|---|---|
 | **血管源性水腫 Vasogenic edema** | 細胞外液積聚；血腦屏障通透性異常 | 主要影響**白質**；與腫瘤、感染相關 |
 | **細胞毒性水腫 Cytotoxic edema** | 細胞水腫（細胞死亡）；能量衰竭導致鈉鉀泵障礙 | 影響**灰質和白質**；與腦缺血相關 |
 
-### 血管源性水腫 / Vasogenic Edema
+## 血管源性水腫 / Vasogenic Edema
 
 | 特徵 | 說明 |
 |---|---|
@@ -10540,7 +10247,7 @@ weight: 4
 | **病因** | 惡性腫瘤、感染 |
 | **灰白質分界** | **保留**（gray-white differentiation maintained）|
 
-### 細胞毒性水腫 / Cytotoxic Edema
+## 細胞毒性水腫 / Cytotoxic Edema
 
 | 特徵 | 說明 |
 |---|---|
@@ -10549,7 +10256,7 @@ weight: 4
 | **病因** | 腦缺血（cerebral ischemia）|
 | **灰白質分界** | **喪失**（loss of gray-white differentiation）|
 
-### 腦水腫的 CT 表現 / CT Findings of Cerebral Edema
+## 腦水腫的 CT 表現 / CT Findings of Cerebral Edema
 
 | 表現 | 說明 |
 |---|---|
@@ -10562,7 +10269,7 @@ weight: 4
 
 ## 腦中風 / Stroke
 
-### 定義與分類 / Definition and Classification
+## 定義與分類 / Definition and Classification
 
 | 術語 Term | 定義 Definition |
 |---|---|
@@ -10570,14 +10277,14 @@ weight: 4
 | **缺血性中風 Ischemic stroke** | 腦血流阻斷（占大多數 ~85%）|
 | **出血性中風 Hemorrhagic stroke** | 顱內出血（占約 15%）|
 
-### 發病機制 / Pathogenesis
+## 發病機制 / Pathogenesis
 
 | 機制 | 說明 |
 |---|---|
 | **栓塞性 Embolic** | 最常見；栓子來源於顱內/顱外頸动脉或心臟 |
 | **血栓性 Thrombotic** | 原地閉塞；常與粥樣硬化相關；大腦中动脉血栓形成常見 |
 
-### 診斷目的 / Goals of Stroke Imaging
+## 診斷目的 / Goals of Stroke Imaging
 
 | 目的 | 說明 |
 |---|---|
@@ -10585,7 +10292,7 @@ weight: 4
 | **確認是否有出血** | 區分缺血性與出血性中風，決定治療方式 |
 | **確認並特徵化腦梗塞** | |
 
-### 影像檢查選擇 / Imaging Choices
+## 影像檢查選擇 / Imaging Choices
 
 | 檢查 | 角色 |
 |---|---|
@@ -10598,7 +10305,7 @@ weight: 4
 
 ## 缺血性腦中風 / Ischemic Stroke
 
-### 血管分布區域 / Vascular Distribution Territories
+## 血管分布區域 / Vascular Distribution Territories
 
 | 循環 Circulation | 供應區域 Anatomy Affected | 臨床症狀 Signs and Symptoms |
 |---|---|---|
@@ -10607,7 +10314,7 @@ weight: 4
 | **後循環（PCA）** | 中腦、視丘底部、基底核；顳葉內側、枕葉；顳枕皮質 | 視覺障礙（對側同向偏盲、皮層盲、視覺失認）；記憶障礙 |
 | **椎基底循環** | 延髓、小腦、橋腦、中腦、視丘、枕葉皮質 | 大血管閉塞常導致嚴重傷殘或死亡；小病變預後較好；典型表現為交叉症狀（ipsilateral 顱神經 + contralateral 運動障礙）|
 
-### Watershed（分水嶺）梗塞 / Watershed Infarcts
+## Watershed（分水嶺）梗塞 / Watershed Infarcts
 
 | 特徵 | 說明 |
 |---|---|
@@ -10616,7 +10323,7 @@ weight: 4
 | **病因** | 低血壓（hypoperfusion）|
 | **特點** | 對血流減少最敏感的區域 |
 
-### 缺血性腦中風的 CT 表現時間演變 / CT Evolution of Ischemic Stroke
+## 缺血性腦中風的 CT 表現時間演變 / CT Evolution of Ischemic Stroke
 
 | 時間 | CT 表現 |
 |---|---|
@@ -10626,7 +10333,7 @@ weight: 4
 | **72 小時** | 對比增強典型出現（佔位效應消退時）|
 | **> 4 週** | 無佔位效應；低密度邊界清晰；無對比增強 |
 
-### 腔隙性梗塞 / Lacunar Infarcts
+## 腔隙性梗塞 / Lacunar Infarcts
 
 | 特徵 | 說明 |
 |---|---|
@@ -10640,7 +10347,7 @@ weight: 4
 
 ## 出血性腦中風 / Hemorrhagic Stroke
 
-### 概述 / Overview
+## 概述 / Overview
 
 | 特徵 | 說明 |
 |---|---|
@@ -10649,7 +10356,7 @@ weight: 4
 | **出血部位** | 腦實質內或蜘蛛膜下腔 |
 | **主要病因** | 高血壓（60% 的高血壓性出血位於基底節）|
 
-### 出血性腦中風的好發部位 / Predilection Sites
+## 出血性腦中風的好發部位 / Predilection Sites
 
 | 部位 | 說明 |
 |---|---|
@@ -10658,7 +10365,7 @@ weight: 4
 | **橋腦** | |
 | **小腦** | |
 
-### 顱內出血的 CT 表現 / CT Findings of Intracerebral Hemorrhage
+## 顱內出血的 CT 表現 / CT Findings of Intracerebral Hemorrhage
 
 | 時間 | CT 表現 |
 |---|---|
@@ -10668,7 +10375,7 @@ weight: 4
 | **數週** | 血塊消失 |
 | **約 2 個月後** | 可能僅剩小範圍低密度 |
 
-### 顱內出血在 MRI 上的信號演變 / MRI Signal Evolution of Hemorrhage
+## 顱內出血在 MRI 上的信號演變 / MRI Signal Evolution of Hemorrhage
 
 | 階段 Phase | 時間 Time | T1 | T2 |
 |---|---|---|---|
@@ -10698,7 +10405,7 @@ weight: 4
 
 ## 破裂性腦動脈瘤 / Ruptured Cerebral Aneurysms
 
-### 病因與分類 / Etiology and Classification
+## 病因與分類 / Etiology and Classification
 
 | 特徵 | 說明 |
 |---|---|
@@ -10709,7 +10416,7 @@ weight: 4
 | **增長因素** | 高血壓、年齡增長 |
 | **破裂風險** | 較大的動脈瘤破裂風險較高；研究顯示 10 mm 為臨界破裂大小 |
 
-### 臨床表現 / Clinical Presentation
+## 臨床表現 / Clinical Presentation
 
 | 特徵 | 說明 |
 |---|---|
@@ -10717,7 +10424,7 @@ weight: 4
 | **破裂後出血** | 進入蜘蛛膜下腔 |
 | **非創傷性蜘蛛膜下腔出血的最常見原因** | 佔 80% |
 
-### 其他蜘蛛膜下腔出血原因 / Other Causes of SAH
+## 其他蜘蛛膜下腔出血原因 / Other Causes of SAH
 
 | 病因 | 說明 |
 |---|---|
@@ -10725,7 +10432,7 @@ weight: 4
 | **腦內出血突破** | |
 | **澱粉樣血管病（Amyloid angiopathy）** | |
 
-### 影像學檢查 / Imaging
+## 影像學檢查 / Imaging
 
 | 檢查 | 角色 |
 |---|---|
@@ -10733,7 +10440,7 @@ weight: 4
 | **MRI 血管造影（MRA）** | 可無創、time-of-flight（TOF）技術無需對比劑 |
 | **3D 重建** | CTA 後處理可生成 3D 影像 |
 
-### 蜘蛛膜下腔出血的 CT 表現 / CT Findings of SAH
+## 蜘蛛膜下腔出血的 CT 表現 / CT Findings of SAH
 
 | 表現 | 說明 |
 |---|---|
@@ -10742,7 +10449,7 @@ weight: 4
 | **大腦鐮** | 可呈高密度、增寬、邊緣不規則 |
 | **最大出血區域** | 通常指示破裂點位置 |
 
-### 澱粉樣血管病 / Cerebral Amyloid Angiopathy
+## 澱粉樣血管病 / Cerebral Amyloid Angiopathy
 
 | 特徵 | 說明 |
 |---|---|
@@ -10756,11 +10463,11 @@ weight: 4
 
 ## 水腦症 / Hydrocephalus
 
-### 定義 / Definition
+## 定義 / Definition
 
 > **水腦症**：腦室系統因 CSF 容量增加而擴張
 
-### CSF 循環 / CSF Circulation
+## CSF 循環 / CSF Circulation
 
 | 步驟 | 說明 |
 |---|---|
@@ -10769,7 +10476,7 @@ weight: 4
 | **路徑一** | CSF 向上流經大腦凸面，在蜘蛛膜顆粒處吸收入血 |
 | **路徑二** | CSF 向下流經脊髓蜘蛛膜下腔，被吸收或返回大腦 |
 
-### 病因分類 / Etiology
+## 病因分類 / Etiology
 
 | 病因 | 說明 |
 |---|---|
@@ -10777,7 +10484,7 @@ weight: 4
 | **CSF 流出受阻（非交通性/阻塞性）** | 腫瘤、囊腫或其他阻塞性病變 |
 | **CSF 過度產生（少見）** | 脈絡叢乳頭狀瘤 |
 
-### 水腦症 vs 腦萎縮 / Hydrocephalus vs. Cerebral Atrophy
+## 水腦症 vs 腦萎縮 / Hydrocephalus vs. Cerebral Atrophy
 
 | 特徵 | 水腦症 | 腦萎縮 |
 |---|---|---|
@@ -10822,7 +10529,7 @@ weight: 4
 | **治療** | 腦室-腹腔分流術（VP shunt）— CSF 引流至腹腔被吸收 |
 | **特徵** | CSF 壓力正常 |
 
-### NPH 的 CT/MRI 表現 / Imaging Findings
+## NPH 的 CT/MRI 表現 / Imaging Findings
 
 | 表現 | 說明 |
 |---|---|
@@ -10848,7 +10555,7 @@ weight: 4
 
 ## 腦腫瘤 / Brain Tumors
 
-### 膠質瘤 / Gliomas
+## 膠質瘤 / Gliomas
 
 | 特徵 | 說明 |
 |---|---|
@@ -10858,7 +10565,7 @@ weight: 4
 | **好發部位** | 額葉、顳葉 |
 | **預後** | 膠質母細胞瘤最差 |
 
-### 多形性膠質母細胞瘤 / Glioblastoma Multiforme (GBM)
+## 多形性膠質母細胞瘤 / Glioblastoma Multiforme (GBM)
 
 | 特徵 | 說明 |
 |---|---|
@@ -10895,7 +10602,7 @@ weight: 4
 | **生長特性** | 慢速生長；手術切除後預後佳 |
 | **多發性** | 可能與神經纖維瘤病第二型（NF2）相關 |
 
-### 腦膜瘤的 CT 表現 / CT Features of Meningioma
+## 腦膜瘤的 CT 表現 / CT Features of Meningioma
 
 | 表現 | 說明 |
 |---|---|
@@ -10915,7 +10622,7 @@ weight: 4
 | **發生部位** | 第八顱神經（聽神經）行程；小腦橋角（CPA）|
 | **與 NF2 關係** | 雙側時高度提示 NF2 |
 
-### 影像學表現 / Imaging
+## 影像學表現 / Imaging
 
 | 檢查 | 表現 |
 |---|---|
@@ -10958,66 +10665,66 @@ weight: 4
 
 ## 學習要點 / Take Home Points
 
-### 正常解剖與影像 / Normal Anatomy and Imaging
+## 正常解剖與影像 / Normal Anatomy and Imaging
 
 > 🧠 **MRI 為檢測顱內及脊髓病變的首選**：軟組織對比解析度優於 CT
 > 🧠 **非增強 CT 為急性頭部外傷首選**：主要目標是及時發現威脅生命的顱內病變
 > 🧠 **CT 評估創傷時首要尋找**：佔位效應和出血
 
-### 顱骨骨折 / Skull Fractures
+## 顱骨骨折 / Skull Fractures
 
 > 🧠 **線性骨折**：主要重要性在於評估是否伴隨顱內損傷
 > 🧠 **凹陷性骨折**：可伴隨 underlying brain injury；可能需要手術抬起
 > 🧠 **顱底骨折**：最嚴重；可伴隨 CSF 漏（鼻漏、耳漏）、氣腦
 > 🧠 **眼眶爆裂骨折**：眼眶氣腫 + 眼眶下壁或內壁骨折 + 眼外肌嵌頓
 
-### 顱內出血 / Intracranial Hemorrhage
+## 顱內出血 / Intracranial Hemorrhage
 
 > 🧠 **創傷相關四種顱內出血**：硬膜外血腫、硬膜下血腫、腦實質內出血、蜘蛛膜下腔出血
 > 🧠 **硬膜外血腫**：95% 伴顱骨骨折；雙凸形（lenticular）；不跨顱縫
 > 🧠 **硬膜下血腫**：新月形；可跨顱縫；急性 SDH 預示更嚴重腦損傷
 > 🧠 **創傷性腦內血腫**：額葉、顳葉常見；可導致顱內壓升高及腦疝
 
-### 腦疝 / Brain Herniation
+## 腦疝 / Brain Herniation
 
 > 🧠 **主要類型**：大腦鐮下疝（小葉最常見）、經小腦幕疝（鉤回疝）、扁桃體疝
 
-### 瀰漫性軸索損傷 / Diffuse Axonal Injury
+## 瀰漫性軸索損傷 / Diffuse Axonal Injury
 
 > 🧠 **MRI（尤其是 SWI）為首選檢查**：CT 可能正常或低估
 > 🧠 **胼胝體最常受累**：預後最差的頭部外傷
 
-### 顱內壓升高與腦水腫 / Increased ICP and Cerebral Edema
+## 顱內壓升高與腦水腫 / Increased ICP and Cerebral Edema
 
 > 🧠 **顱內壓升高兩大原因**：腦水腫（腦體積增加）或水腦症（腦室擴大）
 > 🧠 **血管源性水腫**：細胞外液積聚；主要影響白質；與腫瘤/感染相關
 > 🧠 **細胞毒性水腫**：細胞水腫（細胞死亡）；影響灰質和白質；與腦缺血相關
 
-### 腦中風 / Stroke
+## 腦中風 / Stroke
 
 > 🧠 **MRI DWI 可在發病後 20-30 分鐘檢出**：比 CT 更敏感
 > 🧠 **大多數中風為缺血性（~85%）**：預後優於出血性
 > 🧠 **高血壓性腦出血**：60% 位於基底節；也常見於視丘、橋腦、小腦
 > 🧠 **rt-PA 治療窗口**：症狀發作後 4 小時內；機械取栓術可達 24 小時
 
-### 破裂性腦動脈瘤 / Ruptured Aneurysm
+## 破裂性腦動脈瘤 / Ruptured Aneurysm
 
 > 🧠 **典型主訴**：「我這輩子最嚴重的頭痛」
 > 🧠 **破裂性腦動脈瘤為非創傷性 SAH 最常見原因**：佔 80%
 > 🧠 **CTA/MRA 可檢出**：10 mm 為臨界破裂大小
 
-### 水腦症 / Hydrocephalus
+## 水腦症 / Hydrocephalus
 
 > 🧠 **交通性水腦**：第四腦室**擴大**；由 CSF 吸收障礙引起
 > 🧠 **非交通性水腦**：第四腦室**正常大小**；由腦室系統阻塞引起
 > 🧠 **正常壓力水腦症（NPH）**：經典型三聯症（步態異常、癡呆、尿失禁）；可治療
 
-### 腦萎縮 / Cerebral Atrophy
+## 腦萎縮 / Cerebral Atrophy
 
 > 🧠 **腦萎縮**：腦室和腦溝**成比例**擴大；CSF 動力學正常
 > 🧠 **與水腦症鑑別點**：腦萎縮時腦室和腦溝同時擴大；水腦症時腦室不成比例地大
 
-### 腦腫瘤 / Brain Tumors
+## 腦腫瘤 / Brain Tumors
 
 > 🧠 **膠質母細胞瘤（GBM）**：額葉、顳葉常見；可穿過胼胝體（蝴蝶狀）；高度惡性
 > 🧠 **轉移瘤**：灰白質交界處；水腫與腫瘤大小**不成比例**；常多發
@@ -11028,22 +10735,22 @@ weight: 4
 
 ## 病例討論 26 解答 / Case Quiz 26 Answer
 
-### 病史
+## 病史
 
 患者跌倒後出現進行性意識混亂，且正在服用抗凝藥物。
 
-### CT 表現
+## CT 表現
 
 | 發現 | 說明 |
 |---|---|
 | **右側新月形高密度病變** | 符合急性硬膜下血腫（subdural hematoma）|
 | **側腦室向對側移位** | 由佔位效應引起的大腦鐮下疝（subfalcine herniation）|
 
-### 臨床意義
+## 臨床意義
 
 > ⚠️ 硬膜下血腫患者常見於受傷時意識喪失；部分患者可能保持意識；部分患者可能延遲惡化（隨著血腫增大）
 
-### 關鍵鑑別點
+## 關鍵鑑別點
 
 | 病變 | 形狀 | 跨顱縫 | 與骨頭關係 |
 |---|---|---|---|

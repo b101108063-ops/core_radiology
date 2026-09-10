@@ -3,7 +3,6 @@ title: "Physics of Imaging"
 weight: 12
 ---
 
-# Physics
 
 # Physics of Imaging - Page 853
 
@@ -11,15 +10,15 @@ weight: 12
 
 ## 輻射劑量學基礎 / Radiation Dosimetry Fundamentals
 
-### 劑量類型 / Dose Types
+## 劑量類型 / Dose Types
 
-#### 曝露量 / Exposure
+### 曝露量 / Exposure
 
 - 定義：游離電子在單位質量空氣中釋放的電荷量
 - 單位：庫侖/公斤 (C/kg)
 - 僅用於描述空氣中 X/γ 射線的能量沉積
 
-#### 空氣比釋動能 / Air Kerma
+### 空氣比釋動能 / Air Kerma
 
 - **Kerma** = Kinetic Energy Released per Mass
 - 描述入射 X 射線束強度：光子將能量轉移至帶電粒子（電子）
@@ -29,7 +28,7 @@ weight: 12
 - **骨頭 (Z=12) 吸收能量遠高於軟組織 (Z≈7.6)**
 - 範例：10 mGy 空氣比釋動能 → 骨頭吸收 40 Gy，軟組織吸收 11 Gy
 
-#### 等效劑量 / Equivalent Dose
+### 等效劑量 / Equivalent Dose
 
 - 單位：Sievert (Sv)
 - 公式：等效劑量 (Sv) = 吸收劑量 (Gy) × 輻射加權因子 (WR)
@@ -37,7 +36,7 @@ weight: 12
 - X 射線診斷：WR = 1
 - α 粒子具有高 LET，生物效應更強
 
-#### 有效劑量 / Effective Dose
+### 有效劑量 / Effective Dose
 
 - 單位：Sievert (Sv)
 - 考量所有受照器官的等效劑量及各器官的輻射敏感度
@@ -46,7 +45,7 @@ weight: 12
   - 高敏感器官 (WT=0.12)：骨髓、結腸、肺、乳房
   - 低敏感器官 (WT=0.01)：骨頭、腦、皮膚
 
-### 輻射單位 / Radiation Units
+## 輻射單位 / Radiation Units
 
 | 類型 Type | SI 單位 SI Unit | 傳統單位 Legacy Unit | 換算 Conversion |
 |-----------|----------------|---------------------|----------------|
@@ -73,32 +72,32 @@ weight: 12
 
 ## X 射線產生 / X-ray Production
 
-### X 射線發電機 / X-ray Generator
+## X 射線發電機 / X-ray Generator
 
 - 高能電子撞擊陽極靶材 → 產生 X 射線光子
 - **陽極靶材**：一般放射學與 CT 使用**鎢 (Tungsten, W)**，原子量 74
 - **能量分配**：電子動能 99% 轉化為熱，僅 1% 轉化為 X 射線
 
-### X 射線光譜組成 / X-ray Spectrum Components
+## X 射線光譜組成 / X-ray Spectrum Components
 
 | 類型 Type | 佔比 Proportion | 機制 Mechanism |
 |-----------|----------------|----------------|
 | **制動輻射 Bremsstrahlung** | **90%** | 電子在原子核電場中減速產生 |
 | **特性輻射 Characteristic radiation** | **10%** | 高能電子撞出 K 層電子，外層電子填補空位產生 |
 
-#### 特性輻射產生條件 / Characteristic X-ray Generation
+### 特性輻射產生條件 / Characteristic X-ray Generation
 
 - **必需條件**：電子能量 (keV) > K 層束縛能
 - 鎢的 K-edge = **70 keV**，特性 X 射線能量 **< 70 keV**
 - 當 kV < K-edge 時：**無特性 X 射線產生**
 - 公式：E = E(K-shell) − E(transition shell)
 
-#### X 射線能譜 / X-ray Spectrum
+### X 射線能譜 / X-ray Spectrum
 
 - **最大能量**：等於發電機 kV（例：80 kVp → 最大 80 keV）
 - **平均能量**：≈ 最大能量的 **1/3**（對特性輻射不適用）
 
-### kV 對管輸出影響 / Effect of kV on Tube Output
+## kV 對管輸出影響 / Effect of kV on Tube Output
 
 - **X 射線產量 ∝ (kV)²**
 - kV 增加 15% → 光子數量增加約 **100%**
@@ -106,7 +105,7 @@ weight: 12
   - 增加 kV → **降低劑量**
   - 增加 kV → **降低對比度**（自動曝曬控制條件下）
 
-### 足跟效應 / Heel Effect
+## 足跟效應 / Heel Effect
 
 - **成因**：陽極對 X 射線的衰減，導致陽極側光子數減少
 - **主要影響因素**：陽極角度（典型約 **15 度**）
@@ -129,7 +128,7 @@ weight: 12
 
 ## X 射線與物質交互作用 / X-ray Interactions with Matter
 
-### 總覽 / Overview
+## 總覽 / Overview
 
 X 射線光子與物質的交互作用可分為四種類型：
 
@@ -140,13 +139,13 @@ X 射線光子與物質的交互作用可分為四種類型：
 | **光電效應 Photoelectric effect** | 能量被完全吸收 | 主要貢獻 |
 | **配對產生 Pair production** | ≥1.02 MeV | 診斷能量範圍不顯著 |
 
-### 相干散射 / Coherent (Classical) Scatter
+## 相干散射 / Coherent (Classical) Scatter
 
 - 無能量交換、無頻率變化
 - **不貢獻患者劑量**
 - 僅佔所有 X 射線交互作用的 **<5%**
 
-### 康普頓散射 / Compton Scatter
+## 康普頓散射 / Compton Scatter
 
 - **與電子密度成正比**，與光子能量 E 成反比：∝ (電子密度)/E
 - 散射光子**向各方向射出**
@@ -155,7 +154,7 @@ X 射線光子與物質的交互作用可分為四種類型：
   - 骨骼：> **40 keV**
 - 臨床意義：散射光子降低影像對比度
 
-### 光電效應 / Photoelectric Effect
+## 光電效應 / Photoelectric Effect
 
 - **與原子序數 Z³ 成正比**，與能量 E³ 成反比：∝ **Z³/E³**
 - **主導能量範圍**：
@@ -167,7 +166,7 @@ X 射線光子與物質的交互作用可分為四種類型：
   3. 外層電子填補空位 → 特性 X 射線或俄歇電子
 - **臨床意義**：Z³ 效應使骨骼在影像中顯示高對比度
 
-### 能量沉積 / Energy Deposition
+## 能量沉積 / Energy Deposition
 
 - 內層電子攜帶的能量在局部被吸收（高能電子游離徑短）
 - 30 keV 電子約造成 **1,000 次游離**（每次約 30 eV）
@@ -189,7 +188,7 @@ X 射線光子與物質的交互作用可分為四種類型：
 
 ## 衰減與半值層 / Attenuation and Half-Value Layer
 
-### 線性衰減定律 / Linear Attenuation Law
+## 線性衰減定律 / Linear Attenuation Law
 
 $$N = N_0 \cdot e^{-\mu t}$$
 
@@ -205,12 +204,12 @@ $$N = N_0 \cdot e^{-\mu t}$$
 
 - **範例**：µ = 0.5/cm，則 e^(-µt) = 61% 穿透
 
-### 質量衰減係數 / Mass Attenuation Coefficient
+## 質量衰減係數 / Mass Attenuation Coefficient
 
 - **公式**：µ/ρ（ρ = 密度）
 - **特點**：與密度無關，僅取決於物質的原子組成與光子能量
 
-### 散射與濾線柵 / Scatter and Grids
+## 散射與濾線柵 / Scatter and Grids
 
 - **典型散射：主射線比**：**5-10:1**
 - **濾線柵比** (Grid ratio) = 高度/寬度
@@ -221,7 +220,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 - **kV 升高增加散射**（康普頓效應主宰）
 - **四肢檢查不使用濾線柵**（骨骼 Z 高、厚度小）
 
-### 射束品質與半值層 / Beam Quality and Half-Value Layer (HVL)
+## 射束品質與半值層 / Beam Quality and Half-Value Layer (HVL)
 
 - **高品質射束**：低能光子已被過濾
 - **HVL（半值層）**：使入射能量衰減 **50%** 所需的材料厚度
@@ -255,7 +254,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 
 ## film光學密度與特性曲線 / Film Optical Density and Characteristic Curves
 
-### 光學密度定義 / Film Optical Density (OD)
+## 光學密度定義 / Film Optical Density (OD)
 
 - **公式**：OD = log₁₀(I₀/Iₜ) = log₁₀(入射光強/透射光強)
 - OD 值對照：
@@ -269,7 +268,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 - **理想平均 OD ≈ 1.5**（約 5 µGy 光子撞擊菲林/螢光屏時達成）
 - 霧化 (Fog)：無輻射曝曬時菲林的基準暗化（≈ 0.2 OD）
 
-### 特性曲線（Hurter–Driffield 曲線）/ Characteristic Curve
+## 特性曲線（Hurter–Driffield 曲線）/ Characteristic Curve
 
 特性曲線：對數繪製輻射曝曬（空氣比釋動能）與 film 光學密度的關係
 
@@ -282,14 +281,14 @@ $$N = N_0 \cdot e^{-\mu t}$$
 - **伽瑪值 (Gamma)** = 曲線最陡部分的斜率（對比度指標）
 - **梯度 (Gradient)** = 平均斜率
 
-### 寬容度與對比度 / Latitude and Contrast
+## 寬容度與對比度 / Latitude and Contrast
 
 | 類型 | 特性 | 適用場景 |
 |------|------|---------|
 | **高寬容度 (High-latitude) 菲林** | 密度變化範圍大，對比度較低 | 胸部 X 光（高低透射差異大）|
 | **低寬容度 (Low-latitude) 高對比菲林** | 密度變化範圍窄，對比度極高 | 乳房攝影（組織對比度低）|
 
-### 數位偵測器 / Digital Detectors
+## 數位偵測器 / Digital Detectors
 
 | 偵測器類型 | 材料 | 機制 | 優勢 | 劣勢 |
 |-----------|------|------|------|------|
@@ -318,7 +317,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 
 ## 乳房攝影物理學 / Mammography Physics
 
-### 技術參數對照 / Technique Comparison
+## 技術參數對照 / Technique Comparison
 
 | 參數 Parameter | 接觸式乳房攝影 Contact | 放大乳房攝影 Magnification |
 |---------------|----------------------|--------------------------|
@@ -331,7 +330,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 | **濾線柵 Grid ratio** | 5:1 (Bucky factor ~2) | 不使用（氣隙替代）|
 | **平均能量 Average energy** | ~17 keV | ~17 keV |
 
-### 乳房攝影影像品質提升因素 / Image Quality Improvement Factors
+## 乳房攝影影像品質提升因素 / Image Quality Improvement Factors
 
 | 提升面向 | 機制 | 具體方法 |
 |---------|------|---------|
@@ -339,7 +338,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 | **解析度 Resolution ↑** | 薄螢光屏、小焦點、壓迫 | 單層薄螢光屏；0.1 mm 焦點 |
 | **雜訊（斑點）Noise ↓** | 增加光子抵達偵測器 | 200 µGy（vs 一般 5 µGy）|
 
-### 乳房攝影 X 射線發電機與濾片 / Mammography X-ray Generator and Filters
+## 乳房攝影 X 射線發電機與濾片 / Mammography X-ray Generator and Filters
 
 | 靶材/濾片 Target/Filter | 特性 X 射線能量 | 臨床應用 |
 |------------------------|----------------|---------|
@@ -350,7 +349,7 @@ $$N = N_0 \cdot e^{-\mu t}$$
 
 - **Mo 靶平均能量 ≈ 17 keV**（不適用「平均能量≈1/3~1/2最大值」規則）
 
-### 乳房壓迫 / Breast Compression
+## 乳房壓迫 / Breast Compression
 
 | 優勢 Advantages | 劣勢 Disadvantages |
 |----------------|---------------------|
@@ -379,14 +378,14 @@ $$N = N_0 \cdot e^{-\mu t}$$
 
 ## 數位乳房攝影與放大技術 / Digital Mammography and Magnification
 
-### 數位乳房攝影規格 / Digital Mammography Specifications
+## 數位乳房攝影規格 / Digital Mammography Specifications
 
 - **像素大小**：約 **80 µm**
 - **最小可見微鈣化**：約 **150 µm**
 - **解析度**：3,000 × 4,000 像素 ≈ **24 MB**（每像素 2 byte）
 - **顯示器需求**：**5 百萬像素**監視器
 
-### 放大乳房攝影幾何 / Magnification Mammography Geometry
+## 放大乳房攝影幾何 / Magnification Mammography Geometry
 
 $$M = \frac{SID}{SOD}$$
 
@@ -409,7 +408,7 @@ $$M = \frac{SID}{SOD}$$
 
 - **為何不使用濾線柵**：氣隙引入使散射光子偏離偵測器，低總 mAs 可補償
 
-### MQSA 規範 / Mammography Quality Standards Act (MQSA)
+## MQSA 規範 / Mammography Quality Standards Act (MQSA)
 
 | 項目 | 要求 |
 |------|------|
@@ -417,7 +416,7 @@ $$M = \frac{SID}{SOD}$$
 | **品管計畫** | 必須建立 |
 | **假體測試** | 每週一次；平均腺體劑量 < **3 mGy** |
 
-### 平均腺體劑量 / Average Glandular Dose (AGD)
+## 平均腺體劑量 / Average Glandular Dose (AGD)
 
 - **聯邦標準**：每側乳房每體位 AGD < **3 mGy**
 - 典型 AGD：**1.5–1.8 mGy/視圖/側乳房**（數位略低）
@@ -441,16 +440,16 @@ $$M = \frac{SID}{SOD}$$
 
 ## 透視與 CT 物理學 / Fluoroscopy and CT Physics
 
-### 透視物理學 / Fluoroscopy Physics
+## 透視物理學 / Fluoroscopy Physics
 
-#### 電子放大 / Electronic Magnification
+### 電子放大 / Electronic Magnification
 
 - 視野 (FOV) 縮小 2 倍（如 10 cm → 5 cm）：
   - 縮小的視野投射至整個輸出螢光屏 → **亮度降至 1/4**
   - 自動曝曬控制使**皮膚劑量增加 4 倍**
 - FOV 10 cm → 7 cm：患者入射空氣比釋動能增加 **2 倍**
 
-#### 透視技術參數 / Fluoroscopy Technique
+### 透視技術參數 / Fluoroscopy Technique
 
 - **連續透視**：電流 1–5 mA（典型 **3 mA**）
 - **空氣比釋動能/幀**：約 **0.01 µGy**（標準胸部 X 光 5 µGy，透視每幀光子少 **500 倍**）
@@ -458,7 +457,7 @@ $$M = \frac{SID}{SOD}$$
   - 標準透視：**< 100 mGy/分鐘** 入射空氣比釋動能
   - 高劑量模式（含聲音/視覺警示）：**< 200 mGy/分鐘**（大型患者用）
 
-#### 劑量影響因素 / Effects on Dose
+### 劑量影響因素 / Effects on Dose
 
 | 因素 | 對劑量的影響 | 說明 |
 |------|------------|------|
@@ -473,12 +472,12 @@ $$M = \frac{SID}{SOD}$$
 - **2 Gy 可在 10 分鐘內達成**（高劑量模式下）
 - **大型患者皮膚傷害風險更高**
 
-### CT 概覽 / Overview of CT
+## CT 概覽 / Overview of CT
 
 - CT 旋轉扇形射束圍繞患者，透過重建演算法計算每個像素的**線性衰減係數**
 - 斷層切片排除重疊結構，提供横截面影像
 
-### Hounsfield 單位 / Hounsfield Units (HU)
+## Hounsfield 單位 / Hounsfield Units (HU)
 
 $$HU = 1{,}000 \times \frac{\mu_x - \mu_{water}}{\mu_{water}}$$
 
@@ -512,7 +511,7 @@ $$HU = 1{,}000 \times \frac{\mu_x - \mu_{water}}{\mu_{water}}$$
 
 ## CT 劑量學 / CT Dosimetry
 
-### CT 劑量指數 / CT Dose Index (CTDI)
+## CT 劑量指數 / CT Dose Index (CTDI)
 
 - **CTDI 定義**：單次軸向切片（完整旋轉，無床面移動）的平均 phantom 劑量，含散射，單位 Gy
 - **CTDI 測量 phantom**：16 cm 與 32 cm（16 cm 劑量恆较高）
@@ -539,7 +538,7 @@ $$CTDI_{vol} = \frac{CTDI_w}{pitch}$$
 | 成人腹部 | **25 mGy** | 32 cm |
 | 兒科腹部 | **20 mGy** | 16 cm |
 
-### 劑量-長度乘積與有效劑量 / DLP and Effective Dose
+## 劑量-長度乘積與有效劑量 / DLP and Effective Dose
 
 $$DLP = CTDI_{vol} \times scan\ length\ (mGy \cdot cm)$$
 
@@ -559,7 +558,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 - **範例**：腹部 CT DLP = 900 mGy·cm → 有效劑量 = 900 × 0.017 = **15.4 mSv**
 
-### 常見診斷檢查有效劑量 / Effective Doses of Common Diagnostic Exams
+## 常見診斷檢查有效劑量 / Effective Doses of Common Diagnostic Exams
 
 | 檢查類型 | 有效劑量 (mSv) |
 |---------|--------------|
@@ -604,7 +603,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 影像品質 / Image Quality
 
-### 對比度 / Contrast
+## 對比度 / Contrast
 
 - **對比度優化最關鍵因素**：增加抵達菲林的光子數（film 密度）
 - **散射降低對比度** → 使用濾線柵或氣隙技術控制
@@ -612,7 +611,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 - **kV 降低對比度**（自動曝曬控制條件下）
 - **Screen-film 系統**：對比度與螢光屏寬容度/梯度相關
 
-### 解析度與模糊 / Resolution and Blur
+## 解析度與模糊 / Resolution and Blur
 
 **僅有三個因素影響模糊（解析度），皆不影響影像對比度**：
 
@@ -622,7 +621,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 | **運動模糊** | 曝曬時間 | 短曝曬時間；固定患者 |
 | **偵測器模糊** | 螢光屏厚度 | 快屏增厚→模糊↑（速度與解析度的權衡）|
 
-### 統計學基礎 / Statistics Fundamentals
+## 統計學基礎 / Statistics Fundamentals
 
 | 指標 | 公式 | 意義 |
 |------|------|------|
@@ -634,7 +633,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 > TP = True Positive（真陽）；TN = True Negative（真陰）
 > FP = False Positive（假陽）；FN = False Negative（假陰）
 
-### ROC 曲線 / Receiver Operator Characteristic (ROC) Curve
+## ROC 曲線 / Receiver Operator Characteristic (ROC) Curve
 
 - ROC 曲線比較診斷測試在不同決策信心閾值下的表現
 
@@ -666,12 +665,12 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 輻射生物學 / Radiation Biology
 
-### DNA 損傷 / DNA Damage
+## DNA 損傷 / DNA Damage
 
 - 輻射生物損傷大多數由**自由基**（游離子）介導
 - DNA 雙鏈斷裂是最嚴重的損傷形式，修復失敗可導致細胞死亡或突變
 
-### 決定性效應 / Deterministic Effects
+## 決定性效應 / Deterministic Effects
 
 **定義**：超過特定**閾值劑量**才會發生的效應，低於閾值不會發生
 
@@ -689,13 +688,13 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 | **男性暫時性不孕** Male temporary sterility | > **0.15 Gy** | |
 | **女性永久性不孕/早發更年期** Female permanent sterility | > **3.5 Gy** | |
 
-### 遺傳效應 / Hereditary Effects
+## 遺傳效應 / Hereditary Effects
 
 - **加倍劑量 (Doubling dose)**：使族群自發性突變率加倍的劑量，約 **1 Gy**（適用於整體人口）
 - **遺傳效應風險**：約 **0.2%/Sv**（個人風險）
 - 範例：性腺劑量 100 mSv → 風險 = 0.2% × 0.1 Sv = **0.02%**
 
-### 致死劑量 / Lethal Doses (Whole-body Radiation)
+## 致死劑量 / Lethal Doses (Whole-body Radiation)
 
 | 劑量 | 終點 | 機制 |
 |------|------|------|
@@ -723,7 +722,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 隨機性效應與胎兒效應 / Stochastic Effects and Fetal Effects
 
-### 隨機性效應 / Stochastic Effects
+## 隨機性效應 / Stochastic Effects
 
 **特點**：
 - **隨機發生**，無閾值
@@ -731,7 +730,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 - **潛伏期數年**（固體腫瘤可達 25 年）
 - 劑量、劑量率與組織類型影響發生風險
 
-### 劑量效應模型 / Dose-Effect Models
+## 劑量效應模型 / Dose-Effect Models
 
 | 模型 | 適用腫瘤類型 | 潛伏期 | 特點 |
 |------|-----------|--------|------|
@@ -741,19 +740,19 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 - **急性劑量癌症風險**：約 **8%/Gy**（日本原子彈存活者數據）
 - 範例：4 Gy 急性暴露 → 癌症風險增加 **24%**（8 × 4）
 
-### 輻射誘發癌症 / Radiation-Induced Cancer
+## 輻射誘發癌症 / Radiation-Induced Cancer
 
 | 癌症類型 | 風險 |
 |---------|------|
 | **白血病**（急慢性）| 約 **1%/Sv**（急性劑量）|
 | **實體癌**（慢性暴露如輻射工作人員）| 約 **4%/Gy**（慢性）|
 
-### 甲狀腺敏感性 / Thyroid Radiosensitivity
+## 甲狀腺敏感性 / Thyroid Radiosensitivity
 
 - **甲狀腺是人體輻射最敏感組織**
 - 電離輻射誘發甲狀腺癌是已確定的風險
 
-### 職業/醫源性暴露案例 / Occupational/Iatrogenic Exposure Cases
+## 職業/醫源性暴露案例 / Occupational/Iatrogenic Exposure Cases
 
 | 暴露情境 | 誘發腫瘤 |
 |---------|---------|
@@ -763,7 +762,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 | **礦工**（尤其鈾礦，含氡氣）| 肺癌 |
 | **鐘錶工人**（以唇舔取含 Ra 顏料）| 骨骼肉瘤、鼻咽癌 |
 
-### 胎兒輻射效應 / Radiation Effects on the Fetus
+## 胎兒輻射效應 / Radiation Effects on the Fetus
 
 | 妊娠週數 | 主要效應 |
 |---------|---------|
@@ -774,7 +773,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 > 以上為**顯著暴露（例如 2 Gy）**的效應
 
-### 妊娠輻射工作者胎兒劑量 / Fetal Dose for Pregnant Radiation Workers
+## 妊娠輻射工作者胎兒劑量 / Fetal Dose for Pregnant Radiation Workers
 
 - **劑量限值**：**0.5 mSv/月**（孕期全程約 5 mSv）
 - **鉛圍裙**：外部測量劑量衰減 **20 倍**
@@ -800,7 +799,7 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 影像模態概述 / Overview of Imaging Modalities
 
-### 傳統 X 光（Conventional Radiography / Plain Films）
+## 傳統 X 光（Conventional Radiography / Plain Films）
 
 **原理：** X 光穿透人體，不同密度組織對 X 光有不同吸收率。
 
@@ -832,12 +831,12 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 電腦斷層掃描 / Computed Tomography (CT)
 
-### 原理
+## 原理
 - 旋轉 X 光束配合多排偵檢器
 - 螺旋（Helical/Spiral）掃描
 - 電腦演算法重建三維影像
 
-### Hounsfield 單位（Hounsfield Units, HU）
+## Hounsfield 單位（Hounsfield Units, HU）
 
 | 物質 | HU 範圍 |
 |------|---------|
@@ -848,12 +847,12 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 | 骨骼 | +400 ~ +600 |
 | 金屬 | +1000+ |
 
-### 視窗技術（Windowing）
+## 視窗技術（Windowing）
 - **肺視窗（Lung Windows）**：顯示肺實質、支氣管
 - **縱隔視窗（Mediastinal Windows）**：顯示縱隔結構、淋巴結
 - **骨骼視窗（Bone Windows）**：顯示骨頭
 
-### 多排偵檢器 CT 的優勢
+## 多排偵檢器 CT 的優勢
 - 超快速掃描（頭到腳 < 10 秒）
 - 任意平面重建（軸向、矢狀、冠狀）
 - 3D 容積重建（Volume Rendering）
@@ -863,25 +862,25 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 超音波 / Ultrasound (US)
 
-### 原理
+## 原理
 - 使用**高頻聲波（超聲波）**成像
 - 探頭同時發射及接收訊號
 - 不使用游離輻射
 
-### 優點
+## 優點
 - 價格便宜、廣泛可及
 - 可攜帶（甚至手持式）
 - **無游離輻射** → 孕婦、兒童安全
 - 即時成像
 - 可導引切片及引流
 
-### 缺點
+## 缺點
 - 無法穿透骨骼
 - 氣體阻擋聲波
 - 肥胖者深部組織顯像困難
 - **操作者依賴性（Operator-Dependent）**
 
-### 常見用途
+## 常見用途
 - 婦科（Pelvis）首選
 - 囊腫 vs. 實心病灶鑑別
 - 胎兒、胎盤評估
@@ -894,17 +893,17 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 磁振造影 / Magnetic Resonance Imaging (MRI)
 
-### 原理
+## 原理
 - 利用體內**氫原子（主要在水分中）**的磁特性
 - 強磁場 + 射頻脈衝 → 釋放訊號 → 電腦重建影像
 - 可使用**釓（Gadolinium）**對比劑增強
 
-### Hounsfield 單位等價（MRI 信號）
+## Hounsfield 單位等價（MRI 信號）
 - T1 加權：脂肪高信號（白），水低信號（黑）
 - T2 加權：水高信號（白），脂肪稍低
 - igrations：不同組織有不同訊號特性
 
-### 優點
+## 優點
 - **無游離輻射**
 - 軟組織對比極佳
 - 可區分脂肪、水、肌肉、鐵等
@@ -912,13 +911,13 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 - 可任意平面成像
 - 功能性成像：血流、擴散（Diffusion）、灌注（Perfusion）
 
-### 缺點
+## 缺點
 - 價格高、取得不易
 - 需要專用場地
 - 安全考量：金屬物品、子宮內裝置、植入心律調節器可能禁忌
 - 幽閉恐懼
 
-### 常見用途
+## 常見用途
 - 神經系統（最優勢領域）
 - 肌肉、肌腱、韌帶
 - 心臟結構及功能
@@ -928,21 +927,21 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 透視檢查 / Fluoroscopy
 
-### 原理
+## 原理
 - 实时 X 光透視
 - 可見運動及裝置位置
 - 可注射碘對比劑追蹤管道
 
-### 優點
+## 優點
 - 可導引裝置放置（如心律調節器）
 - 实时確認位置
 - 可做 spot film
 
-### 缺點
+## 缺點
 - 辐射剂量較高（实时連續曝光）
 - 需尽量缩短透視時間
 
-### 常見用途
+## 常見用途
 - 腸胃道鋇劑檢查
 - 泌尿系統成像
 - 血管、心導管
@@ -952,12 +951,12 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 核子醫學 / Nuclear Medicine
 
-### 原理
+## 原理
 - 注射**放射性同位素製劑（Radiopharmaceutical）**
 - 同位素選擇性聚集於特定器官
 - **伽瑪相機（Gamma Camera）**偵測輻射成像
 
-### 常用同位素製劑
+## 常用同位素製劑
 
 | 器官 | 同位素 | 載體 |
 |------|--------|------|
@@ -968,21 +967,21 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 | 肺 | Tc-99m | MAA（粒子）|
 | 腎 | Tc-99m | 馬尿酸（Hippuran）|
 
-### SPECT（單光子發射電腦斷層）
+## SPECT（單光子發射電腦斷層）
 - 多角度二維影像 → 電腦重建三維切片
 
-### PET（正子發射電腦斷層）
+## PET（正子發射電腦斷層）
 - 使用正子同位素（+電子）
 - 最常用：**FDG（一種葡萄糖類似物）**
 - 90% 用於**癌症**分期及治療追蹤
 - PET/CT 融合：CT 提供解剖定位，PET 提供代谢/生化資訊
 
-### 優點
+## 優點
 - **功能/代谢成像**領先所有其他模態
 - 偵測功能性異常（可用於早期發現）
 - CT/fluoroscopy 辐射劑量較低（多數核醫檢查）
 
-### 缺點
+## 缺點
 - 空間解析較差
 - 費用較高
 - 患者本身成為輻射源（對其他人有暫時性暴露）
@@ -1000,15 +999,15 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 ## 人工智慧在放射科 / Artificial Intelligence in Radiology
 
-### 監督式學習（Supervised Learning）
+## 監督式學習（Supervised Learning）
 - 由人類教學電腦（如 radiologist 標註）
 - 電腦學習规则並類化
 
-### 深度學習（Deep Learning）
+## 深度學習（Deep Learning）
 - 類神經網路自我學習
 - 近年快速進展
 
-### 臨床應用
+## 臨床應用
 - 輔助偵測病變（如肺結節、骨折）
 - 自動量化（如钙化積分）
 - 協助 triage

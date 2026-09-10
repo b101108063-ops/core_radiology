@@ -4,13 +4,12 @@ weight: 11
 description: 兒童影像學、超音波、X光、CT、MRI
 ---
 
-# Pediatric
 
 # Pediatric Imaging - PDF Page 750
 
 ## 兒科影像學 / Pediatric Imaging
 
-### 章節目次 / Chapter Contents
+## 章節目次 / Chapter Contents
 
 | 項目 / Topic | 頁碼 / Page |
 |---|---|
@@ -28,9 +27,9 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 兒科氣道 / Pediatric Airway
 
-### 正常解剖 / Normal Anatomy
+## 正常解剖 / Normal Anatomy
 
-#### 正常頸部側位像 / Normal Lateral Neck Radiograph
+### 正常頸部側位像 / Normal Lateral Neck Radiograph
 
 | 結構 / Structure | 說明 / Description |
 |---|---|
@@ -38,7 +37,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 喉部 / Larynx | 聲帶及會厭正常輪廓 |
 | 氣道 / Airway | 連續通暢，無狹窄 |
 
-#### 側位頸部X光可見病理部位 / Sites of Pathology on Lateral Neck Radiograph
+### 側位頸部X光可見病理部位 / Sites of Pathology on Lateral Neck Radiograph
 
 | 病變 / Lesion | 影像學表現 / Imaging Finding |
 |---|---|
@@ -48,23 +47,21 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 急性會厭炎 / Epiglottitis | 拇指徵（thumbprint sign） |
 | 哮吼 / Croup | 狹窄徵（steeple sign） |
 
-### 臨床要點 / Clinical Key Points
 
-- **頸部側位X光是評估兒童氣道阻塞的第一線檢查 / Lateral neck radiograph is the first-line study for pediatric airway obstruction**
-- 需與臨床病史相結合以確診 / Must be correlated with clinical history for diagnosis
-- 鉴别诊断包括：感染性、肿瘤性、血管性病因 / Differential includes infectious, neoplastic, and vascular causes
-
----
+> **臨床要點**
+> - **頸部側位X光是評估兒童氣道阻塞的第一線檢查 / Lateral neck radiograph is the first-line study for pediatric airway obstruction**
+> - 需與臨床病史相結合以確診 / Must be correlated with clinical history for diagnosis
+> - 鉴别诊断包括：感染性、肿瘤性、血管性病因 / Differential includes infectious, neoplastic, and vascular causes
 
 # Pediatric Imaging - PDF Page 752
 
 ## 兒科上氣道阻塞 / Pediatric Upper Airway Obstruction
 
-### 總論 / Overview
+## 總論 / Overview
 
 **上氣道阻塞**可依解剖位置與病因分類：
 
-#### 依病因分類 / Classification by Etiology
+### 依病因分類 / Classification by Etiology
 
 | 病因 / Etiology | 疾病 / Disease |
 |---|---|
@@ -72,7 +69,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 腫瘤性 / Neoplastic | 橫紋肌肉瘤（Rhabdomyosarcoma） |
 | 感染性 / Infectious | 扁桃腺周圍膿腫（Peritonsillar abscess） |
 
-#### 依解剖位置分類 / Classification by Anatomic Level
+### 依解剖位置分類 / Classification by Anatomic Level
 
 | 位置 / Level | 疾病 / Disease |
 |---|---|
@@ -83,7 +80,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 後鼻孔閉鎖 / Choanal Atresia
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **後鼻孔閉鎖**為後鼻腔先天性阻塞，可分為：
 
@@ -93,7 +90,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 膜性 / Membranous | ~30% |
 | 混合型 / Mixed | ~70% |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 幾乎皆伴有某種程度的骨性異常 / Almost always associated with some degree of osseous abnormality
 - 常伴隨其他先天性畸形，最常見為**CHARGE 症候群**：
@@ -104,7 +101,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
   - **G**enitourinary anomalies（泌尿生殖系統異常）
   - **E**ar anomalies（耳部畸形）
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 - **CT 軸位像**顯示軟組織完全阻塞雙側後鼻孔
 - 骨性側壁增厚、內移
@@ -114,14 +111,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 青少年鼻咽血管纖維瘤 / Juvenile Nasopharyngeal Angiofibroma (JNA)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **青少年鼻咽血管纖維瘤**為：
 - 高度血管化的良性錯構瘤
 - 僅見於青少年男性
 - 好發於蝶齶孔（sphenopalatine foramen）
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 腫瘤向鼻咽部及翼齶窩蔓延
 - 沿路造成骨質重塑（bony remodeling）
@@ -131,25 +128,23 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 鼻部橫紋肌肉瘤 / Nasal Rhabdomyosarcoma
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **鼻部橫紋肌肉瘤**：
 - 最常見的兒童軟組織肉瘤
 - 頭頸部是常見原發部位
 - 侵襲性強
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 - **CT 增強掃描**：破壞性腫瘤，明顯強化
 - **MRI fat-suppressed T1**：評估顱內侵犯
 - 骨質破壞位於上頜竇後壁、翼狀板
 
-### 臨床要點 / Clinical Key Points
 
-- 需與 JNA 鉴別：橫紋肌肉瘤有骨質破壞，JNA 為骨質重塑
-- 可侵犯顳葉內側
-
----
+> **臨床要點**
+> - 需與 JNA 鉴別：橫紋肌肉瘤有骨質破壞，JNA 為骨質重塑
+> - 可侵犯顳葉內側
 
 # Pediatric Imaging - PDF Page 753
 
@@ -159,27 +154,27 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 急性會厭炎 / Epiglottitis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **急性會厭炎**為會厭的感染性炎症：
 - 自從 **Haemophilus influenza** 疫苗普及後已極為罕見
 - 真正的急症：氣道可在無預警下阻塞
 - 現代病例多好發於免疫缺陷患者（HIV、器官移植受者）
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 發熱、咽喉痛、吞嚥困難
 - 喘鳴、流口水
 - 依據臨床表現與影像學確診
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 側位頸部X光 / Lateral neck | **拇指徵（Thumbprint sign）**：會厭增厚 |
 | 側位X光 / Lateral view | **杓狀會厭皺襞增厚** |
 
-### 鉴别诊断 / Differential Diagnosis
+## 鉴别诊断 / Differential Diagnosis
 
 - 哮吼（Croup）
 - 細菌性氣管炎（Bacterial tracheitis）
@@ -189,7 +184,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 哮吼（喉氣管支氣管炎）/ Croup (Laryngotracheobronchitis)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **哮吼**為病毒感染（通常為副流感病毒）：
 - 特徵性吸氣性喘鳴與犬吠樣咳嗽
@@ -197,14 +192,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 - 為臨床診斷
 - 影像學目的：排除其他喘鳴病因
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 正位X光 / Frontal view | **狹窄徵（Steeple sign）**：亞聲門氣管正常肩狀輪廓消失 |
 | 側位X光 / Lateral view | 咽下部「氣球樣」擴張 |
 
-### 临床要点 / Clinical Key Points
+## 临床要点 / Clinical Key Points
 
 - **Steeple sign（狹窄徵）**：對稱性亞聲門氣管狹窄
 - 需與急性會厭炎鉴別（會厭炎無此徵象）
@@ -213,12 +208,12 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 異物吸入 / Aspirated Foreign Body
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 - 放射性異物（Radiolucent foreign body）X光無法直接顯現
 - 需靠**間接徵象**推斷診斷
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -226,7 +221,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 側位X光 / Lateral view | 深吸氣時患側肺容積不減少 |
 | 臥位X光 / Decubitus film | 患側（受影響側）持續性膨脹 |
 
-### 鉴别诊断 / Differential Diagnosis
+## 鉴别诊断 / Differential Diagnosis
 
 - 哮喘（Asthma）
 - 細支氣管炎（Bronchiolitis）
@@ -236,37 +231,35 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 咽後膿腫 / Retropharyngeal Abscess
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **咽後膿腫**為咽後間隙的化膿性感染：
 - 兒童非創傷性椎前軟組織腫脹的常見原因之一
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 發熱、頸部疼痛、活動受限
 - 張口困難
 - 可能伴有呼吸道症狀
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 側位頸部X光 / Lateral neck | 椎前軟組織明顯增厚 |
 | CT 掃描 / CT scan | 膿腫定位、評估是否可引流 |
 
-### 鉴别诊断 / Differential Diagnosis
+## 鉴别诊断 / Differential Diagnosis
 
 - 咽後蜂窩組織炎（Retropharyngeal cellulitis）
 - 淋巴瘤（Lymphoma）
 - 前腸囊腫（Foregut duplication cyst）
 
-### 臨床要點 / Clinical Key Points
 
-- 咽後假性增厚：頸椎屈曲時X光可見偽影
-- 罕見含氣徵象（除非異物穿孔食道）
-- **CT 為必需的確認檢查**
-
----
+> **臨床要點**
+> - 咽後假性增厚：頸椎屈曲時X光可見偽影
+> - 罕見含氣徵象（除非異物穿孔食道）
+> - **CT 為必需的確認檢查**
 
 # Pediatric Imaging - PDF Page 754
 
@@ -276,7 +269,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 滲出性（細菌性）氣管炎 / Exudative (Bacterial) Tracheitis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **滲出性氣管炎**：
 - 臨床表現類似急性會厭炎：發熱、喘鳴、呼吸窘迫
@@ -284,14 +277,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 - 好發年齡：**較哮吼大的兒童**
 - 病因：**細菌性**（最常見為金黃色葡萄球菌 S. aureus）
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 側位頸部X光 / Lateral neck | 亞聲門及頸部氣管內膜狀影 |
 | CT 掃描 / CT scan | 氣管內膜增強、狹窄 |
 
-### 鉴别诊断 / Differential Diagnosis
+## 鉴别诊断 / Differential Diagnosis
 
 - 哮吼（Croup）- 病毒性、年齡較小
 - 急性會厭炎（Epiglottitis）- 有拇指徵
@@ -300,19 +293,19 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 亞聲門血管瘤 / Subglottic Hemangioma
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **亞聲門血管瘤**：
 - 良性血管腫瘤
 - 造成嬰兒期喘鳴
 - **最常見的兒科亞聲門氣管腫塊**
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 常伴隨**皮膚血管瘤**（cutaneous hemangiomata）
 - 症狀通常在嬰兒期出現
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -320,7 +313,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 側位X光 / Lateral view | 氣道輪廓改變 |
 | CT/MRI | 軟組織腫塊強化 |
 
-### 临床要点 / Clinical Key Points
+## 临床要点 / Clinical Key Points
 
 - 需與對稱性狹窄的哮吼鉴別
 - **非對稱性**為關鍵鑑別點
@@ -329,20 +322,20 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 喉乳頭瘤病 / Laryngeal Papillomatosis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **喉乳頭瘤病**：
 - HPV 感染引起的**多發性喉結節**
 - 造成聲帶增厚、結節狀
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 聲音嘶啞
 - 呼吸困難
 - **增加喉部鱗狀細胞癌風險**（類似HPV與宮頸癌的關聯）
 - 乳頭瘤可罕見地播散至肺部，造成多發空洞結節
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -353,14 +346,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 氣管狹窄 / Tracheal Stenosis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 | 類型 / Type | 病因 / Etiology |
 |---|---|
 | 醫源性 / Iatrogenic | 長期氣管插管 |
 | 先天性 / Congenital | 常伴隨血管異常 |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 喘鳴
 - 呼吸窘迫
@@ -370,13 +363,13 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 氣管支氣管軟化症 / Tracheobronchomalacia
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **氣管支氣管軟化症**：
 - 氣管支氣管軟骨軟弱，導致**呼氣時氣道過度塌陷**
 - 可為先天性或後天性（插管、感染、慢性炎症）
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -384,7 +377,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 呼氣相CT / Expiratory CT | 氣道塌陷 >50% 為可疑 |
 | 動態氣道透視 / Dynamic airway fluoroscopy | 呼氣時氣道塌陷 |
 
-### 临床要点 / Clinical Key Points
+## 临床要点 / Clinical Key Points
 
 - **氣道橫截面積減少 >50%** 提示氣管軟化症
 - 正常人用力呼氣也可達到此閾值，需結合臨床
@@ -395,21 +388,21 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 血管環與血管襟 / Vascular Rings and Sling
 
-### 總論 / Overview
+## 總論 / Overview
 
 **血管環與血管襟**是嬰兒與兒童喘鳴的重要血管性病因：
 - 首選評估：**鋇劑食道造影**，必要時行 CT 或 MRI
 - **血管環（Vascular ring）**：主動脈弓或大血管完全圍繞氣管與食道
 - **血管襟（Vascular sling）**：左肺動脈異常起源於右肺動脈，將氣管以三面「襟住」
 
-### 臨床線索 / Clinical Clues
+## 臨床線索 / Clinical Clues
 
 | 線索 / Finding | 提示 / Suggests |
 |---|---|
 | 正位胸片見**右側主動脈弓** | 潛在血管性喘鳴 |
 | 左主動脈弓 + 喘鳴 | 僅 **肺动脉襟** 可致喘鳴 |
 
-### 三種最重要的血管性喘鳴病因 / Top Three Vascular Causes of Stridor
+## 三種最重要的血管性喘鳴病因 / Top Three Vascular Causes of Stridor
 
 | 疾病 / Entity | 特徵 / Features |
 |---|---|
@@ -417,7 +410,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | **右主動脈弓 + 左鎖骨下動脈異常 / Right arch + aberrant left subclavian** | 右弓壓氣管前壁，左鎖骨下繞食道後壁 |
 | **肺动脉襟 / Pulmonary artery sling** | 唯一在正常（左）主動脈弓下致喘鳴的血管異常 |
 
-### 正常解剖 / Normal Anatomy
+## 正常解剖 / Normal Anatomy
 
 | 結構 / Structure | 位置 / Location |
 |---|---|
@@ -433,20 +426,20 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 雙主動脈弓 / Double Aortic Arch
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **雙主動脈弓**：
 - **最常見的血管環**
 - 雙側弓圍繞氣管與食道，可造成喘鳴
 - 右弓通常位於上方，口徑較左弓大
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 喘鳴（氣管受壓）
 - 吞嚥困難（食道受壓）
 - 症狀嚴重程度取決於哪個弓較大
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -454,7 +447,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | CT/MRI | 確認哪個弓為優勢弓（術前關鍵） |
 | 食道造影 / Esophagram | 雙側氣管與食道皆有壓跡 |
 
-### 治療 / Treatment
+## 治療 / Treatment
 
 - **手術**：結紮非優勢弓
 - 放射科醫師的目標：確認哪個弓為劣勢側
@@ -463,7 +456,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 右主動脈弓合併左鎖骨下動脈異常 / Right Arch with Aberrant Left Subclavian Artery
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **右主動脈弓合併左鎖骨下動脈異常**：
 - 第二常見的血管環
@@ -471,7 +464,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 - 左鎖骨下動脈繞食道後方
 - **韌帶（ligamentum arteriosum）完成此環**
 
-### 與左主動脈弓合併右鎖骨下动脉异常的鉴別 / Differentiation from Left Arch with Aberrant Right Subclavian
+## 與左主動脈弓合併右鎖骨下动脉异常的鉴別 / Differentiation from Left Arch with Aberrant Right Subclavian
 
 | 特徵 / Feature | 右弓 + 左鎖骨下 / Right arch + aberrant LSA | 左弓 + 右鎖骨下 / Left arch + aberrant RSA |
 |---|---|---|
@@ -479,7 +472,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 喘鳴 / Stridor | 有 / Yes | 無 / No |
 | dysphagia | 少見 / Rare | 少見（稱為 dysphagia lusoria） |
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -487,11 +480,9 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 側位像 / Lateral view | 氣管前壁凹陷 + 食道後壁凹陷 |
 | CT/MRI | 確診，與雙主動脈弓难分辨 |
 
-### 臨床要點 / Clinical Key Points
 
-- 側位食道造影與雙主動脈弓**表现相同**，CT/MRI 為確診所必需
-
----
+> **臨床要點**
+> - 側位食道造影與雙主動脈弓**表现相同**，CT/MRI 為確診所必需
 
 # Pediatric Imaging - PDF Page 757
 
@@ -499,32 +490,32 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 肺动脉襟 / Pulmonary Artery Sling
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **肺动脉襟**：
 - 左肺动脉異常起源於右肺动脉
 - 走形於氣管與食道之間，形成「襟」
 - 通常僅氣管被壓，有時支氣管中葉也可能受壓
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 喘鳴（氣管受壓）
 - **唯一在正常（左）主動脈弓下造成喘鳴的血管異常**
 - 主動脈分支形態正常
 
-### 相關異常 / Associated Anomalies
+## 相關異常 / Associated Anomalies
 
 - 氣管軟化症（Tracheomalacia）
 - **支氣管su异位**（Bronchus suis）：右肺上葉支氣管起源於氣管
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 側位食道造影 / Lateral esophagram | 氣管**後方**壓跡 + 食道**前方**壓跡 |
 | CT/MRI | 確認異常肺动脉走形 |
 
-### 关键点 / Key Point
+## 关键点 / Key Point
 
 - 異常左肺动脉走形於**氣管與食道之間**
 
@@ -532,14 +523,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 左主動弮弓合併右鎖骨下动脉异常 / Left Aortic Arch with Aberrant Right Subclavian Artery
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **左主動弮弓合併右鎖骨下动脉异常**：
 - **不是血管環或血管襟**
 - **不會造成喘鳴**
 - 罕見引起症狀，若有則為**吞嚥困難（dysphagia lusoria）**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -550,40 +541,38 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 無名动脉症候群 / Innominate Artery Syndrome
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **無名动脉症候群**：
 - 嬰兒期胸腺較大，正常無名动脉可壓迫前方氣管
 - 可能造成無名动脉症候群
 
-### 临床要点 / Clinical Key Points
+## 临床要点 / Clinical Key Points
 
 - **不是血管環**
 - 此病因是否具有臨床意義仍有爭議
 
-### 臨床要點 / Clinical Key Points
 
-| 疾病 / Entity | 食道印象 / Esophageal Impression | 氣管印象 / Tracheal Impression | 主動弮弓 / Aortic Arch |
-|---|---|---|---|
-| 雙主動弮弓 / Double aortic arch | 後方 / Posterior | 前方 / Anterior | 雙側 / Both |
-| 右弓 + 左鎖骨下 / Right arch + aberrant LSA | 後方 / Posterior | 前方 / Anterior | 右 / Right |
-| 左弓 + 右鎖骨下 / Left arch + aberrant RSA | 後方 / Posterior | 無 / None | 左 / Left |
-| 肺动脉襟 / PA sling | **前方 / Anterior** | **後方 / Posterior** | 左 / Left |
-
----
+> **臨床要點**
+> | 疾病 / Entity | 食道印象 / Esophageal Impression | 氣管印象 / Tracheal Impression | 主動弮弓 / Aortic Arch |
+> |---|---|---|---|
+> | 雙主動弮弓 / Double aortic arch | 後方 / Posterior | 前方 / Anterior | 雙側 / Both |
+> | 右弓 + 左鎖骨下 / Right arch + aberrant LSA | 後方 / Posterior | 前方 / Anterior | 右 / Right |
+> | 左弓 + 右鎖骨下 / Left arch + aberrant RSA | 後方 / Posterior | 無 / None | 左 / Left |
+> | 肺动脉襟 / PA sling | **前方 / Anterior** | **後方 / Posterior** | 左 / Left |
 
 # Pediatric Imaging - PDF Page 758
 
 ## 血管環與血管襟——影像學總結 / Vascular Rings and Sling — Imaging Summary
 
-### 後方食道壓跡的鉴别診斷 / Differential Diagnosis of Posterior Esophageal Impression
+## 後方食道壓跡的鉴别診斷 / Differential Diagnosis of Posterior Esophageal Impression
 
 | 前方氣管壓跡？ / Anterior Tracheal Impression? | 可能的診斷 / Likely Diagnosis | 備註 / Notes |
 |---|---|---|
 | **有 / Yes** | **雙主動弮弓** 或 **右弓 + 左鎖骨下动脉异常** | 兩者側位X光/食道造影表现相同 |
 | **無 / No** | 左弓 + 右鎖骨下动脉异常 | 通常無症狀，若有則為 dysphagia |
 
-#### 雙主動弮弓 或 右弮 + 左鎖骨下动脉（兩者表现相同）
+### 雙主動弮弓 或 右弮 + 左鎖骨下动脉（兩者表现相同）
 
 | 特徵 / Feature | 說明 / Description |
 |---|---|
@@ -591,7 +580,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 氣管壓跡 / Tracheal impression | 前方 |
 | 臨床上 / Clinical | 兩者皆可致喘鳴 |
 
-#### 左弮 + 右鎖骨下动脉异常
+### 左弮 + 右鎖骨下动脉异常
 
 | 特徵 / Feature | 說明 / Description |
 |---|---|
@@ -601,30 +590,27 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ---
 
-### 前方食道壓跡的鉴别診斷 / Differential Diagnosis of Anterior Esophageal Impression
+## 前方食道壓跡的鉴别診斷 / Differential Diagnosis of Anterior Esophageal Impression
 
 | 疾病 / Entity | 特徵 / Features |
 |---|---|
 | **肺动脉襟 / Pulmonary artery sling** | **唯一**在食道產生前方壓跡的血管環/襟 |
 | 氣管印象 / Tracheal impression | 後方（因異常肺动脉走形於氣管與食道之間） |
 
-### 关键点 / Key Point
+## 关键点 / Key Point
 
 - **肺动脉襟是唯一在正常（左）主動弮弓下造成喘鳴的先天性血管異常**
 - 侧位食道造影：食道前方压迹 + 氣管後方压迹
 
-### 臨床要點 / Clinical Key Points
 
-| 檢查 / Study | 目的 / Purpose |
-|---|---|
-| 胸部正側位X光 / Chest radiograph | 初篩，查找右主動弮弓等线索 |
-| 鋇劑食道造影 / Barium esophagram | 評估氣管與食道受壓情况 |
-| CT/MRI | 確診，手術計劃 |
-
-- 所有具有喘鳴的嬰兒均需考虑**血管環/襟**
-- 正確的影像學評估對手術計劃至關重要
-
----
+> **臨床要點**
+> | 檢查 / Study | 目的 / Purpose |
+> |---|---|
+> | 胸部正側位X光 / Chest radiograph | 初篩，查找右主動弮弓等线索 |
+> | 鋇劑食道造影 / Barium esophagram | 評估氣管與食道受壓情况 |
+> | CT/MRI | 確診，手術計劃 |
+> - 所有具有喘鳴的嬰兒均需考虑**血管環/襟**
+> - 正確的影像學評估對手術計劃至關重要
 
 # Pediatric Imaging - PDF Page 759
 
@@ -632,7 +618,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 新生兒醫源性呼吸窘迫 / Medical Respiratory Distress in the Newborn
 
-### 新生兒呼吸窘迫概論 / Overview of Neonatal Respiratory Distress
+## 新生兒呼吸窘迫概論 / Overview of Neonatal Respiratory Distress
 
 **新生兒呼吸窘迫**可由多種病因引起：
 
@@ -645,7 +631,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 骨骼異常 / Skeletal abnormalities | 胸壁畸形 |
 | 血管異常 / Vascular anomalies | 血管環 |
 
-### 四種經典的新生兒「醫源性」呼吸窘迫 / Four Classic "Medical" Causes
+## 四種經典的新生兒「醫源性」呼吸窘迫 / Four Classic "Medical" Causes
 
 指X光片上**解剖結構正常**（無心臟擴大或胸腔腫塊）但有**瀰漫性肺實質異常**的嬰兒。
 
@@ -653,7 +639,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 新生兒短暫性呼吸急促 / Transient Tachypnea of the Newborn (TTN)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **新生兒短暫性呼吸急促（TTN）**：
 - **新生兒呼吸窘迫最常見的原因**
@@ -661,7 +647,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 - 正常情況下，前列腺素擴張肺淋巴管吸收多餘液體
 - 液體持續存在時，TTN 可能發生
 
-### 危險因子 / Risk Factors
+## 危險因子 / Risk Factors
 
 | 危險因子 / Risk Factor | 說明 / Description |
 |---|---|
@@ -670,21 +656,21 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 母親糖尿病 / Maternal diabetes | 肺液清除延遲 |
 | 男性胎兒 / Male sex | 發病率較高 |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 呼吸急促
 - 肋間凹陷
 - 發紺
 - X光表現可能與新生兒肺炎**难以鉴別**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 胸部X光 / Chest radiograph | 肺水腫表現，常伴有**葉間裂積液** |
 | | 肺紋理增粗、肺門模糊 |
 
-### 鑑别診斷 / Differential Diagnosis
+## 鑑别診斷 / Differential Diagnosis
 
 | 疾病 / Entity | 區別要點 / Key Differences |
 |---|---|
@@ -692,39 +678,37 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 呼吸窘迫症候群 / RDS | 多見於早產兒 |
 | 胎便吸入 / Meconium aspiration | 有胎便接觸史 |
 
-### 臨床要點 / Clinical Key Points
 
-- **TTN 為自限性疾病**，通常在數小時至數天內自行緩解
-- 臨床上常先給予抗生素治療（因與肺炎难分辨）
-- 無需特殊治療
-
----
+> **臨床要點**
+> - **TTN 為自限性疾病**，通常在數小時至數天內自行緩解
+> - 臨床上常先給予抗生素治療（因與肺炎难分辨）
+> - 無需特殊治療
 
 # Pediatric Imaging - PDF Page 760
 
 ## 呼吸窘迫症候群 / Respiratory Distress Syndrome (RDS)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **呼吸窘迫症候群（RDS）**，亦稱**透明膜病（Hyaline Membrane Disease）**：
 - **早產兒呼吸窘迫最常見的原因**
 - 病因：**表面活性物質不足**（因 II 型肺泡細胞成熟度不足）
 - 導致肺順應性降低
 
-### 危險因子 / Risk Factors
+## 危險因子 / Risk Factors
 
 | 危險因子 / Risk Factor | 說明 / Description |
 |---|---|
 | 早產 / Preterm birth | >95% 發生於 **34 週前出生** |
 | 母親糖尿病 / Diabetic mother | 足月兒也可能發病 |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 出生後數小時內出現呼吸急促、發紺
 - 肋間凹陷、哼鳴
 - 需輔助通氣支持
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -732,7 +716,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | | **空氣支氣管徵（Air bronchograms）** |
 | | 肺容積減少（若未插管） |
 
-### 鉴别诊断 / Differential Diagnosis
+## 鉴别诊断 / Differential Diagnosis
 
 - 新生兒短暫性呼吸急促（TTN）
 - 新生兒肺炎
@@ -742,48 +726,46 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 肺間質氣腫 / Pulmonary Interstitial Emphysema (PIE)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **肺間質氣腫（PIE）**：
 - 常與 RDS 合併發生
 - 病因：**氣壓創傷**（barotrauma）導致氣體進入肺間質
 - 氣體沿淋巴路徑蔓延
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 胸部X光 / Chest radiograph | 肺过度充氣 + 多發小囊腫（氣泡） |
 | 可併發 / Complications | 氣縱膈（pneumomediastinum）、氣胸（pneumothorax） |
 
-### 臨床要點 / Clinical Key Points
 
-- 高頻振盪通氣（HFOV）可減少 PIE 嚴重程度
-
----
+> **臨床要點**
+> - 高頻振盪通氣（HFOV）可減少 PIE 嚴重程度
 
 ## 支氣管肺發育不良 / Bronchopulmonary Dysplasia (BPD)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **支氣管肺發育不良（BPD）**，又稱**早產兒慢性肺疾病**：
 - RDS（伴或不伴 PIE）持續數天至一週後，若仍有肺部疾病則稱為 BPD
 - **臨床定義**：36 週糾正月齡或出生後 28 天仍需氧氣，且X光異常
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 持續性氧氣需求
 - 慢性呼吸衰竭
 - **兒科最常見的慢性呼吸衰竭原因**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 胸部X光 / Chest radiograph | **輕度過度充氣** + **粗糙間質影** |
 | | 與 RDS 的肺容積減少不同 |
 
-### RDS 與 BPD 比較 / RDS vs BPD Comparison
+## RDS 與 BPD 比較 / RDS vs BPD Comparison
 
 | 特徵 / Feature | RDS | BPD |
 |---|---|---|
@@ -791,31 +773,29 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 肺容積 / Lung volume | 減少 / Decreased | 正常或輕度增加 |
 | 影像表現 / Imaging | 模糊影 + 空氣支氣管徵 | 粗糙間質影 |
 
-### 臨床要點 / Clinical Key Points
 
-- **BPD = 兒科慢性呼吸衰竭最常見原因**
-
----
+> **臨床要點**
+> - **BPD = 兒科慢性呼吸衰竭最常見原因**
 
 # Pediatric Imaging - PDF Page 761
 
 ## 胎便吸入症候群 / Meconium Aspiration Syndrome
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **胎便吸入症候群**：
 - 好發於**足月及過期產**新生兒
 - **胎便**為脫落細胞、膽色素、胰酶的高度刺激性混合物
 - 可造成嚴重呼吸窘迫
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 呼吸急促、發紺
 - 肋間凹陷
 - 肺順應性降低
 - 易併發氣胸
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -823,7 +803,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | | 肺容積正常或增加 |
 | | 可併發**氣胸**（預後不良） |
 
-### 預後 / Prognosis
+## 預後 / Prognosis
 
 - 差異较大
 - **氣胸的存在使預後顯著變差**
@@ -833,19 +813,19 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 新生兒肺炎 / Neonatal Pneumonia
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **新生兒肺炎**：
 - 與前述疾病不同，症狀需**數小時至數天**才顯現
 - 最常見病原：、B 群鏈球菌（Group B Streptococcus）、金黃色葡萄球菌（S. aureus）、大腸桿菌（E. coli）
 - **於出生時自陰道菌叢獲得**
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 新生兒肺炎非僅限於肺部，而是**新生兒敗血症**的一部分
 - 成人肺炎的典型表現（發熱、白血球升高）在新生兒**不可靠**
 
-### 鑑别诊断 / Differential Diagnosis
+## 鑑别诊断 / Differential Diagnosis
 
 | 疾病 / Entity | 區別要點 / Key Differences |
 |---|---|
@@ -853,23 +833,21 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | RDS | 早產兒為主 |
 | 胎便吸入 | 有胎便接觸史 |
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 病史線索 / History Clue | 提示 / Suggests |
 |---|---|
 | 母親感染 / Maternal infection | 新生兒肺炎 |
 | 胎膜早破延長 / Prolonged ROM | 感染風險增加 |
 
-### 併發症 / Complications
+## 併發症 / Complications
 
 - **感染後囊腫（Post-infectious pneumatocele）**：尤其常見於 S. aureus
 
-### 臨床要點 / Clinical Key Points
 
-- 因臨床表現與 TTN 难分辨，常先給予抗生素
-- **病史**（胎膜早破、母親感染）為重要鑒別線索
-
----
+> **臨床要點**
+> - 因臨床表現與 TTN 难分辨，常先給予抗生素
+> - **病史**（胎膜早破、母親感染）為重要鑒別線索
 
 # Pediatric Imaging - PDF Page 762
 
@@ -879,19 +857,19 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 先天性橫膈疝氣 / Congenital Diaphragmatic Hernia (CDH)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **先天性橫膈疝氣（CDH）**：
 - 腹腔內容物通過橫膈**進入胸腔**
 - 最常見於**左側後方缺陷（Bochdalek 孔）**
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 呼吸窘迫
 - 患側肺部發育不全（**主要併發症**）
 - 右側病變且肝臟疝出者罕見且預後差
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -900,7 +878,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 出生時 / At birth | 疝出腸道可能為液體填充而似實質腫塊 |
 | 出生後不久 / Shortly after birth | 空氣進入腸道，形成典型X光表現 |
 
-### 相關異常 / Associated Anomalies
+## 相關異常 / Associated Anomalies
 
 | 異常 / Anomaly | 比例 / Percentage |
 |---|---|
@@ -912,7 +890,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 支氣管肺前腸畸形概論 / Overview of Bronchopulmonary Foregut Malformations
 
-### 疾病譜系 / Disease Spectrum
+## 疾病譜系 / Disease Spectrum
 
 **支氣管肺前腸畸形**為胚胎前腸的一系列先天性異常，代表從正常到異常的血管與肺實質的連續譜：
 
@@ -926,7 +904,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 肺動靜脈畸形 / PAVM | 異常 | 正常 |
 | 正常肺 / Normal lung | 正常 | 正常 |
 
-### 各疾病簡述 / Brief Description of Each Entity
+## 各疾病簡述 / Brief Description of Each Entity
 
 | 疾病 / Entity | 說明 / Description |
 |---|---|
@@ -937,38 +915,36 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | **彎刀症候群 / Scimitar syndrome** | 部分性肺靜脈回流異常 |
 | **肺動靜脈畸形 / PAVM** | 肺動脈與肺靜脈的異常連接 |
 
-### 臨床要點 / Clinical Key Points
 
-- 理解此疾病譜系有助於**異常肺腫塊的系統性鉴别**
-- **血管供應**是區分 CPAM 與肺隔離症的關鍵
-
----
+> **臨床要點**
+> - 理解此疾病譜系有助於**異常肺腫塊的系統性鉴别**
+> - **血管供應**是區分 CPAM 與肺隔離症的關鍵
 
 # Pediatric Imaging - PDF Page 763
 
 ## 先天性大葉性肺氣腫 / Congenital Lobar Emphysema (CLE)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **先天性大葉性肺氣腫（CLE）**：
 - 肺葉空氣滯留為特徵的症候群
 - 與肺間質氣腫（PIE）**無關**（儘管名稱相似）
 - 最常見病因：**支氣管軟化**（bronchomalacia），導致呼氣時氣道塌陷
 
-### 好發部位 / Most Commonly Affected
+## 好發部位 / Most Commonly Affected
 
 | 部位 / Location | 說明 / Description |
 |---|---|
 | 上葉 / Upper lobe | 最常見 |
 | 中葉 / Middle lobe | 其次常見 |
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 呼吸窘迫（程度取決於受影響範圍）
 - 縱膈移位
 - 患側肺可能越過中線
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -978,7 +954,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 初期 / Perinatal period | 液體填充（似實質腫塊） |
 | 之後 / Subsequently | 空氣進入，囊腫樣外觀 |
 
-### 重要警示 / Critical Warning
+## 重要警示 / Critical Warning
 
 > ⚠️ **千萬別將 CLE 誤診為張力性氣胸——放置胸管會加重呼吸窘迫！**
 
@@ -986,19 +962,19 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 支氣管閉鎖 / Bronchial Atresia
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **支氣管閉鎖**：
 - 支氣管分支**中斷**
 - 遠端黏液瀦留 + 過度充氣
 - 最常受影響部位：**左上葉**
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 通常為**成人時意外發現**
 - 病因可能與 CLE 相關
 
-### 病理機制 / Pathophysiology
+## 病理機制 / Pathophysiology
 
 1. 支氣管阻塞
 2. 遠端支氣管充滿黏液（無法清除）
@@ -1006,7 +982,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 4. 遠端氣道通過側支通氣
 5. 空氣滯留 → 局部過度充氣
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1014,31 +990,29 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | CT 掃描 / CT scan | 阻塞段遠端的**黏液栓** |
 | 超過透明 / Hyperlucent region | 地理形狀的透光增加區域 |
 
-### 臨床要點 / Clinical Key Points
 
-- **左上葉**是最常見發生部位
-- 與 CLE 的區別：支氣管閉鎖有黏液栓/黏液囊腫
-
----
+> **臨床要點**
+> - **左上葉**是最常見發生部位
+> - 與 CLE 的區別：支氣管閉鎖有黏液栓/黏液囊腫
 
 # Pediatric Imaging - PDF Page 764
 
 ## 先天性肺部呼吸道畸形 / Congenital Pulmonary Airway Malformation (CPAM)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **先天性肺部呼吸道畸形（CPAM）**，舊稱**先天性囊性腺瘤樣畸形（CCAM）**：
 - 終末細支氣管的**錯構瘤性增生**
 - 與支氣管樹**相通**
 - **血液供應來自肺循環**（與肺隔離症的體循環供應不同）
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 可造成**佔位效應**
 - 易**感染**
 - 通常建議**手術治療**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1047,7 +1021,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ---
 
-### CPAM / CCAM 分型 / Classification (Stocker)
+## CPAM / CCAM 分型 / Classification (Stocker)
 
 | 類型 / Type | 特徵 / Features | 備註 / Notes |
 |---|---|---|
@@ -1058,7 +1032,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 > ⚠️ **預後取決於病變大小，而非類型！**
 
-### 鑑别诊断 / Differential Diagnosis
+## 鑑别诊断 / Differential Diagnosis
 
 | 疾病 / Entity | 區別要點 / Key Differences |
 |---|---|
@@ -1069,19 +1043,19 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 肺隔離症 / Pulmonary Sequestration
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **肺隔離症**：
 - 異常肺組織，**血液供應來自體循環**（通常為主動脈）
 - **關鍵影像學發現**：體循環供血血管
 - 最常見部位：**左下葉**
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 通常為**實質性**（與 CPAM 的囊性不同）
 - 可無症狀或反覆感染
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1091,24 +1065,24 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ---
 
-### 肺隔離症分型 / Classification of Sequestration
+## 肺隔離症分型 / Classification of Sequestration
 
 | 類型 / Type | 位置 / Location | 靜脈迴流 / Venous Drainage |
 |---|---|---|
 | **葉外型 / Extralobar** | 胸膜外 | 體循環靜脈（主要） |
 | **葉內型 / Intralobar** | 胸膜內 | 肺靜脈 |
 
-#### 葉外型特點 / Extralobar Features
+### 葉外型特點 / Extralobar Features
 
 - 位於胸膜外
 - 可位於橫膈下方（類似腎上腺腫塊）
 
-#### 葉內型特點 / Intralobar Features
+### 葉內型特點 / Intralobar Features
 
 - 位於胸膜內
 - 常與肺炎相關
 
-### CPAM vs 肺隔離症比較 / CPAM vs Sequestration
+## CPAM vs 肺隔離症比較 / CPAM vs Sequestration
 
 | 特徵 / Feature | CPAM | 肺隔離症 / Sequestration |
 |---|---|---|
@@ -1116,30 +1090,28 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 外觀 / Appearance | 囊性 / Cystic | 實質性 / Solid |
 | 與支氣管相通 / Communication with airway | 是 / Yes | 否 / No |
 
-### 臨床要點 / Clinical Key Points
 
-- **體循環供血血管**是確診肺隔離症的關鍵
-- 與 CPAM 的主要區別：血管供應不同
-
----
+> **臨床要點**
+> - **體循環供血血管**是確診肺隔離症的關鍵
+> - 與 CPAM 的主要區別：血管供應不同
 
 # Pediatric Imaging - PDF Page 765
 
 ## 彎刀症候群 / Scimitar Syndrome
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **彎刀症候群**：
 - 為**部分性肺靜脈回流異常（PAPVR）**
 - 右下葉肺靜脈回流至右心房或下腔靜脈（IVC）
 - 與**完全性肺靜脈回流異常（TAPVR）**不同：TAPVR 所有四支肺靜脈均回流至右心房，必須有右向左分流才能存活
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 可能伴隨**右肺發育不全與過度透光**
 - 心臟超聲與 CT/MRI 可確診
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1150,28 +1122,28 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 細支氣管炎 / Bronchiolitis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **細支氣管炎**：
 - 下呼吸道感染
 - **最常見病因：呼吸道融合病毒（RSV）**
 - **美國嬰兒住院的首要原因**
 
-### 病理機制 / Pathophysiology
+## 病理機制 / Pathophysiology
 
 1. 細支氣管上皮發炎
 2. 發炎細胞造成支氣管周圍浸潤
 3. 壞死碎屑導致**細支氣管阻塞**
 4. 此為細支氣管炎的特徵
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 呼吸功增加
 - 喘鳴
 - **兩歲以下兒童**
 - 通常有病毒性上呼吸道前驅症狀
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1179,28 +1151,26 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | | 支氣管周圍紋理增加 |
 | 診斷 / Diagnosis | **主要為臨床診斷** |
 
-### 臨床要點 / Clinical Key Points
 
-- **RSV 是最常見病原**
-- X光發現主觀性高，不同放射科醫師間差異大
-
----
+> **臨床要點**
+> - **RSV 是最常見病原**
+> - X光發現主觀性高，不同放射科醫師間差異大
 
 # Pediatric Imaging - PDF Page 766
 
 ## 閉塞性細支氣管炎症候群 / Bronchiolitis Obliterans Syndrome (BOS)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **閉塞性細支氣管炎症候群（BOS）** = **縮窄性細支氣管炎（Constrictive Bronchiolitis）**：
 - 多種病因導致細支氣管被發炎與纖維組織阻塞的最終共同路徑
 - 可能原因：移植後、感染後（通常為病毒或非典型細菌肺炎後）、毒素或藥物暴露
 
-### 臨床意義 / Clinical Significance
+## 臨床意義 / Clinical Significance
 
 - **小兒異體肺與骨髓移植後最重要的臨床併發症之一**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1213,7 +1183,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## Swyer-James-MacLeod 症候群 / Swyer-James-MacLeod Syndrome
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **Swyer-James-MacLeod 症候群**：
 - 佔年輕患者 **感染後 BOS 的三分之一**
@@ -1221,12 +1191,12 @@ description: 兒童影像學、超音波、X光、CT、MRI
 - 導致**單側肺部過度透光 + 容積減少**
 - **腺病毒感染**是典型病因
 
-### 重要區別 / Critical Distinction
+## 重要區別 / Critical Distinction
 
 > ⚠️ Swyer-James-MacLeod **不是** RSV 細支氣管炎的後遺症！
 > 它僅發生於**閉塞性細支氣管炎（BO）**後，典型者由**腺病毒**引起。
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1236,25 +1206,25 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 隱源性機化性肺炎 / Cryptogenic Organizing Pneumonia (COP)
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **隱源性機化性肺炎（COP）**，舊稱 **BOOP**：
 - 遠端氣道疾病，以**肉芽組織息肉充填細支氣管與肺泡**為特徵
 - **BOOP 與閉塞性細支氣管炎是完全不同的疾病！**
 
-### 命名警告 / Naming Warning
+## 命名警告 / Naming Warning
 
 | 術語 / Term | 說明 / Note |
 |---|---|
 | COP | 現用術語 |
 | BOOP | 舊術語，建議避免使用（易與閉塞性細支氣管炎混淆）|
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - OP 可為感染、藥物反應、吸入的**續發性**表現
 - OP 也可能為幹細胞移植的併發症，但**比 BOS 少見得多**
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 檢查 / Study | 發現 / Finding |
 |---|---|
@@ -1263,25 +1233,23 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | | 結節 |
 | CT | **環礁徵/反暈徵（Atoll/Reverse halo sign）**：中央透光、周圍磨玻璃 |
 
-### 鑑别诊断 / Differential Diagnosis
+## 鑑别诊断 / Differential Diagnosis
 
 | 疾病 / Entity | COP/BOOP | BOS（閉塞性細支氣管炎）|
 |---|---|---|
 | 病因 / Etiology | 多樣 | 移植後或感染後常見 |
 | 命名 / Naming | 避免使用 BOOP | 建議使用 BOS |
 
-### 臨床要點 / Clinical Key Points
 
-- **BOOP ≠ 閉塞性細支氣管炎**
-- 逆暈徵對機化性肺炎相对特異
-
----
+> **臨床要點**
+> - **BOOP ≠ 閉塞性細支氣管炎**
+> - 逆暈徵對機化性肺炎相对特異
 
 # Pediatric Imaging - PDF Page 767
 
 ## 支氣管擴張症 / Bronchiectasis
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **支氣管擴張症**為支氣管擴張，多由炎症引起：
 
@@ -1294,7 +1262,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 吸入 / Aspiration | 異物或胃酸 |
 | 葉內型肺隔離症 / Intralobar sequestration | 反覆感染後 |
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 徵象 / Sign | 說明 / Description |
 |---|---|
@@ -1304,7 +1272,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 單側肺部過度透光 / Unilateral Hyperlucent Lung
 
-### 鑑别診斷流程 / Differential Diagnosis Approach
+## 鑑别診斷流程 / Differential Diagnosis Approach
 
 ```
 單側肺部過度透光
@@ -1330,7 +1298,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## Poland 症候群 / Poland Syndrome
 
-### 疾病概述 / Disease Overview
+## 疾病概述 / Disease Overview
 
 **Poland 症候群**：
 - **自體隱性遺傳**症候群
@@ -1339,25 +1307,23 @@ description: 兒童影像學、超音波、X光、CT、MRI
   - 短掌骨（Short metacarpals）
   - 併指畸形（Syndactyly）
 
-### 臨床特徵 / Clinical Features
+## 臨床特徵 / Clinical Features
 
 - 胸壁輪廓異常
 - 可能影響美觀與功能
 
-### 臨床要點 / Clinical Key Points
 
-| 病因 / Etiology | 單側肺部過度透光 |
-|---|---|
-| 急性 / Acute | 異物吸入、氣胸 |
-| 慢性 / Chronic | CLE、Swyer-James-MacLeod、CPAM、Poland 症候群 |
-
----
+> **臨床要點**
+> | 病因 / Etiology | 單側肺部過度透光 |
+> |---|---|
+> | 急性 / Acute | 異物吸入、氣胸 |
+> | 慢性 / Chronic | CLE、Swyer-James-MacLeod、CPAM、Poland 症候群 |
 
 # Pediatric Imaging - PDF Page 768
 
 ## 兒科縱隔腫塊 / Pediatric Mediastinal Masses
 
-### 解剖分區與常见肿块 / Compartmentalization and Common Masses
+## 解剖分區與常见肿块 / Compartmentalization and Common Masses
 
 | 區域 / Compartment | 常見腫塊 / Common Masses |
 |---|---|
@@ -1365,7 +1331,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | **中縱隔 / Middle** | 前腸囊腫、神經腸囊腫（常伴脊椎異常）、淋巴結病 |
 | **後縱隔 / Posterior** | 神經源性腫瘤（神經母細胞瘤、神經節神經母細胞瘤、神經節瘤） |
 
-### 正常胸腺 / Normal Thymus
+## 正常胸腺 / Normal Thymus
 
 | 情況 / Situation | 說明 / Description |
 |---|---|
@@ -1376,26 +1342,24 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 氣縱膈 / Pneumomediastinum
 
-### 診斷要點 / Diagnostic Key Points
+## 診斷要點 / Diagnostic Key Points
 
 | 徵象 / Sign | 說明 / Description |
 |---|---|
 | **帆船徵（Spinnaker sail sign）** | 氣縱膈中，異常空氣將胸腺抬起 |
 | 正常胸腺帆影 / Normal thymic sail sign | 為胸腺向右的正常延伸 |
 
-### 鑑别诊断 / Differential Diagnosis
+## 鑑别诊断 / Differential Diagnosis
 
 | 徵象 / Sign | 區別 / Differentiation |
 |---|---|
 | Spinnaker sail sign | 雙側胸腺被空氣抬起 |
 | Normal sail sign | 為胸腺的正常右側輪廓 |
 
-### 臨床要點 / Clinical Key Points
 
-- **帆船徵 ≠ 正常胸腺帆影**
-- 前者有空氣在胸腺與縱膈之間
-
----
+> **臨床要點**
+> - **帆船徵 ≠ 正常胸腺帆影**
+> - 前者有空氣在胸腺與縱膈之間
 
 # Pediatric Imaging - PDF Page 769
 
@@ -1403,7 +1367,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 先天性心臟病的平片評估 / Plain Film Evaluation of Congenital Heart Disease
 
-### 概論 / Overview
+## 概論 / Overview
 
 | 歷史背景 / Historical Context | 現代實踐 / Modern Practice |
 |---|---|
@@ -1411,13 +1375,13 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 新生兒呼吸急促時，心臟超聲為首選 | 若新生兒意外出現呼吸急促，心臟超聲為首選 |
 | 平片對具體診斷價值有限 | 但平片仍有描述價值（如肺血管、心臟大小） |
 
-### 評估要點 / Two Key Steps
+## 評估要點 / Two Key Steps
 
 > **臨床關鍵：先確定患者是否有發紺（Cyanosis）**
 
 ---
 
-### 第一步：肺血管系統 / Step 1: Pulmonary Vascularity
+## 第一步：肺血管系統 / Step 1: Pulmonary Vascularity
 
 | 類型 / Type | 特徵 / Features | 病因 / Etiology |
 |---|---|---|
@@ -1425,14 +1389,14 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | **肺動脈血流增加（分流血管）** | 周圍1/3肺部可見清晰、粗大血管 | 左向右分流 |
 | **肺動脈血流減少** | 周圍1/3肺部血管減少 | 右心室流出道阻塞 |
 
-#### 發紺的關鍵原則 / Critical Rule
+### 發紺的關鍵原則 / Critical Rule
 
 > ⚠️ **任何導致肺動脈血流減少的病變一定是發紺型先心病！**
 > 因為肺部血流不足，血液無法充分氧合。
 
 ---
 
-### 第二步：心臟大小 / Step 2: Heart Size
+## 第二步：心臟大小 / Step 2: Heart Size
 
 | 心臟大小 / Heart Size | 可能的病變 / Possible Lesions |
 |---|---|
@@ -1444,7 +1408,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ---
 
-### 其他輔助線索 / Additional Helpful Clues
+## 其他輔助線索 / Additional Helpful Clues
 
 | 線索 / Finding | 幫助鑑別 / Helps Differentiate |
 |---|---|
@@ -1454,7 +1418,7 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ---
 
-### 非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease
+## 非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease
 
 | 疾病 / Condition | 說明 / Description |
 |---|---|
@@ -1464,12 +1428,10 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 先天性橫膈疝氣 / CDH | 未充氣腸道似心臟擴大 |
 | 細支氣管炎 / Bronchiolitis | 可似肺水腫 |
 
-### 臨床要點 / Clinical Key Points
 
-- **先問發紺 → 再看肺血管 → 再看心臟大小**
-- 任何看起來像先心病的表現，都可能是其他疾病
-
----
+> **臨床要點**
+> - **先問發紺 → 再看肺血管 → 再看心臟大小**
+> - 任何看起來像先心病的表現，都可能是其他疾病
 
 # Pediatric Imaging - PDF Page 770
 
@@ -7053,7 +7015,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ## 新生兒呼吸窘迫 / Newborn Respiratory Distress
 
-### 短暫性新生兒呼吸急促（TTN）/ Transient Tachypnea of the Newborn
+## 短暫性新生兒呼吸急促（TTN）/ Transient Tachypnea of the Newborn
 
 **病因：** 常見於剖腹產或急產的嬰兒，因胎兒肺液吸收延遲所致。
 
@@ -7067,7 +7029,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 新生兒呼吸窘迫症候群（NRDS）/ Neonatal Respiratory Distress Syndrome
+## 新生兒呼吸窘迫症候群（NRDS）/ Neonatal Respiratory Distress Syndrome
 
 又稱：透明膜病（Hyaline Membrane Disease）、表面活性物質不足症（Surfactant Deficiency Disorder）
 
@@ -7085,7 +7047,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 胎便吸入症候群（MAS）/ Meconium Aspiration Syndrome
+## 胎便吸入症候群（MAS）/ Meconium Aspiration Syndrome
 
 **病因：** 常見於過期產兒（postmature infants）。約 15-20% 的懷孕中可見胎便（meconium）。胎便物質造成支氣管阻塞、空氣滯留、以及化學性肺炎。
 
@@ -7103,7 +7065,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 嬰兒慢性肺疾病（CLD）/ Chronic Lung Disease of Infancy
+## 嬰兒慢性肺疾病（CLD）/ Chronic Lung Disease of Infancy
 
 又稱：支氣管肺發育不良（Bronchopulmonary Dysplasia, BPD）
 
@@ -7120,7 +7082,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 治療併發症：氣壓傷 / Barotrauma
+## 治療併發症：氣壓傷 / Barotrauma
 
 新生兒呼吸窘迫的治療併發症主要來自正壓通氣，包括：
 
@@ -7137,7 +7099,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ## 兒童肺部疾病 / Childhood Lung Disease
 
-### 反應性氣道疾病 / 細支氣管炎（Reactive Airways Disease / Bronchiolitis）
+## 反應性氣道疾病 / 細支氣管炎（Reactive Airways Disease / Bronchiolitis）
 
 **定義：** 涵蓋一群以喘鳴（wheezing）、呼吸困難、咳嗽為特徵的兒童疾病。初始發作常稱為「細支氣管炎」。與慢性氣喘不同，通常為暫時性，但可能隨時間演變為氣喘。
 
@@ -7153,7 +7115,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 氣喘（Asthma）
+## 氣喘（Asthma）
 
 **特點：** 氣喘是臨床診斷，非放射學診斷。胸部 X 光有助於找出病因或併發症。
 
@@ -7163,7 +7125,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 肺炎（Pneumonia）
+## 肺炎（Pneumonia）
 
 **年齡因素：** 年齡是兒童肺炎病因及臨床表現的重要決定因素。
 
@@ -7206,7 +7168,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ## 頸部軟組織 / Soft Tissues of the Neck
 
-### 扁桃腺與腺樣增殖體肥大 / Enlarged Tonsils and Adenoids
+## 扁桃腺與腺樣增殖體肥大 / Enlarged Tonsils and Adenoids
 
 **正常發育：** 新生兒期腺樣增殖體（adenoids）在 X 光上不可見，通常 3-6 個月後才可見。腺樣增殖體於約 6 歲時最大，之後逐漸退化。成人正常狀態下無可見腺樣增殖體。
 
@@ -7219,7 +7181,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 急性會厭炎 / Acute Bacterial Epiglottitis
+## 急性會厭炎 / Acute Bacterial Epiglottitis
 
 **病因：** 急性細菌性會厭炎可危及生命，導致氣道阻塞。過去最常見致病菌為 **B 型流感嗜血桿菌（Haemophilus influenzae type B）**，自 1985 年疫苗引進後已大幅減少。其他致病菌包括：肺炎鏈球菌、A 群鏈球菌、皰疹病毒、副流感病毒。
 
@@ -7241,7 +7203,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 ---
 
-### 哮吼（喉氣管支氣管炎）/ Croup (Laryngotracheobronchitis)
+## 哮吼（喉氣管支氣管炎）/ Croup (Laryngotracheobronchitis)
 
 **病因：** 通常為病毒性，最常見：副流感病毒（類型 1、2、3）、呼吸道融合病毒（RSV）、流感病毒、黴漿菌。好發年齡：6 個月至 3 歲（比會厭炎年幼）。
 
@@ -7297,7 +7259,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 **定義：** 生長板（epiphyseal plate/physis）的肥大層（hypertrophic zone）是承受剪切力最脆弱的部位。生長板骨折佔兒童所有骨折的 **30%**，且僅能發生於骨骼未成熟個體。
 
-### Salter-Harris 分型
+## Salter-Harris 分型
 
 | 分型 | 骨折內容 | 預後 |
 |------|---------|------|
@@ -7307,7 +7269,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 | **Type IV** | 生長板＋骨骺＋骨幹骨折 | 預後差，易早期生長板融合 |
 | **Type V** | 生長板擠壓傷（crush injury） | 預後最差，診斷困難 |
 
-### 各型特點
+## 各型特點
 
 - **Type I**：僅生長板分離，診斷困難（需對側比較）。好發於：指骨、遠端橈骨。**股骨頭骨骺滑脫症（SCFE）** 屬此型。
 - **Type II**：最常見（75%），尤其遠端橈骨。預後通常良好。
@@ -7323,7 +7285,7 @@ Cambridge Books Online © Cambridge University Press, 2013
 
 兒童虐待的放射學評估是確診的關鍵。
 
-### 疑似虐待的骨折特徵
+## 疑似虐待的骨折特徵
 
 | 骨折部位/特徵 | 臨床意義 |
 |---------------|---------|

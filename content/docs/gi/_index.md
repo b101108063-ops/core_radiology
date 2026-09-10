@@ -3,22 +3,19 @@ title: "Gastrointestinal Imaging"
 weight: 2
 ---
 
-# Gi
-
-# Gastrointestinal Imaging - Page 100
 
 ![Page 100](/core_radiology/images/gi/page-100.png)
 
 
-### 肝臟代謝性疾病 / Hepatic Metabolic Disorders
+## 肝臟代謝性疾病 / Hepatic Metabolic Disorders
 
-#### 肝臟澱粉樣變性 / Hepatic Amyloid
+### 肝臟澱粉樣變性 / Hepatic Amyloid
 
 **澱粉樣變性**是異常細胞外澱粉樣蛋白沉積於肝臟，可導致局灶性或瀰漫性 **CT 低衰減**（罕見）。
 
 ---
 
-#### Wilson 病 / Wilson Disease
+### Wilson 病 / Wilson Disease
 
 **Wilson 病**為自體隱性遺傳缺陷，導致**銅**大量堆積於基底核、角膜及肝臟。
 
@@ -26,9 +23,9 @@ weight: 2
 
 ---
 
-### 肝臟鐵質沉積 / Hepatic Iron Overload
+## 肝臟鐵質沉積 / Hepatic Iron Overload
 
-#### 鑑別：血色素沉著症 vs. 鐵質沉著症
+### 鑑別：血色素沉著症 vs. 鐵質沉著症
 
 | 特性 | **血色素沉著症（Hemochromatosis）** | **鐵質沉著症（Hemosiderosis）** |
 |------|-------------------------------------|----------------------------------|
@@ -48,7 +45,7 @@ weight: 2
 
 ---
 
-### CT 衰減值鑑別診斷 / Differential Based on CT Attenuation
+## CT 衰減值鑑別診斷 / Differential Based on CT Attenuation
 
 | 類型 | CT 衰減值 | 常見原因 |
 |------|-----------|----------|
@@ -57,27 +54,25 @@ weight: 2
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **鐵質沉積**是肝臟高衰減最常見原因；**脂肪肝**是低衰減最常見原因
 > - **血色素沉著症**：鐵沉積於肝細胞、可發展為肝硬化，治療用靜脈切開術；**鐵質沉著症**：鐵沉積於 RES（脾臟、骨髓亦受影響），治療用鐵整合劑
 > - Wilson 病導致肝臟 CT **高衰減**，因銅離子堆積所致
 
----
-
-# Gastrointestinal Imaging - Page 101
 
 ![Page 101](/core_radiology/images/gi/page-101.png)
 
 
-### 肝臟感染 / Hepatic Infection
+## 肝臟感染 / Hepatic Infection
 
-#### 病毒性肝炎 / Viral Hepatitis
+### 病毒性肝炎 / Viral Hepatitis
 
 **病毒性肝炎**患者 CT 掃描通常**正常**。非特異性 CT 表現包括：膽囊壁增厚、門靜脈周圍水腫（門靜脈兩側均有液體）。
 
 ---
 
-#### 念珠菌病 / Candidiasis
+### 念珠菌病 / Candidiasis
 
 **全身性黴菌感染**可經由受感染腸道的門靜脈引流種植至肝臟（及脾臟）。
 
@@ -91,7 +86,7 @@ weight: 2
 
 ---
 
-#### 肝臟膿瘍 / Hepatic Abscess
+### 肝臟膿瘍 / Hepatic Abscess
 
 **肝臟膿疡**最常見原因為腸道病變經門靜脈系統帶菌播散至肝臟。
 
@@ -108,7 +103,7 @@ weight: 2
 
 ---
 
-#### 棘球囊病 / Echinococcal Disease (Hydatid Cyst)
+### 棘球囊病 / Echinococcal Disease (Hydatid Cyst)
 
 **肝臟棘球囊病**由攝入**細粒棘球絛蟲（Echinococcus granulosus）**蟲卵引起，流行於**地中海盆地**及**牧羊地區**。
 
@@ -121,21 +116,19 @@ weight: 2
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **念珠菌性微膿疡**幾乎僅見於免疫抑制患者（尤其是骨髓移植患者），與轉移瘤、淋巴瘤鑑別
 > - 肝臟膿疡最常見致病菌為 **E. coli**，典型途徑為腸道感染 → 門靜脈 → 肝臟
 > - **棘球囊病**流行於地中海盆地，CT 特徵為囊性腫塊內含浮膜或子囊
 
----
-
-# Gastrointestinal Imaging - Page 102
 
 ![Page 102](/core_radiology/images/gi/page-102.png)
 
 
-### 肝硬化 / Cirrhosis
+## 肝硬化 / Cirrhosis
 
-#### 病因與病理 / Etiology and Pathology
+### 病因與病理 / Etiology and Pathology
 
 **肝硬化**由反覆損傷與修復循環引起，原因包括：
 
@@ -152,7 +145,7 @@ weight: 2
 
 ---
 
-#### 肝硬化早期徵象 / Early Signs of Cirrhosis
+### 肝硬化早期徵象 / Early Signs of Cirrhosis
 
 | 徵象 | 說明 |
 |------|------|
@@ -162,7 +155,7 @@ weight: 2
 
 ---
 
-#### 肝硬化續發表現 / Secondary Manifestations of Cirrhosis
+### 肝硬化續發表現 / Secondary Manifestations of Cirrhosis
 
 - **門脈高壓**：脾腫大、門體側支循環、靜脈曲張
 - **膽囊壁增厚**：因低白蛋白血症導致水腫
@@ -170,9 +163,9 @@ weight: 2
 
 ---
 
-### 肝細胞癌的演變 / Pathway to Hepatocellular Carcinoma (HCC)
+## 肝細胞癌的演變 / Pathway to Hepatocellular Carcinoma (HCC)
 
-#### 結節演變序列
+### 結節演變序列
 
 **再生結節（Regenerative nodule）**
 - 完全由門靜脈供血，**非癌前病變**
@@ -193,19 +186,17 @@ weight: 2
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **尾狀葉/右葉比值 >0.65** 是肝硬化的特異性徵象，因尾狀葉繞過肝靜脈直接引流至 IVC 而被保留
 > - 肝硬化中 HCC 演變：再生結節 → 發育不良結節 → HCC；發育不良結節與 HCC 影像學上難以區分
 > - **鐵質沉著結節**是良性病變，與 HCC 的重要鑑別點為其幾乎無惡性可能
 
----
-
-# Gastrointestinal Imaging - Page 103
 
 ![Page 103](/core_radiology/images/gi/page-103.png)
 
 
-### 肝細胞癌 / Hepatocellular Carcinoma (HCC)
+## 肝細胞癌 / Hepatocellular Carcinoma (HCC)
 
 **肝細胞癌（HCC）**是最常見的原發性肝臟腫瘤。**肝硬化**是 HCC 發生的最大危險因子。
 
@@ -213,7 +204,7 @@ weight: 2
 
 ---
 
-#### 影像學特徵
+### 影像學特徵
 
 | 特徵 | 說明 |
 |------|------|
@@ -229,7 +220,7 @@ weight: 2
 
 ---
 
-#### 侵襲性 / Locally Invasive
+### 侵襲性 / Locally Invasive
 
 HCC 容易局部侵犯至：
 - **門靜脈**（最常見）
@@ -242,7 +233,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 纖維板型 HCC / Fibrolamellar HCC
+## 纖維板型 HCC / Fibrolamellar HCC
 
 **纖維板型肝癌**是 HCC 的亞型，發生於**無肝硬化的年輕患者**。
 
@@ -263,21 +254,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **HCC** 典型影像學表現：動脉期強化 + 門脈期廓清；約 75% 患者 AFP 升高
 > - **纖維板型 HCC**：年輕患者、無肝硬化、AFP 不升高；MRI 中央疤痕為 **T2 低訊號**（不同於 FNH 的 T2 高訊號）
 > - HCC 具有局部侵犯性，常侵犯**門靜脈**；轉移性肝病灶則局部侵犯較少
 
----
-
-# Gastrointestinal Imaging - Page 104
 
 ![Page 104](/core_radiology/images/gi/page-104.png)
 
 
-### 肝臟轉移 / Hepatic Metastases
+## 肝臟轉移 / Hepatic Metastases
 
-#### 血供特徵
+### 血供特徵
 
 | 類型 | 腫瘤範例 | 最佳顯像時相 |
 |------|----------|--------------|
@@ -294,7 +283,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 假性肝硬化 / Pseudocirrhosis
+## 假性肝硬化 / Pseudocirrhosis
 
 **假性肝硬化**為多發性硬索性肝臟轉移導致的**大結節性肝臟輪廓**，可模擬肝硬化外觀。
 
@@ -307,13 +296,13 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 肝臟淋巴瘤 / Hepatic Lymphoma
+## 肝臟淋巴瘤 / Hepatic Lymphoma
 
 原發性肝臟淋巴瘤**極罕見**。肝臟淋巴瘤浸潤多為**全身性疾病的續發表現**，常伴隨脾腫大及淋巴結病變。
 
 ---
 
-### 上皮樣血管內皮瘤 / Epithelioid Hemangioendothelioma
+## 上皮樣血管內皮瘤 / Epithelioid Hemangioendothelioma
 
 **上皮樣血管內皮瘤**為罕見的血管惡性腫瘤。
 
@@ -324,7 +313,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 肝臟包膜回縮的鑑別診斷 / Differential Diagnosis of Capsular Retraction
+## 肝臟包膜回縮的鑑別診斷 / Differential Diagnosis of Capsular Retraction
 
 | 病因 |
 |------|
@@ -337,27 +326,25 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **低血供轉移瘤**（如大腸癌）在**門脈期**最佳；**富血供轉移瘤**（神經內分泌腫瘤、腎細胞癌）在動脉期最佳
 > - **假性肝硬化**最常見於治療後乳癌轉移，與真正肝硬化的鑑別點為包膜回縮及正常肝功能
 > - **包膜回縮**的病因多樣，包括轉移瘤（治療後）、纖維板型 HCC、上皮樣血管內皮瘤及膽管癌
 
----
-
-# Gastrointestinal Imaging - Page 105
 
 ![Page 105](/core_radiology/images/gi/page-105.png)
 
 
-### 良性肝臟腫塊 / Benign Liver Masses
+## 良性肝臟腫塊 / Benign Liver Masses
 
-#### 局灶性結節增生 / Focal Nodular Hyperplasia (FNH)
+### 局灶性結節增生 / Focal Nodular Hyperplasia (FNH)
 
 **局灶性結節增生（FNH）**是一種無序排列的肝臟組織，**無惡性潛能**。主要見於無症狀女性，與口服避孕藥**無關**。
 
 ---
 
-#### 影像學特徵
+### 影像學特徵
 
 | 時相 | 表現 |
 |------|------|
@@ -376,7 +363,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 組織學特徵
+### 組織學特徵
 
 - 含有 **Kupffer 細胞**和**膽管上皮**
 - **硫膠體掃描（1/3 病例）**：Kupffer 細胞攝取膠體
@@ -384,7 +371,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### FNH vs. 纖維板型 HCC 的疤痕鑑別
+### FNH vs. 纖維板型 HCC 的疤痕鑑別
 
 | 病變 | T2 訊號 | 延遲強化 |
 |------|---------|----------|
@@ -393,25 +380,23 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **FNH** 是無惡性潛能的良性病變，與口服避孕藥無關；動脉期顯著強化、快速廓清是典型表現
 > - FNH 中央疤痕為 **T2 高訊號**（與纖維板型 HCC 的 T2 低訊號疤痕鑑別）
 > - FNH 含有 Kupffer 細胞，硫膠體掃描可見攝取（1/3 病例）；HIDA 掃描可見膽管細胞
 
----
-
-# Gastrointestinal Imaging - Page 106
 
 ![Page 106](/core_radiology/images/gi/page-106.png)
 
 
-### 肝血管瘤 / Hepatic Hemangioma
+## 肝血管瘤 / Hepatic Hemangioma
 
 **肝血管瘤**是由無序排列的**內皮細胞襯裡血管腔隙**組成的良性腫塊，由肝臟周邊的肝動脈分支供血。
 
 ---
 
-#### 臨床特徵
+### 臨床特徵
 
 | 特徵 | 說明 |
 |------|------|
@@ -422,7 +407,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 影像學特徵
+### 影像學特徵
 
 **典型影像學特徵：**
 - **周邊性、不連續性、進行性結節狀強化（peripheral discontinuous nodular enhancement）**
@@ -445,19 +430,17 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 肝血管瘤的**特徵性影像學表現**為周邊結節狀強化、向心性填充，強化程度與主動脈相同
 > - 血管瘤在 **T2 加權圖像上呈明顯高訊號**（「亮燈」徵）
 > - 肝硬化患者中血管瘤少見且可退化；巨大血管瘤中心可見囊性退化的非強化區
 
----
-
-# Gastrointestinal Imaging - Page 107
 
 ![Page 107](/core_radiology/images/gi/page-107.png)
 
 
-### 肝臟腺瘤 / Hepatic Adenoma
+## 肝臟腺瘤 / Hepatic Adenoma
 
 **肝臟腺瘤**是含有肝細胞、散在 Kupffer 細胞但**無膽管**的良性肝臟腫瘤。
 
@@ -467,7 +450,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 臨床特徵
+### 臨床特徵
 
 | 特徵 | 說明 |
 |------|------|
@@ -479,7 +462,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 影像學特徵
+### 影像學特徵
 
 | 表現 | 說明 |
 |------|------|
@@ -492,21 +475,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **肝臟腺瘤**與口服避孕藥相關（女性），男性可能與合成代謝類固醇相關；因破裂風險較高，通常建議切除
 > - **HIDA 掃描**可鑑別 FNH（有膽管，陽性）與腺瘤（無膽管，陰性）
 > - 同相位/反相位 MRI 可檢測腺瘤中的**細胞內脂肪**，是重要的鑑別工具
 
----
-
-# Gastrointestinal Imaging - Page 108
 
 ![Page 108](/core_radiology/images/gi/page-108.png)
 
 
-### 肝臟血管疾病 / Vascular Liver Disease
+## 肝臟血管疾病 / Vascular Liver Disease
 
-#### Budd-Chiari 症候群（肝靜脈流出道阻塞）
+### Budd-Chiari 症候群（肝靜脈流出道阻塞）
 
 **Budd-Chiari 症候群**為肝靜脈流出道阻塞，可為血栓性或非血栓性。
 
@@ -524,7 +505,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 靜脈阻塞性疾病 / Veno-Occlusive Disease (VOD)
+### 靜脈阻塞性疾病 / Veno-Occlusive Disease (VOD)
 
 **靜脈阻塞性疾病（VOD）**為肝竪狀小靜脈（post-sinusoidal venules）的破壞，**肝靜脈通暢**。
 
@@ -535,7 +516,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 心源性肝病 / Cardiac Hepatopathy
+### 心源性肝病 / Cardiac Hepatopathy
 
 **心源性肝病**為心衰竭、限制性心包膜炎或右側瓣膜病引起的被動性肝淤血，最終可導致肝硬化。
 
@@ -547,15 +528,15 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 先天性囊性肝病 / Congenital Cystic Liver Disease
+## 先天性囊性肝病 / Congenital Cystic Liver Disease
 
-#### 膽管錯構瘤 / Biliary Hamartomas (von Meyenburg Complexes)
+### 膽管錯構瘤 / Biliary Hamartomas (von Meyenburg Complexes)
 
 - 為偶然發現的小囊性肝臟病變，**不與膽道交通**
 - 由胚胎發育時膽管形成失敗所致
 - 比單純囊腫更小、形狀更不規則
 
-#### 自體顯性多囊肝病 / Autosomal Dominant Polycystic Liver Disease (ADPLD)
+### 自體顯性多囊肝病 / Autosomal Dominant Polycystic Liver Disease (ADPLD)
 
 - **40% 的自體顯性多囊腎病（ADPKD）**患者同時有 ADPLD
 - 即使病情嚴重，肝衰竭罕見
@@ -563,21 +544,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Budd-Chiari 症候群**：急性三聯徵（肝腫大、腹水、腹痛）；尾狀葉因直接引流至 IVC 而被保留，是重要鑑別點
 > - **靜脈阻塞性疾病（VOD）**：骨髓移植患者，肝靜脈通暢，尾狀葉不被保留（與 Budd-Chiari 鑑別）
 > - **心源性肝病**：肝靜脈/IVC 擴張 + 對比劑逆流是重要影像學線索
 
----
-
-# Gastrointestinal Imaging - Page 109
 
 ![Page 109](/core_radiology/images/gi/page-109.png)
 
 
-### 肝臟創傷 / Liver Trauma
+## 肝臟創傷 / Liver Trauma
 
-#### 概述
+### 概述
 
 **肝臟**是鈍性創傷中第二常見受損的實質臟器（僅次於脾臟）。
 
@@ -587,7 +566,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### MDCT 肝臟創傷分級
+### MDCT 肝臟創傷分級
 
 | 等級 | 表現 |
 |------|------|
@@ -599,9 +578,9 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 膽道影像學 / Biliary Imaging
+## 膽道影像學 / Biliary Imaging
 
-#### MRCP 概述 / MRCP Overview
+### MRCP 概述 / MRCP Overview
 
 **磁共振膽胰管成像（MRCP）**是一種腹部 MRI 技術，使用重度 T2 加權序列，增加 T2 高訊號的靜止膽汁與周圍結構之間的對比度。
 
@@ -613,7 +592,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### MRCP vs. ERCP 的優勢與劣勢
+### MRCP vs. ERCP 的優勢與劣勢
 
 | 比較 | MRCP 優勢 | MRCP 劣勢 |
 |------|-----------|-----------|
@@ -624,7 +603,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 對比增強 MRCP
+### 對比增強 MRCP
 
 使用具有膽道排泄的對比劑（如 **Gd-EOB-DTPA（Eovist）** 或 **Gd-BOPTA（Multihance）**）可進行對比增強 MRCP：
 - T1 加權圖像上膽汁呈 **T1 高訊號**
@@ -632,21 +611,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - MDCT 肝臟創傷分級（I-V）與脾臟創傷分級相似；Grade IV/V 為嚴重損傷
 > - **MRCP** 為非侵入性、無輻射，可替代 ERCP 用於診斷性評估；ERCP 仍為治療首選
 > - 使用對比增強 MRCP（如 Eovist）時，需延遲 **20-45 分鐘**待膽道排泄後掃描
 
----
-
-# Gastrointestinal Imaging - Page 110
 
 ![Page 110](/core_radiology/images/gi/page-110.png)
 
 
-### 膽管囊腫 / Choledochal Cysts
+## 膽管囊腫 / Choledochal Cysts
 
-#### Todani 分類 / Todani Classification
+### Todani 分類 / Todani Classification
 
 | 分型 | 描述 | 圖示 |
 |------|------|------|
@@ -660,20 +637,18 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Type I**（肝外梭狀擴張）是最常見的膽管囊腫類型，約佔 50%
 > - **Type V** 即為 **Caroli 病**，為肝內膽管囊性擴張
 
----
-
-# Gastrointestinal Imaging - Page 111
 
 ![Page 111](/core_radiology/images/gi/page-111.png)
 
 
-### 膽管囊腫（續）/ Choledochal Cysts (continued)
+## 膽管囊腫（續）/ Choledochal Cysts (continued)
 
-#### 臨床特點
+### 臨床特點
 
 **膽管囊腫**代表一組異質性疾病，共同的最終表現為肝內或肝外膽管擴張。
 
@@ -688,13 +663,13 @@ HCC 容易局部侵犯至：
 
 ---
 
-### Type I 膽管囊腫 / Type I Choledochal Cyst
+## Type I 膽管囊腫 / Type I Choledochal Cyst
 
 **Type I** 為肝外膽管（膽總管）的梭狀擴張，是**最常見的肝外囊腫類型**。
 
 ---
 
-### Caroli 病（Type V 膽管囊腫）/ Caroli Disease
+## Caroli 病（Type V 膽管囊腫）/ Caroli Disease
 
 **Caroli 病**為肝內膽管的囊狀擴張，可為節段性或瀰漫性。
 
@@ -708,35 +683,33 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 膽道解剖變異 / Biliary Anatomical Variants
+## 膽道解剖變異 / Biliary Anatomical Variants
 
-#### 膽囊管低位匯入 / Low Insertion of Cystic Duct
+### 膽囊管低位匯入 / Low Insertion of Cystic Duct
 
 - 膽囊管低位匯入時，外科醫師可能將總膽管誤認為膽囊管，導致**意外的總膽管結扎**
 - 膽囊切除術中需特別注意
 
-#### 迷走右後肝管 / Aberrant Right Posterior Duct
+### 迷走右後肝管 / Aberrant Right Posterior Duct
 
 - 若患者為**右肝葉肝臟捐贈者**，此變異具有重要意義
 - 兩條右肝管需分別與受贈者進行吻合
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 膽管囊腫與膽道**交通**（與膽管錯構瘤不交通鑑別）；因**膽道癌（25%）**風險高，通常建議手術切除
 > - **Caroli 病**為 Type V 膽管囊腫；Caroli 症候群 = Caroli 病 + 肝纖維化；**中央點徵**是其特徵性影像學表現
 > - 膽囊管低位匯入者在膽囊切除術中有意外損傷總膽管的風險
 
----
-
-# Gastrointestinal Imaging - Page 112
 
 ![Page 112](/core_radiology/images/gi/page-112.png)
 
 
-### 膽囊感染與發炎 / Gallbladder Infection and Inflammation
+## 膽囊感染與發炎 / Gallbladder Infection and Inflammation
 
-#### 急性膽囊炎 / Acute Cholecystitis
+### 急性膽囊炎 / Acute Cholecystitis
 
 **急性膽囊炎**是膽囊頸或膽囊管阻塞導致的發炎和局部感染。
 
@@ -756,7 +729,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 急性膽囊炎的併發症
+### 急性膽囊炎的併發症
 
 | 併發症 | 特點 |
 |--------|------|
@@ -766,7 +739,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 膽囊陶瓷化 / Porcelain Gallbladder
+### 膽囊陶瓷化 / Porcelain Gallbladder
 
 **膽囊陶瓷化**描述膽囊壁周邊性鈣化，為慢性膽囊炎的後遺症。
 
@@ -775,21 +748,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **急性膽囊炎**超聲診斷標準：壁增厚 >3 mm、周圍液體/脂肪發炎、膽囊充血、結石
 > - **氣性膽囊炎**典型見於老年糖尿病患者，屬緊急情況
 > - **膽囊陶瓷化**為慢性膽囊炎後遺症，與膽囊癌風險增加相關，建議手術切除
 
----
-
-# Gastrointestinal Imaging - Page 113
 
 ![Page 113](/core_radiology/images/gi/page-113.png)
 
 
-### 膽管感染與發炎 / Bile Duct Infection and Inflammation
+## 膽管感染與發炎 / Bile Duct Infection and Inflammation
 
-#### 上升性膽管炎 / Ascending Cholangitis
+### 上升性膽管炎 / Ascending Cholangitis
 
 **上升性膽管炎**最常見原因為**膽總管結石（choledocholithiasis）**導致膽道阻塞。
 
@@ -804,7 +775,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 原發性硬化性膽管炎 / Primary Sclerosing Cholangitis (PSC)
+### 原發性硬化性膽管炎 / Primary Sclerosing Cholangitis (PSC)
 
 **原發性硬化性膽管炎（PSC）**為原因不明的膽管發炎及破壞。
 
@@ -821,7 +792,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 原發性膽汁性肝硬化 / Primary Biliary Cirrhosis (PBC)
+### 原發性膽汁性肝硬化 / Primary Biliary Cirrhosis (PBC)
 
 **原發性膽汁性肝硬化（PBC）**為較小膽管的發炎及破壞（與 PSC 不同）。
 
@@ -833,19 +804,17 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **上升性膽管炎**：Charcot's 三聯徵（發燒、腹痛、黃疸）；膽總管結石是最常見原因
 > - **PSC**：與潰疡性結腸炎高度相關；膽道造影呈串珠狀；横断面成像對評估併發症優於 ERCP
 > - **PBC** 影響較小膽管，好發於中年女性，首發症狀常為搔癢
 
----
-
-# Gastrointestinal Imaging - Page 114
 
 ![Page 114](/core_radiology/images/gi/page-114.png)
 
 
-### AIDS 膽管炎 / AIDS Cholangitis (AIDS Cholangiopathy)
+## AIDS 膽管炎 / AIDS Cholangitis (AIDS Cholangiopathy)
 
 **愛滋病患者**易感染 **Cryptosporidium** 及 **CMV**，臨床表現為右上腹痛、發燒及肝功能升高。
 
@@ -855,7 +824,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 反覆性化膿性膽管炎 / Recurrent Pyogenic Cholangitis (Oriental Cholangiohepatitis)
+## 反覆性化膿性膽管炎 / Recurrent Pyogenic Cholangitis (Oriental Cholangiohepatitis)
 
 **反覆性化膿性膽管炎**，又稱**東方膽管肝炎**，致病因素為**中華肝吸蟲（Clonorchis sinensis）**，導致膽色素結石形成、膽汁淤積及膽管炎。東南亞地方性流行。
 
@@ -868,9 +837,9 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 膽道腫瘤 / Biliary Neoplasia
+## 膽道腫瘤 / Biliary Neoplasia
 
-#### 膽道囊腺瘤 / Biliary Cystadenoma
+### 膽道囊腺瘤 / Biliary Cystadenoma
 
 **膽道囊腺瘤**為良性囊性腫瘤，好發於**中年女性**。
 
@@ -892,19 +861,17 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **AIDS 膽管炎**與 PSC 影像學相似，但 AIDS 膽管炎常見**乳頭狹窄**
 > - **反覆性化膿性膽管炎**：三聯徵（氣膽症 + 層狀填充缺損 + 膽管擴張狹窄）；與中華肝吸蟲感染相關
 > - **膽道囊腺瘤**：多房囊性腫塊，無厚壁；與單純囊腫的鑑別點為有強化隔膜
 
----
-
-# Gastrointestinal Imaging - Page 115
 
 ![Page 115](/core_radiology/images/gi/page-115.png)
 
 
-### 膽管癌 / Cholangiocarcinoma
+## 膽管癌 / Cholangiocarcinoma
 
 **膽管癌**為膽道導管上皮的高度惡性腫瘤。
 
@@ -929,7 +896,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 膽囊癌 / Gallbladder Carcinoma
+## 膽囊癌 / Gallbladder Carcinoma
 
 **膽囊癌**罕見，多數與慢性膽囊發炎相關。
 
@@ -949,27 +916,25 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 膽囊轉移 / Gallbladder Metastasis
+## 膽囊轉移 / Gallbladder Metastasis
 
 **黑色素瘤（Melanoma）**有轉移至膽囊的傾向。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **膽管癌**最常見於肝門部（Klatskin tumor）；PSC 是重要的危險因子
 > - **膽囊癌**最常見表現為浸潤性腫塊侵犯肝臟；預後通常較差
 > - **黑色素瘤**有轉移至膽囊的特殊傾向
 
----
-
-# Gastrointestinal Imaging - Page 116
 
 ![Page 116](/core_radiology/images/gi/page-116.png)
 
 
-### 胰臟腫瘤總論 / Overview of Pancreatic Neoplasms
+## 胰臟腫瘤總論 / Overview of Pancreatic Neoplasms
 
-#### 實質上皮腫瘤 / Solid Epithelial Neoplasms
+### 實質上皮腫瘤 / Solid Epithelial Neoplasms
 
 | 腫瘤 | 特點 |
 |------|------|
@@ -978,7 +943,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 囊性上皮腫瘤 / Cystic Epithelial Neoplasms
+### 囊性上皮腫瘤 / Cystic Epithelial Neoplasms
 
 | 腫瘤 | 特點 |
 |------|------|
@@ -989,7 +954,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 內分泌腫瘤 / Endocrine Neoplasms
+### 內分泌腫瘤 / Endocrine Neoplasms
 
 | 腫瘤 | 特點 |
 |------|------|
@@ -1001,19 +966,17 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **胰管腺癌**佔胰臟腫瘤 80-90%，是最常見的胰臟惡性腫瘤
 > - 囊性腫瘤中，**黏液性囊腺瘤**有惡性潛能需手術；**IPMN** 也具惡性潛能，好發於老年男性
 > - **胰島素瘤**多數為良性；**胃泌素瘤**導致 Zollinger-Ellison 症候群
 
----
-
-# Gastrointestinal Imaging - Page 117
 
 ![Page 117](/core_radiology/images/gi/page-117.png)
 
 
-### 胰管腺癌 / Ductal Adenocarcinoma
+## 胰管腺癌 / Ductal Adenocarcinoma
 
 **胰管腺癌**佔所有胰臟腫瘤 **80-90%**，好發於 **60 歲以上**患者，男性略多。
 
@@ -1021,7 +984,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 影像學
+### 影像學
 
 **最佳檢測時相：**
 - 晚期動脉期（胰臟實質期，pancreatic parenchymal phase）對比增強掃描，腫瘤呈低強化，與背景強化的胰臟對比度最高
@@ -1046,7 +1009,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 可切除性評估
+### 可切除性評估
 
 | 分期 | 標準 |
 |------|------|
@@ -1055,21 +1018,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **胰管腺癌**最常見於胰臟頭部；**雙管徵**（胰管+膽總管擴張）是重要影像學徵象
 > - 晚期動脉期（胰臟實質期）是檢測腫瘤的最佳時相，腫瘤呈低強化
 > - 可切除性評估重點：SMA 包繞 >180°、門靜脈廣泛侵犯、遠處轉移均為不可切除
 
----
-
-# Gastrointestinal Imaging - Page 118
 
 ![Page 118](/core_radiology/images/gi/page-118.png)
 
 
-### 胰臟囊性上皮腫瘤 / Cystic Pancreatic Epithelial Neoplasms
+## 胰臟囊性上皮腫瘤 / Cystic Pancreatic Epithelial Neoplasms
 
-#### 漿液性囊腺瘤 / Serous Cystadenoma
+### 漿液性囊腺瘤 / Serous Cystadenoma
 
 **漿液性囊腺瘤**是良性腫瘤，好發於**老年女性**，被稱為「**奶奶瘤（grandmother tumor）**」。
 
@@ -1082,7 +1043,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 黏液性囊性腫瘤 / Mucinous Cystic Neoplasm
+### 黏液性囊性腫瘤 / Mucinous Cystic Neoplasm
 
 **黏液性囊性腫瘤**好發於**中年女性**，被稱為「**媽媽瘤（mother tumor）**」。
 
@@ -1096,7 +1057,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 實質乳頭狀上皮腫瘤 / Solid and Papillary Epithelial Neoplasm (SPEN)
+### 實質乳頭狀上皮腫瘤 / Solid and Papillary Epithelial Neoplasm (SPEN)
 
 **實質乳頭狀上皮腫瘤（SPEN）**好發於**年輕女性及兒童**，被稱為「**女兒瘤（daughter tumor）**」。
 
@@ -1108,7 +1069,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 腺泡細胞癌 / Acinar Cell Carcinoma
+### 腺泡細胞癌 / Acinar Cell Carcinoma
 
 **腺泡細胞癌**是罕見、侵襲性強的胰臟腺癌亞型，專屬於老年男性。
 
@@ -1118,19 +1079,17 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **漿液性囊腺瘤**（「奶奶瘤」）：富血供、許多小囊泡（<2 cm）、無胰管擴張；**黏液性囊性腫瘤**（「媽媽瘤」）：少數大囊泡（>2 cm）、有惡性潛能需手術
 > - **SPEN**（「女兒瘤」）：年輕女性，有包膜，易出血；**腺泡細胞癌**：老年男性，脂酶過分泌症候群
 > - 胰臟囊性腫瘤中，僅**黏液性囊性腫瘤**和 **SPEN** 有包膜
 
----
-
-# Gastrointestinal Imaging - Page 119
 
 ![Page 119](/core_radiology/images/gi/page-119.png)
 
 
-### 胰管內乳頭狀黏液性腫瘤 / Intraductal Papillary Mucinous Neoplasm (IPMN)
+## 胰管內乳頭狀黏液性腫瘤 / Intraductal Papillary Mucinous Neoplasm (IPMN)
 
 **胰管內乳頭狀黏液性腫瘤（IPMN）**最常見於**老年男性**，被稱為「**爺爺瘤（grandfather tumor）**」。
 
@@ -1153,9 +1112,9 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 胰臟內分泌腫瘤 / Pancreatic Endocrine Neoplasms
+## 胰臟內分泌腫瘤 / Pancreatic Endocrine Neoplasms
 
-#### 功能性 vs. 非功能性
+### 功能性 vs. 非功能性
 
 | 類型 | 特點 |
 |------|------|
@@ -1166,7 +1125,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 胰島素瘤 / Insulinoma
+### 胰島素瘤 / Insulinoma
 
 | 特點 | 說明 |
 |------|------|
@@ -1178,7 +1137,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 胃泌素瘤 / Gastrinoma
+### 胃泌素瘤 / Gastrinoma
 
 | 特點 | 說明 |
 |------|------|
@@ -1191,21 +1150,19 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **IPMN**（「爺爺瘤」）：老年男性為主；主胰管型惡性潛能更高；附壁結節是惡性重要指標
 > - **胰島素瘤**：最常見功能性胰島素瘤；Whipple 三聯徵（低血糖 + 症狀 + 葡萄糖緩解）
 > - **胃泌素瘤**：第二常見；Zollinger-Ellison 症候群；與 **MEN 1 型**相關時多位於十二指腸
 
----
-
-# Gastrointestinal Imaging - Page 120
 
 ![Page 120](/core_radiology/images/gi/page-120.png)
 
 
-### 先天性胰臟異常 / Congenital Pancreatic Anomalies
+## 先天性胰臟異常 / Congenital Pancreatic Anomalies
 
-#### 正常胰管解剖 / Normal Ductal Anatomy
+### 正常胰管解剖 / Normal Ductal Anatomy
 
 | 結構 | 引流位置 |
 |------|----------|
@@ -1222,7 +1179,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 胰臟分裂 / Pancreas Divisum
+### 胰臟分裂 / Pancreas Divisum
 
 **胰臟分裂**是最常見的先天性胰臟異常，為腹側與背側胰管**融合失敗**所致。
 
@@ -1238,18 +1195,16 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 膽總管恆定與 Wirsung 管會合後共同引流至大乳頭；Santorini 管恆引流至小乳頭
 > - **胰臟分裂**是最常見的先天性胰臟異常；Santorinicele 可導致胰臟炎
 
----
-
-# Gastrointestinal Imaging - Page 121
 
 ![Page 121](/core_radiology/images/gi/page-121.png)
 
 
-### 環狀胰臟 / Annular Pancreas
+## 環狀胰臟 / Annular Pancreas
 
 **環狀胰臟**是一種罕見的先天性異常，胰臟組織部分**完全環繞十二指腸**，由腹側胰芽旋轉不完全所致。
 
@@ -1261,7 +1216,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 共同通道症候群 / 胰膽管合流異常 / Common Channel Syndrome / Pancreaticobiliary Maljunction
+## 共同通道症候群 / 胰膽管合流異常 / Common Channel Syndrome / Pancreaticobiliary Maljunction
 
 **共同通道症候群**（胰膽管合流異常）：膽總管遠端與胰管之間缺乏隔膜，導致兩系統間逆流。
 
@@ -1273,9 +1228,9 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 全身性疾病對胰臟的影響 / Systemic Diseases Affecting the Pancreas
+## 全身性疾病對胰臟的影響 / Systemic Diseases Affecting the Pancreas
 
-#### von Hippel-Lindau 病
+### von Hippel-Lindau 病
 
 | 特點 | 說明 |
 |------|------|
@@ -1284,7 +1239,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 囊狀纖維化 / Cystic Fibrosis (CF)
+### 囊狀纖維化 / Cystic Fibrosis (CF)
 
 | 特點 | 說明 |
 |------|------|
@@ -1293,7 +1248,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### Schwachman-Diamond 症候群
+### Schwachman-Diamond 症候群
 
 | 特點 | 說明 |
 |------|------|
@@ -1304,27 +1259,25 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### 肥胖與類固醇使用
+### 肥胖與類固醇使用
 
 肥胖和類固醇均可導致**胰臟脂肪萎縮**。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **環狀胰臟**：胰臟組織環繞十二指腸；成人可致胰臟炎及十二指腸阻塞；新生兒為雙氣泡徵的鑑別之一
 > - **囊狀纖維化**是兒童胰臟萎縮最常見原因；von Hippel-Lindau 可伴發漿液性囊腺瘤及神經內分泌腫瘤
 > - **Schwachman-Diamond 症候群**是兒童胰臟萎縮的第二常見原因，伴隨中性粒細胞減少及骨發育不良
 
----
-
-# Gastrointestinal Imaging - Page 122
 
 ![Page 122](/core_radiology/images/gi/page-122.png)
 
 
-### 其他胰臟病變 / Miscellaneous Pancreatic Lesions
+## 其他胰臟病變 / Miscellaneous Pancreatic Lesions
 
-#### 胰臟內異位脾臟 / Intrapancreatic Accessory Spleen
+### 胰臟內異位脾臟 / Intrapancreatic Accessory Spleen
 
 **胰臟內異位脾臟**是良性病變，可模擬胰臟富血供腫瘤。
 
@@ -1339,7 +1292,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 胰臟炎 / Pancreatitis
+## 胰臟炎 / Pancreatitis
 
 **胰臟炎**是胰臟的發炎反應，由多種病因引起，共同路徑為胰臟酶的**過早活化**及隨後的胰臟實質自體消化。
 
@@ -1347,7 +1300,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 影像學的時相與角色 / CT Protocol and Role of Imaging
+## 影像學的時相與角色 / CT Protocol and Role of Imaging
 
 | 要點 | 說明 |
 |------|------|
@@ -1358,24 +1311,22 @@ HCC 容易局部侵犯至：
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **胰臟內異位脾臟**：在所有序列上與脾臟訊號一致，好發於胰臟尾部，可被誤認為富血供胰臟腫瘤
 > - **胰臟炎**CT 掃描的最佳時相為胰臟實質期（40秒），壞死評估需在發病 48-72 小時後
 
----
-
-# Gastrointestinal Imaging - Page 123
 
 ![Page 123](/core_radiology/images/gi/page-123.png)
 
 
-### 急性胰臟炎 / Acute Pancreatitis
+## 急性胰臟炎 / Acute Pancreatitis
 
 **急性胰臟炎**最常見原因：**酒精**或**阻塞性膽結石**
 
 ---
 
-#### Balthazar 分級系統 / Balthazar Grading System
+### Balthazar 分級系統 / Balthazar Grading System
 
 | 等級 | 表現 | 死亡率 / 併發症率 |
 |------|------|------------------|
@@ -1389,7 +1340,7 @@ HCC 容易局部侵犯至：
 
 ---
 
-#### CT 嚴重程度指數 / CT Severity Index (CTSI)
+### CT 嚴重程度指數 / CT Severity Index (CTSI)
 
 CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
@@ -1411,7 +1362,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 胰臟及胰周圍併發症
+### 胰臟及胰周圍併發症
 
 | 併發症 | 特點 |
 |--------|------|
@@ -1422,7 +1373,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 胰外併發症
+### 胰外併發症
 
 - **胰外假性囊腫**：可發生在橫膈膜下方幾乎任何位置；脾臟內假性囊腫可致脾臟內出血
 - **腎門周圍炎症**：可致靜脈壓迫或血栓
@@ -1430,7 +1381,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 血管併發症
+### 血管併發症
 
 | 併發症 | 常見原因 |
 |--------|----------|
@@ -1440,19 +1391,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **CTSI** = Balthazar 等級（0-4）+ 壞死程度（0-6）；CTSI 7-10 死亡率高達 17%、併發症率 92%
 > - **胰臟壞死**評估需在發病後 48-72 小時進行；假性囊腫壁成熟約需 4-6 週
 > - 急性胰臟炎的**兩大常見原因**：酒精和膽結石；血管併發症中最常見的是脾动脉假性動瘤
 
----
-
-# Gastrointestinal Imaging - Page 124
 
 ![Page 124](/core_radiology/images/gi/page-124.png)
 
 
-### 慢性胰臟炎 / Chronic Pancreatitis
+## 慢性胰臟炎 / Chronic Pancreatitis
 
 **慢性胰臟炎**最常見原因為**長期酒精濫用**，導致不可逆的胰臟損傷。
 
@@ -1462,7 +1411,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 自體免疫性胰臟炎 / Autoimmune Pancreatitis
+## 自體免疫性胰臟炎 / Autoimmune Pancreatitis
 
 **自體免疫性胰臟炎**由炎症性淋巴漿細胞浸潤引起。
 
@@ -1479,7 +1428,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 槽狀胰臟炎 / Groove Pancreatitis
+## 槽狀胰臟炎 / Groove Pancreatitis
 
 **槽狀胰臟炎**是位於胰臟頭部、十二指腸和膽總管之間的槽狀區域的局灶性胰臟炎，罕見。
 
@@ -1492,21 +1441,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 慢性胰臟炎的特異性表現為**胰管分布區域的鈣化**
 > - **自體免疫性胰臟炎**：IgG-4 升高、類固醇治療有效；局灶型可模擬胰臟腺癌
 > - **槽狀胰臟炎**的特異性表現為胰十二指腸溝的纖維化，主要需與胰臟頭部腺癌鑑別
 
----
-
-# Gastrointestinal Imaging - Page 125
 
 ![Page 125](/core_radiology/images/gi/page-125.png)
 
 
-### 脾臟先天性變異與異常 / Congenital Splenic Variations and Anomalies
+## 脾臟先天性變異與異常 / Congenital Splenic Variations and Anomalies
 
-#### 副脾 / 異位脾 / Splenule (Accessory Spleen)
+### 副脾 / 異位脾 / Splenule (Accessory Spleen)
 
 **副脾（splenule）**又稱異位脾，是與主脾臟分離的正常脾臟組織，為胚胎髮育時脾臟融合失敗所致。
 
@@ -1519,7 +1466,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 多脾症候群 / Polysplenia Syndrome
+### 多脾症候群 / Polysplenia Syndrome
 
 **多脾症候群**是一組解剖異常疾病，特徵為內臟異位加上多發性離散性脾臟組織。
 
@@ -1531,7 +1478,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 遊走脾 / Wandering Spleen
+### 遊走脾 / Wandering Spleen
 
 **遊走脾**為脾臟的正常位置異常，因固定韌帶鬆弛或缺失所致。
 
@@ -1541,21 +1488,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **副脾**最常見於脾門；胰臟內副脾可被誤認為富血供胰臟腫瘤（兩者訊號一致可鑑別）
 > - **多脾症候群**患者多數幼年死於嚴重心臟異常；與下腔靜脈中斷相關
 > - **遊走脾**因韌帶固定異常，可發生扭轉導致急性腹痛
 
----
-
-# Gastrointestinal Imaging - Page 126
 
 ![Page 126](/core_radiology/images/gi/page-126.png)
 
 
-### 脾臟良性非囊性病變 / Benign Non-Cystic Splenic Lesions
+## 脾臟良性非囊性病變 / Benign Non-Cystic Splenic Lesions
 
-#### 脾臟血管瘤 / Splenic Hemangioma
+### 脾臟血管瘤 / Splenic Hemangioma
 
 **脾臟血管瘤**是最常見的脾臟良性腫瘤，可單發或多發，病灶通常較小。
 
@@ -1579,7 +1524,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 脾臟錯構瘤 / Splenic Hamartoma
+### 脾臟錯構瘤 / Splenic Hamartoma
 
 **脾臟錯構瘤**是罕見的良性病變，由異常的紅髓組成，可能與結節性硬化症相關。
 
@@ -1595,21 +1540,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **脾臟血管瘤**是最常見的脾臟良性腫瘤；與 Kasabach-Merritt 症候群（血小板減少、凝血病）和 Klippel-Trenaunay-Weber 症候群相關
 > - 脾臟血管瘤在 MRI 上呈 **T2 高訊號**，強化模式與肝臟血管瘤不同（非向心性結節狀）
 > - **脾臟錯構瘤**可能與結節性硬化症相關；影像學上與血管瘤有重疊，確診需靠病理
 
----
-
-# Gastrointestinal Imaging - Page 127
 
 ![Page 127](/core_radiology/images/gi/page-127.png)
 
 
-### 脾臟良性囊性病變 / Benign Cystic Splenic Lesions
+## 脾臟良性囊性病變 / Benign Cystic Splenic Lesions
 
-#### 先天性真性（上皮）囊腫 / Congenital True (Epithelial) Cyst
+### 先天性真性（上皮）囊腫 / Congenital True (Epithelial) Cyst
 
 **先天性真性囊腫**具有上皮襯裡，為真正的囊腫。
 
@@ -1620,7 +1563,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 外傷後假性囊腫 / Post-Traumatic Pseudocyst
+### 外傷後假性囊腫 / Post-Traumatic Pseudocyst
 
 **外傷後假性囊腫**是脾臟血腫演變的最終結果。
 
@@ -1632,7 +1575,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 脾臟內胰臟假性囊腫 / Intrasplenic Pancreatic Pseudocyst
+### 脾臟內胰臟假性囊腫 / Intrasplenic Pancreatic Pseudocyst
 
 - 胰臟尾部的胰臟炎後假性囊腫可延伸至脾臟
 - 幾乎均有胰臟炎病史
@@ -1641,7 +1584,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 淋巴管瘤 / Lymphangioma
+### 淋巴管瘤 / Lymphangioma
 
 **脾臟淋巴管瘤**是罕見的良性腫瘤，通常在兒童期確診，可單發或多發。
 
@@ -1651,21 +1594,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **先天性真性囊腫**可導致腫瘤標記升高（CA19-9、CA125、CEA），但為完全良性
 > - **外傷後假性囊腫**的囊壁為纖維組織，與先天性囊腫的上皮襯裡不同
 > - 脾臟淋巴管瘤好發於兒童，影像學呈多房囊性結構
 
----
-
-# Gastrointestinal Imaging - Page 128
 
 ![Page 128](/core_radiology/images/gi/page-128.png)
 
 
-### 脾臟炎症性病變 / Inflammatory Splenic Lesions
+## 脾臟炎症性病變 / Inflammatory Splenic Lesions
 
-#### 結節病 / Sarcoidosis
+### 結節病 / Sarcoidosis
 
 **結節病**是原因不明的全身性疾病，特徵為組織學上由多發性非乾酪性肉芽腫組成的結節。
 
@@ -1681,7 +1622,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 炎症性假腫瘤 / Inflammatory Pseudotumor
+### 炎症性假腫瘤 / Inflammatory Pseudotumor
 
 **脾臟炎症性假腫瘤**是罕見的局部免疫細胞及相關炎症滲出物的聚集，病因不明。
 
@@ -1689,9 +1630,9 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 脾臟感染 / Splenic Infection
+## 脾臟感染 / Splenic Infection
 
-#### 化膿性膿疡 / Pyogenic Abscess
+### 化膿性膿疡 / Pyogenic Abscess
 
 **脾臟細菌性膿疡**少見，通常見於免疫抑制患者。
 
@@ -1704,7 +1645,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 黴菌性膿疡 / Fungal Abscess
+### 黴菌性膿疡 / Fungal Abscess
 
 **脾臟黴菌性膿疡**通常為多發性且體積小（**<1 cm**），幾乎所有患者均為免疫抑制者。
 
@@ -1715,7 +1656,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 棘球囊病 / Echinococcal Cyst
+### 棘球囊病 / Echinococcal Cyst
 
 **脾臟棘球囊病**少見，僅佔棘球囊感染的 1-3%，幾乎均伴隨其他器官感染。
 
@@ -1726,21 +1667,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **結節病**脾臟受累最常見為脾腫大；多結節型與脾臟淋巴瘤影像學難以區分
 > - **化膿性膿疡**：免疫抑制患者，CT 可見氣體（特異性高）；黴菌性膿疡多 <1 cm、Candida 最常見
 > - 脾臟棘球囊病為罕見（1-3%），CT 可見波動膜和子囊
 
----
-
-# Gastrointestinal Imaging - Page 129
 
 ![Page 129](/core_radiology/images/gi/page-129.png)
 
 
-### 脾臟惡性病變 / Malignant Splenic Lesions
+## 脾臟惡性病變 / Malignant Splenic Lesions
 
-#### 脾臟淋巴瘤 / Splenic Lymphoma
+### 脾臟淋巴瘤 / Splenic Lymphoma
 
 **脾臟淋巴瘤**是最常見的脾臟惡性腫瘤。
 
@@ -1761,7 +1700,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 脾臟轉移 / Splenic Metastasis
+### 脾臟轉移 / Splenic Metastasis
 
 | 特點 | 說明 |
 |------|------|
@@ -1777,7 +1716,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 血管肉瘤 / Angiosarcoma
+### 血管肉瘤 / Angiosarcoma
 
 **血管肉瘤**是罕見、極度侵襲性的惡性腫瘤，**6 個月存活率僅 20%**。
 
@@ -1788,21 +1727,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **脾臟淋巴瘤**是最常見的脾臟惡性腫瘤；對比 T1 加權圖像上呈低強化對比度最高
 > - 脾臟轉移罕見（2-9%），最常見原發為乳癌、肺癌、卵巢癌和黑色素瘤；孤立性脾臟轉移僅 5%
 > - **血管肉瘤**預後極差（6 個月存活率 20%），與 Thorotrast 等的關聯不如肝臟血管肉瘤明確
 
----
-
-# Gastrointestinal Imaging - Page 130
 
 ![Page 130](/core_radiology/images/gi/page-130.png)
 
 
-### 其他脾臟病變 / Miscellaneous Splenic Lesions
+## 其他脾臟病變 / Miscellaneous Splenic Lesions
 
-#### 脾臟梗死 / Splenic Infarct
+### 脾臟梗死 / Splenic Infarct
 
 **脾臟梗死**最常見原因：
 
@@ -1821,7 +1758,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Gamna-Gandy  bodies
+### Gamna-Gandy  bodies
 
 **Gamna-Gandy bodies**是多發性微小血鐵素沉積，由**門脈高壓**引起。
 
@@ -1834,7 +1771,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Gaucher 病
+### Gaucher 病
 
 **Gaucher 病**是自體隱性遺傳的 glucocerebrosidase 缺乏，導致 glucocerebroside 堆積於網狀內皮系統。
 
@@ -1850,21 +1787,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **脾臟梗死**典型為楔形周邊非強化區；老年患者多因栓塞，年輕患者多因血栓
 > - **Gamna-Gandy bodies** 是門脈高壓導致的微小血鐵素沉積，在同相位梯度迴聲序列上因 T2* 效應呈相對低訊號
 > - **Gaucher 病**： glucocerebroside 堆積於網狀內皮系統；特徵性骨骼表現為股骨遠端錐形燒瓶畸形
 
----
-
-# Gastrointestinal Imaging - Page 131
 
 ![Page 131](/core_radiology/images/gi/page-131.png)
 
 
-### 脾臟創傷 / Splenic Trauma
+## 脾臟創傷 / Splenic Trauma
 
-#### 概述
+### 概述
 
 **脾臟**是鈍性創傷中最常受傷的腹部臟器。
 
@@ -1872,7 +1807,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 脾臟創傷的 CT 表現
+### 脾臟創傷的 CT 表現
 
 | 病變 | 表現 |
 |------|------|
@@ -1884,13 +1819,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### AAST 脾臟創傷分級（美國創傷外科協會）
+### AAST 脾臟創傷分級（美國創傷外科協會）
 
 基於手術發現，臨床上實用性有限，且未涵蓋血管損傷。
 
 ---
 
-#### MDCT 脾臟創傷分級
+### MDCT 脾臟創傷分級
 
 | 等級 | 表現 |
 |------|------|
@@ -1904,21 +1839,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 脾臟創傷評估**必須在門脈期**掃描，動脉期強化會干擾創傷評估
 > - **活動性外滲**：延遲掃描增大；**假性動瘤/AVF**：延遲掃描不增大；僅血管造影可區分兩者
 > - 現今趨勢為**脾臟保留**的保守治療，因為脾切除會增加敗血症風險
 
----
-
-# Gastrointestinal Imaging - Page 132
 
 ![Page 132](/core_radiology/images/gi/page-132.png)
 
 
-### 食道 / Esophagus
+## 食道 / Esophagus
 
-#### 解剖學 / Anatomy
+### 解剖學 / Anatomy
 
 **咽部（Pharynx）：**
 
@@ -1934,7 +1867,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 食道環與食道蹼 / Esophageal Rings and Webs
+### 食道環與食道蹼 / Esophageal Rings and Webs
 
 ##### 食道蹼 / Esophageal Web
 
@@ -1962,21 +1895,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Schatzki 環**是遠端食道 B 環的環形狹窄，是間歇性吞嚥困難的常見原因，幾乎均伴隨裂孔疝氣
 > - **Plummer-Vinson 症候群**：食道蹼 + 貧血，與上食道癌風險增加相關
 > - 環形食道狹窄的鑑別包括良性狹窄、Schatzki 環和食道癌
 
----
-
-# Gastrointestinal Imaging - Page 133
 
 ![Page 133](/core_radiology/images/gi/page-133.png)
 
 
-### 食道炎 / Esophagitis
+## 食道炎 / Esophagitis
 
-#### 逆流性（消化性）食道炎 / Reflux (Pep tic) Esophagitis
+### 逆流性（消化性）食道炎 / Reflux (Pep tic) Esophagitis
 
 **逆流性食道炎**由酸性胃分泌物暴露於食道黏膜引起，導致遠端潰疡最終形成狹窄。
 
@@ -1989,7 +1920,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Barrett 食道 / Barrett Esophagus
+### Barrett 食道 / Barrett Esophagus
 
 **Barrett 食道**是長期逆流性食道炎的重要後遺症，為正常鱗狀上皮化生為胃型腺瘤樣黏膜。
 
@@ -2002,7 +1933,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 感染性食道炎 / Infectious Esophagitis
+### 感染性食道炎 / Infectious Esophagitis
 
 | 病原 | 表現 |
 |------|------|
@@ -2014,13 +1945,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 藥物性食道炎 / Medication Esophagitis
+### 藥物性食道炎 / Medication Esophagitis
 
 藥物性食道炎典型引起主動脈弓水平或遠端食道的潰疡，這些區域為相對狹窄處，藥物易停留造成損傷。
 
 ---
 
-#### Crohn 食道炎 / Crohn Esophagitis
+### Crohn 食道炎 / Crohn Esophagitis
 
 **Crohn 食道炎**極罕見，通常見於小腸和結腸嚴重疾病的情況下。
 
@@ -2029,21 +1960,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Barrett 食道**為食道癌的癌前病變；約 10% 的逆流性食道炎患者可能存在
 > - **念珠菌食道炎**：重症可呈「蓬鬆（shaggy）」食道；**皰疹食道炎**：散在小潰疡；**CMV**：大型橢圓形潰疡
 > - Crohn 食道炎的口瘡樣潰疡可融合；藥物性食道炎好發於主動鈎弓或遠端食道
 
----
-
-# Gastrointestinal Imaging - Page 134
 
 ![Page 134](/core_radiology/images/gi/page-134.png)
 
 
-### 食道狹窄 / Esophageal Strictures
+## 食道狹窄 / Esophageal Strictures
 
-#### 消化性狹窄 / Peptic Stricture
+### 消化性狹窄 / Peptic Stricture
 
 **消化性狹窄**為慢性逆流的後遺症。
 
@@ -2055,7 +1984,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Barrett 狹窄 / Barrett Stricture
+### Barrett 狹窄 / Barrett Stricture
 
 **Barrett 狹窄**發生於中段食道，位於化生腺瘤樣轉變處上方。
 
@@ -2066,13 +1995,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 惡性狹窄 / Malignant Stricture (Esophageal Carcinoma)
+### 惡性狹窄 / Malignant Stricture (Esophageal Carcinoma)
 
 **關鍵影像學發現：** **肩狀邊緣（shouldered margins）**，提示腫塊環形導致管腔狹窄
 
 ---
 
-#### 腐蝕性 / 鼻胃管狹窄 / Caustic / NG Tube Stricture
+### 腐蝕性 / 鼻胃管狹窄 / Caustic / NG Tube Stricture
 
 | 特點 | 說明 |
 |------|------|
@@ -2083,7 +2012,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 放射性狹窄 / Radiation Stricture
+### 放射性狹窄 / Radiation Stricture
 
 | 特點 | 說明 |
 |------|------|
@@ -2094,27 +2023,25 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 縱隔淋巴結病變引起的外在壓迫 / Extrinsic Compression from Mediastinal Adenopathy
+### 縱隔淋巴結病變引起的外在壓迫 / Extrinsic Compression from Mediastinal Adenopathy
 
 **CT 横断面成像**是評估外在壓迫的最佳工具。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **消化性狹窄**位於遠端；**Barrett 狹窄**位於更高處（因腺瘤樣組織對酸有抗性）
 > - **腐蝕性狹窄**需 1-3 個月形成，與癌症風險增加相關（潛伏期可達 20 年）
 > - **放射性狹窄**的特點是保留胃食道交界（不同於其他狹窄類型）；需 >50 Gy 才有影響
 
----
-
-# Gastrointestinal Imaging - Page 135
 
 ![Page 135](/core_radiology/images/gi/page-135.png)
 
 
-### 良性食道腫塊 / Benign Esophageal Masses
+## 良性食道腫塊 / Benign Esophageal Masses
 
-#### 間質腫瘤 / Mesenchymal Tumor
+### 間質腫瘤 / Mesenchymal Tumor
 
 **良性間質腫瘤**是最常見的黏膜下腫瘤，包括胃腸道基質瘤（GIST）、平滑肌瘤、脂肪瘤、血管瘤等。
 
@@ -2125,7 +2052,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 腺瘤 / Adenoma
+### 腺瘤 / Adenoma
 
 **食道腺瘤**是具有惡性潛能的良性黏膜病變，通常起源於 Barrett 食道。
 
@@ -2133,7 +2060,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 炎症性息肉 / Inflammatory Polyp
+### 炎症性息肉 / Inflammatory Polyp
 
 **炎症性息肉**是非腫瘤性的增大胃皺襞，突出至下食道。
 
@@ -2143,7 +2070,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 纖維血管息肉 / Fibrovascular Polyp
+### 纖維血管息肉 / Fibrovascular Polyp
 
 **纖維血管息肉**是有蒂的腫瘤，由含有大量脂肪成分的間質成分組成。
 
@@ -2156,7 +2083,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 食道靜脈曲張 / Esophageal Varices
+### 食道靜脈曲張 / Esophageal Varices
 
 **食道靜脈曲張**最常見原因為**門脈高壓**。
 
@@ -2169,7 +2096,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 前腸囊腫 / Foregut Duplication Cysts
+### 前腸囊腫 / Foregut Duplication Cysts
 
 | 囊腫類型 | 特點 |
 |----------|------|
@@ -2179,7 +2106,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 食道異物 / Esophageal Foreign Body
+### 食道異物 / Esophageal Foreign Body
 
 | 特點 | 說明 |
 |------|------|
@@ -2191,21 +2118,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **纖維血管息肉**為良性無惡性潛能，好發於頸段食道；CT 顯示脂肪成分可確診
 > - **上行性靜脈曲張**由門脈高壓引起，影響遠端食道；**下行性靜脈曲張**由上腔靜脈阻塞引起，影響近端食道
 > - 肉類嵌塞最常發生在**胃食道交界**；嵌塞 >24 小時有穿孔風險
 
----
-
-# Gastrointestinal Imaging - Page 136
 
 ![Page 136](/core_radiology/images/gi/page-136.png)
 
 
-### 惡性食道腫塊 / Malignant Esophageal Masses
+## 惡性食道腫塊 / Malignant Esophageal Masses
 
-#### 食道癌 / Esophageal Carcinoma
+### 食道癌 / Esophageal Carcinoma
 
 **食道癌**有廣泛的影像學表現。
 
@@ -2230,7 +2155,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 轉移 / Metastasis
+### 轉移 / Metastasis
 
 | 轉移類型 | 說明 |
 |----------|------|
@@ -2240,33 +2165,31 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 食道淋巴瘤 / Esophageal Lymphoma
+### 食道淋巴瘤 / Esophageal Lymphoma
 
 與原發性食道癌**難以區分**。
 
 ---
 
-#### 惡性 GIST
+### 惡性 GIST
 
 **惡性 GIST**比良性變體更巨大且更不規則。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **鱗狀細胞癌**（上/中段食道）與**腺癌**（遠端食道）在影像學上無法可靠區分；腺癌與 Barrett 食道和慢性逆流相關
 > - 食道癌的典型影像學表現為：**肩狀邊緣**的狹窄；靜脈曲張樣表現初期可與靜脈曲張混淆，但腫瘤不隨蠕動改變
 > - 食道癌直接侵犯最常來自胃癌、肺癌和乳癌
 
----
-
-# Gastrointestinal Imaging - Page 137
 
 ![Page 137](/core_radiology/images/gi/page-137.png)
 
 
-### 食道運動障礙 / Esophageal Motility Disorders
+## 食道運動障礙 / Esophageal Motility Disorders
 
-#### 收縮波 / Contraction Waves
+### 收縮波 / Contraction Waves
 
 | 類型 | 特點 |
 |------|------|
@@ -2276,7 +2199,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 弛緩不能 / Achalasia
+### 弛緩不能 / Achalasia
 
 **弛緩不能**是遠端食道的運動障礙，因 Auerbach 叢的肌間神經節細胞異常導致食道無法弛緩。
 
@@ -2296,7 +2219,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 瀰漫性食道痙攣 / Diffuse Esophageal Spasm (DES)
+### 瀰漫性食道痙攣 / Diffuse Esophageal Spasm (DES)
 
 **瀰漫性食道痙攣**是以胸痛或吞嚥困難為臨床表現的症候群，由反覆非推進性食道收縮引起。
 
@@ -2309,21 +2232,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **弛緩不能**：典型「鳥嘴狀」狹窄；站立時狹窄可弛緩（假性弛緩不能則不行）；與 Chagas 病引起的續發性弛緩不能影像學無法區分
 > - **瀰漫性食道痙攣**：螺旋狀/corkscrew 外觀；與胸痛相關，胡桃鉗食道則測壓異常但影像正常
 > - 弛緩不能的併發症包括食道癌（潛伏期 ≥20 年）和念珠菌感染
 
----
-
-# Gastrointestinal Imaging - Page 138
 
 ![Page 138](/core_radiology/images/gi/page-138.png)
 
 
-### 食道憩室 / Esophageal Diverticula
+## 食道憩室 / Esophageal Diverticula
 
-#### 憩室類型
+### 憩室類型
 
 | 類型 | 原因 |
 |------|------|
@@ -2332,7 +2253,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Zenker 憩室 / Zenker Diverticulum
+### Zenker 憩室 / Zenker Diverticulum
 
 **Zenker 憩室**由環咽肌弛緩失敗導致下咽內壓力升高引起。
 
@@ -2346,7 +2267,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Killian-Jamieson (KJ) 憩室 / Killian–Jamieson Diverticulum
+### Killian-Jamieson (KJ) 憩室 / Killian–Jamieson Diverticulum
 
 **Killian-Jamieson 憩室**位於 Killian-Jamieson 空間（環咽肌附著處下方的軟弱區）。
 
@@ -2357,7 +2278,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 假性憩室病 / Pseudodiverticulosis
+### 假性憩室病 / Pseudodiverticulosis
 
 **假性憩室病**是慢性逆流性食道炎導致黏膜下腺體擴張，形成的多發性微小食道壁外翻。
 
@@ -2369,7 +2290,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 貓食道 / Feline Esophagus
+## 貓食道 / Feline Esophagus
 
 **貓食道**被認為是一種正常變異，特徵為多發性橫向食道皺襞。
 
@@ -2377,19 +2298,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Zenker 憩室**：向後突出，環咽肌弛緩失敗所致；口臭、吸入是常見症狀
 > - **Killian-Jamieson 憩室**：向前突出，較常為雙側
 > - **假性憩室病**：慢性逆流性食道炎導致黏膜下腺體擴張；常伴隨食道狹窄
 
----
-
-# Gastrointestinal Imaging - Page 139
 
 ![Page 139](/core_radiology/images/gi/page-139.png)
 
 
-### 迷走右鎖骨下動脈 / Aberrant Right Subclavian Artery
+## 迷走右鎖骨下動脈 / Aberrant Right Subclavian Artery
 
 **迷走右鎖骨下動脈**（正常左主動脈弓）在約 **1%** 的患者中可見，幾乎均無症狀。
 
@@ -2401,7 +2320,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 硬皮症 / Scleroderma
+## 硬皮症 / Scleroderma
 
 **硬皮症**是一種全身性疾病，涉及多組織的膠原蛋白過度沉積。
 
@@ -2414,9 +2333,9 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 食道疝氣 / Esophageal Hernias
+## 食道疝氣 / Esophageal Hernias
 
-#### 裂孔疝氣 / Hiatal Hernia (HH)
+### 裂孔疝氣 / Hiatal Hernia (HH)
 
 **裂孔疝氣（HH）**：當胃皺襞出現在橫膈上方時即存在。
 
@@ -2425,7 +2344,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 | 滑動型（Sliding） | 最常見 |
 | 短型（Short） | 慢性逆流性食道炎後遺症 |
 
-#### 食道旁疝氣 / Paraesophageal Hernia
+### 食道旁疝氣 / Paraesophageal Hernia
 
 **食道旁疝氣**：胃食道交界處正常位於橫膈下方，但部分胃通過食道裂孔進入胸腔。
 
@@ -2436,21 +2355,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **迷走右鎖骨下動脈**：約 1% 患者；走於食道後方，後方壓跡始終光滑
 > - **硬皮症**：80% 患者食道受累，平滑肌萎縮導致遠端 2/3 蠕動消失和擴張
 > - **食道旁疝氣**比滑動型裂孔疝氣更易嵌頓，通常需要手術修復
 
----
-
-# Gastrointestinal Imaging - Page 140
 
 ![Page 140](/core_radiology/images/gi/page-140.png)
 
 
-### 胃 / Stomach
+## 胃 / Stomach
 
-#### 胃黏膜皺襞增厚 / Thickened Gastric Folds
+### 胃黏膜皺襞增厚 / Thickened Gastric Folds
 
 | 原因 | 特點 |
 |------|------|
@@ -2459,13 +2376,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 幽門螺旋桿菌胃炎 / Helicobacter pylori Gastritis
+### 幽門螺旋桿菌胃炎 / Helicobacter pylori Gastritis
 
 **幽門螺旋桿菌（H. pylori）**是胃炎、胃潰疡和十二指腸潰疡的主要原因。
 
 ---
 
-#### Zollinger-Ellison (ZE) 症候群 / Zollinger–Ellison Syndrome
+### Zollinger-Ellison (ZE) 症候群 / Zollinger–Ellison Syndrome
 
 **Zollinger-Ellison 症候群**是胃泌素瘤（胰島細胞腫瘤，50% 為惡性）產生過多胃泌素。
 
@@ -2476,13 +2393,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 嗜酸性胃炎 / Eosinophilic Gastritis
+### 嗜酸性胃炎 / Eosinophilic Gastritis
 
 **嗜酸性胃炎**：以有過敏史患者的胃和小腸皺襞增厚為特徵。
 
 ---
 
-#### Menetrier 病 / Menetrier Disease
+### Menetrier 病 / Menetrier Disease
 
 **Menetrier 病**是一種蛋白丟失性腸病，通常為排除性診斷。
 
@@ -2494,28 +2411,28 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Crohn 病 / Crohn Disease
+### Crohn 病 / Crohn Disease
 
 **胃 Crohn 病**幾乎均伴隨小腸疾病；通常影響胃的遠端半部；最早的病理變化是口瘡樣潰疡形成。
 
 ---
 
-#### 其他原因
+### 其他原因
 
 非炎症性胃黏膜皺襞增厚的原因：**胃靜脈曲張（門脈高壓）**、**胃淋巴瘤**、**黏膜下癌**。
 
 ---
 
-### 胃息肉 / Gastric Polyps
+## 胃息肉 / Gastric Polyps
 
-#### 增生性息肉 / Hyperplastic Polyp (Inflammatory Polyp)
+### 增生性息肉 / Hyperplastic Polyp (Inflammatory Polyp)
 
 **增生性息肉**（又稱炎症性息肉）是對慢性炎症反應的胃腺囊性擴張。
 
 - 幾乎均為良性，惡性轉變極罕見
 - **Fundic gland polyposis 症候群**：家族性腺瘤性息肉病（FAP）的變異，胃內息肉多數為增生性，其他 GI 部位為腺瘤性
 
-#### 腺瘤性息肉 / Adenomatous Polyp
+### 腺瘤性息肉 / Adenomatous Polyp
 
 **腺瘤性息肉**是具有惡性潛能的腫瘤性息肉。
 
@@ -2526,33 +2443,31 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 錯構瘤性息肉 / Hamartomatous Polyp
+### 錯構瘤性息肉 / Hamartomatous Polyp
 
 **錯構瘤性息肉**是良性息肉，通常與**Peutz-Jeghers 症候群**、**幼年性息肉病症候群**、**Cronkhite-Canada 症候群**相關。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **H. pylori** 是胃炎和消化性潰疡的主要病因；Menetrier 病為排除性診斷，與胃癌的關聯存在爭議
 > - **Zollinger-Ellison 症候群**：胃泌素瘤；25% 伴 MEN 1 型；分泌素刺激後胃泌素 paradoxically 增加
 > - 增生性息肉幾乎均為良性；腺瘤性息肉 >2 cm 惡性轉變風險升高；錯構瘤性息肉與 Peutz-Jeghers 等症候群相關
 
----
-
-# Gastrointestinal Imaging - Page 141
 
 ![Page 141](/core_radiology/images/gi/page-141.png)
 
 
-### 良性胃腫塊 / Benign Gastric Masses
+## 良性胃腫塊 / Benign Gastric Masses
 
-#### 脂肪瘤 / Lipoma
+### 脂肪瘤 / Lipoma
 
 **脂肪瘤**是良性、黏膜下、間質腫瘤。熒光透視下，胃脂肪瘤與 GIST 無法區分；**CT 上的脂肪衰減**可確診脂肪瘤。
 
 ---
 
-#### 胃腸道基質瘤 / Gastrointestinal Stromal Tumor (GIST)
+### 胃腸道基質瘤 / Gastrointestinal Stromal Tumor (GIST)
 
 **胃腸道基質瘤（GIST）**是最常見的黏膜下胃腫瘤，起源於驅動蠕動的 Cajal 間質細胞（pacemaker cells）。
 
@@ -2570,7 +2485,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 異位胰島組織 / Ectopic Pancreatic Rest
+### 異位胰島組織 / Ectopic Pancreatic Rest
 
 **異位胰島組織**是胃黏膜下異位胰島組織的局竃。
 
@@ -2581,21 +2496,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **胃 GIST** 是最常見的黏膜下胃腫瘤；≤2 cm 基本為良性；>10 cm 惡性風險高達 86%
 > - **脂肪瘤**：CT 脂肪衰減可確診；與 GIST 熒光透視下無法區分
 > - **異位胰島組織**：典型表現為有臍狀凹陷的黏膜下結節；可發生胰臟炎和癌症
 
----
-
-# Gastrointestinal Imaging - Page 142
 
 ![Page 142](/core_radiology/images/gi/page-142.png)
 
 
-### 惡性胃腫塊 / Malignant Gastric Masses
+## 惡性胃腫塊 / Malignant Gastric Masses
 
-#### 胃癌 / Gastric Cancer
+### 胃癌 / Gastric Cancer
 
 **胃癌**可表現為腫塊或胃潰疡。
 
@@ -2615,13 +2528,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 惡性 GIST
+### 惡性 GIST
 
 比良性 GIST 更大，常超過 10 cm，中心壞死；腫瘤起源於黏膜下，巨大腫瘤有時難以確定起源部位。
 
 ---
 
-#### 胃淋巴瘤 / Gastric Lymphoma
+### 胃淋巴瘤 / Gastric Lymphoma
 
 | 特點 | 說明 |
 |------|------|
@@ -2631,15 +2544,15 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 胃轉移 / Metastases
+### 胃轉移 / Metastases
 
 罕見；最常見原發：乳癌、肺癌、黑色素瘤。
 
 ---
 
-### 胃潰疡 / Gastric Ulcers
+## 胃潰疡 / Gastric Ulcers
 
-#### 良性胃潰疡
+### 良性胃潰疡
 
 | 特點 | 說明 |
 |------|------|
@@ -2648,7 +2561,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 | Hampton 線 | 潰疡口周圍的非潰疡性抗酸黏膜 |
 | 好發位置 | 小彎（ aspirin 引起者可在胃大彎和竇部） |
 
-#### 胃癌性潰疡 / Malignant Ulcer
+### 胃癌性潰疡 / Malignant Ulcer
 
 | 特點 | 說明 |
 |------|------|
@@ -2660,21 +2573,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **胃癌**：可直接蔓延至漿膜（90% 有大網膜侵犯）；Krukenberg 腫瘤為胃癌卵巢轉移
 > - 良性與惡性胃潰疡的鑑別：良性潰疡超出胃腔輪廓、放射狀皺襞對稱；惡性潰疡則周圍有結節狀組織、突然過渡
 > - **Carman meniscus sign** 是胃癌性潰疡的特異性表現（加壓時大而扁平的惡性潰疡撐開）
 
----
-
-# Gastrointestinal Imaging - Page 143
 
 ![Page 143](/core_radiology/images/gi/page-143.png)
 
 
-### 胃繞道手術概述 / Overview of Gastric Bypass Surgery
+## 胃繞道手術概述 / Overview of Gastric Bypass Surgery
 
-####  Roux-en-Y 胃繞道（RYGB）術後解剖
+###  Roux-en-Y 胃繞道（RYGB）術後解剖
 
 | 結構 | 說明 |
 |------|------|
@@ -2694,21 +2605,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **RYGB** 術後解剖複雜，前置法 Roux 肢比後結腸法赫尼亞風險低
 > - 減重機制：早期飽足感（小胃囊）+ 吸收不良（繞道上段空腸）
 > - 了解術後解剖對評估併發症至關重要
 
----
-
-# Gastrointestinal Imaging - Page 144
 
 ![Page 144](/core_radiology/images/gi/page-144.png)
 
 
-### Roux-en-Y 手術併發症 / Complications of Roux-en-Y Surgery
+## Roux-en-Y 手術併發症 / Complications of Roux-en-Y Surgery
 
-#### 術後滲漏 / Postoperative Leak
+### 術後滲漏 / Postoperative Leak
 
 | 特點 | 說明 |
 |------|------|
@@ -2718,7 +2627,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 胃-胃瘻管 / Gastrogastric Fistula
+### 胃-胃瘻管 / Gastrogastric Fistula
 
 **胃-胃瘻管**是胃囊與被排除的胃之間的交通，可為早期或晚期併發症。
 
@@ -2726,7 +2635,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 小腸阻塞 / Small Bowel Obstruction (SBO)
+### 小腸阻塞 / Small Bowel Obstruction (SBO)
 
 | 時期 | 常見原因 |
 |------|----------|
@@ -2735,7 +2644,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 內赫尼亞 / Internal Hernia
+### 內赫尼亞 / Internal Hernia
 
 | 特點 | 說明 |
 |------|------|
@@ -2750,7 +2659,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 吻合口狹窄 / Stomal Stenosis
+### 吻合口狹窄 / Stomal Stenosis
 
 | 併發症 | 說明 |
 |--------|------|
@@ -2759,7 +2668,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 邊緣潰疡 / Marginal Ulcers
+### 邊緣潰疡 / Marginal Ulcers
 
 | 特點 | 說明 |
 |------|------|
@@ -2770,21 +2679,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **內赫尼亞**：腹腔鏡 RYGB 術後 SBO 最常見原因，典型在 2 年內出現；影像學可有腸膜旋渦、蘑菇狀腸膜
 > - **術後滲漏**：水溶性對比劑上消化道鋇餐為首選檢查；通常在術後 10 天內確診
 > - **邊緣潰疡**：高達 3% 的患者，保守治療
 
----
-
-# Gastrointestinal Imaging - Page 145
 
 ![Page 145](/core_radiology/images/gi/page-145.png)
 
 
-### 小腸 / Small Bowel
+## 小腸 / Small Bowel
 
-#### 小腸解剖 / Small Bowel Anatomy
+### 小腸解剖 / Small Bowel Anatomy
 
 **小腸壁由外向內的四層：**
 1. 漿膜（Serosa）
@@ -2800,13 +2707,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 小腸阻塞 / Small Bowel Obstruction (SBO)
+## 小腸阻塞 / Small Bowel Obstruction (SBO)
 
 **最常見原因：** 黏連（既往手術或赫尼亞）；腫瘤、狹窄、腸套疊較少見。
 
 ---
 
-#### X 光評估
+### X 光評估
 
 | 發現 | 說明 |
 |------|------|
@@ -2817,7 +2724,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### CT 影像診斷
+### CT 影像診斷
 
 | 要點 | 說明 |
 |------|------|
@@ -2840,7 +2747,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 小腸糞便徵 / Small Bowel Feces Sign
+### 小腸糞便徵 / Small Bowel Feces Sign
 
 | 特點 | 說明 |
 |------|------|
@@ -2851,19 +2758,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **閉合性阻塞（Closed-loop obstruction）**是外科緊急情況，缺血風險極高；必須系統性分析過渡點、單純性 vs. 閉合性、缺血徵象
 > - **小腸糞便徵**有助於定位過渡點，對部分性阻塞的診斷特別有價值
 > - **腸壁積氣（pneumatosis intestinalis）**是腸壁壞死的表現，提示嚴重病變
 
----
-
-# Gastrointestinal Imaging - Page 146
 
 ![Page 146](/core_radiology/images/gi/page-146.png)
 
 
-### 閉合性腸阻塞 / Closed Loop Obstruction
+## 閉合性腸阻塞 / Closed Loop Obstruction
 
 **閉合性腸阻塞**是外科緊急情況，可能導致腸道缺血。
 
@@ -2875,7 +2780,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 黏連導致的腸阻塞 / Obstruction Due to Adhesions
+## 黏連導致的腸阻塞 / Obstruction Due to Adhesions
 
 **黏連**是腸阻塞的最常見原因。
 
@@ -2886,23 +2791,21 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **閉合性阻塞**是外科緊急情況；CT 呈 U 形腸道環和放射狀血管，有扭轉時可見**旋渦徵**
 > - **黏連**導致的 SBO 是排除性診斷；過渡點可見但無明確原因
 > - 大多數因黏連導致 SBO 的患者有既往腹部手術史
 
----
-
-# Gastrointestinal Imaging - Page 147
 
 ![Page 147](/core_radiology/images/gi/page-147.png)
 
 
-### 外部赫尼亞引起的腸阻塞 / Obstruction Due to External Hernia
+## 外部赫尼亞引起的腸阻塞 / Obstruction Due to External Hernia
 
 **腸道突出穿過腹壁**是小腸阻塞的第二常見原因；約 75% 發生在腹股溝，多數為腹股溝赫尼亞。
 
-#### 腹股溝赫尼亞 / Inguinal Hernia
+### 腹股溝赫尼亞 / Inguinal Hernia
 
 | 類型 | 與下腹壁上血管關係 | 說明 |
 |------|---------------------|------|
@@ -2911,7 +2814,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 閉孔赫尼亞 / Obturator Hernia
+### 閉孔赫尼亞 / Obturator Hernia
 
 | 特點 | 說明 |
 |------|------|
@@ -2922,15 +2825,15 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 腹壁赫尼亞 / Ventral Hernia
+### 腹壁赫尼亞 / Ventral Hernia
 
 常因既往剖腹手術引起。
 
 ---
 
-### 內部赫尼亞引起的腸阻塞 / Obstruction Due to Internal Hernia
+## 內部赫尼亞引起的腸阻塞 / Obstruction Due to Internal Hernia
 
-#### 穿腸膜赫尼亞 / Transmesenteric Hernia
+### 穿腸膜赫尼亞 / Transmesenteric Hernia
 
 | 特點 | 說明 |
 |------|------|
@@ -2950,7 +2853,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 十二指腸旁赫尼亞 / Paraduodenal Hernia
+### 十二指腸旁赫尼亞 / Paraduodenal Hernia
 
 | 特點 | 說明 |
 |------|------|
@@ -2965,7 +2868,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Winslow 孔赫尼亞 / Foramen of Winslow Hernia
+### Winslow 孔赫尼亞 / Foramen of Winslow Hernia
 
 | 特點 | 說明 |
 |------|------|
@@ -2974,19 +2877,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **閉孔赫尼亞**需術前正確診斷（好發於老年女性，手術方式與腹股溝赫尼亞不同）；**穿結腸膜赫尼亞**是 RYGB 術後最常見的內赫尼亞
 > - **十二指腸旁赫尼亞**：左側較常見；飯後慢性腹痛為特徵性症狀
 > - 內赫尼亞的**旋渦徵（whirl sign）**提示扭轉；Winslow 孔赫尼亞的關鍵發現是 IVC 與門靜脈之間有腸系膜
 
----
-
-# Gastrointestinal Imaging - Page 148
 
 ![Page 148](/core_radiology/images/gi/page-148.png)
 
 
-### 腫瘤引起的腸阻塞 / Obstruction Due to Neoplasm
+## 腫瘤引起的腸阻塞 / Obstruction Due to Neoplasm
 
 **腸道本身的腫瘤或外部腫塊壓迫**均可導致小腸阻塞。
 
@@ -3002,19 +2903,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 腸套疊引起的腸阻塞 / Obstruction Due to Intussusception
+## 腸套疊引起的腸阻塞 / Obstruction Due to Intussusception
 
 **短暫性腸套疊**是常見的偶然發現；但**導致阻塞的腸套疊**應懷疑潛在病變，需手術處理。
 
 ---
 
-### Crohn 病引起的腸阻塞 / Obstruction Due to Crohn Disease
+## Crohn 病引起的腸阻塞 / Obstruction Due to Crohn Disease
 
 **狹窄或活動性腸炎**是 Crohn 病導致腸阻塞的重要原因（尤其是纖維狹窄型）。
 
 ---
 
-### 膽結石引起的腸阻塞 / Obstruction Due to Gallstone
+## 膽結石引起的腸阻塞 / Obstruction Due to Gallstone
 
 **膽石性腸阻塞（Gallstone ileus）**由膽結石穿破進入小腸引起。
 
@@ -3025,25 +2926,23 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **膽石性腸阻塞**：Rigler 三聯徵（氣膽症 + 小腸阻塞 + 異位膽結石）；由膽囊十二指腸瘻引起
 > - 短暫性腸套疊是偶然發現；**導致阻塞的腸套疊**應懷疑潛在病變
 > - 原發性小腸腫瘤：腺癌、GIST、類癌；黑色素瘤是已知可導致腸套疊的轉移性腫瘤
 
----
-
-# Gastrointestinal Imaging - Page 149
 
 ![Page 149](/core_radiology/images/gi/page-149.png)
 
 
-### 腸炎 / Enteritis
+## 腸炎 / Enteritis
 
 **腸炎**是小腸的發炎症狀態。最常見的 CT 表現為**腸壁增厚**；也可見腸系膜縱向條紋（stranding）和游離液體。
 
 ---
 
-### Crohn 病 / Crohn Disease
+## Crohn 病 / Crohn Disease
 
 **Crohn 病**是一種慢性肉芽腫性發炎症疾病，可影響從口腔到肛門的胃腸道任何部位。
 
@@ -3056,7 +2955,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 影像學檢查方式
+### 影像學檢查方式
 
 | 方式 | 優缺點 |
 |------|--------|
@@ -3065,7 +2964,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 影像學發現
+### 影像學發現
 
 | 發現 | 說明 |
 |------|------|
@@ -3075,21 +2974,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Crohn 病**最常見受累部位為**末端迴腸**；最早組織學變化在黏膜下層，口瘡樣潰疡是早期影像學表現
 > - CT/MR 腸道造影可評估腸道外病變和血管，但對早期細微病變敏感性低於內視鏡
 > - 鵝卵石外觀由交錯的深層潰疡造成，是 Crohn 病的特徵性表現
 
----
-
-# Gastrointestinal Imaging - Page 150
 
 ![Page 150](/core_radiology/images/gi/page-150.png)
 
 
-### Crohn 病（續）/ Crohn Disease (continued)
+## Crohn 病（續）/ Crohn Disease (continued)
 
-#### 纖維狹窄型 Crohn 病 / Fibrostenotic Subtype
+### 纖維狹窄型 Crohn 病 / Fibrostenotic Subtype
 
 **Crohn 病的纖維狹窄型**臨床上可表現為腸阻塞。
 
@@ -3101,7 +2998,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Crohn 病的併發症
+### Crohn 病的併發症
 
 | 併發症 | 說明 |
 |---------|------|
@@ -3113,7 +3010,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 硬皮症 / Scleroderma
+## 硬皮症 / Scleroderma
 
 **硬皮症**的胃腸道主要病理是**平滑肌層被膠原蛋白取代**導致蠕動受損，進而導致：
 - 蠕動減慢 → 細菌過度生長 → 進行性擴張 → 假性阻塞
@@ -3126,7 +3023,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 乳糜瀉 / Celiac Disease (Sprue)
+## 乳糜瀉 / Celiac Disease (Sprue)
 
 **乳糜瀉**（又稱 sprue、麩質敏感性腸病）是一種由 T 細胞介導的免疫反應引起的自體免疫性近端腸炎（對攝入的麩質抗原產生反應）。
 
@@ -3158,21 +3055,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **弦線徵（String sign）**：Crohn 病纖維狹窄型的特徵性表現，代表腸道節段性狹窄
 > - **乳糜瀉**：空腸和迴腸皺襞逆轉是特徵性影像學發現；重要併發症包括小腸 T 細胞淋巴瘤
 > - **CMLNS**（化膿性空腸淋巴結症候群）：與乳糜瀉的乳頭狀萎縮和脾臟萎縮共同出現時高度特異性
 
----
-
-# Gastrointestinal Imaging - Page 151
 
 ![Page 151](/core_radiology/images/gi/page-151.png)
 
 
-### 乳糜瀉（續）/ Celiac Disease (continued)
+## 乳糜瀉（續）/ Celiac Disease (continued)
 
-#### 實驗室與皮膚表現
+### 實驗室與皮膚表現
 
 | 異常 | 說明 |
 |------|------|
@@ -3183,7 +3078,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 乳糜瀉的併發症總結
+## 乳糜瀉的併發症總結
 
 | 併發症 | 特點 |
 |---------|------|
@@ -3196,19 +3091,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **乳糜瀉**的腸道外表現包括貧血、白血球減少、免疫球蛋白缺乏和皰疹樣皮膚炎
 > - 乳糜瀉併發**腸壁積氣**不代表腸道缺血，與其他病因的腸壁積氣意義不同
 > - **CMLNS**（化膿性空腸淋巴結症候群）與乳糜瀉的乳頭狀萎縮和脾臟萎縮共同出現時高度特異
 
----
-
-# Gastrointestinal Imaging - Page 152
 
 ![Page 152](/core_radiology/images/gi/page-152.png)
 
 
-### 感染性腸炎 / Infectious Enteritis
+## 感染性腸炎 / Infectious Enteritis
 
 | 病原 | 特點 |
 |------|------|
@@ -3217,7 +3110,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 放射性腸炎 / Radiation Enteritis
+## 放射性腸炎 / Radiation Enteritis
 
 **長期盆腔放療**的影響包括腸繫膜和小腸的黏連及纖維性改變。
 
@@ -3229,7 +3122,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### Whipple 病 / Whipple Disease
+## Whipple 病 / Whipple Disease
 
 **Whipple 病**由 Tropheryma whippleii 感染引起，胃腸道表現為營養吸收不良和腹痛。
 
@@ -3241,7 +3134,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 移植物對抗宿主疾病 / Graft Versus Host Disease (GVHD)
+## 移植物對抗宿主疾病 / Graft Versus Host Disease (GVHD)
 
 **GVHD**是骨髓移植的併發症；最常受累的器官：皮膚、肝臟、胃腸道。
 
@@ -3252,21 +3145,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Whipple 病**和**乳糜瀉 CMLNS** 影像學上均可呈現低衰減淋巴結病，但 Whipple 病通常無過度分泌
 > - **放射性腸炎**的診斷線索：放療史；腸道受累不限於單一血管分佈
 > - **GVHD**：骨髓移植後；胃腸道是三大受累器官之一（皮膚、肝臟、胃腸道）
 
----
-
-# Gastrointestinal Imaging - Page 153
 
 ![Page 153](/core_radiology/images/gi/page-153.png)
 
 
-### 大腸 / Large Bowel
+## 大腸 / Large Bowel
 
-#### 結腸炎總論 / Overview of Colitis
+### 結腸炎總論 / Overview of Colitis
 
 **結腸炎**是大腸的發炎，可由多種不相關的病因引起，影像學表現常重疊。
 
@@ -3274,7 +3165,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 缺血性結腸炎 / Ischemic Colitis
+## 缺血性結腸炎 / Ischemic Colitis
 
 **缺血性結腸炎**可由急性動脉血栓、慢性動脉狹窄、低血流狀態（如心衰竭）和靜脈血栓引起。
 
@@ -3287,7 +3178,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 感染性結腸炎 / Infectious Colitis
+## 感染性結腸炎 / Infectious Colitis
 
 | 病原 | 特點 |
 |------|------|
@@ -3296,7 +3187,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 偽膜性結腸炎 / Pseudomembranous Colitis
+## 偽膜性結腸炎 / Pseudomembranous Colitis
 
 **偽膜性結腸炎**是艱難梭菌過度生長引起的最常見傳染性結腸炎，最常見於抗生素使用後改變結腸菌叢後。
 
@@ -3308,25 +3199,23 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **缺血性結腸炎**：脾彎是分水嶺區；直腸由雙重血供幾乎不受累；CT 為節段性連續性增厚
 > - **偽膜性結腸炎**：C. difficile 引起；Accordion sign 是嚴重水腫的表現；全結腸炎為典型表現
 > - Yersinia、Salmonella、結核菌影響右結腸；E. coli、CMV、C. difficile 最常致全結腸炎
 
----
-
-# Gastrointestinal Imaging - Page 154
 
 ![Page 154](/core_radiology/images/gi/page-154.png)
 
 
-### 潰疡性結腸炎 / Ulcerative Colitis (UC)
+## 潰疡性結腸炎 / Ulcerative Colitis (UC)
 
 **潰疡性結腸炎（UC）**是一種特發性發炎性腸病，**從遠端直腸開始，連續性向近端蔓延**（與 Crohn 病不同，Crohn 病有跳躍性病變）。
 
 ---
 
-#### 臨床特點
+### 臨床特點
 
 | 特點 | 說明 |
 |------|------|
@@ -3336,7 +3225,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 影像學發現
+### 影像學發現
 
 | 發現 | 說明 |
 |------|------|
@@ -3347,7 +3236,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 中毒性巨結腸 / Toxic Megacolon
+### 中毒性巨結腸 / Toxic Megacolon
 
 | 特點 | 說明 |
 |------|------|
@@ -3357,7 +3246,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 盲腸炎（中性粒細胞減少性結腸炎）/ Typhlitis (Neutropenic Enterocolitis)
+## 盲腸炎（中性粒細胞減少性結腸炎）/ Typhlitis (Neutropenic Enterocolitis)
 
 **盲腸炎**是免疫抑制患者中見到的右側結腸炎。
 
@@ -3365,21 +3254,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **UC**：從直腸連續性向近端蔓延；逆流性迴腸炎可模擬 Crohn 病；直腸受累時可能看起來正常（若患者接受皮質類固醇灌腸治療）
 > - **中毒性巨結腸**：結腸擴張 >6 cm 伴無力性腸阻塞；禁止結腸鏡檢查（穿孔風險）
 > - **盲腸炎**：免疫抑制患者；治療為廣效抗生素和抗真菌藥物
 
----
-
-# Gastrointestinal Imaging - Page 155
 
 ![Page 155](/core_radiology/images/gi/page-155.png)
 
 
-### 遺傳性息肉症候群 / Polyposis Syndromes
+## 遺傳性息肉症候群 / Polyposis Syndromes
 
-#### 家族性腺瘤性息肉病 / Familial Adenomatous Polyposis (FAP)
+### 家族性腺瘤性息肉病 / Familial Adenomatous Polyposis (FAP)
 
 **家族性腺瘤性息肉病（FAP）**是自體顯性遺傳症候群，結腸（和較少程度上小腸）有无数癌前腺瘤性息肉。
 
@@ -3404,7 +3291,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 遺傳性非息肉性結腸癌症候群 / HNPCC (Lynch Syndrome)
+### 遺傳性非息肉性結腸癌症候群 / HNPCC (Lynch Syndrome)
 
 **HNPCC** 是自體顯性遺傳，由 DNA 錯配修復缺陷引起，導致微衛星不穩定。
 
@@ -3413,7 +3300,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Peutz-Jeghers 症候群
+### Peutz-Jeghers 症候群
 
 **Peutz-Jeghers** 是自體顯性遺傳，特徴為多發性錯構瘤性有蒂息肉（主要在小腸）。
 
@@ -3425,7 +3312,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Cowden 症候群
+### Cowden 症候群
 
 **Cowden 症候群**是自體顯性遺傳，多發性錯構瘤性息肉（主要在皮膚和外部黏膜，GI 道也有）。
 
@@ -3433,7 +3320,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### Cronkhite-Canada 症候群
+### Cronkhite-Canada 症候群
 
 **Cronkhite-Canada** 是此列表中**唯一非自體顯性遺傳**的症候群（為非遺傳性）。
 
@@ -3444,19 +3331,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Gardner 症候群**（FAP 變異型）口綴：**DOPE**（硬纖維瘤、骨瘤、甲狀腺乳頭狀癌、表皮囊腫）
 > - **Peutz-Jeghers**：錯構瘤性息肉（可致腸套疊）+ perioral 色素沉著斑；Cowden 和 Cronkhite-Canada 也為錯構瘤性
 > - **Cronkhite-Canada** 是唯一非遺傳性的息肉症候群
 
----
-
-# Gastrointestinal Imaging - Page 156
 
 ![Page 156](/core_radiology/images/gi/page-156.png)
 
 
-### 急性闌尾炎 / Appendicitis
+## 急性闌尾炎 / Appendicitis
 
 **闌尾炎**是急性腹痛最常見的手術原因。急性闌尾炎症被認為是由於闌尾腔阻塞，導致靜脈充血、壁缺血和細菌移位。
 
@@ -3464,14 +3349,14 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 流行病學
+### 流行病學
 
 - >97% 的患者在闌尾切除術前接受術前 CT
 - 陰性闌尾切除率從 1990 年的 23% 降至 2007 年的 1.7%
 
 ---
 
-#### 影像學發現
+### 影像學發現
 
 **直接發現（闌尾本身異常）：**
 
@@ -3492,7 +3377,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 超聲檢查
+### 超聲檢查
 
 | 要點 | 說明 |
 |------|------|
@@ -3502,19 +3387,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **闌尾炎**的病理機制：闌尾腔阻塞 → 靜脈充血 → 壁缺血 → 細菌移位
 > - 闌尾直徑 **>6 mm** 是常用的異常閾值，但充氣或腸道對比劑填充的正常闌尾可能更大
 > - CT 術前檢查使陰性闌尾切除率從 23% 降至 1.7%
 
----
-
-# Gastrointestinal Imaging - Page 157
 
 ![Page 157](/core_radiology/images/gi/page-157.png)
 
 
-### 憩室炎 / Diverticulitis
+## 憩室炎 / Diverticulitis
 
 **憩室炎**是結腸憩室的微穿孔和急性發炎。
 
@@ -3528,7 +3411,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 無併發症憩室炎
+### 無併發症憩室炎
 
 | 特點 | 說明 |
 |------|------|
@@ -3537,7 +3420,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### 有併發症憩室炎
+### 有併發症憩室炎
 
 | 併發症 | 說明 |
 |---------|------|
@@ -3551,7 +3434,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 網膜附件炎 / Epiploic Appendagitis
+## 網膜附件炎 / Epiploic Appendagitis
 
 **網膜附件炎**是由於正常脂肪垂（appendage）扭轉引起的良性臨床模擬闌尾炎/憩室炎。
 
@@ -3562,21 +3445,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **憩室炎**：左結腸比右結腸常見；與大腸癌難以區分；建議急性發作緩解後結腸鏡隨訪
 > - **網膜附件炎**：特異性 CT 表現（卵圓形脂肪衰減病變緊鄰結腸壁 + 中央高密度點）；消炎藥治療
 > - 有併發症憩室炎（膿疡、瘻管等）：膿疡可穿刺引流；瘻管或復發性憩室炎需手術
 
----
-
-# Gastrointestinal Imaging - Page 87
 
 ![Page 87](/core_radiology/images/gi/page-087.png)
 
 
-### 支氣管擴張症 / Bronchiectasis
+## 支氣管擴張症 / Bronchiectasis
 
-#### 先天性疾病 / Congenital Connective Tissue Disorders
+### 先天性疾病 / Congenital Connective Tissue Disorders
 
 **Mounier–Kuhn 症候群**是一種先天性結締組織疾病，導致氣管支氣管擴張（tracheobronchomegaly），臨床上常表現為復發性肺炎。CT 顯示氣管擴張及嚴重囊性支氣管擴張。
 
@@ -3584,7 +3465,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-#### CAPTAIn Kangaroo 記憶口訣（支氣管擴張症常見原因）
+### CAPTAIn Kangaroo 記憶口訣（支氣管擴張症常見原因）
 
 | 字母 | 病因 |
 |------|------|
@@ -3610,7 +3491,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 形態學分類 / Morphologic Classification
+## 形態學分類 / Morphologic Classification
 
 | 類型 | 嚴重程度 | 特徵 |
 |------|----------|------|
@@ -3620,7 +3501,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 影像學表現 / Imaging Findings
+## 影像學表現 / Imaging Findings
 
 **X 光表現：**
 - 輕度：可見「tram tracks」（電車軌跡徵），即支氣管壁增厚的平行線影
@@ -3634,7 +3515,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 支氣管結石症 / Broncholithiasis
+## 支氣管結石症 / Broncholithiasis
 
 **支氣管結石症**為罕見疾病，指鈣化/骨化物質存在於支氣管腔內，最常見原因為鄰近鈣化肉芽腫性淋巴結侵蝕支氣管。
 
@@ -3642,23 +3523,21 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **CAPTAIn Kangaroo** 口訣有助記憶支氣管擴張常見原因
 > - **Signet ring sign** 是 CT 診斷支氣管擴張的關鍵徵象
 > - 囊狀支氣管擴張為最嚴重類型，常見於囊狀纖維化
 
----
-
-# Gastrointestinal Imaging - Page 88
 
 ![Page 88](/core_radiology/images/gi/page-088.png)
 
 
-### 肺氣腫 / Emphysema
+## 肺氣腫 / Emphysema
 
 **肺氣腫**是肺泡壁破壞導致遠端氣腔不可逆性擴大的疾病。雖然發病初期不涉及纖維化，但末期肺氣腫可能因修復反應最終導致肺纖維化。
 
-#### 病理機制 / Pathophysiology
+### 病理機制 / Pathophysiology
 
 - **Elastase（彈性蛋白酶）** 由肺泡巨噬細胞及嗜中性粒細胞產生，吸菸者體內兩者均增加
 - Elastase 是強力的破壞性酶，具宿主防禦功能，但過量會損害原生組織
@@ -3667,7 +3546,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 小葉中央型肺氣腫 / Centrilobular Emphysema
+## 小葉中央型肺氣腫 / Centrilobular Emphysema
 
 **小葉中央型肺氣腫**是一種與吸菸相關的肺疾病，主要影響次級肺小葉（secondary pulmonary lobule）的中心部分，好發於**上肺葉**。
 
@@ -3680,7 +3559,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 胸膜下肺氣腫 / Paraseptal Emphysema
+## 胸膜下肺氣腫 / Paraseptal Emphysema
 
 **胸膜下肺氣腫**通常與其他類型肺氣腫合併出現，多與吸菸有關。
 
@@ -3691,19 +3570,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **吸菸**是小葉中央型肺氣腫的主要病因，**Alpha-1-antitrypsin 缺乏**則導致全小葉型肺氣腫
 > - 小葉中央型肺氣腫**好發於上肺葉**，全小葉型則**下肺葉為主**
 > - 胸膜下肺氣腫可能為年輕人自發性氣胸的原因
 
----
-
-# Gastrointestinal Imaging - Page 89
 
 ![Page 89](/core_radiology/images/gi/page-089.png)
 
 
-### 全小葉型（泛小葉型）肺氣腫 / Panacinar (Panlobular) Emphysema
+## 全小葉型（泛小葉型）肺氣腫 / Panacinar (Panlobular) Emphysema
 
 **全小葉型肺氣腫**（亦稱 panlobular emphysema）影響整個肺小葉（acinus），瀰漫性分布於全肺，**下肺葉**通常病變最嚴重。
 
@@ -3717,7 +3594,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 氣道腫瘤 / Airway Tumors
+## 氣道腫瘤 / Airway Tumors
 
 - 成人原發性氣管及中央支氣管腫瘤**罕見**，且大多為惡性
 - 兒童則以良性為主
@@ -3725,7 +3602,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 鱗狀細胞癌 / Squamous Cell Carcinoma (SCC)
+## 鱗狀細胞癌 / Squamous Cell Carcinoma (SCC)
 
 **鱗狀細胞癌**是原發性氣管惡性腫瘤中**最常見**的類型，與**吸菸**有極強相關性。
 
@@ -3736,19 +3613,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **全小葉型肺氣腫**以下肺葉為主，常與 **Alpha-1-antitrypsin 缺乏**相關
 > - **鱗狀細胞癌**為最常見的原發性氣管惡性腫瘤，與吸菸密切相關
 > - 成人氣道腫瘤以惡性為主，兒童則以良性為主
 
----
-
-# Gastrointestinal Imaging - Page 90
 
 ![Page 90](/core_radiology/images/gi/page-090.png)
 
 
-### 腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC)
+## 腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC)
 
 **腺樣囊性癌**是相對低度惡性的腫瘤，好發於**40 多歲**患者，比鱗狀細胞癌（SCC）患者年輕約 10-20 歲，**與吸菸無關**。
 
@@ -3762,7 +3637,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 類癌 / Carcinoid
+## 類癌 / Carcinoid
 
 **類癌**屬於神經內分泌腫瘤光譜，包括低度惡性類癌、侵襲性類癌及小細胞癌，生物行為多樣。少數類癌可分泌激素（如 ACTH）。
 
@@ -3775,19 +3650,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **腺樣囊性癌**（ACC）好發於 40 多歲，與吸菸無關；**鱗狀細胞癌**則與吸菸高度相關且年齡較大
 > - 類癌為**兒童最常見的支氣管腫瘤**，成人少見
 > - 類癌幾乎都發生在**氣管叉遠端**，CT 呈均質性动脉增強
 
----
-
-# Gastrointestinal Imaging - Page 91
 
 ![Page 91](/core_radiology/images/gi/page-091.png)
 
 
-### 黏液表皮樣癌 / Mucoepidermoid Carcinoma
+## 黏液表皮樣癌 / Mucoepidermoid Carcinoma
 
 **黏液表皮樣癌**是一種罕見腫瘤，起源於氣管支氣管樹上的微小唾液腺。
 
@@ -3797,13 +3670,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 氣管淋巴瘤 / Tracheal Lymphoma
+## 氣管淋巴瘤 / Tracheal Lymphoma
 
 **氣管淋巴瘤**罕見，通常與**黏膜相關淋巴組織淋巴瘤（MALT lymphoma）**相關，屬於低度惡性腫瘤。
 
 ---
 
-### 氣管內轉移 / Endobronchial Metastasis
+## 氣管內轉移 / Endobronchial Metastasis
 
 **氣管內轉移**最常見的原發惡性腫瘤：
 
@@ -3820,7 +3693,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 直接侵犯 / Direct Invasion of Central Airways
+## 直接侵犯 / Direct Invasion of Central Airways
 
 **直接侵犯**比氣管內轉移更常見。
 
@@ -3828,38 +3701,36 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 良性氣管內病變 / Benign Endobronchial Lesions
+## 良性氣管內病變 / Benign Endobronchial Lesions
 
-#### 乳頭瘤 / Papilloma
+### 乳頭瘤 / Papilloma
 
 - **乳頭瘤**為良性但有惡性潛能，可能轉化為癌
 - 單發性乳頭瘤：通常由慢性刺激引起
 - 多發性乳頭瘤（喉氣管乳頭瘤病, laryngotracheal papillomatosis）：由**HPV**引起，可在出生時獲得
 - 少數（<1%）乳頭瘤可擴散至肺部，形成多發性空洞性結節
 
-#### 軟骨瘤 / Chondroma
+### 軟骨瘤 / Chondroma
 
 - 良性軟骨源性腫瘤，罕見於氣道
 
-#### 其他良性病變
+### 其他良性病變
 
 其他良性氣管內病變包括：**神經鞘瘤（schwannoma）**、**腺瘤（adenoma）**、**錯構瘤（hamartoma）**、**血管瘤（hemangioma）**、**脂肪瘤（lipoma）**、**平滑肌瘤（leiomyoma）**。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **黏液表皮樣癌**好發於年輕患者，影像學無法與類癌區分
 > - 記憶口訣 **BReTh Lung**（乳癌、腎細胞癌、甲狀腺癌、肺癌）有助於記住常見氣管內轉移來源
 > - 多發性乳頭瘤與 **HPV** 感染相關，少數可擴散至肺部形成空洞性結節
 
----
-
-# Gastrointestinal Imaging - Page 92
 
 ![Page 92](/core_radiology/images/gi/page-092.png)
 
 
-### 惡性間皮瘤 / Mesothelioma
+## 惡性間皮瘤 / Mesothelioma
 
 **惡性間皮瘤**是起源於胸膜的高度侵襲性腫瘤，大多數病例與**石棉暴露**相關，潛伏期通常 **>20 年**。
 
@@ -3882,31 +3753,29 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 胸膜轉移 / Pleural Metastases
+## 胸膜轉移 / Pleural Metastases
 
 可能轉移至胸膜的惡性腫瘤：**肺癌、胃腸道腺癌、泌尿生殖系統腺癌、侵犯性胸腺瘤**。
 
 ---
 
-### 多發性骨髓瘤 / 漿細胞瘤 / Multiple Myeloma / Plasmacytoma
+## 多發性骨髓瘤 / 漿細胞瘤 / Multiple Myeloma / Plasmacytoma
 
 起源於肋骨的病變可能類似胸膜起源，但以肋骨為中心的腫塊中央應位於肋骨。
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **惡性間皮瘤**與石棉暴露高度相關，潛伏期 >20 年，上皮型預後較好
 > - CT 典型表現為**結節性同心圓狀胸膜增厚**伴胸腔積液
 > - 侵犯性胸腺瘤是可能轉移至胸膜的腫瘤之一
 
----
-
-# Gastrointestinal Imaging - Page 93
 
 ![Page 93](/core_radiology/images/gi/page-093.png)
 
 
-### 胸膜纖維瘤 / Fibrous Tumor of the Pleura (FTP)
+## 胸膜纖維瘤 / Fibrous Tumor of the Pleura (FTP)
 
 **胸膜纖維瘤（FTP）**是一種局灶性胸膜腫塊，與石棉沉著症或間皮瘤無關，也不是間皮細胞來源。
 
@@ -3919,15 +3788,15 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 胸腔積液 / Pleural Effusion
+## 胸腔積液 / Pleural Effusion
 
-#### 漏出液 / Transudate
+### 漏出液 / Transudate
 
 **漏出液**由全身性或局部性靜水壓與膠體滲透壓失衡引起。
 
 常見原因：**全身性低蛋白血症、心衰竭、腎病症候群**。
 
-#### 滲出液 / Exudate
+### 滲出液 / Exudate
 
 **滲出液**與漏出液的區分需靠胸腔穿刺。**影像學無法可靠區分兩者**。
 
@@ -3946,7 +3815,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 乳糜胸 / Chylothorax
+## 乳糜胸 / Chylothorax
 
 **乳糜胸**是含有腸道淋巴的胸腔積液，最常見原因為**腫瘤阻塞胸導管**。亦與**淋巴管平滑肌瘤病（LAM）**相關。
 
@@ -3954,45 +3823,43 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Light's 標準**是區分滲出液與漏出液的最可靠方法（三項符合其一即為滲出液）
 > - **胸膜纖維瘤**有蒂時位置可變，FDG 攝取通常較低，20-30% 為惡性
 > - **乳糜胸**最常見原因為腫瘤阻塞胸導管，與 LAM 也高度相關
 
----
-
-# Gastrointestinal Imaging - Page 94
 
 ![Page 94](/core_radiology/images/gi/page-094.png)
 
 
-### 參考文獻 / References
+## 參考文獻 / References
 
 本章主要參考文獻分類如下：
 
-#### 一般參考 General References
+### 一般參考 General References
 
 - Webb WR, Higgins CB. *Thoracic Imaging – Pulmonary and Cardiovascular Radiology*. Lippincott Williams & Wilkins, 2005.
 - Hansell DM, Lynch D, McAdams HP, Bankier AA. *Imaging of Diseases of the Chest* (5th ed.). Mosby, 2010.
 
-#### 解剖學與基本概念 Anatomy and Basic Concepts
+### 解剖學與基本概念 Anatomy and Basic Concepts
 
 - Eisenhuber E. Signs in imaging – the tree-in-bud sign. *Radiology* 2002;222:771-2.
 - Gibbs JM et al. Lines and stripes: where did they go? *Radiographics* 2007;27:33-48.
 - Marshall GB et al. Signs in thoracic imaging. *J Thorac Imaging* 2006;21:76-90.
 
-#### 肺部感染 Pulmonary Infection
+### 肺部感染 Pulmonary Infection
 
 - Franquet T et al. Spectrum of Pulmonary Aspergillosis. *Radiographics* 2001;21:825.
 - Gotway MB et al. The radiologic spectrum of pulmonary Aspergillus infections. *J Comput Assist Tomogr* 2002;26:159-73.
 - Tarver RD et al. Radiology of community-acquired pneumonia. *Radiol Clin North Am* 2005;43:497-512.
 
-#### 肺水腫與重症影像 Pulmonary Edema and ICU Imaging
+### 肺水腫與重症影像 Pulmonary Edema and ICU Imaging
 
 - Ely EW. Using the Chest Radiograph To Determine Intravascular Volume Status. *Chest* 2002;121:942-50.
 - Martin GS. Findings on the Portable Chest Radiograph Correlate With Fluid Balance in Critically Ill Patients. *Chest* 2002;122:2087-95.
 
-#### 肺癌 Lung Cancer
+### 肺癌 Lung Cancer
 
 - Hartman TE. Radiologic evaluation of the solitary pulmonary nodule. *Radiol Clin North Am* 2005;43:459-65.
 - MacMahon H et al. Guidelines for management of small pulmonary nodules detected on CT scans. *Radiology* 2005;237:395-400.
@@ -4000,20 +3867,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-# Gastrointestinal Imaging - Page 95
 
 ![Page 95](/core_radiology/images/gi/page-095.png)
 
 
-### 參考文獻（續）/ References (continued)
+## 參考文獻（續）/ References (continued)
 
-#### 肺血管疾病 Pulmonary Vascular Disease
+### 肺血管疾病 Pulmonary Vascular Disease
 
 - Agnelli G, Becattini C. Acute Pulmonary Embolism. *N Engl J Med* 2010;363:266-74.
 - Kuriakose J, Patel S. Acute pulmonary embolism. *Radiol Clin North Am* 2010;48:31-50.
 - Wittram C et al. CT angiography of pulmonary embolism: diagnostic criteria and causes of misdiagnosis. *Radiographics* 2004;24:1219-38.
 
-#### 瀰漫性肺疾病 Diffuse Lung Disease
+### 瀰漫性肺疾病 Diffuse Lung Disease
 
 - Attili AK et al. Smoking-related interstitial lung disease: radiologic-clinical-pathologic correlation. *Radiographics* 2008;28:1383-96.
 - Gotway MB et al. High-resolution CT of the lung: patterns of disease and differential diagnoses. *Radiol Clin North Am* 2005;43:513-42.
@@ -4021,18 +3887,18 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - Mueller-Mang C, Grosse C, Schmid K. What Every Radiologist Should Know about Idiopathic Interstitial Pneumonias. *Radiographics* 2007;27:595-616.
 - Rossi SE et al. "Crazy-Paving" Pattern at Thin-Section CT of the Lungs. *Radiographics* 2003;23:1509-19.
 
-#### 縱隔 Mediastinum
+### 縱隔 Mediastinum
 
 - Quint LE. Imaging of anterior mediastinal masses. *Cancer Imaging* 2007;7 Spec No:S56-62.
 - Whitten C, Khan S, Munneke G. A Diagnostic Approach to Mediastinal Abnormalities. *Radiographics* 2007;27:657-71.
 
-#### 氣道 Airways
+### 氣道 Airways
 
 - Ferretti GR et al. Imaging of tumors of the trachea and central bronchi. *Radiol Clin North Am* 2009;47:227-41.
 - Javidan-Nejad C, Bhalla S. Bronchiectasis. *Radiol Clin North Am* 2009;47:289-306.
 - Martinez S et al. Mucoid impactions: finger-in-glove sign and other CT and radiographic features. *Radiographics* 2008;28:1369-82.
 
-#### 胸膜 Pleura
+### 胸膜 Pleura
 
 - Qureshi NR, Gleeson FV. Imaging of pleural disease. *Clin Chest Med* 2006;27:193-213.
 - Sugarbaker D, Wolf A. Surgery for malignant pleural mesothelioma. *Expert Rev Respir Med* 2010;4:363-72.
@@ -4040,12 +3906,11 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-# Gastrointestinal Imaging - Page 96
 
 ![Page 96](/core_radiology/images/gi/page-096.png)
 
 
-### 章節目錄 / Chapter Contents
+## 章節目錄 / Chapter Contents
 
 本章涵蓋胃腸道影像學各系統主題：
 
@@ -4062,22 +3927,20 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - 胃腸道影像學章節依器官系統分段，便於系統性學習
 > - 肝臟為最大章節（頁碼 88-106），涵蓋最廣泛的疾病譜
 
----
-
-# Gastrointestinal Imaging - Page 97
 
 ![Page 97](/core_radiology/images/gi/page-097.png)
 
 
-### 肝臟解剖 / Liver Anatomy — Couinaud 分類
+## 肝臟解剖 / Liver Anatomy — Couinaud 分類
 
 **Couinaud 分類**將肝臟分為 **8 個肝段**，每個肝段具有獨立的門脈三聯（門靜脈、肝動脈、膽管分支），可獨立切除而不影響其他肝段。
 
-#### 肝段編號（由前方/冠狀面觀看為順時針）
+### 肝段編號（由前方/冠狀面觀看為順時針）
 
 | 位置 | 上肝段 | 下肝段 |
 |------|--------|--------|
@@ -4087,13 +3950,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 > 記憶口訣（上方觀，由左至右）：**2 → 4 → 8 → 7**（2 的兩倍是 4，4 的兩倍是 8，8 減 1 是 7）
 > 記憶口訣（下方觀，由左至右）：**3, 4, 5, 6**
 
-#### 重要解剖標誌
+### 重要解剖標誌
 
 - **門靜脈**：分為左、右主門靜脈，分隔上方與下方肝段
 - **肝靜脈**：在軸位圖上形成肝段的邊界；**中肝靜脈**分隔左葉（2-4）與右葉（5-8）
 - **肝靜脈引流**：每個肝段周邊引流至肝靜脈，最終進入下腔靜脈（IVC）
 
-#### 尾狀葉特性
+### 尾狀葉特性
 
 - **尾狀葉（Segment 1）**直接引流至 IVC，不經過肝靜脈
 - **肝硬化早期**：因門脈高壓導致靜脈壓力升高，尾狀葉因直接引流至 IVC 而被保留，常見代償性肥大
@@ -4101,21 +3964,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **Couinaud 8 段分類**是肝臟外科切除的基礎，每個肝段可獨立切除
 > - **中肝靜脈**是左右葉分界，**門靜脈**是上下肝段的分界
 > - 尾狀葉在**肝硬化**和 **Budd-Chiari 症候群**中常見代償性肥大，因其繞過了肝靜脈系統直接引流至 IVC
 
----
-
-# Gastrointestinal Imaging - Page 98
 
 ![Page 98](/core_radiology/images/gi/page-098.png)
 
 
-### 肝臟影像學 / CT and MRI of the Liver
+## 肝臟影像學 / CT and MRI of the Liver
 
-#### 肝臟 CT / Liver CT
+### 肝臟 CT / Liver CT
 
 **常規腹部 CT**（對比增強）通常在靜脈注射對比劑後 **70 秒**採集，位於門脈期（portal venous phase）。
 
@@ -4129,7 +3990,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 動脉期約在注射對比劑後 **20-25 秒**開始
 - 最佳顯著期（late arterial phase）：腹主動脈增強後 **9-16 秒**，約為注射後 **35 秒**
 
-#### 肝臟 MRI / Liver MRI
+### 肝臟 MRI / Liver MRI
 
 | 優勢 | 說明 |
 |------|------|
@@ -4144,21 +4005,19 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **門脈期（70秒）**是常規腹部 CT 掃描時相；**動脉期（35秒）**最適合檢測富血供肝腫瘤
 > - **同相位/反相位 MRI** 可檢測細胞內脂肪，是脂肪肝定量分析的理想工具
 > - 脂肪肝在非增強 CT 上：肝臟衰減值比脾臟低 **至少 10 HU** 即提示脂肪肝
 
----
-
-# Gastrointestinal Imaging - Page 99
 
 ![Page 99](/core_radiology/images/gi/page-099.png)
 
 
-### 脂肪肝 / 肝脂肪變性 / Hepatic Steatosis (Fatty Liver)
+## 脂肪肝 / 肝脂肪變性 / Hepatic Steatosis (Fatty Liver)
 
-#### 非酒精性脂肪肝病 / Nonalcoholic Fatty Liver Disease (NAFLD)
+### 非酒精性脂肪肝病 / Nonalcoholic Fatty Liver Disease (NAFLD)
 
 **非酒精性脂肪肝病（NAFLD）**是**肥胖、胰島素抵抗、血脂異常**等代謝症候群的表現之一，超過 **15%** 人口受影響。
 
@@ -4166,7 +4025,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 單純性脂肪變性（Steatosis）
 - 脂肪變性伴隨發炎（Steatohepatitis）→ 可進展為**肝硬化**
 
-#### 影像學診斷
+### 影像學診斷
 
 | 檢查方法 | 診斷標準 |
 |----------|----------|
@@ -4177,13 +4036,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 > 當影像學已能檢測到肝硬化的形態學改變時，變化可能已不可逆。
 
-#### 反相位 MRI 原理
+### 反相位 MRI 原理
 
 - **同相位（In-phase）**：脂肪與水的信號**相加**
 - **反相位（Out-of-phase）**：脂肪與水的信號**相減**
 - 反相位圖像邊緣可見 **india-ink 偽影**（脂肪與鄰近器官接觸處）
 
-#### 局灶性脂肪沉積 / Focal Fat
+### 局灶性脂肪沉積 / Focal Fat
 
 **特點：**
 - **無佔位效應（mass effect）**
@@ -4194,12 +4053,11 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ---
 
-### 臨床要點 / Clinical Key Points
+
+> **臨床要點**
 > - **NAFLD** 影響 >15% 人口，是代謝症候群的重要組成部分，可進展為肝硬化
 > - **非增強 CT** 上肝臟比脾臟低 ≥10 HU 提示脂肪肝；反相位 MRI 是最準確的脂肪定量工具
 > - **局灶性脂肪**無佔位效應、血管穿行，是與肝腫瘤的重要鑑別點
-
----
 
 # 胃腸 / 肝膽 / 泌尿系統影像 — Learning Radiology 整合 / Learning Radiology Integration
 
@@ -4209,12 +4067,12 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 食道疾病 / Esophageal Diseases
 
-### 食道癌 / Esophageal Carcinoma
+## 食道癌 / Esophageal Carcinoma
 - 鱗狀細胞癌或腺癌（腺癌與 Barrett 食道相關）
 - 鋇劑吞嚥檢查：見充盈缺損，近端及遠端邊緣呈**懸垂邊緣（overhanging edges）**
 - 預後差
 
-### 食道裂孔疝氣 / Hiatal Hernia
+## 食道裂孔疝氣 / Hiatal Hernia
 - **滑動型（Sliding）**：胃食道接合處在橫膈以上（約 90%）
 - **旁食道型（Paraesophageal）**：部分胃穿過食道裂孔，但胃食道接合處仍在橫膈以下
 
@@ -4227,17 +4085,17 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 胃部疾病 / Stomach
 
-### 胃潰瘍 / Gastric Ulcers
+## 胃潰瘍 / Gastric Ulcers
 - 良性潰瘍多見於胃小彎或後壁
 - 潰瘍周圍水腫、黏膜皺襞向潰瘍邊緣放射
 - 約 95% 為良性
 
-### 胃癌 / Gastric Carcinoma
+## 胃癌 / Gastric Carcinoma
 - 遠端三分之一（小彎側）最常見
 - 雙重對比鋇劑或 CT 可見：胃壁不規則增厚、充盈缺損
 - CT 用於分期
 
-### 十二指腸潰傷 / Duodenal Ulcers
+## 十二指腸潰傷 / Duodenal Ulcers
 - 為胃潰傷的 2–3 倍常見
 - 幾乎都在十二指腸球部，前壁
 - 主要由 H. pylori 感染引起（85–95%）
@@ -4247,13 +4105,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 小腸與大腸 / Small and Large Bowel
 
-### 重要 CT 發現 / Key CT Findings
+## 重要 CT 發現 / Key CT Findings
 1. **腸壁增厚（Bowel Wall Thickening）**
 2. **黏膜下層水腫/出血（Submucosal Edema or Hemorrhage）**：拇指壓跡（Thumbprinting）
 3. **腸繫膜脂肪浸潤（Hazy Fat Infiltration）**：周圍炎症
 4. **腸腔外空氣或對比劑（Extraluminal Air or Contrast）**：穿孔
 
-### 克隆氏症 / Crohn Disease
+## 克隆氏症 / Crohn Disease
 - 慢性、肉芽腫性炎症，常侵犯迴腸及右結腸
 - **跳躍區（Skip Areas）**：病變腸段之間有正常腸段
 - **String Sign**：末段迴腸痙攣及纖維化導致狹窄
@@ -4264,13 +4122,13 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 腸繫膜脂肪浸潤使病變腸段突出（Proud Loop）
 - 腸道間瘻管（Enteric Fistulae）
 
-### 憩室病 / Diverticulosis
+## 憩室病 / Diverticulosis
 - 黏膜穿過肌肉層的薄弱點（偽憩室）
 - 最常見於乙狀結腸
 - 多為無症狀（約 90%）
 - **右側憩室**：出血風險較高
 
-### 憩室炎 / Diverticulitis
+## 憩室炎 / Diverticulitis
 - 發炎、穿孔（常為局限性）
 - CT 首選
 
@@ -4280,12 +4138,12 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 膿疡形成（氣泡）
 - 侷限性穿孔
 
-### 大腸息肉 / Colonic Polyps
+## 大腸息肉 / Colonic Polyps
 - **增生性息肉（Hyperplastic）**：無惡性潛能
 - **腺瘤性息肉（Adenomatous）**：有惡性潛能，與大小相關，> 1.5 cm 約 10% 為惡性
 - 影像：鋇劑大腸攝影、CT 大腸攝影、光學大腸鏡
 
-### 大腸癌 / Colonic Carcinoma
+## 大腸癌 / Colonic Carcinoma
 - 最常見 GI 癌症
 - 好發於直腸乙狀結腸
 
@@ -4294,7 +4152,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - **蘋果核徵（Apple-Core Lesion）**：環形狹窄
 - 腸壁外浸潤、脂肪浸潤
 
-### 結腸炎 / Colitis
+## 結腸炎 / Colitis
 - 多種原因：感染性、潰傷性、缺血性、放射性、抗生素相關
 
 **CT 特徵：**
@@ -4302,7 +4160,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - **Thumbprinting**（黏膜下水腫）
 - 周圍脂肪浸潤
 
-### 闌尾炎 / Appendicitis
+## 闌尾炎 / Appendicitis
 - 闌尾腔阻塞為前驅病變
 - CT 超音波首選
 
@@ -4322,7 +4180,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 胰臟疾病 / Pancreatic Diseases
 
-### 胰臟炎 / Pancreatitis
+## 胰臟炎 / Pancreatitis
 - 兩大原因：**酒精**及**膽結石**
 - CT 用於評估病因及併發症
 
@@ -4332,11 +4190,11 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 壞死：低衰减值區域（預後較差）
 - **胰囊性假瘤（Pancreatic Pseudocyst）**：纖維包覆的積液
 
-### 慢性胰臟炎 / Chronic Pancreatitis
+## 慢性胰臟炎 / Chronic Pancreatitis
 - 多由酒精引起
 - 特徵：**多位於胰管的鈣化**（不規則、泥沙樣）
 
-### 胰臟腺癌 / Pancreatic Adenocarcinoma
+## 胰臟腺癌 / Pancreatic Adenocarcinoma
 - 預後極差
 - 75% 發生於胰頭
 - CT：低密度腫塊，胰管/膽管擴張
@@ -4345,12 +4203,12 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 肝膽系統 / Hepatobiliary
 
-### 脂肪浸潤 / Fatty Infiltration (Steatosis)
+## 脂肪浸潤 / Fatty Infiltration (Steatosis)
 - 非常常見
 - 超音波：肝臟回音性增加
 - CT（非顯影）：脾臟密度高於肝臟
 
-### 肝硬化 / Cirrhosis
+## 肝硬化 / Cirrhosis
 - 慢性、不可逆的肝臟疾病
 - 病因：B 型/C 型肝炎、酒精、NASH、血色素沉著症
 
@@ -4361,7 +4219,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 脾腫大
 - 腹水
 
-### 肝轉移 / Liver Metastases
+## 肝轉移 / Liver Metastases
 - **肝臟惡性腫瘤最常見**
 - 原發：結腸、胃、胰、肺、乳癌、黑色素瘤
 
@@ -4369,7 +4227,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 多發性低密度腫塊
 - 較大病灶可能壞死
 
-### 肝細胞癌 / Hepatocellular Carcinoma (HCC)
+## 肝細胞癌 / Hepatocellular Carcinoma (HCC)
 - 肝臟原發惡性最常見
 - 幾乎都有潛在肝病（肝硬化、肝炎）
 
@@ -4378,12 +4236,12 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 動脈期：快速增強（高密度）
 - 靜脈期：沖洗（Washout），變回低密度或等密度
 
-### 肝血管瘤 / Cavernous Hemangioma
+## 肝血管瘤 / Cavernous Hemangioma
 - 肝臟原發良性腫瘤最常見
 - 特点：**外圍向內增強（Peripheral-to-Central Enhancement）**
 - 延遲掃描：對比劑滞留（比肝實質更白）
 
-### 肝囊腫 / Hepatic Cysts
+## 肝囊腫 / Hepatic Cysts
 - 先天性
 - 超音波：無回音（anechoic）、乾淨後壁、側邊聲影（Through-Transmission）
 - CT：銳利邊緣、低密度（接近水的密度）
@@ -4392,7 +4250,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 膽道系統 / Biliary System
 
-### MRCP（磁共振膽胰管成像）
+## MRCP（磁共振膽胰管成像）
 - 非侵入性成像膽道樹（不需對比劑）
 - 可見：狹窄、擴張、結石、膽囊腺肌瘤（Adenomyomatosis）
 
@@ -4400,18 +4258,18 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 泌尿系統 / Urinary Tract
 
-### 腎囊腫 / Renal Cysts
+## 腎囊腫 / Renal Cysts
 - 非常常見（55 歲以上 > 50%）
 - 超音波：無回音、乾淨後壁、強烈側邊聲影
 - CT：銳利邊緣、液態密度（-10 至 +20 HU）、不增強
 
-### 腎細胞癌 / Renal Cell Carcinoma (Hypernephroma)
+## 腎細胞癌 / Renal Cell Carcinoma (Hypernephroma)
 - 成人腎臟原發惡性最常見
 - CT：實心腫塊（可能有壞死區）、靜脈侵襲（腎靜脈、下腔靜脈）
 - 超音波：可能有高回音（較小時）
 - 可轉移到肺（溶骨性）及骨
 
-### 膀胱腫瘤 / Bladder Tumors
+## 膀胱腫瘤 / Bladder Tumors
 - 多為泌尿上皮瘤（Urothelial / Transitional Cell Carcinoma）
 - CT 泌尿成像：膀胱壁局部增厚或充盈缺損
 
@@ -4419,7 +4277,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 腹膜後淋巴結病 / Retroperitoneal Lymphadenopathy
 
-### 淋巴瘤 / Lymphoma
+## 淋巴瘤 / Lymphoma
 - 可侵犯 GI 或 GU 道的任何部分
 - 霍奇金：胸部最常見；胃：非霍奇金胃腸道最常見
 
@@ -4432,14 +4290,14 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 ## 腹膜游離氣體與腸道外氣體 / Extraluminal Air
 
-### 游離腹腔氣體（Free Intraperitoneal Air / Pneumoperitoneum）
+## 游離腹腔氣體（Free Intraperitoneal Air / Pneumoperitoneum）
 
 **三大 X 光徵象：**
 1. **氣腹（Air Beneath Diaphragm）**：需立位或左側臥位
 2. **Rigler Sign**：雙側腸壁可見（需大量游離氣體）
 3. **鐮狀韌帶徵（Falciform Ligament Sign）**：游離氣體圍繞鐮狀韌帶
 
-### 腸壁氣體（腸壁囊積氣 / Pneumatosis Intestinalis）
+## 腸壁氣體（腸壁囊積氣 / Pneumatosis Intestinalis）
 - 腸壁內有空氣
 - 輪廓可見：平行腸腔的線狀透光影
 - En face：斑駁外觀
@@ -4449,7 +4307,7 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 - 缺血性腸病（成人）
 - 慢性阻塞性肺病
 
-### 膽道氣體（Pneumobilia）
+## 膽道氣體（Pneumobilia）
 - 膽道系統有空氣
 - 位置：**肝臟中央**，管狀、分支狀
 - 與門靜脈氣體鑑別：後者位於周邊、多分支
@@ -4496,7 +4354,7 @@ CT 的引進大幅改變創傷管理，使許多患者得以保守治療。
 - 大多數肝臟創傷合併腹腔積血（Hemoperitoneum）
 - CT 為首選檢查
 
-### CT 發現 / CT Findings
+## CT 發現 / CT Findings
 
 | 發現 | 描述 |
 |------|------|
@@ -4515,7 +4373,7 @@ CT 的引進大幅改變創傷管理，使許多患者得以保守治療。
 - **脾臟是腹腔內血管最多的器官**，出血是最嚴重併發症
 - 現今大多數脾臟創傷可保守治療
 
-### CT 發現 / CT Findings
+## CT 發現 / CT Findings
 
 | 發現 | 描述 |
 |------|------|
@@ -4534,7 +4392,7 @@ CT 的引進大幅改變創傷管理，使許多患者得以保守治療。
 - 幾乎所有腎臟創傷患者都有**血尿（Hematuria）**
 - CT 為首選（已幾乎完全取代靜脈腎盂造影及標準膀胱造影）
 
-### CT 發現 / CT Findings
+## CT 發現 / CT Findings
 
 | 發現 | 描述 |
 |------|------|
@@ -4553,7 +4411,7 @@ CT 的引進大幅改變創傷管理，使許多患者得以保守治療。
 - 小腸比大腸更常受影響
 - 發現可於復甦後完全逆轉
 
-### CT 發現 / CT Findings
+## CT 發現 / CT Findings
 
 - 小腸壁瀰漫性增厚並**增強對比**
 - 積液且擴張的腸道
