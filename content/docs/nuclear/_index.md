@@ -1,6 +1,6 @@
 ---
 
-title: "Breast Imaging"
+title: "Nuclear Imaging"
 
 weight: 8
 
