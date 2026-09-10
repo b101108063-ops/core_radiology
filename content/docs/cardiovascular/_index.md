@@ -10,14 +10,6 @@ weight: 10
 
 
 
-# Interventional Radiology - Page 694
-
-
-
-![Page 694](/core_radiology/images/interventional/page-694.png)
-
-
-
 ## 二尖瓣返流 / Mitral Regurgitation
 
 
