@@ -1,8 +1,8 @@
 ---
 
-title: "Cardiovascular Imaging"
+title: "Interventional Radiology"
 
-weight: 9
+weight: 10
 
 ---
 
@@ -10,188 +10,159 @@ weight: 9
 
 
 
-![Page 658](/core_radiology/images/cardiovascular/page-658.png)
+# Interventional Radiology - Page 694
 
 
 
-## 囊外矽膠植入物破裂 / Extracapsular Silicone Implant Rupture
+![Page 694](/core_radiology/images/interventional/page-694.png)
 
 
 
-**囊外矽膠植入物破裂（Extracapsular Silicone Implant Rupture）** 是指植入物破裂且矽膠滲漏至乳腺實質內。
+## 二尖瓣返流 / Mitral Regurgitation
 
 
 
 ### 臨床特點 / Clinical Features
 
-- 囊外破裂可在乳房攝影上表現為高密度矽膠延伸至囊外
+- **急性二尖瓣返流**（繼發於心肌梗塞）可表現為急性肺水腫，但心臟大小正常
 
-- 矽膠進入乳腺組織，形成**矽膠肉芽腫（silicone granuloma）**
+- **慢性二尖瓣返流**可導致心影擴大及左心房擴大
 
-- 超音波檢查可見游離矽膠呈現典型**「雪暴徵象（snowstorm appearance）」**
+- **左心耳（LAA）**在風濕性疾病患者中常見擴大；而在非風濕性二尖瓣返流中，LAA 通常不擴大
 
 
 
 ### 診斷要點 / Diagnostic Key Points
 
-- **乳房攝影（Mammography）**：
+- 心臟大小及左心房大小是評估二尖瓣返流慢性程度的關鍵
 
-  - 高密度矽膠延伸至囊外
+- LAA 是否有擴大有助于鑑別風濕性與非風濕性病因
 
-  - MLO 標準 view 可見植入物後移位
 
-  - 植入物位移 CC view 可更清楚顯示乳腺內高密度矽膠肉芽腫範圍
 
-- **超音波（Ultrasound）**：
+---
 
-  - 迴聲性陰影腫塊
 
-  - 典型雪暴徵象
 
-  - 可測量病灶大小
+## 二尖瓣狹窄 / Mitral Stenosis
+
+
+
+### 臨床特點 / Clinical Features
+
+- 二尖瓣狹窄表現為心臟大小正常，伴有左心房擴大
+
+- 肺靜脈壓力通常升高
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 胸部 X 光：心影正常大小、左心房擴大、肺靜脈淤血
+
+- 超聲心動圖可確認瓣膜狹窄程度
+
+
+
+---
+
+
+
+## 二尖瓣環鈣化 / Mitral Annular Calcification (MAC)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **二尖瓣環鈣化（MAC）**是一種退行性疾病，指鈣質沉積於環繞二尖瓣的纖維環上
+
+- MAC 與**中風、心血管不良事件及心房顫動**風險增加相關，被視為心血管疾病的風險標記
+
+- MAC 可合併二尖瓣返流，但與二尖瓣瓣膜鈣化不同，MAC 不引起二尖瓣狹窄
 
 
 
 ### 鑑別診斷 / Differential Diagnosis
 
-| 診斷 | 區分特點 |
+| 疾病 | 與 MAC 的關係 |
 
-|------|----------|
+|------|---------------|
 
-| 囊內破裂 | 植入物內輪廓異常，無遊離矽膠外滲 |
+| 二尖瓣返流 | 可合併出現 |
 
-| 乳腺惡性腫瘤 | 形狀不規則、邊緣毛刺、較強的陰影 |
-
-| 矽膠肉芽腫 | 為囊外破裂的後續表現 |
+| 二尖瓣狹窄 | MAC 不導致狹窄（需與瓣膜鈣化鑑別）|
 
 
 
-
-> **臨床要點**
-> - 囊外破裂比囊內破裂更具臨床重要性，因矽膠渗入組織可引起發炎反應
-> - 超音波雪暴徵象是囊外破裂的特徵性表現
-> - 影像引導下切片可確診並排除惡性
+---
 
 
 
-![Page 659](/core_radiology/images/cardiovascular/page-659.png)
-
-
-
-## 縮胸整形術 / Reduction Mammoplasty
-
-
-
-**縮胸整形術（Reduction Mammoplasty）** 是一種整形外科手術，旨在縮小過大乳房的體積。
+## 主動脈瓣狹窄 / Aortic Stenosis
 
 
 
 ### 臨床特點 / Clinical Features
 
-- 主要目的：美觀或緩解因乳房過大造成的背部疼痛
+- 主動脈瓣狹窄導致**左心室肥厚**；心臟大小通常不變
 
-- 外科醫師切除下側乳腺組織及皮膚
+- 升主動脈在長期主動脈瓣狹窄中通常擴大
 
-- 將乳頭移至較上位位置
-
-- 術後乳房攝影可見特定表現
+- 肺血管紋理通常正常
 
 
 
 ### 診斷要點 / Diagnostic Key Points
 
-- **皮膚增厚（Skin Thickening）**：
+- 左心室肥厚但心影不大為主動脈瓣狹窄的典型表現
 
-  - 以下內側乳房最明顯
+- 升主動脈擴大提示長期病程
 
-  - 與手術疤痕位置相關
 
-- **結構扭曲（Architectural Distortion）**：
 
-  - 下側乳房曲線性結構扭曲
+---
 
-  - MLO view 最佳顯現
 
-- **脂肪壞死（Fat Necrosis）**：
 
-  - 可能出現
+## 主動脈瓣返流 / Aortic Regurgitation
 
-  - 需與惡性病灶鑑別
+
+
+### 臨床特點 / Clinical Features
+
+- 長期主動脈瓣返流導致左心室擴大，胸部 X 光上表現為心臟擴大
+
+- 通常伴有升主動脈擴大
+
+- 與主動脈瓣狹窄類似，肺血管紋理通常正常
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 心影擴大（cardiomegaly）+ 升主動脈擴大為長期主動脈瓣返流的特徵
+
+
+
+---
+
+
+
+## 右側心臟瓣膜疾病 / Right-Sided Valvular Disease
+
+
+
+### 臨床特點 / Clinical Features
+
+- **類癌疾病**（carcinoid disease）優先侵犯右側心臟，導致**三尖瓣及肺動脈瓣功能障礙**
+
+- 左側瓣膜亦可受累
 
 
 
 ### 鑑別診斷 / Differential Diagnosis
 
-| 診斷 | 區分特點 |
-
-|------|----------|
-
-| 手術後改變 | 對稱性、侷限於下側象限、已知手術史 |
-
-| 浸潤性乳癌 | 通常不對稱、邊緣不規則 |
-
-| 脂肪壞死 | 油囊形成、營養不良性鈣化 |
-
-
-
-
-> **臨床要點**
-> - 了解患者手術史至關重要
-> - 雙側對稱性改變是特徵
-> - 與乳癌監別要點在於位置（下側為主）及對稱性
-> - 建議與過往乳房攝影比較
-
-
-
-![Page 660](/core_radiology/images/cardiovascular/page-660.png)
-
-
-
-## 男性乳腺疾病 / Male Breast Disease
-
-
-
-### 男性女乳症 / Gynecomastia
-
-
-
-### 疾病名稱 / Disease Name
-
-**男性女乳症（Gynecomastia）** 是指男性乳腺良性腺體組織增生，是男性評估乳腺症狀時最常見的診斷。
-
-
-
-### 臨床特點 / Clinical Features
-
-- 表現為乳頭下可觸及腫塊
-
-- 常見原因：
-
-  - 肝硬化
-
-  - 藥物（抗高血壓藥、抗抑鬱藥）
-
-  - 大麻
-
-  - 腦下垂體激素功能障礙
-
-  - 激素分泌性腫瘤
-
-
-
-### 診斷要點 / Diagnostic Key Points
-
-- **乳房攝影（Mammography）**：
-
-  - 典型表現：火焰狀或三角形**乳頭下密度（subareolar density）**
-
-  - 診斷特異性高
-
-- **超音波（Ultrasound）**：
-
-  - 表現多變，可能具誤導性
-
-  - 若乳房攝影已具診斷性，一般不需超音箱檢查
+- 類癌性心臟病：主要影響右心，與其他瓣膜病的左右側偏好不同
 
 
 
@@ -199,86 +170,81 @@ weight: 9
 
 
 
-### 男性乳癌 / Male Breast Cancer
+## 臨床要點 / Clinical Key Points
 
 
 
-### 疾病名稱 / Disease Name
+- **二尖瓣返流**：急性可無心臟擴大；慢性則心影及左心房擴大；LAA 擴大提示風濕性病因
 
-**男性乳癌（Male Breast Cancer）** 佔所有乳癌不到 1%，多好發於 60 歲以上男性。
+- **二尖瓣狹窄**：心臟大小正常但左心房擴大，肺靜脈壓升高
+
+- **MAC**：退行性改變，為心血管風險標記，不導致二尖瓣狹窄
+
+- **主動脈瓣狹窄**：左心室肥厚但心臟不大；升主動脈常擴大
+
+- **主動脈瓣返流**：左心室及升主動脈擴大；肺血管正常
+
+- **右側瓣膜病**：類癌疾病優先侵犯右心，致三尖瓣及肺動脈瓣受累
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 695
+
+
+
+![Page 695](/core_radiology/images/interventional/page-695.png)
+
+
+
+## 非缺血性心肌病 / Nonischemic Myocardial Disease
+
+
+
+---
+
+
+
+## 兒茶酚胺誘發性心肌病（ Takotsubo 心肌病）/ Catecholamine-Induced (Takotsubo) Cardiomyopathy
 
 
 
 ### 臨床特點 / Clinical Features
 
-- 主要臨床表現為可觸及腫塊
+- 又稱 **Takotsubo 心肌病**（又稱心碎綜合徵），臨床表現可類似**急性心肌梗塞**
 
-- 年齡通常大於 60 歲
+- 主要影響**老年女性**，常在急性情緒壓力後發生
 
-- 預後較女性乳癌差（因確診常延遲）
+- 表現為胸痛、心電圖異常及心肌酶升高；心導管檢查正常
+
+- 理論認為男性同樣可患此病，但可能因存活率低而未被診斷；雌激素可能具有保護作用
+
+- 通常為**自限性**
 
 
 
 ### 診斷要點 / Diagnostic Key Points
 
-- **典型影像表現**：毛刺狀腫塊（spiculated mass）
+- 心臟 MRI 或冠脈 CT：特徵性表現為**心尖部氣球樣變**，心臟形狀似日本章魚壺（takotsubo），故名
 
-- **重要提醒**：男性良性乳腺腫塊極為罕見，任何乳腺腫塊都應高度懷疑惡性
+- MRI 無異常延遲強化（delayed enhancement）
 
-- 乳癌偶可表現為圓形、邊界清楚的腫塊，其可疑程度與毛刺狀腫塊相當
-
-- 超音波可見邊緣角度異常（angular margin）、內部迴聲不均勻
+- 心導管檢查正常可排除冠心病
 
 
 
 ### 鑑別診斷 / Differential Diagnosis
 
-| 診斷 | 區分特點 |
+| 疾病 | 與 Takotsubo 的鑑別點 |
 
-|------|----------|
+|------|----------------------|
 
-| 男性女乳症 | 火焰狀/三角形乳頭下密度、雙側、病史 |
+| 急性心肌梗塞 | 導管檢查正常；無冠脈阻塞；心尖 ballooning |
 
-| 男性乳癌 | 單側、不規則腫塊、毛刺邊緣、年長男性 |
-
-| 乳頭下脂肪墊 | 質地均勻、侷限於乳頭下區域 |
-
-
-
-
-> **臨床要點**
-> - 男性乳癌雖然罕見，但任何男性乳腺腫塊都應積極評估
-> - 乳房攝影對男性女乳症已具診斷價值，無需常規超音箱
-> - 乳癌在男性也可能表現為圓形、邊界清楚的腫塊
-> - 年齡大於 60 歲、出現可觸及腫塊應高度警覺
-
-
-
-![Page 661](/core_radiology/images/cardiovascular/page-661.png)
-
-
-
-## 乳房介入處置 / Breast Interventions
-
-
-
-### 乳房介入處置概述 / Overview of Breast Interventions
-
-
-
-### 核心原則 / Core Principle
-
-- 無論採用何種切片方法，放射科醫師必須對每個病例進行**影像-病理學對照（radiology–pathology correlation）**
-
-- 確保病理診斷與影像發現一致
-
-- **不一致的發現（Discordant findings）**需進一步處理，通常需要再次切片（核心切片或切除切片）
-
-
-
-### 不一致發現範例 / Discordant Finding Example
-
-- 超高度懷疑的毛刺狀腫塊，但病理回報良性（如纖維腺瘤碎片）→ 需再次切片
+| 心肌炎 | 延遲強化分佈不同 |
 
 
 
@@ -286,108 +252,47 @@ weight: 9
 
 
 
-### 超音波導引核心針切片 / Ultrasound-Guided Core Needle Biopsy
+## 致心律失常性心肌病 / Arrhythmogenic Cardiomyopathy
 
 
 
-### 適應症 / Indications
+### 臨床特點 / Clinical Features
 
-- 超音波可清楚顯示的病灶
+- 曾稱為致心律失常性右室發育不良（ARVD），現稱 **Arrhythmogenic Cardiomyopathy**
 
-- 是首選的切片方式
+- 特徵為**心肌纖維脂肪替代**（fibrofatty replacement），導致局部收縮異常及/或**室壁瘤形成**
 
+- 診斷困難，依賴 2010 年專家會議制定的心電圖、影像及活檢**主要及次要標準**
 
+- 左心室受累可見於多達**四分之三**的患者
 
-### 技術要點 / Technical Points
-
-| 步驟 | 說明 |
-
-|------|------|
-
-| 針具 | 14-gauge 彈簧式核心切片針 |
-
-| 穿刺角度 | 與胸壁平行或極淺角度（防止深度穿刺約 2 cm）|
-
-| 入路 | 通常採用側向入路 |
-
-| 皮膚穿刺點 | 與病灶保持適當距離（後側病灶需要更大距離）|
-
-| 麻醉 | 超音波導引下進行皮膚及皮下麻醉 |
-
-| 切片數量 | 多個樣本，每一針穿刺皆需記錄並展示 |
+- 患者可發生**致命性心律失常**，確診後常需植入 ICD（植入式心律轉復除顫器）
 
 
 
-### 術後處置 / Post-Procedure
+### 診斷要點 / Diagnostic Key Points
 
-- 放置**鈦合金組織標記夾（titanium tissue marker clip）**
+- 影像學在診斷中起支援作用
 
-- 術後乳房攝影確認標記位置
+- **右心室擴大**可貢獻 1 個主要標準
 
+- **局部室壁瘤**可貢獻 1 個次要標準
 
-
-### 品質控制 / Quality Control
-
-- 每個針穿刺位置需在正交平面展示（1-2 passes）
-
-- 用非慣用手握超音箱探頭，慣用手控制針
+- 心肌脂肪不再作為標準（因脂肪可見於正常老化個體）
 
 
 
+### 鑑別診斷 / Differential Diagnosis
 
-> **臨床要點**
-> - 超音波導引介入是最依賴操作者技術的項目，需時間熟悉
-> - 維持針與胸壁平行是預防併發症的關鍵
-> - 切片術後務必放置組織標記夾以供日後追蹤
-> - 影像與病理結果必須核對，不一致時需再次切片
-
-
-
-![Page 662](/core_radiology/images/cardiovascular/page-662.png)
-
-
-
-## 超音波導引囊腫抽吸 / Ultrasound-Guided Cyst Aspiration
-
-
-
-### 適應症 / Indications
-
-- 影像懷疑的囊腫需要抽吸時
-
-
-
-### 技術要點 / Technical Points
-
-| 項目 | 說明 |
+| 疾病 | 特點 |
 
 |------|------|
 
-| 針具 | 20- 或 18-gauge 針頭連接標準注射器 |
+| 致心律失常性心肌病 | 纖維脂肪替代；右室為主；心律失常 |
 
-| 方法 | 類似核心針切片技術 |
+| 擴張型心肌病 | 雙心室擴大；無纖維脂肪替代 |
 
-| 目標 | 瞄準囊腫進行抽吸 |
-
-
-
-| 抽出液外觀 | 處理方式 |
-
-|-----------|----------|
-
-| 血性 | 送細胞學檢查 |
-
-| 透明 | 送細胞學檢查 |
-
-| 綠色、灰色、黃色、雲霧狀 | 良性外觀，可丟棄 |
-
-
-
-### 重要提醒 / Important Note
-
-- **僅抽吸良性外觀囊腫**
-
-- 複雜性腫塊（complex mass）需使用核心切片裝置進行切片
+| 右室心肌梗死 | 冠心病史；無脂肪替代 |
 
 
 
@@ -395,106 +300,15 @@ weight: 9
 
 
 
-## 傳統立體定位切片 / Stereotactic-Guided Core Biopsy
+## 臨床要點 / Clinical Key Points
 
 
 
-### 適應症 / Indications
+- **Takotsubo 心肌病**：老年女性 + 情緒刺激 + 心尖 ballooning + 導管正常 = 典型表現；自限性病程
 
-- **首選適應症**：顯微鈣化（calcifications）的切片
+- **致心律失常性心肌病**：纖維脂肪替代 + 致命性心律失常風險；確診後需 ICD；左心室受累常見
 
-- 其他應用：僅在一個 view 可见的病灶，或乳房攝影可見但超音箱未見的腫塊
-
-
-
-### 設備類型 / Equipment Types
-
-| 類型 | 優點 |
-
-|------|------|
-
-| 俯臥式切片台（Prone table） | 消除血管迷走性暈厥風險 |
-
-| 坐姿式立體定位裝置（Seated upright） | 成本較低、患者舒適度較佳 |
-
-
-
-### 禁忌症 / Contraindications
-
-| 禁忌 | 說明 |
-
-|------|------|
-
-| 乳房太薄（壓迫厚度 <3 cm）| 可用細針頭（petite needles）至 22 mm |
-
-| 位置過深或乳頭下 | 不適合 |
-
-| 無法配合俯臥姿勢 | 考量坐姿式 |
-
-| 凝血功能未獲控制 | 需先矫正 |
-
-| 常规阿司匹林或氯吡格雷使用 | **非禁忌症** |
-
-
-
-### 技術要點 / Technical Points
-
-- 整個程序中乳房保持壓迫固定
-
-- 取得病灶兩側各 15° 的立體 spot view（一對 30° 範圍內）
-
-- 由電腦計算三維空間中的實際路徑
-
-
-
-
-> **臨床要點**
-> - 立體定位切片是顯微鈣化切片的首選方法
-> - 術中標本 X 光片（specimen radiograph）可確認目標鈣化存在於樣本中
-> - 阿司匹林及氯吡格雷不需停藥
-> - 不一致結果需再次切片
-
-
-
-![Page 663](/core_radiology/images/cardiovascular/page-663.png)
-
-
-
-## 真空輔助切片 / Vacuum-Assisted Biopsy & MR 導引切片 / MR-Guided Biopsy
-
-
-
-### 真空輔助切片（續）/ Vacuum-Assisted Biopsy (Continued)
-
-
-
-### 技術步驟 / Technical Steps
-
-| 步驟 | 說明 |
-
-|------|------|
-
-| 麻醉 | 注射足量局部麻醉（含或不含腎上腺素，無需影像導引）|
-
-| 切口 | 在切片針入口處做一小切口 |
-
-| 針具 | 11-gauge 真空輔助切片針 |
-
-| 取樣 | 多次取樣 |
-
-| 標本攝影 | 切片後常規進行，確認目標鈣化存在於樣本中 |
-
-| 標記夾放置 | 確認鈣化存在後放置 |
-
-| 術後乳房攝影 | 雙 view 確認標記夾位置 |
-
-
-
-### 重要提醒 / Important Note
-
-- 微小鈣化可能已被真空輔助切片完全移除
-
-- **標記夾的正確位置對後續手術治療至關重要**
+- 兩者均可表現為胸痛 + ECG 異常 + 心肌酶升高，但治療及預後截然不同
 
 
 
@@ -502,223 +316,39 @@ weight: 9
 
 
 
-### MR 導引切片 / MR-Guided Biopsy
+# Interventional Radiology - Page 696
 
 
 
-### 適應症 / Indications
+![Page 696](/core_radiology/images/interventional/page-696.png)
 
-- **僅在 MRI 上可見的病灶**需要切片時
 
 
+## 心肌緻密化不全 / Myocardial Noncompaction
 
-### 初步評估 / Initial Evaluation
 
-- 常規進行**「第二 look 超音波（second-look ultrasound）」**針對 MRI 異常區域
 
-- 超音波可發現約 **57%** 的 MRI 病灶
+### 臨床特點 / Clinical Features
 
-- 超音波引導切片可作為替代方案（費用較低）
+- **心肌緻密化不全**是左心室胚胎發育障礙，由於部分左心室未能形成solid myocardium（實心心肌）
 
+- 患者**不良心臟事件風險升高**，包括心律失常、血栓形成、腦卒中及心肌病
 
+- 左心室在影像上呈現**重度小梁化**，類似右心室，而左心室壁相對較薄
 
-### 技術要點 / Technical Points
 
-| 項目 | 說明 |
 
-|------|------|
+### 診斷要點 / Diagnostic Key Points
 
-| 對比劑 | 幾乎都需要靜脈注射**釓製劑（gadolinium）**|
+- 影像特徵：左心室呈重度 trabeculated（小梁化），左心室壁相對較薄
 
-| 時間緊迫 | 病灶必須在對比劑廓清或延遲乳腺強化遮蔽病灶前完成瞄準 |
+- 需與擴張型心肌病伴小梁化鑑別
 
-| 網格座標法（Grid-coordinate method） | 適用於僅在 MRI 可見的病灶切片 |
 
-| 姿勢 | 俯臥 |
 
-| 入路 | 盡可能採用外側入路 |
+### 鑑別診斷 / Differential Diagnosis
 
-| 切片方向 | 切片針**垂直插入**至預先測量深度（類似立體定位切片）|
-
-| 針具 | 9–11-gauge 真空輔助樣本 |
-
-| 術後標記 | 部署術後標記 |
-
-
-
-### 影像定位步驟 / Imaging Localization Steps
-
-1. 套上網格（內側或外側乳房）
-
-2. 初步成像
-
-3. 在網格上定位目標病灶
-
-4. 局部麻醉
-
-5. 切片針垂直插入至預量深度
-
-6. 多次取樣
-
-7. 放置術後標記
-
-
-
-
-> **臨床要點**
-> - MRI 導引切片時間緊迫，對比劑 Wash-out 前必須完成瞄準
-> - 第二 look 超音波可發現超過一半的 MRI 病灶，可能提供較經濟的切片方式
-> - 切片術後標記夾的放置對後續追蹤及手術至關重要
-> - 真空輔助切片可完全移除微小鈣化，需特別注意術後標記
-
-
-
-![Page 664](/core_radiology/images/cardiovascular/page-664.png)
-
-
-
-## 乳房攝影導引鋼線定位 / Mammographic-Guided Wire Localization
-
-
-
-### 適應症 / Indications
-
-- **手術前定位乳房攝影可見病灶**
-
-- 用於切除切片（excisional biopsy）或**乳房保留手術（lumpectomy）**前
-
-
-
-### 技術步驟 / Technical Steps
-
-
-
-### 第一步：成像定位 / Step 1: Imaging Localization
-
-- 使用字母數字網格（alphanumeric localization grid）進行成像
-
-- 確認目標（通常為先前切片留下的**標記夾（clip）**）
-
-- 記錄目標在網格上的位置（如 F3）
-
-
-
-### 第二步：穿刺針置入 / Step 2: Needle Insertion
-
-- 局部麻醉後
-
-- 根據網格座標將穿刺針插入皮膚
-
-- 理想情況下，針軸應與 X 光射線**完全對齊**
-
-
-
-### 第三步：正交成像確認 / Step 3: Orthogonal Imaging Confirmation
-
-- 取得正交成像（與第一步呈 90°）
-
-- 確認針位置，必要时调整（前进或后退）
-
-- 在正交 view 上確認病灶與標記夾位置
-
-
-
-### 第四步：鋼線釋放 / Step 4: Wire Deployment
-
-- 確認位置滿意後
-
-- 釋放鋼線鉤（wire hook）
-
-- 注意末端加厚段（thickened distal segment）：
-
-  - 距離鉤端 **1 cm** 處開始
-
-  - 長度 **2 cm**
-
-  - 為外科醫師提供觸覺回饋
-
-
-
-### 技術要點 / Technical Points
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 入路原則 | 採用**最短路徑**到達病灶 |
-
-| 鋼線長度選擇 | 通常為 5、7 或 9 cm |
-
-| 切片後標本攝影 | 常規進行，確認目標病灶及完整鋼線均在標本內 |
-
-
-
-
-> **臨床要點**
-> - 乳房攝影導引鋼線定位是手術前病灶定位的標準方法
-> - 正交成像確認是確保鋼線準確放置於病灶中心的關鍵步驟
-> - 鋼線末端加厚段提供外科醫師觸覺指引，協助確認切除範圍
-> - 術後標本攝影是手術成功的品質控制標準
-
-
-
-![Page 665](/core_radiology/images/cardiovascular/page-665.png)
-
-
-
-## 參考文獻 / References
-
-
-
-### 一般參考書目 / General References
-
-- de Paredes, E.S. *Atlas of Mammography* (3rd ed.). Lippincott Williams & Wilkins. (2007).
-
-- D'Orsi, C.J. et al. *ACR BI-RADS Breast Imaging and Reporting Data System* (4th ed.). Reston, VA: American College of Radiology. (2003).
-
-- Ikeda, D.M. *Breast Imaging: The Requisites* (2nd ed.). Mosby. (2011).
-
-
-
-### 乳癌病理學 / Breast Cancer Pathology
-
-- Allred, D.C. Ductal carcinoma in situ: terminology, classification, and natural history. *Journal of the National Cancer Institute. Monographs*, 2010(41), 134–8 (2010).
-
-- Bombonati, A. & Sgroi, D.C. The molecular pathology of breast cancer progression. *The Journal of Pathology*, 223(2), 308–18 (2011).
-
-- Kerlikowske, K. Epidemiology of ductal carcinoma in situ. *Journal of the National Cancer Institute. Monographs*, 2010(41), 139–41 (2010).
-
-- Sewell, C.W. Pathology of high-risk breast lesions and ductal carcinoma in situ. *Radiologic Clinics of North America*, 42(5), 821–30 (2004).
-
-- Virnig, B.A. et al. Ductal carcinoma in situ: risk factors and impact of screening. *Journal of the National Cancer Institute. Monographs*, 2010(41), 113–6 (2010).
-
-
-
-### 乳癌篩檢 / Breast Cancer Screening
-
-- Berg, W.A. Beyond standard mammographic screening: mammography at age extremes, ultrasound, and MRI imaging. *Radiologic Clinics of North America*, 45(5), 895–906 (2007).
-
-- Feig, S. Cost-effectiveness of mammography, MRI, and ultrasonography for breast cancer screening. *Radiologic Clinics of North America*, 48(5), 879–91 (2010).
-
-- Hendrick, R.E. & Helvie, M.A. United States preventive services task force screening mammography recommendations: science ignored. *AJR*, 196(2), W112–6 (2011).
-
-- Quanstrum, K.H. & Hayward, R.A. Lessons from the Mammography Wars. *New England Journal of Medicine*, 363, 1076–9 (2010).
-
-- Tabár, L. et al. Swedish Two-County Trial: Impact of Mammographic Screening on Breast Cancer Mortality during 3 Decades. *Radiology*, 260(3), 658–63 (2011).
-
-- Warner, E. Breast-Cancer Screening. *New England Journal of Medicine*, 365(11), 1025–32 (2011).
-
-
-
-### 良性乳腺疾病 / Benign Breast Disease
-
-- Cao, M. Mammographic signs of systemic disease. *Radiographics*, 31(4), 1085–100 (2011).
-
-- Evans, W. et al. Invasive Lobular Carcinoma of the Breast: Mammographic Characteristics and Computer-aided Detection. *Radiology*, 225(1), 182 (2002).
-
-- Gouveri, E., Papanas, N. & Maltezos, E. The female breast and diabetes. *Breast*, 20(3), 205–11 (2011).
-
-- Santen, R.J. & Mansel, R. Benign breast disorders. *New England Journal of Medicine*, 275–85 (2005).
+- 擴張型心肌病：DCM 也可有小梁化，但心肌緻密化不全以左心室壁薄為特徵
 
 
 
@@ -726,85 +356,53 @@ weight: 9
 
 
 
-
-
-![Page 666](/core_radiology/images/cardiovascular/page-666.png)
-
-
-
-## 參考文獻（續）/ References (Continued)
+## 肥厚型心肌病 / Hypertrophic Cardiomyopathy (HCM)
 
 
 
-### 乳房攝影技術 / Mammography
+### 臨床特點 / Clinical Features
 
-- Bartella, L., Smith, C.S., Dershaw, D.D. & Liberman, L. Imaging breast cancer. *Radiologic Clinics of North America*, 45(1), 45–67 (2007).
+- **肥厚型心肌病（HCM）**為**自體顯性遺傳**心肌病，以左心室心肌肥厚為特徵
 
-- Doshi, D., March, D., Crisi, G. & Coughlin, B. Complex Cystic Breast Masses: Diagnostic Approach and Imaging–Pathologic Correlation. *Radiographics*, 27, S53–65 (2007).
+- HCM 是**最常見的心肌病**類型
 
-- Giess, C., Raza, S. & Birdwell, R. Distinguishing Breast Skin Lesions from Superficial Breast Parenchymal Lesions. *Radiographics*, 31(7), 1959–73 (2011).
+- **非對稱性室間隔肥厚型**（又稱特發性肥厚性主動脈瓣下狹窄，IHSS）可引起**左心室流出道阻塞（LVOT obstruction）**
 
-- Harvey, J.A., Nicholson, B.T. & Cohen, M.A. Finding Early Invasive Breast Cancers: A Practical Approach. *Radiology*, 248(1), 61 (2008).
+  - 診斷標準：室壁厚度 **≥15 mm**，且與側壁比值 **≥1.5**
 
-- Leung, J.W.T. & Sickles, E.A. The probably benign assessment. *Radiologic Clinics of North America*, 45(5), 773–89 (2007).
+  - 室壁厚度 **≥30 mm** 為 ICD 植入指徵
 
-- Sickles, E.A. The spectrum of breast asymmetries: imaging features, work-up, management. *Radiologic Clinics of North America*, 45(5), 765–71 (2007).
-
-
-
-### 乳房超音波 / Breast Ultrasound
-
-- Mendelson, E.B. Problem-solving ultrasound. *Radiologic Clinics of North America*, 42(5), 909–18 (2004).
-
-- Raza, S. et al. BI-RADS 3, 4, and 5 Lesions: Value of US in Management—Follow-up and Outcome. *Radiology*, 248(3), 773 (2008).
-
-- Stavros, A. et al. Solid breast nodules: use of sonography to distinguish between benign and malignant lesions. *Radiology*, 196, 123–34 (1995).
-
-- Yang, W. & Dempsey, P.J. Diagnostic breast ultrasound: current status and future directions. *Radiologic Clinics of North America*, 45(5), 845–61 (2007).
+- **二尖瓣前葉收縮期前向運動（Systolic Anterior Motion, SAM）**可導致二尖瓣返流及左心房擴大
 
 
 
-### 乳房 MRI / Breast MRI
+### 診斷要點 / Diagnostic Key Points
 
-- Argus, A. & Mahoney, M.C. Indications for breast MRI: case-based review. *AJR*, 196(3 Suppl), WS1–14 (2011).
+- 超聲心動圖為首選診斷工具
 
-- Kuhl, C.K. et al. Dynamic breast MRI imaging: are signal intensity time course data useful for differential diagnosis of enhancing lesions? *Radiology*, 211(1), 101–10 (1999).
+- **MRI 適應症**：
 
-- Lee, C.H. Problem solving MRI imaging of the breast. *Radiologic Clinics of North America*, 42(5), 919–34 (2004).
+  - 確診 HCM
 
-- Lehman, C.D. Magnetic resonance imaging in the evaluation of ductal carcinoma in situ. *Journal of the National Cancer Institute. Monographs*, 2010(41), 150–1 (2010).
+  - 測量左心室質量
 
-- Macura, K.J., Ouwerkerk, R., Jacobs, M.A. & Bluemke, D.A. Patterns of enhancement on breast MRI images: interpretation and imaging pitfalls. *Radiographics*, 26(6), 1719–34 (2006).
+  - 定量瓣下狹窄程度
 
-- Molleran, V. & Mahoney, M.C. The BI-RADS breast magnetic resonance imaging lexicon. *Magnetic Resonance Imaging Clinics of North America*, 18(2), 171–85 (2010).
-
-- Morris, E.A. Diagnostic breast MRI imaging: current status and future directions. *Radiologic Clinics of North America*, 48(5), 863–80 (2007).
-
-- Raza, S. et al. *Breast MRI - A Comprehensive Imaging Guide*. Amirsys. (2009).
-
-- Raza, S., Vallejo, M., Chikarmane, S.A. & Birdwell, R.L. Pure ductal carcinoma in situ: a range of MRI features. *AJR*, 191(3), 689–99 (2008).
-
-- Thomassin-Naggara, I. Non-masslike enhancement in breast MRI: the pearls of interpretation? *Journal of Radiology*, 90, 269–75 (2009).
-
-- Weinstein, S. & Rosen, M. Breast MRI imaging: current indications and advanced imaging techniques. *Radiologic Clinics of North America*, 48(5), 1013–42 (2010).
-
-- Yoo, J., Woo, O., Kim, Y. & Cho, K. Can MRI Imaging Contribute in Characterizing Well-circumscribed Breast Carcinomas? *Radiographics*, 30, 1689–703 (2010).
+- SAM 現象導致 LVOT 阻塞和二尖瓣返流
 
 
 
-### 乳房介入處置 / Breast Interventions
+### 鑑別診斷 / Differential Diagnosis
 
-- Bassett, L.W., Mahoney, M.C. & Apple, S.K. Interventional breast imaging: current procedures and assessing for concordance with pathology. *Radiologic Clinics of North America*, 45(5), 881–94 (2007).
+| 疾病 | 與 HCM 的鑑別 |
 
-- Berg, W.A. Image-guided breast biopsy and management of high-risk lesions. *Radiologic Clinics of North America*, 42(5), 935–46 (2004).
+|------|--------------|
 
-- Helbich, T.H., Matzek, W. & Fuchsjäger, M.H. Stereotactic and ultrasound-guided breast biopsy. *European Radiology*, 14(3), 383–93 (2004).
+| 主動脈瓣狹窄 | 左心室對稱性肥厚；主動脈瓣鈣化 |
 
-- Kaiser, W.A., Pfleiderer, S.O.R. & Baltzer, P.A.T. MRI-guided interventions of the breast. *Journal of Magnetic Resonance Imaging*, 27(2), 347–55 (2008).
+| 高血壓性心臟病 | 對稱性肥厚；有高血壓病史 |
 
-- Liberman, L. Percutaneous image-guided core breast biopsy. *Radiologic Clinics of North America*, 40(3), 483–500 (2002).
-
-- O'Flynn, E.A.M., Wilson, A.R.M. & Michell, M.J. Image-guided breast biopsy: state-of-the-art. *Clinical Radiology*, 65(4), 259–70 (2010).
+| 選手心臟 | 輕度均勻肥厚；無 LVOT 阻塞 |
 
 
 
@@ -812,41 +410,71 @@ weight: 9
 
 
 
-
-
-![Page 667](/core_radiology/images/cardiovascular/page-667.png)
-
-
-
-## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging
+## 臨床要點 / Clinical Key Points
 
 
 
-### 章節目錄 / Contents
+- **心肌緻密化不全**：左心室重度小梁化 + 相對薄壁 = 特徵性影像；血栓栓塞風險高
+
+- **HCM**：最常見心肌病；非對稱性室間隔肥厚 + SAM + LVOT 阻塞為典型表現；室壁厚度 ≥30 mm 需 ICD
+
+- 超聲心動圖為首選；MRI 用於明確診斷及評估瓣下狹窄
 
 
 
-| 單元 | 標題 | 頁碼 |
+---
+
+
+
+# Interventional Radiology - Page 697
+
+
+
+![Page 697](/core_radiology/images/interventional/page-697.png)
+
+
+
+## 限制型心肌病 / Restrictive Cardiomyopathy
+
+
+
+### 臨床特點 / Clinical Features
+
+- **限制型心肌病**的特徵為：**心室小、僵硬、肥厚**，導致舒張功能障礙
+
+- 影像學表現：心房擴張，最終下腔靜脈（IVC）擴張
+
+- 病因可為**特發性**，或由以下疾病引起：
+
+  - **結節病（Sarcoidosis）**
+
+  - **血色病（Hemochromatosis）**
+
+  - **心肌沉積性疾病**（如**澱粉樣變性 Amyloidosis**）
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 限制型心肌病與**縮窄性生理（Constrictive physiology）**為不同疾病，兩者心室壓力曲線可相同，均以舒張功能障礙為特徵
+
+- **心臟影像的主要目的**：排除**縮窄性心包炎**作為舒張功能障礙的病因
+
+  - 縮窄性心包炎可經手術剝離心包治療
+
+  - 限制型心肌病**無有效治療**，預後較差
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+| 疾病 | 治療 | 預後 |
 
 |------|------|------|
 
-| 1 | 主動脈解剖 / Aortic Anatomy | 659 |
+| 限制型心肌病 | 無有效治療 | 差 |
 
-| 2 | 急性主動脈症候群 / Acute Aortic Syndrome | 661 |
-
-| 3 | 外傷性主動脈損傷 / Traumatic Aortic Injury | 665 |
-
-| 4 | 主動脈瘤及相關疾病 / Aortic Aneurysms and Miscellaneous Disorders | 666 |
-
-| 5 | 冠狀動脈 CT 血管造影 / Coronary CT Angiography | 673 |
-
-| 6 | 心臟 MRI / Cardiac MRI | 678 |
-
-| 7 | 心臟疾病 X 光片影像 / Plain Film Imaging of Heart Disease | 681 |
-
-| 8 | 非缺血性心肌疾病 / Nonischemic Myocardial Disease | 686 |
-
-| 9 | 心包疾病 / Pericardial Disease | 689 |
+| 縮窄性心包炎 | 心包剝離術 | 取決於病因 |
 
 
 
@@ -854,113 +482,37 @@ weight: 9
 
 
 
-
-
-![Page 668](/core_radiology/images/cardiovascular/page-668.png)
-
-
-
-## 主動脈解剖 / Aortic Anatomy
-
-
-
-### 主動脈弓及變異 / Aortic Arch and Variants
-
-
-
-### 正常主動脈弓分支 / Normal Aortic Arch Branching
-
-
-
-| 分支名稱 | 說明 |
-
-|---------|------|
-
-| **無名动脉（Brachiocephalic trunk）** | 主動(direction)弓第一分支 |
-
-| **左總頸动脉（Left common carotid artery）** | 主動弓第二分支 |
-
-| **左鎖骨下动脉（Left subclavian artery）** | 主動弓第三分支 |
-
-
-
-- **正常主動弓分支型態**佔 **66%** 的人口
-
-
-
-### 常見變異：無名动脉與左總頸动脉共同起源 / Common Variant: Common Origin of Brachiocephalic and Left Common Carotid
-
-
-
-| 特徵 | 說明 |
-
-|------|------|
-
-| 發生率 | 約 **13%**（黑人中更常見）|
-
-| 變異內容 | 無名动脉與左總頸动脉共同起源 |
-
-| 命名爭議 | 常被錯誤稱為「牛主動弓（bovine aortic arch）」，但此為誤稱 |
-
-| 真正牛主動弓 | 牛隻的主動弓僅有單一粗大血管起源 |
-
-
-
-
-> **臨床要點**
-> - 「牛主動弓」一詞為誤稱，建議描述為「無名动脉與左總頸动脉共同起源」
-> - 此變異在黑人族群中更常見
-> - 影像報告中應清楚描述分支型態以供外科手術規劃參考
-
-
-
-![Page 669](/core_radiology/images/cardiovascular/page-669.png)
-
-
-
-## 主動脈弓變異（續）/ Aortic Arch Variants (Continued)
-
-
-
-### 迷行右鎖骨下动脉 / Aberrant Right Subclavian Artery
-
-
-
-### 疾病名稱 / Disease Name
-
-**迷行右鎖骨下动脉（Aberrant Right Subclavian Artery）** 是主動弓的先天性變異。
+## 擴張型心肌病 / Dilated Cardiomyopathy
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- **擴張型心肌病（DCM）**以**心室腔向心性擴大**伴**收縮功能受損**為特徵
 
-|------|------|
+- 通常雙心室均受累
 
-| 發生率 | 約 **1%** |
 
-| 病理解剖 | 右鎖骨下动脉起源於主動弓，位於左鎖骨下动脉遠端，於食道後方繞行進入右臂 |
 
-| 症狀 | 大多數無症狀 |
+### 病因與評估 / Etiology and Evaluation
 
-| 罕見併發症 | ** Dysphagia lusoria（吞嚥困難）**：因食道受壓迫引起 |
+- 病因可為**缺血性**或**特發性**
+
+- **MRI 或 CT** 有助於確定病因：
+
+  - **缺血性**：MRI 延遲強化呈**冠脈血管分佈**
+
+  - **冠狀动脉 CTA（CCTA）**：可見冠心病
+
+- **心導管造影**為新診斷 DCM 的推薦檢查，以排除冠心病
 
 
 
 ### 診斷要點 / Diagnostic Key Points
 
-- **鋇劑食道造影（Barium esophogram）**：食道後壁壓跡
+- **特發性 DCM** 中多達 **41%** 的患者在**中層心室壁**呈非缺血性分佈的異常強化
 
-- **CT 頸部成像**：甲狀腺手術前需注意此變異
-
-- **重要注意**：若計劃甲狀腺手術，**喉返神經**不在正常位置，手術風險增加
-
-
-
-### 附加發現 / Additional Finding
-
-- **Kommerel 憩室（Diverticulum of Kommerel）**：迷行鎖骨下动脉起源處的小膨出
+  - 此強化的臨床意義尚不確定
 
 
 
@@ -968,85 +520,999 @@ weight: 9
 
 
 
-### 左椎动脉直接起源於主動脈 / Left Vertebral Artery Origin Directly from Aorta
+## 臨床要點 / Clinical Key Points
 
 
 
-### 疾病名稱 / Disease Name
+- **限制型心肌病**：心室小、僵硬、肥厚 + 雙心房擴大 = 典型表現；主要需排除可治的縮窄性心包炎
 
-**左椎动脉直接起源於主動弓（Aortic origin of the left vertebral artery）** 是一種四血管主動弓變異。
+- **縮窄性 vs 限制性**：兩者均可有舒張功能障礙，但治療原則截然不同（前者可手術，後者無有效治療）
+
+- **擴張型心肌病**：心室腔擴大 + 收縮功能下降；MRI/CT 有助鑑別缺血性與特發性；41% 特發性 DCM 可有非缺血性強化
+
+- 新診斷 DCM 應行心導管檢查排除冠心病
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 698
+
+
+
+![Page 698](/core_radiology/images/interventional/page-698.png)
+
+
+
+## 特發性擴張型心肌病的延遲強化 / Delayed Enhancement in Idiopathic DCM
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- 多達 **41%** 的特發性 DCM 患者表現為**中層心室壁非缺血性分佈的異常強化**
+
+- 此類強化的臨床意義尚不確定
+
+
+
+---
+
+
+
+## 房間隔脂肪瘤樣肥厚 / Lipomatous Hypertrophy of the Interatrial Septum
+
+
+
+### 臨床特點 / Clinical Features
+
+- **房間隔脂肪瘤樣肥厚**是房間隔內脂肪組織增生的表現，常沿右心外側壁生長
+
+- 通常為**偶然發現**，無需治療
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 需注意**與心臟腫瘤鑑別**
+
+- 極罕見的脂肪性心臟腫瘤鑑別：脂肪肉瘤（Liposarcoma）
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+| 疾病 | 特點 |
 
 |------|------|
 
-| 發生率 | 約 **6%** |
+| 脂肪瘤樣肥厚 | 良性；常為偶然發現；無需治療 |
 
-| 分支順序 | 左椎动脉為主動弓第三分支（在左鎖骨下动脉近端）|
-
-| 正常型態 | 左椎动脉通常起源於左鎖骨下动脉 |
+| 脂肪肉瘤 | 極罕見；為惡性 |
 
 
 
-
-> **臨床要點**
-> - 迷行右鎖骨下动脉大多為偶然發現，影像報告中應註明
-> - 甲狀腺或頸部手術前需確認有無此變異
-> - 左椎动脉直接起源於主動弓為相對常見的變異，發生率約 6%
+---
 
 
 
-![Page 670](/core_radiology/images/cardiovascular/page-670.png)
+## 心包疾病 / Pericardial Disease
 
 
 
-## 急性主動脈症候群 / Acute Aortic Syndrome
+---
+
+
+
+### 心包解剖 / Pericardial Anatomy
+
+
+
+### 臨床特點 / Clinical Features
+
+- 心包由**兩層**（臟層心包及壁層心包）組成，兩層之間約含 **40 mL** 心包液
+
+- **臟層心包**非常薄，影像學上不可見
+
+- 心包裝置（臟層 + 壁層 + 液體）在 CT 和 MRI 上可見，**正常厚度 <2 mm**；屍檢測量 <1 mm
+
+- 影像學上心包厚度 **≥4 mm** 即為明確異常
+
+
+
+---
+
+
+
+### 心包積液 / Pericardial Effusion
+
+
+
+### 臨床特點 / Clinical Features
+
+- 心包積液的主要臨床風險為**心臟壓塞（Cardiac Tamponade）**
+
+- 若積液快速積聚，**僅 100–200 mL** 即可妨礙舒張期充盈
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- **Oreo 餅乾徵（Oreo Cookie Sign）**：心包積液的經典 X 光表現
+
+  - 代表：透亮的**心外膜脂肪條紋**及**心包脂肪條紋**（兩塊餅乾），以及不透亮的**心包積液**（白色夾心）
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+| 病因 | 特點 |
+
+|------|------|
+
+| 快速積聚少量積液 | 100-200 mL 即可致心臟壓塞 |
+
+| 慢性積液 | 可達數百毫升而無壓塞症狀 |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- 特發性 DCM 中 41% 可有非缺血性中層壁強化，臨床意義待定
+
+- **房間隔脂肪瘤樣肥厚**：良性偶然發現；需與心臟腫瘤（特別是脂肪肉瘤）鑑別
+
+- **心包**：正常厚度 <2 mm；≥4 mm 為明確異常
+
+- **心包積液**：主要風險是心臟壓塞；快速積聚 100-200 mL 即可引起壓塞
+
+- **Oreo Cookie Sign**：心包積液的特異性 X 光徵象
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 699
+
+
+
+![Page 699](/core_radiology/images/interventional/page-699.png)
+
+
+
+## 心包鈣化 / Pericardial Calcification
+
+
+
+### 臨床特點 / Clinical Features
+
+- 心包鈣化可由**既往心包炎**引起，最常見病因為**病毒性或尿毒症性**心包炎
+
+- 心包鈣化可與**縮窄性生理**相關
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+| 疾病 | 特點 |
+
+|------|------|
+
+| 心包鈣化 | 既往心包炎史；可伴縮窄性生理 |
+
+| 心肌鈣化 | 由舊心肌梗死引起 |
+
+
+
+---
+
+
+
+## 先天性心包缺如 / Congenital Absence of the Pericardium
+
+
+
+### 臨床特點 / Clinical Features
+
+- 先天性心包缺如為一組疾病譜，從**局灶性心包缺損**到**完全無心包**均可發生
+
+- **完全無心包**極為罕見
+
+- 最常見的形式為**左心包缺如**，位於左心耳及相鄰肺動脈區域
+
+- **部分心包缺如**患者存在心臟通過心包缺損**嵌頓（herniation）**的風險
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 影像學上提示心包缺如的線索：**主動脈與肺動脈之間的透亮缺口**
+
+  - 胸部 X 光可見，但 **CT 上更清晰**
+
+  - 此為肺組織嵌入兩血管結構之間的表現
+
+- **左心包缺如**可導致心臟**左移**，這可能是唯一的影像學表現
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+| 疾病 | 特點 |
+
+|------|------|
+
+| 左心包部分缺如 | 心臟左移；主肺動脈間透亮缺口 |
+
+| 先天性心臟位移 | 其他心臟畸形相關 |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **心包鈣化**：病毒或尿毒症性心包炎後常見；主要需與心肌鈣化（舊梗死）鑑別
+
+- **先天性心包缺如**：左心包缺如最常見；主肺動脈間透亮缺口是重要 CT 線索；部分缺如有嵌頓風險
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 700
+
+
+
+![Page 700](/core_radiology/images/interventional/page-700.png)
+
+
+
+## 參考文獻 / References, Resources, and Further Reading
+
+
+
+### 綜合參考 / General References
+
+
+
+- Miller, S.W., Abbara, S. & Boxt, L.B. *Cardiac Imaging: The Requisites* (3rd ed.) Mosby. (2009).
+
+- Webb, W.R. & Higgins, C.B. *Thoracic Imaging – Pulmonary and Cardiovascular Radiology*. Lippincott Williams & Wilkins. (2005).
+
+
+
+### 主動脈 / Aorta
+
+
+
+- Agarwal, P.P. et al. Multidetector CT of thoracic aortic aneurysms. *Radiographics*, 29(2), 537–52 (2009).
+
+- Bashir, M.R. et al. Endoleaks after endovascular abdominal aortic aneurysm repair: management strategies according to CT findings. *AJR*, 192(4), W178–86 (2009).
+
+- Chao, C.P., Walker, T.G. & Kalva, S.P. Natural history and CT appearances of aortic intramural hematoma. *Radiographics*, 29(3), 791–804 (2009).
+
+- Gotway, M.B. et al. Imaging findings in Takayasu's arteritis. *AJR*, 184(6), 1945 (2005).
+
+- Hayashi, H. et al. Penetrating Atherosclerotic Ulcer of the Aorta: Imaging Features and Disease Concept. *Radiographics*, 20(4), 995–1005 (2000).
+
+- Jeudy, J., Waite, S. & White, C.S. Nontraumatic thoracic emergencies. *Radiol Clin North Am*, 44(2), 273–93, ix (2006).
+
+- Layton, K. & Kallmes, D. Bovine Aortic Arch Variant in Humans: Clarification of a Common Misnomer. *AJNR*, 1541–2 (2006).
+
+- Ledbetter, S., Stuk, J.L. & Kaufman, J.A. Helical (spiral) CT in the evaluation of emergent thoracic aortic syndromes. *Radiol Clin North Am*, 37(3), 515–89 (1999).
+
+- Rakita, D. et al. Spectrum of CT findings in rupture and impending rupture of abdominal aortic aneurysms. *Radiographics*, 27(2), 497–507 (2007).
+
+
+
+### 心臟 CT / Cardiac CT
+
+
+
+- Heffernan, E.J., Dodd, J.D. & Malone, D.E. Cardiac multidetector CT: technical and diagnostic evaluation with evidence-based practice techniques. *Radiology*, 248(2), 366–77 (2008).
+
+- Hoffmann, U. et al. Coronary CT angiography versus standard evaluation in acute chest pain. *NEJM*, 367(4), 299–308 (2012).
+
+- Kim, S.Y. et al. Coronary Artery Anomalies: Classification and ECG-gated Multi-Detector Row CT Findings with Angiographic Correlation. *Radiographics*, 26, 317–34 (2006).
+
+- Litt, H.I. et al. CT angiography for safe discharge of patients with possible acute coronary syndromes. *NEJM*, 366(15), 1393–403 (2012).
+
+- O'Brien, J.P. et al. Anatomy of the heart at multidetector CT: what the radiologist needs to know. *Radiographics*, 27(6), 1569–82 (2007).
+
+- Raff, G.L. et al. SCCT guidelines for the interpretation and reporting of coronary computed tomographic angiography. *J Cardiovasc Comput Tomogr*, 3(2), 122–36 (2009).
+
+- Sparrow, P. et al. CT and MRI Imaging Findings in Patients with Acquired Heart Disease at Risk for Sudden Cardiac Death. *Radiographics*, 29, 805–23 (2009).
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 701
+
+
+
+![Page 701](/core_radiology/images/interventional/page-701.png)
+
+
+
+## 參考文獻（續）/ References, Resources, and Further Reading (Continued)
+
+
+
+### 心臟miscellaneous / Miscellaneous
+
+
+
+- Chen, J.J. et al. CT Angiography of the Cardiac Valves: Normal, Diseased, and Postoperative Appearances. *Radiographics*, 29, 1393–412 (2009).
+
+- Marcus, F.I. et al. Diagnosis of arrhythmogenic right ventricular cardiomyopathy/dysplasia: proposed modification of the task force criteria. *Circulation*, 121(13), 1533–41 (2010).
+
+
+
+### 心臟 MRI / Cardiac MRI
+
+
+
+- Boxt, L.M. Cardiac MRI Imaging: A Guide for the Beginner. *Radiographics*, 19(4), 1009–25 (1999).
+
+- Mahrholdt, H. et al. Delayed enhancement cardiovascular magnetic resonance assessment of non-ischaemic cardiomyopathies. *Eur Heart J*, 26(15), 1461–74 (2005).
+
+- Vogel-Claussen, J. et al. Delayed Enhancement MRI Imaging: Utility in Myocardial Assessment. *Radiographics*, 26(3), 795 (2006).
+
+
+
+### 心包 / Pericardium
+
+
+
+- Broderick, L.S., Brooks, G.N. & Kuhlman, J. Anatomic Pitfalls of the Heart and Pericardium. *Radiographics*, 25, 441–53 (2005).
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 702
+
+
+
+![Page 702](/core_radiology/images/interventional/page-702.png)
+
+
+
+## 第10章　介入放射學 / Chapter 10 Interventional Radiology
+
+
+
+### 目錄 / Contents
+
+
+
+| 章節 Section | 頁碼 Page |
+
+|-------------|----------|
+
+| 血管造影導論 / Introduction to Angiography | 699 |
+
+| 胸腔血管造影 / Thoracic Angiography | 699 |
+
+| 腹部與盆腔血管造影 / Abdominal and Pelvic Angiography | 703 |
+
+| 膽管造影 / Cholangiography | 722 |
+
+| 經皮腎造口術 / Percutaneous Nephrostomy | 725 |
+
+| 經皮胃造口術 / Percutaneous Gastrostomy | 725 |
+
+| 下肢血管造影 / Lower Extremity Angiography | 726 |
+
+| 上肢血管造影 / Upper Extremity Angiography | 733 |
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 703
+
+
+
+![Page 703](/core_radiology/images/interventional/page-703.png)
+
+
+
+## 血管造影導論 / Introduction to Angiography
+
+
+
+---
+
+
+
+## 血管解剖學 / Vascular Anatomy
+
+
+
+---
+
+
+
+### 肝臟動脈解剖及其變異 / Hepatic Arterial Anatomy and Variants
+
+
+
+### 正常解剖 / Normal Anatomy
+
+- **最常見（75%）**：**固有肝總管（Proper Hepatic Artery）**供應肝臟血液
+
+  - 固有肝總管為**總肝總管（Common Hepatic Artery）**在**胃十二指腸動脈（Gastroduodenal Artery）**發出後的延續
+
+  - 固有肝總管分為**肝右動脈**和**肝左動脈**
+
+  - **膽囊動脈（Cystic Artery）**通常起自肝右動脈，供應膽囊
+
+
+
+### 變異解剖 / Variant Anatomy
+
+
+
+##### 替代肝右動脈 / Replaced Right Hepatic Artery (RRHA)
+
+- **發生率：10–18%**，肝右動脈起自**腸系膜上動脈（SMA）**
+
+- **臨床意義**：
+
+  - SMA 疾病時可能具有臨床重要性
+
+  - 腹部手術前（尤其是**腹腔鏡膽囊切除術**）必須確認 RRHA 存在與否，以**避免無意中的動脈損傷**
+
+  - 作為**活體右肝捐獻者**，RRHA **更長、更粗**，更利於與受者血管吻合
+
+  - 若肝移植**受者**有 RRHA，由於總肝總管直徑變細，**動脈並發症可能增加**
+
+  - RRHA 存在時，SMA 狹窄理論上可能使右肝葉面臨缺血風險；但因肝內側支循環及門靜脈供血，通常臨床上不明顯
+
+
+
+##### 副肝右動脈 / Accessory Right Hepatic Artery
+
+- 在右肝葉存在**正常肝右動脈**（起自固有肝總管）的情況下，另有起自 SMA 的額外血管供應右肝葉
+
+- 需與替代肝右動脈鑑別（後者為右肝葉的唯一血供）
+
+
+
+---
+
+
+
+### 鑑別診斷 / Differential Diagnosis
+
+
+
+| 類型 | 起點 | 是否為右葉唯一血供 |
+
+|------|------|-----------------|
+
+| 替代肝右動脈（RRHA）| SMA | 是 |
+
+| 副肝右動脈 | SMA | 否（附加供血）|
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **肝臟血供**：75% 由固有肝總管供應；分為肝左、右动脉；膽囊动脉起自肝右动脉
+
+- **替代肝右動脈（RRHA）**：10-18% 發生率，起自 SMA；腹腔鏡膽囊切除術前必須確認以防術中損傷
+
+- **活體肝移植**：RRHA 因其更長更粗的特點，更利於血管吻合；但受者有 RRHA 時並發症風險增加
+
+- **副肝右 vs 替代肝右**：前者為附加血供，後者為唯一血供
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 704
+
+
+
+![Page 704](/core_radiology/images/interventional/page-704.png)
+
+
+
+## 替代與副肝左动脉 / Replaced and Accessory Left Hepatic Artery
+
+
+
+### 替代肝左动脉 / Replaced Left Hepatic Artery (RLHA)
+
+- **發生率：11–12%**，肝左动脉起自**胃左动脉（Left Gastric Artery）**
+
+- **臨床意義**：胃切除術（Gastrectomy）時需注意，切除 RLHA 可能導致**肝臟損傷**
+
+
+
+### 副肝左动脉 / Accessory Left Hepatic Artery
+
+- 在左肝葉存在**正常肝左动脉**（起自固有肝總管）的情況下，另有起自胃左动脉的額外血管供應左肝葉
+
+- 需與替代肝左动脉鑑別（後者為左肝葉的唯一血供）
+
+
+
+---
+
+
+
+## 腸系膜上动脉 / Superior Mesenteric Artery (SMA)
+
+
+
+### 解剖概述 / Anatomical Overview
+
+- **腸系膜上动脉（SMA）**起自主動脈前壁，約在 **T12-L1 水平**
+
+- 供應：**遠端十二指腸、整個小腸、盲腸至橫結腸中段的近端大腸**
+
+
+
+### 主要分支 / Major Branches
+
+
+
+| 分支 | 供應區域 |
+
+|------|---------|
+
+| **下胰十二指腸动脉（Inferior Pancreaticoduodenal Artery）** | 首位分支；與腹腔动脉形成側支吻合 |
+
+| **中結腸动脉（Middle Colic Artery）** | 橫結腸；與 Drummond 邊緣动脉吻合 |
+
+| **右結腸动脉（Right Colic Artery）** | 右結腸、肝曲；走行動脈後方 |
+
+| **迴結腸动脉（Ileocolic Artery）** | 終末迴腸、盲腸、闌尾（SMA 終末分支）|
+
+
+
+---
+
+
+
+## 腸系膜下动脉 / Inferior Mesenteric Artery (IMA)
+
+
+
+### 解剖概述 / Anatomical Overview
+
+- **腸系膜下动脉（IMA）**起自主動脈左前壁，約在 **L3-L4 水平**
+
+
+
+### 主要分支 / Major Branches
+
+
+
+| 分支 | 供應區域 |
+
+|------|---------|
+
+| **左結腸动脉（Left Colic Artery）** | 降結腸 |
+
+| **乙狀結腸动脉（Sigmoid Arteries）** | 乙狀結腸；數目不恆定 |
+
+| **直腸上动脉（Superior Rectal / Hemorrhoidal Artery）** | 上段直腸（IMA 終末分支）|
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **替代/副肝左动脉**：RLHA 起自胃左动脉；胃切除術前需確認以防肝損傷
+
+- **SMA**：T12-L1 水平起自主動脈；供應小腸及近端大腸；下胰十二指腸动脉為首位分支
+
+- **IMA**：L3-L4 水平起自主動脈左前壁；供應遠端大腸及上段直腸
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 705
+
+
+
+![Page 705](/core_radiology/images/interventional/page-705.png)
+
+
+
+## 髂內动脉分支 / Internal Iliac Artery Branches
+
+
+
+### 前幹分支 / Anterior Division Branches
+
+- 髂內动脉**前幹**供應大部分**盆腔臟器**
+
+- 分支包括：
+
+  - **下/中直腸动脉（Inferior/Middle Rectal Artery）**：與 IMA 經 Winslow 路徑吻合
+
+  - **子宫动脉（Uterine Artery）**
+
+  - **閉孔动脉（Obturator Artery）**
+
+  - **臀下动脉（Inferior Gluteal Artery）**
+
+
+
+### 後幹分支 / Posterior Division Branches
+
+- 髂內动脉**後幹**供應**盆腔及臀部的肌肉組織**
+
+- 分支包括：
+
+  - **骶外側动脉（Latell Sacral Artery）**
+
+  - **髂腰动脉（Iliolumbar Artery）**：與髂外动脉經旋髂深动脉吻合
+
+  - **臀上动脉（Superior Gluteal Artery）**
+
+
+
+---
+
+
+
+## 髂外动脉分支 / External Iliac Artery Branches
+
+
+
+### 主要吻合 / Major Anastomoses
+
+
+
+| 吻合途徑 | 說明 |
+
+|---------|------|
+
+| **腹壁下动脉 ↔ 胸廓內动脉 ↔ 胸主動脈** | 腹壁下动脉起自髂外动脉，與胸廓內动脉吻合 |
+
+| **旋髂深动脉 ↔ 髂腰动脉 ↔ 髂內动脉後幹** | 旋髂深动脉起自髂外动脉，與髂內后幹吻合 |
+
+| **股动脉** | 繼續遠端供應下肢 |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **髂內前幹**：供應盆腔臟器（直腸、子宮、閉孔、臀下）
+
+- **髂內後幹**：供應肌肉（骶外側、髂腰、臀上）
+
+- **髂外动脉**：主要分支為腹壁下动脉及旋髂深动脉；股动脉延續至下肢
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 706
+
+
+
+![Page 706](/core_radiology/images/interventional/page-706.png)
+
+
+
+## 腹部吻合途徑 / Abdominal Anastomotic Pathways
+
+
+
+---
+
+
+
+### 腹腔动脉—腸系膜上动脉吻合 / Celiac–SMA Anastomoses
+
+
+
+| 吻合途徑 | 說明 |
+
+|---------|------|
+
+| **Buhler 弓（Arc of Buhler）** | 腹腔动脉與 SMA 之間罕見的短段直接連接；為持續存在的胚胎髮育遺留物，非後天側支通路 |
+
+| **胰十二指腸 cascade** | 下胰十二指腸动脉為 SMA 首位分支，與腹腔动脉在胰頭周圍形成豐富側支吻合網 |
+
+| **Barkow 弓（Arc of Barkow）** | 通過左右網膜动脉連接 SMA 與腹腔动脉（圖中未繪） |
+
+
+
+---
+
+
+
+### 腸系膜上动脉—腸系膜下动脉吻合 / SMA–IMA Anastomoses
+
+
+
+| 吻合途徑 | 說明 |
+
+|---------|------|
+
+| **Drummond 邊緣动脉（Marginal Artery of Drummond）** | 主要 SMA–IMA 吻合途徑；位於結腸腸系膜外周，鄰近結腸系膜面；由迴結腸、右結腸、中結腸及左結腸动脉分支構成；正常口徑小，SMA 或 IMA 疾病時可變明顯 |
+
+| **Riolan 弓（Arc of Riolan）** | 不恆定的 SMA–IMA 吻合；也走經結腸腸系膜，但比 Drummond 邊緣动脉更內側 |
+
+| **Cannon-Böhm 點** | 結腸血液供應的過渡區，位於脾曲；為 SMA（近端）與 IMA（遠端）的分水嶺區；全身性动脉功能不全時易發生缺血 |
+
+
+
+---
+
+
+
+### 髂动脉吻合 / Iliac Artery Anastomoses
+
+
+
+| 吻合途徑 | 說明 |
+
+|---------|------|
+
+| **髂外动脉 ↔ 胸主動脈** | 腹壁下动脉起自髂外动脉，與胸廓內动脉吻合，繼而連接胸主動脈 |
+
+| **髂外动脉 ↔ 髂內动脉** | 旋髂深动脉起自髂外动脉，經髂腰动脉與髂內动脉後幹吻合 |
+
+| **髂內动脉 ↔ IMA** | 下/中直腸动脉起自髂內动脉，與 IMA 經直腸上动脉吻合（Winslow 路徑 / Rectal Arcade） |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **Celiac–SMA**：Buhler 弓為罕見直接吻合；胰十二指腸 cascade 為常見豐富側支
+
+- **SMA–IMA**：Drummond 邊緣动脉為主要吻合；Cannon-Böhm 點（脾曲）為分水嶺區，缺血風險高
+
+- **髂动脉吻合**：Winslow 路徑（直腸 arcade）是髂內动脉與 IMA 的重要側支
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 707
+
+
+
+![Page 707](/core_radiology/images/interventional/page-707.png)
+
+
+
+## 腸繫膜血管病變與動脈瘤 / Mesenteric Vasculopathy and Aneurysms
+
+
+
+---
+
+
+
+### 結節性多動脈炎 / Polyarteritis Nodosa (PAN)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **結節性多動脈炎（PAN）**是一種影響**小及中等大小动脉**的系統性壞死性血管炎，可導致多個內臟小动脉瘤
+
+- **P-ANCA** 通常升高
+
+
+
+### 病因與鑑別 / Etiology and Differential Diagnosis
+
+- **多發腎动脉瘤**的鑑別診斷：
+
+  - 多發性感染性栓子（septic emboli）
+
+  - 速成腎（Speed Kidney，因慢性甲基苯丙胺濫用）
+
+  - **Ehlers-Danlos 綜合徵**
+
+
+
+### 治療 / Treatment
+
+- PAN 的治療為**類固醇**，非手術介入
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- PAN 通常影響**腎臟、肝臟及腸繫膜的終末小动脉**
+
+
+
+### 相關疾病 / Associated Conditions
+
+- **CLASH** 記憶法：Cryoglobulinemia（冷球蛋白血症）、Leukemia（白血病）、Rheumatoid arthritis（類風濕性關節炎）、Sjögren syndrome（乾燥綜合徵）、Hepatitis B（乙肝）
+
+
+
+---
+
+
+
+### 脾动脉瘤 / Splenic Artery Aneurysm
+
+
+
+### 臨床特點 / Clinical Features
+
+- **脾动脉瘤**是最常見的**內臟动脉瘤**
+
+- **經產婦女**及**門靜脈高壓患者**發生脾动脉瘤的風險增加
+
+- **妊娠期間破裂風險升高**
+
+
+
+### 病因 / Etiology
+
+- 脾动脉**假性动脉瘤**可由**創傷或胰臟炎**引起
+
+
+
+### 治療指徵 / Indications for Treatment
+
+- **症狀**（如左上腹痛）
+
+- 瘤體直徑 **>2.5 cm**
+
+- **預期妊娠前**
+
+
+
+### 介入治療 / Interventional Treatment
+
+- **首選方法：血管內線圈栓塞術（Coil Embolization）**
+
+- 先在动脉瘤頸**遠端**放置線圈（防止逆行側支血流），再在**近端**放置線圈
+
+
+
+---
+
+
+
+### 肝动脉瘤 / Hepatic Artery Aneurysm
+
+
+
+### 臨床特點 / Clinical Features
+
+- **肝动脉瘤**是第二常見的內臟动脉瘤
+
+
+
+### 介入治療 / Interventional Treatment
+
+- 首選在**膽囊动脉遠端**栓塞右肝动脉
+
+  - 在膽囊动脉**近端**栓塞會增加**缺血性膽囊炎**風險（可達 10%）
+
+- 膽囊动脉起自肝右动脉
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- **肝硬化**的經典血管造影表現：肝动脉分支**螺旋狀（Corkscrewing）**，由肝臟纖維化引起
+
+- 肝硬化中出現**富血供腫塊**可能為**肝細胞癌（HCC）**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **PAN**：中小动脉系統性血管炎 + 多發內臟小动脉瘤 + P-ANCA 升高；治療用類固醇
+
+- **脾动脉瘤**：最常見內臟动脉瘤；妊娠相關破裂風險高；>2.5 cm 或有症狀或妊娠前需治療；首選血管內線圈栓塞
+
+- **肝动脉瘤**：第二常見內臟动脉瘤；栓塞時需保護膽囊动脉以避免缺血性膽囊炎
+
+- **肝硬化**：肝动脉分支螺旋狀為典型表現；富血供腫塊需警惕 HCC
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 708
+
+
+
+![Page 708](/core_radiology/images/interventional/page-708.png)
+
+
+
+## 腸繫膜缺血 / Mesenteric Ischemia
 
 
 
 ### 概述 / Overview
 
+- **腸繫膜缺血**指腸道血液供應不足
 
+- 最常見於**老年人**，病因包括：
 
-### 疾病定義 / Disease Definition
+  - 急性动脉栓塞
 
-**急性主動脈症候群（Acute Aortic Syndrome）** 是一組以主動脈壁損傷為特徵的相關疾病，臨床上以嚴重胸痛為主要表現。
+  - 慢性动脉狹窄
 
+  - 靜脈血栓形成
 
-
-### 疾病分類 / Disease Classification
-
-| 疾病類型 | 病理機制 | 主要缺陷層面 |
-
-|---------|---------|-------------|
-
-| **穿透性粥樣硬化潰瘍（PAU）** | 內膜缺陷 | 內膜（intima）|
-
-| **壁內血腫（IMH）** | 僅中膜受損 | 中膜（media）|
-
-| **主動脈剝離（Aortic Dissection）** | 內膜延伸至中膜 | 內膜＋中膜 |
-
-| **主動脈離斷（Aortic Transection）** | 三層皆受損 | 全層（外傷造成）|
-
-
-
-### 治療原則 / Treatment Principles
-
-| 病灶位置 | 治療方式 |
-
-|---------|---------|
-
-| **升主動脈（Ascending aorta）** | 手術治療為主 |
-
-| **降主動脈（Descending aorta）** | 內科治療為主（血壓控制）|
-
-
-
-> ⚠️ 任何急性主動脈病變通常需要完整主動脈成像。
+  - 低血流狀態
 
 
 
@@ -1054,709 +1520,535 @@ weight: 9
 
 
 
-### 主動脈剝離 / Aortic Dissection
-
-
-
-### 病理機制 / Pathophysiology
-
-1. **內膜破裂**（通常因粥樣硬化斑塊潰瘍、外傷或动脉瘤）
-
-2. 形成**內膜-中膜瓣（intimomedial flap）**
-
-3. 血液進入中膜形成**假腔（false lumen）**
-
-4. 假腔內血流較慢，容易血栓形成
-
-5. 血液經**再入口撕裂（re-entry tear）**離開假腔
-
-
-
-### 風險因子 / Risk Factors
-
-| 因子 | 說明 |
-
-|------|------|
-
-| **高血壓** | 最常見風險因子 |
-
-| 結締組織疾病 | 特別是**馬凡氏症候群（Marfan syndrome）** |
-
-| 藥物使用 | 古柯鹼 |
-
-| 先天性血管病變 | **雙葉主動脈瓣（bicuspid aortic valve）**相關血管病變 |
-
-| 其他 | 重量訓練、突然減速傷害 |
-
-
-
-### Stanford 分型 / Stanford Classification
-
-| 分型 | 定義 | 治療方式 |
-
-|------|------|---------|
-
-| **Type A** | 病灶涉及升主動脈（± 降主動脈）| 手術治療 |
-
-| **Type B** | 僅涉及降主動脈 | 內科治療 |
-
-
-
-### 重要鑑別 / Important Note
-
-- 粥樣硬化相關的主動剝離**較常見於 Type B（降主動脈）**
-
-
-
-
-> **臨床要點**
-> - 主動剝離的關鍵特徵是內膜中斷，高壓血流滲入並擴張中膜
-> - 高血壓是最重要的風險因子
-> - 治療方式取決於病灶位置（升主動脈 vs. 降主動脈），而非病因
-> - 完整主動脈成像是急性主動脈病變的必要檢查
-
-
-
-![Page 671](/core_radiology/images/cardiovascular/page-671.png)
-
-
-
-## 主動剝離分型 / Classification of Aortic Dissection
-
-
-
-### Stanford 分型系統 / Stanford Classification System
-
-
-
-### Type A（Stanford A 型）
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 病灶涉及**升主動脈**（可合併或不合併降主動脈）|
-
-| 治療原則 | **手術治療**為主 |
-
-| 特點 | 可能併發心包填塞（hemopericardium）|
-
-
-
-### Type B（Stanford B 型）
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | **僅涉及降主動脈**，升主動脈正常 |
-
-| 治療原則 | **內科治療**為主（血壓控制）|
-
-
-
-### 影像特徵 / Imaging Features
-
-| 類型 | 真腔（True Lumen）| 假腔（False Lumen）|
-
-|------|-----------------|------------------|
-
-| 對比劑顯影 | 通常較早顯影 | 顯影較延遲 |
-
-| 管腔壓迫 | — | 假腔壓迫真腔 |
-
-| 血栓形成 | 少見 | 常見（因血流緩慢）|
-
-
-
-### 鑑別診斷要點 / Differential Diagnosis Key Points
-
-| 疾病 | 區分特點 |
-
-|------|----------|
-
-| **Type A 主動剝離** | 病灶在升主動脈，可能有心包填塞 |
-
-| **Type B 主動剝離** | 病灶僅在降主動脈 |
-
-| 壁內血腫（IMH）| 無內膜瓣，別月牙形高密度 |
-
-| 穿透性粥樣硬化潰僚（PAU）| 潰場面，無剝離瓣 |
-
-
-
-
-> **臨床要點**
-> - **Stanford 分型是指導治療的核心**：Type A 手術，Type B 內科治療
-> - Type A 病變可能破裂進入心包，導致**心包填塞**，是致死性併發症
-> - CT 血管造影（CTA）是診斷主動剝離的首選無創檢查
-> - 準確區分 Type A 與 Type B 對治療決策至關重要
-
-
-
-![Page 672](/core_radiology/images/cardiovascular/page-672.png)
-
-
-
-## 壁內血腫 / Intramural Hematoma (IMH)
-
-
-
-**壁內血腫（Intramural Hematoma, IMH）** 是主動剝離的一種變異型，血液堆積於中膜內，但無內膜瓣與主動腔相連。
-
-
-
-### 病因學 / Etiology
-
-- **營養血管（Vasa Vasorum）破裂**：是中膜出血的主要原因
-
-- **高血壓**：與剝離類似，是主要風險因子
-
-- **外傷**：可能導致創傷性壁內血腫
-
-
-
-### 病理特點 / Pathologic Features
-
-| 特點 | 說明 |
-
-|------|------|
-
-| 內膜完整性 | **內膜始終完整** |
-
-| 血腫位置 | 堆積於中膜內，呈新月形 |
-
-| 與剝離關係 | 可視為非交通性剝離 |
-
-
-
-### 診斷要點 / Diagnostic Key Points
-
-| 檢查方法 | 發現 |
-
-|---------|------|
-
-| **非對比 CT** | 主動脈周邊見極淡之**弧形高密度（50 HU）**，即壁內血腫 |
-
-| **對比增強 CT** | 弧形高密度邊緣（50 HU），主動腔無破裂 |
-
-| 超過 | 可同時有相關性动脉瘤 |
-
-
-
-### CT 影像特徵 / CT Imaging Features
-
-- **非對比 CT 優先**：在高風險患者，主動剝離 CT 協定通常包括增強 CTA 前先行非對比 CT 以評估 IMH
-
-- **替代策略**：低風險患者可先做非對比 CT，若在 CTA 上懷疑 IMH 再加做非對比 CT，以降低輻射劑量
-
-
-
-### 治療原則 / Treatment Principles
-
-| 病灶位置 | 治療建議 |
-
-|---------|---------|
-
-| 涉及升主動脈 | 手術治療 |
-
-| 僅涉及降主動脈 | 內科治療（與剝離相同）|
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-| 疾病 | 區分特點 |
-
-|------|----------|
-
-| 主動剝離 | 有內膜瓣交通真假腔 |
-
-| **壁內血腫** | 無內膜瓣，非交通性，內膜完整 |
-
-| 穿透性粥樣硬化潰僚（PAU）| 潰場面、無血腫 |
-
-
-
-
-> **臨床要點**
-> - IMH 臨床表現可與主動剝離完全相同，急性撕裂性背痛
-> - **關鍵影像發現**：非對比 CT 上主動脈周邊淡弧形高密度（45-50 HU）
-> - 治療建議與主動剝離相同，取決於是否涉及升主動脈
-> - 高風險患者建議在 CTA 前常規先行非對比 CT，以準確檢出 IMH
-
-
-
-![Page 673](/core_radiology/images/cardiovascular/page-673.png)
-
-
-
-## 穿透性粥樣硬化潰湯 / Penetrating Atherosclerotic Ulcer (PAU)
-
-
-
-**穿透性粥樣硬化潰湯（Penetrating Atherosclerotic Ulcer, PAU）** 是指粥樣硬化斑塊穿透內膜，血液進入中膜形成的病變。
-
-
-
-### 病理機制 / Pathophysiology
-
-| 步驟 | 說明 |
-
-|------|------|
-
-| 步驟 1 | 粥樣硬化斑塊穿透內膜 |
-
-| 步驟 2 | 斑塊潰湯，使血液進入中膜 |
-
-| 步驟 3 | 中膜擴大，形成**動脈瘤樣變化** |
+## 急性腸繫膜缺血 / Acute Mesenteric Ischemia
 
 
 
 ### 臨床特點 / Clinical Features
 
-- PAU 可能導致**囊狀動脈瘤（saccular aneurysm）**形成
+- 典型表現為**災難性腹痛**，常伴有**乳酸性酸中毒**
 
-- 與剝離及壁內血腫不同，PAU 主要由**粥樣硬化**而非高血壓引起
+- 最常見病因：**腸系膜上动脉（SMA）栓塞**
 
-- 粥樣硬化相關剝離的理論之一是起始於穿透性潰湯
+
+
+### 高風險解剖區域 / High-Risk Anatomical Zone
+
+- **SMA 栓塞位於中結腸动脉遠端**時，腸道缺血風險最高
+
+  - 因此處缺乏原生遠端側支
+
+  - 中結腸动脉與 IMA 經 Drummond 邊緣动脉及 Riolan 弓吻合
+
+
+
+### 治療 / Treatment
+
+- **大多數患者**：手術血運重建（栓子切除術或搭橋）+ 直接探查腸道 + 壞死腸段切除
+
+- **經選別患者**（無腹膜徵象或腸壞死臨床表現）：
+
+  - 血管內治療：溶栓（Thrombolysis）或吸栓（Suction Embolectomy）
+
+
+
+### 非阻塞性腸繫膜缺血 / Nonocclusive Mesenteric Ischemia (NOMI)
+
+- **極高死亡率（70–100%）**的急性腸繫膜缺血形式
+
+- 又稱「**腸道壞死而动脉樹通暢（Intestinal Necrosis with a Patent Arterial Tree）**」
+
+- 特徵：腸繫膜动脉多分支**痙攣和狹窄**
+
+- **首選治療**：直接動脉內輸注**罌粟鹼（Papaverine）**（60 mg 推注，繼以 30–60 mg/h）
+
+
+
+---
+
+
+
+## 慢性腸繫膜缺血 / Chronic Mesenteric Ischemia
+
+
+
+### 臨床特點 / Clinical Features
+
+- 最常見病因：**動脈粥樣硬化**
+
+- 典型表現：**飯後腹痛，且腹痛程度與體檢不符（out of proportion）**
 
 
 
 ### 診斷要點 / Diagnostic Key Points
 
-| 檢查方法 | 發現 |
+- 腸繫膜血管造影：腸繫膜血管**開口處狹窄**，常伴有**狹窄後擴張**
 
-|---------|------|
+- **主動脈側位片（Lateral Aortogram）**是評估**腹腔动脉及 SMA 起源**最有價值的體位
 
-| **CT 血管造影（CTA）** | 對比劑潰湯超出主動腔的預期輪廓 |
 
-| 降主動 PAU | 可能在整個胸腹主動腔內發現多發潰湯 |
+
+### 治療 / Treatment
+
+- **血管內治療**：球囊擴張 + 支架置入
+
+
+
+### 病理生理 / Pathophysiology
+
+- 由於腸繫膜側支極為豐富，**至少三條腸繫膜动脉（腹腔动脉、SMA、IMA）中的兩條**需有病變才會產生症狀
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **急性腸繫膜缺血**：災難性腹痛 + 乳酸性酸中毒；最常見 SMA 栓塞；手術為主要治療
+
+- **NOMI**：死亡率 70-100%；肠坏死但动脉通畅；罌粟鹼為首選治療
+
+- **慢性腸繫膜缺血**：飯後腹痛 out of proportion；至少 2/3 條腸繫膜动脉有病變才產生症狀；側位主動脈造影最優
+
+- **血管內治療**：慢性者可球囊擴張 + 支架；急性者可溶栓或吸栓（經選別）
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 709
+
+
+
+![Page 709](/core_radiology/images/interventional/page-709.png)
+
+
+
+## 胃腸道出血 / Gastrointestinal (GI) Bleeding
+
+
+
+---
+
+
+
+### 介入放射學在 GI 出血中的作用 / Role of Interventional Radiology in GI Bleeding
+
+
+
+### 分類 / Classification
+
+- **上消化道出血**：出血點位於**屈氏韌帶（Ligament of Treitz）近端**
+
+- **下消化道出血**：出血點位於**屈氏韌帶遠端**
+
+- **靜脈曲張出血**：由**門靜脈高壓**引起，治療為降低門靜脈壓力（見後述）
+
+
+
+### 診斷流程 / Diagnostic Approach
+
+- **急性上消化道出血**：**內視鏡**為首選初始檢查，兼具診斷及治療功能
+
+- **下消化道出血**（血流動力學穩定患者）：
+
+  - 首選**腸繫膜 CT 血管造影**或**核醫標記紅血球掃描**定位出血
+
+  - 這些檢查比血管造影更靈敏
+
+  - 血管造影要求出血速率約 **0.5–1.0 mL/min** 才呈陽性
+
+  - 標記紅血球掃描可檢測低至 **0.2–0.4 mL/min** 的出血
+
+
+
+### 介入治療 / Interventional Treatment
+
+- **上消化道出血**：栓塞**胃左动脉**是可接受的治疗方法
+
+- **下消化道出血**：側支發育遠不如上消化道，**非選擇性栓塞有顯著腸梗死風險**
+
+- **血管加壓素（Vasopressin）動脉內輸注**：
+
+  - 可控制活動性下消化道出血，但**停藥後再出血率極高**
+
+  - 對抗腸系膜血管（antimesenteric vessels）出血最有用，因導管難以直接到位
+
+  - **劑量**：0.2–0.4 單位/分鐘（100 單位溶於 500 mL 生理鹽水，以 1 mL/分鐘輸注），持續輸注最多 **24 小時**
+
+  - **主要並發症**（發生率達 20%）：心律失常、肺水腫、高血壓
+
+  - **耐藥性（Tachyphylaxis）**：24 小時後失效，不可繼續使用
+
+
+
+---
+
+
+
+### 血管發育不良 / Angiodysplasia
+
+
+
+### 臨床特點 / Clinical Features
+
+- **血管發育不良**為一種**後天性血管畸形**，是**慢性間歇性下消化道出血**的常見原因
+
+- 最常見於**右結腸或盲腸**
+
+- 因其在患者中常見（偶然發現率達 15%），出血患者發現血管發育不良不應停止尋找其他出血來源
+
+- 即使血管發育不良是出血原因，**活動性滲漏很少見**
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 影像學表現：糾纏的血管叢 + **引流靜脈早期顯影**（抗腸系膜側）
+
+- **典型電車軌跡表現（Tram-Track Appearance）**：由平行動脉和靜脈同時顯影造成
+
+
+
+### 治療 / Treatment
+
+- **血管內治療（血管加壓素或栓塞）對血管發育不良通常無效**
+
+- 治療首選：**內視鏡電凝、激光治療**等
+
+- 手術僅用於復發性或無法控制的大出血，但通常不必要
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **上消化道出血**：內視鏡首選；胃左动脉栓塞可接受
+
+- **下消化道出血**：CT 血管造影或標記紅血球掃描定位；出血率需 0.5-1.0 mL/min 才能血管造影陽性；非選擇性栓塞腸梗死風險高
+
+- **Vasopressin**：下消化道出血的有效藥物，但再出血率高；主要並發症可達 20%；最多用 24 小時
+
+- **血管發育不良**：右結腸/盲腸常見；15% 偶然發現率；電車軌跡為典型影像；內視鏡治療為主，血管內治療通常無效
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 710
+
+
+
+![Page 710](/core_radiology/images/interventional/page-710.png)
+
+
+
+## 憩室出血 / Diverticular Bleed
+
+
+
+### 臨床特點 / Clinical Features
+
+- **憩室病**是**老年人下消化道出血的最常見原因**
+
+- 大多數患者對**保守治療**有效
+
+
+
+### 介入治療 / Interventional Treatment
+
+- 血管造影可用於**穩定或不穩定且保守治療失敗的患者**
+
+- 若發現**活動性滲漏（Active Extravasation）**，治療選擇包括：
+
+  - **超選擇性栓塞**（最常用線圈）
+
+  - **血管加壓素輸注**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **憩室出血**：老年人下消化道出血最常見原因；大多數保守治療有效
+
+- **活動性滲漏時**：超選擇性線圈栓塞為首選；血管加壓素為替代方案
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 711
+
+
+
+![Page 711](/core_radiology/images/interventional/page-711.png)
+
+
+
+## 腎动脉 / Renal Arteries
+
+
+
+---
+
+
+
+### 粥樣硬化性腎动脉狹窄 / Atherosclerotic Renal Artery Stenosis
+
+
+
+### 臨床特點 / Clinical Features
+
+- **粥樣硬化**是**老年人腎动脉狹窄的最常見原因**
+
+- 粥樣硬化主要影響腎动脉**開口處（ostia）**
+
+
+
+### 治療 / Treatment
+
+- **血管成形術 + 支架**比單獨血管成形術有更好的長期通暢率
+
+
+
+### 臨床效益爭議 / Clinical Benefit Controversy
+
+- 血管內血運重建的**總體臨床效益仍有爭議**
+
+- **2009 年 ASTRAL 試驗**（發表於 NEJM）：比較藥物治療與藥物+血管內腎动脉血運重建
+
+  - 結果：**血運重建在血壓、腎功能或死亡率方面無明顯獲益**
+
+  - 批評：研究人群缺乏嚴重病變；藥物治療組患者表現優於先前研究
+
+
+
+---
+
+
+
+### 纖維肌發育不良 / Fibromuscular Dysplasia (FMD)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **纖維肌發育不良（FMD）**是一種特發性血管疾病，主要影響**腎动脉及頸动脉**
+
+- **雙側發病約占 2/3**
+
+- 主要見於**年輕或中年女性**
+
+
+
+### 與粥樣硬化的鑑別 / Comparison with Atherosclerosis
+
+
+
+| 特徵 | 粥樣硬化 | FMD |
+
+|------|---------|-----|
+
+| 發病年齡 | 老年 | 年輕/中年女性 |
+
+| 病變部位 | 開口處（ostial） | 腎动脉**中或遠端 1/3** |
+
+
+
+### 分型與影像 / Classification and Imaging
+
+
+
+| FMD 亞型 | 特點 | 影像表現 |
+
+|---------|------|---------|
+
+| **中膜纖維化（Medial Fibroplasia）**（最常見，80%）| 典型「珠鏈（String of Pearls）」或「珠串（String of Beads）」外觀 | 血管造影經典表現 |
+
+| **內膜纖維化（Intimal Fibroplasia）** | 兒童較常見；為**光滑狹窄**，非珠鏈樣 | 與中膜型鑑別 |
+
+| 中膜旁纖維化（Perimedial）/ 外膜纖維化（Adventitial）| 少見變異型 | |
+
+
+
+### 治療 / Treatment
+
+- FMD 對**單獨血管成形術**反應良好：
+
+  - **97% 血壓改善**；**42% 治癒率**；**5 年通暢率 90%**
+
+  - 機制：球囊機械性撕裂纖維組織
+
+- **10–15%** 患者球囊血管成形術後發生**再狹窄**
+
+- **FMD 不建議放置支架**：支架會增加後續血管成形術治療的難度，並可導致支架內再狹窄（由內膜增生引起）
+
+
+
+---
+
+
+
+### 神經纖維瘤病 / Neurofibromatosis
+
+
+
+### 臨床特點 / Clinical Features
+
+- **神經纖維瘤病**可在**兒童**中引起**腎动脉狹窄**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **粥樣硬化性腎动脉狹窄**：老年；開口處病變；支架獲益仍存爭議（ASTRAL 試驗陰性）
+
+- **FMD**：年輕/中年女性；中遠段腎动脉；珠鏈/珠串為經典型影像；血管成形術效果佳（97% 改善，42% 治癒）；不建議支架
+
+- **神經纖維瘤病**：兒童腎动脉狹窄的罕見原因
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 712
+
+
+
+![Page 712](/core_radiology/images/interventional/page-712.png)
+
+
+
+## 腎細胞癌 / Renal Cell Carcinoma (RCC)
+
+
+
+### 臨床特點 / Clinical Features
+
+- 大多數**腎細胞癌（RCC）為富血供腫瘤**
+
+- 常伴有**動靜脈分流（AV shunting）**和**靜脈湖（venous lakes）**
+
+- 血管造影的經典表現：**奇異的新生血管（bizarre neovascularity）**
 
 
 
 ### 鑑別診斷 / Differential Diagnosis
 
-| 疾病 | 區分特點 |
+- **腎嗜酸細胞瘤（Oncocytoma）**：良性腎臟腫塊，橫斷面成像無法可靠地與 RCC 鑑別
 
-|------|----------|
+  - 血管造影典型表現：**車輪狀（Spokewheel）** + 腫瘤周圍光環（Peritumoral Halo）
 
-| **PAU** | 潰湯超出主動腔預期輪廓 |
-
-| 單純性潰湯性粥樣硬化斑塊 | 不超出主動腔預期輪廓，屬慢性粥樣硬化 |
-
-| 主動剝離 | 有內膜瓣，真假腔交通 |
-
-| 壁內血腫 | 無潰湯，有弧形高密度血腫 |
+  - **無奇異新生血管**（與 RCC 鑑別要點）
 
 
 
-### 重要提醒 / Important Note
-
-- 粥樣硬化斑塊代表慢性疾病，**不屬於急性主動症候群**
-
-- 若發現 PAU，建議對整個主動腔進行成像
+---
 
 
 
-
-> **臨床要點**
-> - PAU 在影像上表現為對比劑潰湯超出主動腔壁的預期輪廓
-> - 與其他急性主動症候群不同，PAU 主要與粥樣硬化相關
-> - 多發潰湯可能遍布整個胸腹主動腔
-> - 所有急性主動病變都建議進行全主動腔成像
+## 腎血管肌脂瘤 / Angiomyolipoma (AML)
 
 
 
-![Page 674](/core_radiology/images/cardiovascular/page-674.png)
+### 臨床特點 / Clinical Features
+
+- **腎血管肌脂瘤（AML）**是一種富血供的**錯構瘤**，由血管（angio）、平滑肌（myo）和脂肪（lipoma）組成
+
+- 橫斷面成像診斷依據：腎臟腫塊內含**肉眼可見脂肪（Macroscopic Fat）**
 
 
 
-## 主動創傷 / Traumatic Aortic Injury
+### 血管造影表現 / Angiographic Findings
+
+- 供血动脉**紆曲**，實質期呈**光芒狀（Sunburst Appearance）**
+
+- 偶爾可見小**动脉瘤**，若直徑 **>4 cm** 則**出血風險增加**
+
+- **與腎動靜脈瘻的鑑別**：AML **無動靜脈分流**（即动脉期成像時靜脈不顯影）
 
 
 
-**創傷性主動損傷（Traumatic Aortic Injury）** 是因減速傷害導致主動創傷性病變。
+---
 
 
 
-### 損傷好發位置 / Predilection Sites
-
-主動創傷好發於三個相對固定的解剖位置（因減速傷害）：
+## 腎臟創傷 / Renal Trauma
 
 
 
-| 位置 | 說明 |
+### 臨床特點 / Clinical Features
 
-|------|------|
+- 腎臟創傷可為**鈍挫傷**或**醫源性**
 
-| **主動根部（Aortic root）** | 第一好發位置 |
-
-| **主動峽部（Isthmus）** | 存活患者中 **95%** 發生於此 |
-
-| **裂孔（Hiatus）** | 食道裂孔處 |
+- 無論病因為何，腎臟創傷通常伴有**血尿**
 
 
 
-### 病理特點 / Pathologic Features
+### 馬蹄腎的特殊風險 / Horseshoe Kidney Risk
 
-- 創傷性主動損傷後形成的**假性動脈瘤（pseudoaneurysm）** 由周圍結締組織維持位置
-
-- 約 5% 鈍性主動創傷患者存活
-
-- 常伴有**無名动脉、左頸總动脉或左鎖骨下动脉**起始部的損傷
+- **馬蹄腎**特別容易受創傷：因未被下位肋骨保護，受創時可被擠向脊柱
 
 
 
-### 診斷要點 / Diagnostic Key Points
-
-| 檢查方法 | 發現 |
-
-|---------|------|
-
-| **胸部 X 光** | 縱隔模糊增寬（widened mediastinum）|
-
-| **CTA（黃金標準）** | 縱隔血腫、可見剝離瓣、假性動脈瘤或壁內血腫 |
-
-| **心導管主動造影** | 假性動脈瘤顯影（金標準之一）|
+### AAST 器官損傷分級 / AAST Organ Injury Scale Classification
 
 
 
-### 直接 CT 徵象 / Direct CT Signs
-
-- 剝離瓣（dissection flap）
-
-- 假性動脈瘤（pseudoaneurysm）
-
-- 壁內血腫（intramural hematoma）
-
-
-
-### 鑑別要點 / Differential Key Points
-
-| 情況 | 血腫特點 | 處理原則 |
+| 分級 | 損傷描述 | 治療原則 |
 
 |------|---------|---------|
 
-| **靜脈性縱隔血腫** | 與完整主動間有脂肪平面分隔 | 保守治療 |
+| **I–III 級** | 非擴展性血腫或實質裂傷，無集合系統損傷 | 通常保守治療 |
 
-| **主動相關性血腫** | 血腫與主動壁接觸 | 需手術治療 |
+| **IV 級** | 深層實質裂傷延伸至集合系統，CT 延遲成像可見造影尿外滲；腎动脉或靜脈損傷伴局限性出血 | 常使用血管內線圈栓塞治療 |
 
+| **V 級（最嚴重）** | 腎臟碎裂，腎門撕脫 | 通常需手術治療 |
 
 
 
-> **臨床要點**
-> - **CTA 是評估疑似創傷性主動損傷的首選檢查**
-> - 創傷性縱隔血腫多為靜脈性，但主動損傷是首要考量
-> - 主動壁接觸的血腫提示主動損傷，需手術治療
-> - 主動峽部是鈍性創傷存活者最常見的損傷位置
+### 其他重要血管損傷（AAST 分級外）/ Other Vascular Injuries
 
+- **創傷性腎动脉血栓形成**
 
+- **腎动脉假性动脉瘤**
 
-![Page 675](/core_radiology/images/cardiovascular/page-675.png)
 
 
+### 介入治療適應症 / Indications for Endovascular Treatment
 
-## 胸主動瘤 / Thoracic Aortic Aneurysm (TAA)
+- **活動性滲漏**、**夾層**或**假性动脉瘤**
 
-
-
-**胸主動瘤（Thoracic Aortic Aneurysm, TAA）** 是指胸主動局部病理性擴大。
-
-
-
-### 定義與測量 / Definition and Measurement
-
-| 部位 | 診斷標準 |
-
-|------|---------|
-
-| 升主動 | 直徑 **>4 cm** |
-
-| 降主動 | 直徑 **>3 cm** |
-
-
-
-> ⚠️ 主動大小也需根據體表面積標準化並與參考值比較。
-
-
-
-### 病因學 / Etiology
-
-| 類型 | 病因 |
-
-|------|------|
-
-| **粥樣硬化性（最常見）** | 降主動更常受影響；約三分之一患者同時有腹主動瘤 |
-
-| **非粥樣硬化性** | 結締組織疾病（馬凡氏、埃勒斯-丹洛斯症候群）、雙葉主動瓣相關血管病變、血管炎（ Takayasu 動脈炎、巨細胞動脈炎、強直性脊椎炎、復發性軟骨炎）、囊性中膜壞死、感染性主動炎 |
-
-
-
-### 特殊病變：主動室環擴張 / Annuloaortic Ectasia
-
-| 特點 | 說明 |
-
-|------|------|
-
-| 定義 | Valsalva 竇及升主動擴張，竇管連接處（sinotubular junction）消失 |
-
-| 外觀 | 呈「鬱金香球莖」形狀 |
-
-| 相關疾病 | 馬凡氏症候群、埃勒斯-丹洛斯症候群 |
-
-
-
-### 手術閾值 / Surgical Thresholds
-
-| 部位 | 一般患者 | 結締組織疾病 / 雙葉主動瓣患者 |
-
-|------|---------|--------------------------|
-
-| 升主動 | **>5.5 cm** | **>4.5 cm** |
-
-| 降主動 | **>6.0 cm** | >6.0 cm |
-
-
-
-> ⚠️  além size criteria，年生長率 **>1 cm/年**（或 >5 mm/6 個月）也是手術適應症。
-
-
-
-### 破裂徵象 / Signs of Impending Rupture
-
-- **主動下垂徵象（Draped Aorta Sign）**：軸位影像上主動後壁緊貼脊柱
-
-
-
-### 治療併發症 / Treatment Complications
-
-- 破裂、剝離、感染、內漏（endoleak）、截癱（因 Adamkiewicz 动脉阻塞）
-
-
-
-
-> **臨床要點**
-> - 測量主動直徑應使用**與主動腔垂直的雙斜短軸多平面重建圖像（double-oblique short-axis MPR）**
-> - 非粥樣硬化性病因（結締組織疾病、雙葉主動瓣）患者的手術閾值較低
-> - 主動下垂徵象是即將破裂的徵兆
-> - 超過三分之一的粥樣硬化性 TAA 患者同時有腹主動瘤
-
-
-
-![Page 676](/core_radiology/images/cardiovascular/page-676.png)
-
-
-
-## 腹主動瘤 / Abdominal Aortic Aneurysm (AAA)
-
-
-
-**腹主動瘤（Abdominal Aortic Aneurysm, AAA）** 是指腹主動局部病理性擴大，直徑 ≥3 cm。
-
-
-
-### 流行病學 / Epidemiology
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 發生率 | 老年男性可達 **5.9%**（至 80 歲）|
-
-| 性別差異 | 女性較少見 |
-
-| 死亡原因 | 破裂性腹主動瘤是老年男性第 **13 位** 死因 |
-
-
-
-### 風險因子 / Risk Factors
-
-- **年齡**、**男性**、**吸煙**、**家族史**
-
-
-
-### 自然病史 / Natural History
-
-- AAA 的自然病程是逐漸擴大，最終破裂
-
-
-
-### 年度破裂風險 / Annual Rupture Risk
-
-| AAA 直徑 | 年度破裂風險 |
-
-|---------|------------|
-
-| **5.5–5.9 cm** | 9.4% |
-
-| **6.0–6.5 cm** | 10.2% |
-
-| **6.5–6.9 cm** | 19.2% |
-
-| **>7 cm** | 32.5% |
-
-
-
-### 超音波篩檢 / Ultrasound Screening
-
-| 對象 | 建議 |
-
-|------|------|
-
-| 年齡 >65 歲高風險患者 | Medicare 批准的超音波篩檢 |
-
-
-
-### 追蹤與手術時機 / Follow-up and Surgical Timing
-
-| AAA 大小 | 建議 |
-
-|---------|------|
-
-| **<4 cm** | 6 個月後追蹤；無變化則每年監測 |
-
-| **4–4.5 cm** | 6 個月後追蹤；無變化則每 6 個月監測 |
-
-| **5–5.5 cm** | 考慮手術 |
-
-| **>5.5 cm** | 建議手術 |
-
-
-
-> ⚠️ 除了大小，手術適應症還包括：**年生長率 >5 mm/年** 或有症狀的 AAA。
-
-
-
-### 治療方式 / Treatment Options
-
-| 方式 | 優缺點 |
-
-|------|--------|
-
-| **傳統開放手術** | 選擇性手術死亡率 >3%；緊急手術死亡率 19% |
-
-| **血管內修復（EVAR）** | 適合高手術風險患者，減少重大併發症及住院時間；長期結果與開放手術相當，但常需再次介入 |
-
-
-
-### 破裂預後 / Prognosis of Rupture
-
-- 破裂性 AAA 死亡率至少 **50%**
-
-
-
-
-> **臨床要點**
-> - AAA 直徑測量應使用**雙斜重建圖像**取得真正的橫截面直徑
-> - 直徑越大，年度破裂風險越高
-> - 破裂性 AAA 死亡率高，及早篩檢高風險人群至關重要
-> - 血管內修復適合高手術風險患者，但常需再次介入治療
-
-
-
-![Page 677](/core_radiology/images/cardiovascular/page-677.png)
-
-
-
-## 腹主動瘤 - 內漏 / AAA - Endoleaks
-
-
-
-**內漏（Endoleak）** 是指在血管內修復術（EVAR）後，支架 graft 排除的动脉瘤囊內仍有持續血流灌注。
-
-
-
-### 分型系統 / Classification System
-
-
-
-### Type I 內漏：Graft 密封不良 / Type I Endoleak: Inadequate Seal
-
-| 亞型 | 說明 |
-
-|------|------|
-
-| **Type IA** | 近端密封不良 |
-
-| **Type IB** | 遠端密封不良 |
-
-
-
-- **機制**：Graft 與主動壁之間密封不完整，使血液進入被隔離的动脉瘤囊
-
-- **處理**：需要積極治療（通常需手術或血管內修復）
-
-
-
-### Type II 內漏：側支血流持續灌注 / Type II Endoleak: Persistent Collateral Flow
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 常見來源 | 腰动脉（Lumbar arteries）、下腸繫膜动脉（IMA）|
-
-| 機制 | 側支循環使血液持續流入被隔離的动脉瘤囊 |
-
-| 特點 | 通常為良性，但需監測 |
-
-
-
-| 類型 | 機制 | 處理原則 |
-
-|------|------|---------|
-
-| **Type I** | Graft 密封不良 | 積極治療（再介入）|
-
-| **Type II** | 側支血流 | 監測為主，若持續或增加則治療 |
-
-
-
-
-> **臨床要點**
-> - **Type I 內漏** 因密封不良，血液持續進入动脉瘤囊，破裂風險高，需要積極治療
-> - **Type II 內漏** 來自側支血流（腰动脉或 IMA），通常預後較好，但仍需長期監測
-> - EVAR 術後需定期影像追蹤（CT 或超音箱）以早期發現內漏
-> - 內漏不及時處理可能導致动脉瘤囊持續增大及破裂
-
-
-
-![Page 678](/core_radiology/images/cardiovascular/page-678.png)
-
-
-
-## 腹主動瘤內漏（三）/ AAA Endoleaks (Continued)
-
-
-
-### Type III 內漏：器械故障 / Type III Endoleak: Device Failure
-
-
-
-### 疾病名稱 / Disease Name
-
-**Type III 內漏（Type III Endoleak）** 是因器械故障導致 graft  fabric 或模組化 graft 接合處出現滲漏。
-
-
-
-### 臨床特點 / Clinical Features
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 機制 | 血液通過 graft 的缺陷進入被隔離的动脉瘤囊 |
-
-| 常見原因 | graft  fabric 破損、模組化 graft 接合處分離 |
-
-| 處理原則 | 需要積極介入治療 |
-
-
-
-### 影像特徵 / Imaging Features
-
-- CT 冠狀面可見對比劑通過模組化主動 graft 的彎曲處外滲
+- 治療方法：**超選擇性線圈栓塞**
 
 
 
@@ -1764,351 +2056,1175 @@ weight: 9
 
 
 
-### Type IV 及 Type V 內漏 / Types IV and V Endoleaks
-
-
-
-### Type IV 內漏 / Type IV Endoleak
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 機制 | 多孔隙 graft 導致滲漏 |
-
-| 特點 | 通常為暫時性，見於程序進行中 |
-
-| 預後 | 停用抗凝血製劑後約一個月內自行緩解 |
-
-| 現代 graft | 現代 graft 已少見 |
-
-
-
-### Type V 內漏（Endotension）/ Type V Endoleak (Endotension)
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 动脉瘤囊持續增大，但影像上無法看到任何內漏 |
-
-| 機制 | 可能是低於影像解析度的微小內漏 |
-
-| 特點 | 排除性診斷 |
-
-
-
-### 內漏分型總結 / Endoleak Classification Summary
-
-| 類型 | 機制 | 預後 |
-
-|------|------|------|
-
-| **Type I** | Graft 密封不良 | 需積極治療 |
-
-| **Type II** | 側支血流 | 監測為主 |
-
-| **Type III** | 器械故障 | 需積極治療 |
-
-| **Type IV** | 多孔隙 graft（短暫性）| 自行緩解 |
-
-| **Type V** | 無可見內漏（endotension）| 排除性診斷 |
-
-
-
-
-> **臨床要點**
-> - **Type III 內漏**為器械故障，需積極再介入治療
-> - **Type IV 內漏**為暫時性，抗凝血劑停用後通常自行緩解，現代 graft 已少見
-> - **Type V 內漏**為排除性診斷，臨床上需排除其他類型內漏
-> - EVAR 術後需終身影像監測以早期發現各類內漏
-
-
-
-![Page 679](/core_radiology/images/cardiovascular/page-679.png)
-
-
-
-## 主動炎 / Aortitis
-
-
-
-**主動炎（Aortitis）** 是主動壁的炎症反應，可分為感染性或非感染性（自體免疫性）。
-
-
-
-### 病因學 / Etiology
-
-| 類型 | 病因 |
-
-|------|------|
-
-| **感染性主動炎** | 細菌（如葡萄球菌）、真菌；併發**黴菌性动脉瘤（mycotic aneurysm）** |
-
-| **自體免疫性主動炎** | Takayasu 動脈炎、巨細胞動脈炎、強直性脊椎炎、結節性多發性动脉炎、類風濕性關節炎、免疫複合體疾病 |
-
-
-
-### 病理特點 / Pathologic Features
-
-- 感染性主動炎的併發症：黴菌性动脉瘤（以金黃色葡萄球菌最常見）
-
-- 自體免疫性主動炎治療以**皮質類固醇**為主
-
-
-
-### 急性期影像特徵 / Acute Phase Imaging Features
-
-| 檢查 | 發現 |
-
-|------|------|
-
-| **MRI（T1 脂肪抑制對比增强）** | 主動壁環形增厚並強化，厚度 **>2 mm** |
-
-| **CT** | 主動壁環形增厚並強化 |
-
-| 併發症 | 可能伴有動瘤、剝離或壁內血腫 |
-
-
-
-### 與壁內血腫的鑑別 / Differentiation from IMH
-
-| 特點 | 主動炎 | 壁內血腫 |
-
-|------|--------|---------|
-
-| 增厚型態 | **環形（circumferential）** | 偏心弧形（eccentric crescentic）|
-
-| 位置 | 廣泛性 | 侷限性 |
-
-| 對比強化 | 有（急性期）| 無 |
-
-
-
-### 慢性期影像特徵 / Chronic Phase Imaging Features
-
-| 發現 | 說明 |
-
-|------|------|
-
-| **長段狹窄（Long segmental stenoses）** | 慢性纖維化導致 |
-
-| **動瘤形成** | 慢性炎症後遺症 |
-
-
-
-
-> **臨床要點**
-> - 急性期主動炎的 MRI 特徵：主動壁厚度 >2 mm 並有強化
-> - 自體免疫性主動炎需使用皮質類固醇治療
-> - 主動炎與壁內血腫的鑑別要點在於增厚型態（環形 vs. 偏心弧形）
-> - 慢性期可出現長段狹窄或動瘤，需長期追蹤
-
-
-
-![Page 680](/core_radiology/images/cardiovascular/page-680.png)
-
-
-
-## Takayasu 動脈炎 / Takayasu Arteritis
-
-
-
-**Takayasu 動脈炎（Takayasu Arteritis）**，又稱「無脈搏病（pulseless disease）」，是一種特發性炎症性大血管血管炎。
+## 腎動靜脈瘻及動靜脈畸形 / Renal AVFs and AVMs
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- 腎動靜脈瘻（AVFs）**幾乎均為後天性**，由**創傷或腎活檢**引起
+
+- 先天性腎內動靜脈畸形（AVMs）罕見
+
+- 大多數腎 AVFs **無症狀**，常可**自發癒合**
+
+- 有症狀時，**血尿**最常見；少見者可致**高輸出量心衰竭**或**自發性腹膜後出血**
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 血管造影：可見**静脉在动脉期顯影**（即動靜脈分流）
+
+
+
+### 治療 / Treatment
+
+- **栓塞治療**（線圈、 glue 或酒精）
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **RCC**：富血供 + 奇異新生血管；嗜酸細胞瘤無奇異新生血管，但車輪狀 + 周圍光環為其特徵
+
+- **AML**：含脂肪的錯構瘤；>4 cm 出血風險增加；無 AV 分流（與 AVF 鑑別要點）
+
+- **腎臟創傷**：AAST I-III 級保守；IV 級常需栓塞；V 級需手術；馬蹄腎創傷風險高
+
+- **腎 AVF**：後天性（創傷/活檢）為主；靜脉在动脉期顯影；大多自愈，有症狀者栓塞治療
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 713
+
+
+
+![Page 713](/core_radiology/images/interventional/page-713.png)
+
+
+
+## 腹部盆腔壓迫綜合徵 / Arterial, Venous, and Visceral Abdomino-Pelvic Compression Syndromes
+
+
+
+---
+
+
+
+###  median arcuate ligament 綜合徵 / Median Arcuate Ligament Syndrome (MALS)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **MALS** 為**膈腳（Diaphragmatic Crura）**的** median arcuate ligament** 壓迫**腹腔动脉**所致
+
+- 呼氣時动脉壓迫**加重**
+
+- 大多數患者**無症狀**；有症狀者表現為**痙攣性腹痛**
+
+- 好發於**年輕纖細女性**
+
+
+
+### 治療 / Treatment
+
+- **血管成形術無效**；支架因高失敗率而有爭議
+
+- **根治性治療**：外科手術**切斷 median arcuate ligament**，擴大膈裂孔
+
+
+
+---
+
+
+
+### 腸系膜上动脉綜合徵 / Superior Mesenteric Artery (SMA) Syndrome
+
+
+
+### 臨床特點 / Clinical Features
+
+- **SMA 综合徵**為**十二指腸**被**主動脈與 SMA 之間**壓迫，又稱 **Wilkie 综合徵**
+
+- 好發於：**纖細兒童、燒傷患者、體重減輕患者**
+
+
+
+---
+
+
+
+### 堅果鉗綜合徵 / Nutcracker Syndrome
+
+
+
+### 臨床特點 / Clinical Features
+
+- **堅果鉗綜合徵**為**左腎靜脈**在**主動脈與 SMA之間**受壓
+
+- 機制與 SMA 综合徵相似，但受壓的是**腎靜脈**而非十二指腸
+
+
+
+### 變異型 / Variant
+
+- **後側堅果鉗（Posterior Nutcracker）**：左腎靜脈為**主動脈後型（或繞主動脈型）**時，在**主動脈與椎體之間**受壓
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 表現多樣：**腹痛、血尿、體位性蛋白尿、盆腔淤血、男性的精索靜脈曲張**
+
+
+
+### 治療 / Treatment
+
+- **保守觀察**：大多數血尿病例在 **2 年內自行緩解**
+
+- **若需治療**：可進行**腎靜脈球囊擴張 + 支架置入**
+
+
+
+---
+
+
+
+### May-Thürner 综合徵 / May-Thürner Syndrome
+
+
+
+### 臨床特點 / Clinical Features
+
+- **May-Thürner 综合徵**：左側**髂總靜脈**被**右側髂總动脉**壓迫，導致**左髂總靜脈血栓形成**
+
+  - 記憶法：**右动脉壓左靜脈**
+
+
+
+### 病理機制 / Pathophysiology
+
+- 慢性壓迫導致靜脈內**纖維粘連**，形成血栓傾向
+
+
+
+### 治療 / Treatment
+
+- **血管內溶栓** followed by **支架置入**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **MALS**：膈腳壓迫腹腔动脉；年輕纖細女性；血管成形術無效，手術切斷韌帶為根治
+
+- **SMA 综合徵**：十二指腸在主動、SMA 之間受壓；好發於纖細/體重減輕患者
+
+- **堅果鉗综合徵**：左腎靜脈在主、A、SMA 之間受壓；血尿多在 2 年內自愈；可支架治療
+
+- **May-Thürner**：右髂總动脉壓迫左髂總靜脈導致血栓；治療為溶栓 + 支架
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 714
+
+
+
+![Page 714](/core_radiology/images/interventional/page-714.png)
+
+
+
+## 門靜脈高壓 / Portal Hypertension
+
+
+
+---
+
+
+
+### 門靜脈壓力測量 / Measuring Portal Pressure
+
+
+
+### 門靜脈壓力直接測量
+
+- **直接測量門靜脈（PV）壓力**需穿過肝實質，為侵入性且不實用
+
+- **楔入肝靜脈壓力（Wedged Hepatic Vein Pressure）**經頸內靜脈導管常規測量，在大多數患者中被認為與 PV 壓力相等
+
+
+
+### 門體梯度 / Portosystemic Gradient
+
+- **門體梯度（又稱校正竇狀隙壓力）**代表竇狀隙對門靜脈血流的實際阻力
+
+- 計算公式：**（楔入肝靜脈壓力）－（游離肝靜脈壓力）**
+
+- 門靜脈高壓定義：**門體梯度 >5 mm Hg**
+
+
+
+---
+
+
+
+### 門靜脈高壓的側支通路 / Collateral Pathways in Portal Hypertension
+
+
+
+| 側支類型 | 途徑 |
+
+|---------|------|
+
+| **食道靜脈曲張** | 胃冠狀静脉 ↔ 奇靜脈/半奇靜脈 |
+
+| **胃底靜脈曲張** | 脾靜脈 ↔ 奇靜脈 |
+
+| **脾腎分流** | 脾靜脈/胃短靜脈 ↔ 左腎上腺/下膈靜脈 ↔ 左腎靜脈 |
+
+| **腸繫膜靜脈曲張** | SMV 或 IMV ↔ 髂靜脈 |
+
+| **海蛇頭（Caput Medusa）** | 臍靜脈 ↔ 腹壁靜脈 |
+
+| **痔瘡** | IMV ↔ 痔下靜脈 |
+
+
+
+---
+
+
+
+### 經頸靜脈肝內門體分流術 / Transjugular Intrahepatic Portosystemic Shunt (TIPS)
+
+
+
+### 適應症 / Indications
+
+- **最常見適應症**：內視鏡無法控制的**靜脈曲張出血**
+
+- 其他適應症：**頑固性腹水**、**Budd-Chiari 綜合徵（肝靜脈血栓形成）**
+
+
+
+### 術前評估 / Pre-Procedure Assessment
+
+- **肝功能障礙評估**：Child-Pugh 分級或 **MELD 分數**（終末期肝病模型）
+
+  - **Child-Pugh 分級**：結合實驗室指標（INR、膽紅素、白蛋白）及臨床評估（腹水、肝性腦病）
+
+  - **MELD 分數**：結合 INR、膽紅素、肌酐的對數公式；**MELD 分數越高，TIPS 術後死亡率越高**
+
+
+
+### 絕對禁忌症 / Absolute Contraindications
+
+- 右心衰竭
+
+- 嚴重活動性肝衰竭
+
+- 嚴重肝性腦病
+
+
+
+### 術前準備 / Pre-Procedure
+
+- 橫斷面成像或超聲確認**門靜脈通暢**
+
+
+
+### 手術要點 / Procedure Highlights
+
+- 通常選用**右肝靜脈**與**右門靜脈**之間置入**覆膜支架**
+
+- 步驟：楔入球囊 CO₂ 阻塞靜脈造影顯示門靜脈逆行顯影
+
+- 手術最困難的部分：**建立進入門靜脈的通道**
+
+- 術後用**都卜勒超聲**隨訪 TIPS 通暢
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **門靜脈高壓**：定義為門體梯度 >5 mm Hg；楔入肝靜脈壓力≈門靜脈壓力
+
+- **側支分佈**：食道/胃底靜脈曲張最常見；脾腎分流、海蛇頭等各有特定路徑
+
+- **TIPS**：靜脈曲張出血的救命手段；MELD 或 Child-Pugh 指導術前評估；絕對禁忌：右心衰、嚴重肝衰竭、嚴重肝性腦病
+
+- **術後隨訪**：都卜勒超聲監測分流通暢
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 715
+
+
+
+![Page 715](/core_radiology/images/interventional/page-715.png)
+
+
+
+## TIPS：步驟詳解 / TIPS: Step by Step
+
+
+
+### 操作步驟 / Procedure Steps
+
+
+
+| 步驟 | 內容 |
 
 |------|------|
 
-| 受影響血管 | 胸、腹主動、鎖骨下动脉、頸动脉、肺动脉、腸繫膜大动脉 |
+| **1** | 經頸內靜脈入路行右肝靜脈造影 |
 
-| 好發族群 | **年輕至中年女性** |
+| **2** | 導管楔入遠端肝靜脈並充盈阻塞球囊；行間接 CO₂ 靜脈造影顯示門靜脈 |
 
-| 病因 | 特發性（不明確）|
+| **3** | 經肝實質直接進入門靜脈（通常為右門靜脈），此為手術最困難部分；間接 CO₂ 靜脈造影作為指引 |
 
+| **4** | 用 8 mm × 3–4 cm 球囊擴張穿刺道，以便放置支架 graft |
 
+| **5** | 置入覆膜支架（通常為自膨式）；擴張至門靜脈與下腔靜脈壓力梯度 **<12 mm Hg** |
 
-### 影像特徵 / Imaging Features
-
-| 特徵 | 說明 |
-
-|------|------|
-
-| 典型表現 | **長段平滑狹窄（long smooth stenoses）** |
-
-| 好發部位 | 主動弓分支血管、腎动脉、腹主動 |
-
-| 其他表現 | 狹窄或瘤樣擴張交替 |
+| **6** | 進行門靜脈造影完成造影；此時可栓塞任何存在的靜脈曲張 |
 
 
 
-### 與巨細胞動脈炎的鑑別 / Differentiation from Giant Cell Arteritis
-
-| 項目 | Takayasu 動脈炎 | 巨細胞动脉炎 |
-
-|------|--------------|-------------|
-
-| 好發年齡 | **年輕患者**（通常 <50 歲）| 老年患者（通常 >50 歲）|
-
-| 影像表現 | 長段平滑狹窄 | 難以區分 |
-
-| 主要鑑別點 | **年齡** | **年齡** |
+---
 
 
 
-### 治療原則 / Treatment Principles
-
-| 期別 | 治療方式 |
-
-|------|---------|
-
-| **急性期** | 皮質類固醇治療 |
-
-| **慢性狹窄（有症狀）** | 待炎症消退（ESR 正常化）後可考慮血管內治療 |
+## 下腔靜脈及盆腔靜脈疾病 / IVC and Pelvic Venous Disease
 
 
 
-### 重要提醒 / Important Note
-
-- 兩種血管炎的影像表現可能難以區分，**患者年齡是主要鑑別點**
-
-- 血管內治療僅在急性炎症消退後才可進行
+---
 
 
 
-
-> **臨床要點**
-> - Takayasu 動脈炎主要影響年輕至中年女性
-> - 長段平滑狹窄是典型影像特徵
-> - 與巨細胞动脉炎的鑑別主要依靠年齡（<50 歲傾向 Takayasu）
-> - 治療前需確認炎症已消退（ESR 正常化），以避免治療後併發症
+### 下腔靜脈濾器置入 / IVC Filter Placement
 
 
 
-![Page 681](/core_radiology/images/cardiovascular/page-681.png)
+### 適應症 / Indications
+
+- 預防來自下肢深靜脈血栓（DVT）的**肺栓塞（PE）**
+
+  - DVT 合併抗凝禁忌
+
+  - 抗凝治療中仍復發 PE
+
+  - DVT/PE 高風險且有抗凝禁忌
 
 
 
-## 主動縮窄 / Aortic Coarctation
+### 並發症 / Complications
 
 
 
-**主動縮窄（Aortic Coarctation）** 是指近端降主動的先天性局灶性狹窄。
+| 並發症 | 說明 |
+
+|--------|------|
+
+| **入路部位血栓形成** | 最常見 |
+
+| **IVC 血栓形成** | 次常見 |
+
+| **IVC 穿孔** | 常見，但幾乎無臨床後果 |
+
+| **濾器斷裂或栓塞** | 罕見 |
+
+
+
+### 術前要點 / Pre-Procedure Points
+
+- 首先行**下腔靜脈造影**（用豬尾導管高流量注射）
+
+- **雙下腔靜脈**：可在匯合部上方置入一枚濾器，或在每條 IVC 中各置入一枚
+
+- **IVC 直徑 >28 mm**：需使用鳥巢式濾器（適用於 28–40 mm IVC）；若 **>40 mm**，可分別在雙側髂總靜脈放置濾器
+
+- **首選位置**：緊鄰**最低腎靜脈下方**
 
 
 
 ### 解剖變異 / Anatomic Variants
 
-| 類型 | 位置 | 臨床表現 |
+- **左腎靜脈繞主動脈型（Circumaortic Left Renal Vein）**：發生率 2–10%
 
-|------|------|---------|
+- **主動脈後左腎靜脈（Retroaortic Left Renal Vein）**：發生率 2–7%
 
-| **成人型（近導管型，Juxtaductal）** | 動脈導管連接處 | 上肢高血壓 |
+- **IVC 中斷伴奇靜脈延續**：罕見，與多脾症及先天性心臟病相關
 
-| **嬰兒型（導管前型，Preductal）** | 導管近端 | 左心室輸出道阻塞、充血性心衰竭 |
+- **術前行 IVC 血栓存在**：可能干擾濾器放置，需高於正常位置放置
+
+
+
+---
+
+
+
+### 精索靜脈曲張 / Varicocele
+
+
+
+### 臨床特點 / Clinical Features
+
+- **精索靜脈曲張**為**蔓狀靜脈叢（Pampiniform Venous Plexus）**擴張
+
+- **原發性（最常見）**：近端gonadal vein 靜脈瓣缺失或功能不全導致靜脈返流
+
+- **繼發性**：腫塊阻塞靜脈回流所致
+
+- **原發性精索靜脈曲張是男性不育的常見可治療病因**
+
+
+
+### 臨床要點 / Clinical Points
+
+- **絕大多數為左側**：左gonadal vein 迴流至左腎靜脈；右gonadal vein 直接迴流至 IVC
+
+- **單獨右側精索靜脈曲張**應積極排查**腹膜後腫塊**
+
+
+
+### 診斷 / Diagnosis
+
+- **陰囊超聲**：擴張靜脈叢（>2 mm），呈**蟲袋樣（Bag of Worms）**表現；Valsalva 動作時加重
+
+
+
+### 治療 / Treatment
+
+- **線圈栓塞**或**外科結紮 gonadal vein**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **TIPS 步驟**：右肝靜脈 → CO₂ 顯示門靜脈 → 最難為建立門靜脈通道 → 球囊擴張 → 覆膜支架（梯度 <12 mm Hg）
+
+- **IVC 濾器**：預防 PE；入路血栓最常見；雙 IVC 需雙濾器或於匯合部上方置一枚；>28 mm 用鳥巢式；>40 mm 雙側髂靜脈放置
+
+- **精索靜脈曲張**：左側為主；單獨右側需排除腹膜後腫塊；超聲確診；線圈栓塞或手術治療
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 716
+
+
+
+![Page 716](/core_radiology/images/interventional/page-716.png)
+
+
+
+## 膽管造影 / Cholangiography
+
+
+
+---
+
+
+
+## 經皮經肝膽管造影 / Percutaneous Transhepatic Cholangiography (PTC)
+
+
+
+---
+
+
+
+### 適應症 / Indications
+
+
+
+| 適應症 | 說明 |
+
+|--------|------|
+
+| **膽道減壓** | 緩解膽道梗阻 |
+
+| **膽道引流** | 膽道損傷（創傷後或術後）的膽道分流 |
+
+| **膽道結石治療** | 經皮膽道結石清除（少見） |
+
+| **膽道吻合前輔助治療** | 膽道吻合術前的術前準備（少見）|
+
+
+
+---
+
+
+
+### 術前準備 / Pre-Procedure
+
+- 術前給予**預防性抗生素**（因膽汁淤積易致細菌過度生長）
+
+- 需覆蓋**革蘭氏陰性菌**，常用**左氧氟沙星（Levofloxacin）**
+
+
+
+---
+
+
+
+### 右側膽道穿刺技術 / Right Biliary Tree Access Technique
+
+- **入路**：右腋中線，兩次穿刺法（two-puncture approach）
+
+- 使用 **22G 穿刺針**，與檯面平行、與肝臟下緣平行穿刺
+
+- 當顯影膽管後，留置穿刺針，再以 **21G 穿刺針**盡量低位穿刺進入同一管腔
+
+- 進入膽管後：置入 **0.018"導絲** → 換為 **5 或 6 Fr 鞘** → 以親水導絲（Roadrunner 或 Glidewire）引導進入小腸
+
+- 交換為硬導絲（如 Amplatz）後放置膽道引流管
+
+- 必要時可手動切割側孔，使側孔從膽道穿刺點延伸至腸道
+
+- **嚴禁抽吸膽道引流管**：否則腸道內容物可被吸入膽道，引發膽管炎
+
+
+
+---
+
+
+
+### 左側膽道穿刺技術 / Left Biliary Tree Access Technique
+
+- **入路**：左劍突下
+
+- 超聲常可顯示擴張的膽管，**無需兩次穿刺**
+
+
+
+---
+
+
+
+### 膽道支架 / Biliary Stenting
+
+- 若需放置支架治療狹窄，**金屬支架**通常僅用於**預期壽命 <6 個月**的患者
+
+
+
+---
+
+
+
+### 並發症 / Complications
+
+- **敗血症**
+
+- **出血**
+
+- **膽汁漏**
+
+- **膽道出血（Hemobilia）**（由動靜脈瘻引起）
+
+- **膿腫**
+
+
+
+---
+
+
+
+### 術後維護 / Maintenance
+
+- 建議每 **3 個月**進行預防性維護
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **PTC 適應症**：膽道減壓、膽道引流（術後/創傷後膽道損傷）
+
+- **預防性抗生素**：覆蓋革蘭氏陰性菌（常用左氧氟沙星）
+
+- **引流管禁忌抽吸**：避免腸道內容物返流致膽管炎
+
+- **金屬支架**：僅用於預期壽命 <6 個月的患者
+
+- **並發症**：敗血症、出血、膽汁漏、膽道出血、膿腫
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 717
+
+
+
+![Page 717](/core_radiology/images/interventional/page-717.png)
+
+
+
+## 膽道損傷 / Bile Duct Injury
+
+
+
+### 臨床特點 / Clinical Features
+
+- **膽道損傷最常見原因**：**腹腔鏡膽囊切除術**的醫源性損傷
+
+- 次常見原因：**原位肝移植**
+
+
+
+### 治療 / Treatment
+
+- 提供膽道分流至引流袋，使膽汁漏自行癒合
+
+
+
+---
+
+
+
+## 硬化性膽管炎 / Sclerosing Cholangitis
+
+
+
+### 臨床特點 / Clinical Features
+
+- **硬化性膽管炎**為慢性炎性及纖維化過程，導致**肝內外膽管多發性狹窄**
+
+- 表現：**阻塞性黃疸、全身不適、腹痛**
+
+- **男性較常見**，與**炎症性腸病（潰瘍性結腸炎）**相關
+
+
+
+### 診斷要點 / Diagnostic Key Points
+
+- 最終導致**膽汁性肝硬化**，並增加**膽管癌**風險
+
+
+
+### 治療 / Treatment
+
+- 最終治療：**肝移植**
+
+- 經皮膽道引流可緩解**阻塞性黃疸**的症狀（姑息治療）
+
+
+
+### 多發性膽道狹窄的鑑別診斷 / Differential Diagnosis of Multifocal Biliary Strictures
+
+
+
+| 疾病 |
+
+|------|
+
+| 硬化性膽管炎 |
+
+| 原發性膽汁性肝硬化 |
+
+| 多灶性膽管癌 |
+
+| 慢性細菌性膽管炎 |
+
+| AIDS 膽管炎 |
+
+
+
+---
+
+
+
+## 惡性膽道梗阻 / Malignant Biliary Obstruction
+
+
+
+### 臨床特點 / Clinical Features
+
+- **單側肝內膽管系統（左或右）梗阻**：
+
+  - 病因：轉移性疾病或膽管原發惡性腫瘤
+
+  - 多數情況下**只需治療受影響側的膽道系統**
+
+- **肝門部梗阻（Hilar Obstruction）**：
+
+  - 最常見病因：**肝門部膽管癌（Klatskin Tumor）**
+
+  - 通常需在**左、右各放置一枚引流管**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **膽道損傷**：腹腔鏡膽囊切除術為最常見原因；治療為膽道分流至引流袋
+
+- **硬化性膽管炎**：膽管多發狹窄 + 男性 + IBD 史；可致膽汁性肝硬化及膽管癌；最終需肝移植
+
+- **惡性膽道梗阻**：單側梗阻只需治療患側；肝門部膽管癌（Klatskin）需雙側引流
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 718
+
+
+
+![Page 718](/core_radiology/images/interventional/page-718.png)
+
+
+
+## 膽囊 / Gallbladder
+
+
+
+---
+
+
+
+## 急性膽囊炎 / Acute Cholecystitis
+
+
+
+### 適應症 / Indications
+
+- **經皮膽囊引流（膽囊造口術，Cholecystostomy）**的適應症：
+
+  - 適用於**不適合手術的急性結石性或非結石性膽囊炎**患者
+
+  - 對於結石性膽囊炎，膽囊造口術是**膽囊切除術前的臨時措施**
+
+  - 對於**非結石性膽囊炎**，膽囊造口術可能**可達到治愈而無需手術**
+
+
+
+### 重要 note
+
+- **約 40% 的急性膽囊炎患者培養結果為陰性**
+
+
+
+### 術前準備 / Pre-Procedure
+
+- 與 PTC 類似，術前給予**預防性抗生素**
+
+
+
+---
+
+
+
+## 膽囊穿刺入路 / Percutaneous Approaches to the Gallbladder
+
+
+
+### 經肝入路（Transhepatic Approach）
+
+
+
+| 特點 | 說明 |
+
+|------|------|
+
+| **入路** | 右腋中線，穿刺針穿過肝臟指向膽囊窩無腹膜覆蓋區（bare area）|
+
+| **超聲引導** | 超聲定位 |
+
+| **優點** | **腹膜膽汁漏風險較低** |
+
+| **缺點** | **肝撕裂風險增加** |
+
+| **應用** | 更常用 |
+
+
+
+### 經腹膜入路（Transperitoneal Approach）
+
+
+
+| 特點 | 說明 |
+
+|------|------|
+
+| **入路** | 右前腹肋緣下，穿刺針穿過肝臟下方進入膽囊（避開肝臟）|
+
+| **優點** | 肝損傷風險較低 |
+
+| **缺點** | **腹膜膽汁漏風險增加** |
+
+
+
+---
+
+
+
+## 拔管標準 / Drain Removal Criteria
+
+
+
+膽道引流管拔除需滿足以下所有條件：
+
+
+
+| 條件 | 說明 |
+
+|------|------|
+
+| **臨床改善** | 患者臨床症狀好轉 |
+
+| **膽管通暢** | 復查膽道造影顯示**膽囊管及總膽管通暢** |
+
+| **時間要求** | 放置後**至少 6 週**，以確保從膽囊到皮膚建立成熟的纖維竇道 |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **膽囊造口術**：不適手術的急性結石/非結石性膽囊炎；可作為結石性膽囊炎的橋接治療；非結石性可達治愈
+
+- **培養陰性率**：40% 急性膽囊炎培養陰性
+
+- **經肝入路**：更常用；腹膜膽汁漏風險低；肝撕裂風險高
+
+- **經腹膜入路**：肝損傷風險低；但腹膜膽汁漏風險高
+
+- **拔管三原則**：臨床改善 + 膽囊管/總膽管通暢 + 至少 6 週（確保竇道成熟）
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 719
+
+
+
+![Page 719](/core_radiology/images/interventional/page-719.png)
+
+
+
+## 經皮腎造口術 / Percutaneous Nephrostomy (PCN)
+
+
+
+---
+
+
+
+### 適應症 / Indications
+
+
+
+| 適應症 | 說明 |
+
+|--------|------|
+
+| **尿路梗阻的尿液分流** | 最常見適應症；可由結石、惡性腫瘤或狹窄引起 |
+
+| **腎積膿（Pyonephrosis）** | 收集系統積膿；為**緊急適應症** |
+
+| **逆行支架無法放置時** | 可用於放置順行性輸尿管支架（經膀胱鏡逆行放置失敗時）|
+
+
+
+---
+
+
+
+### 穿刺技術 / Technique
+
+
+
+### 影像引導 / Imaging Guidance
+
+- 直接顯示收集系統是必要條件
+
+- 多數情況下，尿路梗阻導致**腎積水**，可超聲定位穿刺
+
+- 若收集系統無擴張：靜脈注射造影劑顯影非擴張收集系統，在透視下引導穿刺
+
+
+
+### 體位與入路 / Position and Access
+
+- **俯臥位**
+
+- 使用 **22G 穿刺針**進行**直接後入路**
+
+
+
+### 減少出血並發症 / Minimizing Bleeding Complications
+
+- 穿刺進入**無血管區（Brodel 線，avascular zone of Brodel）**
+
+- 定義：**腎臟腹側與背側分支动脉之間的平面**
+
+
+
+### 並發症 / Complications
+
+- 最常見：**出血及感染**
+
+- 幾乎所有患者都會有**短暫性血尿**，但嚴重出血並發症罕見
+
+- 原有感染時：廣泛操作可致**敗血症**風險
+
+
+
+---
+
+
+
+### 經皮胃造口術 / Percutaneous Gastrostomy
+
+
+
+### 適應症 / Indications
+
+- **食道、頭頸部及神經系統疾病**可能需要經皮胃造口
+
+- **重要說明**：有強烈證據表明胃造口**不能改善癡呆及攝入減少的老年患者的生存率或生活質量**
+
+- **較少見適應症**：長期腸道減壓（如惡性腸梗阻或長期腸梗阻的姑息治療）
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **PCN 最常見適應症**：梗阻性腎病的尿液分流（結石/腫瘤/狹窄）；腎積膿為緊急適應症
+
+- **穿刺入路**：俯臥位；22G 穿刺針後入路；進入 Brodel 無血管區以減少出血
+
+- **並發症**：短暫性血尿常見；原有感染操作有敗血症風險
+
+- **經皮胃造口**：頭頸/食道/神經疾病；不改善老年癡呆患者預後；可長期腸道減壓
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 720
+
+
+
+![Page 720](/core_radiology/images/interventional/page-720.png)
+
+
+
+## 經皮胃造口術（續）/ Percutaneous Gastrostomy (Continued)
+
+
+
+### 禁忌症 / Contraindications
+
+- **絕對禁忌症**：
+
+  - 缺乏合適的穿刺窗（如結腸位於中間）
+
+  - 廣泛性胃靜脈曲張
+
+  - 無法糾正的凝血病
+
+
+
+### 操作步驟 / Procedure
+
+1. 在透視引導下插入**鼻胃管**，向胃內注入空氣
+
+2. 透視引導下，使用**三枚 T 形固定夾（T-fastener gastropexy clips）**將胃前壁固定於腹壁
+
+3. 固定夾置入後，胃壁與腹壁牢固贴合，行正式胃造口穿刺並逐步擴張
+
+4. 評估患者**無腹膜徵象**後，**24 小時後**即可使用胃造口
+
+5. G 管需保留**至少一個月**，以形成成熟的經腹膜竇道
+
+
+
+---
+
+
+
+## 下肢血管造影 / Lower Extremity Angiography
+
+
+
+---
+
+
+
+## 下肢血管正常解剖 / Normal Anatomy of the Leg Vasculature
+
+
+
+---
+
+
+
+### 下肢动脉解剖 / Arterial Anatomy of the Leg
+
+
+
+| 动脉 | 說明 |
+
+|------|------|
+
+| **股动脉（Femoral Artery）** | 腹股溝韌帶遠端，髂外动脉的延續 |
+
+| **股深动脉（Deep Femoral Artery）** | 分支供應大腿深層肌肉 |
+
+| **旋髂淺动脉（Superficial Circumflex Iliac Artery）** | |
+
+| **淺股动脉（Superficial Femoral Artery, SFA）** | 繼續供應小腿及足部 |
+
+| **膕动脉（Popliteal Artery）** | SFA 穿過收肌裂孔後延續為膕动脉 |
+
+| **脛後动脉（Posterior Tibial Artery）** | 最內側分支 |
+
+| **腓动脉（Peroneal Artery）** | 起自脛腓干，與脛後动脉同行 |
+
+| **脛前动脉（Anterior Tibial Artery）** | 最外側分支；為小腿唯一的前方动脉 |
+
+
+
+### 記憶法 / Mnemonic
+
+- 脛前动脉位於**外側**，因為小腿前外側只有**前室**的肌肉（前脛肌）
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **胃造口**：鼻胃管充氣 → T 形固定夾固定 → 擴張穿刺道 → 24 小時後可用；至少保留 1 個月
+
+- **胃造口禁忌**：無穿刺窗、廣泛胃靜脈曲張、凝血病不可糾正
+
+- **下肢动脉**：股动脉 → SFA → 膕动脉 → 脛後/腓/脛前动脉（由內到外）；脛前动脉在外側
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 721
+
+
+
+![Page 721](/core_radiology/images/interventional/page-721.png)
+
+
+
+## 遠端主動脈、髂动脉、盆腔及下肢动脉 / Distal Aorta, Iliac, Pelvic, and Leg Arteries
+
+
+
+---
+
+
+
+### 粥樣硬化性遠端主動脈閉塞性疾病（Leriche 綜合徵）/ Atherosclerotic Distal Aortic Occlusive Disease (Leriche Syndrome)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **Leriche 綜合徵**為遠端腹主動脈的慢性閉塞性粥樣硬化性疾病
+
+- **經典型四聯徵**：
+
+  1. **陽痿（Impotence）**
+
+  2. **臀部間歇性跛行（Buttock Claudication）**
+
+  3. **股动脉搏動消失（Absent Femoral Pulses）**
+
+  4. **下肢發涼（Cold Lower Extremities）**
 
 
 
 ### 側支循環 / Collateral Circulation
 
-- 主動縮窄時，體循環間會建立明顯側支循環
-
-- 主要側支：內胸动脉 ↔ 腹壁上动脉 ↔ 腹壁下动脉
-
-- 其他側支：內胸动脉 ↔ 肋間动脉
-
-
-
-### X 光所見 / Radiographic Findings
-
-| 徵象 | 說明 |
-
-|------|------|
-
-| **左心緣「3」字徵（3 sign）** | 主動局部狹窄與狹窄後擴張的雙重膨出 |
-
-| **肋骨壓跡（Rib notching）** | 側支肋間动脉對肋骨的壓迫侵蝕 |
-
-
-
-### 影像評估 / Imaging Evaluation
-
-| 檢查 | 目的 |
-
-|------|------|
-
-| **MRI/MRA** | 評估縮窄解剖及側支血管 |
-
-| **相位對比 MRI（Phase contrast MRI）** | 測量縮窄兩端壓力差，評估血流動力學意義 |
-
-| **CT 血管造影** | 清晰顯示縮窄及側支循環 |
-
-
-
-### 假性縮窄 / Pseudocoarctation
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 主動局灶性狹窄，外觀類似真性縮窄 |
-
-| 關鍵差異 | **無壓力差**、**無側支循環** |
-
-
-
-
-> **臨床要點**
-> - 成人型主動縮窄多位於近導管處，臨床表現在上肢高血壓
-> - 「3」字徵和肋骨壓跡是胸部 X 光的重要線索
-> - 相位對比 MRI 可評估縮窄的血流動力學顯著性
-> - 假性縮窄外觀類似但無血流動力學影響，側支循環是否存在是關鍵鑑別點
-
-
-
-![Page 682](/core_radiology/images/cardiovascular/page-682.png)
-
-
-
-## 冠狀动脉 CT 血管造影 / Coronary CT Angiography (CCTA)
-
-
-
-### 臨床應用證據 / Evidence for Clinical Use
-
-
-
-### 診斷效能 / Diagnostic Performance
-
-| 項目 | 數據 |
-
-|------|------|
-
-| 排除顯著冠狀动脉疾病 | **Negative predictive value >90%** |
-
-| 顯著狹窄定義 | **>50% 管腔直徑** |
-
-
-
-### 臨床試驗結果 / Clinical Trial Results
-
-| 試驗 | 結論 |
-
-|------|------|
-
-| **ACRIN-PA** | 早期 CCTA 提升效率、改善臨床決策、縮短住院時間 |
-
-| **ROMICAT-II** | 早期 CCTA 提升效率及臨床決策，但輻射劑量增加，無顯著成本差異 |
-
-
-
-### 重要限制 / Important Limitation
-
-- CCTA 對顯著狹窄敏感，但**鈣化斑塊可能產生光暈假影（blooming artifact）**，導致過度診斷
+- 隨時間進展，發展出從**胸腹主動脈到髂外动脉**的豐富側支，最常見為**前、中、後路徑**
 
 
 
@@ -2116,67 +3232,29 @@ weight: 9
 
 
 
-### 心電圖同步與輻射劑量 / ECG Gating and Radiation Dose
+### 髂动脉粥樣硬化性疾病 / Iliac Atherosclerotic Disease
 
 
 
-### 劑量估算 / Dose Estimation
+### 介入治療適應症 / Indications for Percutaneous Intervention
 
-- **劑量-長度乘積（DLP）× 0.017 = 有效劑量（mSv）**
-
-
-
-### 同步方式比較 / Gating Methods Comparison
-
-| 方式 | 優點 | 缺點 |
-
-|------|------|------|
-
-| **回顧性同步（Retrospective）** | 可建立電影重組評估心臟及瓣膜功能（每心跳 10-20 幀）| 輻射劑量顯著增加 |
-
-| **前瞻性同步（Prospective）** | 輻射劑量較低 | 僅取得部分心動周期，無法做電影重組 |
+- 經皮介入治療對合適的**主髂动脉粥樣硬化性限流病變**有效且耐受性良好
 
 
 
----
+### 病變分型與治療 / Lesion Classification and Treatment
 
 
 
-### 空間解析度與狹窄分級 / Spatial Resolution and Stenosis Grading
+| 病變類型 | 長度 | 治療建議 |
 
+|---------|------|---------|
 
+| **Type A** | 非鈣化、同心圓狹窄 **<3 cm** | **PTA（經皮腔內血管成形術）為首選** |
 
-### 解析度對比 / Resolution Comparison
+| **Type B/C** | 長度 **3–10 cm** | PTA 或手術均可 |
 
-| 參數 | 數據 |
-
-|------|------|
-
-| 冠狀动脉平均管腔直徑 | 約 **3 mm** |
-
-| CT 等向體素解析度 | **0.35–0.5 mm**（僅 6–9 體素覆盖整個管腔）|
-
-| 心導管造影解析度 | **0.16 mm**（約 18 體素）|
-
-
-
-### 狹窄分類 / Stenosis Classification
-
-| 分類 | 臨床意義 |
-
-|------|---------|
-
-| **<20%** | 輕度 |
-
-| **20–50%** | 中度 |
-
-| **50–70%** | 中重度 |
-
-| **>70%** | 重度（考慮血行動力學顯著性）|
-
-
-
-> ⚠️ **>50% 狹窄被視為潛在血行動力學顯著性病變；<50% 則不具顯著性。**
+| 術後支架置入指徵 | — | 殘餘狹窄 **>30%** 或靜息收縮壓差 **>10 mm Hg** |
 
 
 
@@ -2184,17 +3262,13 @@ weight: 9
 
 
 
-### 時間解析度 / Temporal Resolution
+## 臨床要點 / Clinical Key Points
 
 
 
-| 設備 | 旋轉時間 | 時間解析度 |
+- **Leriche 綜合徵**：遠端主動脈閉塞；陽痿+臀部跛行+股动脉搏動消失+下肢涼 = 經典型四聯徵
 
-|------|---------|----------|
-
-| 傳統 CT | 330 ms | ~175 ms（需 >180°）|
-
-| **雙源 CT（Dual source）** | — | **~75 ms**（僅需 90°）|
+- **髂动脉狹窄**：Type A（<3 cm 非鈣化）首選 PTA；3-10 cm 可選 PTA 或手術；術後壓差 >10 mm Hg 或殘餘 >30% 需支架
 
 
 
@@ -2202,344 +3276,227 @@ weight: 9
 
 
 
-### 檢查前準備 / Pre-Procedure
+# Interventional Radiology - Page 722
 
-- 建議目標心率：**<60 bpm**（以最大化 R-R 間期）
 
 
+![Page 722](/core_radiology/images/interventional/page-722.png)
 
 
-> **臨床要點**
-> - CCTA 是排除血行動力學顯著冠狀动脉疾病的優秀工具，Negative predictive value 超過 90%
-> - 回顧性同步可評估心臟功能，但輻射劑量較高
-> - CT 空間解析度有限，狹窄分級僅能以類別區分（<20%、20-50%、50-70%、>70%）
-> - 雙源 CT 的時間解析度顯著提升（~75 ms），可更好地「凍結」心臟運動
-> - 檢查前需控制心率以優化影像品質
 
+## 髂动脉瘤 / Iliac Artery Aneurysm
 
 
-![Page 683](/core_radiology/images/cardiovascular/page-683.png)
 
+### 定義與治療指徵 / Definition and Treatment Indications
 
+- **髂动脉瘤定義**：直徑 **>1.5 cm**
 
-## 冠狀动脉 CT 血管造影（續）/ CCTA (Continued)
-
-
-
-### 檢查前準備 / Pre-Procedure Preparation
-
-
-
-### 藥物準備 / Pharmacologic Preparation
-
-| 藥物 | 劑量 | 目的 |
-
-|------|------|------|
-
-| **口服美托洛爾（Metoprolol）** | 5–25 mg（通常每次 5 mg）| 降低心率至 <60 bpm |
-
-| **舌下硝酸甘油（Nitroglycerin）** | 0.5–0.8 mg | 擴張冠狀动脉 |
-
-
-
-> ⚠️ 口服 β-受體阻斷劑較靜脈注射更能控制心率並減少心率變異。
-
-
-
----
-
-
-
-### 冠狀动脉解剖 / Coronary Artery Anatomy
-
-
-
-### 主動脈竇 Coronary Sinuses
-
-| 竇名 | 位置 | 冠狀动脉起源 |
-
-|------|------|-------------|
-
-| **右冠狀竇（Right coronary sinus）** | 前方 | 右冠狀动脉（RCA）|
-
-| **左冠狀竇（Left coronary sinus）** | 左後方 | 左主冠狀动脉（LMCA）|
-
-| **無冠狀竇（Noncoronary sinus）** | 右後方 | 無冠狀动脉起源 |
-
-
-
-### 冠狀动脉起源異常 / Anomalous Coronary Artery Origin
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 常見變異 | **高位發起（High take-off）**：起源於竇管連接處或其上方 |
-
-| 最常見異常 | 高位發起 |
-
-| 解剖方向 | 如圖為解剖方位，面向患者正面 |
-
-
-
-
-> **臨床要點**
-> - 目標心率 <60 bpm 通常需要 β-受體阻斷劑
-> - 舌下硝酸甘油可擴張冠狀动脉以獲得更好顯影
-> - 口服 β-受體阻斷劑控制心率效果優於靜脈注射
-> - 冠狀动脉最常見於竇 Valsalva 起源
-
-
-
-![Page 684](/core_radiology/images/cardiovascular/page-684.png)
-
-
-
-## 冠狀动脉解剖（續）/ Coronary Artery Anatomy (Continued)
-
-
-
-### 左主冠狀动脉 / Left Main Coronary Artery (LMCA)
-
-
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 位置 | 行經肺动脉與左心耳之間 |
-
-| 分支 | 分叉為**左前降支（LAD）**及**左迴旋支（LCx）** |
-
-| 變異 | 可有 Ramus 分支，形成三分叉 |
-
-
-
-### 左前降支 / Left Anterior Descending (LAD)
-
-
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 行徑 | 前室間溝（左右心室間的解剖溝）|
-
-| 分支 | **對角支（Diagonal branches）**、**間隔支（Septal branches）** |
-
-| 供血範圍 | 室間隔前半部 |
-
-
-
-### 左迴旋支 / Left Circumflex (LCx)
-
-
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 行徑 | 左心耳下方，左房室溝（左右心室與左心房之間）|
-
-| 分支 | **頓緣支（Obtuse marginal, OM）**：供應左心室側壁 |
-
-| 變異 | 約 **7%** 可供應後降支（PDA），為左主型標準 |
-
-
-
-### 右冠狀动脉 / Right Coronary Artery (RCA)
-
-
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 行徑 | 右房室溝（與 LCx 對稱）|
-
-| 分支 1 | **圓錐支（Conal branch）**：前方，供應右心室輸出道 |
-
-| 分支 2 | **竇房結支（SA nodal branch）**：後方 |
-
-| 分支 3 | **急性邊緣支（Acute marginal）**：沿右心室游離壁 |
-
-| 分支 4 | **房室結支（AVN）**：在十字處（所有四腔交匯處）分出 |
-
-| 分支 5 | **後降支（PDA）**：約 **85%** 由 RCA 分出，供應室間隔後半部 |
-
-| 終末分支 | **後外側支（PLA）**：供應左心室後壁 |
-
-
-
-
-> **臨床要點**
-> - LMCA 行經肺动脉與左心耳之間，分叉為 LAD 及 LCx
-> - LAD 行經前室間溝，分出對角支及間隔支
-> - LCx 行經左房室溝，分出頓緣支供應左心室側壁
-> - RCA 與 LCx 行徑對稱，在約 85% 的人中 RCA 為 dominant artery
-> - Dominance 取決於誰供應 PDA、PLA 及 AVN
-
-
-
-![Page 685](/core_radiology/images/cardiovascular/page-685.png)
-
-
-
-## 冠狀动脉顯性判定及結構異常 / Dominance & Structural Anomalies
-
-
-
-### 顯性判定 / Determination of Dominance
-
-
-
-| 顯性類型 | 發生率 | 供應血管 |
-
-|---------|--------|---------|
-
-| **右主型（Right-dominant）** | 約 **85%** | RCA 供應 PDA、PLA、AVN |
-
-| **左主型（Left-dominant）** | 約 **7%** | LCx 供應 PDA、PLA、AVN |
-
-| **雙主型（Codominant）** | 約 **7%** | RCA 供應 PDA，LCx 供應 PLA |
-
-
-
----
-
-
-
-### 冠狀动脉起源異常 / Anomalies of Coronary Artery Origin
-
-
-
-### 惡性異常（Malignant Anomalies）
-
-| 異常類型 | 說明 |
-
-|---------|------|
-
-| **肺动脉起源的冠狀动脉（ALCAPA/ARCAPA）** | 任何冠狀动脉起源於肺动脉，極罕見但致死性 |
-
-| 右冠狀动脉起源於左冠狀竇 | 惡性 |
-
-| 左主冠狀动脉起源於右冠狀竇 | 惡性 |
-
-| LCx 或 LAD 起源於右冠狀竇 | 惡性 |
-
-| 任何冠狀动脉起源於無冠狀竇 | 惡性 |
-
-
-
-### 潛在惡性異常（Potentially Malignant）
-
-- 起源於對側冠狀竇，取決於其行徑
-
-
-
----
-
-
-
-### 冠狀动脉行徑異常 / Anomalies of Coronary Artery Course
-
-
-
-| 行徑類型 | 臨床意義 |
-
-|---------|---------|
-
-| **主動脉-肺动脉間行徑（Interarterial）** | **惡性**：主動脉與肺动脉間行走，運動時猝死風險高 |
-
-| 主動脉後行徑（Retroaortic）| 良性 |
-
-| 肺动脉前行徑（Prepulmonic）| 良性 |
-
-| 間隔行徑（Septal）| 良性 |
-
-| **壁內行徑（Intramural）** | **惡性**：冠狀动脉在主動脉壁內行走一小段，通常為裂隙狀結構，猝死風險高 |
-
-
-
----
-
-
-
-### 壁內行徑 / Intramural Course
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 特徵 | 冠狀动脉在主動脉壁內行走短距離 |
-
-| CCTA 表現 | 裂隙樣結構（slit-like configuration）|
-
-| 治療 | 搭橋移植、再植入手術、或「去頂術（unroofing procedure）」 |
-
-
-
----
-
-
-
-### 良性冠狀动脉異常 / Benign Coronary Artery Anomaly
-
-- 任何**不在主動脉與肺动脉之間**行走的冠狀动脉均屬良性
-
-- 例如：肺动脉前行徑的 LAD
-
-
-
-
-> **臨床要點**
-> - **顯性判定**：取決於誰供應 PDA、PLA 和 AVN
-> - **主動脉-肺动脉間行徑（Interarterial）是最重要的惡性行徑異常**，猝死風險可達 40%
-> - ALCAPA 若不治療，嬰兒期死亡率超過 90%
-> - MDCT（含 CCTA）是評估冠狀动脉解剖異常的最佳工具
-> - 壁內行徑治療方式包括去頂術，是較新且保留竇的手術方式
-
-
-
-![Page 686](/core_radiology/images/cardiovascular/page-686.png)
-
-
-
-## 惡性冠狀动脉異常 / Malignant Coronary Artery Anomalies
-
-
-
-**惡性冠狀动脉異常（Malignant Coronary Artery Anomaly）** 指冠狀动脉起源或行徑異常，導致猝死風險增加。
-
-
-
-### 發病機制 / Pathophysiology
-
-- **Interarterial 行徑**（主動脉與肺动脉或右心室輸出道之間行走）是最重要的惡性行徑
-
-- 運動時主動脉擴張可能壓迫異常血管，導致心肌梗塞
-
-- 猝死風險高達 **40%**
+- **修復建議**：直徑 **>3.0 cm** 時
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 異常類型 | 特點 |
+- 主要見於**老年男性**
 
-|---------|------|
+- 與**腹主動脈瘤（AAA）**密切相關
 
-| 左冠狀动脉起源於右冠狀竇 | 行走於主動脉與肺动脉之間 |
+- 最常見病因：**粥樣硬化**
 
-| 右冠狀动脉起源於左冠狀竇 | 行走於主動脉與右心室輸出道之間 |
+- 其他病因：**結締組織疾病**（如**馬凡綜合徵**）
 
-| 兩者皆可發生 Interarterial 行徑 | 猝死風險相似 |
+
+
+### 影像與治療 / Imaging and Treatment
+
+- 造影發現髂动脉狹窄時，建議行**橫斷面成像**
+
+- **首選治療**：血管內**覆膜支架（Stent-Graft）**（適合候選者）
+
+
+
+### 症狀性髂动脉瘤 / Symptomatic Iliac Aneurysm
+
+- 動脉瘤的**佔位效應**可引起**神經及泌尿系統症狀**
+
+- 此類情況建議**手術治療**
+
+
+
+---
+
+
+
+## 持續性坐骨动脉 / Persistent Sciatic Artery
+
+
+
+### 臨床特點 / Clinical Features
+
+- **極罕見**的血管畸形，胎兒坐骨动脉持續存在並供應下肢大部分血供
+
+- 起自**髂內动脉**（通常為**臀下动脉**），向下延續至膕动脉
+
+- 可能存在發育不良的股动脉
+
+
+
+### 臨床意義 / Clinical Significance
+
+- 可增加**動脉瘤形成**的風險
+
+
+
+---
+
+
+
+## 盆腔血管創傷 / Pelvic Vascular Trauma
+
+
+
+### 臨床特點 / Clinical Features
+
+- 盆腔創傷可因动脉損傷導致**災難性出血**
+
+- 恥骨聯合分離 **3 cm** 可使盆腔容積翻倍至約 **8 升**，可導致完全出血
+
+
+
+### 介入策略 / Interventional Approach
+
+- 活動性盆腔出血伴骨折時，血管造影通常在**骨科手術前**進行
+
+- 首先行**非選擇性盆腔动脉造影**，然後行**雙側髂內动脉（前、後幹）選擇性造影**
+
+
+
+### 栓塞策略 / Embolization Strategy
+
+- 由於盆腔側支血供豐富，可對髂內动脉前幹或後幹進行**快速非選擇性明膠海綿栓塞**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **髂动脉瘤**：>1.5 cm 定義；>3.0 cm 修復；老年男性；AAA 相關；血管內覆膜支架首選
+
+- **持續性坐骨动脉**：罕見；起自髂內动脉；可致动脉瘤
+
+- **盆腔血管創傷**：恥骨聯合 3 cm 分離可使盆腔容積增至 8 升；造影優先於骨科手術；側支豐富可非選擇性栓塞
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 723
+
+
+
+![Page 723](/core_radiology/images/interventional/page-723.png)
+
+
+
+## 子宮动脉栓塞術 / Uterine Artery Embolization (UAE)
+
+
+
+### 適應症 / Indications
+
+- **有症狀性子宮肌瘤的治療**
+
+- **產後出血**
+
+
+
+### 技術與目標 / Technique and Goal
+
+- **栓塞材料**：聚乙烯醇（PVC）顆粒
+
+- **目標**：使富血供肌瘤發生**出血性梗死**，同時保持內膜及肌層足夠灌注，**保留未來生育能力**
+
+
+
+### 並發症 / Complications
+
+- UAE 嚴重並發症率約 **1.25%**，對健康育齡女性需特別考慮
+
+- 嚴重並發症包括：
+
+  - **膿腫**
+
+  - **內膜炎**
+
+  - **卵巢壞死**（由非靶栓塞引起，導致後續**過早絕經**）
+
+
+
+---
+
+
+
+## 血栓栓塞性及粥樣硬化性下肢疾病 / Thromboembolic and Atherosclerotic Lower Extremity Disease
+
+
+
+---
+
+
+
+### 慢性动脉閉塞性疾病 / Chronic Arterial Occlusive Disease
+
+
+
+### 危險因素 / Risk Factors
+
+- 與冠心病相同：**吸煙、糖尿病、高血壓、高血脂、缺乏運動、家族史**
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 初期表現為**間歇性跛行**
+
+- 嚴重者可進展為**缺血性靜息痛**或**組織缺失**
 
 
 
 ### 治療 / Treatment
 
-- **手術搭橋移植（Surgical bypass grafting）**
+- 初期通常**保守治療**：危險因素控制、運動、阿司匹林和/或西洛他唑（Cilostazol）
+
+
+
+### 病變好發部位 / Common Locations
+
+- 常見部位：**髂總动脉、淺股动脉（SFA）、膕动脉、脛腓干、脛动脉起始部**
+
+
+
+### 分級系統 / Classification Systems
+
+- **Rutherford 分級**：慢性肢體缺血的臨床分類
+
+- **踝肱指數（ABI）**：每例疑似动脉閉塞患者均應測量
+
+  - ABI = 踝部收縮壓 / 臂部收縮壓
+
+  - ABI **<0.9** 為異常
+
+  - ABI 0.5–0.9：通常與間歇性跛行相關
+
+  - 靜息痛：通常 ABI **<0.4**
+
+- **脈搏容量記錄（PVR）**：多水平都卜勒波形特徵分析
 
 
 
@@ -2547,113 +3504,171 @@ weight: 9
 
 
 
-### 異常左冠狀动脉起源於肺动脉 / ALCAPA (Bland-White-Garland Syndrome)
+### 股膕动脉病變 / Femoropopliteal Disease
 
 
 
-### 疾病名稱 / Disease Name
+### TASC-II 分型與治療 / TASC-II Classification and Treatment
 
-**異常左冠狀动脉起源於肺动脉（Anomalous Left Coronary Artery from the Pulmonary Artery, ALCAPA）**，又稱**Bland-White-Garland 症候群**。
+
+
+| 分型 | 病變特徵 | 首選治療 |
+
+|------|---------|---------|
+
+| **Type A** | 單發狹窄 **≤10 cm** | **血管內治療** |
+
+| **Type B** | 多發病變，每個 **<5 cm**；或單發病變 **<15 cm** | 血管內治療 |
+
+| **Type C** | 多發狹窄或閉塞 **>15 cm** | 手術治療 |
+
+| **Type D** | 慢性完全閉塞 | **手術治療** |
+
+
+
+---
+
+
+
+### 急性血栓栓塞性疾病 / Acute Thromboembolic Disease
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- **急性肢體缺血**為急症
 
-|------|------|
+- 急性血栓栓塞典型表現：**疼痛、蒼白、肢冷（Poikilothermia）、無脈、感覺異常**
 
-| 發病率 | 極罕見但嚴重 |
+- **藍趾綜合徵（Blue Toe Syndrome）**：急性血栓栓塞至足趾
 
-| 自然病程 | 若不治療，**嬰兒期第一年死亡率超過 90%** |
 
-| 病理機制 | 左冠狀动脉起源於肺动脉，導致心肌缺血 |
+
+### 病因 / Etiology
+
+- 最常見栓子來源：**左心房血栓**；**心房顫動**為重要危險因素
+
+
+
+### 影像表現 / Imaging Findings
+
+- 造影顯示：受影響血管的**急性截斷**，常伴有**半月板徵（Meniscus Sign）**
 
 
 
 ### 治療 / Treatment
 
-| 年齡 | 治療方式 |
+- 選項：**手術栓子切除術**、**手術搭橋移植**、**血管內溶栓**
 
-|------|---------|
-
-| 兒童 | 直接種植異常冠狀动脉 |
-
-| 成人 | 結扎異常血管並搭橋移植 |
+- 血管內溶栓：親水導絲穿越病變 → 多側孔輸注導管跨血栓放置 → **tPA 0.5 mg/h，持續 48–72 小時**
 
 
 
-### 罕見變異：ARCAPA
-
-- **異常右冠狀动脉起源於肺动脉（ARCAPA）**：較少見，治療方式相似
+---
 
 
 
-
-> **臨床要點**
-> - 惡性冠狀动脉異常（Interarterial 行徑）運動時猝死風險高達 40%
-> - ALCAPA/Bland-White-Garland 症候群若不治療，嬰兒期死亡率超過 90%
-> - ALCAPA 治療首選手術，方式因年齡而異
-> - ARCAPA 較少見，治療原則與 ALCAPA 相似
-> - 早期診斷對改善預後至關重要
+## 臨床要點 / Clinical Key Points
 
 
 
-![Page 687](/core_radiology/images/cardiovascular/page-687.png)
+- **UAE**：肌瘤及產後出血；目標是肌瘤出血性梗死但保留生育能力；嚴重並發症率 1.25%（膿腫、內膜炎、卵巢壞死/過早絕經）
+
+- **慢性下肢动脉閉塞**：危險因素同冠心病；跛行初始保守；ABI 診斷（<0.9 異常；<0.4 靜息痛）；Rutherford 分級
+
+- **股膕动脉 TASC-II**：Type A/B 血管內首選；Type C/D 手術首選
+
+- **急性肢體缺血**：5P（疼痛、蒼白、肢冷、無脈、感覺異常）；心房顫動常為病因；tPA 溶栓 48-72h
 
 
 
-## 心肌橋樑及心臟 MRI / Myocardial Bridging & Cardiac MRI
+---
 
 
 
-### 心肌橋樑 / Myocardial Bridging
+# Interventional Radiology - Page 724
 
 
 
-### 疾病名稱 / Disease Name
+![Page 724](/core_radiology/images/interventional/page-724.png)
 
-**心肌橋樑（Myocardial Bridging）** 是指心肌纖維帶覆蓋於冠狀动脉某段之上的現象。
+
+
+## 上肢血管造影 / Upper Extremity Angiography
+
+
+
+---
+
+
+
+## 上肢血管正常解剖 / Normal Anatomy of the Upper Extremity Vasculature
+
+
+
+---
+
+
+
+### 上肢动脉解剖 / Arterial Anatomy of the Upper Extremity
+
+
+
+| 动脉 | 說明 |
+
+|------|------|
+
+| **主動弓** | 發出三支大血管：無名动脉（頭臂干）、左頸總动脉、左鎖骨下动脉 |
+
+| **右鎖骨下动脉** | 起自頭臂干 |
+
+| **左鎖骨下动脉** | 直接起自主動弓 |
+
+| **腋动脉** | 鎖骨下动脉在第一肋外側延續為腋动脉 |
+
+| **肱动脉** | 腋动脉在大圓肌下緣延續為肱动脉 |
+
+| **橈/尺动脉** | 肱动脉在前臂近端分為橈动脉和尺动脉 |
+
+| **掌淺弓** | 由尺动脉形成（手的主要动脉供應）|
+
+| **掌深弓** | 由橈动脉形成 |
+
+
+
+### 記憶法 / Key Point
+
+- **手的主要动脉供應**：掌淺弓（來自尺动脉）
+
+
+
+---
+
+
+
+### 鎖骨下盜血綜合徵 / Subclavian Steal Syndrome
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- **鎖骨下盜血綜合徵**：鎖骨下动脉在**椎动脉起源近端**狹窄或閉塞，導致**椎动脉逆流**供應手臂
 
-|------|------|
+- 最常見病因：**粥樣硬化**，通常在左鎖骨下动脉起源處
 
-| 最常見位置 | **中段 LAD（Mid-LAD）** |
-
-| 症狀 | 通常無症狀，但可引起心絞痛、心肌梗塞甚至猝死 |
-
-| 評估方法 | 若懷疑為症狀來源，建議進一步評估（運動心肌灌注檢查）|
+- 可無症狀，或表現為**椎基底动脉供血不足**症狀（尤其是手臂運動時），如眩暈或暈厥
 
 
 
----
+### 診斷 / Diagnosis
+
+- 都卜勒超聲：**椎动脉逆流**
 
 
 
-### 心臟 MRI 概述 / Overview of Cardiac MRI
+### 治療 / Treatment
 
-
-
-### 技術基礎 / Technical Basis
-
-| 序列 | 特點 |
-
-|------|------|
-
-| **SSFP（Steady-State Free Precession）** | 「白血」序列，心肌與血池對比極佳，高時間解析度 |
-
-| **梯度迴波電影序列（Cine GRE）** | 心臟形態及功能定量評估 |
-
-| **雙或三反轉快速自旋迴波（Double/Triple IR FSE）** | 組織特徵化 |
-
-
-
-### 臨床應用 / Clinical Applications
+- **血管內支架**或**手術搭橋**（頸總-鎖骨下或鎖骨下-鎖骨下搭橋）
 
 
 
@@ -2661,19 +3676,15 @@ weight: 9
 
 
 
-### 對比增強灌注 MRI / Contrast-Enhanced Perfusion MRI
+## 臨床要點 / Clinical Key Points
 
 
 
-| 項目 | 說明 |
+- **上肢动脉主動弓分支**：無名动脉、左頸總、左鎖骨下（右鎖骨下起自無名动脉）
 
-|------|------|
+- **掌淺弓**：來自尺动脉，為手主要血供
 
-| 原理 | 首次通過對比增強，擴張血管前後評估心肌灌注 |
-
-| 正常表現 | 正常心肌有對比增強 |
-
-| 異常表現 | 灌注減少區域呈現相對低增強 |
+- **鎖骨下盜血**：鎖骨下动脉狹窄導致椎动脉逆流；眩暈/暈厥（尤其手臂運動時）；都卜勒確診；治療：支架或搭橋
 
 
 
@@ -2681,101 +3692,1079 @@ weight: 9
 
 
 
-### 延遲增強 MRI / Delayed Contrast-Enhanced MRI (DE-MRI)
+# Interventional Radiology - Page 725
 
 
 
-### 原理 / Principle
-
-- 正常：心肌細胞與間質空間比值恆定
-
-- 異常：比值改變，最常見於心肌梗塞（心肌細胞被疤痕組織取代）
+![Page 725](/core_radiology/images/interventional/page-725.png)
 
 
 
-### 延遲增強分型 / Patterns of Delayed Enhancement
+## 胸廓出口綜合徵 / Thoracic Outlet Syndrome (TOS)
 
 
+
+### 臨床特點 / Clinical Features
+
+- **胸廓出口綜合徵（TOS）**：神經血管束在胸廓出口（鎖骨與第一肋之間的空間）受壓
+
+
+
+### 分型與表現 / Classification and Presentation
+
+
+
+| 分型 | 發生率 | 表現 |
+
+|------|--------|------|
+
+| **神經性 TOS** | 最常見（95%）| 手臂和手部的疼痛、感覺異常、無力 |
+
+| **靜脈性 TOS（Paget-Schroetter 綜合徵）** | | 手臂腫脹、用力相關靜脈血栓形成 |
+
+| **動脉性 TOS** | | 手臂間歇性跛行或手指缺血 |
+
+
+
+### 影像 / Imaging
+
+- 胸部 X 光、頸椎 X 光、不同手臂位置的 MR/CT 血管造影、傳統血管造影
+
+
+
+### 治療 / Treatment
+
+| 分型 | 治療 |
+
+|------|------|
+
+| 神經性 TOS | 首選**保守物理治療** |
+
+| 靜脈性 TOS | 溶栓 + 第一肋切除 |
+
+| 動脉性 TOS | 手術減壓 |
+
+
+
+---
+
+
+
+## 手臂及手部缺血 / Arm and Hand Ischemia
+
+
+
+### 急性手臂缺血 / Acute Arm Ischemia
+
+- 病因：動脉栓塞（常來自心房顫動）或動脉血栓形成
+
+- 手是最常見急性缺血部位
+
+- **藍指綜合徵（Blue Finger Syndrome）**：急性指動脉閉塞
+
+
+
+### 慢性手臂缺血 / Chronic Arm Ischemia
+
+- 最常見病因：**粥樣硬化**
+
+- 其他病因：**血栓閉塞性血管炎（Buerger 病）**：典型影響年輕男性吸煙者
+
+
+
+### Raynaud 現象 / Raynaud Phenomenon
+
+- 突發性手指缺血，由**冷或情緒壓力**引發，由指動脉痙攣引起
+
+- **原發性 Raynaud（Raynaud 病）**：更常見，良性
+
+- **繼發性 Raynaud**：與**結締組織疾病**相關
+
+
+
+### 治療 / Treatment
+
+- 避免寒冷、戒煙、鈣通道阻滯劑；嚴重者可行**手指交感神經切除術**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **TOS**：神經性最常見（95%）；靜脈性（Paget-Schroetter）為手臂腫脹+血栓；靜脈性溶栓+第一肋切除；神經性首選物理治療
+
+- **急性手臂缺血**：栓塞（房顫）或血栓；手最常受累；藍指綜合徵
+
+- **慢性手臂缺血**：粥樣硬化最常見；Buerger 病（年輕男性吸煙者）
+
+- **Raynaud**：冷/情緒誘發；原發性良性，繼發性與結締組織病相關
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 726
+
+
+
+![Page 726](/core_radiology/images/interventional/page-726.png)
+
+
+
+## 血管創傷 / Vascular Trauma
+
+
+
+---
+
+
+
+## 穿透傷 / Penetrating Trauma
+
+
+
+### 臨床特點 / Clinical Features
+
+- 四肢穿透傷可損傷动脉、靜脈或兩者
+
+- 穿透傷與鈍性創傷相比，更常見**孤立性动脉損傷**
+
+
+
+### 臨床徵象 / Clinical Signs
+
+
+
+| 類別 | 徵象 | 意義 |
+
+|------|------|------|
+
+| **Hard Signs（硬徵象）** | 擴大性血腫、搏動性出血、可聞及雜音、可觸及震顫、急性缺血 | **需立即手術干預** |
+
+| **Soft Signs（軟徵象）** | 非擴大性血腫、穩定血腫、中度出血史、脈搏減弱 | 需進一步評估 |
+
+
+
+### 影像與治療 / Imaging and Treatment
+
+- 評估方法：都卜勒超聲、CTA 或傳統血管造影
+
+- **Hard Signs 的穿透傷**：直接手術，不需術前影像
+
+- **治疗**：手術修復（側壁血管修補術、切除對端吻合、間置移植）或血管內修復（覆膜支架）
+
+
+
+---
+
+
+
+## 鈍性創傷 / Blunt Trauma
+
+
+
+### 臨床特點 / Clinical Features
+
+- 鈍性創傷可致动脉**夾層、假性动脉瘤或離斷**
+
+- **膝關節脫位最常見的动脉損傷**：膕动脉損傷
+
+- 醫源性动脉損傷可發生於骨科、血管或其他手術
+
+
+
+### 與穿透傷的比較 / Comparison with Penetrating Trauma
+
+- 鈍性創傷更易並發**動靜脈瘻（AVF）**
+
+
+
+---
+
+
+
+## 血液透析通路 / Hemodialysis Access
+
+
+
+---
+
+
+
+### 概述 / Overview
+
+- 血液透析要求血管通路血流量至少 **400 mL/min**
+
+
+
+### 主要通路類型 / Main Access Types
+
+
+
+| 類型 | 說明 |
+
+|------|------|
+
+| **自體動靜脈瘻（AVF）** | **首選**：感染率及血栓率最低，通暢時間最長 |
+
+| **動靜脈移植（AVG）** | 使用人工合成材料（如 PTFE）連接動靜脈；可為直型或襻型 |
+
+| **隧道式透析導管** | 置於頸內靜脈或鎖骨下靜脈 |
+
+
+
+### 常見 AVF 位置 / Common AVF Sites
+
+- **最常見**：腕部橈动脉—頭靜脈瘻（**Brescia-Cimino 瘻**）
+
+- 其他：肘部肱头靜脈瘻、肱动脉—腋靜脈瘻
+
+
+
+### AVG 適應症 / AVG Indications
+
+- 自體靜脈不適合建立 AVF 時使用
+
+
+
+### 隧道式導管適應症 / Tunneled Catheter Indications
+
+- AVF/AVG 不可用時；或等待新瘻成熟期間使用
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **穿透傷硬徵象**：擴大性血腫、搏動性出血、雜音、震顫、急性缺血 = 立即手術
+
+- **膝關節脫位**：最常見膕动脉損傷
+
+- **透析通路**：AVF 首選（最低感染/血栓，最高通暢）；Brescia-Cimino（腕部）最常見；AVG（PTFE）用於靜脈不佳者；隧道式導管為過渡或最後手段
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 727
+
+
+
+![Page 727](/core_radiology/images/interventional/page-727.png)
+
+
+
+## 透析通路並發症 / Hemodialysis Access Complications
+
+
+
+---
+
+
+
+### 血栓形成 / Thrombosis
+
+- **最常見並發症**（AVF 及 AVG）
+
+- 通常由**新內膜增生（Neointimal Hyperplasia）**導致的基礎狹窄引起
+
+
+
+### 狹窄部位 / Location of Stenosis
+
+| 類型 | 典型狹窄部位 |
+
+|------|-------------|
+
+| AVG | 靜脈吻合處 |
+
+| AVF | 瘻流出靜脈 |
+
+
+
+### 治療 / Treatment
+
+- 血栓形成的透析通路：手術血栓切除術、經皮溶栓、或經皮機械血栓切除術
+
+- 血栓切除術後行**血管成形術**以維持通暢
+
+
+
+---
+
+
+
+### 感染 / Infection
+
+- **第二常見並發症**（AVG 更常見）
+
+- 感染的 AVG 通常需**完全切除及清創**
+
+
+
+---
+
+
+
+### 假性動脉瘤 / Pseudoaneurysm
+
+- 可發生在穿刺部位，尤其是**同一位置反覆穿刺**時
+
+
+
+---
+
+
+
+### 高輸出量心衰竭 / High-Output Cardiac Failure
+
+- 可發生在**大口徑瘻**（尤其是心臟儲備有限的老年患者）
+
+- 體徵：**洪脈、脈壓增大**
+
+- 治療：**手術瘻縮小或束帶術**
+
+
+
+---
+
+
+
+## 透析通路盜血綜合徵 / Dialysis Access Steal Syndrome
+
+
+
+### 臨床特點 / Clinical Features
+
+- 當瘻使血流從遠端肢體分流，導致缺血
+
+- 更常見於**肱动脉來源瘻**及**外周血管疾病患者**
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 從輕微發涼、感覺異常到**靜息痛、組織缺失**
+
+
+
+### 治療 / Treatment
+
+| 嚴重程度 | 治療 |
+
+|---------|------|
+
+| 輕度 | 觀察 |
+
+| 中重度 | 瘻修補（束帶、修正或結紮）|
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **血栓形成**：AVF/AVG 最常見並發症；由新內膜增生引起狹窄所致；血栓切除術 + 血管成形術
+
+- **感染**：第二常見；AVG 更多；感染 AVG 需完全切除
+
+- **假性动脉瘤**：反覆穿刺同一位置
+
+- **高輸出量心衰竭**：大口徑瘻；洪脈+脈壓增寬；手術縮小/束帶
+
+- **盜血綜合徵**：缺血症狀；輕度觀察，中重度需修補或結紮
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 728
+
+
+
+![Page 728](/core_radiology/images/interventional/page-728.png)
+
+
+
+## 上肢介入治療 / Upper Extremity Intervention
+
+
+
+---
+
+
+
+### 交感神經切除術 / Sympathectomy
+
+
+
+### 化學性交感神經切除術 / Chemical Sympathectomy
+
+- 注射神經溶解劑（如酒精或苯酚）至交感神經鏈
+
+- 治療：**多汗症（Hyperhidrosis）**、**Raynaud 現象**、**複雜性區域疼痛綜合徵**
+
+
+
+### 不同部位適應症 / Indications by Level
+
+
+
+| 部位 | 適應症 |
+
+|------|--------|
+
+| **胸部交感神經切除術** | 上肢多汗症或 Raynaud |
+
+| **腰部交感神經切除術** | 下肢多汗症或 Raynaud |
+
+
+
+### 操作方式 / Methods
+
+- 可在透視或 CT 引導下經皮進行（化學性）
+
+- 手術：胸腔鏡或腹腔鏡切斷交感神經鏈
+
+
+
+---
+
+
+
+### 尺动脉介入 / Ulnar Artery Intervention
+
+
+
+### 鉤骨綜合徵 / Hypothenar Hammer Syndrome
+
+- **尺动脉血栓形成**（鉤骨綜合徵）發生於反覆創傷尺动脉於鉤骨的部位
+
+- 表現：**手部疼痛、冷不耐受及手指缺血**
+
+
+
+### 治療 / Treatment
+
+- 內科治療（抗血小板、戒煙）
+
+- 血管內治療（溶栓、血管成形術）
+
+- 手術切除 + 靜脈移植間置
+
+
+
+---
+
+
+
+## 血管畸形 / Vascular Malformations
+
+
+
+---
+
+
+
+### 動靜脈畸形 / Arteriovenous Malformations (AVMs)
+
+
+
+### 臨床特點 / Clinical Features
+
+- AVMs 為**先天性血管畸形**，由異常動静脉組成，**無毛細血管床介於其間（nidus）**
+
+- 可發生於身體任何部位，但最常見於：**腦、肺、肝、四肢**
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 取決於位置及大小
+
+- 症狀包括：**疼痛、腫脹、出血、高輸出量心衰竭**（大型 AVM）
+
+
+
+### 治療 / Treatment
+
+- **栓塞**為主要治療；目標是閉塞 nidus 同時保留正常血管
+
+- 手術：用於小型可及病變或栓塞不可行者
+
+- **復發常見**（栓塞及手術後均常見）
+
+
+
+---
+
+
+
+### 靜脈畸形 / Venous Malformations (VMs)
+
+
+
+### 臨床特點 / Clinical Features
+
+- 低流量畸形，由**擴張的靜脈通道**組成
+
+- **最常見的血管畸形類型**
+
+- 通常出生時即存在，隨兒童生長成比例增大
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 取決於位置及大小
+
+- 淺部 VM：藍色可壓縮腫塊
+
+- 深部 VM：疼痛、腫脹或功能障礙
+
+
+
+### 治療 / Treatment
+
+| 治療方式 | 說明 |
+
+|---------|------|
+
+| **加壓治療** | 有症狀 VM 的一線治療 |
+
+| **硬化治療（Sclerotherapy）** | 主要介入治療；常用藥劑：乙醇、聚多卡醇、STS |
+
+| **手術** | 僅用於小型可及病變或硬化治療失敗者 |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **化學性交感神經切除術**：多汗症、Raynaud、複雜性區域疼痛；胸交感神經用於上肢，腰交感神經用於下肢
+
+- **鉤骨綜合徵**：尺动脉血栓；手部疼痛/冷不耐受/手指缺血；抗血小板+戒煙首選
+
+- **AVM**：先天性 nidus；高流量；可致高輸出心衰；栓塞為主但易復發
+
+- **VM**：低流量；最常見血管畸形；加壓一線；硬化治療（乙醇/聚多卡醇/STS）為主要介入手段
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 729
+
+
+
+![Page 729](/core_radiology/images/interventional/page-729.png)
+
+
+
+## 淋巴介入 / Lymphatic Interventions
+
+
+
+---
+
+
+
+## 淋巴造影 / Lymphangiography
+
+
+
+### 適應症 / Indications
+
+- **乳糜性疾病**（乳糜胸、乳糜性腹水）
+
+- **淋巴漏**
+
+- **淋巴管畸形**
+
+
+
+### 操作步驟 / Procedure
+
+- 足部趾間注射**淋巴染料**（如異硫藍 isosulfan blue 或亞甲藍 methylene blue）以識別淋巴管
+
+- 識別淋巴管後，用 **25-30G 穿刺針**穿刺，輸注 **Lipiodol**，速度 **0.1–0.2 mL/min**
+
+- 顯影淋巴管，評估漏口或畸形
+
+
+
+---
+
+
+
+## 胸導管栓塞術 / Thoracic Duct Embolization
+
+
+
+### 適應症 / Indications
+
+- **保守治療（飲食調整、奧曲肽）無效的乳糜胸**
+
+
+
+### 操作步驟 / Procedure
+
+- 從**周圍淋巴管**或**淋巴結內**途徑進行動脈導管插管
+
+- 用**線圈及/或 NBCA glue**栓塞
+
+
+
+### 療效 / Outcomes
+
+- **技術成功率高**，但**臨床成功率（乳糜胸緩解）較低**（因存在替代的乳糜引流途徑）
+
+
+
+---
+
+
+
+## 淋巴管畸形的治療 / Treatment of Lymphatic Malformations
+
+
+
+### 臨床特點 / Clinical Features
+
+- **淋巴管畸形（淋巴管瘤）**為先天性低流量的淋巴管擴張畸形
+
+- 最常見於**頭頸部（頸部水囊瘤）**，但可發生於任何部位
+
+
+
+### 治療 / Treatment
+
+| 方式 | 說明 |
+
+|------|------|
+
+| 觀察 | 適用於無症狀者 |
+
+| 硬化治療 | 主要介入手段 |
+
+| 手術 | 單獨使用或與硬化治療聯合 |
+
+| 聯合治療 | 硬化 + 手術 |
+
+
+
+### 常用硬化劑 / Sclerosing Agents
+
+- **OK-432（Picibanil）**
+
+- **乙醇**
+
+- **博來霉素**
+
+- **多西環素**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **淋巴造影**：足部趾間注射染料識別淋巴管；Lipiodol 0.1-0.2 mL/min 輸注
+
+- **胸導管栓塞**：保守無效的乳糜胸；技術成功率高，臨床成功率較低
+
+- **淋巴管畸形**：頭頸部最常見；硬化治療（OK-432/乙醇/博來霉素/多西環素）為主
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 730
+
+
+
+![Page 730](/core_radiology/images/interventional/page-730.png)
+
+
+
+## 綜合介入主題 / Miscellaneous Interventional Topics
+
+
+
+---
+
+
+
+## 中央靜脈通路 / Central Venous Access
+
+
+
+### 適應症 / Indications
+
+- 化療、全胃腸外營養、血液透析、液體/藥物給藥
+
+
+
+### 置入部位 / Insertion Sites
+
+- 頸內靜脈、鎖骨下靜脈、股靜脈
+
+- 所有中央靜脈置入均建議**超聲引導**
+
+
+
+### 導管類型 / Catheter Types
 
 | 類型 | 特點 |
 
 |------|------|
 
-| **缺血性心肌病變** | 從心內膜延伸至心外膜，呈血管分佈 |
+| **隧道式導管（如 Hickman）** | 有 cuff 促進組織長入，降低感染風險 |
 
-| **非缺血性病變** | 取決於增強模式 |
-
-
-
-### 心內膜下增強 / Subendocardial Delayed Enhancement
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 機制 | 心內膜對缺血最敏感，因此缺血性延遲增強**必定涉及心內膜面** |
-
-| 分布特點 | 應有血管分佈 |
-
-| 慢性病變 | 疤痕重構後仍可見延遲增強 |
+| **植入式输液港（Implanted Port）** | 完全植入，皮下儲液囊 |
 
 
 
-### 正常心肌信號 / Normal Myocardium
+### 並發症 / Complications
 
-- 使用約 **300 毫秒**的反轉時間使正常心肌訊號歸零（呈黑色）
-
-- 反轉時間因延遲時間、排洩率、對比劑弛緩率及體積而異
+- 氣胸、动脉穿刺、感染、血栓形成、導管錯位
 
 
 
-
-> **臨床要點**
-> - 心肌橋樑最常見於中段 LAD，通常為偶然發現
-> - 心臟 MRI 提供優異的心肌與血池對比（SSFP 序列）
-> - DE-MRI 的任何異常增強都代表細胞外體積分數增加
-> - 缺血性延遲增強**必定從心內膜開始**，這是與非缺血性病變的關鍵鑑別點
-> - 延遲增強模式有助於區分缺血性與非缺血性心肌病變
+---
 
 
 
-![Page 688](/core_radiology/images/cardiovascular/page-688.png)
+## 化療栓塞 / Chemotherapy Embolization (Chemoembolization)
 
 
 
-## 延遲增強 MRI（續）/ Delayed Enhancement MRI (Continued)
+### 原理 / Principle
+
+- 將化療藥物直接通過**腫瘤的动脉供血**注入腫瘤，結合顆粒栓塞以滯留藥物並造成腫瘤缺血
 
 
 
-### 透壁性延遲增強 / Transmural Delayed Enhancement
+### 最常用於 / Most Common Indications
+
+- **肝細胞癌（HCC）**及**肝轉移瘤**
 
 
 
-### 疾病名稱 / Disease Name
+### 藥物洗脫微球（DEB）/ Drug-Eluting Beads
 
-**透壁性延遲增強（Transmural Delayed Enhancement）** 代表全層心肌厚度皆有的延遲增強。
+- 可緩慢釋放化療藥物（如 doxorubicin 阿黴素）
+
+- **DEB-TACE** 與傳統 TACE 效果相當，但**全身副作用更少**
+
+
+
+### 副作用 / Side Effects
+
+- **栓塞後綜合徵**（疼痛、發熱、噁心）、肝功能障礙
+
+
+
+---
+
+
+
+## 放射性栓塞（Y-90）/ Radioembolization (Y-90)
+
+
+
+### 原理 / Principle
+
+- 將**釔-90（Yttrium-90）微球**直接注入肝腫瘤的肝动脉供血分支
+
+- Y-90 為**β 射線發射同位素**，半衰期 **64 小時**
+
+
+
+### 適應症 / Indications
+
+- **HCC 及肝轉移瘤**（尤其是**結直腸癌轉移**及**神經內分泌腫瘤**）
+
+
+
+### 術前準備 / Pre-Procedure Workup
+
+- 肝臟血管造影：測繪肝血管，識別可能導致非靶沉積的**肝外血管**（需線圈栓塞）
+
+- **MAA（巨彙集白蛋白）掃描**：計算肺分流分數，估算肺及腫瘤的輻射劑量
+
+
+
+### 並發症 / Complications
+
+- 放射性肝炎、GI 潰瘍、放射性肺炎（若肺分流高）、膽囊炎
+
+
+
+---
+
+
+
+## 消融治療 / Ablation Therapies
+
+
+
+### 射頻消融 / Radiofrequency Ablation (RFA)
+
+- **原理**：交流電產生的熱能破壞組織
+
+- **最常用於**：肝腫瘤（HCC 及轉移）、腎細胞癌、肺腫瘤
+
+- 可在 CT 或超聲引導下經皮進行，或術中進行
+
+- **並發症**：疼痛、發熱、出血、相鄰結構損傷
+
+
+
+### 微波消融 / Microwave Ablation (MWA)
+
+- **原理**：微波能量造成組織熱壞死
+
+- **相對於 RFA 的優勢**：溫度更高、消融範圍更大、消融速度更快
+
+- 適應症與 RFA 相似
+
+
+
+### 冷凍消融 / Cryoablation
+
+- **原理**：極低溫破壞組織
+
+- 步驟：將冷凍探針置入腫瘤，進行凍-融-凍循環
+
+- **CT 可見冰球**，精確控制消融範圍
+
+- **適應症**：腎細胞癌、前列腺癌、骨病變
+
+- **並發症**：凍休克（嚴重炎症反應）、相鄰結構損傷
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **中央靜脈通路**：超聲引導；隧道式有 cuff 降低感染；输液港完全植入
+
+- **化療栓塞**：HCC/肝轉移；DEB-TACE 副作用更少；栓塞後綜合徵常見
+
+- **Y-90**：HCC/肝轉移（尤其是結直腸、神經內分泌）；術前行 MAA 掃描計算肺分流；並發症：放射性肝炎、GI 潰疡、肺炎
+
+- **消融**：RFA（熱）、MWA（更高溫更快）、Cryo（冰球 CT 可視）；各有適應症
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 731
+
+
+
+![Page 731](/core_radiology/images/interventional/page-731.png)
+
+
+
+## 膽管造影 / Cholangiography
+
+
+
+---
+
+
+
+## 經皮經肝膽管造影 / Percutaneous Transhepatic Cholangiography (PTC)
+
+
+
+---
+
+
+
+### 適應症 / Indications
+
+
+
+| 適應症 | 說明 |
+
+|--------|------|
+
+| **膽道減壓** | 緩解膽道梗阻 |
+
+| **膽道引流** | 膽道損傷（創傷後或術後）的膽道分流 |
+
+| **膽道結石治療** | 經皮膽道結石清除（少見） |
+
+| **膽道吻合前輔助治療** | 膽道吻合術前的術前準備（少見）|
+
+
+
+---
+
+
+
+### 術前準備 / Pre-Procedure
+
+- 術前給予**預防性抗生素**（因膽汁淤積易致細菌過度生長）
+
+- 需覆蓋**革蘭氏陰性菌**，常用**左氧氟沙星（Levofloxacin）**
+
+
+
+---
+
+
+
+### 右側膽道穿刺技術 / Right Biliary Tree Access Technique
+
+- **入路**：右腋中線，兩次穿刺法
+
+- 使用 **22G 穿刺針**，與檯面平行、與肝臟下緣平行穿刺
+
+- 邊退針邊注射造影劑以圖顯影膽道
+
+- 當顯影膽管後，留置穿刺針，再以 **21G 穿刺針**盡量低位穿刺進入同一管腔
+
+- 進入膽管後：置入 **0.018"導絲** → 換為 **5 或 6 Fr 鞘** → 以親水導絲引導進入小腸
+
+- 交換為硬導絲後放置膽道引流管
+
+- **嚴禁抽吸膽道引流管**：否則腸道內容物可被吸入膽道，引發膽管炎
+
+
+
+---
+
+
+
+### 左側膽道穿刺技術 / Left Biliary Tree Access Technique
+
+- **入路**：左劍突下
+
+- 超聲常可顯示擴張的膽管，**無需兩次穿刺**
+
+
+
+---
+
+
+
+### 膽道支架 / Biliary Stenting
+
+- 若需放置支架治療狹窄，**金屬支架**通常僅用於**預期壽命 <6 個月**的患者
+
+
+
+---
+
+
+
+### 並發症 / Complications
+
+- **敗血症**、**出血**、**膽汁漏**、**膽道出血（Hemobilia）**、**膿腫**
+
+
+
+---
+
+
+
+### 術後維護 / Maintenance
+
+- 建議每 **3 個月**進行預防性維護
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **PTC 適應症**：膽道減壓、膽道引流（術後/創傷後膽道損傷）
+
+- **預防性抗生素**：覆蓋革蘭氏陰性菌（常用左氧氟沙星）
+
+- **引流管禁忌抽吸**：避免腸道內容物返流致膽管炎
+
+- **金屬支架**：僅用於預期壽命 <6 個月的患者
+
+- **並發症**：敗血症、出血、膽汁漏、膽道出血、膿腫
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 732
+
+
+
+![Page 732](/core_radiology/images/interventional/page-732.png)
+
+
+
+## 膽道損傷 / Bile Duct Injury
 
 
 
 ### 臨床特點 / Clinical Features
 
-| 項目 | 說明 |
+- **膽道損傷最常見原因**：**腹腔鏡膽囊切除術**的醫源性損傷
 
-|------|------|
-
-| 機制 | 全層疤痕組織（ prior transmural infarct 的不可逆損傷）|
-
-| 電影 MRI 發現 | 異常延遲增強區域通常有運動減退（hypokinesis）|
+- 次常見原因：**原位肝移植**
 
 
 
-### 與心內膜下增強的關係 / Relationship to Subendocardial Enhancement
+### 治療 / Treatment
 
-- 缺血性延遲增強可僅涉及心內膜或為透壁性
-
-- **透壁性增強**：横跨整層心肌厚度
-
-- **心內膜下增強**：僅涉及心內膜層
+- 提供膽道分流至引流袋，使膽汁漏自行癒合
 
 
 
@@ -2783,68 +4772,51 @@ weight: 9
 
 
 
-### 非缺血性延遲增強 / Nonischemic Delayed Enhancement
+## 硬化性膽管炎 / Sclerosing Cholangitis
 
 
 
-### 疾病概述 / Disease Overview
+### 臨床特點 / Clinical Features
 
-- 延遲增強**不遵循血管分佈**即非缺血性
+- **硬化性膽管炎**為慢性炎性及纖維化過程，導致**肝內外膽管多發性狹窄**
 
-- 多種非缺血性延遲增強模式已被描述
+- 表現：**阻塞性黃疸、全身不適、腹痛**
 
-
-
-### 心肌中層增強 / Mid-Myocardial Delayed Enhancement
+- **男性較常見**，與**炎症性腸病（潰疡性結腸炎）**相關
 
 
 
-| 疾病 | 說明 |
+### 診斷要點 / Diagnostic Key Points
 
-|------|------|
-
-| **擴張型心肌病（DCM）** | 最常見的非缺血性心肌病變；多為特發性，也可由酒精濫用、心肌炎或藥物毒性引起；MRI 顯示心肌中層延遲增強，伴有心腔擴大和射血分數降低 |
-
-| **結節病（Sarcoidosis）** | 非乾酪性肉芽腫的全身性疾病；心臟表現包括心律不整、左心室功能障礙、限制性心肌病變；典型 MRI 發現為結節或片狀分佈的心肌中層或心外膜下延遲增強 |
-
-| **Chagas 病** | 由原生動物錐蟲引起；可導致心肌病變；MRI 可見心外膜或心肌中層延遲增強，可在症狀出現前早期發現 |
-
-| **肥厚型心肌病（HCM）** | 特徵為左心室心肌異常增厚而無擴張；嚴重者可為猝死原因；MRI 可見肥厚區域及室間隔與右心室游離壁交界處的心肌中層延遲增強（因肌原纖維排列紊亂）；電影 MRI 顯示左心室舒張功能障礙 |
+- 最終導致**膽汁性肝硬化**，並增加**膽管癌**風險
 
 
 
+### 治療 / Treatment
 
-> **臨床要點**
-> - **透壁性延遲增強**代表全層疤痕，代表既往透壁性心肌梗塞
-> - 非缺血性延遲增強的關鍵特點是**不遵循血管分佈**
-> - DCM 最常見的非缺血性心肌病，MRI 有心肌中層增強及心腔擴大
-> - HCM 嚴重者可導致猝死，MRI 有助評估
+- 最終治療：**肝移植**
 
-
-
-![Page 689](/core_radiology/images/cardiovascular/page-689.png)
+- 經皮膽道引流可緩解阻塞性黃疸的症狀（姑息治療）
 
 
 
-## 非缺血性延遲增強（續）/ Nonischemic Delayed Enhancement (Continued)
+### 多發性膽道狹窄的鑑別診斷 / Differential Diagnosis of Multifocal Biliary Strictures
 
 
 
-### 心外膜下延遲增強 / Epicardial/Subepicardial Delayed Enhancement
+| 疾病 |
 
+|------|
 
+| 硬化性膽管炎 |
 
-### 相關疾病 / Related Diseases
+| 原發性膽汁性肝硬化 |
 
-| 疾病 | 說明 |
+| 多灶性膽管癌 |
 
-|------|------|
+| 慢性細菌性膽管炎 |
 
-| **心肌炎（Myocarditis）** | 心肌炎症；最常見原因為病毒感染，其次為自體免疫疾病和藥物毒性；心外膜下延遲增強為典型表現，伴有受影響區域的室壁運動異常 |
-
-| **Chagas 病** | 可引起心外膜或心肌中層延遲增強 |
-
-| **結節病** | 可引起心肌中層或心外膜下延遲增強（結節或片狀）|
+| AIDS 膽管炎（常伴乳頭部狹窄）|
 
 
 
@@ -2852,757 +4824,23 @@ weight: 9
 
 
 
-### 環形心內膜下延遲增強 / Circumferential Subendocardial Delayed Enhancement
+## 惡性膽道梗阻 / Malignant Biliary Obstruction
 
 
 
-### 相關疾病 / Related Diseases
+### 臨床特點 / Clinical Features
 
-| 疾病 | 說明 |
+- **單側肝內膽管系統（左或右）梗阻**：
 
-|------|------|
+  - 病因：轉移性疾病或膽管原發惡性腫瘤
 
-| **類澱粉沉積症（Amyloidosis）** | 醣蛋白沉積於細胞外間隙的疾病；心臟表現為雙心室心肌增厚，導致瀰漫性心室心內膜下延遲增強 |
+  - 多數情況下**只需治療受影響側的膽道系統**
 
-| **心臟移植患者** | 可見環形心內膜下延遲增強，病理上與心肌纖維化相關 |
+- **肝門部梗阻（Hilar Obstruction）**：
 
+  - 最常見病因：**肝門部膽管癌（Klatskin Tumor）**
 
-
----
-
-
-
-### 延遲增強 MRI 總結 / Summary of Delayed Enhancement MRI
-
-
-
-### 缺血性 / Ischemic
-
-| 分型 | 說明 |
-
-|------|------|
-
-| **心內膜下（Subendocardial）** | 心內膜下心肌梗塞 |
-
-| **透壁性（Transmural）** | 透壁性心肌梗塞 |
-
-
-
-### 非缺血性 / Nonischemic
-
-| 分型 | 相關疾病 |
-
-|------|---------|
-
-| **心肌中層（Mid-myocardial）** | 擴張型心肌病、心肌炎、結節病、Chagas 病 |
-
-| **心外膜下（Epicartial）** | 心肌炎、結節病、Chagas 病 |
-
-| **環形心內膜下（Circumferential subendocardial）** | 類澱粉沉積症、系統性硬化症、心臟移植 |
-
-| 其他 | 肥厚型心肌病、右心室壓力負荷過重 |
-
-
-
-
-> **臨床要點**
-> - 心外膜下延遲增強是心肌炎的典型表現
-> - 類澱粉沉積症引起雙心室心肌增厚及瀰漫性心內膜下增強
-> - 延遲增強模式是區分缺血性與非缺血性心肌病變的關鍵工具
-> - 系統性評估增強模式對正確診斷至關重要
-
-
-
-![Page 690](/core_radiology/images/cardiovascular/page-690.png)
-
-
-
-## 心臟疾病 X 光片影像 / Plain Film Imaging of Heart Disease
-
-
-
-### 系統性評估方法 / Systematic Approach
-
-
-
-### 心臟大小評估 / Cardiac Silhouette Assessment
-
-- **心臟橫徑比（Cardiothoracic ratio）**：PA view 上 ≥**0.55** 提示心臟擴大
-
-
-
-### 心臟大小正常的疾病 / Normal-Sized Cardiac Silhouette
-
-| 疾病 | 說明 |
-
-|------|------|
-
-| 主動脈瓣或二尖瓣狹窄 | 心臟大小正常 |
-
-| 肺動脈高血壓 | 心臟大小正常 |
-
-| 肥厚型心肌病 | 心臟大小正常 |
-
-| 限制性生理 | 心臟大小正常 |
-
-| 急性心肌梗塞 | 心臟大小正常 |
-
-
-
-### 心臟擴大的疾病 / Enlarged Cardiac Silhouette
-
-| 疾病 | 說明 |
-
-|------|------|
-
-| 充血性心衰竭導致的心肌病變 | 心臟擴大 |
-
-| 瓣膜逆流（主動脈瓣、二尖瓣、三尖瓣）| 心臟擴大 |
-
-| 高輸出或容量負荷過重狀態 | 心臟擴大 |
-
-| 擴張型心肌病 | 心臟擴大 |
-
-| 心包積液 | 心臟擴大 |
-
-| 心臟外腫塊 | 心臟擴大 |
-
-
-
----
-
-
-
-### 評估關鍵結構 / Key Structures to Evaluate
-
-
-
-### 心臟擴大時 / With Enlarged Cardiac Silhouette
-
-| 結構 | 提示診斷 |
-
-|------|---------|
-
-| **左心房擴大 + 心臟擴大** | 二尖瓣逆流 |
-
-| **主動脈擴大 + 心臟擴大** | 主動脈瓣逆流 |
-
-| **左心房及主動脈皆不擴大** | 其他病因 |
-
-
-
-### 心臟大小正常時 / With Normal-Sized Cardiac Silhouette
-
-| 結構 | 提示診斷 |
-
-|------|---------|
-
-| **左心房擴大 + 心臟正常** | 二尖瓣狹窄 |
-
-| **主動脈擴大 + 心臟正常** | 主動脈瓣狹窄或主動瘤 |
-
-| **左心房及主動脈皆不擴大** | 其他病因 |
-
-
-
-### 其他需評估結構 / Other Structures to Always Evaluate
-
-- 肺血管紋、胸壁、心腔擴大、主大血管（肺动脉、升主動、主動弓、降主動）
-
-
-
----
-
-
-
-### 各心腔擴大的 X 光表現 / Chamber Enlargement on Radiograph
-
-
-
-### 右心室擴大 / Right Ventricular Enlargement
-
-| 特點 | 說明 |
-
-|------|------|
-
-| 位置 | 最前面的心腔 |
-
-| X 光表現 | 心尖左側位移；側位可見胸骨後清晰空間消失 |
-
-
-
-### 右心房擴大 / Right Atrial Enlargement
-
-| 特點 | 說明 |
-
-|------|------|
-
-| 位置 | 構成右心緣 |
-
-| X 光表現 | 右心緣外凸或延長 |
-
-
-
-### 左心室擴大 / Left Ventricular Enlargement
-
-| 特點 | 說明 |
-
-|------|------|
-
-| 位置 | 構成左心緣 |
-
-| X 光表現 | 心尖向左下方向位移 |
-
-| 注意 | **肥厚型心肌病不引起心室外輪廓擴大** |
-
-
-
-
-> **臨床要點**
-> - **心臟橫徑比 ≥0.55** 提示心臟擴大
-> - 評估心臟擴大時，**左心房和主動脈**是關鍵結構
-> - 右心室擴大使心尖左側位移；左心室擴大使心尖左下位移
-> - 肥厚型心肌病的心臟輪廓可正常，這點很重要
-> - 系統性評估胸片是辨別心臟病病因的關鍵第一步
-
-
-
-![Page 691](/core_radiology/images/cardiovascular/page-691.png)
-
-
-
-## 左心房擴大 / Left Atrial Enlargement
-
-
-
-### 解剖位置 / Anatomic Position
-
-- 左心房是心臟中**最靠後**的心腔
-
-
-
-### 病因分類 / Etiology Classification
-
-| 病因 | 心臟大小 | 說明 |
-
-|------|---------|------|
-
-| **二尖瓣逆流（Mitral regurgitation）** | 心臟擴大 | 慢性容量負荷過重 |
-
-| **二尖瓣狹窄（Mitral stenosis）** | 心臟大小正常 | 阻塞性病变 |
-
-
-
-### X 光徵象 / Radiographic Signs
-
-
-
-### 正面觀（Frontal View）
-
-| 徵象 | 說明 |
-
-|------|------|
-
-| **氣管分歧部撐開（Carina splaying）** | 擴大的左心房撐開氣管分歧部 |
-
-| **雙重密度徵（Double density sign）** | 擴大的左心房邊緣投影於右心房上方 |
-
-
-
-### 側面觀（Lateral View）
-
-| 徵象 | 說明 |
-
-|------|------|
-
-| **食道後位移** | 擴大的左心房向後壓迫食道 |
-
-| **左肺上葉支氣管抬高** | 擴大的左心房向上壓迫 |
-
-| 食道位移 | 可能為**吞嚥困難**的原因 |
-
-
-
-
-> **臨床要點**
-> - 左心房是心臟最靠後的心腔，評估心臟疾病時需特別注意
-> - **雙重密度徵**是左心房擴大的重要線索，在正面 X 光上可見
-> - 左心房擴大可壓迫食道導致吞嚥困難
-> - 氣管分歧部撐開是左心房顯著擴大的標誌
-> - 二尖瓣狹窄時心臟大小正常但左心房擴大；逆流時心臟通常擴大
-
-
-
-![Page 692](/core_radiology/images/cardiovascular/page-692.png)
-
-
-
-## 心肌梗塞的影像及併發症 / Imaging and Complications of Myocardial Infarction
-
-
-
-### 心肌梗塞 X 光評估 / Plain Film Evaluation of MI
-
-
-
-### 急性心肌梗塞的 X 光發現 / Findings in Acute MI
-
-| 發現 | 說明 |
-
-|------|------|
-
-| **大多數患者的初始胸部 X 光正常** | — |
-
-| **最常見異常** | 肺靜脈壓力增加（或明顯肺水腫）|
-
-| **預後意義** | 心肌梗塞後出現肺水腫是**不良預後指標** |
-
-| 乳頭肌斷裂 | 可引起急性肺水腫；典型 X 光發現是**孤立性右上葉肺水腫** |
-
-
-
-### 心肌梗塞的 X 光併發症 / Plain Film Complications of MI
-
-| 併發症 | X 光表現 |
-
-|--------|---------|
-
-| 心包積液 | 心臟輪廓擴大 |
-
-| 左心室瘤 | 心臟輪廓異常 |
-
-| 乳頭肌斷裂 | 急性肺水腫（尤其右上葉）|
-
-
-
----
-
-
-
-### 左心室瘤 / Ventricular Aneurysms
-
-
-
-### 真性左心室瘤 / True Left Ventricular Aneurysm
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 局部心室壁外突，所有肌肉層皆受影響 |
-
-| 相關病因 | 左前降支冠狀动脉阻塞 |
-
-| 最常見位置 | 左心室前外側壁或心尖部 |
-
-| X 光表現 | 心左緣中部近心尖處輪廓異常 |
-
-| 鈣化 | 可能出現 |
-
-| 運動異常 | 運動障礙（Dyskinesia）|
-
-| 破裂風險 | 罕見 |
-
-| 治療 | 內科治療 |
-
-
-
-### 假性瘤（僂性瘤）/ False Aneurysm (Pseudoaneurysm)
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 局限性心室破裂，仅心包粘連防止完全破裂 |
-
-| 壁組成 | **無心肌**，仅心包 |
-
-| 相關病因 | 左迴旋支或右冠狀动脉阻塞 |
-
-| 最常見位置 | 上膈面及後壁 |
-
-| X 光表現 | 正面可見心後密度；側面可見後輪廓異常 |
-
-| 破裂風險 | **隨時可能破裂**，增大為即將破裂的危險信號 |
-
-| 治療 | **手術治療** |
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-| 特點 | 真性瘤 | 假性瘤（僂性瘤）|
-
-|------|--------|----------------|
-
-| 壁組成 | 所有肌肉層 | 仅心包（無心肌）|
-
-| 破裂風險 | 罕見 | 隨時可能破裂 |
-
-| 最常見位置 | 前外側壁/心尖 | 上膈面/後壁 |
-
-| 治療 | 內科 | 手術 |
-
-
-
----
-
-
-
-### Dressler 症候群 / Dressler Syndrome
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 自體免疫性心包炎 |
-
-| 特點 | 常伴有心包及胸膜積液 |
-
-
-
----
-
-
-
-### 心內膜炎 / Endocarditis
-
-| 項目 | 說明 |
-
-|------|------|
-
-| 定義 | 心臟瓣膜感染 |
-
-| 風險因子 | 靜脈藥物濫用、口腔衛生差、糖尿病、人工瓣膜 |
-
-| 診斷 | 超音波心圖為主；CT 血管造影可顯示 **>1 cm** 的�中国共产党塊 |
-
-| CT 評估 | 瓣膜周圍膿腫、瓣膜外併發症（如肺栓塞）|
-
-
-
-
-> **臨床要點**
-> - 急性心肌梗塞後肺水腫是預後不良的指標
-> - 真性與假性左心室瘤的治療策略完全不同（內科 vs. 手術）
-> - **假性瘤随时可能破裂**，是外科急症
-> - 乳頭肌斷裂可導致急性肺水腫（尤其孤立性右上葉）
-> - 心內膜炎的 CT 評估可补充超音箱，檢測大於 1 cm 的�中国共产党塊
-
-
-
-![Page 693](/core_radiology/images/cardiovascular/page-693.png)
-
-
-
-## 人工瓣膜影像 / Imaging of Prosthetic Valves
-
-
-
-### 瓣膜位置關係 / Valve Position Relationships
-
-
-
-### 側面 X 光上的瓣膜定位 / Valve Localization on Lateral Radiograph
-
-| 瓣膜 | 位置描述 |
-
-|------|---------|
-
-| **主動脈瓣（Aortic valve）** | 中心位於從胸骨-橫膈交界處至氣管分歧部的連線上 |
-
-| **三尖瓣（Tricuspid valve）** | 位於二尖瓣的右側及前方 |
-
-| **肺動脈瓣（Pulmonic valve）** | 位置最高、最靠左側 |
-
-| **二尖瓣（Mitral valve）** | 位於三尖瓣的左側及後方 |
-
-
-
-### 心動周期中的瓣膜狀態 / Valve State During Cardiac Cycle
-
-- 房室瓣（二尖瓣及三尖瓣）在**舒張期開放**
-
-
-
----
-
-
-
-### 影像評估要點 / Imaging Evaluation Key Points
-
-
-
-### 位置關係 / Positional Relationships
-
-| 瓣膜對 | 位置關係 |
-
-|--------|---------|
-
-| 三尖瓣 vs. 二尖瓣 | 三尖瓣在右側及前方 |
-
-| 二尖瓣 vs. 主動脈瓣 | 二尖瓣在後方 |
-
-| 肺動脈瓣 vs. 所有其他瓣膜 | 最高、最左側 |
-
-
-
-### 評估挑戰 / Evaluation Challenges
-
-| 挑戰 | 說明 |
-
-|------|------|
-
-| 心腔擴大 | 可能使瓣膜位置偏離正常 |
-
-| 心臟旋轉 | 可能影響瓣膜的相對位置 |
-
-
-
-
-> **臨床要點**
-> - 側面 X 光是評估人工瓣膜位置的關鍵投影
-> - 主動脈瓣位於從胸骨-橫膈交界處至氣管分歧部的連線上
-> - 三尖瓣位於二尖瓣的右側及前方（而非左側及後方）
-> - 肺動脈瓣是所有瓣膜中位置最高且最靠左側的
-> - 房室瓣在舒張期開放，這對理解心臟血流動力學很重要
-> - 心腔擴大或心臟旋轉可能使瓣膜位置的評估更具挑戰性
-
-# Cardiovascular Imaging — Learning Radiology 整合章 / Learning Radiology Integration
-
-
-
-> **来源 / Source:** Learning Radiology (5th Ed.) — Chapter 3: Recognizing Normal Cardiac Anatomy + Chapter 11: Recognizing Adult Heart Disease
-
-
-
----
-
-
-
-## 正常心臟解剖學 / Normal Cardiac Anatomy
-
-
-
-### 心臟輪廓 — 胸部 X 光片 / Cardiac Contours on Frontal Chest Radiograph
-
-
-
-**心臟右側 / Right Heart Border:**
-
-- 第一個輪廓：升主動脈（Ascending Aorta）
-
-- 升主動脈與右心房交界處有輕微凹陷，左心房擴大時可見（雙重密度 / double density）
-
-
-
-**心臟左側 / Left Heart Border:**
-
-- 主肺動脈段（Main Pulmonary Artery Segment）：正常時略凹或平坦
-
-- 左心房/左心耳擴大時會填補此凹陷
-
-- 左心室形成心臟最下方的輪廓
-
-
-
-**主動脈結 / Aortic Knob:**
-
-- 正常 < 35 mm（從氣管邊緣測量）
-
-- 主動脈弓狹窄，主動脈會輕微推向氣管右側
-
-
-
-**降主動脈 / Descending Aorta:**
-
-- 正常幾乎與脊椎重疊
-
-- 彎曲或 uncoiled 時，會偏向左側
-
-
-
-### 心臟擴大的評估 / Evaluating Cardiomegaly
-
-
-
-**心胸比（Cardiothoracic Ratio）:**
-
-- 心臟寬度 / 胸廓寬度 < 50%（成人正常值）
-
-- 適用於 PA 胸部 X 光
-
-
-
-**左右心室肥厚性對比 / Stenotic vs. Regurgitant Valves:**
-
-- **狹窄性病變（Stenotic）**：心室先肥大（hypertrophy）不見得變大
-
-- **逆流性病變（Regurgitant）**：心室變大（dilatation），容積過載導致更明顯的心臟擴大
-
-
-
----
-
-
-
-## 電腦斷層心臟解剖 / Cardiac CT Anatomy
-
-
-
-### 五血管層面 / Five-Vessel Level
-
-- 氣管、食道、肺野
-
-- 頭臂靜脈（Brachiocephalic Veins）在胸骨後方
-
-- 可见：無名动脉（Innominate Artery）、左總頸动脉（Left Common Carotid）、左鎖骨下动脉（Left Subclavian Artery）
-
-
-
-### 主動脈弓層面 / Aortic Arch Level
-
-- U 形主動脈弓
-
-- 氣管右側：上腔靜脈（Superior Vena Cava）
-
-- 奇靜脈（Azygos Vein）引流至上腔靜脈
-
-
-
-### 動膜窗 / Aortopulmonary Window
-
-- 主動脈弓下方、肺動脈上方之間的空間
-
-- **重要標誌**：淋巴結腫大的好發位置
-
-
-
-### 主肺動脈層面 / Main Pulmonary Artery Level
-
-- 可見主肺动脉（MPA）、右肺动脉（RPA）、左肺动脉（LPA）
-
-- 右肺动脉通過主肺动脉後方
-
-- 左肺动脉為 MPA 的直接延續
-
-- 右中葉支氣管（Bronchus Intermedius）後方應為肺實質
-
-
-
-### 心臟高層面 / High Cardiac Level
-
-- 左心房、右心房、主動脈根部、主肺动脉出口（RVOT）
-
-- **PALS 記憶法**：肺动脉瓣在主動脈瓣的**前、外、上**（Pulmonic valve lies Anterior, Lateral, Superior to aortic valve）
-
-
-
-### 心臟低層面 / Low Cardiac Level
-
-- 可見右心房、右心室、左心室、室間隔
-
-- 右心室位於胸骨後方，肌肉小樑（trabeculation）較多
-
-- 左心室壁較厚
-
-
-
----
-
-
-
-## 冠狀動脈解剖 / Coronary Artery Anatomy
-
-
-
-### 左冠狀动脉 / Left Coronary Artery (LCA)
-
-- 起源：主動脈左冠狀竇（Left Coronary Cusp）
-
-- 分為：
-
-  - **左前降枝（Left Anterior Descending, LAD）**：行走於前室間溝，供應大部分左心室及前間隔
-
-  - **左迴旋枝（Circumflex Artery, LCx）**：行走於左心房與左心室之間，供應左心室側壁
-
-
-
-### 右冠狀动脉 / Right Coronary Artery (RCA)
-
-- 起源：主動脈右冠狀竇
-
-- 分支：
-
-  - 圓錐支（Conus Branch）供應 RVOT
-
-  - 竇房結动脉（Sinus Node Artery）
-
-  - 右心室銳緣支（Acute Marginal Branch）
-
-  - 後降枝（Posterior Descending Artery, PDA）：約 70% 的人由 RCA 發出
-
-
-
-### 冠狀動派優勢 / Coronary Dominance
-
-- **右優勢（Right Dominant）**：約 85% 人口
-
-- **左優勢（Left Dominant）**：約 10%，與非致死性心肌梗塞及整體死亡率增加有關
-
-- **共同優勢（Co-dominant）**：其餘
-
-
-
----
-
-
-
-## 心臟 MRI / Cardiac MRI
-
-
-
-### 標準成像平面 / Standard Planes
-
-- **橫軸位（Axial）**：與 CT 相同
-
-- **水平長軸位（Horizontal Long-Axis / 四腔 view）**：評估左心室側壁、間隔、心尖
-
-- **垂直長軸位（Vertical Long-Axis / 雙腔 view）**：評估左心室前壁、下壁、心尖
-
-- **短軸位（Short-Axis）**：計算心室容積
-
-- **三腔 view**：評估主動脈瓣、二尖瓣、左心房
-
-
-
-### 影像技術 / Imaging Techniques
-
-- **亮血技術（Bright Blood）**：評估心臟功能
-
-- **黑血技術（Black Blood）**：評估心臟形態
-
-
-
----
-
-
-
-## 冠狀動派鈣化與鈣化積分 / Coronary Artery Calcium Scoring
-
-
-
-| 分數 | 意義 |
-
-|------|------|
-
-| 0 | 無可檢測鈣化，未來心臟事件可能性低 |
-
-| 1–99 | 輕度鈣化 |
-
-| 100–300 | 輕至中度，未來 3–5 年心臟事件風險適中 |
-
-| > 300 | 高度鈣化，嚴重疾病及心臟病發作風險較高 |
+  - 通常需在**左、右各放置一枚引流管**
 
 
 
@@ -3614,23 +4852,11 @@ weight: 9
 
 
 
-### 成人心臟病 — 胸口 X 光評估 / Adult Heart Disease on Chest X-ray
+- **膽道損傷**：腹腔鏡膽囊切除術為最常見原因；治療為膽道分流至引流袋
 
+- **硬化性膽管炎**：膽管多發狹窄 + 男性 + IBD 史；可致膽汁性肝硬化及膽管癌；最終需肝移植
 
-
-**心臟擴大的非心臟原因 / Extracardiac Causes of Apparent Cardiomegaly:**
-
-- AP  portable 胸部 X 光（放大效應）
-
-- 呼氣不足（橫膈上移）
-
-- 肥胖、懷孕、腹水
-
-- 漏斗胸（Pectus Excavatum）
-
-- 旋轉（向左旋轉時心臟可能看起來較大）
-
-- 心包膜積液（Pericardial Effusion）
+- **惡性膽道梗阻**：單側梗阻只需治療患側；肝門部膽管癌（Klatskin）需雙側引流
 
 
 
@@ -3638,55 +4864,15 @@ weight: 9
 
 
 
-## 鬱血性心臟衰竭 / Congestive Heart Failure (CHF)
+# Interventional Radiology - Page 733
 
 
 
-### 肺間質水腫 / Pulmonary Interstitial Edema
+![Page 733](/core_radiology/images/interventional/page-733.png)
 
 
 
-四大關鍵徵象：
-
-1. **小葉間隔增厚（Kerley B Lines）**：肺底、肋膜面、短（1–2 cm）、水平走向、厚約 1 mm
-
-2. **支氣管袖套徵（Peribronchial Cuffing）**：支氣管壁增厚，en face 可見戒指樣環形密度
-
-3. **葉間裂增厚（Fluid in Fissures）**：增厚且不規則
-
-4. **肋膜積液（ Pleural Effusions）**：通常雙側，右側常較大
-
-
-
-### 肺泡性水腫 / Pulmonary Alveolar Edema
-
-
-
-- 蓬鬆、模糊、斑塊狀肺泡密度
-
-- **蝙蝠翼分佈（Bat-Wing / Angel-Wing Pattern）**：中央分佈，外三分之一肺野通常保留
-
-- 肺靜脈壓約 25 mm Hg 時發生
-
-- 消退迅速（小時至數天）
-
-
-
-### 心源性 vs. 非心源性肺水腫 / Cardiogenic vs. Noncardiogenic
-
-
-
-| 發現 | 心源性 | 非心源性 |
-
-|------|--------|----------|
-
-| 肋膜積液 | 常見 | 少見 |
-
-| Kerley B Lines | 常見 | 少見 |
-
-| 心臟大小 | 常擴大 | 可能正常 |
-
-| PCWP | 升高（>15 mmHg） | 正常（<12 mmHg） |
+## 膽囊 / Gallbladder
 
 
 
@@ -3694,35 +4880,31 @@ weight: 9
 
 
 
-## 主動脈狹窄 / Aortic Stenosis
+## 急性膽囊炎 / Acute Cholecystitis
 
 
 
-- 三聯徵：胸痛、心衰竭症狀、暈厥
+### 適應症 / Indications
 
-- 主動脈瓣鈣化（CT 可見）
+- **經皮膽囊引流（膽囊造口術，Cholecystostomy）**的適應症：
 
-- 升主動脈**竇後擴張（Post-Stenotic Dilatation）**
+  - 適用於**不適合手術的急性結石性或非結石性膽囊炎**患者
 
-- 心臟大小：早期正常，晚期擴大
+  - 對於結石性膽囊炎，膽囊造口術是**膽囊切除術前的臨時措施**
 
-
-
----
+  - 對於**非結石性膽囊炎**，膽囊造口術可能**可達到治愈而無需手術**
 
 
 
-## 僧帽瓣狹窄 / Mitral Stenosis
+### 重要 note
+
+- **約 40% 的急性膽囊炎患者培養結果為陰性**
 
 
 
-- 最常見原因：風濕性心臟病（現在已減少）
+### 術前準備 / Pre-Procedure
 
-- 左心房擴大 → 肺靜脈壓升高 → 肺动脉高壓 → 右心衰竭
-
-- **cephalization**：上葉血管與下葉血管同等或更大
-
-- 左心耳常明顯擴大
+- 與 PTC 類似，術前給予**預防性抗生素**
 
 
 
@@ -3730,61 +4912,41 @@ weight: 9
 
 
 
-## 心肌病變 / Cardiomyopathy
+## 膽囊穿刺入路 / Percutaneous Approaches to the Gallbladder
 
 
 
-### 擴張型心肌病 / Dilated Cardiomyopathy
-
-- 最常見（90%）
-
-- 射出分率（EF）< 40%
-
-- 心臟擴大，常伴隨 CHF 影像
+### 經肝入路（Transhepatic Approach）
 
 
 
-### 肥厚型心肌病 / Hypertrophic Cardiomyopathy (HCM)
+| 特點 | 說明 |
 
-- 家族性（50%）
+|------|------|
 
-- 猝死的主因之一（運動員）
+| **入路** | 右腋中線（肋間或肋下），超聲引導下穿刺針穿過肝臟指向膽囊窩無腹膜覆蓋區 |
 
-- 非對稱性或同心性左心室壁增厚
+| **優點** | **腹膜膽汁漏風險較低** |
 
-- 可有 SAM（前向運動收縮異常）
+| **缺點** | **肝撕裂風險增加** |
 
-
-
-### 限制型心肌病 / Restrictaive Cardiomyopathy
-
-- 最少見
-
-- 心肌僵硬，舒張功能不良
-
-- 心臟通常不大
-
-- 需與**縮窄性心包炎（Constrictive Pericarditis）**區分：後者心包增厚（可手術治療）
+| **應用** | 更常用 |
 
 
 
----
+### 經腹膜入路（Transperitoneal Approach）
 
 
 
-## 主動脈瘤 / Thoracic Aortic Aneurysm
+| 特點 | 說明 |
 
+|------|------|
 
+| **入路** | 右前腹肋緣下，穿刺針穿過肝臟下方進入膽囊（避開肝臟）；需穿刺膽囊底（最活動部分）|
 
-- 定義：直徑 > 正常 50%
+| **優點** | 肝損傷風險較低 |
 
-- 上升主動脈正常 < 3.5 cm；下降主動脈正常 < 3 cm
-
-- 主動脈瘤定義：直徑持續 > 4 cm
-
-- 5–6 cm 以上有破裂風險，需手術
-
-- CT 血管攝影（CTA）為首選
+| **缺點** | **腹膜膽汁漏風險增加** |
 
 
 
@@ -3792,51 +4954,23 @@ weight: 9
 
 
 
-## 主動脈夾層 / Aortic Dissection
+## 拔管標準 / Drain Removal Criteria
 
 
 
-### Stanford 分型：
-
-- **Type A**：涉及升主動脈 → 通常手術治療
-
-- **Type B**：僅涉及降主動脈 → 通常內科治療
+膽道引流管拔除需滿足以下所有條件：
 
 
 
-### 影像徵象（Conventional X-ray）：
+| 條件 | 說明 |
 
-- 縱隔擴大（mediastinal widening）
+|------|------|
 
-- 左側肋膜積液
+| **臨床改善** | 患者臨床症狀好轉（過早拔管有敗血症風險）|
 
-- 主動脈結輪廓消失
+| **膽管通暢** | 復查膽道造影顯示**膽囊管及總膽管通暢** |
 
-- 氣管或食道向右偏移
-
-
-
-### CT / MRI 表現：
-
-- **內膜瓣（Intimal Flap）**：區分真腔（true lumen）與假腔（false lumen）
-
-
-
----
-
-
-
-## 冠狀動派疾病 / Coronary Artery Disease (CAD)
-
-
-
-- 全球死亡主因
-
-- CT 可評估冠狀動派狹窄、鈣化
-
-- SPECT 心肌灌注掃描：偵測缺血
-
-- MRI：評估心肌疤痕、收縮功能
+| **時間要求** | 放置後**至少 6 週**（不論經肝或經腹膜入路），以確保從膽囊到皮膚建立成熟的纖維竇道 |
 
 
 
@@ -3848,13 +4982,15 @@ weight: 9
 
 
 
-- 主心臟輪廓異常（心房、心室、主動脈）為心臟疾病診斷的關鍵
+- **膽囊造口術**：不適手術的急性結石/非結石性膽囊炎；可作為結石性膽囊炎的橋接治療；非結石性可達治愈
 
-- 肺水腫分為間質型與肺泡型，各有特徵性影像學表現
+- **培養陰性率**：40% 急性膽囊炎培養陰性
 
-- 主動脈夾層需靠 CT/MRI 確認內膜瓣
+- **經肝入路**：更常用；腹膜膽汁漏風險低；肝撕裂風險高
 
-- 冠狀動派疾病可使用 CTA、鈣化積分、SPECT 評估
+- **經腹膜入路**：肝損傷風險低；但腹膜膽汁漏風險高；需穿刺膽囊底
+
+- **拔管三原則**：臨床改善 + 膽囊管/總膽管通暢 + 至少 6 週（確保竇道成熟）
 
 
 
@@ -3862,7 +4998,1353 @@ weight: 9
 
 
 
-> **參考文獻 / Reference:** Herring W. Learning Radiology (5th Ed.) — Recognizing Normal Cardiac Anatomy (Ch. 3) & Recognizing Adult Heart Disease (Ch. 11). Elsevier.
+# Interventional Radiology - Page 734
+
+
+
+![Page 734](/core_radiology/images/interventional/page-734.png)
+
+
+
+## 經皮腎造口術 / Percutaneous Nephrostomy (PCN)
+
+
+
+---
+
+
+
+### 適應症 / Indications
+
+
+
+| 適應症 | 說明 |
+
+|--------|------|
+
+| **尿路梗阻的尿液分流** | 最常見適應症；可由結石、惡性腫瘤或狹窄引起 |
+
+| **腎積膿（Pyonephrosis）** | 收集系統積膿；為**緊急適應症** |
+
+| **逆行支架無法放置時** | 可用於放置順行性輸尿管支架（經膀胱鏡逆行放置失敗時）|
+
+
+
+---
+
+
+
+### 穿刺技術 / Technique
+
+
+
+### 影像引導 / Imaging Guidance
+
+- 直接顯示收集系統是必要條件
+
+- 多數情況下，尿路梗阻導致**腎積水**，可超聲定位穿刺
+
+- 若收集系統無擴張：靜脈注射造影劑顯影非擴張收集系統，在透視下引導穿刺
+
+
+
+### 體位與入路 / Position and Access
+
+- **俯臥位**
+
+- 使用 **22G 穿刺針**進行**直接後入路**
+
+
+
+### 減少出血並發症 / Minimizing Bleeding Complications
+
+- 穿刺進入**無血管區（Brodel 線，avascular zone of Brodel）**
+
+- 定義：**腎臟腹側與背側分支动脉之間的平面**
+
+- 最佳入路平面：**後外側腎臟，指向後腎盞**
+
+
+
+### 並發症 / Complications
+
+- 最常見：**出血及感染**
+
+- 幾乎所有患者都會有**短暫性血尿**，但嚴重出血並發症罕見
+
+- 原有感染時：廣泛操作可致**敗血症**風險
+
+
+
+---
+
+
+
+## 經皮胃造口術 / Percutaneous Gastrostomy
+
+
+
+### 適應症 / Indications
+
+- **食道、頭頸部及神經系統疾病**可能需要經皮胃造口
+
+- **重要說明**：有強烈證據表明胃造口**不能改善癡呆及攝入減少的老年患者的生存率或生活質量**
+
+- **較少見適應症**：長期腸道減壓（如惡性腸梗阻或長期腸梗阻的姑息治療）
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **PCN 最常見適應症**：梗阻性腎病的尿液分流（結石/腫瘤/狹窄）；腎積膿為緊急適應症
+
+- **穿刺入路**：俯臥位；22G 穿刺針後入路；進入 Brodel 無血管區以減少出血
+
+- **並發症**：短暫性血尿常見；原有感染操作有敗血症風險
+
+- **經皮胃造口**：頭頸/食道/神經疾病；不改善老年癡呆患者預後；可長期腸道減壓
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 735
+
+
+
+![Page 735](/core_radiology/images/interventional/page-735.png)
+
+
+
+## 經皮胃造口術（續）/ Percutaneous Gastrostomy (Continued)
+
+
+
+### 禁忌症 / Contraindications
+
+- **絕對禁忌症**：
+
+  - 缺乏合適的穿刺窗（如結腸位於中間）
+
+  - 廣泛性胃靜脈曲張
+
+  - 無法糾正的凝血病
+
+
+
+### 操作步驟 / Procedure
+
+1. 在透視引導下插入**鼻胃管**，向胃內注入空氣
+
+2. 透視引導下，使用**三枚 T 形固定夾（T-fastener gastropexy clips）**將胃前壁固定於腹壁；每枚 T 形夾置入後，注射少量造影劑確認胃內位置
+
+3. 固定夾置入後，胃壁與腹壁牢固贴合，行正式胃造口穿刺並逐步擴張
+
+4. 評估患者**無腹膜徵象**後，**24 小時後**即可使用胃造口
+
+5. G 管需保留**至少一個月**，以形成成熟的經腹膜竇道
+
+
+
+---
+
+
+
+## 下肢血管造影 / Lower Extremity Angiography
+
+
+
+---
+
+
+
+## 下肢血管正常解剖 / Normal Anatomy of the Leg Vasculature
+
+
+
+---
+
+
+
+### 下肢动脉解剖 / Arterial Anatomy of the Leg
+
+
+
+| 动脉 | 說明 |
+
+|------|------|
+
+| **股动脉（Femoral Artery）** | 腹股溝韌帶遠端，髂外动脉的延續 |
+
+| **股深动脉（Deep Femoral Artery）** | 分支供應大腿深層肌肉 |
+
+| **旋髂淺动脉（Superficial Circumflex Iliac Artery）** | |
+
+| **淺股动脉（Superficial Femoral Artery, SFA）** | 繼續供應小腿及足部 |
+
+| **膕动脉（Popliteal Artery）** | SFA 穿過收肌裂孔後延續為膕动脉 |
+
+| **脛後动脉（Posterior Tibial Artery）** | 最內側分支 |
+
+| **腓动脉（Peroneal Artery）** | 起自脛腓干，與脛後动脉同行 |
+
+| **脛前动脉（Anterior Tibial Artery）** | 最外側分支；為小腿唯一的前方动脉 |
+
+
+
+### 記憶法 / Mnemonic
+
+- 脛前动脉位於**外側**，因為小腿前外側只有**前室**的肌肉（前脛肌）
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **胃造口**：鼻胃管充氣 → T 形固定夾固定（每枚後確認胃內位置）→ 擴張穿刺道 → 24 小時後可用；至少保留 1 個月
+
+- **胃造口禁忌**：無穿刺窗、廣泛胃靜脈曲張、凝血病不可糾正
+
+- **下肢动脉**：股动脉 → SFA → 膕动脉 → 脛後/腓/脛前动脉（由內到外）；脛前动脉在外側
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 736
+
+
+
+![Page 736](/core_radiology/images/interventional/page-736.png)
+
+
+
+## 下肢靜脈解剖 / Venous Anatomy of the Leg
+
+- 下肢靜脈解剖將在超聲章節討論。
+
+
+
+---
+
+
+
+## 遠端主動脈、髂动脉、盆腔及下肢动脉 / Distal Aorta, Iliac, Pelvic, and Leg Arteries
+
+
+
+---
+
+
+
+### 粥樣硬化性遠端主動脈閉塞性疾病（Leriche 綜合徵）/ Atherosclerotic Distal Aortic Occlusive Disease (Leriche Syndrome)
+
+
+
+### 臨床特點 / Clinical Features
+
+- **Leriche 綜合徵**為遠端腹主動脈的慢性閉塞性粥樣硬化性疾病
+
+- **經典型四聯徵**：
+
+  1. **陽痿（Impotence）**
+
+  2. **臀部間歇性跛行（Buttock Claudication）**
+
+  3. **股动脉搏動消失（Absent Femoral Pulses）**
+
+  4. **下肢發涼（Cold Lower Extremities）**
+
+
+
+### 側支循環 / Collateral Circulation
+
+- 隨時間進展，發展出從**胸腹主動脈到髂外动脉**的豐富側支，分為前、中、後路徑：
+
+
+
+| 路徑 | 側支循環 |
+
+|------|---------|
+
+| **前路徑** | 胸主動脈 → 胸廓內动脉 → 腹壁上动脉 → 腹壁下动脉 → 髂外动脉 |
+
+| **中路徑** | 腹主動脈 → SMA → IMA → 直腸上/中/下动脉 → 髂內动脉前幹 → 髂外动脉 |
+
+| **後路徑** | 腹主動脈 → 肋間及腰动脉 → 臀上动脉、髂腰动脉 → 旋髂深动脉 → 髂外动脉 |
+
+
+
+---
+
+
+
+### 髂动脉粥樣硬化性疾病 / Iliac Atherosclerotic Disease
+
+
+
+### 治療原則 / Treatment Principles
+
+- 經皮介入治療對合適的**主髂动脉粥樣硬化性限流病變**有效且耐受性良好
+
+- 2006 年 **TASC-II（第二版跨大西洋國際共識）**對主髂及腹股溝下閉塞性疾病進行了分型（Type A–D，D 最嚴重）
+
+
+
+### 病變分型與治療 / Lesion Classification and Treatment
+
+
+
+| 病變類型 | 長度 | 治療建議 |
+
+|---------|------|---------|
+
+| **Type A** | 非鈣化、同心圓狹窄 **<3 cm** | **PTA 為首選** |
+
+| **Type B/C** | 長度 **3–10 cm** | PTA 或手術均可（注：TASC-II 指南推薦手術，但許多機構對 >3 cm 的近端病變首選支架）|
+
+| 術後支架置入指徵 | — | 殘餘狹窄 **>30%** 或靜息收縮壓差 **>10 mm Hg** |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **Leriche 綜合徵**：遠端主動脈閉塞；陽痿+臀部跛行+股动脉搏動消失+下肢涼 = 經典型四聯徵；前/中/後三條側支路徑
+
+- **髂动脉狹窄**：Type A（<3 cm 非鈣化）首選 PTA；3-10 cm 可選 PTA 或手術；術後壓差 >10 mm Hg 或殘餘 >30% 需支架
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 737
+
+
+
+![Page 737](/core_radiology/images/interventional/page-737.png)
+
+
+
+## 髂动脉瘤 / Iliac Artery Aneurysm
+
+
+
+### 定義與治療指徵 / Definition and Treatment Indications
+
+- **髂动脉瘤定義**：直徑 **>1.5 cm**
+
+- **修復建議**：直徑 **>3.0 cm** 時
+
+
+
+### 臨床特點 / Clinical Features
+
+- 主要見於**老年男性**
+
+- 與**腹主動脈瘤（AAA）**密切相關
+
+- 最常見病因：**粥樣硬化**
+
+- 其他病因：**結締組織疾病**（如**馬凡綜合徵**）
+
+
+
+### 影像與治療 / Imaging and Treatment
+
+- 造影發現髂动脉狹窄時，建議行**橫斷面成像**
+
+- 髂动脉瘤伴**腔內血栓**可在造影上模擬粥樣硬化性狹窄（需注意鑑別）
+
+- **首選治療**：血管內**覆膜支架（Stent-Graft）**（適合候選者）
+
+
+
+### 症狀性髂动脉瘤 / Symptomatic Iliac Aneurysm
+
+- 動脉瘤的**佔位效應**可引起**神經及泌尿系統症狀**
+
+- 此類情況建議**手術治療**
+
+- 血管內修復可漸進性縮小動脉瘤體積，但速度較慢
+
+
+
+---
+
+
+
+## 持續性坐骨动脉 / Persistent Sciatic Artery
+
+
+
+### 臨床特點 / Clinical Features
+
+- **極罕見**的血管畸形，胎兒坐骨动脉持續存在並供應下肢大部分血供
+
+- 起自**髂內动脉**（通常為**臀下动脉**），向下延續至膕动脉
+
+- 可能存在發育不良的股动脉
+
+
+
+### 臨床意義 / Clinical Significance
+
+- 可增加**動脉瘤形成**的風險
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **髂动脉瘤**：>1.5 cm 定義；>3.0 cm 修復；老年男性；AAA 相關；造影上血栓可模擬狹窄；血管內覆膜支架首選
+
+- **持續性坐骨动脉**：罕見；起自髂內动脉；可致动脉瘤
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 738
+
+
+
+![Page 738](/core_radiology/images/interventional/page-738.png)
+
+
+
+## 盆腔血管創傷 / Pelvic Vascular Trauma
+
+
+
+### 臨床特點 / Clinical Features
+
+- 盆腔創傷可因动脉損傷導致**災難性出血**
+
+- 恥骨聯合分離 **3 cm** 可使盆腔容積翻倍至約 **8 升**，可導致完全出血
+
+
+
+### 介入策略 / Interventional Approach
+
+- 活動性盆腔出血伴骨折時，血管造影通常在**骨科手術前**進行
+
+- 活動性出血在手術上可能難以控制
+
+
+
+### 操作步驟 / Procedure
+
+- 首先行**非選擇性盆腔动脉造影**
+
+- 然後行**雙側髂內动脉（前、後幹）選擇性造影**
+
+
+
+### 栓塞策略 / Embolization Strategy
+
+- 由於盆腔側支血供豐富，可對髂內动脉前幹或後幹進行**快速非選擇性明膠海綿栓塞**
+
+- 危及生命的出血時，**應避免耗時的超選擇性栓塞**
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **盆腔血管創傷**：恥骨聯合 3 cm 分離可使盆腔容積增至 8 升；造影優先於骨科手術
+
+- **栓塞策略**：側支豐富可非選擇性栓塞；生命威脅性出血時避免超選擇性栓塞（耗時）
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 739
+
+
+
+![Page 739](/core_radiology/images/interventional/page-739.png)
+
+
+
+## 子宮动脉栓塞術 / Uterine Artery Embolization (UAE)
+
+
+
+### 適應症 / Indications
+
+- **有症狀性子宮肌瘤的治療**
+
+- **產後出血**
+
+
+
+### 技術與目標 / Technique and Goal
+
+- **栓塞材料**：聚乙烯醇（PVC）顆粒
+
+- **目標**：使富血供肌瘤發生**出血性梗死**，同時保持內膜及肌層足夠灌注，**保留未來生育能力**
+
+
+
+### 並發症 / Complications
+
+- UAE 嚴重並發症率約 **1.25%**，對健康育齡女性需特別考慮
+
+- 嚴重並發症包括：
+
+  - **膿腫**
+
+  - **內膜炎**
+
+  - **卵巢壞死**（由非靶栓塞引起，導致後續**過早絕經**）
+
+
+
+---
+
+
+
+## 血栓栓塞性及粥樣硬化性下肢疾病 / Thromboembolic and Atherosclerotic Lower Extremity Disease
+
+
+
+---
+
+
+
+### 慢性动脉閉塞性疾病 / Chronic Arterial Occlusive Disease
+
+
+
+### 危險因素 / Risk Factors
+
+- 與冠心病相同：**吸煙、糖尿病、高血壓、高血脂、缺乏運動、家族史**
+
+
+
+### 臨床表現 / Clinical Presentation
+
+- 初期表現為**間歇性跛行**
+
+- 嚴重者可進展為**缺血性靜息痛**或**組織缺失**
+
+
+
+### 治療 / Treatment
+
+- 初期通常**保守治療**：危險因素控制、運動、阿司匹林和/或**西洛他唑（Cilostazol）**（具有血管擴張作用的抗血小板藥物）
+
+
+
+### 病變好發部位 / Common Locations
+
+- 常見部位：**髂總动脉、淺股动脉（SFA）、膕动脉、脛腓干、脛动脉起始部**
+
+
+
+### 分級系統 / Classification Systems
+
+- **Rutherford 分級**：慢性肢體缺血的臨床分類
+
+- **踝肱指數（ABI）**：每例疑似动脉閉塞患者均應測量
+
+  - ABI **<0.9** 為異常
+
+  - ABI 0.5–0.9：通常與間歇性跛行相關
+
+  - 靜息痛：通常 ABI **<0.4**
+
+- **脈搏容量記錄（PVR）**：多水平都卜勒波形特徵分析
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **UAE**：肌瘤及產後出血；目標是肌瘤出血性梗死但保留生育能力；嚴重並發症率 1.25%（膿腫、內膜炎、卵巢壞死/過早絕經）
+
+- **慢性下肢动脉閉塞**：危險因素同冠心病；跛行初始保守（西洛他唑）；ABI 診斷（<0.9 異常；<0.4 靜息痛）；Rutherford 分級
+
+
+
+---
+
+
+
+# Interventional Radiology - Page 740
+
+
+
+![Page 740](/core_radiology/images/interventional/page-740.png)
+
+
+
+## 股膕动脉病變 / Femoropopliteal Disease
+
+
+
+### TASC-II 分型與治療 / TASC-II Classification and Treatment
+
+
+
+| 分型 | 病變特徵 | 首選治療 |
+
+|------|---------|---------|
+
+| **Type A** | 單發狹窄 **≤10 cm** | **血管內治療** |
+
+| **Type B** | 多發病變（狹窄或閉塞），每個 **<5 cm**；或單發病變 **<15 cm** | 根據患者共病及偏好，血管內治療為首選 |
+
+| **Type C** | 多發狹窄或閉塞 **>15 cm** | 根據患者共病及偏好，手術為首選 |
+
+| **Type D** | 慢性完全閉塞 | **手術治療** |
+
+
+
+---
+
+
+
+## 急性血栓栓塞性疾病 / Acute Thromboembolic Disease
+
+
+
+### 臨床特點 / Clinical Features
+
+- **急性肢體缺血**為急症
+
+- 與慢性粥樣硬化性疾病相比，臨床及造影表現截然不同
+
+- 急性血栓栓塞典型表現：**疼痛、蒼白、肢冷（Poikilothermia）、無脈、感覺異常**
+
+- **藍趾綜合徵（Blue Toe Syndrome）**：急性血栓栓塞至足趾
+
+
+
+### 病因 / Etiology
+
+- 最常見栓子來源：**左心房血栓**；**心房顫動**為重要危險因素
+
+- 超聲心動圖檢查為必要工作的一部分
+
+
+
+### 影像表現 / Imaging Findings
+
+- 造影顯示：受影響血管的**急性截斷**，常伴有**半月板徵（Meniscus Sign）**
+
+- 可能無明顯粥樣硬化性疾病
+
+
+
+### 治療 / Treatment
+
+| 選項 | 說明 |
+
+|------|------|
+
+| 手術栓子切除術 | |
+
+| 手術搭橋移植 | |
+
+| 血管內溶栓 | 親水導絲穿越病變 → 多側孔輸注導管跨血栓放置 → **tPA 0.5 mg/h，持續 48–72 小時** |
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+- **股膕动脉 TASC-II**：Type A/B 血管內首選；Type C/D 手術首選；Type B/C 根據共病及偏好決定
+
+- **急性肢體缺血**：5P（疼痛、蒼白、肢冷、無脈、感覺異常）；心房顫動為常見病因；超聲心動圖必要；tPA 溶栓 48-72h
+
+
+
+---
+
+
+
+# 介入放射學 — Learning Radiology 整合 / Interventional Radiology
+
+
+
+> **来源 / Source:** Learning Radiology (5th Ed.) — Chapter 28: Using Image-Guided Interventions in Diagnosis and Treatment
+
+
+
+---
+
+
+
+## 介入工具詞彙 / Glossary of Interventional Tools
+
+
+
+| 工具 | 說明 |
+
+|------|------|
+
+| **穿刺針（Access Needle）** | 穿透皮膚進入目標的針頭，內含導入導絲的通道 |
+
+| **導絲（Guidewires）** | 細導絲，不同長度、材質、柔軟度，用於引入導管 |
+
+| **導管（Catheters）** | 不同長度、直徑、形狀的塑膠管，用於注入或抽出物質 |
+
+| **血管鞘（Sheath）** | 血管入口的中空管，可交換導管同時維持血管通路 |
+
+| **擴張器（Dilator）** | 漸進式增大穿刺孔徑的錐形導管 |
+
+
+
+---
+
+
+
+## Seldinger 技術 / Seldinger Technique
+
+
+
+1. 穿刺針經皮穿刺血管
+
+2. 導入導絲
+
+3. 移除穿刺針，導絲留置
+
+4. 導管沿導絲進入血管
+
+
+
+---
+
+
+
+## 動脈途徑 / Arterial Access
+
+
+
+### 適應症
+
+- 診斷性血管造影
+
+- 介入手術（如血管栓塞、血管形成術）
+
+
+
+### 股動脈途徑
+
+- 最常使用
+
+- 穿刺股總动脉目標為股骨頭水平的动脉段
+
+- 超音波導引可提高成功率
+
+
+
+### 風險
+
+- 出血、血腫、假性动脉瘤
+
+- 动脉夾層、血栓形成
+
+- 感染
+
+
+
+---
+
+
+
+## 中央靜脈途徑 / Central Venous Access
+
+
+
+### 適應症
+
+- 介入治療（如 PE 溶栓、IVC 過濾器）
+
+- 化療導管/輸注港（Port）放置
+
+- 血液透析/血漿置換
+
+
+
+### 途徑選擇
+
+- **頸內靜脈（Internal Jugular）**
+
+- **鎖骨下靜脈（Subclavian）**
+
+- **股靜脈（Femoral）**
+
+- **周邊插入中央導管（PICC）**：上肢靜脈，導管尖端在上腔靜脈
+
+
+
+### 導管類型
+
+- **隧道式（Tunneled）**：長期使用，有 cuff 固定
+
+- **非隧道式（Nontunneled）**：短期或緊急使用
+
+
+
+### 風險
+
+- 穿刺併發症：氣胸、血胸、頸动脉穿刺
+
+- 動靜脈瘺（AVF）（少見）
+
+
+
+---
+
+
+
+## 肺栓塞溶栓治療 / Pulmonary Embolism: Thrombolysis
+
+
+
+### 大塊肺栓塞（Massive PE）
+
+- 定義：肺栓塞合併持續性低血壓
+
+- **第一線治療**：靜脈注射血栓溶解劑（如 tPA）
+
+
+
+### 導管導向溶栓（CDT）適應症
+
+- 系統性溶栓高出血風險者（如活動性出血、術後、腦轉移）
+
+- 子巨量 PE（Submassive PE）有高風險特徵者
+
+
+
+### 技術
+
+- 股靜脈或頸內靜脈進入
+
+- 導管經心臟進入肺动脉
+
+- 可用：溶栓導管（輸注孔在血栓內）、超聲波輔助溶栓、機械性血栓切除
+
+
+
+### 風險
+
+- 遠處出血（溶栓通過肺部後進入全身）
+
+- 心律不整
+
+- 肺动脉、心臟瓣膜損傷
+
+
+
+---
+
+
+
+## 下腔靜脈過濾器 / IVC Filter
+
+
+
+### 適應症
+
+- 抗凝血禁忌的肺栓塞患者
+
+- 抗凝血治療下仍有靜脈血栓進展
+
+- 慢性復發性 PE 抗凝失敗
+
+- 大塊 PE 後預期效益降低
+
+
+
+### 放置技術
+
+- 頸靜脈或股靜脈進入
+
+- 放置於**腎靜脈入口下方**（infrarenal）的下腔靜脈
+
+- 事前做 IVC 靜脈造影確認解剖
+
+
+
+### 風險
+
+- 過濾器移位、斷裂
+
+- 部件穿透 IVC 壁
+
+- 血栓形成（腎靜脈、下腔靜脈）
+
+- 深靜脈血栓風險增加
+
+
+
+---
+
+
+
+## 影像導引活檢 / Image-Guided Biopsy
+
+
+
+### 適應症
+
+- 評估先前影像發現的病灶
+
+- 組織取樣以確認良性或惡性
+
+
+
+### 技術
+
+| 技術 | 描述 |
+
+|------|------|
+
+| **細針抽吸（FNA）** | 細針（~25G）來回抽吸取細胞 |
+
+| **核心切片（Core Biopsy）** | 大針（~18G）取組織條 |
+
+
+
+### 肺部病灶活檢
+
+- CT 或超聲波導引
+
+- 選擇**經過最少胸膜**及**避開大血管**的路徑
+
+- 術後可能氣胸
+
+- 可放置**標記物（Fiducial Marker）**以輔助放射治療
+
+
+
+---
+
+
+
+## 熱熔術 / Thermal Ablation
+
+
+
+### 類型
+
+- **射頻熔術（RFA）**：加熱
+
+- **微波熔術（MWA）**：加熱更快
+
+- **冷凍熔術（Cryoablation）**：冷卻
+
+- **化學熔術**：乙醇、乙酸
+
+
+
+### 適應症
+
+| 部位 | 適應症 |
+
+|------|--------|
+
+| **肺部** | 早期非小細胞肺癌（不適合手術者）、寡轉移 |
+
+| **肝臟** | 小 HCC（≤3 cm）、不適合手術的寡轉移、移植橋接 |
+
+| **腎臟** | 小腎腫瘤（不適合手術者、腎功能保存） |
+
+
+
+### 技術要點
+
+- 影像導引（CT/US/MRI）確認探針位置
+
+- 需有足夠安全邊界（肝細胞癌建議 ≥ 1 cm）
+
+- 術後影像確認並評估併發症
+
+
+
+---
+
+
+
+## 經頸靜脈肝內門體分流 / TIPS
+
+
+
+### 原理
+
+- 建立**門靜脈 → 肝靜脈**分流通道
+
+- 繞過肝實質（肝硬化）降低門脈壓力
+
+- 控制**食道/胃靜脈曲張出血**及**頑固性腹水**
+
+
+
+### 技術
+
+1. 頸內靜脈進入
+
+2. 導管進入肝靜脈（通常右肝靜脈）
+
+3. 穿刺針穿過肝實質進入門靜脈右支
+
+4. 導絲引入，支架釋放（分流道）
+
+5. 測量門脈-右心房壓力梯度
+
+6. 目標：梯度降至 < 12 mmHg
+
+
+
+### 風險
+
+- 程序：肝損傷/梗塞、出血、氣胸
+
+- 術後：**肝性腦病變**（常見）、分流功能障礙/血栓、心衰竭
+
+
+
+---
+
+
+
+## 膿疡引流 / Abscess Drainage
+
+
+
+### 適應症
+
+- 可引流診斷及治療感染性積液
+
+- 常見部位：肝、腎、脾、腹腔、盆腔
+
+
+
+### 技術
+
+1. 影像導引（CT/US）確認最佳路徑
+
+2. 穿刺針進入 collection
+
+3. 導絲引入，擴張 tract
+
+4. 引流導管留置（豬尾導管）
+
+5. 連接引流袋
+
+6. 拔管標準：臨床好轉、實驗室正常、無顯著引流（< 10 mL/day）
+
+
+
+---
+
+
+
+## 胃腸道出血栓塞 / GI Bleeding Embolization
+
+
+
+### 適應症
+
+- CT 血管造影或標記 RBC 掃描確診活動性出血
+
+- 內視鏡無法治療的上消化道出血
+
+- 血流動力學不穩的大量下消化道出血
+
+
+
+### 技術
+
+- 動脈進入，選擇性血管造影
+
+- 上消化道出血：預防性栓塞常用（側支循環豐富）
+
+- 下消化道出血：**確認出血點後才栓塞**（側支循環較差，缺血風險高）
+
+- 栓塞材料：線圈（Coil）、氰基丙烯酸酯膠（G胶）、明膠海綿（Gelfoam）
+
+
+
+---
+
+
+
+## 經皮腎造口 / Percutaneous Nephrostomy (PCN)
+
+
+
+### 適應症
+
+- 積水（結石、腫瘤、發炎）合併或不合併腎功能衰竭
+
+- 無法由泌尿科處理的尿液分流
+
+- 術前置入（如輸尿管擴張術或腎結石移除術）
+
+
+
+### 技術
+
+1. 超音波/透視導引確認入路
+
+2. 穿刺至下腎盞
+
+3. 導絲引入，擴張
+
+4. PCN 導管留置（腎盞內形成保留環）
+
+5. 連接引流袋
+
+
+
+### 風險
+
+- 出血、血尿
+
+- 菌血症、敗血症
+
+- 氣胸（高位入路）
+
+- 腎假性动脉瘤、AVF（可需栓塞治療）
+
+
+
+---
+
+
+
+## 腹主動脈瘤血管內修復 / EVAR
+
+
+
+### 適應症
+
+- 腹部主動脈瘤（AAA）≥ 5.5 cm（男）或 ≥ 5.0 cm（女）
+
+- 生長速率 > 1 cm/年
+
+- 有症狀或即將破裂的 AAA
+
+
+
+### 技術
+
+1. 術前 CTA 評估
+
+2. 雙側股總动脉穿刺/切開
+
+3. 標記導管進入，主動脈造影測量
+
+4. 釋放覆膜支架（Endograft）
+
+5. 確保重要分支不被覆蓋（如腎动脉）
+
+6. 完成造影確認無滲漏（Endoleak）
+
+
+
+### 風險
+
+- 程序：动脉穿孔、器官缺血、腹股溝血腫
+
+- 支架相關：移位、斷裂、血栓、內滲漏
+
+
+
+---
+
+
+
+## 子宮肌瘤栓塞 / UFE
+
+
+
+### 適應症
+
+- 有症狀性子宮肌瘤（heavy menstrual bleeding、疼痛、壓迫感、頻尿、性交疼痛）
+
+
+
+### 禁忌
+
+- 懷孕
+
+- 計劃短期內懷孕（仍有爭議）
+
+- 懷疑，子宮平滑肌肉瘤
+
+
+
+### 技術
+
+1. 術前 MRI 評估
+
+2. 雙側子宫动脉導管進入
+
+3. 注射栓塞微球（如 Tris-acryl gelatin microspheres）直至血流停滞
+
+4. 術後 MRI 及臨床追蹤
+
+
+
+### 風險
+
+- 疼痛（術後 8–24 小時痙攣）
+
+- 內膜炎、子宮缺血、壞死
+
+- 卵巢功能受損/提早停經（卵巢意外栓塞）
+
+- 子宮肌瘤可能脫落
+
+
+
+---
+
+
+
+## 急性缺血性腦中風機械取栓 / Mechanical Thrombectomy
+
+
+
+### 適應症
+
+- 良好的術前功能狀態
+
+- 大血管阻塞（ICA、MCA 第一分支）
+
+- 發作 < 6 小時
+
+- 無廣泛核心梗塞或出血
+
+
+
+### 技術
+
+1. 術前非顯影 CT、CTA、或灌注影像
+
+2. 導管進入患側頸內动脉
+
+3. 微導管穿過血栓
+
+4. **支架取栓器（Stent Retriever）**釋放穿過血栓，停留後拉出
+
+5. 或使用抽吸系統
+
+6. 術後造影確認再通，CT 排除顱內出血
+
+
+
+### 風險
+
+- 顱內出血
+
+- 动脉夾層/穿孔
+
+- 血栓碎屑栓塞
+
+- 腹股溝血腫
+
+
+
+---
+
+
+
+## 臨床要點 / Clinical Key Points
+
+
+
+| 程序 | 核心要點 |
+
+|------|----------|
+
+| **動脉途徑** | 一切介入手術的基礎，Seldinger 技術為標準 |
+
+| **中央靜脈導管** | Tunneled 適长期血透/化療；PICC 適中期 |
+
+| **PE 溶栓** | 大塊 PE 首选，CDT 適高出血風險者 |
+
+| **IVC 過濾器** | 抗凝禁忌或失敗的 PE 預防復發 |
+
+| **影像導引活檢** | 精確微創組織取樣，CT/US 導引可達確診 |
+
+| **熱熔術** | 早期肺癌、肝 small HCC、腎小腫瘤的微創治療選項 |
+
+| **TIPS** | 門脈高壓曲張出血及頑固性腹水的微創門脈減壓 |
+
+| **膿疡引流** | 可使许多患者免於手術 |
+
+| **GI 出血栓塞** | 確認出血點後栓塞，下消化道需注意缺血風險 |
+
+| **PCN** | 積水/腎功能衰竭的微創引流及尿液分流 |
+
+| **EVAR** | 高風險患者 AAA 的微創修復，取代許多開放手術 |
+
+| **UFE** | 有症狀肌瘤的子宫保留治療選項 |
+
+| **機械取栓** | 急性大血管中風的時間關鍵再通治療 |
+
+
+
+---
+
+
+
+> **參考文獻 / Reference:** Herring W. Learning Radiology (5th Ed.) — Using Image-Guided Interventions in Diagnosis and Treatment (Ch. 28). Elsevier.
 
 
 
