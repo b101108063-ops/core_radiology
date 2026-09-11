@@ -1,4 +1,4 @@
-{{- /* Hugo Book baseof.html - homepage uses single.html's collapsible sidebar */ -}}
+{{- /* baseof.html - custom sidebar with sorted sections for doc pages */ -}}
 <!DOCTYPE html>
 <html lang="{{ default .Site.Language.Name .Site.Language.Locale }}" dir="{{ default "ltr" .Site.Language.Direction }}" data-theme="{{ default "light" .Site.Params.BookTheme }}">
 <head>
@@ -8,12 +8,41 @@
 <body dir="{{ default "ltr" .Site.Language.Direction }}" class="book-kind-{{ .Kind }} book-type-{{ .Type }}{{ with .Layout }} book-layout-{{ . }}{{ end }}">
 
   {{- if eq .Kind "home" -}}
-    {{- /* === HOMEPAGE: use single.html's sidebar === */ -}}
     {{ partial "docs/sidebar" . }}
   {{- else -}}
-    {{- /* === CONTENT PAGES: use Hugo Book menu === */ -}}
     <main class="container flex">
-      {{ template "menu-container" . }}
+      <aside class="book-menu">
+        <div class="book-menu-content">
+          <nav>
+            {{ partial "docs/brand" . }}
+            {{ partial "docs/search" . }}
+
+            {{/* Build sorted section list */}}
+            {{ $section := .Site.GetPage "docs" }}
+            {{ $ordered := slice }}
+            {{ range $section.Pages }}
+              {{ $w := 9999 }}
+              {{ with .Params.weight }}{{ $w = . }}{{ end }}
+              {{ $ordered = $ordered | append (dict "page" . "weight" $w) }}
+            {{ end }}
+            {{ $sorted := slice }}
+            {{ range sort $ordered "weight" "asc" }}
+              {{ $sorted = $sorted | append .page }}
+            {{ end }}
+
+            <ul>
+              {{ range $sorted }}
+                {{ if .IsSection }}
+                <li>
+                  <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+                </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </nav>
+        </div>
+      </aside>
+
       <div class="book-page">
         <header class="book-header hidden">
           {{ template "header" . }}
