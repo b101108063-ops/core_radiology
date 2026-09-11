@@ -616,9 +616,10 @@ for (var i = 0; i < pathParts.length; i++) {
     'ultrasound': 'Ultrasound'
   };
 
-  chapterOrder.forEach(function(ch) {
-    console.log('DEBUG: processing chapter', ch, 'IMAGE_DATA has it?', !!IMAGE_DATA[ch]);
-    if (!IMAGE_DATA[ch]) return;
+  // DOM debug: write directly into chapter-groups div to prove execution
+    chapterGroupsEl.innerHTML += '<p style="color:#ff0;font-size:0.6rem;padding:2px 6px;">DEBUG: JS loaded, chapters=</p>';
+    chapterOrder.forEach(function(ch) {
+      if (!IMAGE_DATA[ch]) return;
     var pages = IMAGE_DATA[ch].pages;
     var firstPage = pages[0];
     var lastPage = pages[pages.length - 1];
