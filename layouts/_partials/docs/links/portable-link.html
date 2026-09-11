@@ -9,19 +9,33 @@
   {{- $path = strings.TrimSuffix ".md" $path -}}
   {{- $path = strings.TrimSuffix "/_index" $path -}}
 
-  {{- with (.Page.GetPage $path) -}}
-    {{- $destination = .RelPermalink -}}
-  {{- else if (.Page.Resources.Get $path) -}}
-    {{- $destination = (.Page.Resources.Get $path).RelPermalink -}}
-  {{- else if (resources.Get $path) -}}
-    {{- $destination = (resources.Get $path).RelPermalink -}}
-  {{- else -}}
+  {{- $found := false -}}
+  {{- $page := .Page.GetPage $path -}}
+  {{- if and (not $found) $page -}}
+    {{- $destination = $page.RelPermalink -}}
+    {{- $found = true -}}
+  {{- end -}}
+  {{- if not $found -}}
+    {{- $res := .Page.Resources.Get $path -}}
+    {{- if $res -}}
+      {{- $destination = $res.RelPermalink -}}
+      {{- $found = true -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $found -}}
+    {{- $gres := resources.Get $path -}}
+    {{- if $gres -}}
+      {{- $destination = $gres.RelPermalink -}}
+      {{- $found = true -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $found -}}
     {{- $mode := .Page.Site.Params.BookPortableLinks -}}
     {{- $message := printf "Reference '%s' not found in '%s'" .Destination .Page.RelPermalink -}}
     {{- if eq $mode "warning" -}}
-    {{- warnf $message -}}
+      {{- warnf $message -}}
     {{- else if eq $mode "error" -}}
-    {{- errorf $message -}}
+      {{- errorf $message -}}
     {{- end -}}
   {{- end -}}
 
