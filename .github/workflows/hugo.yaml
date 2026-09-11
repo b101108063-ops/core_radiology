@@ -34,13 +34,24 @@ jobs:
         run: |
           git clone https://github.com/alex-shpak/hugo-book themes/hugo-book
 
-          # Patch menu-filetree.html to sort sections by weight
-          cat > themes/hugo-book/layouts/_partials/docs/menu-filetree.html << 'TMPL'
-{{ with (partialCached "docs/menu-section" .Site) }}
-  {{ template "book-section-children" (dict "Section" . "CurrentPage" $) }}
-{{ end }}
+          # Sort sections by weight by patching menu-filetree.html
+          # Find the line "{{ range (where .Section.Pages" and replace with sorted version
+          cd themes/hugo-book/layouts/_partials/docs
 
-{{ define "book-section-children" }}
+          # Backup original
+          cp menu-filetree.html menu-filetree.html.bak
+          cp title.html title.html.bak
+
+          # Patch book-section-children to sort by weight
+          python3 << 'PYEOF'
+          with open('menu-filetree.html', 'r') as f:
+              content = f.read()
+
+          old = '''{{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
+  <ul>
+    {{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}'''
+
+          new = '''{{ define "book-section-children" }}
 {{ $ordered := slice }}
 {{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}
   {{ $weight := 9999 }}
@@ -52,61 +63,24 @@ jobs:
   {{ $sorted = $sorted | append .Page }}
 {{ end }}
   <ul>
-    {{ range $sorted }}
-      {{ if .IsSection }}
-        <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
-          {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
-          {{ template "book-section-children" (dict "Section" . "CurrentPage" $.CurrentPage) }}
-        </li>
-      {{ else if and .IsPage .Content }}
-        <li>
-          {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
-        </li>
-      {{ end }}
-    {{ end }}
-  </ul>
-{{ end }}
+    {{ range $sorted }}'''
 
-{{ define "book-page-link" }}
-  {{ $current := eq .CurrentPage .Page }}
-  {{ $ancestor := .Page.IsAncestor .CurrentPage }}
-  {{ if .Page.Params.BookCollapseSection }}
-    <input type="checkbox" id="section-{{ md5 .Page }}" class="toggle" {{ if or $current $ancestor }}checked{{ end }} />
-    <label for="section-{{ md5 .Page }}" class="flex">
-      <a {{ if .Page.Content }}href="{{ .Page.RelPermalink }}"{{ else }}role="button"{{ end }} class="{{ if $current }}active{{ end }}">
-        {{ template "book-icon-title" .Page -}}
-      </a>
-      <img src="{{ partial "docs/icon" "chevron-right" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Expand" }}" />
-    </label>
-  {{ else if .Page.Params.BookHref }}
-    <a href="{{ .Page.Params.BookHref }}" class="{{ if $current }}active{{ end }}" target="_blank" rel="noopener">
-      {{ template "book-icon-title" .Page -}}
-    </a>
-  {{ else if .Page.Content }}
-    <a href="{{ .Page.RelPermalink }}" class="{{ if $current }}active{{ end }}">
-      {{ template "book-icon-title" .Page -}}
-    </a>
-  {{ else }}
-    <a>
-      {{ template "book-icon-title" .Page -}}
-    </a>
-  {{ end }}
-{{ end }}
+          content = content.replace(old, new)
 
-{{ define "book-icon-title" }}
-{{- with .Page.Params.BookIcon -}}
-  <img src="{{ partial "docs/icon" . }}" class="book-icon" alt="{{ partial "docs/text/i18n" . }}" />
-{{- end -}}
-{{- partial "docs/title" .Page -}}
-{{ end }}
-TMPL
+          # Also fix the closing - need to close the extra range loop
+          # The original closes with {{ end }} for the range, we need to close the sort range too
+          old2 = '    {{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}'
+          content = content.replace(old2, '')
+
+          with open('menu-filetree.html', 'w') as f:
+              f.write(content)
+          print("Patched menu-filetree.html")
+          PYEOF
 
           # Patch title.html to remove "Chapter X:" prefix
-          cat > themes/hugo-book/layouts/_partials/docs/title.html << 'TMPL'
-{{- $title := .Title -}}
-{{- $title = replaceRE "^Chapter\\s+\\d+:\\s*" "" $title -}}
-{{- return $title -}}
-TMPL
+          echo '{{- $title := .Title -}}
+{{- $title = replaceRE "^Chapter\s+\d+:\s*" "" $title -}}
+{{- return $title -}}' > title.html
 
       - name: Build
         run: hugo
