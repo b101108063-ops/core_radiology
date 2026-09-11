@@ -118,6 +118,62 @@
       max-height: 0 !important;
     }
 
+    /* Chapter-group styles (per-chapter collapsible) */
+    .chapter-group {
+      margin: 0.1rem 0;
+    }
+
+    .chapter-group-header {
+      display: flex;
+      align-items: center;
+      padding: 0.35rem 0.5rem;
+      font-size: 0.78rem;
+      color: #aaa;
+      cursor: pointer;
+      border-radius: 4px;
+      user-select: none;
+      background: #1e1e1e;
+      border-bottom: 1px solid #2a2a2a;
+    }
+
+    .chapter-group-header:hover {
+      background: #252525;
+    }
+
+    .chapter-group-header .arrow {
+      font-size: 0.6rem;
+      margin-right: 0.4rem;
+      transition: transform 0.2s;
+      color: #666;
+    }
+
+    .chapter-group-header.collapsed .arrow {
+      transform: rotate(-90deg);
+    }
+
+    .chapter-group-items {
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+      padding: 0.2rem 0.2rem 0.2rem 0.6rem;
+    }
+
+    .chapter-group-items.collapsed {
+      max-height: 0 !important;
+    }
+
+    .chapter-pages-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 2px;
+      padding: 0.2rem 0.1rem;
+    }
+
+    .chapter-range {
+      font-size: 0.65rem;
+      color: #555;
+      padding: 0.1rem 0.6rem 0.2rem;
+    }
+
     /* Image index styles */
     .image-index-group {
       margin: 0.15rem 0;
@@ -459,13 +515,8 @@
       <p class="sidebar-chapter-title">{{ .Title }}</p>
     </div>
     <div class="sidebar-nav" id="toc-nav">
-      <!-- 頁面索引大區塊：可折疊 -->
-      <div class="sidebar-section-group" id="section-pages">
-        <div class="sidebar-section-header" id="header-pages">
-          <span class="arrow">▼</span>頁面索引
-        </div>
-        <div class="sidebar-section-content" id="content-pages">
-        </div>
+      <!-- 各章節頁面群組 -->
+      <div id="chapter-groups">
       </div>
       <!-- 內容大綱大區塊：可折疊 -->
       <div class="sidebar-section-group" id="section-headings">
@@ -525,14 +576,11 @@ for (var i = 0; i < pathParts.length; i++) {
 
 (function() {
   // Setup collapsible sections
-  var secPages = document.getElementById('section-pages');
-  var hdrPages = document.getElementById('header-pages');
-  var contPages = document.getElementById('content-pages');
   var secHeadings = document.getElementById('section-headings');
   var hdrHeadings = document.getElementById('header-headings');
   var contHeadings = document.getElementById('content-headings');
 
-  function makeCollapsible(header, content, section) {
+  function makeCollapsible(header, content) {
     header.addEventListener('click', function() {
       var isCollapsed = content.classList.contains('collapsed');
       content.classList.toggle('collapsed');
@@ -547,43 +595,86 @@ for (var i = 0; i < pathParts.length; i++) {
     });
   }
 
-  makeCollapsible(hdrPages, contPages, secPages);
-  makeCollapsible(hdrHeadings, contHeadings, secHeadings);
+  makeCollapsible(hdrHeadings, contHeadings);
 
-  // Image index goes into #content-pages
-  if (chapter && IMAGE_DATA[chapter]) {
-    var pages = IMAGE_DATA[chapter].pages;
+  // Build chapter groups in sidebar
+  var chapterGroupsEl = document.getElementById('chapter-groups');
+  var chapterOrder = ['breast','cardiovascular','gi','interventional','msk','neuro','nuclear','pediatric','physics','thoracic','ultrasound'];
+  var chapterNames = {
+    'breast': 'Breast',
+    'cardiovascular': 'Cardiovascular',
+    'gi': 'GI',
+    'interventional': 'Interventional',
+    'msk': 'MSK',
+    'neuro': 'Neuro',
+    'nuclear': 'Nuclear',
+    'pediatric': 'Pediatric',
+    'physics': 'Physics',
+    'thoracic': 'Thoracic',
+    'ultrasound': 'Ultrasound'
+  };
+
+  chapterOrder.forEach(function(ch) {
+    if (!IMAGE_DATA[ch]) return;
+    var pages = IMAGE_DATA[ch].pages;
     var firstPage = pages[0];
     var lastPage = pages[pages.length - 1];
 
+    var groupEl = document.createElement('div');
+    groupEl.className = 'chapter-group';
+
+    var headerEl = document.createElement('div');
+    headerEl.className = 'chapter-group-header';
+    headerEl.innerHTML = '<span class="arrow">▼</span>' + chapterNames[ch] + ' <span style="color:#555;font-size:0.65rem">(' + pages.length + '頁)</span>';
+
+    var itemsEl = document.createElement('div');
+    itemsEl.className = 'chapter-group-items';
+
     var gridEl = document.createElement('div');
-    gridEl.className = 'image-index-items-inner';
-    gridEl.style.display = 'grid';
-    gridEl.style.gridTemplateColumns = 'repeat(6, 1fr)';
-    gridEl.style.gap = '2px';
-    gridEl.style.padding = '0.3rem';
+    gridEl.className = 'chapter-pages-grid';
 
     pages.forEach(function(pageNum) {
       var a = document.createElement('a');
-      a.href = '/core_radiology/docs/' + chapter + '/page_' + pageNum;
+      a.href = '/core_radiology/docs/' + ch + '/page_' + pageNum;
       a.className = 'image-link';
-      a.textContent = 'page-' + pageNum;
+      a.textContent = pageNum;
+      if (ch === chapter && parseInt(a.href.match(/page_(\d+)/)[1]) === firstPage) {
+        a.classList.add('active');
+      }
       gridEl.appendChild(a);
     });
-    contPages.appendChild(gridEl);
+
+    itemsEl.appendChild(gridEl);
 
     var rangeEl = document.createElement('p');
     rangeEl.className = 'chapter-range';
-    rangeEl.textContent = firstPage + ' - ' + lastPage + ' (' + pages.length + '頁)';
-    rangeEl.style.padding = '0.2rem 0.5rem';
-    contPages.appendChild(rangeEl);
+    rangeEl.textContent = firstPage + ' - ' + lastPage;
+    itemsEl.appendChild(rangeEl);
 
-    // Start pages section collapsed
-    contPages.classList.add('collapsed');
-    hdrPages.classList.add('collapsed');
-  } else {
-    secPages.style.display = 'none';
-  }
+    // Click header to collapse/expand
+    headerEl.addEventListener('click', function() {
+      var isCollapsed = itemsEl.classList.contains('collapsed');
+      itemsEl.classList.toggle('collapsed');
+      headerEl.classList.toggle('collapsed', !isCollapsed);
+      if (!isCollapsed) {
+        itemsEl.style.maxHeight = itemsEl.scrollHeight + 'px';
+        setTimeout(function() { itemsEl.style.maxHeight = 'none'; }, 310);
+      } else {
+        itemsEl.style.maxHeight = itemsEl.scrollHeight + 'px';
+        requestAnimationFrame(function() { itemsEl.classList.add('collapsed'); });
+      }
+    });
+
+    groupEl.appendChild(headerEl);
+    groupEl.appendChild(itemsEl);
+    chapterGroupsEl.appendChild(groupEl);
+
+    // Collapse all groups except the current chapter's
+    if (ch !== chapter) {
+      itemsEl.classList.add('collapsed');
+      headerEl.classList.add('collapsed');
+    }
+  });
 
   // Heading TOC goes into #content-headings
   var headings = document.querySelectorAll('.main-content h2, .main-content h3');
