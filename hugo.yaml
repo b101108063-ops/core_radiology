@@ -20,39 +20,39 @@ params:
   BookPublic: true
   BookMenuFormat: "full"
   bookMenu:
-    - name: "Thoracic Imaging"
+    - name: "Thoracic"
       url: "/docs/thoracic/"
-      weight: 10
-    - name: "Genitourinary Imaging"
+      weight: 1
+    - name: "Genitourinary"
       url: "/docs/genitourinary/"
-      weight: 60
-    - name: "Gastrointestinal Imaging"
+      weight: 2
+    - name: "Gastrointestinal"
       url: "/docs/gi/"
-      weight: 96
-    - name: "Neuroimaging"
+      weight: 3
+    - name: "Neuro"
       url: "/docs/neuro/"
-      weight: 210
-    - name: "Musculoskeletal Imaging"
+      weight: 4
+    - name: "MSK"
       url: "/docs/msk/"
-      weight: 355
+      weight: 5
     - name: "Ultrasound"
       url: "/docs/ultrasound/"
-      weight: 473
-    - name: "Nuclear Imaging"
+      weight: 6
+    - name: "Nuclear"
       url: "/docs/nuclear/"
-      weight: 562
-    - name: "Breast Imaging"
+      weight: 7
+    - name: "Breast"
       url: "/docs/breast/"
-      weight: 601
-    - name: "Cardiovascular Imaging"
+      weight: 8
+    - name: "Cardiovascular"
       url: "/docs/cardiovascular/"
-      weight: 667
-    - name: "Interventional Radiology"
+      weight: 9
+    - name: "Interventional"
       url: "/docs/interventional/"
-      weight: 703
-    - name: "Pediatric Imaging"
+      weight: 10
+    - name: "Pediatric"
       url: "/docs/pediatric/"
-      weight: 750
-    - name: "Physics of Imaging"
+      weight: 11
+    - name: "Physics"
       url: "/docs/physics/"
-      weight: 847
+      weight: 12
