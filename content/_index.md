@@ -118,7 +118,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/thoracic/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 1</span>
+    
   </div>
   <div class="ch-title">胸腔影像</div>
   <div class="ch-title-en">Thoracic Imaging</div>
@@ -127,7 +127,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/gi/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 2</span>
+    
   </div>
   <div class="ch-title">胃腸道影像</div>
   <div class="ch-title-en">Gastrointestinal Imaging</div>
@@ -136,7 +136,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/genitourinary/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 3</span>
+    
   </div>
   <div class="ch-title">泌尿生殖影像</div>
   <div class="ch-title-en">Genitourinary Imaging</div>
@@ -145,7 +145,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/neuro/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 4</span>
+    
   </div>
   <div class="ch-title">神經影像</div>
   <div class="ch-title-en">Neuroimaging</div>
@@ -154,7 +154,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/msk/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 5</span>
+    
   </div>
   <div class="ch-title">肌肉骨骼影像</div>
   <div class="ch-title-en">Musculoskeletal Imaging</div>
@@ -163,7 +163,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/ultrasound/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 6</span>
+    
   </div>
   <div class="ch-title">超音波</div>
   <div class="ch-title-en">Ultrasound</div>
@@ -172,7 +172,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/nuclear/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 7</span>
+    
   </div>
   <div class="ch-title">核子醫學影像</div>
   <div class="ch-title-en">Nuclear Imaging</div>
@@ -181,7 +181,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/breast/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 8</span>
+    
   </div>
   <div class="ch-title">乳房影像</div>
   <div class="ch-title-en">Breast Imaging</div>
@@ -190,7 +190,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/cardiovascular/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 9</span>
+    
   </div>
   <div class="ch-title">心血管影像</div>
   <div class="ch-title-en">Cardiovascular Imaging</div>
@@ -199,7 +199,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/interventional/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 10</span>
+    
   </div>
   <div class="ch-title">介入放射學</div>
   <div class="ch-title-en">Interventional Radiology</div>
@@ -208,7 +208,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/pediatric/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 11</span>
+    
   </div>
   <div class="ch-title">兒科影像</div>
   <div class="ch-title-en">Pediatric Imaging</div>
@@ -217,7 +217,7 @@ title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 
 <a href="/core_radiology/docs/physics/" class="chapter-card">
   <div class="ch-header">
-    <span class="ch-num">CH 12</span>
+    
   </div>
   <div class="ch-title">影像物理學</div>
   <div class="ch-title-en">Physics of Imaging</div>
