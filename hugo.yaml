@@ -18,7 +18,6 @@ params:
   disableChapterBreadcrumb: true
   BookSearch: true
   BookPublic: true
-  BookMenuFormat: "full"
   bookMenu:
     - name: "Thoracic"
       url: "/docs/thoracic/"
