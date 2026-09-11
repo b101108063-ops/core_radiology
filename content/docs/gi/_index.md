@@ -10,7 +10,7 @@ title: "Gastrointestinal Imaging"
 
 
 
-weight: 96
+weight: 3
 
 
 

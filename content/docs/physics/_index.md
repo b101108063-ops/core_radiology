@@ -6,7 +6,7 @@ title: "Physics of Imaging"
 
 
 
-weight: 847
+weight: 12
 
 
 

@@ -6,7 +6,7 @@ title: "Chapter 1: Thoracic Imaging 胸腔影像"
 
 
 
-weight: 10
+weight: 1
 
 
 
