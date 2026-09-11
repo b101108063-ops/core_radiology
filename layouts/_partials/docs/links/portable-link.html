@@ -1,0 +1,35 @@
+{{- $destination := .Destination -}}
+{{- $url := urls.Parse .Destination -}}
+
+{{- $isRemote := $url.IsAbs -}}
+{{- $isFragment := strings.HasPrefix .Destination "#" -}}
+
+{{- if and (not $isRemote) (not $isFragment) -}}
+  {{- $path := strings.TrimPrefix "./" $url.Path -}}
+  {{- $path = strings.TrimSuffix ".md" $path -}}
+  {{- $path = strings.TrimSuffix "/_index" $path -}}
+
+  {{- with (.Page.GetPage $path) -}}
+    {{- $destination = .RelPermalink -}}
+  {{- else if (.Page.Resources.Get $path) -}}
+    {{- $destination = (.Page.Resources.Get $path).RelPermalink -}}
+  {{- else if (resources.Get $path) -}}
+    {{- $destination = (resources.Get $path).RelPermalink -}}
+  {{- else -}}
+    {{- $mode := .Page.Site.Params.BookPortableLinks -}}
+    {{- $message := printf "Reference '%s' not found in '%s'" .Destination .Page.RelPermalink -}}
+    {{- if eq $mode "warning" -}}
+    {{- warnf $message -}}
+    {{- else if eq $mode "error" -}}
+    {{- errorf $message -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if $url.RawQuery -}}
+    {{- $destination = print $destination "?" $url.RawQuery -}}
+  {{- end -}}
+  {{- if $url.Fragment -}}
+    {{- $destination = print $destination "#" $url.Fragment -}}
+  {{- end -}}
+{{- end -}}
+{{- return $destination -}}
