@@ -23,12 +23,12 @@ params:
     - name: "Thoracic Imaging"
       url: "/docs/thoracic/"
       weight: 10
-    - name: "Gastrointestinal Imaging"
-      url: "/docs/gi/"
-      weight: 96
     - name: "Genitourinary Imaging"
       url: "/docs/genitourinary/"
       weight: 60
+    - name: "Gastrointestinal Imaging"
+      url: "/docs/gi/"
+      weight: 96
     - name: "Neuroimaging"
       url: "/docs/neuro/"
       weight: 210
