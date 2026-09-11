@@ -27,13 +27,12 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.120.0'
+          hugo-version: '0.166.0'
           extended: true
 
       - name: Build
         run: |
           git clone https://github.com/alex-shpak/hugo-book themes/hugo-book
-          curl -sL "https://raw.githubusercontent.com/alex-shpak/hugo-book/master/layouts/_partials/docs/links/portable-image.html" -o themes/hugo-book/layouts/_partials/docs/links/portable-image.html
           hugo
 
       - name: Setup Pages
