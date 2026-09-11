@@ -4,54 +4,36 @@
 {{ if hugo.IsMultilingual }}
   {{ partial "docs/languages" . }}
 {{ end }}
-
 {{ partial "docs/inject/menu-before" . }}
 {{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.before) }}
-
 {{ partial "docs/menu-filetree" . }}
-
 {{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.after) }}
 {{ partial "docs/inject/menu-after" . }}
 </nav>
-
-<!-- Restore menu position as soon as possible to avoid flickering -->
 {{ $script := resources.Get "menu-reset.js" | resources.Minify }}
 {{ with $script.Content }}
   <script>{{ . | safeJS }}</script>
 {{ end }}
-
 <style>
 .book-menu ul { list-style: none; padding-left: 0; }
 .book-menu .collapsed ul { display: none; }
-.book-menu .section-toggle {
-  cursor: pointer;
-  user-select: none;
-  display: flex;
-  align-items: center;
-  gap: 4px;
-}
-.book-menu .section-toggle .arrow {
-  font-size: 10px;
-  transition: transform 0.2s;
-  color: #666;
-}
+.book-menu .section-toggle { cursor: pointer; user-select: none; display: flex; align-items: center; gap: 4px; }
+.book-menu .section-toggle .arrow { font-size: 10px; transition: transform 0.2s; color: #666; }
 .book-menu .collapsed .section-toggle .arrow { transform: rotate(-90deg); }
 </style>
 <script>
 (function() {
   var menu = document.querySelector('.book-menu-content > nav > ul');
   if (!menu) return;
-  
   var topLis = menu.querySelectorAll(':scope > li');
   topLis.forEach(function(li) {
     var childUl = li.querySelector(':scope > ul');
     if (!childUl) return;
     var link = li.querySelector(':scope > a');
     if (!link) return;
-    var linkText = link.textContent.trim();
     var toggleEl = document.createElement('div');
     toggleEl.className = 'section-toggle';
-    toggleEl.innerHTML = '<span class="arrow">▼</span>' + linkText;
+    toggleEl.innerHTML = '<span class="arrow">&#9660;</span>' + link.textContent.trim();
     link.parentNode.insertBefore(toggleEl, link);
     link.style.flex = '1';
     toggleEl.addEventListener('click', function() {
