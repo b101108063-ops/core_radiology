@@ -2,7 +2,7 @@
 
 title: "Nuclear Imaging"
 
-weight: 8
+weight: 562
 
 ---
 

@@ -6,7 +6,7 @@ title: "Genitourinary Imaging"
 
 
 
-weight: 3
+weight: 60
 
 
 
