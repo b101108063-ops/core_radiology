@@ -30,6 +30,47 @@ jobs:
           hugo-version: '0.166.0'
           extended: true
 
+      - name: Patch Hugo Book theme - sort sections by weight
+        run: |
+          # Patch the cloned theme's menu-filetree.html to sort sections by weight
+          F="themes/hugo-book/layouts/_partials/docs/menu-filetree.html"
+
+          # Use python3 to write the patched file (avoids heredoc/quoting issues)
+          python3 themes/hugo-book/layouts/_partials/docs/menu-filetree.py_patch || true
+
+          # Simple approach: python3 inline script
+          python3 << PYEOF
+import re
+
+f = "themes/hugo-book/layouts/_partials/docs/menu-filetree.html"
+with open(f, 'r') as fh:
+    content = fh.read()
+
+# The original range line
+old = '{{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}'
+new = '{{ $ordered := slice }}\n{{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}\n  {{ $weight := 9999 }}\n  {{ with .Params.weight }}{{ $weight = . }}{{ end }}\n  {{ $ordered = $ordered | append (dict "Page" . "Weight" $weight) }}\n{{ end }}\n{{ $sorted := slice }}\n{{ range sort $ordered "Weight" "asc" }}\n  {{ $sorted = $sorted | append .Page }}\n{{ end }}\n  {{ range $sorted }}'
+
+content = content.replace(old, new)
+
+with open(f, 'w') as fh:
+    fh.write(content)
+print("Patched", f)
+PYEOF
+
+          # Also patch title.html to remove Chapter X: prefix
+          python3 << PYEOF
+import re
+
+f = "themes/hugo-book/layouts/_partials/docs/title.html"
+content = '''{{ $title := .Title }}
+{{ $title = replaceRE "^Chapter\\s+\\d+:\\s*" "" $title }}
+{{ return $title }}'''
+
+with open(f, 'w') as fh:
+    fh.write(content)
+print("Patched", f)
+PYEOF
+
       - name: Build
         run: hugo
 
