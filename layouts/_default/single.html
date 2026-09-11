@@ -617,6 +617,7 @@ for (var i = 0; i < pathParts.length; i++) {
   };
 
   chapterOrder.forEach(function(ch) {
+    console.log('DEBUG: processing chapter', ch, 'IMAGE_DATA has it?', !!IMAGE_DATA[ch]);
     if (!IMAGE_DATA[ch]) return;
     var pages = IMAGE_DATA[ch].pages;
     var firstPage = pages[0];
