@@ -77,6 +77,47 @@
       margin: 0;
     }
 
+    .sidebar-section-group {
+      margin: 0.15rem 0;
+    }
+
+    .sidebar-section-header {
+      display: flex;
+      align-items: center;
+      padding: 0.4rem 0.5rem;
+      font-size: 0.8rem;
+      color: #aaa;
+      cursor: pointer;
+      border-radius: 4px;
+      user-select: none;
+      background: #1e1e1e;
+      border-bottom: 1px solid #2a2a2a;
+    }
+
+    .sidebar-section-header:hover {
+      background: #252525;
+    }
+
+    .sidebar-section-header .arrow {
+      font-size: 0.6rem;
+      margin-right: 0.4rem;
+      transition: transform 0.2s;
+      color: #666;
+    }
+
+    .sidebar-section-header.collapsed .arrow {
+      transform: rotate(-90deg);
+    }
+
+    .sidebar-section-content {
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+
+    .sidebar-section-content.collapsed {
+      max-height: 0 !important;
+    }
+
     /* Image index styles */
     .image-index-group {
       margin: 0.15rem 0;
@@ -418,7 +459,22 @@
       <p class="sidebar-chapter-title">{{ .Title }}</p>
     </div>
     <div class="sidebar-nav" id="toc-nav">
-      <p class="sidebar-section-label">頁面索引</p>
+      <!-- 頁面索引大區塊：可折疊 -->
+      <div class="sidebar-section-group" id="section-pages">
+        <div class="sidebar-section-header" id="header-pages">
+          <span class="arrow">▼</span>頁面索引
+        </div>
+        <div class="sidebar-section-content" id="content-pages">
+        </div>
+      </div>
+      <!-- 內容大綱大區塊：可折疊 -->
+      <div class="sidebar-section-group" id="section-headings">
+        <div class="sidebar-section-header" id="header-headings">
+          <span class="arrow">▼</span>內容大綱
+        </div>
+        <div class="sidebar-section-content" id="content-headings">
+        </div>
+      </div>
     </div>
   </nav>
 
@@ -468,68 +524,79 @@ for (var i = 0; i < pathParts.length; i++) {
 }
 
 (function() {
-  var nav = document.getElementById('toc-nav');
-  if (!chapter || !IMAGE_DATA[chapter]) {
-    buildHeadingTOC(nav);
-    return;
+  // Setup collapsible sections
+  var secPages = document.getElementById('section-pages');
+  var hdrPages = document.getElementById('header-pages');
+  var contPages = document.getElementById('content-pages');
+  var secHeadings = document.getElementById('section-headings');
+  var hdrHeadings = document.getElementById('header-headings');
+  var contHeadings = document.getElementById('content-headings');
+
+  function makeCollapsible(header, content, section) {
+    header.addEventListener('click', function() {
+      var isCollapsed = content.classList.contains('collapsed');
+      content.classList.toggle('collapsed');
+      header.classList.toggle('collapsed', !isCollapsed);
+      if (!isCollapsed) {
+        content.style.maxHeight = content.scrollHeight + 'px';
+        setTimeout(function() { content.style.maxHeight = 'none'; }, 310);
+      } else {
+        content.style.maxHeight = content.scrollHeight + 'px';
+        requestAnimationFrame(function() { content.classList.add('collapsed'); });
+      }
+    });
   }
 
-  var pages = IMAGE_DATA[chapter].pages;
-  var firstPage = pages[0];
-  var lastPage = pages[pages.length - 1];
+  makeCollapsible(hdrPages, contPages, secPages);
+  makeCollapsible(hdrHeadings, contHeadings, secHeadings);
 
-  // Build image index
-  var groupEl = document.createElement('div');
-  groupEl.className = 'image-index-group';
+  // Image index goes into #content-pages
+  if (chapter && IMAGE_DATA[chapter]) {
+    var pages = IMAGE_DATA[chapter].pages;
+    var firstPage = pages[0];
+    var lastPage = pages[pages.length - 1];
 
-  var headerEl = document.createElement('div');
-  headerEl.className = 'image-index-header';
-  headerEl.innerHTML = '<span class="arrow">▼</span>圖片頁面';
-  headerEl.addEventListener('click', function() {
-    var items = groupEl.querySelector('.image-index-items');
-    var isCollapsed = items.classList.contains('collapsed');
-    items.classList.toggle('collapsed');
-    headerEl.classList.toggle('collapsed', !isCollapsed);
-  });
-  groupEl.appendChild(headerEl);
+    var gridEl = document.createElement('div');
+    gridEl.className = 'image-index-items-inner';
+    gridEl.style.display = 'grid';
+    gridEl.style.gridTemplateColumns = 'repeat(6, 1fr)';
+    gridEl.style.gap = '2px';
+    gridEl.style.padding = '0.3rem';
 
-  var itemsEl = document.createElement('div');
-  itemsEl.className = 'image-index-items';
+    pages.forEach(function(pageNum) {
+      var a = document.createElement('a');
+      a.href = '/core_radiology/docs/' + chapter + '/page_' + pageNum;
+      a.className = 'image-link';
+      a.textContent = 'page-' + pageNum;
+      gridEl.appendChild(a);
+    });
+    contPages.appendChild(gridEl);
 
-  var gridEl = document.createElement('div');
-  gridEl.className = 'image-index-items-inner';
+    var rangeEl = document.createElement('p');
+    rangeEl.className = 'chapter-range';
+    rangeEl.textContent = firstPage + ' - ' + lastPage + ' (' + pages.length + '頁)';
+    rangeEl.style.padding = '0.2rem 0.5rem';
+    contPages.appendChild(rangeEl);
 
-  pages.forEach(function(pageNum) {
-    var a = document.createElement('a');
-    a.href = '/core_radiology/docs/' + chapter + '/page_' + pageNum;
-    a.className = 'image-link';
-    a.textContent = 'page-' + pageNum;
-    gridEl.appendChild(a);
-  });
+    // Start pages section collapsed
+    contPages.classList.add('collapsed');
+    hdrPages.classList.add('collapsed');
+  } else {
+    secPages.style.display = 'none';
+  }
 
-  itemsEl.appendChild(gridEl);
-  groupEl.appendChild(itemsEl);
-  nav.appendChild(groupEl);
-
-  // Range label
-  var rangeEl = document.createElement('p');
-  rangeEl.className = 'chapter-range';
-  rangeEl.textContent = firstPage + ' - ' + lastPage + ' (' + pages.length + '頁)';
-  nav.appendChild(rangeEl);
-
-  // Also show heading TOC
-  buildHeadingTOC(nav);
+  // Heading TOC goes into #content-headings
+  var headings = document.querySelectorAll('.main-content h2, .main-content h3');
+  if (headings.length > 0) {
+    buildHeadingTOC(contHeadings);
+  } else {
+    secHeadings.style.display = 'none';
+  }
 })();
 
-function buildHeadingTOC(nav) {
+function buildHeadingTOC(container) {
   var headings = document.querySelectorAll('.main-content h2, .main-content h3');
   if (headings.length === 0) return;
-
-  var sectionLabel = document.createElement('p');
-  sectionLabel.className = 'sidebar-section-label';
-  sectionLabel.style.marginTop = '0.5rem';
-  sectionLabel.textContent = '內容大綱';
-  nav.appendChild(sectionLabel);
 
   var groups = [];
   var currentH2 = null;
@@ -579,16 +646,16 @@ function buildHeadingTOC(nav) {
     });
 
     groupEl.appendChild(itemsEl);
-    nav.appendChild(groupEl);
+    container.appendChild(groupEl);
   });
 
-  var items = nav.querySelectorAll('.toc-item');
+  var items = container.querySelectorAll('.toc-item');
   var observer = new IntersectionObserver(function(entries) {
     entries.forEach(function(entry) {
       if (entry.isIntersecting) {
         items.forEach(function(i) { i.classList.remove('active'); });
         var id = entry.target.id;
-        var active = nav.querySelector('a[href="#' + id + '"]');
+        var active = container.querySelector('a[href="#' + id + '"]');
         if (active) active.classList.add('active');
       }
     });
