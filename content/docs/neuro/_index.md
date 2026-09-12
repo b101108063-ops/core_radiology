@@ -1001,6 +1001,9 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 
 ---
 
+---
+
+## Stroke / 中風
 ### 中風影像學評估 (Stroke Imaging Evaluation)
 
 ![Page 270](/core_radiology/images/neuro/page-270.png)
@@ -1013,9 +1016,6 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 - **進階影像（Advanced imaging）**：包括DWI、PWI及MR/CT血管成像，不應延誤治療
 - **大範圍梗塞（>1/3 MCA領域）**：靜脈tPA的排除標準
 
----
-
-## Stroke / 中風
 
 ![Page 271](/core_radiology/images/neuro/page-271.png)
 
@@ -1196,7 +1196,6 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 
 ## Intraparenchymal Hemorrhage / 腦實質內出血
-### 顱內出血 / Intracranial Hemorrhage
 
 
 ![Page 284](/core_radiology/images/neuro/page-284.png)
@@ -1342,8 +1341,8 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
 ## Neuro Infections / 顱內感染
+### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
 
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
@@ -1422,8 +1421,8 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
 ## Head & Neck Infections / 頭頸部感染
+### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
 
 
 ![Page 301](/core_radiology/images/neuro/page-291.png)
