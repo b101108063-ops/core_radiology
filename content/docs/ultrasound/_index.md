@@ -22,7 +22,6 @@ weight: 6
 
 
 
-![Page 464](/core_radiology/images/ultrasound/page-464.png)
 
 
 
@@ -338,7 +337,6 @@ weight: 6
 
 
 
-![Page 471](/core_radiology/images/ultrasound/page-471.png)
 
 
 
@@ -628,7 +626,6 @@ weight: 6
 
 
 
-![Page 472](/core_radiology/images/ultrasound/page-472.png)
 
 
 
@@ -11253,6 +11250,15 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 
 
 ![Page 552](/core_radiology/images/ultrasound/page-552.png)
+![Page 553](/core_radiology/images/ultrasound/page-553.png)
+![Page 554](/core_radiology/images/ultrasound/page-554.png)
+![Page 555](/core_radiology/images/ultrasound/page-555.png)
+![Page 556](/core_radiology/images/ultrasound/page-556.png)
+![Page 557](/core_radiology/images/ultrasound/page-557.png)
+![Page 558](/core_radiology/images/ultrasound/page-558.png)
+![Page 559](/core_radiology/images/ultrasound/page-559.png)
+![Page 560](/core_radiology/images/ultrasound/page-560.png)
+![Page 561](/core_radiology/images/ultrasound/page-561.png)
 
 
 

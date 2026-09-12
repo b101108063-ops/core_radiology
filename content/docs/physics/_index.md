@@ -2443,6 +2443,28 @@ $$Effective\ dose\ (mSv) = DLP \times conversion\ factor$$
 
 
 ![Page 864](/core_radiology/images/physics/page-864.png)
+![Page 848](/core_radiology/images/physics/page-848.png)
+![Page 849](/core_radiology/images/physics/page-849.png)
+![Page 850](/core_radiology/images/physics/page-850.png)
+![Page 851](/core_radiology/images/physics/page-851.png)
+![Page 852](/core_radiology/images/physics/page-852.png)
+![Page 853](/core_radiology/images/physics/page-853.png)
+![Page 854](/core_radiology/images/physics/page-854.png)
+![Page 855](/core_radiology/images/physics/page-855.png)
+![Page 856](/core_radiology/images/physics/page-856.png)
+![Page 857](/core_radiology/images/physics/page-857.png)
+![Page 858](/core_radiology/images/physics/page-858.png)
+![Page 859](/core_radiology/images/physics/page-859.png)
+![Page 860](/core_radiology/images/physics/page-860.png)
+![Page 861](/core_radiology/images/physics/page-861.png)
+![Page 862](/core_radiology/images/physics/page-862.png)
+![Page 863](/core_radiology/images/physics/page-863.png)
+![Page 864](/core_radiology/images/physics/page-864.png)
+![Page 865](/core_radiology/images/physics/page-865.png)
+![Page 866](/core_radiology/images/physics/page-866.png)
+![Page 867](/core_radiology/images/physics/page-867.png)
+![Page 868](/core_radiology/images/physics/page-868.png)
+![Page 869](/core_radiology/images/physics/page-869.png)
 
 
 

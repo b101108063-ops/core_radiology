@@ -17641,6 +17641,15 @@ Mucus plugging → bacterial colonization → inflammatory response
 
 
 - [圖1：page-086.png](/core_radiology/images/thoracic/page-086.png){target="_blank"}
+![Page 87](/core_radiology/images/thoracic/page-087.png)
+![Page 88](/core_radiology/images/thoracic/page-088.png)
+![Page 89](/core_radiology/images/thoracic/page-089.png)
+![Page 90](/core_radiology/images/thoracic/page-090.png)
+![Page 91](/core_radiology/images/thoracic/page-091.png)
+![Page 92](/core_radiology/images/thoracic/page-092.png)
+![Page 93](/core_radiology/images/thoracic/page-093.png)
+![Page 94](/core_radiology/images/thoracic/page-094.png)
+![Page 95](/core_radiology/images/thoracic/page-095.png)
 
 
 

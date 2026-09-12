@@ -4724,6 +4724,15 @@ weight: 10
 
 
 ![Page 740](/core_radiology/images/interventional/page-740.png)
+![Page 741](/core_radiology/images/interventional/page-741.png)
+![Page 742](/core_radiology/images/interventional/page-742.png)
+![Page 743](/core_radiology/images/interventional/page-743.png)
+![Page 744](/core_radiology/images/interventional/page-744.png)
+![Page 745](/core_radiology/images/interventional/page-745.png)
+![Page 746](/core_radiology/images/interventional/page-746.png)
+![Page 747](/core_radiology/images/interventional/page-747.png)
+![Page 748](/core_radiology/images/interventional/page-748.png)
+![Page 749](/core_radiology/images/interventional/page-749.png)
 
 
 

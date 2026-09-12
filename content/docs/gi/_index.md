@@ -12654,7 +12654,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 87](/core_radiology/images/gi/page-087.png)
 
 
 
@@ -12966,7 +12965,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 88](/core_radiology/images/gi/page-088.png)
 
 
 
@@ -13128,7 +13126,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 89](/core_radiology/images/gi/page-089.png)
 
 
 
@@ -13278,7 +13275,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 90](/core_radiology/images/gi/page-090.png)
 
 
 
@@ -13404,7 +13400,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 91](/core_radiology/images/gi/page-091.png)
 
 
 
@@ -13638,7 +13633,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 92](/core_radiology/images/gi/page-092.png)
 
 
 
@@ -13794,7 +13788,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 93](/core_radiology/images/gi/page-093.png)
 
 
 
@@ -13998,7 +13991,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 94](/core_radiology/images/gi/page-094.png)
 
 
 
@@ -14130,7 +14122,6 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 
-![Page 95](/core_radiology/images/gi/page-095.png)
 
 
 
@@ -14661,6 +14652,14 @@ CTSI = Balthazar 等級（0-4 分）+ 壞死程度（0-6 分）= 總分 0-10
 
 
 ![Page 99](/core_radiology/images/gi/page-099.png)
+![Page 158](/core_radiology/images/gi/page-158.png)
+![Page 159](/core_radiology/images/gi/page-159.png)
+![Page 160](/core_radiology/images/gi/page-160.png)
+![Page 161](/core_radiology/images/gi/page-161.png)
+![Page 162](/core_radiology/images/gi/page-162.png)
+![Page 163](/core_radiology/images/gi/page-163.png)
+![Page 164](/core_radiology/images/gi/page-164.png)
+![Page 165](/core_radiology/images/gi/page-165.png)
 
 
 

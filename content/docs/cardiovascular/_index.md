@@ -31,7 +31,6 @@ weight: 9
 
 
 
-![Page 659](/core_radiology/images/cardiovascular/page-659.png)
 
 
 
@@ -74,7 +73,6 @@ weight: 9
 
 
 
-![Page 660](/core_radiology/images/cardiovascular/page-660.png)
 
 
 
@@ -145,7 +143,6 @@ weight: 9
 
 
 
-![Page 661](/core_radiology/images/cardiovascular/page-661.png)
 
 
 
@@ -234,7 +231,6 @@ weight: 9
 
 
 
-![Page 662](/core_radiology/images/cardiovascular/page-662.png)
 
 
 
@@ -283,7 +279,6 @@ weight: 9
 
 
 
-![Page 663](/core_radiology/images/cardiovascular/page-663.png)
 
 
 
@@ -349,7 +344,6 @@ weight: 9
 
 
 
-![Page 664](/core_radiology/images/cardiovascular/page-664.png)
 
 
 
@@ -410,7 +404,6 @@ weight: 9
 
 
 
-![Page 665](/core_radiology/images/cardiovascular/page-665.png)
 
 
 
@@ -475,7 +468,6 @@ weight: 9
 
 
 
-![Page 666](/core_radiology/images/cardiovascular/page-666.png)
 
 
 
@@ -1785,6 +1777,25 @@ weight: 9
 
 
 ![Page 684](/core_radiology/images/cardiovascular/page-684.png)
+![Page 685](/core_radiology/images/cardiovascular/page-685.png)
+![Page 686](/core_radiology/images/cardiovascular/page-686.png)
+![Page 687](/core_radiology/images/cardiovascular/page-687.png)
+![Page 688](/core_radiology/images/cardiovascular/page-688.png)
+![Page 689](/core_radiology/images/cardiovascular/page-689.png)
+![Page 690](/core_radiology/images/cardiovascular/page-690.png)
+![Page 691](/core_radiology/images/cardiovascular/page-691.png)
+![Page 692](/core_radiology/images/cardiovascular/page-692.png)
+![Page 693](/core_radiology/images/cardiovascular/page-693.png)
+![Page 694](/core_radiology/images/cardiovascular/page-694.png)
+![Page 695](/core_radiology/images/cardiovascular/page-695.png)
+![Page 696](/core_radiology/images/cardiovascular/page-696.png)
+![Page 697](/core_radiology/images/cardiovascular/page-697.png)
+![Page 698](/core_radiology/images/cardiovascular/page-698.png)
+![Page 699](/core_radiology/images/cardiovascular/page-699.png)
+![Page 700](/core_radiology/images/cardiovascular/page-700.png)
+![Page 701](/core_radiology/images/cardiovascular/page-701.png)
+![Page 702](/core_radiology/images/cardiovascular/page-702.png)
+![Page 703](/core_radiology/images/cardiovascular/page-703.png)
 
 
 

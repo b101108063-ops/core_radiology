@@ -21412,6 +21412,15 @@ weight: 5
 
 
 ![Page 463](/core_radiology/images/msk/page-463.png)
+![Page 464](/core_radiology/images/msk/page-464.png)
+![Page 465](/core_radiology/images/msk/page-465.png)
+![Page 466](/core_radiology/images/msk/page-466.png)
+![Page 467](/core_radiology/images/msk/page-467.png)
+![Page 468](/core_radiology/images/msk/page-468.png)
+![Page 469](/core_radiology/images/msk/page-469.png)
+![Page 470](/core_radiology/images/msk/page-470.png)
+![Page 471](/core_radiology/images/msk/page-471.png)
+![Page 472](/core_radiology/images/msk/page-472.png)
 
 
 

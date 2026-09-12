@@ -18,7 +18,6 @@ weight: 2
 
 
 
-![Page 157](/core_radiology/images/genitourinary/page-157.png)
 
 
 
@@ -7081,6 +7080,15 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 
 
 ![Page 200](/core_radiology/images/genitourinary/page-200.png)
+![Page 201](/core_radiology/images/genitourinary/page-201.png)
+![Page 202](/core_radiology/images/genitourinary/page-202.png)
+![Page 203](/core_radiology/images/genitourinary/page-203.png)
+![Page 204](/core_radiology/images/genitourinary/page-204.png)
+![Page 205](/core_radiology/images/genitourinary/page-205.png)
+![Page 206](/core_radiology/images/genitourinary/page-206.png)
+![Page 207](/core_radiology/images/genitourinary/page-207.png)
+![Page 208](/core_radiology/images/genitourinary/page-208.png)
+![Page 209](/core_radiology/images/genitourinary/page-209.png)
 
 
 
