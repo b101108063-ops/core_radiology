@@ -22,11 +22,11 @@ params:
     - name: "Thoracic"
       url: "/docs/thoracic/"
       weight: 1
-    - name: "Genitourinary"
-      url: "/docs/genitourinary/"
-      weight: 2
     - name: "Gastrointestinal"
       url: "/docs/gi/"
+      weight: 2
+    - name: "Genitourinary"
+      url: "/docs/genitourinary/"
       weight: 3
     - name: "Neuro"
       url: "/docs/neuro/"
