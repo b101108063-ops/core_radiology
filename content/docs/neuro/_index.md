@@ -1,3 +1,5 @@
+## 神經影像學基礎 / Neuroimaging Basics
+
 ### Neuroimaging 神經影像學 (Page 210)
 
 ![Page 210](/core_radiology/images/neuro/page-210.png)
@@ -227,6 +229,8 @@ Pachymeninges（厚腦膜）指的是 dura mater，是大腦最外層厚韌的�
 ---
 
 ### Leptomeningeal Enhancement 軟膜-蛛網膜強化 (Page 222)
+## 腦腫瘤 / Brain Tumors
+
 
 ![Page 222](/core_radiology/images/neuro/page-222.png)
 
@@ -369,7 +373,7 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
 
 
-### Ring enhancement (intra-axial) (Page 229)
+### Ring Enhancement (Intra-axial) / 軸內環狀強化 (Page 229)
 
 ![Page 229](/core_radiology/images/neuro/page-229.png)
 
@@ -401,7 +405,7 @@ Leptomeningeal (pia–arachnoid) enhancement (extra-axial) differential diagnosi
 
 ---
 
-### Approach to evaluation of a focal brain lesion (Page 232)
+### Approach to Focal Brain Lesion / 局限性腦病竈評估 (Page 232)
 
 ![Page 232](/core_radiology/images/neuro/page-232.png)
 
@@ -412,7 +416,7 @@ Approach to evaluation of a focal brain lesion Are there any tumor-related compl
 
 ---
 
-### Findings of an intra-axial mass include absence of intervening gray matter betwe (Page 233)
+### Intra-axial Mass Imaging Findings / 軸內病竈影像特徵 (Page 233) (Page 233)
 
 ![Page 233](/core_radiology/images/neuro/page-233.png)
 
@@ -422,7 +426,7 @@ Findings of an intra-axial mass include absence of intervening gray matter betwe
 
 ---
 
-### Tumors hypointense on T2-weighted images include: (Page 234)
+### T2 Hypointense Tumors / T2 低訊號腫瘤 (Page 234)
 
 ![Page 234](/core_radiology/images/neuro/page-234.png)
 
@@ -432,7 +436,7 @@ Tumors hypointense on T2-weighted images include: Metastases containing desiccat
 
 ---
 
-### Grade I astrocytoma (Page 235)
+### Grade I Astrocytoma / 第一級星狀細胞瘤 (Page 235)
 
 ![Page 235](/core_radiology/images/neuro/page-235.png)
 
@@ -443,7 +447,7 @@ Grade I astrocytoma Juvenile pilocytic astrocytoma (JPA) Juvenile pilocytic astr
 
 ---
 
-### Anaplastic astrocytoma (Page 236)
+### Anaplastic Astrocytoma / 間變性星狀細胞瘤 (Page 236)
 
 ![Page 236](/core_radiology/images/neuro/page-236.png)
 
@@ -465,7 +469,6 @@ Gliomatosis cerebri Gliomatosis cerebri is a diffuse infiltrative mid-grade (WHO
 
 
 ### Ependymoma / 室管膜瘤 (H3)
-## 腦腫瘤 / Brain Tumors (cont.)
 
 
 ![Page 238](/core_radiology/images/neuro/page-238.png)
@@ -1107,10 +1110,12 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 
 ### Intraparenchymal Hemorrhage Imaging / 腦實質內出血影像 (IMG 284, BOOK 275)
+## 顱內出血 / Intracranial Hemorrhage
+
 
 ![Page 284](/core_radiology/images/neuro/page-284.png)
 
-顱內出血的影像學评估是急診神經影像的核心任務。非增強電腦斷層（CT）對急性出血高度敏感，表现为相对于腦實質和腦脊髓液的高密度（hyperattenuating）訊號。MRI則能根據血紅蛋白演變的不同階段提供更精確的出血「年齡」判定——從超急性期的細胞內氧合血紅蛋白，到急性期的去氧血紅蛋白，再到亞急性期的正鐵血紅蛋白，最終形成慢性期的含鐵血黃素沉積。
+顱內出血的影像學评估是急診神經影像的核心任務。非增強電腦斷層（CT）對急性出血高度敏感，表现为相對於腦實質和腦脊髓液的高密度（hyperattenuating）訊號。MRI則能根據血紅蛋白演變的不同階段提供更精確的出血「年齡」判定——從超急性期的細胞內氧合血紅蛋白，到急性期的去氧血紅蛋白，再到亞急性期的正鐵血紅蛋白，最終形成慢性期的含鐵血黃素沉積。
 
 **重點摘要**
 - **CT敏感度**：非增強CT对急性顱內出血高度敏感，表现为高密度（English: Noncontrast CT is highly sensitive for acute intracranial hemorrhage）
@@ -1185,6 +1190,8 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 ---
 
 ### White Matter Disease Overview / 白質疾病總論 (IMG 290, BOOK 281)
+## 白質疾病與脫髓鞘 / White Matter & Demyelination
+
 
 ![Page 290](/core_radiology/images/neuro/page-290.png)
 
@@ -1250,6 +1257,8 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 ---
 
 ### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
+## 顱內感染 / Intracranial Infections
+
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
 
@@ -1328,6 +1337,8 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 ---
 
 ### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
+## 頭頸部感染 / Head and Neck Infections
+
 
 ![Page 301](/core_radiology/images/neuro/page-291.png)
 
@@ -1552,7 +1563,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 318](/core_radiology/images/neuro/page-308.png)
 
-前顱底惡性腫瘤包括嗅神經母細胞瘤（esthesioneuroblastoma，又稱olfactory neuroblastoma）、鱗狀細胞癌（SCC，鼻竇和鼻腔最常見惡性腫瘤）、腺樣囊性癌和橫紋肌肉瘤。嗅神經母細胞瘤為雙峰年齡分布，好發於青少年和中年人，CT上略高衰減，T1/T2中等訊號（因高細胞密度），常見鈣化，特征性表現是顱內部分邊緣的囊性竈。鱗狀細胞癌強化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵。
+前顱底惡性腫瘤包括嗅神經母細胞瘤（esthesioneuroblastoma，又稱olfactory neuroblastoma）、鱗狀細胞癌（SCC，鼻竇和鼻腔最常見惡性腫瘤）、腺樣囊性癌和橫紋肌肉瘤。嗅神經母細胞瘤為雙峰年齡分布，好發於青少年和中年人，CT上略高衰減，T1/T2中等訊號（因高細胞密度），常見鈣化，特徵性表現是顱內部分邊緣的囊性竈。鱗狀細胞癌強化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵。
 
 **重點摘要**
 - **嗅神經母細胞瘤**：神經嵴來源，好發於青少年和中年，邊緣囊性竈為特徵（English: Esthesioneuroblastoma is neural crest tumor with bimodal age, peripheral tumor cysts at intracranial margin are characteristic）
@@ -1587,6 +1598,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 
 ### 外耳與外耳道 / 外耳與外耳道（External Ear and EAC）
+## 顳骨與顱底 / Temporal Bone and Skull Base
+
 
 ![Page 321](/core_radiology/images/neuro/page-321.png)
 
@@ -1731,6 +1744,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 眼眶解剖 / 眼眶解剖學（Orbital Anatomy）
+## 眼眶 / Orbit
+
 
 ![Page 332](/core_radiology/images/neuro/page-332.png)
 
@@ -1851,6 +1866,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 咀嚼肌間隙 / 咀嚼肌間隙（Masticator Space）
+## 頭頸部筋膜間隙 / Head and Neck Spaces
+
 
 ![Page 341](/core_radiology/images/neuro/page-341.png)
 
@@ -1902,6 +1919,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization）
+## 脊椎與脊髓 / Spine and Spinal Cord
+
 
 ![Page 345](/core_radiology/images/neuro/page-345.png)
 
