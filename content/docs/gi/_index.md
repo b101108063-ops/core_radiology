@@ -1,3 +1,7 @@
+---
+title: "Gastrointestinal Imaging"
+weight: 3
+---
 ## 肝臟 / Liver
 
 ![Page 096](/core_radiology/images/gi/page-096.png)
