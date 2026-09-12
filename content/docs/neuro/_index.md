@@ -1659,7 +1659,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ## Temporal Bone / 顳骨
 
-![Page 319](/core_radiology/images/neuro/page-309.png)
+![Page 319](/core_radiology/images/neuro/page-319.png)
 
 顳骨可分為外耳、中耳和內耳三個功能區域，平行於聲波傳入腦部的路徑。聲波從外耳進入、通過中耳聽小骨放大、最終在內耳轉換為電脈衝。內耳迷路包括耳蝸、前庭和半規管，負責聽覺和平衡。顳骨也是多條顱神經（VII、VIII）走行的通道。影像上，CT是評估骨質細節（特別是慢性中耳疾病和創傷）的首選，MRI則更適合評估軟組織和內耳結構。
 
@@ -1670,9 +1670,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### Temporal Bone Pathology / 顳骨疾病 (Page 310)
+### Temporal Bone Pathology / 顳骨疾病 (Page 320)
 
-![Page 320](/core_radiology/images/neuro/page-310.png)
+![Page 320](/core_radiology/images/neuro/page-320.png)
 
 顳骨各區域有其特發性疾病譜。外耳疾病包括外耳道狹窄/閉鎖（先天性）、急性外耳炎（游泳者耳）、壞死性（惡性）外耳炎（老年糖尿病/免疫抑制，銅綠假單胞菌最常見）和膽脂瘤（外耳道軟組織腫塊伴骨質侵蝕）。中耳疾病包括膽固醇肉芽腫（常見岩錐部病變，T1高訊號）和膽脂瘤（DWI受限擴散）。內耳疾病包括耳蝸發育不良（Mondini畸形）和前庭導水管擴大綜合徵。
 
@@ -1831,7 +1831,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ## Orbit / 眼眶
 
 
-![Page 332](/core_radiology/images/neuro/page-332.png)
+![Page 332](/core_radiology/images/neuro/page-323.png)
 
 眼眶是由五塊骨頭構成的四邊形錐體空腔：額骨、篩骨、鼻骨、顴骨與上頜骨。眼眶包含多個薄壁骨質與氣化竇。視神經孔包含視神經與眼動脈。除V2外的海綿竇內所有腦神經均經上眶裂進入眼眶：動眼神經（CN III）支配上、內、下直肌與下斜肌；滑車神經（CN IV）支配上斜肌；眼支（V1）提供顏面上部感覺；外展神經（CN VI）支配外直肌。上眼靜脈為無瓣膜靜脈，可能是感染蔓延至顱內的途徑。眼眶可分為五個解剖區室：眶隔前（浅層潛在空間，無眶內結構）與眶隔後，後者再分為眶外間隙（包含淚腺、脂肪與骨性眼眶）、錐內間隙（包含眼外肌）與眼球。
 
@@ -1843,9 +1843,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼眶感染 / 眼眶感染（Orbital Infection） (Page 333)
+### 眼眶感染 / 眼眶感染（Orbital Infection） (Page 324)
 
-![Page 333](/core_radiology/images/neuro/page-333.png)
+![Page 333](/core_radiology/images/neuro/page-324.png)
 
 鼻竇感染直接蔓延是眼眶感染最常見的原因，其他原因包括外傷、異物與牙源性感染。眼眶感染代表一個從輕到重的連續光譜：眶隔前感染僅表現為眼瞼腫脹與紅斑；眼眶蜂窩組織炎/蜂窩織炎為眼眶內感染但尚未形成膿癤；骨膜下膿癤（subperiosteal abscess）是骨膜下的感染性積液臨床上表現為眼球突出與視力礙礙，是需緊急手術的急症，因為有因眼壓升高導致永久失明的風險；眼眶膿癤是比骨膜下膿癤更嚴重的感染，臨床上除眼球突出外還有眼肌麻痺；海綿竇血栓是眼眶感染的嚴重後遺症，可出現多發性腦神經麻痺。
 
@@ -1857,9 +1857,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼眶腫瘤 / 眼眶腫瘤（Orbital Masses） (Page 334)
+### 眼眶腫瘤 / 眼眶腫瘤（Orbital Masses） (Page 325)
 
-![Page 334](/core_radiology/images/neuro/page-334.png)
+![Page 334](/core_radiology/images/neuro/page-325.png)
 
 海綿狀血管瘤（cavernous hemangioma）是成人最常見的成人眼眶腫瘤，通常為眶內（intraconal）也可為眶外，好發於成人，典型表現為進行性眼球突出。CT可見橢圓形強化腫塊，MRI T1等訊號、T2高訊號，早期呈現斑駁強化。毛細血管瘤（capillary hemangioma）為兒童血管瘤，與皮膚病竈如葡萄酒色斑或草莓狀血管瘤相關，通常在出生後數月內自行消退。眼眶淋巴瘤通常與系統性疾病相關，淚腺是最常見的侵犯部位，臨床上以無痛性向下眼球突出表現。眼眶淋巴瘤在CT上呈高密度，T1與T2均呈低訊號（高細胞密度）。
 
@@ -1870,9 +1870,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼眶淋巴管瘤與其他 / 眼眶其他腫瘤（Other Orbital Tumors） (Page 335)
+### 眼眶淋巴管瘤與其他 / 眼眶其他腫瘤（Other Orbital Tumors） (Page 326)
 
-![Page 335](/core_radiology/images/neuro/page-335.png)
+![Page 335](/core_radiology/images/neuro/page-326.png)
 
 淋巴管瘤（lymphangioma）是兒童族群常見的良性錯構瘤性病變，又稱低流速淋巴管畸形。淋巴管瘤最常見於眶外間隙，影像上呈多房囊性腫塊，內部複雜，常可見因先前出血導致的液體平面， 通常有輕微的周邊與間隔強化。神經鞘瘤與神經纖維瘤在眼眶的影像表現無法區分，神經鞘瘤較常見，最常侵犯V1的感覺分支，典型位置在眼眶上部。成人眼眶轉移瘤來源包括乳癌、肺癌、甲狀腺癌、腎細胞癌與黑色素瘤。硬斑性乳癌轉移可因纖維化而導致眼球內陷（enophthalmos）而非眼球突出。兒童則需注意轉移性神經母細胞瘤，典型表現為長骨上的攻擊性日光放射狀骨膜反應。淚腺病竈中，上皮性腫瘤約50%良性（如多形性腺瘤）與50%惡性（如腺樣囊性癌與黏液表皮樣癌）。
 
@@ -1883,9 +1883,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼眶假瘤與甲狀腺 / 甲狀腺眼眶病變與眼眶假瘤（Thyroid Ophthalmopathy and Pseudotumor） (Page 336)
+### 眼眶假瘤與甲狀腺 / 甲狀腺眼眶病變與眼眶假瘤（Thyroid Ophthalmopathy and Pseudotumor） (Page 327)
 
-![Page 336](/core_radiology/images/neuro/page-336.png)
+![Page 336](/core_radiology/images/neuro/page-327.png)
 
 甲狀腺眼眶病變（thyroid ophthalmopathy）是與甲狀腺疾病相關的眼眶炎症，由淋巴細胞產生玻尿酸所介導，最終導致眼外肌纖維化。初期表現為眼眶脂肪增加（可見因炎症改變產生的脂肪條紋），隨後眼外肌開始腫大。下直肌最先受影響，記憶口訣「I'M SLow」有助於記住受侵犯順序：下直肌→內直肌→上直肌→外直肌。甲狀腺眼眶病變通常為雙側且保留肌肉肌腱附著處，此點與假瘤不同。眼眶假瘤（orbital pseudotumor）是特發性眼眶炎症，臨床上以疼痛性眼球突出表現（與淋巴瘤的無痛性不同），是排除性診斷。淚腺是最常見的侵犯結構。Tolosa-Hunt症候群與眼眶假瘤病理過程相同，但侵犯海綿竇而非眼眶。
 
@@ -1896,9 +1896,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 視神經鞘腫瘤 / 視神經鞘腫瘤（Optic Nerve Sheath Tumors） (Page 337)
+### 視神經鞘腫瘤 / 視神經鞘腫瘤（Optic Nerve Sheath Tumors） (Page 328)
 
-![Page 337](/core_radiology/images/neuro/page-337.png)
+![Page 337](/core_radiology/images/neuro/page-328.png)
 
 視神經是眶內最重要的結構。視神經膠質瘤（optic nerve glioma）是視神經鞘複合構造最常見的腫瘤。孩童與成人的視神經膠質瘤預後不同：孩童型通常為低度星狀細胞瘤，生長緩慢，與第一型神經纖維瘤病相關，常為雙側；成人型通常為間變性星狀細胞瘤或膠質母細胞瘤，預後差。孩童低度腫瘤的MRI表現多變，常見視神經的紡錘狀擴大與不規則強化。侵襲性成人腫瘤通常呈強化，並可向顱內蔓延侵犯視交叉。視神經鞘腦膜瘤（optic nerve sheath meningioma）是第二常見的視神經鞘腫瘤，起源於視神經軟膜中的蛛網膜細胞，典型患者為中年女性，影像上可見神經鞘環形增厚，均匀強化，軸位圖像上腫瘤強化而中央視神經不強化，形成所謂的「電車軌道徵」（tram-track sign）。
 
@@ -1909,9 +1909,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 視神經炎 / 視神經炎（Optic Neuritis） (Page 338)
+### 視神經炎 / 視神經炎（Optic Neuritis） (Page 329)
 
-![Page 338](/core_radiology/images/neuro/page-338.png)
+![Page 338](/core_radiology/images/neuro/page-329.png)
 
 視神經炎是視神經的非腫瘤性炎症，通常表現為疼痛與亞急性視力減退及色彩知覺下降，最常見原因為多發性硬化症，但也可能由病毒感染、結節病、血管炎與毒素暴露引起。急性期可見視神經腫大與T2訊號延長，強化代表疾病正在活動。慢性期可見視神經萎縮。視神經炎與脊髓脫髓鞘病變同時存在（無腦部病竈）時為Devic症候群（視神經脊髓炎）。影像檢查應包括頭部與脊椎MRI以評估顱內斑塊：約75%的視神經炎患者會有腦部白質病竈。多發性硬化症的白質病竈在FLAIR影像上最為明顯，典型分布在腦室周圍。
 
@@ -1922,9 +1922,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼球腫瘤 / 眼球腫瘤（Globe Tumors） (Page 339)
+### 眼球腫瘤 / 眼球腫瘤（Globe Tumors） (Page 330)
 
-![Page 339](/core_radiology/images/neuro/page-339.png)
+![Page 339](/core_radiology/images/neuro/page-330.png)
 
 眼球病竈最常見於兒童。視網膜母細胞瘤（retinoblastoma）是眼球最常見的原發性惡性腫瘤，幾乎都發生在5歲以下孩童，典型表現為白色瞳孔反射（leukocoria）。散發性病例常為單側，家族性病例（與p53腫瘤抑制基因突變相關）常為雙側。CT上呈現高密度並有強化的視網膜腫塊合併鈣化，眼球大小正常。「三側性」視網膜母細胞瘤指雙側視網膜母細胞瘤合併松果體母細胞瘤。Coat病是視網膜的血管疾病，特徵為脂蛋白性視網膜下滲出導致視網膜剝離，患者年齡通常稍大於視網膜母細胞瘤患者，眼球大小正常但有視網膜下不強化的軟組織。早產兒視網膜病變（ROP）僅見於早產兒，因長期氧氣治療所致，表現包括異常血管發育、出血與視網膜剝離，雙眼受影響程度相似，通常為小眼球（microphthalmia）。
 
@@ -1935,9 +1935,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 先天性眼球病變 / 先天性眼球與眼眶病變（Congenital Globe and Orbital Lesions） (Page 340)
+### 先天性眼球病變 / 先天性眼球與眼眶病變（Congenital Globe and Orbital Lesions） (Page 331)
 
-![Page 340](/core_radiology/images/neuro/page-340.png)
+![Page 340](/core_radiology/images/neuro/page-331.png)
 
 持續性原始玻璃體增生症（PHPV）為玻璃體內持續存在的胚胎血管組織，可導致出血、白內礙與視網膜剝離導致視力喪失，受影響嬰兒通常為足月產。患眼偏小（microphthalmia）且玻璃體密度增加。PHPV的鑑別點在於無鈣化，可與視網膜母細胞瘤及ROP區分。脈絡膜缺損（coloboma）由胚胎眼內裂癒合不完全造成，可導致眼球變形或延長。脈絡膜缺損與多項症候群相關，包括13與18三染色體以及CHARGE與VATER關聯症。影像上可見錐狀或切跡狀變形。蝶骨翼發育不全（sphenoid wing dysplasia）見於第一型神經纖維瘤病，CSF搏動透過蝶骨翼缺陷傳遞可產生典型的搏動性眼球突出。隔視神經發育不全（septo-optic dysplasia）特徵為視神經發育不全與透明中隔缺如，常與裂腦症（schizencephaly）相關。
 
@@ -1949,11 +1949,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 咀嚼肌間隙 / 咀嚼肌間隙（Masticator Space） (Page 341)
+### 咀嚼肌間隙 / 咀嚼肌間隙（Masticator Space） (Page 332)
 ## Fascial Spaces / 筋膜間隙
 
 
-![Page 341](/core_radiology/images/neuro/page-341.png)
+![Page 341](/core_radiology/images/neuro/page-332.png)
 
 咀嚼肌間隙位於腮腺前方，包含咀嚼肌、下頜骨與顱神經V3。V3經卵圓孔離開顱骨並支配咀嚼肌。若咀嚼肌間隙有病變，必須評估是否有沿V3的神經周圍蔓延。牙源性疾病是咀嚼肌間隙病變最常見的原因，可導致膿癤。下頜骨病變中，骨肉瘤與轉移瘤是兩種最常見的惡性下頜骨病竈。橫紋肌肉瘤是兒童最常見的頭頸部腫瘤。頭頸部筋膜間隙複雜，包含咽（分為鼻咽、口咽、口腔、下咽與喉）、咀嚼肌間隙、頸動脈間隙、副咽間隙與椎體前間隙。咽是頭頸部的解剖中心，各間隙依其位置與相鄰結構形成特徵性的鑑別診斷。
 
@@ -1964,9 +1964,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 頸動脈間隙 / 頸動脈間隙（Carotid Space） (Page 342)
+### 頸動脈間隙 / 頸動脈間隙（Carotid Space） (Page 333)
 
-![Page 342](/core_radiology/images/neuro/page-342.png)
+![Page 342](/core_radiology/images/neuro/page-333.png)
 
 頸動脈間隙（又稱莖突後咽旁間隙）是包繞頸動脈與頸靜脈的不完整筋膜環，从顱底延伸至主動脈弓。頸動脈間隙包含頸動脈、頸動脈體、頸靜脈與多條腦神經。迷走神經（CN X）是唯一全程走在頸動脈間隙內進入胸腔的腦神經。頸動脈間隙病變的關鍵在於血管結構的位移方向：頸動脈體瘤（carotid body tumor）在頸動脈分叉處分開內外頸動脈；迷走神經球瘤（glomus vagale）則將內外頸動脈向前內側位移；迷走神經鞘瘤的位移方式與迷走神經球瘤相似，但血管性較低。神經纖維瘤幾乎都與第一型神經纖維瘤病相關。MRI上，神經纖維瘤與神經鞘瘤無法區分。
 
@@ -1977,9 +1977,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 咽旁間隙與椎前間隙 / 咽旁間隙與椎前間隙（Parapharyngeal and Perivertebral Spaces） (Page 343)
+### 咽旁間隙與椎前間隙 / 咽旁間隙與椎前間隙（Parapharyngeal and Perivertebral Spaces） (Page 334)
 
-![Page 343](/core_radiology/images/neuro/page-343.png)
+![Page 343](/core_radiology/images/neuro/page-334.png)
 
 咽旁間隙（PPS）是三角形的脂肪填充空間，除了偶爾的異位小唾液腺組織外，無其他重要內容物。因其脂肪含量，無論在MRI或CT上都相當明顯。根據相鄰區室的病變對咽旁間隙造成的位移方向可預測病變的起源：咀嚼肌間隙病變（如咀嚼肌膿癤）將PPS向後內側位移；腮腺病變（如多形性腺瘤）將PPS向前內側位移；頸動脈間隙病變（如球瘤）將PPS向前位移。椎體前間隙由深層頸筋膜圍繞椎前與椎旁肌肉形成，前方為椎體前間隙，相當於舌骨上頸部的椎體前部分。內容物包括椎動脈、椎旁肌肉、脊椎與穿出的神經。
 
@@ -1991,7 +1991,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ## Cervical Lymph Nodes / 頸部淋巴結
 
-![Page 344](/core_radiology/images/neuro/page-344.png)
+![Page 344](/core_radiology/images/neuro/page-335.png)
 
 頸部淋巴結依據美國癌症聯合委員會（AJCC）建議分成七個層級，每個層級由特定解剖標誌界定並按淋巴引流模式組織。頭頸部癌症90%為鱗狀細胞癌，放射科醫師的角色不是提供鑑別診斷，而是進行分期。淋巴結侵犯程度有重要的預後價值，例如單一轉移性淋巴結可使鱗狀細胞癌的存活率下降50%。各層級定義如下：IA為頦下淋巴結，位於兩側二腹肌前腹內側之間；IB為頜下淋巴結，位於頜下腺外側至其後緣；IIA與IIB為上頸內淋巴結，介於顱底與舌骨之間，IIA在頸內靜脈前方，IIB在後方；III為中頸內淋巴結；IV為下頸內淋巴結；VA與VB為後頸淋巴結；VI為甲狀腺前淋巴結；VII為上縱隔淋巴結。
 
@@ -2003,11 +2003,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ## Spine Tumors / 脊椎腫瘤
-### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization） (Page 345)
+### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization） (Page 336)
 ## Degenerative Spine / 退化性脊椎病變
 
 
-![Page 345](/core_radiology/images/neuro/page-345.png)
+![Page 345](/core_radiology/images/neuro/page-336.png)
 
 評估任何脊椎病竈的第一步是確定其原始間室，每個間室都有不同的病變考量。三個間室分別為：髓內間室（位於軟膜深側，通常在脊髓實質內）、髓外膜內間室（位於硬膜內但軟膜外）與硬膜外間室（硬膜外）。各間室常見病竈：髓內常見星狀膠質細胞瘤、室管膜瘤與血管母細胞瘤；髓外膜內常見神經鞘瘤、神經纖維瘤與腦膜瘤；硬膜外常見脊椎腫瘤、轉移與椎間盤突出。熟悉這些解剖學分區是系統性分析脊椎MRI的基礎。
 
