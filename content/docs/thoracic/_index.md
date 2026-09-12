@@ -2,7 +2,7 @@
 
 
 
-title: "Chapter 1: Thoracic Imaging 胸腔影像"
+title: "Chapter 1: Thoracic Imaging"
 
 
 

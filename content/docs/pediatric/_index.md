@@ -2,7 +2,7 @@
 
 
 
-title: "Chapter 11: Pediatric Imaging 兒童影像"
+title: "Chapter 11: Pediatric Imaging"
 
 
 
