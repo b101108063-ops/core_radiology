@@ -7,6 +7,8 @@ weight: 6
 ---
 
 ## 膽道與膽囊 / Biliary and Gallbladder
+![Page 474](/core_radiology/images/ultrasound/page-474.png)
+
 
 ### 膽結石與膽囊炎 / Gallstones and Cholecystitis
 
@@ -101,6 +103,8 @@ weight: 6
 ---
 
 ## 肝臟 / Liver
+![Page 481](/core_radiology/images/ultrasound/page-481.png)
+
 
 ### 肝臟瀰漫性代謝疾病 / Diffuse Metabolic Parenchymal Liver Disease
 
@@ -194,6 +198,8 @@ weight: 6
 ---
 
 ## 胰臟 / Pancreas
+![Page 488](/core_radiology/images/ultrasound/page-488.png)
+
 
 ### 胰臟：胰島 / Pancreas: Introduction
 
@@ -276,6 +282,8 @@ weight: 6
 ---
 
 ## 脾臟 / Spleen
+![Page 494](/core_radiology/images/ultrasound/page-494.png)
+
 
 ### 脾臟疾病型態 / Splenic Patterns of Disease
 
@@ -356,6 +364,8 @@ weight: 6
 ---
 
 ## 腎臟 / Kidneys
+![Page 500](/core_radiology/images/ultrasound/page-500.png)
+
 
 ### 腎臟移植評估 / Renal Transplant Evaluation
 
@@ -527,6 +537,8 @@ weight: 6
 ---
 
 ## 睪丸與陰囊 / Testicle and Scrotum
+![Page 513](/core_radiology/images/ultrasound/page-513.png)
+
 
 ### 甲狀腺瀰散性疾病 / Diffuse Thyroid Disease
 
@@ -709,6 +721,8 @@ weight: 6
 ---
 
 ## 甲狀腺與頸部 / Thyroid and Neck
+![Page 527](/core_radiology/images/ultrasound/page-527.png)
+
 
 ### 甲狀腺與頸部淋巴結 / Thyroid and Cervical Lymph Nodes
 
@@ -802,6 +816,8 @@ weight: 6
 ---
 
 ## 婦科 / Gynecologic
+![Page 534](/core_radiology/images/ultrasound/page-534.png)
+
 
 ### 輸卵管阻塞與卵巢囊腫 / Tubal Occlusion and Ovarian Cysts
 
@@ -1090,6 +1106,8 @@ weight: 6
 ---
 
 ## 產科 / Obstetric
+![Page 556](/core_radiology/images/ultrasound/page-556.png)
+
 
 ### 早期產科：妊娠失敗 / Early Obstetric: Pregnancy Failure
 
