@@ -14,7 +14,7 @@
 
 ![Page 097](/core_radiology/images/gi/page-097.png)
 
-肝臟依 Couinaud 分類法分為八個肝段，每個肝段皆有獨立的門脈三合組（門靜脈、肝動脈、膽管分支）供血，並透過周邊肝靜脈引流至下腔靜脈。The portal veins divide the superior from inferior segments, while the hepatic veins form the segmental borders in the axial plane.
+肝臟依 Couinaud 分類法分為八個肝段，每個肝段皆有獨立的門脈三合組（門靜脈、肝動脈、膽管分支）供血，並透過週邊肝靜脈引流至下腔靜脈。The portal veins divide the superior from inferior segments, while the hepatic veins form the segmental borders in the axial plane.
 
 **重點摘要**
 - **上段依序為**：2、4、8、7、1（尾狀葉）；下段依序為：3、4、5、6。Superior segments: 2, 4, 8, 7, 1; inferior segments: 3, 4, 5, 6.
@@ -26,7 +26,7 @@
 
 ![Page 098](/core_radiology/images/gi/page-098.png)
 
-每個肝段擁有自己的中央門脈三合組（包含門靜脈、肝動脈、膽管分支）以及周邊靜脈引流至肝靜脈，最終進入下腔靜脈。Each hepatic segment features its own central portal triad and peripheral venous drainage to the hepatic veins.
+每個肝段擁有自己的中央門脈三合組（包含門靜脈、肝動脈、膽管分支）以及週邊靜脈引流至肝靜脈，最終進入下腔靜脈。Each hepatic segment features its own central portal triad and peripheral venous drainage to the hepatic veins.
 
 **重點摘要**
 - **記憶口訣**：2 變成 4，4 變成 8，8 減 1 等於 7。Mnemonic: 2 doubled is 4; 4 doubled is 8; 8 minus 1 is 7.
@@ -51,12 +51,12 @@
 
 ![Page 100](/core_radiology/images/gi/page-100.png)
 
-肝臟鐵質過量有兩種途徑：鐵質沉積於肝細胞（hemochromatosis）或沉積於網狀內皮系統（hemosiderosis）。Hemochromatosis causes iron deposition in hepatocytes; hemosiderosis causes iron accumulation in the reticuloendothelial system (RES).
+肝臟鐵質過量有兩種途徑：鐵質沉積於肝細胞（hemochromatosis）或沉積於網狀內皮系統統（hemosiderosis）。Hemochromatosis causes iron deposition in hepatocytes; hemosiderosis causes iron accumulation in the reticuloendothelial system (RES).
 
 **重點摘要**
 - Hemochromatosis（血色素沉著症）是最常見的鐵質過量原因，為遺傳缺陷導致鐵吸收增加，治療方式為放血術（phlebotomy）。Treatment is phlebotomy.
 - 遺傳性 Wilson 病導致銅過量堆積於基底核、角膜與肝臟，CT 上可見肝臟高密度結節。Wilson disease causes high copper levels in basal ganglia, cornea, and liver.
-- Hemochromatosis 的脾臟與骨髓正常（網狀內皮系統未受侵犯）；hemosiderosis 的網狀內皮系統可儲存大量鐵且通常無害。Spleen and bone marrow are normal in hemochromatosis since RES is not involved.
+- Hemochromatosis 的脾臟與骨髓正常（網狀內皮系統統未受侵犯）；hemosiderosis 的網狀內皮系統統可儲存大量鐵且通常無害。Spleen and bone marrow are normal in hemochromatosis since RES is not involved.
 
 ---
 
@@ -64,7 +64,7 @@
 
 ![Page 101](/core_radiology/images/gi/page-101.png)
 
-病毒性肝炎（viral hepatitis）患者的 CT 常為正常表現，也可能出現膽囊壁增厚或門脈周圍水腫等非特異性發現。Patients with viral hepatitis often have a normal CT scan. 全身性黴菌感染（如念珠菌症 Candidiasis）可經門脈血流散播至肝臟與脾臟，CT 顯示多發微小低密度微膿腫。
+病毒性肝炎（viral hepatitis）患者的 CT 常為正常表現，也可能出現膽囊壁增厚或門脈週圍水腫等非特異性發現。Patients with viral hepatitis often have a normal CT scan. 全身性黴菌感染（如念珠菌症 Candidiasis）可經門脈血流散播至肝臟與脾臟，CT 顯示多發微小低密度微膿腫。
 
 **重點摘要**
 - 念珠菌血症（candidemia）在免疫抑制病人中幾乎都會出現。Candidiasis is almost always seen in immunocompromised patients.
@@ -93,8 +93,8 @@
 
 **重點摘要**
 - 臨床上約 75% 的 HCC 病例有甲型胎兒蛋白（AFP）升高。Alpha-feto protein (AFP) is elevated in approximately 75% of cases.
-- **典型影像特徵**：增強掃描动脉期強化，並在門脈期沖洗（washout）。Classic CT/MRI appearance is an encapsulated mass that enhances on arterial phase and washes out on portal venous phase.
-- 10–20% 的 HCC 為低血管性（hypovascular），在动脉期強化不明顯。10–20% of HCCs are hypovascular and slightly hypoenhancing relative to surrounding liver.
+- **典型影像特徵**：增強掃描動脈期強化，並在門脈期沖洗（washout）。Classic CT/MRI appearance is an encapsulated mass that enhances on arterial phase and washes out on portal venous phase.
+- 10–20% 的 HCC 為低血管性（hypovascular），在動脈期強化不明顯。10–20% of HCCs are hypovascular and slightly hypoenhancing relative to surrounding liver.
 
 ---
 
@@ -102,10 +102,10 @@
 
 ![Page 104](/core_radiology/images/gi/page-104.png)
 
-大多數肝臟轉移為低血管性（hypovascular），在門脈期（portal venous phase）最容易偵測，這與 HCC 在动脉期（late arterial phase）最佳顯現形成對比。Most metastases are hypovascular and best appreciated on portal venous phase, in contrast to hypervascular HCC seen on late arterial phase.
+大多數肝臟轉移為低血管性（hypovascular），在門脈期（portal venous phase）最容易偵測，這與 HCC 在動脈期（late arterial phase）最佳顯現形成對比。Most metastases are hypovascular and best appreciated on portal venous phase, in contrast to hypervascular HCC seen on late arterial phase.
 
 **重點摘要**
-- **高血管性轉移（动脉期最佳）包括**：神經內分泌腫瘤（neuroendocrine tumors）、腎細胞癌（renal cell carcinoma）、黑色素瘤（melanoma）、甲狀腺癌（thyroid carcinoma）與肉瘤（sarcoma）。Hypervascular metastases (best on arterial phase): neuroendocrine tumors, RCC, melanoma, thyroid carcinoma, sarcoma.
+- **高血管性轉移（動脈期最佳）包括**：神經內分泌腫瘤（neuroendocrine tumors）、腎細胞癌（renal cell carcinoma）、黑色素瘤（melanoma）、甲狀腺癌（thyroid carcinoma）與肉瘤（sarcoma）。Hypervascular metastases (best on arterial phase): neuroendocrine tumors, RCC, melanoma, thyroid carcinoma, sarcoma.
 - 大腸直腸癌與胰臟腺癌的轉移通常為低血管性。Colorectal and pancreatic adenocarcinoma metastases are typically hypovascular.
 - 假性肝硬化（pseudocirrhosis）由多發硬癖性（scirrhous）肝臟轉移引起，常見於治療後的乳癌轉移。Pseudocirrhosis describes macronodular liver contour from scirrhous hepatic metastases, most commonly from treated breast cancer.
 
@@ -118,7 +118,7 @@
 局灶性結節增生（FNH, focal nodular hyperplasia）是由排列紊亂的肝臟組織構成的良性腫瘤，無惡性潛力，好發於無症狀女性。FNH is disorganized liver tissue with no malignant potential, primarily seen in asymptomatic women. FNH 具有特徵性的中央「疤痕」，此疤痕並非真正的纖維化組織，而是由 T2 高信號的膽管小葉（ductules）組成。
 
 **重點摘要**
-- T2 加權像上疤痕為高信號；动脉期明顯強化，延遲期疤痕延遲強化。Central scar is T2 hyperintense with arterial phase enhancement and delayed scar enhancement.
+- T2 加權像上疤痕為高信號；動脈期明顯強化，延遲期疤痕延遲強化。Central scar is T2 hyperintense with arterial phase enhancement and delayed scar enhancement.
 - FNH 不含膽管，因此核醫學 HIDA 掃描有助於與肝臟腺瘤（hepatic adenoma）鑑別。HIDA scan can distinguish FNH (positive, contains bile ducts) from hepatic adenoma (negative).
 
 ---
@@ -127,11 +127,11 @@
 
 ![Page 106](/core_radiology/images/gi/page-106.png)
 
-肝血管瘤（hepatic hemangioma）是由排列紊亂的內皮襯裡血管囊組成的良性腫瘤，由肝動脈分支在病灶周邊供血。Hepatic hemangioma is a benign mass composed of disorganized endothelial-lined pockets of blood vessels, supplied by a branch of the hepatic artery at the periphery. 女性較常見，且在肝硬化中並不常見。
+肝血管瘤（hepatic hemangioma）是由排列紊亂的內皮襯裡血管囊組成的良性腫瘤，由肝動脈分支在病灶週邊供血。Hepatic hemangioma is a benign mass composed of disorganized endothelial-lined pockets of blood vessels, supplied by a branch of the hepatic artery at the periphery. 女性較常見，且在肝硬化中並不常見。
 
 **重點摘要**
 - 巨大的血管瘤中央常有不強化的區域，代表囊性變性。Giant hemangiomas tend to have a nonenhancing central area representing cystic degeneration.
-- **幾乎具有診斷價值的影像特徵**：周邊不連續性結節狀強化（peripheral discontinuous nodular enhancement），強化程度與主動脈相同，並在延遲期漸進性向心性填充。Virtually pathognomonic imaging feature is peripheral, discontinuous, progressive, nodular enhancement identical to the aorta.
+- **幾乎具有診斷價值的影像特徵**：週邊不連續性結節狀強化（peripheral discontinuous nodular enhancement），強化程度與主動脈相同，並在延遲期漸進性向心性填充。Virtually pathognomonic imaging feature is peripheral, discontinuous, progressive, nodular enhancement identical to the aorta.
 
 ---
 
@@ -152,7 +152,7 @@
 
 ![Page 108](/core_radiology/images/gi/page-108.png)
 
-Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性病因引起，包括血液凝固異常状態、妊娠、口服避孕藥、惡性腫瘤、感染與創傷。Budd-Chiari is hepatic venous outflow obstruction that can be thrombotic or non-thrombotic. 急性 Budd-Chiari 的臨床三聯症包括：肝腫大、腹水與腹痛。
+Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性病因引起，包括血液凝固異常狀態、妊娠、口服避孕藥、惡性腫瘤、感染與創傷。Budd-Chiari is hepatic venous outflow obstruction that can be thrombotic or non-thrombotic. 急性 Budd-Chiari 的臨床三聯症包括：肝腫大、腹水與腹痛。
 
 **重點摘要**
 - **直接血管徵象**：肝靜脈內無血流、肝靜脈/下腔靜脈內血栓、以及側支血管形成。Direct vascular findings include lack of flow within hepatic veins, thrombus in hepatic veins/IVC, and collateral vessels.
@@ -164,7 +164,7 @@ Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性�
 
 ![Page 109](/core_radiology/images/gi/page-109.png)
 
-肝臟是鈍性創傷中第二常受損的實質器官（僅次於脾臟）。MDCT 肝臟創傷分級系統依據 CT 發現，為放射科醫師最常使用的分級標準。The liver is the second most commonly injured solid organ due to blunt trauma, second to the spleen. MDCT grading is based on CT findings and more commonly used by radiologists.
+肝臟是鈍性創傷中第二常受損的實質器官（僅次於脾臟）。MDCT 肝臟創傷分級系統統依據 CT 發現，為放射科醫師最常使用的分級標準。The liver is the second most commonly injured solid organ due to blunt trauma, second to the spleen. MDCT grading is based on CT findings and more commonly used by radiologists.
 
 **重點摘要**
 - **第一級（Grade I）**：淺層撕裂或被膜下血腫小於 1 公分。Superficial laceration or subcapsular hematoma <1 cm.
@@ -181,7 +181,7 @@ Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性�
 
 ![Page 110](/core_radiology/images/gi/page-110.png)
 
-膽道囊腫（Choledochal cysts）依 Todani 分類系統分為五型，根據囊腫的數量、分布與形態學特徵進行分類。The Todani system divides choledochal cysts into types I–V based on number, distribution, and morphology.
+膽道囊腫（Choledochal cysts）依 Todani 分類系統統分為五型，根據囊腫的數量、分布與形態學特徵進行分類。The Todani system divides choledochal cysts into types I–V based on number, distribution, and morphology.
 
 **重點摘要**
 - **第一型（Type I）**：膽總管梭狀擴張，最常見（約佔 50%）。Most common, makes up ~50% of choledochal cysts.
@@ -214,7 +214,7 @@ Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性�
 **重點摘要**
 - 膽囊壁增厚超過 3 公分（公釐）即為異常（但此發現非特異性）。Gallbladder wall thickening >3 mm is a nonspecific finding.
 - **急性膽囊炎併發症包括**：壞疽性膽囊炎（gangrenous cholecystitis）、膽囊穿孔（gallbladder perforation）與氣性膽囊炎（emphysematous cholecystitis）。Complications include gangrenous cholecystitis, gallbladder perforation, and emphysematous cholecystitis.
-- 氣性膽囊炎由產氣细菌引起，气体可出现于胆囊腔内或壁内。Emphysematous cholecystitis is caused by gas-forming bacteria; gas may be present within the lumen or wall.
+- 氣性膽囊炎由產氣细菌引起，气體可出現于膽囊腔内或壁内。Emphysematous cholecystitis is caused by gas-forming bacteria; gas may be present within the lumen or wall.
 
 ---
 
@@ -304,7 +304,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 **重點摘要**
 - 內視鏡下的典型表現為「魚嘴狀」（fish-mouth）乳頭，有黏液流出。Classic endoscopic appearance is a fish-mouth papilla pouring out mucin.
 - 若 IPMN 超過 3 公分、有壁結節（mural nodule）、或胰管直徑超過 10 公分（公釐），通常建議手術切除。A suspected IPMN is resected if >3 cm, if there is a mural nodule, or if pancreatic duct dilation >10 mm.
-- 胰臟神經內分泌腫瘤（pancreatic neuroendocrine tumors）通常為高血管性，在动脉晚期（late arterial phase）最容易偵測。Pancreatic endocrine tumors tend to be hypervascular and are best seen in the late arterial phase.
+- 胰臟神經內分泌腫瘤（pancreatic neuroendocrine tumors）通常為高血管性，在動脈晚期（late arterial phase）最容易偵測。Pancreatic endocrine tumors tend to be hypervascular and are best seen in the late arterial phase.
 
 ---
 
@@ -328,7 +328,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 **重點摘要**
 - 成人環狀胰臟可引起胰臟炎、消化性潰�疾病與十二指腸阻塞；新生兒則可導致十二指腸阻塞，為雙氣泡徵（double bubble sign）的鑑別診斷之一。In adults, annular pancreas can cause pancreatitis, peptic ulcer, and duodenal obstruction; in neonates, it can cause duodenal obstruction.
-- 共同通道症候群（common channel syndrome），又稱胰膽管合流異常（pancreaticobiliary maljunction），遠端膽總管與胰管之間缺少分隔，允許兩系統間逆流。In common channel syndrome, the distal CBD and pancreatic duct are missing the septum, allowing reflux between the two systems.
+- 共同通道症候群（common channel syndrome），又稱胰膽管合流異常（pancreaticobiliary maljunction），遠端膽總管與胰管之間缺少分隔，允許兩系統統間逆流。In common channel syndrome, the distal CBD and pancreatic duct are missing the septum, allowing reflux between the two systems.
 
 ---
 
@@ -348,7 +348,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ![Page 123](/core_radiology/images/gi/page-123.png)
 
-急性胰臟炎最常見的原因為酒精或阻塞性膽結石。Acute pancreatitis is most commonly caused by alcohol or an obstructing gallstone. 其嚴重程度可使用 Balthazar 分級系統或 CT 嚴重指數（CTSI）來分類。
+急性胰臟炎最常見的原因為酒精或阻塞性膽結石。Acute pancreatitis is most commonly caused by alcohol or an obstructing gallstone. 其嚴重程度可使用 Balthazar 分級系統統或 CT 嚴重指數（CTSI）來分類。
 
 **重點摘要**
 - **Balthazar 分級**：A 級（正常胰臟）至 E 級（兩處以上液體積聚）。Grades A–E: from normal pancreas to two or more fluid collections.
@@ -418,7 +418,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 **重點摘要**
 - 與創傷後假囊腫不同，真性囊腫可能有間隔，但壁鈣化不常見。Unlike a post-traumatic pseudocyst, a true cyst may have septations, but mural calcification is uncommon.
-- 創傷後假囊腫（post-traumatic pseudocyst）是脾臟血腫演變的最終結果，其周邊並非細胞結構而是纖維組織。The periphery of a pseudocyst is not cellular but made of fibrotic tissue.
+- 創傷後假囊腫（post-traumatic pseudocyst）是脾臟血腫演變的最終結果，其週邊並非細胞結構而是纖維組織。The periphery of a pseudocyst is not cellular but made of fibrotic tissue.
 - 胰臟假囊腫延伸至脾臟時幾乎一定有胰臟炎病史，且可能導致脾臟破裂。Intrasplenic pancreatic pseudocyst almost always has a history of pancreatitis.
 
 ---
@@ -427,7 +427,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ![Page 129](/core_radiology/images/gi/page-129.png)
 
-類肉瘤病（sarcoidosis）是一種系統性疾病，當涉及脾臟時，最常見的表現為脾腫大，常伴隨肝腫大與淋巴結病。When sarcoidosis involves the spleen, splenomegaly is the most common presentation. 較少見的情況下，脾臟類肉瘤可能呈現多發結節狀分布，影像學上難以與脾臟淋巴瘤區分。
+類肉瘤病（sarcoidosis）是一種系統統性疾病，當涉及脾臟時，最常見的表現為脾腫大，常伴隨肝腫大與淋巴結病。When sarcoidosis involves the spleen, splenomegaly is the most common presentation. 較少見的情況下，脾臟類肉瘤可能呈現多發結節狀分布，影像學上難以與脾臟淋巴瘤區分。
 
 **重點摘要**
 - 類肉瘤結節在 T2 加權像上最明顯，對比增強 T1 加權像上也可見低信號結節與明顯強化的脾臟實質形成對比。Sarcoid nodules are most conspicuous on T2-weighted images and early-phase post-contrast T1-weighted images.
@@ -455,7 +455,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 脾臟梗塞（splenic infarct）最常見的原因在老年患者為栓塞（emboli），年輕患者為血栓形成（thrombosis，特別是血液疾病患者）。Splenic infarcts are most commonly due to emboli in older patients and thrombosis in younger patients with hematologic disease.
 
 **重點摘要**
-- 典型表現為楔形（wedge-shaped）周邊區域無強化，但也可呈現不均質的團塊樣外觀。Classic manifestation is a wedge-shaped peripheral region of nonenhancement, but a more heterogeneous, mass-like appearance can also be seen.
+- 典型表現為楔形（wedge-shaped）週邊區域無強化，但也可呈現不均質的團塊樣外觀。Classic manifestation is a wedge-shaped peripheral region of nonenhancement, but a more heterogeneous, mass-like appearance can also be seen.
 - 整個脾臟無強化應提高對完全性脾臟梗塞的警覺，可能由游走脾臟（wandering spleen）扭轉引起。Lack of enhancement of the entire spleen should raise concern for complete infarction, possibly due to wandering spleen with torsion.
 
 ---
@@ -467,7 +467,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 脾臟是鈍性腹部創傷中最常受損的腹部器官。脾臟切除術會大幅增加術後敗血症的風險，這推動了脾臟保留與保守治療的趨勢。The spleen is the most commonly injured abdominal organ from blunt trauma; splenectomy dramatically increases the risk of subsequent sepsis, driving the trend toward splenic preservation.
 
 **重點摘要**
-- 脾臟必須在門脈期（portal venous phase）評估，因為动脉期的生理性不均質強化可能掩蓋或偽裝創傷病灶。The spleen must be evaluated in the portal venous phase, as physiologic heterogeneous enhancement in the arterial phase can both mask and mimic injury.
+- 脾臟必須在門脈期（portal venous phase）評估，因為動脈期的生理性不均質強化可能掩蓋或偽裝創傷病灶。The spleen must be evaluated in the portal venous phase, as physiologic heterogeneous enhancement in the arterial phase can both mask and mimic injury.
 - 活動性對比劑外滲（active extravasation）代表血管損傷，在延遲掃描上因持續出血而增大；與此不同，假性動脈瘤（pseudoaneurysm）與動靜脈瘻管（AV fistula）為被包覆的血管損傷，延遲掃描上大小不變。In contrast to active extravasation, pseudoaneurysm and AV fistula are contained vascular injuries that do not increase on delayed scanning.
 
 ---
@@ -490,7 +490,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ![Page 134](/core_radiology/images/gi/page-134.png)
 
-逆流性（胃酸逆流，peptic）食道炎是由酸性胃分泌物暴露食道黏膜所引起，導致遠端潰疡與最終的狹窄。Reflux (peptic) esophagitis is caused by exposure of esophageal mucosa to acidic gastric secretions, leading to distal ulcerations and eventual stricture. 慢性食道炎與疤痕形成導致胃食道交界處上方平滑漸進性狹窄。
+逆流性（胃酸逆流，peptic）食道炎是由酸性胃分泌物暴露食道黏膜所引起，導致遠端潰癤與最終的狹窄。Reflux (peptic) esophagitis is caused by exposure of esophageal mucosa to acidic gastric secretions, leading to distal ulcerations and eventual stricture. 慢性食道炎與疤痕形成導致胃食道交界處上方平滑漸進性狹窄。
 
 **重點摘要**
 - Barrett 食道（Barrett esophagus）是逆流性食道炎的重要長期後遺症，為正常鱗狀上皮向胃型腺瘤樣黏膜的化生，為食道腺癌的癌前病變。Barrett esophagus is metaplasia of normal squamous epithelium to gastric-type adenomatous mucosa, a precursor lesion to esophageal carcinoma.
@@ -555,7 +555,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 Zenker 憩室（Zenker diverticulum）是因環咽肌（cricopharyngeus muscle）無法鬆弛導致下咽部壓力升高而形成的食道憩室，臨床症狀包括口臭、誤吸與未消化食物的反流。Zenker diverticulum is an esophageal diverticulum caused by failure of the cricopharyngeus muscle to relax, leading to elevated hypopharyngeal pressure; symptoms include halitosis, aspiration, and regurgitation.
 
 **重點摘要**
-- 硬皮症（scleroderma）是一種系統性疾病，80% 的患者有食道受侵犯，導致遠端 2/3 食道失去蠕動（因平滑肌萎縮與纖維化），導致明顯的食道擴張。The esophagus is involved in 80% of patients with scleroderma, producing lack of peristalsis of the distal 2/3 due to smooth muscle atrophy and fibrosis.
+- 硬皮症（scleroderma）是一種系統統性疾病，80% 的患者有食道受侵犯，導致遠端 2/3 食道失去蠕動（因平滑肌萎縮與纖維化），導致明顯的食道擴張。The esophagus is involved in 80% of patients with scleroderma, producing lack of peristalsis of the distal 2/3 due to smooth muscle atrophy and fibrosis.
 - 異常右鎖骨下動脈（aberrant right subclavian artery）在約 1% 的患者身上可見，几乎皆無症狀，但可能造成少見的吞嚥困難。Aberrant right subclavian artery is seen in approximately 1% of patients and is almost always asymptomatic, but may rarely produce dysphagia.
 - 食道裂孔疝氣（hiatal hernia）是指胃黏膜皺襞出現在橫膈膜上方。A hiatal hernia is present when gastric folds are seen above the diaphragm.
 
@@ -593,7 +593,7 @@ Zenker 憩室（Zenker diverticulum）是因環咽肌（cricopharyngeus muscle�
 
 ![Page 142](/core_radiology/images/gi/page-142.png)
 
-胃癌（gastric adenocarcinoma）可能以團塊或胃潰疡形式表現；胃癌局部蔓延可從黏膜表面穿透至漿膜層，90% 的患者會有網膜受侵犯。Gastric adenocarcinoma may present as a mass or gastric ulcer; lymphatic spread is along lesser curvature to gastrohepatic ligament and greater curvature.
+胃癌（gastric adenocarcinoma）可能以團塊或胃潰癤形式表現；胃癌局部蔓延可從黏膜表面穿透至漿膜層，90% 的患者會有網膜受侵犯。Gastric adenocarcinoma may present as a mass or gastric ulcer; lymphatic spread is along lesser curvature to gastrohepatic ligament and greater curvature.
 
 **重點摘要**
 - Krukenberg 瘤（Krukenberg tumor）傳統上定義為胃癌轉移至卵巢，事實上為含有黏液細胞的任何卵巢轉移性腫瘤。A Krukenberg tumor is classically described as metastatic spread of gastric carcinoma to the ovary.
@@ -686,7 +686,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 **重點摘要**
 - 最常見的受侵犯部位是小腸，尤其是末端迴腸（terminal ileum）。The most common site of involvement is the small bowel, especially the terminal ileum.
-- 組織學上最早的改變發生在黏膜下層，影像上表現為由淋巴組織增生與淋巴水腫引起的糜爛潰疡（aphthous ulcers）。The earliest histologic changes occur in the submucosa, seen on imaging as aphthous ulcers.
+- 組織學上最早的改變發生在黏膜下層，影像上表現為由淋巴組織增生與淋巴水腫引起的糜爛潰癤（aphthous ulcers）。The earliest histologic changes occur in the submucosa, seen on imaging as aphthous ulcers.
 - CT 與 MRI 越來越多地用於評估克隆氏症，可評估腸道外併發症與腸道壁病變。CT and MR enterography are emerging as exams of choice for Crohn disease evaluation.
 
 ---
@@ -695,11 +695,11 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 150](/core_radiology/images/gi/page-150.png)
 
-克隆氏症的纖維狹窄型（fibrostenotic subtype）臨床上可能以腸道阻塞表現；腸繫膜側潰疡的不對稱纖維化在對側腸壁產生假性憩室（pseudosacculations）。Asymmetric bowel fibrosis from ulcerations of the mesenteric side produces pseudosacculations on the antimesenteric side, leading to a segmental stricture called the string sign.
+克隆氏症的纖維狹窄型（fibrostenotic subtype）臨床上可能以腸道阻塞表現；腸繫膜側潰癤的不對稱纖維化在對側腸壁產生假性憩室（pseudosacculations）。Asymmetric bowel fibrosis from ulcerations of the mesenteric side produces pseudosacculations on the antimesenteric side, leading to a segmental stricture called the string sign.
 
 **重點摘要**
 - **克隆氏症併發症包括**：腸道狹窄（strictures）、瘻管（fistulae）與膿腫（abscesses）。Complications of Crohn disease include bowel strictures, fistulae, and abscesses.
-- 「鵝卵石樣」（cobblestone）外觀是內視鏡與透視下深溃疡纵横交错所形成的特徵。The typical cobblestone appearance seen on endoscopy and fluoroscopy is a result of crisscrossing deep ulcerations.
+- 「鵝卵石樣」（cobblestone）外觀是內視鏡與透視下深潰癤纵横交錯所形成的特徵。The typical cobblestone appearance seen on endoscopy and fluoroscopy is a result of crisscrossing deep ulcerations.
 - CT 與 MRI 可清楚顯示腸道壁增厚、纖維脂肪性腸繫膜變化（creeping fat）與腸道外併發症。CT and MRI show bowel wall thickening and fibrofatty mesenteric changes (creeping fat).
 
 ---
@@ -708,7 +708,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 151](/core_radiology/images/gi/page-151.png)
 
-硬皮症（scleroderma）是一種系統性疾病，原發性胃腸道病變是蠕動功能受損（因肌肉層被膠原蛋白取代），導致傳遞減慢、細菌過度生長與進行性擴張。The primary insult to the GI tract in scleroderma is impaired motility due to replacement of muscular layers with collagen. 放射學表現包括抗腸繫膜側的囊狀突出（saccules）與"Hidebound"腸（因細直腸皺襞堆疊在一起）。
+硬皮症（scleroderma）是一種系統統性疾病，原發性胃腸道病變是蠕動功能受損（因肌肉層被膠原蛋白取代），導致傳遞減慢、細菌過度生長與進行性擴張。The primary insult to the GI tract in scleroderma is impaired motility due to replacement of muscular layers with collagen. 放射學表現包括抗腸繫膜側的囊狀突出（saccules）與"Hidebound"腸（因細直腸皺襞堆疊在一起）。
 
 **重點摘要**
 - 乳糜瀉（celiac disease），又稱為瀉肚（sprue）或麩質敏感性腸病變（gluten-sensitive enteropathy），是一種自體免疫性、近端腸炎，由 T 細胞介導的免疫反應引起。Celiac disease is an autoimmune, proximal enteritis caused by a T-cell-mediated immune response triggered by antigens in ingested gluten.
@@ -738,8 +738,8 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 結腸炎（colitis）是結腸的發炎，可由多種不相關的病因引起，影像學表現常有重疊。Colitis is inflammation of the colon that may be caused by several unrelated etiologies, often with overlapping imaging findings. 結腸炎的主要影像學特徵是腸壁增厚。
 
 **重點摘要**
-- 結腸缺血可由急性動脈血栓、慢性動脈狹窄、低灌注状態（如充血性心臟衰竭）與靜脈血栓引起。Colonic ischemia can be caused by acute arterial thrombus, chronic arterial stenosis, low-flow states, and venous thrombosis.
-- 脾曲（splenic flexure）是上腸繫膜動脈與下腸繫膜動脈之間的分割區（watershed region），在低灌注状態下特別容易缺血。The splenic flexure is the watershed region between the superior and inferior mesenteric arteries, especially susceptible to ischemia in low-flow states.
+- 結腸缺血可由急性動脈血栓、慢性動脈狹窄、低灌注狀態（如充血性心臟衰竭）與靜脈血栓引起。Colonic ischemia can be caused by acute arterial thrombus, chronic arterial stenosis, low-flow states, and venous thrombosis.
+- 脾曲（splenic flexure）是上腸繫膜動脈與下腸繫膜動脈之間的分割區（watershed region），在低灌注狀態下特別容易缺血。The splenic flexure is the watershed region between the superior and inferior mesenteric arteries, especially susceptible to ischemia in low-flow states.
 - 直腸由雙重血液供應，幾乎不會受缺血影響。The rectum is supplied by a dual blood supply and is almost never affected by ischemia.
 
 ---
@@ -761,12 +761,12 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 155](/core_radiology/images/gi/page-155.png)
 
-家族性腺瘤性息肉病（FAP）是一種自體顯性遺傳症候群，特点是结肠与程度较轻的小肠有无数premalignant腺瘤性息肉。Familial adenomatous polyposis (FAP) is an autosomal-dominant syndrome featuring innumerable premalignant adenomatous polyps in the colon.
+家族性腺瘤性息肉病（FAP）是一種自體顯性遺傳症候群，特点是結腸與程度较輕的小腸有無數premalignant腺瘤性息肉。Familial adenomatous polyposis (FAP) is an autosomal-dominant syndrome featuring innumerable premalignant adenomatous polyps in the colon.
 
 **重點摘要**
 - **Gardner 症候群是 FAP 的變異型，額外包括**：硬纖維瘤（desmoid tumors）、乳頭狀甲狀腺癌（papillary thyroid cancer）、骨瘤（osteomas）與表皮囊腫（epidermoid cysts）。Gardner syndrome features desmoid tumors, papillary thyroid cancer, osteomas, and epidermoid cysts.
 - Lynch 症候群（又稱 HNPCC）由 DNA 錯配修復缺陷引起，導致微衛星不穩定性與結腸癌。Hereditary nonpolyposis colon cancer (HNPCC) syndrome is caused by DNA mismatch repair.
-- Peutz-Jeghers 症候群是一種自體顯性遺傳病，特点为小肠多发hamartomatous息肉，患者常有皮肤黏膜色素沉着。Peutz-Jeghers is an autosomal dominant syndrome that features multiple hamartomatous pedunculated polyps, usually in the small bowel.
+- Peutz-Jeghers 症候群是一種自體顯性遺傳病，特点為小腸多發hamartomatous息肉，患者常有皮肤黏膜色素沉着。Peutz-Jeghers is an autosomal dominant syndrome that features multiple hamartomatous pedunculated polyps, usually in the small bowel.
 
 ---
 
@@ -779,7 +779,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 **重點摘要**
 - 超過 97% 的患者在闌尾切除術前接受術前 CT，使陰性闌尾切除率從 1990 年的 23% 降至 2007 年的 1.7%。Greater than 97% of patients undergo preoperative CT prior to appendectomy, with resultant decrease in negative appendectomy rate.
 - **直接影像學發現包括**：擴張且充滿液體的闌尾（6 公分為正常直徑上限）、闌尾壁增厚與糞石（appendicolith）。Direct findings: distended fluid-filled appendix (6 mm cutoff), appendiceal wall-thickening, appendicolith.
-- **間接發現是由炎症擴散至鄰近結構引起，包括闌尾周圍脂肪條紋（periappendiceal fat stranding）與周圍液體。Indirect findings**：periappendiceal fat stranding and pericecal fluid.
+- **間接發現是由炎症擴散至鄰近結構引起，包括闌尾週圍脂肪條紋（periappendiceal fat stranding）與週圍液體。Indirect findings**：periappendiceal fat stranding and pericecal fluid.
 
 ---
 
@@ -791,7 +791,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 **重點摘要**
 - 左結腸比右結腸更常受影響。The left colon is affected far more commonly than the right.
-- 單純性憩室炎（uncomplicated diverticulitis）的 CT 發現包括腸壁增厚與闌尾周圍脂肪條紋。CT findings of uncomplicated diverticulitis include bowel wall thickening and pericolonic fat stranding.
+- 單純性憩室炎（uncomplicated diverticulitis）的 CT 發現包括腸壁增厚與闌尾週圍脂肪條紋。CT findings of uncomplicated diverticulitis include bowel wall thickening and pericolonic fat stranding.
 - **複雜性憩室炎（complicated diverticulitis）包括**：肝膿腫（hepatic abscess）、腸道瘻管（如 colovesical fistula，膀胱陰道瘻最常見）、游離穿孔與腸阻塞。Complicated diverticulitis: pericolonic or hepatic abscess, bowel fistula (colovesical fistula most common), free perforation, and obstruction.
 
 ---
@@ -814,7 +814,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 159](/core_radiology/images/gi/page-159.png)
 
-腹膜液體持續產生、循環並最終在橫膈膜周圍被吸收，最終流入胸導管（thoracic duct）。Peritoneal fluid is constantly produced, circulated, and finally resorbed around the diaphragm, where it drains into the thoracic duct.
+腹膜液體持續產生、循環並最終在橫膈膜週圍被吸收，最終流入胸導管（thoracic duct）。Peritoneal fluid is constantly produced, circulated, and finally resorbed around the diaphragm, where it drains into the thoracic duct.
 
 **重點摘要**
 - 朦朧腸繫膜（misty mesentery）是指腸繫膜被液體、發炎細胞、腫瘤或纖維化浸潤，導致腸繫膜密度增高並使腸繫膜血管輪廓模糊。Infiltration of the mesentery by fluid, inflammatory cells, tumor, or fibrosis may increase the attenuation of the mesentery and cause the mesenteric vasculature to appear indistinct.
@@ -844,7 +844,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 **重點摘要**
 - 「網膜餅」（omental caking）描述的是網膜脂肪被腫瘤取代，形成餅狀軟組織腫塊的過程。The term omental caking describes replacement of omental fat by tumor.
 - 腸繫膜淋巴瘤可產生「三明治徵」（sandwich sign），即腸繫膜脂肪與血管（夾心餡）被兩側大量淋巴瘤團塊（麵包）所包圍。Mesenteric lymphoma can produce the sandwich sign, where mesenteric fat and vessels are engulfed on two sides by bulky lymphomatous masses.
-- 腹膜假黏液瘤（pseudomyxoma peritonei）是一種低度惡性腫瘤，特徵為腹腔內有大量黏液，临场上表现为反复发作的黏液性腹水。Pseudomyxoma peritonei is a low-grade malignancy characterized by copious mucus in the peritoneal cavity, presenting with recurrent mucinous ascites.
+- 腹膜假黏液瘤（pseudomyxoma peritonei）是一種低度惡性腫瘤，特徵為腹腔內有大量黏液，临場上表現為反復發作的黏液性腹水。Pseudomyxoma peritonei is a low-grade malignancy characterized by copious mucus in the peritoneal cavity, presenting with recurrent mucinous ascites.
 
 ---
 
@@ -856,7 +856,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 **重點摘要**
 - CT 顯示分葉狀腹水，其密度通常比單純腹水高（5–20 Hounsfield 單位）。CT shows lobulated ascites that is typically of slightly higher attenuation (5–20 HU) compared to fluid ascites.
-- 黏液性腹水對鄰近臟器如肝臟與腎臟产生壓迫，在肝臟表面可見扇形壓跡（scalloping）。Lobulated mucinous ascites exerts mass effect on adjacent organs such as the liver and kidneys.
+- 黏液性腹水對鄰近臟器如肝臟與腎臟產生壓迫，在肝臟表面可見扇形壓跡（scalloping）。Lobulated mucinous ascites exerts mass effect on adjacent organs such as the liver and kidneys.
 - 臨床上稱黏液性腹水為「果凍腹」（jelly belly）；20% 的闌尾腺瘤或腺癌會導致腹膜假黏液瘤。Surgeons refer to the mucinous ascites as jelly belly; 20% of all appendiceal adenomas or adenocarcinomas will cause pseudomyxoma peritonei.
 
 ---
@@ -867,7 +867,7 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 163](/core_radiology/images/gi/page-163.png)
 
-本章节的主要参考文献涵盖一般胃肠道影像学、肝胆胰脾影像学及MRI技术。The main references for this chapter cover general GI imaging, hepatobiliary and pancreatic imaging, and MRI techniques.
+本章節的主要参考文献涵盖一般胃腸道影像學、肝膽胰脾影像學及MRI技術。The main references for this chapter cover general GI imaging, hepatobiliary and pancreatic imaging, and MRI techniques.
 
 **重點摘要**
 - **一般參考文獻**：Johnson & Schmit (2005) Mayo Clinic Gastrointestinal Imaging Review；Ros & Mortele (2006) CT and MRI of the Abdomen and Pelvis；Roth (2012) Fundamentals of Body MRI。General references include Mayo Clinic Gastrointestinal Imaging Review, CT and MRI of the Abdomen and Pelvis, and Fundamentals of Body MRI.
@@ -880,11 +880,11 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 164](/core_radiology/images/gi/page-164.png)
 
-本节继续收录胰臟、脾臟及食道與胃部影像學的相關文獻。This section continues references for pancreas, spleen, and esophagus/stomach imaging.
+本節继續收录胰臟、脾臟及食道與胃部影像學的相關文獻。This section continues references for pancreas, spleen, and esophagus/stomach imaging.
 
 **重點摘要**
 - **胰臟參考文獻**：Saokar 等人 (2007) 急性胰臟炎的橫截面影像；Scaglione 等人 (2008) 急性胰臟炎影像評估综述；Sidden & Mortele (2007) 囊性胰臟腫瘤的超音波、CT 與 MRI 表現。Pancreas references cover cross-sectional imaging in acute pancreatitis, imaging assessment of acute pancreatitis, and cystic pancreatic tumor features.
-- **脾臟參考文獻**：Boscak & Shanmuganathan (2012) 脾臟創傷新進展；Elsayes 等人 (2005) MRI 脾臟病變谱系；Gayer 等人 (2006) 脾臟先天性異常。Spleen references cover splenic trauma, MR imaging of splenic abnormalities spectrum, and congenital anomalies of the spleen.
+- **脾臟參考文獻**：Boscak & Shanmuganathan (2012) 脾臟創傷新進展；Elsayes 等人 (2005) MRI 脾臟病變谱系統；Gayer 等人 (2006) 脾臟先天性異常。Spleen references cover splenic trauma, MR imaging of splenic abnormalities spectrum, and congenital anomalies of the spleen.
 - **食道與胃部參考文獻**：Carucci & Turner (2009) 減重手術後影像評估（RYGB 與 LAGB）；Takeyama 等人 (2005) 內疝的 CT 表現。Esophagus and stomach references cover imaging after bariatric surgery and CT of internal hernias.
 
 ---
@@ -893,9 +893,9 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 
 ![Page 165](/core_radiology/images/gi/page-165.png)
 
-本节收录大腸與腸繫膜/腹膜影像學的最後一批參考文獻，並列出實用教材與延伸閱讀資源。This section covers the final batch of references for large bowel and mesentery/peritoneum imaging, plus practical textbooks and further reading resources.
+本節收录大腸與腸繫膜/腹膜影像學的最後一批參考文獻，並列出實用教材與延伸閱讀資源。This section covers the final batch of references for large bowel and mesentery/peritoneum imaging, plus practical textbooks and further reading resources.
 
 **重點摘要**
 - **大腸參考文獻**：Chintapalli 等人 (1999) 螺旋 CT 區分憩室炎與結腸癌；Macari & Balthazar (2001) 腸壁增厚的 CT 意義與陷阱；Tayouil 等人 (2008) 缺血性結腸炎的影像學。Large bowel references cover helical CT differentiation of diverticulitis vs colon cancer, CT of bowel wall thickening significance and pitfalls, and imaging of ischemic colitis.
 - **腸繫膜與腹膜參考文獻**：Levy & Shaw (2009) 腹膜腔次發性腫瘤與腫瘤樣病灶的 CT 表現與病理相關性；Lucey 等人 (2005) 影像中可見的腸繫膜淋巴結：原因與臨床意義；Mindelzun 等人 (1996) CT 上的朦朧腸繫膜：鑑別診斷。Peritoneum and mesentery references cover secondary tumors and tumorlike lesions of peritoneal cavity, mesenteric lymph nodes seen at imaging, and the misty mesentery on CT differential diagnosis.
-- Sheth 等人的文獻系統性回顧了腸繫膜新生物（mesenteric neoplasms）的 CT 表現與鑑別診斷。Sheth et al. systematically reviewed CT appearances of primary and secondary mesenteric neoplasms and differential diagnosis.
+- Sheth 等人的文獻系統統性回顧了腸繫膜新生物（mesenteric neoplasms）的 CT 表現與鑑別診斷。Sheth et al. systematically reviewed CT appearances of primary and secondary mesenteric neoplasms and differential diagnosis.
