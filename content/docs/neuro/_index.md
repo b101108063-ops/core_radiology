@@ -802,7 +802,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-## Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血
+### Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血 (H3)
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
@@ -858,7 +858,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-## ICA and Circle of Willis / 頸內動脈與Willis環
+### ICA and Circle of Willis / 頸內動脈與Willis環 (H3)
 
 ![Page 260](/core_radiology/images/neuro/page-260.png)
 
@@ -996,7 +996,7 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 
 ---
 
-## 中風影像學評估 (Stroke Imaging Evaluation)
+### 中風影像學評估 (Stroke Imaging Evaluation) (H3)
 
 ![Page 270](/core_radiology/images/neuro/page-270.png)
 
