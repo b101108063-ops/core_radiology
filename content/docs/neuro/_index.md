@@ -554,7 +554,7 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
 
 ---
-### Ependymoma / 室管膜瘤 (H3)
+### Ependymoma / 室管膜瘤
 
 
 ![Page 238](/core_radiology/images/neuro/page-238.png)
@@ -569,7 +569,7 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 
 ---
 
-### Medulloblastoma / 髓母細胞瘤 (H3)
+### Medulloblastoma / 髓母細胞瘤
 
 ![Page 239](/core_radiology/images/neuro/page-239.png)
 
@@ -583,7 +583,7 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 
 ---
 
-### Cystic Mass with Mural Nodule / 囊腫合併壁結節腫瘤 (H3)
+### Cystic Mass with Mural Nodule / 囊腫合併壁結節腫瘤
 
 ![Page 240](/core_radiology/images/neuro/page-240.png)
 
@@ -597,7 +597,7 @@ Hemangioblastoma（血管母細胞瘤）軸向T2加權可見右小腦半球囊�
 
 ---
 
-### Central Neurocytoma / 中樞神經細胞瘤 (H3)
+### Central Neurocytoma / 中樞神經細胞瘤
 
 ![Page 241](/core_radiology/images/neuro/page-241.png)
 
@@ -611,7 +611,7 @@ Choroid plexus papilloma/carcinoma（脈絡叢乳頭狀瘤/癌）T2加權可見�
 
 ---
 
-### CNS Lymphoma / 中樞神經系統淋巴瘤 (H3)
+### CNS Lymphoma / 中樞神經系統淋巴瘤
 
 ![Page 242](/core_radiology/images/neuro/page-242.png)
 
@@ -625,7 +625,7 @@ Primary CNS lymphoma（原發性中樞神經系統淋巴瘤，PCNSL）FLAIR可�
 
 ---
 
-### Meningioma and Dural Metastasis / 腦膜瘤與硬膜轉移 (H3)
+### Meningioma and Dural Metastasis / 腦膜瘤與硬膜轉移
 
 ![Page 243](/core_radiology/images/neuro/page-243.png)
 
@@ -639,7 +639,7 @@ Meningioma（腦膜瘤）是最常見的軸外腫瘤，起源於蜘蛛膜顆粒�
 
 ---
 
-### Posterior Fossa Differential / 後顱窩腫瘤鑑別診斷 (H3)
+### Posterior Fossa Differential / 後顱窩腫瘤鑑別診斷
 
 ![Page 244](/core_radiology/images/neuro/page-244.png)
 
@@ -653,7 +653,7 @@ Meningioma（腦膜瘤）是最常見的軸外腫瘤，起源於蜘蛛膜顆粒�
 
 ---
 
-### CPA Mass / 橋小腦角腫瘤 (H3)
+### CPA Mass / 橋小腦角腫瘤
 
 ![Page 245](/core_radiology/images/neuro/page-245.png)
 
@@ -667,7 +667,7 @@ Meningioma（腦膜瘤）是最常見的軸外腫瘤，起源於蜘蛛膜顆粒�
 
 ---
 
-### Epidermoid and Intra-axial CPA / 膽脂瘤與軸內CPA侵犯 (H3)
+### Epidermoid and Intra-axial CPA / 膽脂瘤與軸內CPA侵犯
 
 ![Page 246](/core_radiology/images/neuro/page-246.png)
 
@@ -681,7 +681,7 @@ Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的�
 
 ---
 
-### Sella and Suprasellar Anatomy / 蝶鞍與鞍上區域解剖 (H3)
+### Sella and Suprasellar Anatomy / 蝶鞍與鞍上區域解剖
 
 ![Page 247](/core_radiology/images/neuro/page-247.png)
 
@@ -695,7 +695,7 @@ Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的�
 
 ---
 
-### Pituitary Adenoma / 腦下垂體腺瘤 (H3)
+### Pituitary Adenoma / 腦下垂體腺瘤
 
 ![Page 248](/core_radiology/images/neuro/page-248.png)
 
@@ -709,7 +709,7 @@ Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者
 
 ---
 
-### Craniopharyngioma / 顱咽瘤 (H3)
+### Craniopharyngioma / 顱咽瘤
 
 ![Page 249](/core_radiology/images/neuro/page-249.png)
 
@@ -723,7 +723,7 @@ Craniopharyngioma（顱咽瘤）是兒童最常見的鞍上病變，起源於Rat
 
 ---
 
-### Parasellar Meningioma / 鞍旁腦膜瘤 (H3)
+### Parasellar Meningioma / 鞍旁腦膜瘤
 
 ![Page 250](/core_radiology/images/neuro/page-250.png)
 
@@ -737,7 +737,7 @@ Meningioma（腦膜瘤）是成人第二常見鞍上腫瘤，好發中年女性�
 
 ---
 
-### Hypothalamic Hamartoma / 下視丘錯構瘤 (H3)
+### Hypothalamic Hamartoma / 下視丘錯構瘤
 
 ![Page 251](/core_radiology/images/neuro/page-251.png)
 
@@ -751,7 +751,7 @@ Hypothalamic hamartoma（下視丘錯構瘤）並非真正的腫瘤，而是異�
 
 ---
 
-### Pineal Region Anatomy / 松果體區解剖 (H3)
+### Pineal Region Anatomy / 松果體區解剖
 
 ![Page 252](/core_radiology/images/neuro/page-252.png)
 
@@ -765,7 +765,7 @@ Hypothalamic hamartoma（下視丘錯構瘤）並非真正的腫瘤，而是異�
 
 ---
 
-### Pineal Germinoma and Cysts / 松果體生殖細胞瘤與囊腫 (H3)
+### Pineal Germinoma and Cysts / 松果體生殖細胞瘤與囊腫
 
 ![Page 253](/core_radiology/images/neuro/page-253.png)
 
@@ -779,7 +779,7 @@ Germinoma（生殖細胞瘤）是松果體區最常見的腫瘤，發病高峰�
 
 ---
 
-### Pineocytoma and Pineoblastoma / 松果體細胞瘤與松果體母細胞瘤 (H3)
+### Pineocytoma and Pineoblastoma / 松果體細胞瘤與松果體母細胞瘤
 
 ![Page 254](/core_radiology/images/neuro/page-254.png)
 
@@ -793,7 +793,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-### Pineal Metastases and Extra-pineal Masses / 松果體轉移與松果體外腫瘤 (H3)
+### Pineal Metastases and Extra-pineal Masses / 松果體轉移與松果體外腫瘤
 
 ![Page 255](/core_radiology/images/neuro/page-255.png)
 
@@ -807,7 +807,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-### Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血 (H3)
+## Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
@@ -821,7 +821,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-### Intra-axial Injury / 軸內腦損傷 (H3)
+### Intra-axial Injury / 軸內腦損傷
 
 ![Page 257](/core_radiology/images/neuro/page-257.png)
 
@@ -835,7 +835,7 @@ Coup/contrecoup mechanism（撞擊/對側撞擊機制）描述腦在初始撞擊
 
 ---
 
-### Facial Fractures / 面部骨折 (H3)
+### Facial Fractures / 面部骨折
 
 ![Page 258](/core_radiology/images/neuro/page-258.png)
 
@@ -849,7 +849,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Central Sulcus / 中央溝解剖 (H3)
+## Central Sulcus / 中央溝解剖
 
 ![Page 259](/core_radiology/images/neuro/page-259.png)
 
@@ -863,7 +863,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### ICA and Circle of Willis / 頸內動脈與Willis環 (H3)
+## ICA and Circle of Willis / 頸內動脈與Willis環
 
 ![Page 260](/core_radiology/images/neuro/page-260.png)
 
@@ -877,7 +877,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Circle of Willis Details / Willis環結構 (H3)
+### Circle of Willis Details / Willis環結構
 
 ![Page 261](/core_radiology/images/neuro/page-261.png)
 
@@ -891,7 +891,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Neurovascular Anatomy Summary / 神經血管解剖總結 (H3)
+### Neurovascular Anatomy Summary / 神經血管解剖總結
 
 ![Page 262](/core_radiology/images/neuro/page-262.png)
 
@@ -905,7 +905,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Vascular Lesions and Pathology / 血管病竈與病理 (H3)
+### Vascular Lesions and Pathology / 血管病竈與病理
 
 ![Page 263](/core_radiology/images/neuro/page-263.png)
 
@@ -919,7 +919,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Perfusion and Advanced Imaging / 灌注與進階影像 (H3)
+### Perfusion and Advanced Imaging / 灌注與進階影像
 
 ![Page 264](/core_radiology/images/neuro/page-264.png)
 
@@ -933,7 +933,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### Neuroimaging Summary / 神經影像學總結 (H3)
+### Neuroimaging Summary / 神經影像學總結
 
 ![Page 265](/core_radiology/images/neuro/page-265.png)
 
