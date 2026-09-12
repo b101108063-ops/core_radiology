@@ -3,7 +3,7 @@ title: "神經影像學 / Neuroimaging"
 weight: 4
 ---
 
-### 神經影像學基礎 / Neuroimaging Basics
+## Introduction / 神經影像學導論
 
 ### Neuroimaging 神經影像學 (Page 210)
 
@@ -234,7 +234,7 @@ Pachymeninges（厚腦膜）指的是 dura mater，是大腦最外層厚韌的�
 ---
 
 ### Leptomeningeal Enhancement 軟膜-蛛網膜強化 (Page 222)
-## 腦腫瘤 / Brain Tumors
+## Brain Tumors / 腦腫瘤
 
 
 ![Page 222](/core_radiology/images/neuro/page-222.png)
@@ -807,7 +807,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-## Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血
+## Cerebral Trauma / 腦創傷與軸外出血
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
@@ -849,7 +849,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-## Central Sulcus / 中央溝解剖
+## Cortical Anatomy / 皮質解剖學
 
 ![Page 259](/core_radiology/images/neuro/page-259.png)
 
@@ -863,7 +863,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-## ICA and Circle of Willis / 頸內動脈與Willis環
+## Vascular Anatomy / 血管解剖學
 
 ![Page 260](/core_radiology/images/neuro/page-260.png)
 
@@ -1015,7 +1015,7 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 
 ---
 
-### 急性中風：非增強CT成像 (Acute Stroke: Noncontrast CT)
+## Stroke / 中風
 
 ![Page 271](/core_radiology/images/neuro/page-271.png)
 
@@ -1071,7 +1071,7 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ---
 
-## 血管畸形：高流量病變 (Vascular Malformations)
+## Vascular Malformations / 血管畸形
 
 ![Page 275](/core_radiology/images/neuro/page-275.png)
 
@@ -1112,7 +1112,7 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ---
 
-## 蛛網膜下腔出血與顱內動脈瘤 (Subarachnoid Hemorrhage & Aneurysms)
+## Subarachnoid Hemorrhage / 蛛網膜下腔出血
 
 ![Page 278](/core_radiology/images/neuro/page-278.png)
 
@@ -1154,7 +1154,7 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 ---
 
-## 腦靜脈系統解剖 (Cerebral Venous Anatomy)
+## Cerebral Venous Disease / 腦靜脈疾病
 
 ![Page 281](/core_radiology/images/neuro/page-281.png)
 
@@ -1195,7 +1195,7 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 - **預後關鍵**：早期診斷、盡早抗凝，避免進展為靜脈性梗塞及腦實質出血
 
 
-## Intraparenchymal Hemorrhage Imaging / 腦實質內出血影像
+## Intraparenchymal Hemorrhage / 腦實質內出血
 ### 顱內出血 / Intracranial Hemorrhage
 
 
@@ -1343,7 +1343,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 ---
 
 ### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
-### 顱內感染 / Intracranial Infections
+## Neuro Infections / 顱內感染
 
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
@@ -1409,7 +1409,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-## Toxic/Metabolic Disorders / 中毒性與代謝性疾病
+## Toxic & Metabolic Disorders / 毒性與代謝性疾病
 
 ![Page 300](/core_radiology/images/neuro/page-290.png)
 
@@ -1423,7 +1423,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 ---
 
 ### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
-## 頭頸部感染 (Head and Neck Infections)
+## Head & Neck Infections / 頭頸部感染
 
 
 ![Page 301](/core_radiology/images/neuro/page-291.png)
@@ -1489,7 +1489,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-## Larynx / 喉部解剖
+## Larynx / 喉部
 
 ![Page 306](/core_radiology/images/neuro/page-296.png)
 
@@ -1515,7 +1515,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-## Paranasal Sinuses / 鼻竇解剖
+## Paranasal Sinuses / 鼻竇
 
 ![Page 308](/core_radiology/images/neuro/page-298.png)
 
@@ -1567,7 +1567,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-## Salivary Glands / 唾液腺解剖
+## Salivary Glands / 唾液腺
 
 ![Page 312](/core_radiology/images/neuro/page-302.png)
 
@@ -1952,7 +1952,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 咀嚼肌間隙 / 咀嚼肌間隙（Masticator Space）
-## Fascial Spaces / 頭頸部筋膜間隙
+## Fascial Spaces / 筋膜間隙
 
 
 ![Page 341](/core_radiology/images/neuro/page-341.png)
@@ -2006,6 +2006,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization）
 ## Spine Tumors / 脊椎腫瘤
+## Degenerative Spine / 退化性脊椎病變
 
 
 ![Page 345](/core_radiology/images/neuro/page-345.png)
