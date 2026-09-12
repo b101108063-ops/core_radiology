@@ -6,9 +6,103 @@ weight: 8
 
 ---
 
+![Page 601](/core_radiology/images/breast/page-601.png)
 
+![Page 602](/core_radiology/images/breast/page-602.png)
 
+![Page 603](/core_radiology/images/breast/page-603.png)
 
+![Page 604](/core_radiology/images/breast/page-604.png)
+
+![Page 605](/core_radiology/images/breast/page-605.png)
+
+![Page 606](/core_radiology/images/breast/page-606.png)
+
+![Page 607](/core_radiology/images/breast/page-607.png)
+
+![Page 608](/core_radiology/images/breast/page-608.png)
+
+![Page 609](/core_radiology/images/breast/page-609.png)
+
+![Page 610](/core_radiology/images/breast/page-610.png)
+
+![Page 611](/core_radiology/images/breast/page-611.png)
+
+![Page 612](/core_radiology/images/breast/page-612.png)
+
+![Page 613](/core_radiology/images/breast/page-613.png)
+
+![Page 614](/core_radiology/images/breast/page-614.png)
+
+![Page 615](/core_radiology/images/breast/page-615.png)
+
+![Page 616](/core_radiology/images/breast/page-616.png)
+
+![Page 617](/core_radiology/images/breast/page-617.png)
+
+![Page 618](/core_radiology/images/breast/page-618.png)
+
+![Page 619](/core_radiology/images/breast/page-619.png)
+
+![Page 620](/core_radiology/images/breast/page-620.png)
+
+![Page 621](/core_radiology/images/breast/page-621.png)
+
+![Page 622](/core_radiology/images/breast/page-622.png)
+
+![Page 623](/core_radiology/images/breast/page-623.png)
+
+![Page 624](/core_radiology/images/breast/page-624.png)
+
+![Page 625](/core_radiology/images/breast/page-625.png)
+
+![Page 626](/core_radiology/images/breast/page-626.png)
+
+![Page 627](/core_radiology/images/breast/page-627.png)
+
+![Page 628](/core_radiology/images/breast/page-628.png)
+
+![Page 629](/core_radiology/images/breast/page-629.png)
+
+![Page 630](/core_radiology/images/breast/page-630.png)
+
+![Page 631](/core_radiology/images/breast/page-631.png)
+
+![Page 632](/core_radiology/images/breast/page-632.png)
+
+![Page 633](/core_radiology/images/breast/page-633.png)
+
+![Page 634](/core_radiology/images/breast/page-634.png)
+
+![Page 635](/core_radiology/images/breast/page-635.png)
+
+![Page 636](/core_radiology/images/breast/page-636.png)
+
+![Page 637](/core_radiology/images/breast/page-637.png)
+
+![Page 638](/core_radiology/images/breast/page-638.png)
+
+![Page 639](/core_radiology/images/breast/page-639.png)
+
+![Page 640](/core_radiology/images/breast/page-640.png)
+
+![Page 641](/core_radiology/images/breast/page-641.png)
+
+![Page 642](/core_radiology/images/breast/page-642.png)
+
+![Page 643](/core_radiology/images/breast/page-643.png)
+
+![Page 644](/core_radiology/images/breast/page-644.png)
+
+![Page 645](/core_radiology/images/breast/page-645.png)
+
+![Page 646](/core_radiology/images/breast/page-646.png)
+
+![Page 647](/core_radiology/images/breast/page-647.png)
+
+![Page 648](/core_radiology/images/breast/page-648.png)
+
+### 囊腫抽吸 / Cyst Aspiration
 
 ![Page 649](/core_radiology/images/breast/page-649.png)
 
@@ -71,8 +165,6 @@ weight: 8
 > - 囊外破裂比囊內破裂更具臨床重要性，因矽膠渗入組織可引起發炎反應
 > - 超音波雪暴徵象是囊外破裂的特徵性表現
 > - 影像引導下切片可確診並排除惡性
-
-
 
 ![Page 650](/core_radiology/images/breast/page-650.png)
 
@@ -140,8 +232,6 @@ weight: 8
 > - 雙側對稱性改變是特徵
 > - 與乳癌監別要點在於位置（下側為主）及對稱性
 > - 建議與過往乳房攝影比較
-
-
 
 ![Page 651](/core_radiology/images/breast/page-651.png)
 
@@ -252,8 +342,6 @@ weight: 8
 > - 乳癌在男性也可能表現為圓形、邊界清楚的腫塊
 > - 年齡大於 60 歲、出現可觸及腫塊應高度警覺
 
-
-
 ![Page 652](/core_radiology/images/breast/page-652.png)
 
 
@@ -340,8 +428,6 @@ weight: 8
 > - 維持針與胸壁平行是預防併發症的關鍵
 > - 切片術後務必放置組織標記夾以供日後追蹤
 > - 影像與病理結果必須核對，不一致時需再次切片
-
-
 
 ![Page 653](/core_radiology/images/breast/page-653.png)
 
@@ -453,8 +539,6 @@ weight: 8
 > - 術中標本 X 光片（specimen radiograph）可確認目標鈣化存在於樣本中
 > - 阿司匹林及氯吡格雷不需停藥
 > - 不一致結果需再次切片
-
-
 
 ![Page 654](/core_radiology/images/breast/page-654.png)
 
@@ -571,8 +655,6 @@ weight: 8
 > - 切片術後標記夾的放置對後續追蹤及手術至關重要
 > - 真空輔助切片可完全移除微小鈣化，需特別注意術後標記
 
-
-
 ![Page 655](/core_radiology/images/breast/page-655.png)
 
 
@@ -660,8 +742,6 @@ weight: 8
 > - 鋼線末端加厚段提供外科醫師觸覺指引，協助確認切除範圍
 > - 術後標本攝影是手術成功的品質控制標準
 
-
-
 ![Page 656](/core_radiology/images/breast/page-656.png)
 
 
@@ -723,10 +803,6 @@ weight: 8
 
 
 ---
-
-
-
-
 
 ![Page 657](/core_radiology/images/breast/page-657.png)
 
@@ -810,61 +886,7 @@ weight: 8
 
 ---
 
-
-
-
-
 ![Page 658](/core_radiology/images/breast/page-658.png)
-![Page 601](/core_radiology/images/breast/page-601.png)
-![Page 602](/core_radiology/images/breast/page-602.png)
-![Page 603](/core_radiology/images/breast/page-603.png)
-![Page 604](/core_radiology/images/breast/page-604.png)
-![Page 605](/core_radiology/images/breast/page-605.png)
-![Page 606](/core_radiology/images/breast/page-606.png)
-![Page 607](/core_radiology/images/breast/page-607.png)
-![Page 608](/core_radiology/images/breast/page-608.png)
-![Page 609](/core_radiology/images/breast/page-609.png)
-![Page 610](/core_radiology/images/breast/page-610.png)
-![Page 611](/core_radiology/images/breast/page-611.png)
-![Page 612](/core_radiology/images/breast/page-612.png)
-![Page 613](/core_radiology/images/breast/page-613.png)
-![Page 614](/core_radiology/images/breast/page-614.png)
-![Page 615](/core_radiology/images/breast/page-615.png)
-![Page 616](/core_radiology/images/breast/page-616.png)
-![Page 617](/core_radiology/images/breast/page-617.png)
-![Page 618](/core_radiology/images/breast/page-618.png)
-![Page 619](/core_radiology/images/breast/page-619.png)
-![Page 620](/core_radiology/images/breast/page-620.png)
-![Page 621](/core_radiology/images/breast/page-621.png)
-![Page 622](/core_radiology/images/breast/page-622.png)
-![Page 623](/core_radiology/images/breast/page-623.png)
-![Page 624](/core_radiology/images/breast/page-624.png)
-![Page 625](/core_radiology/images/breast/page-625.png)
-![Page 626](/core_radiology/images/breast/page-626.png)
-![Page 627](/core_radiology/images/breast/page-627.png)
-![Page 628](/core_radiology/images/breast/page-628.png)
-![Page 629](/core_radiology/images/breast/page-629.png)
-![Page 630](/core_radiology/images/breast/page-630.png)
-![Page 631](/core_radiology/images/breast/page-631.png)
-![Page 632](/core_radiology/images/breast/page-632.png)
-![Page 633](/core_radiology/images/breast/page-633.png)
-![Page 634](/core_radiology/images/breast/page-634.png)
-![Page 635](/core_radiology/images/breast/page-635.png)
-![Page 636](/core_radiology/images/breast/page-636.png)
-![Page 637](/core_radiology/images/breast/page-637.png)
-![Page 638](/core_radiology/images/breast/page-638.png)
-![Page 639](/core_radiology/images/breast/page-639.png)
-![Page 640](/core_radiology/images/breast/page-640.png)
-![Page 641](/core_radiology/images/breast/page-641.png)
-![Page 642](/core_radiology/images/breast/page-642.png)
-![Page 643](/core_radiology/images/breast/page-643.png)
-![Page 644](/core_radiology/images/breast/page-644.png)
-![Page 645](/core_radiology/images/breast/page-645.png)
-![Page 646](/core_radiology/images/breast/page-646.png)
-![Page 647](/core_radiology/images/breast/page-647.png)
-![Page 648](/core_radiology/images/breast/page-648.png)
-
-### 囊腫抽吸 / Cyst Aspiration
 
 ![Page 659](/core_radiology/images/breast/page-659.png)
 
@@ -893,6 +915,3 @@ weight: 8
 ![Page 665](/core_radiology/images/breast/page-665.png)
 
 ![Page 666](/core_radiology/images/breast/page-666.png)
-
-
-
