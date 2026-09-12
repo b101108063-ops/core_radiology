@@ -4,6 +4,10 @@ weight: 9
 ---
 ![Page 667](/core_radiology/images/cardiovascular/page-667.png)
 
+9 Cardiovascular imaging Contents Aortic anatomy 659 Acute aortic syndrome 661
+
+
+
 
 
 ## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging
@@ -534,7 +538,6 @@ weight: 9
 
 
 
-![Page 667](/core_radiology/images/cardiovascular/page-667.png)
 
 
 
@@ -614,6 +617,10 @@ weight: 9
 
 ![Page 668](/core_radiology/images/cardiovascular/page-668.png)
 
+Aortic anatomy Aortic arch and variants Normal aortic arch branching ascending
+
+
+
 
 
 
@@ -661,6 +668,10 @@ weight: 9
 
 
 ![Page 669](/core_radiology/images/cardiovascular/page-669.png)
+
+Aberrant right subclavian ascending aorta descending aorta
+
+
 
 
 
@@ -734,6 +745,10 @@ weight: 9
 
 ![Page 670](/core_radiology/images/cardiovascular/page-670.png)
 
+Acute aortic syndrome Overview of acute aortic syndrome • Acute aortic syndrome represents a clinical spectrum of three related diseases that are characterized by damage to at least one component of the aortic wall, and
+
+
+
 
 
 
@@ -788,6 +803,10 @@ weight: 9
 
 
 ![Page 671](/core_radiology/images/cardiovascular/page-671.png)
+
+Classification of aortic dissection true lumen false lumen
+
+
 
 
 
@@ -846,6 +865,10 @@ weight: 9
 
 ![Page 672](/core_radiology/images/cardiovascular/page-672.png)
 
+Intramural hematoma (IMH) intima media adventitia
+
+
+
 
 
 
@@ -901,6 +924,10 @@ weight: 9
 
 
 ![Page 673](/core_radiology/images/cardiovascular/page-673.png)
+
+Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) Atherosclerotic plaque penetrates the intima. Atherosclerotic plaque ulcerates, allowing blood to extend into the media. PAU may cause the media to enlarge, leading to an aneurysm formation.
+
+
 
 
 
@@ -1012,6 +1039,10 @@ weight: 9
 
 ![Page 674](/core_radiology/images/cardiovascular/page-674.png)
 
+Traumatic aortic injury Aortic trauma Chest radiograph in a trauma patient shows indistinct widening of the mediastinum. The
+
+
+
 
 
 
@@ -1064,6 +1095,10 @@ weight: 9
 
 
 ![Page 675](/core_radiology/images/cardiovascular/page-675.png)
+
+Aortic aneurysms and miscellaneous disorders Thoracic aortic aneurysm Thoracic aortic aneurysm (TAA) Thoracic aortic aneurysm: Frontal chest radiograph demonstrates ectasia of the right aortic border
+
+
 
 
 
@@ -1122,6 +1157,10 @@ weight: 9
 
 
 ![Page 676](/core_radiology/images/cardiovascular/page-676.png)
+
+Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneurysm: Axial CT of the infrarenal
+
+
 
 
 
@@ -1212,6 +1251,10 @@ weight: 9
 
 ![Page 677](/core_radiology/images/cardiovascular/page-677.png)
 
+Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into an excluded aneurysm sac after endovascular treatment with a stent graft. Type I endoleak: Inadequate seal of graft
+
+
+
 
 
 
@@ -1290,6 +1333,10 @@ weight: 9
 
 
 ![Page 678](/core_radiology/images/cardiovascular/page-678.png)
+
+Type III endoleak: Device failure causing leakage • T ype III endoleak represents device failure causing leakage through graft fabric or segments of a modular graft. Type III endoleak: Blood enters the excluded
+
+
 
 
 
@@ -1398,6 +1445,10 @@ weight: 9
 
 ![Page 679](/core_radiology/images/cardiovascular/page-679.png)
 
+Miscellaneous aortic disorders Aortitis Active aortitis: T1-weighted post-contrast fat saturated
+
+
+
 
 
 
@@ -1467,6 +1518,10 @@ weight: 9
 
 ![Page 680](/core_radiology/images/cardiovascular/page-680.png)
 
+Takayasu arteritis Takayasu arteritis: Sagittal-oblique maximum intensity projection MR angiogram (left image) of the aortic arch shows narrowing of the left common carotid artery (yellow arrow) and left subclavian artery (red arrow).
+
+
+
 
 
 
@@ -1530,6 +1585,10 @@ weight: 9
 
 
 ![Page 681](/core_radiology/images/cardiovascular/page-681.png)
+
+Aortic coarctation Aortic coarctation: Coronal maximum intensity projection MR angiogram (left image) shows extensive collateral vessels throughout the thorax, with prominent internal thoracic arteries (yellow arrows). 3D volume rendered CT of the aorta (top right image) demonstrates the coarctation (blue arrows)
+
+
 
 
 
@@ -1633,6 +1692,10 @@ weight: 9
 
 ![Page 682](/core_radiology/images/cardiovascular/page-682.png)
 
+Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic cardiac disease • Cor onary CT angiography (CCTA) is an excellent test to rule out hemodynamically significant coronary artery disease. Meta-analyses of multiple trials have shown the
+
+
+
 
 
 
@@ -1679,6 +1742,10 @@ weight: 9
 
 
 ![Page 683](/core_radiology/images/cardiovascular/page-683.png)
+
+• Beta-blockade is usually necessary to achieve this target heart rate. Oral metoprolol is administered (between 5 and 25 mg, typically administered in 5 mg doses). Oral beta blocker gives better heart rate control and decreased heart rate variability compared to IV. • Just prior to scanning, sublingual nitroglycerin (0.5–0.8 mg) is administered to dilate
+
+
 
 
 
@@ -1795,7 +1862,6 @@ weight: 9
 ![Page 700](/core_radiology/images/cardiovascular/page-700.png)
 ![Page 701](/core_radiology/images/cardiovascular/page-701.png)
 ![Page 702](/core_radiology/images/cardiovascular/page-702.png)
-![Page 703](/core_radiology/images/cardiovascular/page-703.png)
 
 
 

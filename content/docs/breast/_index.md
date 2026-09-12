@@ -863,23 +863,35 @@ weight: 8
 ![Page 646](/core_radiology/images/breast/page-646.png)
 ![Page 647](/core_radiology/images/breast/page-647.png)
 ![Page 648](/core_radiology/images/breast/page-648.png)
-![Page 649](/core_radiology/images/breast/page-649.png)
-![Page 650](/core_radiology/images/breast/page-650.png)
-![Page 651](/core_radiology/images/breast/page-651.png)
-![Page 652](/core_radiology/images/breast/page-652.png)
-![Page 653](/core_radiology/images/breast/page-653.png)
-![Page 654](/core_radiology/images/breast/page-654.png)
-![Page 655](/core_radiology/images/breast/page-655.png)
-![Page 656](/core_radiology/images/breast/page-656.png)
-![Page 657](/core_radiology/images/breast/page-657.png)
-![Page 658](/core_radiology/images/breast/page-658.png)
+
+### 囊腫抽吸 / Cyst Aspiration
+
 ![Page 659](/core_radiology/images/breast/page-659.png)
+
+### 切片技術 / Biopsy Techniques
+
 ![Page 660](/core_radiology/images/breast/page-660.png)
+
+### 定位標記 / Localization Markers
+
 ![Page 661](/core_radiology/images/breast/page-661.png)
+
+### 手術前影像 / Preoperative Imaging
+
 ![Page 662](/core_radiology/images/breast/page-662.png)
+
+### 併發症處理 / Complication Management
+
 ![Page 663](/core_radiology/images/breast/page-663.png)
+
+### 影像追蹤 / Imaging Follow-up
+
 ![Page 664](/core_radiology/images/breast/page-664.png)
+
+### 介入處置總結 / Intervention Summary
+
 ![Page 665](/core_radiology/images/breast/page-665.png)
+
 ![Page 666](/core_radiology/images/breast/page-666.png)
 
 
