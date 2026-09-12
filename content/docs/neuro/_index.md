@@ -384,28 +384,52 @@ Ring enhancement (intra-axial) Patient 1: Axial post-contrast T1weighted image s
 
 ---
 
-### Pachymeningeal (dural) enhancement (extra-axial) / 硬腦膜增強 (Page 230)
+### Pachymeningeal (dural) enhancement (extra-axial) / 硬膜強化（軸外）(Page 230)
 
 ![Page 230](/core_radiology/images/neuro/page-230.png)
 
-Pachymeningeal (dural) enhancement (extra-axial) Diffuse dural enhancement: Axial (left image) and coronal post-contrast T1-weighted MRI (right image) shows diffuse dural enhancement (arrows). This was a case of intracranial hypotension.
+硬膜強化（Pachymeningeal enhancement）的鑑別診斷包括：
+
+**顱內低壓（Intracranial hypotension）**：CSF 壓力長期降低導致硬膜血管性水腫；臨床表现为體位性頭痛（站立加重）；影像顯示厚線性硬膜強化、腦下垂體擴大、小腦扁桃體「下垂」；可能因腦靜脈牽引導致硬膜下出血。
+
+**術後變化**：術後可見局部硬膜強化。
+
+**腰椎穿刺後**：約少於 5% 案例在常規腰椎穿刺後出現瀰漫性硬膜強化。
+
+**腦膜腫瘤**：如腦膜瘤可產生局部硬膜強化（dural tail），為反應性變化。
+
+**硬膜轉移**：最常見原發腫瘤為乳癌（女性）和攝護腺癌（男性），可產生不規則硬膜強化。
+
+**肉芽腫性疾病（Granulomatous disease）**：包括結節病、結核和真菌感染，通常影響顱底腦膜。
 
 **重點摘要**
+- **顱內低壓**：體位性頭痛、厚線性硬膜強化、腦下垂體擴大、小腦扁桃體下垂
+- **Dural tail**：腦膜瘤特徵，為反應性 dural enhancement
+- **硬膜轉移**：乳癌最常見，其次攝護腺癌、淋巴瘤
 
----
-
-### Leptomeningeal (pia–arachnoid) enhancement (extra-axial) / 軟腦膜增強 (Page 231)
+---### Leptomeningeal (pia–arachnoid) enhancement (extra-axial) / 軟膜-蛛網膜強化（軸外）(Page 231)
 
 ![Page 231](/core_radiology/images/neuro/page-231.png)
 
-Leptomeningeal (pia–arachnoid) enhancement (extra-axial) differential diagnosis of leptomeningeal enhancement
+軟膜-蛛網膜強化（Leptomeningeal enhancement）的鑑別診斷包括：
+
+**腦膜炎（Meningitis）**：無論是細菌、病毒或真菌性，都是首要考量。細線性強化提示細菌或病毒性；較厚且結節狀強化提示真菌性。
+
+**腦膜癌病（Leptomeningeal carcinomatosis）**：腫瘤擴散至蛛網膜下腔。可能由原發性腦腫瘤（如 medulloblastoma、oligodendroglioma、choroid plexus tumor、lymphoma、ependymoma、glioblastoma、germinoma）或轉移性腫瘤（如淋巴瘤、乳癌）引起。
+
+**病毒性腦炎**：可能導致顱神經在蛛網膜下腔內強化。
+
+**慢血流（Slow vascular flow）**：可能類似軟膜-蛛網膜強化，但仔細檢查可見其為血管內分布的 FLAIR 高訊號。Moyamoya 病的慢血流可導致「ivy sign」。
+
+**FLAIR 蛛網膜下腔高訊號的鑑別診斷**：包括腦膜炎與腦膜癌病（同時有強化）、蛛網膜下腔出血（有 GRE/SWI blooming artifact 但無強化）、正常 CSF（患者使用氧氣或 propofol 時可有人為假象）。
 
 **重點摘要**
-- **enhancement**：Contrast-enhanced T1weighted MRI shows enhancement
+- **腦膜炎**：細線性強化提示 bacterial/viral；結節狀強化提示 fungal
+- **腦膜癌病**：可由原發或轉移性腫瘤引起
+- **慢血流**：為血管內分布，FLAIR 高訊號但無真正強化
+- **FLAIR SAH**：有 GRE blooming artifact，無強化
 
----
-
-### Approach to Focal Brain Lesion / 局限性腦病竈評估 (Page 232)
+---### Approach to Focal Brain Lesion / 局限性腦病竈評估 (Page 232)
 
 ![Page 232](/core_radiology/images/neuro/page-232.png)
 
@@ -416,58 +440,115 @@ Approach to evaluation of a focal brain lesion Are there any tumor-related compl
 
 ---
 
-### Intra-axial Mass Imaging Findings / 軸內病竈影像特徵 (Page 233) (Page 233)
+### Intra-axial Mass Imaging Findings / 軸內病灶影像特徵 (Page 233)
 
 ![Page 233](/core_radiology/images/neuro/page-233.png)
 
-Findings of an intra-axial mass include absence of intervening gray matter between the mass and the white matter. Intra-axial mass: Axial T2-weighted image (left image) shows a large, predominantly cystic mass
+軸內病灶影像特徵（Findings of an intra-axial mass）：
+
+軸內病變的特徵是缺乏介於腫塊與白質之間的灰質。MRI T2 權重影像上可見白質水腫，但白質水腫並非軸內病灶特有——例如脑膜瘤（軸外腫瘤）也會引起白質水腫。
+
+軸內強化常見於：原發性腦腫瘤（膠質瘤、淋巴瘤）、轉移瘤、脫髓鞘疾病（如 MS）、感染（腦膿腫、弓漿蟲病）。
+
+軸外強化的常見原因則以腦膜瘤為代表，但也可能見於軸內病變的腦膜強化。
+
+**位置特定診斷**：特定位置可幫助縮小鑑別診斷範圍，例如顳葉、後顱窩、松果體、鞍上區等各有特定腫瘤好發。
+
+**是否強化**：轉移瘤一定強化（新生血管無 BBB）；低級別浸潤性腫瘤可能不強化。
+
+**是否多發**：若為多發，壓倒性地傾向轉移性疾病。
+
+**MRI 訊號特徵**：T2 低訊號腫瘤包括富含黏蛋白的轉移瘤、淋巴瘤、medulloblastoma、germinoma；T1 高訊號腫瘤包括黑色素瘤、脂肪瘤（dermoid/teratoma）、出血性轉移。
 
 **重點摘要**
+- **軸內病變**：缺乏灰質介於病變與白質之間
+- **白質水腫**：非特異性，可見於軸內外病變
+- **轉移瘤**：一定強化，多發為主
+- **T2 低訊號**：淋巴瘤、medulloblastoma、germinoma
 
----
-
-### T2 Hypointense Tumors / T2 低訊號腫瘤 (Page 234)
+---### T2 Hypointense Tumors / T2 低訊號腫瘤 (Page 234)
 
 ![Page 234](/core_radiology/images/neuro/page-234.png)
 
-Tumors hypointense on T2-weighted images include: Metastases containing desiccated mucin, such as some gastrointestinal adenocarcinomas. Note that mucinous metastases to the brain can have variable signal intensities on T2-weighted images,
+T2 低訊號腫瘤（Tumors hypointense on T2-weighted images）：
+
+**富含黏蛋白的轉移瘤**：如部分胃腸道腺癌轉移。注意：含黏液蛋白的轉移瘤在 T2 上的訊號強度可能多變，取決於黏液的水合程度——水化黏液在 T2 呈高訊號。
+
+**高細胞密度腫瘤**：包括淋巴瘤（lymphoma）、medulloblastoma、germinoma 和部分膠質母細胞瘤（glioblastoma）。高細胞密度導致 T2 縮短，呈低訊號。
+
+**T1 高訊號腫瘤**：
+- 黑色素瘤（melanin，黑色素為順磁性物質）
+- 含有脂肪的腫瘤，如 dermoid 或 teratoma
+- 出血性轉移（腎細胞癌、甲狀腺癌、絨毛膜癌、黑色素瘤）
+
+**囊性成分**：某些腫瘤含囊性成分，在所有序列上與 CSF 等訊號。注意：囊性區域通常位於低級別腫瘤的週邊；相對地，高級別腫瘤的腫瘤內壞死也類似 CSF 訊號，但壞死區通常被腫瘤強化區域包圍。
 
 **重點摘要**
+- **T2 低訊號**：富含黏蛋白轉移瘤、高細胞密度腫瘤（淋巴瘤、medulloblastoma、germinoma）
+- **T1 高訊號**：黑色素瘤、脂肪瘤、出血性轉移
+- **ADC 值**：低 ADC 代表高細胞密度
 
----
+---### Grade I Astrocytoma / 第一級星狀細胞瘤 (Page 235)
 
-### Grade I Astrocytoma / 第一級星狀細胞瘤 (Page 235)
+![Page 235](/core_rluorology/images/neuro/page-235.png)
 
-![Page 235](/core_radiology/images/neuro/page-235.png)
+第一級星狀細胞瘤（Grade I Astrocytoma）：
 
-Grade I astrocytoma Juvenile pilocytic astrocytoma (JPA) Juvenile pilocytic astrocytoma: Sagittal postcontrast T1-weighted MRI shows a large posterior
+**幼年型毛髮狀星狀細胞瘤（Juvenile Pilocytic Astrocytoma, JPA）**：WHO 第一級良性腫瘤，好發於兒童後顱窩。典型影像為邊界清楚的囊性病變伴有強化結節，周圍水腫相對輕微。位於後顱窩時可壓迫第四腦室導致水腦。JPA 也可沿視神經路徑發生，約三分之一視神經路徑 JPA 與第一型神經纖維瘤病（NF1）相關；後顱窩 JPA 與 NF1 無關。
+
+**低級別星狀細胞瘤（WHO II 級）**：典型表現為 T2 高訊號腫塊，無強化；影像學表現可能輕微，臨床上常見於年輕患者。
+
+**纖維性星狀細胞瘤（Fibrillary astrocytoma）**為浸潤性腫瘤分為：
+- 低級別星狀細胞瘤（low-grade astrocytoma，WHO II 級）
+- 間變性星狀細胞瘤（anaplastic astrocytoma，WHO III 級）
+- 多形性膠質母細胞瘤（glioblastoma multiforme，GBM，WHO IV 級）
 
 **重點摘要**
-- **patient**：Axial post-contrast T1-weighted MRI
+- **JPA**：囊性＋強化結節，好發後顱窩兒童，與 NF1 相關（視神經路徑）
+- **低級別星狀細胞瘤**：T2 高訊號，無強化，好發年輕患者
+- **纖維性星狀細胞瘤家族**：Grade II-IV，浸潤性腫瘤
 
----
-
-### Anaplastic Astrocytoma / 間變性星狀細胞瘤 (Page 236)
+---### Anaplastic Astrocytoma / 間變性星狀細胞瘤 (Page 236)
 
 ![Page 236](/core_radiology/images/neuro/page-236.png)
 
-Anaplastic astrocytoma Anaplastic astrocytoma: Axial FLAIR image shows a geographic region of T2 prolongation in the left
+間變性星狀細胞瘤（Anaplastic Astrocytoma）：
+
+間變性星狀細胞瘤是 WHO 第三級腫瘤。表現多樣，可從皮質增厚（類似低級別星狀細胞瘤）到不規則強化腫塊（可能與 GBM 無法區分）。其自然病程最終會進展為 GBM。
+
+**膠質母細胞瘤（Glioblastoma multiforme, GBM）**是第四級的高度侵襲性腫瘤，好發於老年人，是最常見的原發性中樞神經系統惡性腫瘤。GBM 表現多樣（「multiforme」），典型為白質腫塊伴有異質性強化，周圍 T2 高訊號區域（多數為浸潤性腫瘤）。
+
+GBM 為浸潤性疾病，通過白質路徑、CSF 與室管膜下擴散。穿過胼胝體到達對側的 GBM 稱為「蝴蝶神經膠質瘤」（butterfly glioma）。經室管膜下擴散（subependymal spread）描述腫瘤沿腦室壁在室管膜細胞下擴散。
+
+經胼胝體病變的鑑別診斷包括：GBM、淋巴瘤與脫髓鞘疾病。
 
 **重點摘要**
+- **Anaplastic astrocytoma**：WHO Grade III，自然病程會進展為 GBM
+- **GBM**：WHO Grade IV，最常見原發性 CNS 惡性腫瘤
+- **Butterfly glioma**：GBM 跨越胼胝體
+- **室管膜下擴散**：GBM 沿腦室壁擴散
 
----
-
-### Gliomatosis cerebri / 神經膠質瘤 (Page 237)
+---### Gliomatosis Cerebri & Oligodendroglioma / 膠質瘤病與寡樹突膠質細胞瘤 (Page 237)
 
 ![Page 237](/core_radiology/images/neuro/page-237.png)
 
-Gliomatosis cerebri Gliomatosis cerebri is a diffuse infiltrative mid-grade (WHO II
+神經膠質瘤（Gliomatosis Cerebri）：
+
+膠質瘤病（Gliomatosis cerebri）是一種瀰漫性浸潤性中級別（WHO II 或 III 級）星狀細胞瘤，可影響多個腦葉。診斷標準為至少兩個腦葉受侵犯，加上皮質外結構（如基底核、胼胝體、腦幹或小腦）受侵犯。典型影像為整個受侵犯腦部區域的瀰漫性 T2 延長，通常有 mass effect 但無強化。預後不良，可能惡化為 GBM。
+
+瀰漫性 T2 延長可見於多種疾病，免疫低下患者需考慮：淋巴瘤、進行性多病竈腦白質病（PML，由 JC 病毒引起的脫髓鞘）與 AIDS 腦病。
+
+**寡樹突膠質細胞瘤（Oligodendroglioma）**是 WHO 第二級腫瘤，好發於年輕至中年患者，以癲癇為主要表現。約 75% 有鈣化（calcification），CT 上可見低密度腫塊內的粗大鈣化。生長緩慢，周圍水腫輕微。
+
+Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成分的混合腫瘤；anaplastic oligodendroglioma（間變性寡樹突膠質細胞瘤）在影像上與 GBM 無法區分，預後差。
 
 **重點摘要**
+- **Gliomatosis cerebri**：瀰漫性侵犯至少兩個腦葉＋皮質外結構，預後差
+- **Oligodendroglioma**：WHO Grade II，好發年輕患者，癲癇為主，75% 有鈣化
+- **Calcification**：寡樹突膠質細胞瘤的典型特徵
+- **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
 
 ---
-
-
 ### Ependymoma / 室管膜瘤 (H3)
 
 
@@ -721,7 +802,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ---
 
-### Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血 (H3)
+## Cerebral Trauma and Extra-axial Hemorrhage / 腦創傷與軸外出血
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
@@ -777,7 +858,7 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### ICA and Circle of Willis / 頸內動脈與Willis環 (H3)
+## ICA and Circle of Willis / 頸內動脈與Willis環
 
 ![Page 260](/core_radiology/images/neuro/page-260.png)
 
@@ -915,7 +996,7 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 
 ---
 
-### 中風影像學評估 (Stroke Imaging Evaluation)
+## 中風影像學評估 (Stroke Imaging Evaluation)
 
 ![Page 270](/core_radiology/images/neuro/page-270.png)
 
