@@ -15,6 +15,8 @@ description: 肺臟、縱膈、氣道、胸膜、X光判讀
 
 
 ---
+![Page 10](/core_radiology/images/thoracic/page-010.png)
+
 
 
 

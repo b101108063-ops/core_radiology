@@ -11,6 +11,8 @@ weight: 2
 
 
 ---
+![Page 166](/core_radiology/images/genitourinary/page-166.png)
+
 
 
 

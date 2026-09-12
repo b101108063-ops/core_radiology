@@ -10,7 +10,7 @@ weight: 7
 
 
 
-![Page 592](/core_radiology/images/breast/page-592.png)
+![Page 592](/core_radiology/images/nuclear/page-592.png)
 
 
 
@@ -76,7 +76,7 @@ weight: 7
 
 
 
-![Page 593](/core_radiology/images/breast/page-593.png)
+![Page 593](/core_radiology/images/nuclear/page-593.png)
 
 
 
@@ -272,7 +272,7 @@ weight: 7
 
 
 
-![Page 594](/core_radiology/images/breast/page-594.png)
+![Page 594](/core_radiology/images/nuclear/page-594.png)
 
 
 
@@ -361,7 +361,7 @@ weight: 7
 
 
 
-![Page 595](/core_radiology/images/breast/page-595.png)
+![Page 595](/core_radiology/images/nuclear/page-595.png)
 
 
 
@@ -522,7 +522,7 @@ weight: 7
 
 
 
-![Page 596](/core_radiology/images/breast/page-596.png)
+![Page 596](/core_radiology/images/nuclear/page-596.png)
 
 
 
@@ -626,7 +626,7 @@ weight: 7
 
 
 
-![Page 597](/core_radiology/images/breast/page-597.png)
+![Page 597](/core_radiology/images/nuclear/page-597.png)
 
 
 
@@ -793,7 +793,7 @@ weight: 7
 
 
 
-![Page 598](/core_radiology/images/breast/page-598.png)
+![Page 598](/core_radiology/images/nuclear/page-598.png)
 
 
 
@@ -876,7 +876,7 @@ weight: 7
 
 
 
-![Page 599](/core_radiology/images/breast/page-599.png)
+![Page 599](/core_radiology/images/nuclear/page-599.png)
 
 
 
@@ -972,7 +972,7 @@ weight: 7
 
 
 
-![Page 600](/core_radiology/images/breast/page-600.png)
+![Page 600](/core_radiology/images/nuclear/page-600.png)
 
 
 
@@ -1016,7 +1016,7 @@ weight: 7
 
 
 
-![Page 601](/core_radiology/images/breast/page-601.png)
+![Page 601](/core_radiology/images/nuclear/page-601.png)
 
 
 

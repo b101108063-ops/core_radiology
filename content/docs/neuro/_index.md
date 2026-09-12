@@ -11,6 +11,8 @@ weight: 4
 
 
 ---
+![Page 210](/core_radiology/images/neuro/page-210.png)
+
 
 
 

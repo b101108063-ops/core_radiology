@@ -2,6 +2,8 @@
 title: "Musculoskeletal Imaging"
 weight: 5
 ---
+![Page 355](/core_radiology/images/msk/page-355.png)
+
 
 ## Chapter 5 目錄 / Table of Contents
 

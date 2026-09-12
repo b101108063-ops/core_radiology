@@ -15,6 +15,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 
 ---
+![Page 750](/core_radiology/images/pediatric/page-750.png)
+
 
 
 

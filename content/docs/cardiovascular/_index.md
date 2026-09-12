@@ -2,6 +2,8 @@
 title: "Cardiovascular Imaging"
 weight: 9
 ---
+![Page 667](/core_radiology/images/cardiovascular/page-667.png)
+
 
 
 ## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging

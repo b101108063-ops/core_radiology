@@ -2,6 +2,8 @@
 title: "Interventional Radiology"
 weight: 10
 ---
+![Page 703](/core_radiology/images/interventional/page-703.png)
+
 
 ## 第10章　介入放射學 / Chapter 10 Interventional Radiology
 

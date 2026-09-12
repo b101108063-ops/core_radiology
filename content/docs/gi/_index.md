@@ -17,6 +17,8 @@ weight: 3
 
 
 ---
+![Page 96](/core_radiology/images/gi/page-096.png)
+
 
 
 

@@ -11,6 +11,8 @@ weight: 12
 
 
 ---
+![Page 847](/core_radiology/images/physics/page-847.png)
+
 
 
 
