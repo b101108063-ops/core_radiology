@@ -1,10875 +1,2382 @@
 ---
 
-
-
 title: "Chapter 6: Ultrasound"
-
-
 
 weight: 6
 
-
-
 ---
+
+## 膽道與膽囊 / Biliary and Gallbladder
+
+### Gallbladder and bile ducts
 
 ![Page 473](/core_radiology/images/ultrasound/page-473.png)
 
-
-
-
-
-
-# Ultrasound - Page 473
-
-
-
-
-
-
-
-
-
-
-## 膽管 / Bile Ducts
-
-
-
-
+Gallbladder and bile ducts
+Gallstones and cholecystitis
+Cholelithiasis
+Multiple small gallstones: Sagittal
+Single gallstone: Sagittal ultrasound of the gallbladder shows
+ultrasound of the gallbladder in a
+an echogenic gallstone (calipers) in the gallbladder neck,
+different patient shows multiple small
+with posterior acoustic shadowing (arrows).
+shadowing gallstones (arrows).
+Cholelithiasis is the presence of a gallbladder stone or stones, without associated
+inflammation.
+The classic clinical presentation of symptomatic cholelithiasis is colicky pain after eating
+a fatty meal, but it is common to see gallstones incidentally in asymptomatic patients.
+Risk factors for developing gallstones include female sex, obesity, pregnancy, middle
+age, and diabetes.
+The ultrasound diagnosis of gallstones is usually straightforward. Stones are echogenic
+with posterior acoustic shadowing and are often mobile. It is often helpful to
+reposition the patient (typically in the left lateral decubitus position) while scanning
+to assess whether the stones layer dependently to differentiate stones from polyps or
 
 ---
 
-
-
-
-
-## 膽管解剖 / Bile Duct Anatomy
-
-
-
-
-
-### 肝門部矢狀面結構 / Porta Hepatis Structures
-
-
-
-
-
-| 結構 | 位置關係 |
-
-
-
-|---|---|
-
-
-
-| **膽總管（CBD）** | 最前方 |
-
-
-
-| **肝固有動脈（PHA）** | 左側 |
-
-
-
-| **門靜脈（PV）** | 後方 |
-
-
-
-
-
-### 影像學標誌 / Imaging Landmark
-
-
-
-
-
-- 肝門部門靜脈是辨認肝總管和肝固有動脈的重要標誌
-
-
-
-- 矢狀面CT和超音波可清楚顯示三者關係
-
-
-
-
-
----
-
-
-
-
-
-## 膽總管結石 / Choledocholithiasis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽總管結石**為膽總管內結石
-
-
-
-- 通常需行**內視鏡逆行膽胰管造影（ERCP）**治療
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **膽總管擴張** | 肝門部橫徑>6 mm |
-
-
-
-| **結石** | 遠端膽總管內高迴聲病灶+後方聲影 |
-
-
-
-| **梗阻跡象** | 肝內膽管擴張 |
-
-
-
-
-
----
-
-
-
-
-
-## Mirizzi 症候群 / Mirizzi Syndrome
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **Mirizzi症候群**發生於膽囊頸結石引起**肝總管外部壓迫**性炎症
-
-
-
-
-
-### 臨床重要性 / Clinical Significance
-
-
-
-
-
-| 要點 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **術前診斷關鍵** | 外科醫師必須知道；膽總管可能誤扎 |
-
-
-
-| **併發症** | 結石可腐蝕入肝總管，導致囊-膽總管瘻 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **結石位置** | 膽囊頸或遠端膽囊管 |
-
-
-
-| **肝總管擴張** | 結石近端膽管擴張 |
-
-
-
-| **解剖關係** | 膽囊管與肝總管並行 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽道積氣 / Pneumobilia
-
-
-
-
-
-### 病因 / Etiology
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **膽道手術/干預後** | 最常見原因 |
-
-
-
-| **膽囊小腸瘻** | 膽道氣體進入途徑 |
-
-
-
-| **氣腫性膽囊炎** | 罕見原因 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **氣體位置** | 肝內**中央**分叉處 |
-
-
-
-| **超音波特徵** | 小強迴聲氣泡，後方 Dirty Shadowing |
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 位置 | 特徵 |
-
-
-
-|---|---|---|
-
-
-
-| **膽道積氣** | **中央** | Dirty Shadowing |
-
-
-
-| **門靜脈氣體** | **周邊** | 暗示腸道缺血；都卜勒尖峰波形 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **膽總管結石** | ERCP治療；膽總管擴張+遠端結石 |
-
-> | **Mirizzi** | 膽囊頸結石壓迫肝總管；術前識別至關重要 |
-
-> | **膽道積氣** | **中央**分布；術後或瘻管；Dirty Shadowing |
-
-> | **門靜脈氣體** | **周邊**分布；腸道缺血急症直到排除 |
-
-
-
-# Ultrasound - Page 471
-
-
-
-
-
-
-
-
-
-
-## 膽管癌與膽管擴張 / Cholangiocarcinoma and Biliary Dilation
-
-
-
-
-
----
-
-
-
-
-
-## 膽管癌 / Cholangiocarcinoma
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽管癌**為膽管的癌症
-
-
-
-- 典型表現：**無痛性黃疸**
-
-
-
-- 美國主要風險因子：**慢性膽道疾病**
-
-
-
-- 東方國家主要風險因子：**肝吸蟲感染**
-
-
-
-
-
-### 解剖分類 / Anatomic Classification
-
-
-
-
-
-| 位置 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **肝門部（最常見）** | 膽管癌最常見位置；又稱**Klatskin瘤** |
-
-
-
-| **肝內** | 少見（10%） |
-
-
-
-| **遠端膽總管** | 肝外膽管癌 |
-
-
-
-
-
-### 超音波評估角色 / Role of Ultrasound
-
-
-
-
-
-| 評估項目 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **淋巴結** | 門靜脈周圍和肝十二指腸韌帶淋巴結 |
-
-
-
-| **血管結構** | 評估門靜脈和肝靜脈侵犯 |
-
-
-
-| **可切除性** | 若遠處淋巴結轉移則通常不可切除 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽管擴張 / Biliary Ductal Dilation
-
-
-
-
-
-### 膽總管直徑評估 / CBD Diameter Assessment
-
-
-
-
-
-##### 年齡相關規則 / Age-Based Rules
-
-
-
-
-
-| 年齡 | 正常上限 |
-
-
-
-|---|---|
-
-
-
-| **<60歲** | ≤6 mm |
-
-
-
-| **>60歲** | 每10年增加1 mm（如80歲：8 mm可接受） |
-
-
-
-
-
-##### 肝管評估 / Hepatic Duct Assessment
-
-
-
-
-
-| 測量 | 異常標準 |
-
-
-
-|---|---|
-
-
-
-| **絕對值** | >2 mm |
-
-
-
-| **相對值** | >相鄰門靜脈直徑的40% |
-
-
-
-
-
-> **臨床要點**
-
-> | 因素 | 對CBD的影響 |
-
-> |---|---|
-
-> | **膽囊切除術後** | CBD平均增寬1.6 mm |
-
-> | **惡性疾病** | 通常比良性疾病引起更明顯的膽管擴張 |
-
-
-
-## 肝臟 / Liver
-
-
-
-
-
----
-
-
-
-
-
-## 肝脂肪變性 / Hepatic Steatosis
-
-
-
-
-
-### 病因 / Etiology
-
-
-
-
-
-- **肝脂肪變性**為肝細胞內脂肪過量堆積
-
-
-
-- 原因：代謝異常（肥胖、糖尿病）、肝毒素（酒精）、長期禁食
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **肝臟迴聲** | 瀰漫性增加 |
-
-
-
-| **與腎皮質比較** | 正常時兩者迴聲相同；脂肪浸潤時肝臟高於腎臟 |
-
-
-
-| **聲衰減** | 增加，導致深層結構顯示不清 |
-
-
-
-
-
-### 局灶性脂肪保留 / Focal Fat Sparing
-
-
-
-
-
-- **局灶性脂肪保留**是脂肪肝中局灶性低迴聲區域
-
-
-
-- 常見位置：**膽囊窩**
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **膽管癌** | 無痛性黃疸；肝門部最常見（Klatskin瘤） |
-
-> | **CBD評估** | <60歲≤6mm；>60歲每10年+1mm |
-
-> | **肝脂肪變性** | 肝臟迴聲>腎皮質；聲衰減增加 |
-
-> | **局灶性脂肪保留** | 膽囊窩常見；非腫瘤性病變 |
-
-> | **惡性擴張** | 比良性更明顯 |
-
-
-
-# Ultrasound - Page 472
-
-
-
-
-
-
-
-
-
-
-## 肝臟疾病 / Liver Diseases
-
-
-
-
-
----
-
-
-
-
-
-## 肝硬化 / Cirrhosis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝硬化**為反覆肝細胞損傷和修復導致功能肝細胞被纖維化組織替代
-
-
-
-
-
-### 形態學分類 / Morphologic Classification
-
-
-
-
-
-| 類型 | 結節大小 | 主要病因 |
-
-
-
-|---|---|---|
-
-
-
-| **微小結節性** | <3 mm | 酒精中毒 |
-
-
-
-| **粗大結節性** | >3 mm | 急性重型病毒肝炎（非均勻影響肝臟） |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **肝實質紋理** | 粗糙、異質性高迴聲 |
-
-
-
-| **肝表面** | 結節狀外廓；早期需高頻線性探頭 |
-
-
-
-| **尾狀葉** | 常保留並肥大（直接引流至IVC，繞過門脈高壓） |
-
-
-
-| **末期** | 肝臟萎縮、結節狀 |
-
-
-
-
-
-### 門脈高壓表現 / Portal Hypertension Signs
-
-
-
-
-
-- 門靜脈擴大
-
-
-
-- 脾臟肥大
-
-
-
-- 靜脈曲張
-
-
-
-- 門體分流
-
-
-
-- 臍靜脈再通
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟感染 / Liver Infections
-
-
-
-
-
-### 病毒性肝炎 / Viral Hepatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **病毒性肝炎**為肝炎病毒感染
-
-
-
-- B型和C型肝炎導致慢性疾病
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **最常見表現** | 肝臟正常 |
-
-
-
-| **門脈週水腫** | 可產生**星空徵（Starry Sky）**——門脈三合會高迴聲 |
-
-
-
-| **膽囊** | 急性肝炎常伴瀰漫性膽囊壁增厚 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝膿腫 / Pyogenic Abscess
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝膿腫**由產膿菌引起
-
-
-
-- 最常見原因：**大腸桿菌**（腸道或膽道感染擴散）
-
-
-
-
-
-##### 超音波演變 / Ultrasound Evolution
-
-
-
-
-
-| 階段 | 表現 |
-
-
-
-|---|---|
-
-
-
-| **初始（蜂窩組織炎期）** | 邊界不清的異質迴聲區 |
-
-
-
-| **成熟膿腫** | 邊界清楚的低迴聲結構，內部迴聲 |
-
-
-
-
-
----
-
-
-
-
-
-## 阿米巴性肝膿腫 / Amebic Abscess
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 由**組織阿米巴**引起
-
-
-
-- **疼痛**為近 universal 症狀（99%）
-
-
-
-- 最常見位置：**右葉近圓頂部**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-- 與**肝膿腫**無法區分
-
-
-
-- 表現為低迴聲結構伴低水平內部迴聲
-
-
-
-
-
-### 治療原則 / Treatment
-
-
-
-
-
-- 抗生素治療通常足夠
-
-
-
-- 很少需要引流
-
-
-
-
-
----
-
-
-
-
-
-## 包蟲囊腫（棘球囊腫）/ Echinococcal Cyst (Hydatid Disease)
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 由**細粒棘球絛蟲**幼蟲引起
-
-
-
-- 流行區：中東、地中海、南美
-
-
-
-
-
-### 併發症 / Complications
-
-
-
-
-
-- 囊液外滲有**過敏反應**風險
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **母囊** | 大囊腫伴多個周邊子囊 |
-
-
-
-| **重定位試驗** | 子囊位置隨患者體位改變而變化（特徵性） |
-
-
-
-| **水蓮徵（Water-lily sign）** | 囊內膜在囊腫內擺動 |
-
-
-
-| **包蟲沙（Hydatid sand）** | 膜與內囊分離後的精細沉積物 |
-
-
-
-
-
-### 治療 / Treatment
-
-
-
-
-
-- 藥物治療：阿苯達唑或甲苯達唑
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **肝硬化** | 粗糙異質紋理；尾狀葉肥大；門脈高壓跡象 |
-
-> | **病毒性肝炎** | 肝臟通常正常；星空徵；膽囊壁增厚 |
-
-> | **肝膿腫** | 低迴聲；從蜂窩組織炎期演變至成熟 |
-
-> | **阿米巴膿腫** | 疼痛（99%）；抗生素通常足夠 |
-
-> | **包蟲囊腫** | 子囊；水蓮徵；包蟲沙；阿苯達唑 |
-
-
-
-# Ultrasound - Page 473
-
-
-
-
-
-![Page 473](/core_radiology/images/ultrasound/page-473.png)
-
-
-
-
-
-## 肝臟感染（續）與良性腫瘤 / Liver Infections (Continued) and Benign Neoplasms
-
-
-
-
-
----
-
-
-
-
-
-## 肝念珠菌病 / Candidiasis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝念珠菌病**為免疫受抑制患者的罕見感染
-
-
-
-- 由**白色念珠菌**或**光滑念珠菌**引起
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 多個微小靶徵病變 |
-
-
-
-| **脾臟** | 脾臟伴類似病變提示**肝脾念珠菌病** |
-
-
-
-
-
----
-
-
-
-
-
-## 肝肺孢子蟲感染 / Hepatic Pneumocystis jiroveci
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 見於重度免疫受抑制者的播散性疾病
-
-
-
-- 典型原因：**吸入性噴他咪治療肺孢子蟲肺炎**（該藥物無全身吸收，不能預防肝臟感染）
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 肝臟（和脾臟）多個點狀強迴聲鈣化 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟良性腫瘤（按發生率排序）/ Benign Hepatic Neoplasms (by frequency)
-
-
-
-
-
----
-
-
-
-
-
-### 海綿狀血管瘤 / Cavernous Hemangioma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝臟海綿狀血管瘤**是最常見的良性肝臟腫瘤
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型形態** | 單一、邊界清楚、均勻**高迴聲**腫塊 |
-
-
-
-| **都卜勒** | 無血流 |
-
-
-
-| **後方增強** | 非特異性，可見（與高血管性相關） |
-
-
-
-| **低迴聲暈** | **不應出現**——出現提示惡性 |
-
-
-
-
-
-##### 處置原則 / Management
-
-
-
-
-
-- 若符合以下條件無需進一步檢查：
-
-
-
-  - 單一、典型表現血管瘤
-
-
-
-  - 肝臟其他方面正常
-
-
-
-  - 肝功能正常
-
-
-
-  - 無已知惡性疾病
-
-
-
-  - 無症狀
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **典型血管瘤** | 高迴聲、無血流 |
-
-
-
-| **不典型/複雜血管瘤** | 需MRI或CT進一步評估 |
-
-
-
-| **高迴聲肝癌** | 可能有低迴聲暈 |
-
-
-
-| **轉移（高迴聲）** | 需排除若患者有已知原發腫瘤 |
-
-
-
-
-
----
-
-
-
-
-
-### 局灶性結節性增生 / Focal Nodular Hyperplasia (FNH)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **FNH**是具有中央非纖維化星狀疤痕的良性增生性肝臟腫塊
-
-
-
-- 疤痕由膽管和小靜脈組成
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **一般表現** | 非特異性；可能幾乎等迴聲而僅顯示肝臟輪廓移位 |
-
-
-
-| **中央疤痕** | 超音波上少見（即使見到也非特異） |
-
-
-
-| **都卜勒** | 动脉血管**輻條車輪（Spoke-wheel）**配置 |
-
-
-
-| **確診** | MRI或Tc-99m硫膠體閃爍造影（FNH對硫膠體攝取增加） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝腺瘤 / Hepatic Adenoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝腺瘤**與以下因素相關：
-
-
-
-  - 口服避孕藥
-
-
-
-  - 合成類固醇
-
-
-
-  - **I型糖原蓄積病（von Gierke病）**——腺瘤通常多發
-
-
-
-
-
-##### 臨床重要性 / Clinical Significance
-
-
-
-
-
-- 因**出血率高**，通常需切除
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲** | 可為高迴聲、等迴聲或低迴聲（相對於正常肝臟） |
-
-
-
-| **特異性** | 無特異性超音波特徵可與其他肝臟腫塊區分 |
-
-
-
-| **確診** | Tc-99m硫膠體閃爍造影：通常**無攝取**（與FNH不同） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝脂肪瘤 / Hepatic Lipoma
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 邊界清楚的高迴聲腫塊 |
-
-
-
-| **鑑別** | 可能與血管瘤或高迴聲肝癌無法區分 |
-
-
-
-| **多發** | 若多發可能與結節性硬化症和腎血管肌肉脂肪瘤相關 |
-
-
-
-
-
----
-
-
-
-
-
-### 膽管囊腺瘤 / Biliary Cystadenoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽管囊腺瘤**是內襯膽管型上皮的良性囊性腫塊
-
-
-
-- 雖然良性，但因有**惡性轉化**可能，大多數需手術切除
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 所有影像模式均顯示多間隔囊性腫塊 |
-
-
-
-| **壁結節** | 若存在應高度懷疑惡性轉化為**囊腺癌** |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **念珠菌病** | 免疫受抑制；微小靶徵；脾臟也有病變 |
-
-> | **肺孢子蟲** | 吸入噴他咪治療史；肝脾鈣化 |
-
-> | **血管瘤** | 最常見；**高迴聲**；無血流；無低迴聲暈 |
-
-> | **FNH** | 可能有輻條車輪都卜勒；MRI/硫膠體確診 |
-
-> | **腺瘤** | 口服避孕藥相關；出血風險高；常切除 |
-
-> | **脂肪瘤** | 高迴聲；與結節性硬化症相關 |
-
-> | **囊腺瘤** | 多間隔囊性；壁結節提示惡性轉化 |
-
-
-
-# Ultrasound - Page 474
-
-
-
-
+### Acute calculous cholecystitis
 
 ![Page 474](/core_radiology/images/ultrasound/page-474.png)
 
-
-
-
-
-## 膽囊與膽管 / Gallbladder and Bile Ducts
-
-
-
-
+Acute calculous cholecystitis
+Acute cholecystitis: Oblique sagittal
+ultrasound through the gallbladder
+demonstrates a thickened, echogenic
+gallbladder wall (arrows). The gallbladder
+contains numerous echogenic gallstones (red
+Acute cholecystitis is inflammation of the gallbladder, usually due to a gallstone impacting
+the cystic duct. Ultrasound is the first-line evaluation of suspected acute cholecystitis.
+Acute cholecystitis clinically presents with right upper quadrant (RUQ) pain and fever.
+There is no 100% specific ultrasound finding for acute cholecystitis. However, gallstones are
+seen >90% of the time and a positive sonographic Murphy’s sign (RUQ pain with pressure
+from the transducer) also has a high positive predictive value. Other findings include:
+Gallbladder wall thickening >3 mm.
+Distended gallbladder >4 cm in diameter.
+Pericholecystic fluid.
+Color Doppler showing hyperemic gallbladder wall.
+Hyperechoic fat in the gallbladder fossa (ultrasound correlate to CT finding of fat stranding).
+Complications of acute cholecystitis are rare but serious.
+Emphysematous cholecystitis is gas in the gallbladder wall and has a high risk of gallbladder perforation.
+Gangrenous cholecystitis is necrosis of the gallbladder wall. Sonographic findings include layering
 
 ---
 
-
-
-
-
-## 膽結石與膽囊炎 / Gallstones and Cholecystitis
-
-
-
-
-
-### 膽結石症 / Cholelithiasis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽結石症**為膽囊內結石，不伴隨發炎
-
-
-
-- 典型症狀：飯後，尤其油膩餐後，發生**陣發性絞痛**
-
-
-
-- 常於無症狀患者中偶然發現
-
-
-
-
-
-##### 風險因子 / Risk Factors
-
-
-
-
-
-| 風險因子 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **女性** | 發病率較高 |
-
-
-
-| **肥胖** | 膽結石主要風險因子 |
-
-
-
-| **懷孕** | 荷爾蒙變化影響膽固醇分泌 |
-
-
-
-| **中年** | 40-60歲發病高峰 |
-
-
-
-| **糖尿病** | 代謝異常 |
-
-
-
-
-
-##### 超音波診斷 / Ultrasound Diagnosis
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲病灶** | 結石為高迴聲 |
-
-
-
-| **後方聲影** | 結石後方可見乾淨聲影 |
-
-
-
-| **移動性** | 結石通常會移動 |
-
-
-
-| **體位變化** | 左側臥位時結石會依重力沈積 |
-
-
-
-
-
-##### 膽囊充滿結石 / Wall-Echo-Shadow (WES) Sign
-
-
-
-
-
-- **WES徵**描述膽囊完全被結石填滿時的超音波表現
-
-
-
-- 兩個平行的強迴聲弧代表膽囊壁和結石前沿
-
-
-
-- 兩弧之間為薄的低迴聲膽汁層
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **膽結石** | 可移動、有聲影 |
-
-
-
-| **膽泥（Sludge）** | 可移動、無聲影 |
-
-
-
-| **膽囊瘜肉** | 不可移動、無聲影，常有柄與壁相連 |
-
-
-
-| **增生性膽囊病變** | 不可移動、多發性瘜肉 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 要點 | 說明 |
-
-> |---|---|
-
-> | **典型症狀** | 飯後油膩餐後絞痛 |
-
-> | **確診** | 超音波為首選；結石為高迴聲+後方聲影 |
-
-> | **WES徵** | 膽囊充滿結石的特徵性表現 |
-
-> | **風險因子** | 女性、肥胖、懷孕、中年、糖尿病 |
-
-
-
-# Ultrasound - Page 475
-
-
-
-
+### Porcelain gallbladder
 
 ![Page 475](/core_radiology/images/ultrasound/page-475.png)
 
-
-
-
-
-## 膽囊炎 / Cholecystitis
-
-
-
-
+Porcelain gallbladder
+A porcelain gallbladder is a calcified gallbladder wall due to either chronic irritation
+from supersaturated bile or repeated bouts of gallbladder obstruction.
+Porcelain gallbladder is associated with an increased risk of gallbladder cancer, but the
+incidence is controversial. In general, prophylactic cholecystectomy is the standard of care.
+On ultrasound, the wall of the gallbladder is echogenic, and there are almost always
+associated gallstones.
+The differential diagnosis of an echogenic gallbladder wall includes a porcelain
+gallbladder, a gallbladder packed full of stones (which will feature the wall-echo-shadow
+sign), or emphysematous cholecystitis (intramural gas will have dirty shadowing).
+Courvoisier gallbladder
+Courvoisier gallbladder: Sagittal ultrasound of the gallbladder (left image, marked with calipers)
+demonstrates a massively distended gallbladder. The common bile duct (right image, indicated by
+calipers) is also distended due to chronic malignant obstruction.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+The Courvoisier gallbladder refers to a markedly dilated gallbladder (originally described
+as being so large as to be directly palpable) from malignant obstruction of the common
+A markedly distended gallbladder implies chronic obstruction of either the cystic duct
+(when seen in isolation) or the common bile duct (when seen in combination with
+dilation of the common bile duct and intrahepatic biliary dilation).
 
 ---
 
-
-
-
-
-## 急性結石性膽囊炎 / Acute Calculous Cholecystitis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **急性膽囊炎**為膽囊發炎，通常由**膽結石嵌頓於膽囊管**引起
-
-
-
-- 超音波是疑似急性膽囊炎的**首選檢查**
-
-
-
-- 臨床表現：**右上腹痛**和**發燒**
-
-
-
-
-
-### 超音波診斷標準 / Ultrasound Diagnostic Criteria
-
-
-
-
-
-| 發現 | 異常閾值 |
-
-
-
-|---|---|
-
-
-
-| **膽結石** | >90%患者可見 |
-
-
-
-| **超音波 Murphy's 徵** | 探頭壓迫時引發右上腹疼痛（高陽性預測值） |
-
-
-
-| **膽囊壁增厚** | >3 mm |
-
-
-
-| **膽囊擴大** | 直徑 >4 cm |
-
-
-
-| **膽囊周圍積液** | 膽囊周圍游離液體 |
-
-
-
-| **都卜勒** | 膽囊壁充血表現 |
-
-
-
-| **膽囊窩脂肪** | 高迴聲脂肪（類似CT脂肪條紋徵） |
-
-
-
-
-
-### 併發症 / Complications
-
-
-
-
-
-| 併發症 | 超音波表現 |
-
-
-
-|---|---|
-
-
-
-| **氣腫性膽囊炎** | 膽囊壁內氣體；穿孔風險高 |
-
-
-
-| **壞疽性膽囊炎** | 膽囊壁壞死；可見分層迴聲物質（出血+脫落膜） |
-
-
-
-| **膽囊穿孔** | 膽囊壁局灶性不連續；肝周腹水含髒迴聲 |
-
-
-
-
-
-### 治療原則 / Treatment Principles
-
-
-
-
-
-| 情況 | 治療方式 |
-
-
-
-|---|---|
-
-
-
-| **可手術患者** | 膽囊切除術（Cholecystectomy） |
-
-
-
-| **不適合手術者** | 經皮膽囊造口術作為暫時處置，再行手術 |
-
-
-
-
-
----
-
-
-
-
-
-## 無結石性膽囊炎 / Acalculous Cholecystitis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **無結石性膽囊炎**為無結石的膽囊炎
-
-
-
-- 主要見於**重症患者**：敗血症、長期胃腸外營養、外傷
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-- 表現類似急性膽囊炎，**但無結石**
-
-
-
-- 許多患者因鎮靜無法評估**超音波 Murphy's 徵**
-
-
-
-
-
-### 治療原則 / Treatment Principles
-
-
-
-
-
-- 治療通常為**經皮膽囊造口術**（介入放射科）
-
-
-
-- 不同於結石性膽囊炎，造口術常為**決定性治療**
-
-
-
-
-
----
-
-
-
-
-
-## 氣腫性膽囊炎 / Emphysematous Cholecystitis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **氣腫性膽囊炎**是急性膽囊炎的快速進展型
-
-
-
-- 特徵為膽囊壁內**氣體形成**
-
-
-
-- 與膽囊缺血和細菌移位相關
-
-
-
-- **需緊急手術治療**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **氣體位置** | 膽囊腔和膽囊壁內均有氣體 |
-
-
-
-| **超音波表現** | 強迴聲線和灶性區域，後方 Dirty Shadowing |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **急性結石性** | 結石嵌頓膽囊管；結石>90%；超音波Murphy's徵 |
-
-> | **無結石性** | 重症患者；造口術常為決定性治療 |
-
-> | **氣腫性** | 壁內氣體；緊急手術 |
-
-> | **壞疽性** | 壁壞死；分層迴聲內容物 |
-
-> | **穿孔** | 壁不連續；肝周積液含髒迴聲 |
-
-
-
-# Ultrasound - Page 476
-
-
-
-
+### Gallbladder polyps
 
 ![Page 476](/core_radiology/images/ultrasound/page-476.png)
 
-
-
-
-
-## 膽囊壁病變 / Gallbladder Wall Lesions
-
-
-
-
+Gallbladder polyps
+Most gallbladder polyps are benign cholesterol polyps that
+are part of the hyperplastic cholecystosis spectrum. Rarely
+(<5%), polyps may be premalignant adenomas.
+Clinically, gallbladder polyps may cause right upper quadrant
+pain or even cholecystitis if the cystic duct is obstructed.
+The following characteristics, known as the six S’s, increase
+the risk for a polyp being malignant:
+Size >10 mm or rapid growth. As a caveat, ultrasound has limited
+sensitivity and specificity in detecting small polyps (<10 mm),
+especially in the presence of gallstones.
+Single: A solitary polyp is more suspicious for malignancy. In
+contrast, benign cholesterol polyps tend to be multiple.
+Sessile (broad-based): Sessile morphology is suspicious. A polyp
+is more likely benign if pedunculated.
+Stones: The presence of stones may induce chronic
+inflammation, which can predispose towards malignancy.
+Primary Sclerosing cholangitis increases risk of malignancy.
+Sixty (age) or greater.
+Gallbladder polyp:
 
 ---
 
-
-
-
-
-## 瓷器樣膽囊 / Porcelain Gallbladder
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **瓷器樣膽囊**為膽囊壁鈣化
-
-
-
-- 由慢性膽汁過飽和刺激或反覆膽囊梗阻引起
-
-
-
-- 與**膽囊癌風險增加**相關（發生率有爭議）
-
-
-
-- 標準照護為**預防性膽囊切除術**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **膽囊壁** | 高迴聲（鈣化） |
-
-
-
-| **結石** | 幾乎都有伴發結石 |
-
-
-
-| **後方聲影** | 可見取決於鈣化程度 |
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 超音波區分點 |
-
-
-
-|---|---|
-
-
-
-| **瓷器樣膽囊** | 壁高迴聲/鈣化 |
-
-
-
-| **充滿結石** | WES徵 |
-
-
-
-| **氣腫性膽囊炎** | 壁內氣體（髒聲影） |
-
-
-
-
-
----
-
-
-
-
-
-## Courvoisier 膽囊 / Courvoisier Gallbladder
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **Courvoisier膽囊**指因**惡性膽總管梗阻**導致的明顯擴大膽囊
-
-
-
-- 最初描述為大到可直接觸及的膽囊
-
-
-
-
-
-### 病因學 / Pathophysiology
-
-
-
-
-
-| 梗阻位置 | 膽囊擴大模式 |
-
-
-
-|---|---|
-
-
-
-| **單獨膽囊管梗阻** | 僅見膽囊擴大 |
-
-
-
-| **膽總管梗阻** | 膽囊擴大 + 膽總管擴張 + 肝內膽管擴張 |
-
-
-
-
-
-### 臨床意義 / Clinical Significance
-
-
-
-
-
-- 膽囊明顯擴大暗示**慢性惡性梗阻**（而非結石）
-
-
-
-- 結石通常導致急性炎症，膽囊收縮而非擴大
-
-
-
-
-
----
-
-
-
-
-
-## 增生性膽囊病變 / Hyperplastic Cholecystoses
-
-
-
-
-
-### 概述 / Overview
-
-
-
-
-
-- **增生性膽囊病變**是一組非腫瘤性增生性疾病
-
-
-
-- 由膽固醇填充的巨噬細胞沉積於膽囊壁引起
-
-
-
-- 包括膽囊壁病變（腺肌瘤病、草莓膽囊）和膽囊腔內瘜肉
-
-
-
-
-
-### 腺肌瘤病 / Adenomyomatosis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **腺肌瘤病**為膽固醇沉積於**Rokitansky-Aschoff竇**
-
-
-
-- 與子宫腺肌症不同（牢记：膽囊 gallbladder 有三個 L，adenomyomatosis 比 adenomyosis 更長）
-
-
-
-
-
-##### 超音波標誌 / Ultrasound Hallmark
-
-
-
-
-
-- **慧尾徵（Comet-tail artifact）**是腺肌瘤病的特徵性表現
-
-
-
-- 由微小水晶體反射引起
-
-
-
-- 表現為局部增厚的迴聲膽囊壁內的現象
-
-
-
-
-
-### 草莓膽囊 / Strawberry Gallbladder (Cholesterolosis)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **草莓膽囊**是病理診斷
-
-
-
-- 特徵為微小壁內膽固醇沉積（似草莓籽）
-
-
-
-- **影像學上不明顯**
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **瓷器樣膽囊** | 壁鈣化；癌變風險；預防性切除 |
-
-> | **Courvoisier** | 明顯擴大膽囊；暗示惡性慢性梗阻 |
-
-> | **腺肌瘤病** | 膽固醇竇沉積；**慧尾徵**特徵性 |
-
-> | **草莓膽囊** | 病理診斷；影像學不明顯 |
-
-> | **鑑別** | 迴聲壁：瓷器樣/結石/氣腫性 |
-
-
-
-# Ultrasound - Page 477
-
-
-
-
+### Gallbladder: Common imaging patterns
 
 ![Page 477](/core_radiology/images/ultrasound/page-477.png)
 
-
-
-
-
-## 膽囊瘜肉與膽囊癌 / Gallbladder Polyps and Cancer
-
-
-
-
+Gallbladder: Common imaging patterns
+Diffuse gallbladder wall thickening >3 mm (common causes in bold)
+Fluid-overload/edematous states:
+Cirrhosis: Hypoalbuminemia leads to diffuse
+gallbladder wall thickening.
+Congestive heart failure.
+Protein-wasting nephropathy.
+Inflammatory/infectious:
+Cholecystitis, usually with associated cholelithiasis.
+Pancreatitis.
+Diverticulitis.
+Infiltrative neoplastic disease:
+Gallbladder carcinoma.
+Metastases to gallbladder (rare).
+Post-prandial state.
+Sagittal ultrasound of the gallbladder
+shows diffuse wall thickening to 8
+mm (calipers). In this case, the wall
+thickening was due to cirrhosis and
+resultant hypoproteinemia.
 
 ---
 
-
-
-
-
-## 膽囊瘜肉 / Gallbladder Polyps
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 大多數膽囊瘜肉為**良性膽固醇瘜肉**（增生性膽囊病變光譜）
-
-
-
-- 少數（<5%）可能為**癌前病變的腺瘤**
-
-
-
-
-
-### 症狀 / Symptoms
-
-
-
-
-
-- 可能引起**右上腹痛**
-
-
-
-- 若膽囊管梗阻，甚至可引起**膽囊炎**
-
-
-
-
-
-### 惡性風險評估：六個S / Six S's of Malignant Risk
-
-
-
-
-
-| 特徵 | 高風險標準 |
-
-
-
-|---|---|
-
-
-
-| **Size（大小）** | >10 mm 或快速生長 |
-
-
-
-| **Single（單發）** | 單發瘜肉更可疑；良性多為多發 |
-
-
-
-| **Sessile（無蒂）** | 寬基底形態可疑；有蒂者更可能良性 |
-
-
-
-| **Stones（結石）** | 結石存在可誘發慢性炎症，增加惡性風險 |
-
-
-
-| **Sclerosing Cholangitis（原發性硬化性膽管炎）** | 增加惡性風險 |
-
-
-
-| **Sixty（60歲）** | 年齡≥60歲 |
-
-
-
-
-
-### 治療原則 / Treatment Principles
-
-
-
-
-
-| 情況 | 建議 |
-
-
-
-|---|---|
-
-
-
-| 多項高風險特徵 + 瘜肉>6 mm | 考慮膽囊切除術 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **移動性** | 不可移動 |
-
-
-
-| **聲影** | 無聲影 |
-
-
-
-| **血流** | 柄內可能有血流 |
-
-
-
-| **與壁的關係** | 附著於膽囊壁向腔內突出 |
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-- 主要需與**附著性膽泥**區分
-
-
-
-- 膽泥**無血流**信號
-
-
-
-
-
----
-
-
-
-
-
-## 原發性膽囊癌 / Primary Gallbladder Carcinoma
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽囊癌**是罕見的惡性腫瘤，**預後差**
-
-
-
-- 典型表現：右上腹痛、體重減輕、黃疸
-
-
-
-
-
-### 風險因子 / Risk Factors
-
-
-
-
-
-| 風險因子 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **膽結石和慢性膽囊炎** | 主要風險因子 |
-
-
-
-| **瓷器樣膽囊** | 發生率有爭議 |
-
-
-
-| **原發性硬化性膽管炎** | 顯著增加風險 |
-
-
-
-| **發炎性腸道疾病** | 潰痬性結腸炎較克隆氏症更常見 |
-
-
-
-| **腺瘤性瘜肉** | >10 mm；或多項高風險因子+>6 mm |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 膽囊內有血管增多的息肉樣腫塊 |
-
-
-
-| **肝侵犯** | 常見直接侵犯肝臟 |
-
-
-
-| **淋巴結** | 區域淋巴結轉移早發 |
-
-
-
-| **膽管** | 可能出現膽管梗阻 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽囊轉移 / Gallbladder Metastases
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 膽囊轉移**罕見**
-
-
-
-
-
-### 常見原發腫瘤 / Common Primary Tumors
-
-
-
-
-
-| 原發腫瘤 | 轉移途徑 |
-
-
-
-|---|---|
-
-
-
-| **肝細胞癌** | 直接延伸至膽囊（經膽管） |
-
-
-
-| **黑色素瘤** | 血行轉移至膽囊黏膜 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **膽固醇瘜肉** | 良性；多為多發；無血流 |
-
-> | **六個S** | Size>10mm、Single、Sessile、Stones、SC、60歲 |
-
-> | **膽囊癌** | 預後差；息肉樣腫塊+血流丰富；直接肝侵犯 |
-
-> | **高風險瘜肉>6mm** | 伴多項高風險特徵時考慮切除 |
-
-> | **HCC** | 可直接延伸至膽囊 |
-
-> | **黑色素瘤** | 可血行轉移至膽囊 |
-
-
-
-# Ultrasound - Page 478
-
-
-
-
+### Bile ducts
 
 ![Page 478](/core_radiology/images/ultrasound/page-478.png)
 
-
-
-
-
-## 膽囊常見影像模式 / Common Gallbladder Imaging Patterns
-
-
-
-
+Bile duct anatomy
+Sagittal view of the normal porta hepatis on CT and ultrasound:
+sagittal CT
+common bile duct
+common bile duct
+portal vein
+portal vein
+Choledocholithiasis
+Choledocholithiasis: Sagittal ultrasound (left image) of the porta hepatis (in the same orientation as
+the reference anatomic image above) demonstrates common bile duct dilation (calipers) to 1.1 cm.
+Transverse scan (right image) through the region of the head of the pancreas shows an echogenic
+gallstone within the distal common bile duct (arrow).
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Choledocholithiasis is a stone in the common bile duct, generally treated with ERCP.
+Mirizzi syndrome
 
 ---
 
-
-
-
-
-## 瀰漫性膽囊壁增厚 >3 mm / Diffuse Gallbladder Wall Thickening
-
-
-
-
-
-### 病因分類 / Etiologic Classification
-
-
-
-
-
-##### 液體過負荷/水腫狀態 / Fluid-Overload States
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **肝硬化** | 低蛋白血症導致瀰漫性膽囊壁增厚 |
-
-
-
-| **充血性心臟衰竭** | 全身性水腫影響膽囊壁 |
-
-
-
-| **蛋白流失性腎病** | 低蛋白血症 |
-
-
-
-
-
-##### 發炎/感染 / Inflammatory/Infectious
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **膽囊炎** | 通常伴隨膽結石 |
-
-
-
-| **肝炎** | 肝功能異常影響膽囊壁 |
-
-
-
-| **胰臟炎** | 鄰近炎症影響 |
-
-
-
-| **憩室炎** | 遠處炎症反應 |
-
-
-
-
-
-##### 浸潤性腫瘤疾病 / Neoplastic Infiltration
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **膽囊癌** | 壁內腫瘤浸潤 |
-
-
-
-| **膽囊轉移** | 罕見 |
-
-
-
-
-
-##### 其他 / Other
-
-
-
-
-
-- 飯後狀態（生理性）
-
-
-
-
-
----
-
-
-
-
-
-## 局灶性膽囊壁增厚 / Focal Gallbladder Wall Thickening
-
-
-
-
-
-### 病因分類 / Etiologic Classification
-
-
-
-
-
-##### 增生性膽囊病變 / Hyperplastic Cholecystoses
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **腺肌瘤病** | 局部增厚壁；慧尾徵 |
-
-
-
-| **膽固醇瘜肉** | 壁內息肉樣病變 |
-
-
-
-
-
-##### 血管性 / Vascular
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **膽囊靜脈曲張** | 門脈高壓相關；都卜勒確診 |
-
-
-
-
-
-##### 腫瘤性疾病 / Neoplastic
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **腺瘤性瘜肉** | 單一、無蒂 |
-
-
-
-| **膽囊癌** | 浸潤性增厚 |
-
-
-
-| **鄰近肝腫瘤** | 外部壓迫/侵犯 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽囊腔內無聲影「腫塊」/ Non-Shadowing Mass in Gallbladder Lumen
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **腫塊性膽泥（Tumefactive sludge）** | 可移動 |
-
-
-
-| **血液/膿液** | 可移動 |
-
-
-
-| **膽囊瘜肉** | 不可移動 |
-
-
-
-| **膽囊癌** | 不可移動 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽囊壁高迴聲 / Echogenic Gallbladder Wall
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **瓷器樣膽囊** | 壁鈣化 |
-
-
-
-| **充滿結石的膽囊** | WES徵 |
-
-
-
-| **氣腫性膽囊炎** | 壁內氣體（髒聲影） |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 模式 | 常見病因 |
-
-> |---|---|
-
-> | **瀰漫性壁增厚** | 肝硬化（低蛋白）、心衰竭、膽囊炎 |
-
-> | **局灶性壁增厚** | 腺肌瘤病、靜脈曲張、腫瘤 |
-
-> | **無聲影腫塊** | 膽泥（移動）vs 瘜肉/癌（不移動） |
-
-> | **高迴聲壁** | 鈣化（瓷器樣）/結石（WES）/氣體（氣腫性） |
-
-
-
-# Ultrasound - Page 479
-
-
-
-
+### Cholangiocarcinoma
 
 ![Page 479](/core_radiology/images/ultrasound/page-479.png)
 
-
-
-
-
-## 膽管 / Bile Ducts
-
-
-
-
-
----
-
-
-
-
-
-## 膽管解剖 / Bile Duct Anatomy
-
-
-
-
-
-### 超音波與CT矢狀面影像 / Sagittal View of Porta Hepatis
-
-
-
-
-
-| 結構 | 位置關係 |
-
-
-
-|---|---|
-
-
-
-| **膽總管（CBD）** | 最前方 |
-
-
-
-| **肝固有動脈** | 左側 |
-
-
-
-| **門靜脈** | 後方 |
-
-
-
-
-
-### 肝門部解剖標誌 / Porta Hepatis Imaging Landmark
-
-
-
-
-
-- 矢狀面CT和超音波可清楚顯示**膽總管、肝固有動脈、門靜脈**三者關係
-
-
-
-- 門靜脈是辨認肝總管和肝固有動脈的重要參考結構
-
-
-
-
+Cholangiocarcinoma
+Cholangiocarcinoma is cancer of the bile ducts. It classically presents with painless
+jaundice. Most cases of cholangiocarcinoma are sporadic, although key risk factors
+include chronic biliary disease (in the US) and liver fluke infection (in the Far East).
+The hilum is the most common location of cholangiocarcinoma. A hilar
+cholangiocarcinoma is known as a Klatskin tumor. Intrahepatic cholangiocarcinoma
+occurs uncommonly (10%).
+Ultrasound plays a role in the initial evaluation of adjacent adenopathy and vascular
+structures. Local nodes include porta hepatis and hepatoduodenal ligament nodes. If
+more distal nodal disease is present, then the tumor is generally considered unresectable.
+Biliary ductal dilation
+A rule of thumb for assessing the common bile duct diameter (CBD) is to assume
+that the CBD ought to be 6 mm or less before age 60, but may still be normal if 1 mm
+larger per decade after that age. For example, an 8 mm duct in an 80-year-old patient
+may be considered normal.
+Some sources, however, suggest very small differences with age (mean duct diameter of 3.6 mm
+for 60-year-old patients and 4.0 mm for 85-year-old patients).
+For the hepatic ducts, >2 mm in size or >40% of the adjacent portal vein diameter is abnormal.
+The common bile duct is approximately 1.6 mm wider (on average) in patients who have
+undergone cholecystectomy, compared to patients who have not had a cholecystectomy.
 
 ---
 
-
-
-
-
-## 膽總管結石 / Choledocholithiasis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽總管結石**為膽總管內結石
-
-
-
-- 通常需行**內視鏡逆行膽胰管造影（ERCP）**治療
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **膽總管擴張** | 肝門部橫徑 >6 mm |
-
-
-
-| **結石** | 遠端膽總管內高迴聲病灶 + 後方聲影 |
-
-
-
-| **梗阻跡象** | 肝內膽管擴張 |
-
-
-
-
-
----
-
-
-
-
-
-## Mirizzi 症候群 / Mirizzi Syndrome
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **Mirizzi症候群**發生於膽囊頸或遠端膽囊管結石
-
-
-
-- 結石引起**肝總管外部壓迫**性炎症
-
-
-
-- 膽囊管與肝總管通常**並行**走行
-
-
-
-
-
-### 臨床重要性 / Clinical Significance
-
-
-
-
-
-| 要點 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **術前診斷關鍵** | 外科醫師必須知道；肝總管可能誤扎為膽囊管 |
-
-
-
-| **併發症** | 結石可腐蝕入肝總管，導致囊-膽總管瘻及膽道梗阻 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **結石位置** | 膽囊頸或遠端膽囊管 |
-
-
-
-| **肝總管擴張** | 結石近端膽管擴張 |
-
-
-
-
-
----
-
-
-
-
-
-## 膽道積氣 / Pneumobilia
-
-
-
-
-
-### 病因 / Etiology
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **膽道手術/干預後** | 最常見原因 |
-
-
-
-| **膽囊小腸瘻** | 膽道氣體進入途徑 |
-
-
-
-| **氣腫性膽囊炎** | 罕見原因 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **氣體位置** | 肝內**中央**分叉處 |
-
-
-
-| **超音波特徵** | 小強迴聲氣泡，後方 Dirty Shadowing |
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 位置 | 特徵 |
-
-
-
-|---|---|---|
-
-
-
-| **膽道積氣** | **中央** | Dirty Shadowing；術後或瘻管 |
-
-
-
-| **門靜脈氣體** | **周邊** | 暗示腸道缺血急症；都卜勒尖峰波形 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **膽總管結石** | ERCP治療；膽總管擴張+遠端結石 |
-
-> | **Mirizzi** | 膽囊頸結石壓迫肝總管；術前識別至關重要 |
-
-> | **膽道積氣** | **中央**分布；術後或瘻管；Dirty Shadowing |
-
-> | **門靜脈氣體** | **周邊**分布；腸道缺血急症直到排除 |
-
-
-
-# Ultrasound - Page 480
-
-
-
-
+### Cirrhosis
 
 ![Page 480](/core_radiology/images/ultrasound/page-480.png)
 
-
-
-
-
-## 膽管 / Bile Ducts（續）
-
-
-
-
+Cirrhosis is the replacement of functioning hepatocytes with dysfunctional fibrotic
+tissue, due to long-standing repeated cycles of hepatocyte injury and repair.
+Micronodular cirrhosis causes cirrhotic nodules less than 3 mm in size and is most
+commonly associated with alcoholism.
+Macronodular cirrhosis features larger nodules (>3 mm) separated by wide scars and
+fibrous septae. Macronodular cirrhosis is caused by fulminant viral hepatitis which
+does not uniformly affect the liver.
+The typical ultrasound appearance of cirrhosis is a coarse, heterogeneously increased
+liver echotexture with a nodular external contour. In early cirrhosis, the superficial
+nodularity is best appreciated with a high-frequency linear probe. The caudate lobe
+is often spared and hypertrophies in response to increased demand (the caudate has
+direct venous drainage into the IVC and therefore can bypass the hypertensive portal
+system). End-stage cirrhosis is characterized by a shrunken, nodular liver.
+Signs of portal hypertension are often present, including an enlarged portal vein,
+splenomegaly, varices, portosystemic shunts, and a patent umbilical vein. Imaging of
+portal hypertension is discussed in detail in the liver Doppler section.
+Liver infections
+Viral hepatitis
+Viral hepatitis: Sagittal image of the liver (left image) demonstrates increased echogenicity of the
+portal triads appearing as numerous echogenic dots (arrows) that produce a starry sky appearance.
 
 ---
-
-
-
-
-
-## 膽管癌 / Cholangiocarcinoma
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽管癌**為膽管恶性肿瘤
-
-
-
-- 典型表現：**無痛性黃疸**
-
-
-
-- 主要風險因子：
-
-
-
-  - 美國：**慢性膽管疾病**
-
-
-
-  - 遠東：**肝吸蟲感染**
-
-
-
-
-
-### 解剖分布 / Anatomic Distribution
-
-
-
-
-
-| 位置 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **肝門部** | 最常見位置（又稱**Klatskin腫瘤**） |
-
-
-
-| **肝內** | 少見（約10%） |
-
-
-
-
-
-### 超音波角色 / Ultrasound Role
-
-
-
-
-
-- 初步評估**鄰近淋巴結**和**血管結構**
-
-
-
-- 淋巴結轉移位置：肝門部、肝十二指腸韌帶
-
-
-
-- 若發現遠處淋巴結病變，腫瘤通常**無法切除**
-
-
-
-
-
----
-
-
-
-
-
-## 膽管擴張 / Biliary Ductal Dilation
-
-
-
-
-
-### 膽總管評估原則 / CBD Assessment Rules
-
-
-
-
-
-| 年齡 | 正常膽總管直徑 |
-
-
-
-|---|---|
-
-
-
-| **<60歲** | ≤6 mm |
-
-
-
-| **>60歲** | 每10年可增加1 mm（如80歲8 mm可能正常） |
-
-
-
-
-
-### 肝內膽管 / Hepatic Ducts
-
-
-
-
-
-| 測量 | 異常標準 |
-
-
-
-|---|---|
-
-
-
-| **絕對值** | >2 mm |
-
-
-
-| **相對值** | >鄰近門靜脈直徑的40% |
-
-
-
-
-
-> **臨床要點**
-
-> | 要點 | 說明 |
-
-> |---|---|
-
-> | **膽囊切除術後** | 膽總管平均寬1.6 mm |
-
-> | **惡性腫瘤** | 通常引起更明顯的膽管擴張 |
-
-> | **良性疾病** | 擴張程度較輕 |
-
-
 
 ## 肝臟 / Liver
 
-
-
-
-
----
-
-
-
-
-
-## 肝臟彌漫性代謝性疾病 / Diffuse Metabolic Parenchymal Liver Disease
-
-
-
-
-
-### 肝脂肪浸潤 / Hepatic Steatosis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝脂肪浸潤**為肝細胞內脂肪過量堆積
-
-
-
-- 病因：
-
-
-
-  - 代謝異常（**肥胖**、糖尿病）
-
-
-
-  - 肝毒素（**酒精**）
-
-
-
-  - 長期禁食
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲增加** | 肝臟迴聲高於腎皮質 |
-
-
-
-| **正常標準** | 肝臟與腎臟應為等迴聲 |
-
-
-
-| **衰減增加** | 脂肪浸潤導致深層結構顯示不清 |
-
-
-
-
-
-##### 局灶性脂肪保存 / Focal Fat Sparing
-
-
-
-
-
-- 脂肪肝中出現**地理狀低迴聲區**
-
-
-
-- 常見位置：**膽囊窩**
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **膽總管結石** | ERCP治療；CBD擴張+結石 |
-
-> | **膽管癌** | 無痛性黃疸；肝門部最常見 |
-
-> | **脂肪浸潤** | 肝臟比腎臟更迴聲；深層衰減 |
-
-> | **局灶脂肪保存** | 膽囊窩常見 |
-
-
-
-# Ultrasound - Page 481
-
-
-
-
+### Amebic abscess
 
 ![Page 481](/core_radiology/images/ultrasound/page-481.png)
 
-
-
-
-
-## 肝臟（續）
-
-
-
-
+Amebic abscess
+Amebic abscess is caused by Entamoeba histolytica. A near-universal presenting
+symptom is pain, seen in 99% of patients. The most common location is near the
+dome of the right lobe.
+On ultrasound, an amebic abscess is indistinguishable from a pyogenic abscess and
+appears as a hypoechoic structure with low-level internal echoes.
+Antimicrobial therapy is usually sufficient treatment, and drainage is rarely necessary.
+Echinococcal cyst (hydatid disease)
+Echinococcal cyst is caused by larvae of Echinococcus granulosus, most commonly
+found in endemic areas in the Middle East, Mediterranean, and South America.
+There is a risk of anaphylaxis with peritoneal spillage of cyst fluid, although these are often
+biopsied and drained uneventfully. Medical treatment is albendazole or mebendazole.
+Classic ultrasound appearance is a large liver cyst with numerous peripheral daughter cysts.
+A highly suggestive finding is the change in position of daughter cysts as the patient is repositioned.
+The water-lily sign is an undulating membrane within the hydatid cyst.
+Hydatid sand is a fine sediment caused by separation of the membranes from the endocyst.
+Candidiasis
+Hepatic candidiasis is a rare infection in the immunocompromised due to Candida
+albicans or Candida glabrata.
+On imaging, there are multiple tiny targetoid lesions. The presence of concurrent
 
 ---
 
-
-
-
-
-## 肝硬化 / Cirrhosis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝硬化**為長期肝細胞損傷與修復循環導致功能性肝細胞被**纖維化組織**取代
-
-
-
-
-
-### 分型 / Classification
-
-
-
-
-
-| 類型 | 結節大小 | 常見病因 |
-
-
-
-|---|---|---|
-
-
-
-| **微小結節型** | <3 mm | 酒精中毒 |
-
-
-
-| **大結節型** | >3 mm | 爆發性病毒性肝炎 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **實質紋理** | 粗糙、彌漫性高迴聲 |
-
-
-
-| **肝臟輪廓** | 結節狀外部輪廓 |
-
-
-
-| **早期評估** | 高頻線性探頭最佳 |
-
-
-
-| **尾狀葉** | 常不受影響並代償性肥大（直接引流至IVC） |
-
-
-
-| **末期表現** | 肝臟縮小、結節狀 |
-
-
-
-
-
-### 門脈高壓表現 / Portal Hypertension Signs
-
-
-
-
-
-- 門靜脈擴張
-
-
-
-- 脾腫大
-
-
-
-- 靜脈曲張
-
-
-
-- 門體分流
-
-
-
-- 臍靜脈重新開放
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟感染 / Liver Infections
-
-
-
-
-
----
-
-
-
-
-
-### 病毒性肝炎 / Viral Hepatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **病毒性肝炎**為肝細胞感染
-
-
-
-- **B型肝炎和C型肝炎**引起慢性病
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **最常見表現** | 肝臟正常 |
-
-
-
-| **星空徵（Starry Sky）** | 門脈區迴聲增加形成無數強迴聲點 |
-
-
-
-| **急性肝炎** | 瀰漫性膽囊壁增厚常見 |
-
-
-
-
-
----
-
-
-
-
-
-### 細菌性肝膿腫 / Pyogenic Abscess
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **細菌性膿腫**由膿性菌引起
-
-
-
-- 通常由腸道或膽道感染擴散（最常見**大腸桿菌**）
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 階段 | 表現 |
-
-
-
-|---|---|
-
-
-
-| **初始（Phlegmon期）** | 邊界不清的迴聲改變區 |
-
-
-
-| **成熟膿腫** | 邊界清楚的低迴聲結構，內部有迴聲 |
-
-
-
-
-
----
-
-
-
-
-
-## 阿米巴性膿腫 / Amebic Abscess
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **阿米巴性膿腫**由**痢疾阿米巴原蟲**引起
-
-
-
-- **疼痛**是最常見症狀（99%患者）
-
-
-
-- 最常見位置：**右葉近頂部**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-- 與**細菌性膿腫**無法區分
-
-
-
-- 表現為低迴聲結構，內部低水準迴聲
-
-
-
-
-
-### 治療原則 / Treatment
-
-
-
-
-
-- **抗生素治療**通常足夠
-
-
-
-- 引流很少必要
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **肝硬化** | 粗糙高迴聲；結節輪廓；尾狀葉代償肥大 |
-
-> | **微小結節型** | 酒精相關；<3mm結節 |
-
-> | **大結節型** | 病毒性肝炎；>3mm結節 |
-
-> | **病毒性肝炎** | 星空徵；膽囊壁增厚 |
-
-> | **細菌性膿腫** | 腸道/膽道來源；成熟後為低迴聲 |
-
-> | **阿米巴性膿腫** | 右葉近頂部；疼痛（99%） |
-
-
-
-# Ultrasound - Page 482
-
-
-
-
+### Hepatic cavernous hemangioma is the most common benign hepat
 
 ![Page 482](/core_radiology/images/ultrasound/page-482.png)
 
-
-
-
-
-## 肝臟感染（續）
-
-
-
-
+Hepatic cavernous hemangioma is the most common benign hepatic neoplasm.
+The classic ultrasound appearance of hemangioma is a solitary, circumscribed,
+homogeneously echogenic mass with no flow on color Doppler. Posterior acoustic
+enhancement is nonspecific but may be present. When seen, posterior acoustic
+enhancement is thought to correlate with hypervascularity. A hypoechoic halo should
+never be seen – this finding suggests malignancy.
+Hepatic hemangioma can rarely have an atypical hypoechoic appearance when seen
+in a fatty liver.
+If a solitary, classic-appearing hemangioma is seen and the patient has an otherwise
+normal-appearing liver, normal LFTs, no known malignancy, and is asymptomatic, then
+no further workup is required.
+Any heterogeneity or atypical ultrasound findings should prompt consideration of
+an alternative diagnosis. The differential of a hyperechoic hepatic mass includes
+hyperechoic hepatocellular carcinoma or metastatic disease (even in the absence of
+a halo). In a patient with cirrhosis or any known primary malignancy, further workup
+(MRI or CT) is usually warranted if the mass is new, even if classic appearing.
+Focal nodular hyperplasia (FNH)
+Focal nodular hyperplasia (FNH) is a benign hyperplastic hepatic mass with a central
+non-fibrotic stellate scar consisting of biliary ductules and venules.
+• Ultrasound findings are nonspecific. The central scar is rarely seen on ultrasound,
 
 ---
 
-
-
-
-
-## 包蟲囊腫（棘球囊腫病）/ Echinococcal Cyst (Hydatid Disease)
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **包蟲囊腫**由**細粒棘球絛蟲**幼蟲引起
-
-
-
-- 流行地區：**中東、地中海、南美**
-
-
-
-
-
-### 臨床重要性 / Clinical Significance
-
-
-
-
-
-- 若囊液外滲至腹腔，**有過敏反應風險**
-
-
-
-- 醫療治療：**Albendazole**或**Mebendazole**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 大囊腫含多個周邊**子囊** |
-
-
-
-| **移動性** | 改變體位時子囊位置改變 |
-
-
-
-| **水蓮徵（Water-lily Sign）** | 囊內膜擺動 |
-
-
-
-| **包蟲沙（Hydatid Sand）** | 內膜脫離產生的細微沉澱物 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝念珠菌病 / Candidiasis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝念珠菌病**為免疫受抑制患者的罕見感染
-
-
-
-- 由**白色念珠菌**或**光滑念珠菌**引起
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 多個微小靶徵病變 |
-
-
-
-| **脾臟** | 脾臟伴類似病變提示**肝脾念珠菌病** |
-
-
-
-
-
----
-
-
-
-
-
-## 肝肺孢子蟲感染 / Hepatic Pneumocystis jiroveci
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- 見於重度免疫受抑制者的播散性疾病
-
-
-
-- 典型原因：**吸入性噴他咪治療肺孢子蟲肺炎**（該藥物無全身吸收，不能預防肝臟感染）
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 發現 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 肝臟（和脾臟）多個點狀強迴聲鈣化 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟良性腫瘤（按發生率排序）/ Benign Hepatic Neoplasms (by frequency)
-
-
-
-
-
----
-
-
-
-
-
-### 海綿狀血管瘤 / Cavernous Hemangioma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝臟海綿狀血管瘤**是最常見的良性肝臟腫瘤
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型形態** | 單一、邊界清楚、均勻**高迴聲**腫塊 |
-
-
-
-| **都卜勒** | 無血流 |
-
-
-
-| **後方增強** | 非特異性，可見（與高血管性相關） |
-
-
-
-| **低迴聲暈** | **不應出現**——出現提示惡性 |
-
-
-
-
-
-##### 處置原則 / Management
-
-
-
-
-
-- 若符合以下條件無需進一步檢查：
-
-
-
-  - 單一、典型表現血管瘤
-
-
-
-  - 肝臟其他方面正常
-
-
-
-  - 肝功能正常
-
-
-
-  - 無已知惡性疾病
-
-
-
-  - 無症狀
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **典型血管瘤** | 高迴聲、無血流 |
-
-
-
-| **不典型/複雜血管瘤** | 需MRI或CT進一步評估 |
-
-
-
-| **高迴聲肝癌** | 可能有低迴聲暈 |
-
-
-
-| **轉移（高迴聲）** | 需排除若患者有已知原發腫瘤 |
-
-
-
-
-
----
-
-
-
-
-
-### 局灶性結節性增生 / Focal Nodular Hyperplasia (FNH)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **FNH**是具有中央非纖維化星狀疤痕的良性增生性肝臟腫塊
-
-
-
-- 疤痕由膽管和小靜脈組成
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **一般表現** | 非特異性；可能幾乎等迴聲而僅顯示肝臟輪廓移位 |
-
-
-
-| **中央疤痕** | 超音波上少見（即使見到也非特異） |
-
-
-
-| **都卜勒** | 动脉血管**輻條車輪（Spoke-wheel）**配置 |
-
-
-
-| **確診** | MRI或Tc-99m硫膠體閃爍造影（FNH對硫膠體攝取增加） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝腺瘤 / Hepatic Adenoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝腺瘤**與以下因素相關：
-
-
-
-  - 口服避孕藥
-
-
-
-  - 合成類固醇
-
-
-
-  - **I型糖原蓄積病（von Gierke病）**——腺瘤通常多發
-
-
-
-
-
-##### 臨床重要性 / Clinical Significance
-
-
-
-
-
-- 因**出血率高**，通常需切除
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲** | 可為高迴聲、等迴聲或低迴聲（相對於正常肝臟） |
-
-
-
-| **特異性** | 無特異性超音波特徵可與其他肝臟腫塊區分 |
-
-
-
-| **確診** | Tc-99m硫膠體閃爍造影：通常**無攝取**（與FNH不同） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝脂肪瘤 / Hepatic Lipoma
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 邊界清楚的高迴聲腫塊 |
-
-
-
-| **鑑別** | 可能與血管瘤或高迴聲肝癌無法區分 |
-
-
-
-| **多發** | 若多發可能與結節性硬化症和腎血管肌肉脂肪瘤相關 |
-
-
-
-
-
----
-
-
-
-
-
-### 膽管囊腺瘤 / Biliary Cystadenoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **膽管囊腺瘤**是內襯膽管型上皮的良性囊性腫塊
-
-
-
-- 雖然良性，但因有**惡性轉化**可能，大多數需手術切除
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 所有影像模式均顯示多間隔囊性腫塊 |
-
-
-
-| **壁結節** | 若存在應高度懷疑惡性轉化為**囊腺癌** |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **包蟲囊腫** | 大囊腫+子囊；水蓮徵；流行區 |
-
-> | **念珠菌病** | 免疫受抑制；微小靶徵；脾臟也有病變 |
-
-> | **肺孢子蟲** | 吸入噴他咪治療史；肝脾鈣化 |
-
-> | **血管瘤** | 最常見；**高迴聲**；無血流；無低迴聲暈 |
-
-> | **FNH** | 可能有輻條車輪都卜勒；MRI/硫膠體確診 |
-
-> | **腺瘤** | 口服避孕藥相關；出血風險高；常切除 |
-
-> | **脂肪瘤** | 高迴聲；與結節性硬化症相關 |
-
-> | **囊腺瘤** | 多間隔囊性；壁結節提示惡性轉化 |
-
-
-
-# Ultrasound - Page 483
-
-
-
-
+### Hepatic malignancy
 
 ![Page 483](/core_radiology/images/ultrasound/page-483.png)
 
-
-
-
-
-## 肝臟良性腫瘤（續）
-
-
-
-
-
----
-
-
-
-
-
-### 海綿狀血管瘤超音波表現 / Cavernous Hemangioma Ultrasound
-
-
-
-
-
-##### 超音波-病理對照 / Ultrasound-Pathology Correlation
-
-
-
-
-
-| 超音波所見 | 對應病理 |
-
-
-
-|---|---|
-
-
-
-| **高迴聲** | 血管腔隙（血液-膽管界面） |
-
-
-
-| **後方增強** | 高血管性導致聲波通過增強 |
-
-
-
-| **無血流** | 血流緩慢或滯留 |
-
-
-
-
-
-##### 不典型表現 / Atypical Features
-
-
-
-
-
-| 情況 | 超音波表現 |
-
-
-
-|---|---|
-
-
-
-| **脂肪肝背景** | 可能呈現低迴聲 |
-
-
-
-| **複雜血管瘤** | 需MRI或CT進一步評估 |
-
-
-
-
+Hepatic malignancy
+Hepatic metastases
+Innumerable liver metastases, initially difficult to see due to technique: Initial scanning with a lowfrequency vector probe (left image) demonstrates a coarsened hepatic echotexture without definite
+mass. This appearance may mimic cirrhosis. When a higher frequency curved probe is used (right image),
+innumerable target lesions (arrows) become apparent, consistent with innumerable hepatic metastases.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Metastatic disease to the liver is far more common than primary hepatocellular
+Metastases can have a variable ultrasound appearance, although the classic finding is
+a hypoechoic rim producing a target sign.
+Hypoechoic hepatic metastases include:
+Breast (can be either hypoechoic or hyperechoic).
+Hyperechoic hepatic metastases include:
+Colon cancer is hyperechoic in greater than 50% of cases. A hyperechoic appearance may suggest a
+better prognosis.
+Renal cell carcinoma.
+Breast (can be either hyperechoic or hypoechoic).
+Choriocarcinoma.
+Calcified hepatic metastases (hyperechoic with acoustic shadowing) include:
+Colon cancer (especially mucinous type).
+Gastric adenocarcinoma.
 
 ---
 
-
-
-
-
-### 局灶性結節性增生 / Focal Nodular Hyperplasia (FNH)
-
-
-
-
-
-##### 確診方法 / Confirmatory Tests
-
-
-
-
-
-| 方法 | FNH所見 |
-
-
-
-|---|---|
-
-
-
-| **MRI** | 最有用；中央疤痕T2高訊號 |
-
-
-
-| **Tc-99m硫膠體** | 攝取增加（與腺瘤不同） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝腺瘤超音波特徵 / Hepatic Adenoma Sonographic Features
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲多變** | 可高、等或低迴聲 |
-
-
-
-| **與FNH鑑別** | 硫膠體掃描無攝取 |
-
-
-
-| **出血風險** | 高出血率需手術切除 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟惡性腫瘤 / Hepatic Malignancy
-
-
-
-
-
----
-
-
-
-
-
-### 肝轉移瘤 / Hepatic Metastases
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝轉移**比**肝細胞癌**更常見
-
-
-
-
-
-##### 超音波表現分類 / Ultrasound Classification
-
-
-
-
-
-| 迴聲類型 | 原發腫瘤 |
-
-
-
-|---|---|
-
-
-
-| **低迴聲（含靶徵）** | 乳癌、胰臟癌、肺癌、淋巴瘤 |
-
-
-
-| **高迴聲** | 結腸癌（>50%）、腎細胞癌、乳癌（可高低迴聲）、類癌、絨毛膜癌 |
-
-
-
-| **鈣化性** | 結腸癌（尤其黏液型）、胃癌、骨肉瘤（罕見） |
-
-
-
-| **囊性** | 卵巢囊腺癌、胃腸道肉瘤 |
-
-
-
-| **浸潤性** | 肺癌、乳癌、前列腺癌（可致偽肝硬化） |
-
-
-
-
-
----
-
-
-
-
-
-### 肝細胞癌 / Hepatocellular Carcinoma (HCC)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **肝細胞癌**發生於慢性炎症背景
-
-
-
-- 高風險族群：**肝硬化或慢性病毒性肝炎**患者定期篩檢
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **表現多變** | 小腫瘤可能難以發現 |
-
-
-
-| **都卜勒** | 常見高血流，尤其腫瘤周邊（動靜脈分流） |
-
-
-
-| **靜脈侵犯** | 肝癌易侵犯門靜脈；靜脈內有血流信號提示腫瘤血栓 |
-
-
-
-
-
-##### 特殊類型 / Special Types
-
-
-
-
-
-| 類型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **纖維板層型癌** | 年輕成人；無肝硬化；AFP正常；預後較好 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝臟淋巴瘤 / Hepatic Lymphoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 原發性肝淋巴瘤可表現為單發或多發腫塊
-
-
-
-- 通常為**低迴聲**，可見靶徵
-
-
-
-
-
----
-
-
-
-
-
-### 移植後淋巴增生性疾病 / Post-Transplant Lymphoproliferative Disorder (PTLD)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **PTLD**為實體器官或骨髓移植後由EB病毒引起的淋巴瘤
-
-
-
-- 腎移植患者風險較高
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **表現多變** | 無特異性超音波特徵 |
-
-
-
-| **重要提示** | 移植患者發現肝臟腫塊應考慮PTLD |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟常見影像模式 / Liver: Common Imaging Patterns
-
-
-
-
-
----
-
-
-
-
-
-### 多囊肝 / Multicystic Liver
-
-
-
-
-
-| 疾病 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **多發單純囊腫** | 先天性 |
-
-
-
-| **Caroli病** | 肝內膽管囊性擴張 |
-
-
-
-| **ADPKD** | >50%患者肝囊腫 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝囊腫伴內部迴聲 / Liver Cyst with Internal Echoes
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **單純囊腫出血** | 內部迴聲 |
-
-
-
-| **肝膿腫** | 複雜囊性 |
-
-
-
-| **血腫** | 可移動迴聲 |
-
-
-
-| **壞死或囊性轉移** | 卵巢囊腺癌或胃腸道肉瘤 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **轉移瘤** | 比HCC更常見；低迴聲靶徵最典型 |
-
-> | **HCC** | 慢性肝病背景；靜脈侵犯；AFP篩檢 |
-
-> | **纖維板層型** | 年輕；無肝硬化；預後好 |
-
-> | **PTLD** | 移植患者；無特異性表現 |
-
-> | **多囊肝** | 囊腫、Caroli病、ADPKD |
-
-> | **囊腫有迴聲** | 出血、膿腫、血腫、壞死性轉移 |
-
-
-
-# Ultrasound - Page 484
-
-
-
-
+### Hepatocellular carcinoma (HCC)
 
 ![Page 484](/core_radiology/images/ultrasound/page-484.png)
 
-
-
-
-
-## 肝臟惡性腫瘤（續）
-
-
-
-
+Hepatocellular carcinoma (HCC)
+Hepatocellular carcinoma (HCC) is a hepatic malignancy arising in the setting of
+chronic inflammation.
+Patients with cirrhosis or chronic viral hepatitis are regularly screened for HCC with
+serum alpha-fetoprotein levels and ultrasound.
+Ultrasound is not very sensitive to detect small HCC in end-stage cirrhotic livers.
+HCC has a variety of ultrasound appearances — therefore, a mass in a cirrhotic liver is
+considered HCC until proven otherwise. High Doppler flow may be present, especially
+at the periphery of the mass, due to arteriovenous shunting.
+HCC has a propensity for venous invasion. The portal veins should always be carefully
+evaluated in the presence of a hepatic mass. Internal Doppler flow within a venous
+clot suggests a tumor thrombus.
+Fibrolamellar carcinoma
+Fibrolamellar carcinoma is a variant of HCC seen in young adults without cirrhosis and
+is not associated with elevated alpha-fetoprotein.
+Fibrolamellar carcinoma has a much better prognosis compared to typical HCC.
+Hepatic lymphoma
+Primary hepatic lymphoma may present as a single mass or multiple masses.
+Lymphoma tends to be hypoechoic and may demonstate the target sign typical of
+metastases.
 
 ---
 
-
-
-
-
-### 肝轉移瘤 / Hepatic Metastases
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 迴聲類型 | 原發腫瘤 | 特點 |
-
-
-
-|---|---|---|
-
-
-
-| **低迴聲（含靶徵）** | 乳癌、胰臟癌、肺癌、淋巴瘤 | 經典型 |
-
-
-
-| **高迴聲** | 結腸癌（>50%）、腎細胞癌 | 高迴聲可能預後較好 |
-
-
-
-| **鈣化性** | 結腸癌（黏液型）、胃癌、骨肉瘤 | 後方聲影 |
-
-
-
-| **囊性** | 卵巢囊腺癌、胃腸道肉瘤 | 壞死性轉移 |
-
-
-
-| **浸潤性** | 肺癌、乳癌、前列腺癌 | 可似肝硬化 |
-
-
-
-
-
-##### 超音波技術要點 / Technical Tips
-
-
-
-
-
-| 問題 | 解決方案 |
-
-
-
-|---|---|
-
-
-
-| **早期轉移難發現** | 低頻探頭評估整體結構；高頻探頭發現小病灶 |
-
-
-
-| **等迴聲轉移** | 可能似肝硬化；仔細分析輪廓 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝細胞癌 / Hepatocellular Carcinoma (HCC)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **HCC**是慢性炎症背景發生的肝臟惡性腫瘤
-
-
-
-- **肝硬化或慢性B/C型肝炎**患者定期以**AFP**和**超音波特徵**篩檢
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **腫瘤表現** | 多樣；肝硬化背景下發現腫塊應考慮HCC |
-
-
-
-| **都卜勒** | 高血流信號，常見於周邊（動靜脈分流） |
-
-
-
-| **靜脈侵犯** | 門靜脈應仔細評估；靜脈內有动脉波形血流提示**腫瘤血栓** |
-
-
-
-
-
-##### 特殊亞型 / Special Subtypes
-
-
-
-
-
-| 亞型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **纖維板層型** | 年輕成人；無肝硬化；AFP正常；預後較佳 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝臟淋巴瘤 / Hepatic Lymphoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 可為單發或多發腫塊
-
-
-
-- 通常為**低迴聲**，可顯示**靶徵**
-
-
-
-
-
----
-
-
-
-
-
-### 移植後淋巴增生性疾病 / PTLD
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **PTLD**為實體器官或骨髓移植後由EB病毒引起的淋巴瘤
-
-
-
-- 腎移植患者風險較高
-
-
-
-- 治療：**減少/停用免疫抑制劑**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **表現多變** | 無特異性超音波特徵 |
-
-
-
-| **臨床提示** | 移植患者發現肝臟腫塊應考慮PTLD |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟常見影像模式 / Liver: Common Imaging Patterns
-
-
-
-
-
----
-
-
-
-
-
-### 多囊肝 / Multicystic Liver
-
-
-
-
-
-| 病因 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **多發單純囊腫** | 先天性 |
-
-
-
-| **Caroli病** | 肝內膽管囊性擴張（膽管板畸形） |
-
-
-
-| **ADPKD** | >50%患者伴有肝囊腫 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝囊腫伴內部迴聲 / Liver Cyst with Internal Echoes
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **單純囊腫出血** | 可移動內部迴聲 |
-
-
-
-| **肝膿腫** | 複雜囊性結構 |
-
-
-
-| **血腫** | 可移動迴聲 |
-
-
-
-| **壞死/囊性轉移** | 卵巢囊腺癌或胃腸道肉瘤 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝臟都卜勒 / Hepatic Doppler
-
-
-
-
-
----
-
-
-
-
-
-### 肝臟血管解剖 / Hepatic Vascular Anatomy
-
-
-
-
-
-##### 肝臟主要血管 / Main Hepatic Vessels
-
-
-
-
-
-| 血管 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **肝靜脈** | 匯入下腔靜脈（IVC） |
-
-
-
-| **門靜脈** | 肝脏的主要靜脈供應 |
-
-
-
-| **肝固有動脈** | 肝脏的动脉供應 |
-
-
-
-
-
-##### 肝門部解剖 / Porta Hepatis Anatomy
-
-
-
-
-
-| 結構 | 位置 |
-
-
-
-|---|---|
-
-
-
-| **肝固有動脈PHA）** | 左側 |
-
-
-
-| **門靜脈（PV）** | 後方 |
-
-
-
-| **膽總管（CBD）** | 最前方 |
-
-
-
-
-
-##### 門脈三聯組 / Portal Triad
-
-
-
-
-
-- 由**肝固有動脈分支、門靜脈分支、肝總管**組成
-
-
-
-- 超音波所見：位於肝門部的管狀結構
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **轉移瘤** | 比HCC更常見；靶徵最典型；低頻+高頻探頭聯合使用 |
-
-> | **HCC** | 慢性肝病背景；靜脈侵犯；AFP篩檢 |
-
-> | **PTLD** | 移植患者；無特異性表現 |
-
-> | **多囊肝** | 單純囊腫、Caroli病、ADPKD |
-
-> | **囊腫有迴聲** | 出血、膿腫、血腫、壞死性轉移 |
-
-> | **Caroli病** | 肝內膽管囊性擴張 |
-
-
-
-# Ultrasound - Page 485
-
-
-
-
+### Hepatic doppler
 
 ![Page 485](/core_radiology/images/ultrasound/page-485.png)
 
-
-
-
-
-## 肝臟（續）
-
-
-
-
+Hepatic doppler
+hepatic veins
+merge into IVC
+Portal veins
+RHA = right hepatic artery
+LHA = left hepatic artery
+CHA = common hepatic artery
+RPV = right portal vein
+LPV = left portal vein
+MPV = main portal vein
+splenic artery
+splenic vein
+portal triad
+Portal hypertension
 
 ---
 
-
-
-
-
-## 門脈高壓 / Portal Hypertension
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **門脈高壓**為門靜脈系統壓力增加
-
-
-
-
-
-### 分類 / Classification
-
-
-
-
-
-| 類型 | 病因 |
-
-
-
-|---|---|
-
-
-
-| **竇前性** | 門靜脈血栓（病變在肝臟之前） |
-
-
-
-| **竇性** | 肝硬化（肝臟本身病變） |
-
-
-
-| **竇後性** | Budd-Chiari症候群（肝靜脈血栓）、IVC血栓（肝臟之後） |
-
-
-
-
-
-### 正常血流方向 / Normal Flow Direction
-
-
-
-
-
-| 參數 | 正常 |
-
-
-
-|---|---|
-
-
-
-| **血流方向** | **向肝性（Hepatopetal）**：門靜脈和肝臟动脉同向流動 |
-
-
-
-| **波形** | 在基線上方，輕微波動 |
-
-
-
-
-
-### 門脈血流動力學 / Portal Hemodynamics
-
-
-
-
-
-| 狀態 | 血流方向 | 說明 |
-
-
-
-|---|---|---|
-
-
-
-| **正常** | 向肝性 | 門靜脈和肝臟动脉同向流動 |
-
-
-
-| **門脈高壓逆轉** | **離肝性（Hepatofugal）** | 門靜脈壓力高於前向壓力；診斷門脈高壓 |
-
-
-
-
-
-### 門脈高壓繼發表現 / Secondary Findings
-
-
-
-
-
-| 表現 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **脾腫大** | 左上腹測量>14-15 cm |
-
-
-
-| **脾靜脈曲張** | 脾門部管狀低迴聲結構 |
-
-
-
-| **門靜脈低速** | <16 cm/sec |
-
-
-
-| **門靜脈擴張** | 靜止呼吸時直徑>13 mm |
-
-
-
-| **靜脈曲張** | 胃食道、臍周、脾腎分流 |
-
-
-
-| **重新開放臍靜脈** | 門脈分流至腹壁靜脈；診斷門脈高壓 |
-
-
-
-| **腹水** | 腹腔游離液體 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝靜脈都卜勒 / Hepatic Vein Doppler
-
-
-
-
-
-### 正常肝靜脈波形 / Normal Hepatic Vein Waveform
-
-
-
-
-
-##### 波形組成 / Waveform Components
-
-
-
-
-
-| 波形 | 心動週期 | 血流方向 |
-
-
-
-|---|---|---|
-
-
-
-| **A波** | 心房收縮 | 逆行（遠離心臟） |
-
-
-
-| **S波** | 心室收縮 | 前向（進入心臟） |
-
-
-
-| **D波** | 心室舒張 | 前向（進入心臟） |
-
-
-
-
-
-##### 波形機制 / Hemodynamic Mechanism
-
-
-
-
-
-| 波形 | 機制 |
-
-
-
-|---|---|
-
-
-
-| **A波** | 心房收縮時血液被迫逆流至肝臟 |
-
-
-
-| **S波** | 心室收縮大量血液返回右心房 |
-
-
-
-| **D波** | 心室舒張較少血液返回右心房 |
-
-
-
-
-
----
-
-
-
-
-
-## 肝靜脈波形異常 / Hepatic Vein Waveform Abnormalities
-
-
-
-
-
----
-
-
-
-
-
-### 肝靜脈搏動增加 / Increased Hepatic Vein Pulsatility
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-- **右心功能不全**或**三尖瓣逆流**
-
-
-
-- 兩者均以**A波增強**為特徵
-
-
-
-
-
-##### 波形特徵 / Waveform Features
-
-
-
-
-
-| 病因 | A波 | S波 | D波 |
-
-
-
-|---|---|---|---|
-
-
-
-| **三尖瓣逆流** | 增強 | 縮短 | 存在 |
-
-
-
-| **右心衰竭** | 增強 | 存在 | 存在 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝靜脈搏動減少 / Decreased Hepatic Vein Pulsatility
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-- 肝硬化
-
-
-
-- **Budd-Chiari症候群**（肝靜脈血栓）
-
-
-
-- 肝臟小靜脈閉塞性疾病
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **門脈高壓** | 竇前/竇性/竇後分類；離肝性血流確診 |
-
-> | **竇前性** | 門靜脈血栓 |
-
-> | **竇性** | 肝硬化 |
-
-> | **竇後性** | Budd-Chiari、IVC血栓 |
-
-> | **A波增強** | 右心功能不全或三尖瓣逆流 |
-
-> | **肝靜脈搏動減少** | 肝硬化、Budd-Chiari |
-
-> | **重新開放臍靜脈** | 門脈高壓特異性表現 |
-
-
-
-# Ultrasound - Page 486
-
-
-
-
+### Portal pressure is defined as a direct portal venous pressur
 
 ![Page 486](/core_radiology/images/ultrasound/page-486.png)
 
-
-
-
-
-## 胰臟 / Pancreas
-
-
-
-
+Portal pressure is defined as a direct portal venous pressure of >5 mm Hg, although
+the portal venous pressure is not measured directly.
+Ultimately, when portal venous pressure is higher than forward pressure, the portal
+venous flow will reverse, which is diagnostic for portal hypertension. Reversal of portal
+venous flow is called hepatofugal flow (-fugal = away, same Latin root as fugitive).
+reversed = hepatofugal flow
+hepatic arteries and portal veins flow in opposite directions
+In addition to flow reversal, there are several secondary findings of portal
+hypertension:
+Splenomegaly and splenic varices: Sagittal ultrasound Transverse Doppler ultrasound of the
+in the left upper quadrant shows an enlarged spleen left lobe of the liver shows a recanalized
+(calipers) measuring 15 cm in craniocaudal dimension. umbilical vein, which is considered
+There are numerous tubular hypoechoic structures
+diagnostic of portal hypertension.
+(arrows) at the splenic hilum representing varices.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Low portal venous velocity (<16 cm/sec).
+Dilated portal vein (13 mm is the maximal normal diameter in quiet respiration).
+Splenomegaly.
+Portosystemic shunts are often present, most commonly gastro-esophageal, paraumbilical, or
 
 ---
 
-
-
-
-
-## 胰臟炎 / Pancreatitis
-
-
-
-
-
----
-
-
-
-
-
-### 急性胰臟炎 / Acute Pancreatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **急性胰臟炎**為胰臟實質炎症
-
-
-
-- 最常見病因：**酒精**和**膽結石**
-
-
-
-
-
-##### 超音波角色 / Ultrasound Role
-
-
-
-
-
-- 初步評估**膽結石**或**膽道梗阻**
-
-
-
-- 急性胰臟炎時胰臟通常**正常**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **常見表現** | 胰臟正常 |
-
-
-
-| **瀰漫性腫大** | 胰臟可能因水腫而腫大並相對低迴聲 |
-
-
-
-| **嚴重炎症** | 原本低迴聲的胰臟可能變為等迴聲或高迴聲 |
-
-
-
-
-
-##### 超音波局限性 / Ultrasound Limitations
-
-
-
-
-
-- 評估**胰臟壞死**或**胰周積液**等併發症的能力有限
-
-
-
-
-
-##### 急性胰臟炎併發症 / Complications
-
-
-
-
-
-| 併發症類型 | 例子 |
-
-
-
-|---|---|
-
-
-
-| **炎症性** | 急性壞死集合、胰周積液 |
-
-
-
-| **感染性** | 胰周膿腫、感染性壞死、感染性假囊腫 |
-
-
-
-| **血管性** | **脾靜脈血栓**、**脾动脉假性囊腫** |
-
-
-
-
-
----
-
-
-
-
-
-### 慢性胰臟炎 / Chronic Pancreatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 長期炎症導致**胰臟功能永久性喪失**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **胰臟增大** | 炎症和水腫 |
-
-
-
-| **胰管擴張** | 不規則擴張 |
-
-
-
-| **胰石** | 強迴聲後方聲影 |
-
-
-
-| **囊腫** | 假性囊腫 |
-
-
-
-
-
----
-
-
-
-
-
-## 胰臟腫瘤 / Pancreatic Neoplasms
-
-
-
-
-
----
-
-
-
-
-
-### 胰臟腺癌 / Pancreatic Adenocarcinoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **胰臟腺癌**是最常見的胰臟腫瘤
-
-
-
-- 通常見於老年男性
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **小腫瘤** | 低迴聲 |
-
-
-
-| **大腫瘤** | 可能更不均質 |
-
-
-
-| **浸潤性邊界** | 難以確定腫瘤範圍 |
-
-
-
-| **最常見位置** | **胰頭**（常引起膽管/胰管梗阻） |
-
-
-
-| **雙管徵** | 胰管和膽總管同時擴張 |
-
-
-
-
-
----
-
-
-
-
-
-### 囊性胰臟腫瘤 / Cystic Pancreatic Neoplasms
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 腫瘤類型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **漿液性囊腺瘤** | 良性；老年女性；多個小囊腫；中央疤痕鈣化 |
-
-
-
-| **黏液性囊性腫瘤** | 有惡性潛能；中年女性；囊腫較大 |
-
-
-
-| **IPMN** | 與胰管相通；乳頭狀黏液性腫瘤 |
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 腫瘤類型 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **漿液性囊腺瘤** | 多微小囊腫；中央疤痕（特異性高） |
-
-
-
-| **黏液性囊性腫瘤** | 囊腫較大；黏液產生細微迴聲 |
-
-
-
-| **IPMN** | 與胰管相通（超音波特異性診斷困難） |
-
-
-
-
-
----
-
-
-
-
-
-### 胰臟內分泌腫瘤 / Pancreatic Endocrine Tumors
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 腫瘤類型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **功能性** | 有症狀；確診時通常較小；胰島素瘤最常見 |
-
-
-
-| **非功能性** | 無症狀；確診時通常較大 |
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 腫瘤類型 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **胰島素瘤** | 低迴聲；有包膜；術中超音波檢測困難（<60%成功率） |
-
-
-
-| **胃泌素瘤** | 第二常見；可能為多發 |
-
-
-
-
-
-##### 術中超音波 / Intraoperative Ultrasound
-
-
-
-
-
-- 對發現小腫瘤有幫助
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **急性胰臟炎** | 酒精/膽結石；胰臟通常正常；評估膽結石 |
-
-> | **慢性胰臟炎** | 胰管擴張；胰石；假性囊腫 |
-
-> | **胰臟腺癌** | 胰頭最常見；雙管徵；浸潤性 |
-
-> | **漿液性囊腺瘤** | 多小囊腫；中央疤痕；良性 |
-
-> | **黏液性囊性腫瘤** | 較大囊腫；有惡性潛能 |
-
-> | **胰島素瘤** | 功能性最常見；術中超音波<60%檢測率 |
-
-
-
-# Ultrasound - Page 487
-
-
-
-
+### Transjugular intrahepatic portosystemic shunt (TIPS)
 
 ![Page 487](/core_radiology/images/ultrasound/page-487.png)
 
-
-
-
-
-## 脾臟 / Spleen
-
-
-
-
-
----
-
-
-
-
-
-## 脾臟疾病模式 / Patterns of Splenic Disease
-
-
-
-
-
----
-
-
-
-
-
-### 脾臟鈣化 / Splenic Calcifications
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **肉芽腫疾病** | 散在或彌散性鈣化 |
-
-
-
-| **脾梗死** | 梗死區域鈣化 |
-
-
-
-| **血腫** | 血腫機化後鈣化 |
-
-
-
-| **脾动脉假性囊腫** | 脾动脉壁鈣化 |
-
-
-
-
+Transjugular intrahepatic portosystemic shunt (TIPS)
+Portal hypertension (and reversal of portal flow) can be treated with a transjugular
+intrahepatic portosystemic shunt (TIPS), which connects a branch of the portal vein to
+a systemic hepatic vein.
+Ultrasound is used for surveillance of TIPS patency, starting with a post-procedure
+baseline. Routine follow-up is performed according to the following schedule: In
+1 month, every 3 months for the first year, and then every 6 to 12 months.
+Flow in a patent TIPS will be towards the hepatic veins, and flow in the portal veins
+will be towards the TIPS. Therefore, flow in the main portal vein will be hepatopetal
+and flow in the right and left portal veins will be hepatofugal (highlighted below with
+yellow circles).
+Patent TIPS:
+blood flows through TIPS to hepatic veins
+RPV and LPV have reversed flow (toward TIPS)
+MPV has hepatopetal flow (toward TIPS)
+Patent TIPS: Color Doppler of the porta
+hepatis including the proximal TIPS shows
+flow within the TIPS (yellow arrow).
+Case courtesy Julie Ritner, MD, Brigham
+and Women’s Hospital.
 
 ---
-
-
-
-
-
-### 脾囊性病變 / Cystic Splenic Lesions
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **脾动脉假性囊腫/假性囊腫** | 都卜勒排除血管性病變 |
-
-
-
-| **血腫** | 急性期高迴聲，隨後低迴聲 |
-
-
-
-| **膿腫** | 複雜囊性結構 |
-
-
-
-| **胰性假囊腫** | 病史+位置 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾高迴聲病變 / Echogenic Splenic Lesions
-
-
-
-
-
-| 病因 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **血管瘤** | 可為低迴聲 |
-
-
-
-| **錯構瘤** | 良性混合性腫瘤 |
-
-
-
-| **淋巴管瘤** | 囊性淋巴管瘤 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾低迴聲病變 / Hypoechoic Splenic Lesions
-
-
-
-
-
-| 病因 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **撕裂傷** | 外傷背景 |
-
-
-
-| **膿腫** | 感染性 |
-
-
-
-| **淋巴瘤** | 常見；可為轉移性 |
-
-
-
-| **結節病** | 系統性疾病 |
-
-
-
-| **轉移** | 罕見 |
-
-
-
-| **梗死** | 通常位於周邊 |
-
-
-
-| **髓外造血** | 慢性血液病 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾腫大 / Splenomegaly
-
-
-
-
-
-##### 定義 / Definition
-
-
-
-
-
-- 脾臟>14 cm（矢狀面）
-
-
-
-
-
-##### 病因分類 / Etiology Classification
-
-
-
-
-
-| 程度 | 常見病因 |
-
-
-
-|---|---|
-
-
-
-| **輕至中度** | 門脈高壓（最常見）、感染、愛滋病 |
-
-
-
-| **中至重度** | 白血病/淋巴瘤、感染性單核細胞增多症 |
-
-
-
-| **巨大脾腫大** | 慢性骨髓增生性疾病（如CML） |
-
-
-
-
-
----
-
-
-
-
-
-## 腎臟 / Kidneys
-
-
-
-
-
----
-
-
-
-
-
-## 結石、梗阻和腎積水 / Stones, Obstruction, and Hydronephrosis
-
-
-
-
-
----
-
-
-
-
-
-### 腎結石評估 / Evaluation of Kidney Stones
-
-
-
-
-
-##### 超音波角色 / Ultrasound Role
-
-
-
-
-
-- 超音波是評估**腎結石**的理想工具
-
-
-
-- 可導致腎臟梗阻及**腎積水**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **結石** | 腎臟、輸尿管或膀胱內強迴聲伴聲影 |
-
-
-
-| **腎積水** | 確診結石後應評估腎積水和腎周積液 |
-
-
-
-
-
----
-
-
-
-
-
-### 腎積水評估 / Approach to Hydronephrosis
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-- **腎結石**是最常見的腎積水原因
-
-
-
-
-
-##### 診斷要點 / Diagnostic Key Points
-
-
-
-
-
-| 要點 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **腎積水≠梗阻** | 膀胱輸尿管逆流或懷孕可引起無梗阻性擴張 |
-
-
-
-| **梗阻≠腎積水** | 急性梗阻、脫水、Fornix破裂可無腎積水 |
-
-
-
-
-
-##### 診斷陷阱 / Pitfalls
-
-
-
-
-
-| 陷阱 | 區分方法 |
-
-
-
-|---|---|
-
-
-
-| **腎竇囊腫** | 離散囊腫不相通；真性腎積水所有擴張空間相連 |
-
-
-
-| **多囊腎** | 囊腫不相通；ADPKD |
-
-
-
-
-
----
-
-
-
-
-
-### 阻抗指數 / Resistive Index (RI)
-
-
-
-
-
-##### 計算公式 / Formula
-
-
-
-
-
-$$RI = \frac{PSV - EDV}{PSV}$$
-
-
-
-
-
-| 參數 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **PSV** | 收縮期峰值速度 |
-
-
-
-| **EDV** | 舒張末期速度 |
-
-
-
-
-
-##### 臨床應用 / Clinical Application
-
-
-
-
-
-| RI值 | 意義 |
-
-
-
-|---|---|
-
-
-
-| **RI >0.7** | 患側提示急性梗阻 |
-
-
-
-| **兩腎差值 >0.1** | 提示單側病變 |
-
-
-
-| **雙側RI升高** | 非特異性；可見於多種腎臟疾病 |
-
-
-
-| **慢性梗阻** | RI無診斷價值 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **脾血管瘤** | 高迴聲；可低迴聲 |
-
-> | **脾轉移/淋巴瘤** | 低迴聲；周邊梗死 |
-
-> | **脾腫大** | >14 cm；門脈高壓最常見 |
-
-> | **腎結石** | 強迴聲+聲影；評估腎積水 |
-
-> | **急性梗阻** | RI >0.7；兩腎差值>0.1 |
-
-> | **腎竇囊腫** | 離散不相通；與腎積水鑑別 |
-
-
-
-# Ultrasound - Page 488
-
-
-
-
-
-![Page 488](/core_radiology/images/ultrasound/page-488.png)
-
-
-
-
-
-## 腎臟（續）
-
-
-
-
-
----
-
-
-
-
-
-## 輸尿管 Jet / Ureteral Jets
-
-
-
-
-
-### 臨床應用 / Clinical Application
-
-
-
-
-
-| 項目 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **定義** | 尿液以都卜勒可見的流速進入膀胱 |
-
-
-
-| **完全梗阻** | 完全梗阻時尿液流動完全消失 |
-
-
-
-| **診斷價值** | 爭議性；結石患者常見jet存在；正常人也常無jet |
-
-
-
-
-
----
-
-
-
-
-
-## 腎臟實性腫塊 / Solid Renal Masses
-
-
-
-
-
----
-
-
-
-
-
-### 血管肌肉脂肪瘤 / Angiomyolipoma (AML)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **AML**是由血管、平滑肌和脂肪組成的良性錯構瘤
-
-
-
-- **>4 cm**時出血風險增加
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲** | 因脂肪成分呈高迴聲 |
-
-
-
-| **與RCC鑑別** | AML與腎細胞癌超音像有相當重疊 |
-
-
-
-| **後方聲影** | 約1/3 AML顯示聲影（對AML特異） |
-
-
-
-| **結節性硬化症** | 多發AML |
-
-
-
-
-
----
-
-
-
-
-
-### 嗜酸細胞瘤 / Oncocytoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **嗜酸細胞瘤**是源於腎小管細胞的良性腎腫瘤
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **與RCC鑑別** | 無法區分；可低/等/高迴聲 |
-
-
-
-| **都卜勒** | 可能顯示輻條車輪樣血管模式 |
-
-
-
-
-
----
-
-
-
-
-
-### 腎細胞癌 / Renal Cell Carcinoma (RCC)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **腎細胞癌**是最常見的腎實性腫塊
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **常見迴聲** | 與腎皮質等迴聲 |
-
-
-
-| **其他迴聲** | 可為低迴聲或高迴聲（似AML） |
-
-
-
-| ** RCC特異表現** | 低迴聲環；腫瘤內囊性改變 |
-
-
-
-| **靜脈侵犯** | 腎細胞癌易侵犯腎靜脈；應仔細評估 |
-
-
-
-
-
-##### 分期要點 / Staging Considerations
-
-
-
-
-
-| 分期 | 說明 |
-
-
-
-|---|---|
-
-
-
-| ** Robson IIIA** | 腎靜脈侵犯；對手術方式有重要影響 |
-
-
-
-| **腫瘤血栓 vs 單純血栓** | 都卜勒有血流且有动脉波形提示腫瘤血栓 |
-
-
-
-
-
----
-
-
-
-
-
-### 腎淋巴瘤 / Renal Lymphoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 最常見為**高級B細胞淋巴瘤**
-
-
-
-- 可血行播散或直接從後腹膜侵犯腎臟
-
-
-
-- 原發性腎淋巴瘤罕見
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **最常見表現** | 多發低迴聲腎腫塊 |
-
-
-
-| **後腹膜淋巴結** | 通常同時存在 |
-
-
-
-| **單一腫塊** | 不常見 |
-
-
-
-| **瀰漫性浸潤** | 引起腎臟增大，罕見 |
-
-
-
-
-
----
-
-
-
-
-
-## 腎囊腫和囊性腫塊 / Renal Cysts and Cystic Masses
-
-
-
-
-
----
-
-
-
-
-
-### 單純皮質囊腫 / Simple Cortical Cyst
-
-
-
-
-
-##### 超音波診斷標準 / Sonographic Criteria
-
-
-
-
-
-| 標準 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 圓形或橢圓形 |
-
-
-
-| **壁** | 薄、無可測量壁 |
-
-
-
-| **內部** | 完全無迴聲 |
-
-
-
-| **後方增強** | 存在 |
-
-
-
-| **邊界** | 銳利、清晰 |
-
-
-
-
-
----
-
-
-
-
-
-### 腎竇囊腫 / Renal Sinus Cyst
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 類型 | 起源 | 數量 |
-
-
-
-|---|---|---|
-
-
-
-| **腎竇周囊腫（Peripelvic）** | 淋巴管阻塞 | 常多發 |
-
-
-
-| **腎竇旁囊腫（Parapelvic）** | 腎實質囊腫突入腎竇 | 常單發 |
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-- 多發腎竇囊腫可能類似**腎積水**
-
-
-
-- 區分點：囊腫**不相連**；腎積水所有擴張空間**相連**
-
-
-
-
-
----
-
-
-
-
-
-### 囊性腎細胞癌 / Cystic Renal Cell Carcinoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 部分RCC以複雜囊性病變表現
-
-
-
-
-
-##### 超音波警戒表現 / Ultrasound Warning Signs
-
-
-
-
-
-| 表現 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **厚分隔** | 複雜囊性結構 |
-
-
-
-| **不規則壁增厚** | 囊壁不規則 |
-
-
-
-| **壁結節** | 高度懷疑惡性 |
-
-
-
-
-
-##### Bosniak分類 / Bosniak Classification
-
-
-
-
-
-- 基於CT增強表現
-
-
-
-- 描述見泌尿生殖系統影像章節
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **AML** | 高迴聲；1/3有聲影；與RCC重疊 |
-
-> | **嗜酸細胞瘤** | 無法與RCC區分；輻條車輪血管 |
-
-> | **RCC** | 等迴聲常見；低迴聲環；靜脈侵犯 |
-
-> | **腎淋巴瘤** | 多發低迴聲；後腹膜淋巴結 |
-
-> | **腎竇囊腫** | 多發不相通；與腎積水鑑別 |
-
-> | **囊性RCC** | 厚壁/分隔/結節；Bosniak分類 |
-
-
-
-# Ultrasound - Page 489
-
-
-
-
-
-![Page 489](/core_radiology/images/ultrasound/page-489.png)
-
-
-
-
-
-## 肝臟都卜勒（續）
-
-
-
-
-
----
-
-
-
-
-
-## 經頸靜脈肝內門體分流 / Transjugular Intrahepatic Portosystemic Shunt (TIPS)
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **TIPS**連接門靜脈分支與肝靜脈，治療門脈高壓
-
-
-
-- 可使門脈血流逆轉
-
-
-
-
-
-### TIPS都卜勒表現 / TIPS Doppler Findings
-
-
-
-
-
-##### 通暢TIPS / Patent TIPS
-
-
-
-
-
-| 血流方向 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **TIPS內血流** | 流向肝靜脈 |
-
-
-
-| **門靜脈分支** | 流向TIPS（離肝性） |
-
-
-
-| **主門靜脈** | 向肝性流動 |
-
-
-
-
-
-##### TIPS狹窄超音波特徵 / TIPS Stenosis Ultrasound Findings
-
-
-
-
-
-| 參數 | 異常值 | 意義 |
-
-
-
-|---|---|---|
-
-
-
-| **TIPS內速度** | >190 cm/sec | 狹窄 |
-
-
-
-| **TIPS內速度** | <90 cm/sec | 狹窄 |
-
-
-
-| **速度變化** | 相較基線±>50 cm/sec | 狹窄 |
-
-
-
-| **主門靜脈速度** | <30 cm/sec | TIPS狹窄 |
-
-
-
-
-
----
-
-
-
-
-
-## 門靜脈血栓 / Portal Vein Thrombosis
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **門靜脈血栓**可為單純性（無腫瘤）或腫瘤性
-
-
-
-
-
-### 病因分類 / Etiology Classification
-
-
-
-
-
-| 類型 | 病因 |
-
-
-
-|---|---|
-
-
-
-| **單純性血栓** | 全身性高凝狀態、胰臟炎、肝炎 |
-
-
-
-| **腫瘤性血栓** | 最常見於**肝細胞癌** |
-
-
-
-| **嬰兒** | 臍炎、脫水 |
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **灰階** | 門靜脈內強迴聲物質 |
-
-
-
-| **都卜勒** | 門靜脈血流消失 |
-
-
-
-| **靜脈擴張** | 單純或腫瘤性血栓均可見 |
-
-
-
-| **血流信號** | 血栓內有血流信號提示**腫瘤血栓** |
-
-
-
-
-
-### 診斷陷阱 / Pitfall
-
-
-
-
-
-| 陷阱 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **慢血流/滯流** | 速度<16 cm/sec或滯流可能類似血栓 |
-
-
-
-
-
-### 海綿樣變性 / Cavernous Transformation
-
-
-
-
-
-- 長期門靜脈血栓導致
-
-
-
-- 表現：門靜脈周圍多發小側支血管形成
-
-
-
-
-
----
-
-
-
-
-
-## 門靜脈氣體 / Portal Venous Gas
-
-
-
-
-
-### 臨床特點 / Clinical Features
-
-
-
-
-
-- **門靜脈氣體**是腹部災難的表現
-
-
-
-- 直到證明其他原因，否則應假定為**腸道缺血和梗塞**
-
-
-
-
-
-### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **位置** | **周邊**分布（與膽道積氣的中央分布相反） |
-
-
-
-| **形態** | 周邊斑片狀分支強迴聲灶，常短暫出現 |
-
-
-
-| **都卜勒** | 門靜脈頻譜都卜勒有特徵性尖峰 |
-
-
-
-
-
-### 臨床處理 / Clinical Management
-
-
-
-
-
-| 情況 | 處理 |
-
-
-
-|---|---|
-
-
-
-| **病因不明** | 應急診CT |
-
-
-
-| **腸道缺血** | 手術治療 |
-
-
-
-
-
-### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 疾病 | 位置 | 特徵 |
-
-
-
-|---|---|---|
-
-
-
-| **門靜脈氣體** | **周邊** | 腸道缺血急症 |
-
-
-
-| **膽道積氣** | **中央** | 術後或瘻管；Dirty Shadowing |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **TIPS狹窄** | TIPS速度>190或<90 cm/sec；與基線差>50 cm/sec |
-
-> | **門靜脈血栓** | 強迴聲；無血流；血流信號提示腫瘤 |
-
-> | **腫瘤血栓** | 最常見於HCC；血流+动脉波形 |
-
-> | **海綿樣變性** | 長期血栓；門靜脈周側支 |
-
-> | **門靜脈氣體** | **周邊**分布；腸道缺血直到排除 |
-
-> | **TIPS阻塞** | 再逆轉為向肝性血流 |
-
-
-
-# Ultrasound - Page 490
-
-
-
-
-
-![Page 490](/core_radiology/images/ultrasound/page-490.png)
-
-
-
-
-
-## 肝靜脈都卜勒 / Hepatic Vein Doppler（續）
-
-
-
-
-
----
-
-
-
-
-
-## 肝靜脈波形異常（續）
-
-
-
-
-
----
-
-
-
-
-
-### 肝靜脈搏動增加 / Increased Hepatic Vein Pulsatility
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-- **右心功能不全**或**三尖瓣逆流**
-
-
-
-
-
-##### 機制 / Mechanism
-
-
-
-
-
-| 狀態 | 三尖瓣 | A波 | S波 |
-
-
-
-|---|---|---|---|
-
-
-
-| **正常** | 正常關閉 | 正常 | 正常 |
-
-
-
-| **三尖瓣逆流** | 逆流 | 增強 | 縮短或逆流 |
-
-
-
-| **右心衰竭** | 正常 | 增強 | 正常 |
-
-
-
-
-
-##### 三尖瓣逆流波形 / Tricuspid Regurgitation Waveform
-
-
-
-
-
-| 波形 | 特徵 |
-
-
-
-|---|---|
-
-
-
-| **A波** | 增強（心房收縮時逆流增加） |
-
-
-
-| **S波** | 縮短或逆流（收縮期血液逆流至右心房） |
-
-
-
-| **D波** | 存在 |
-
-
-
-
-
-##### 右心衰竭波形 / Right-Sided Heart Failure Waveform
-
-
-
-
-
-| 波形 | 特徵 |
-
-
-
-|---|---|
-
-
-
-| **A波** | 增強（由右心房壓力增加引起） |
-
-
-
-| **S波** | 正常（三尖瓣功能正常） |
-
-
-
-| **D波** | 存在 |
-
-
-
-
-
----
-
-
-
-
-
-### 肝靜脈搏動減少 / Decreased Hepatic Vein Pulsatility
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-| 病因 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **肝硬化** | 竇性門脈高壓 |
-
-
-
-| **Budd-Chiari症候群** | 肝靜脈血栓 |
-
-
-
-| **肝臟小靜脈閉塞性疾病** | 靜脈流出道阻塞 |
-
-
-
-
-
----
-
-
-
-
 
 ## 胰臟 / Pancreas
 
+### If the TIPS becomes occluded, the right and left portal vein
 
+![Page 488](/core_radiology/images/ultrasound/page-488.png)
 
-
+If the TIPS becomes occluded, the right and left portal veins will “re-reverse” and
+become hepatopetal.
+occluded TIPS:
+no blood flow through TIPS
+RPV and LPV have “re-reversed”:
+now have hepatopetal flow (away from TIPS)
+MPV has hepatopetal flow (towards occluded TIPS)
+TIPS occlusion: Color Doppler of
+the porta hepatis including the
+proximal TIPS shows complete
+absence of flow within the TIPS
+Case courtesy Julie Ritner, MD,
+Brigham and Women’s Hospital.
+Portal vein thrombosis
+Grayscale transverse image of the porta hepatis shows echogenic debris within the main portal vein
+(arrows). Color Doppler confirms partial portal vein thrombosis with lack of flow in the proximal portal
+vein (arrow).
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Thrombosis of the portal vein can be bland (simple thrombosis) or may be due to
+tumor invasion.
 
 ---
 
+### Ultrasound of portal vein thrombosis shows lack of portal ve
 
+![Page 489](/core_radiology/images/ultrasound/page-489.png)
 
-
-
-## 胰臟炎 / Pancreatitis
-
-
-
-
+Ultrasound of portal vein thrombosis shows lack of portal venous flow, often with
+echogenic thrombus within the portal vein.
+Expansion of the portal vein can be seen with either bland or tumor thrombus.
+On color Doppler, flow within the thrombus suggests tumor thrombus.
+One potential pitfall to be aware of is slow (<16 cm/sec) or stagnant portal venous
+flow in the presence of portal hypertension which may mimic portal vein thrombosis.
+Long-standing portal vein thrombosis leads to cavernous transformation of the portal
+vein, characterized by formation of multiple small periportal collaterals.
+Cavernous transformation of the portal vein: Grayscale transverse image of the porta hepatis
+shows numerous tubular hypoechoic structures in the expected location of the portal vein
+(arrows). Color Doppler (right image) demonstrates flow within these collateral vessels, with no
+identifiable portal vein.
+Portal venous gas
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Portal venous gas is due to
+abdominal catastrophe (ischemia
+and infarction) until proven
+otherwise. If the cause of the
+portal venous gas is unknown, CT
+should be performed emergently.
 
 ---
 
-
-
-
-
-### 急性胰臟炎 / Acute Pancreatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **急性胰臟炎**為胰臟實質炎症
-
-
-
-- 最常見病因：**酒精**和**膽結石**
-
-
-
-
-
-##### 超音波角色 / Ultrasound Role
-
-
-
-
-
-- 初步評估**膽結石**或**膽道梗阻**
-
-
-
-- 急性胰臟炎時胰臟通常**正常**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **常見表現** | 胰臟正常 |
-
-
-
-| **瀰漫性腫大** | 胰臟因水腫可能腫大並相對低迴聲 |
-
-
-
-| **嚴重炎症** | 原本低迴聲的胰臟可能變為等迴聲或高迴聲 |
-
-
-
-
-
-##### 超音波局限性 / Ultrasound Limitations
-
-
-
-
-
-- 評估**胰臟壞死**或**胰周積液**等併發症的能力有限
-
-
-
-
-
-##### 急性胰臟炎併發症 / Complications
-
-
-
-
-
-| 併發症類型 | 例子 |
-
-
-
-|---|---|
-
-
-
-| **炎症性** | 急性壞死集合、胰周積液 |
-
-
-
-| **感染性** | 胰周膿腫、感染性假囊腫、感染性壞死 |
-
-
-
-| **假性囊腫** | 超音波通常可檢出，但大囊腫範圍難以全面評估 |
-
-
-
-| **血管性** | **脾靜脈血栓**、**脾动脉假性囊腫** |
-
-
-
-
+### Hepatic veins
+
+![Page 490](/core_radiology/images/ultrasound/page-490.png)
+
+Hepatic veins
+Normal hepatic vein waveform
+The hepatic veins feed into the IVC and the right side of the heart. The spectral
+Doppler waveform of the hepatic veins is therefore affected by the cardiac cycle.
+The normal hepatic venous waveform has three distinct components: The A, S, and D waves.
+Note that antegrade flow is defined as forward flow in the normal expected direction.
+(towards transducer)
+anterograde
+(into heart;
+away from transducer)
+ventricular
+S-wave diastole
+ventricular
+A-wave: Atrial systole, during which blood is forced retrograde (away from the heart) into the liver.
+S-wave: Ventricular systole, during which a large volume of blood returns to the right atrium.
+D-wave: Ventricular diastole, during which a smaller volume of blood returns to the right atrium.
+Increased hepatic vein pulsatility: Accentuated A-wave
+Increased hepatic vein pulsatility is caused by a right-sided cardiac abnormality, either
+right-sided heart failure or tricuspid regurgitation. Both conditions are characterized
+by accentuation of the A-wave due to increased retrograde flow during atrial systole.
 
 ---
 
-
-
-
-
-### 慢性胰臟炎 / Chronic Pancreatitis
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 由反覆急性胰臟炎發作引起（最常見為酒精性）
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **胰臟萎縮** | 典型表現 |
-
-
-
-| **瀰漫性鈣化** | 強迴聲後方聲影 |
-
-
-
-| **胰管擴張** | 不規則、串珠狀擴張 |
-
-
-
-| **胰石** | 胰管內強迴聲後方聲影 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **三尖瓣逆流** | A波增強+S波縮短/逆流 |
-
-> | **右心衰竭** | A波增強+S波正常 |
-
-> | **肝靜脈搏動減少** | 肝硬化、Budd-Chiari |
-
-> | **急性胰臟炎** | 酒精/膽結石；胰臟通常正常；評估膽結石 |
-
-> | **假性囊腫** | 超音波可檢出，但全面範圍難以評估 |
-
-> | **慢性胰臟炎** | 胰臟萎縮；瀰漫性鈣化；胰管串珠狀擴張 |
-
-> | **脾靜脈血栓** | 急性胰臟炎重要血管併發症 |
-
-
-
-# Ultrasound - Page 491
-
-
-
-
+### Decreased hepatic vein pulsatility
 
 ![Page 491](/core_radiology/images/ultrasound/page-491.png)
 
-
-
-
-
-## 胰臟（續）
-
-
-
-
+Decreased hepatic vein pulsatility
+Decreased hepatic vein pulsatility is seen in cirrhosis, Budd–Chiari (hepatic vein
+thrombosis), and hepatic veno-occlusive disease.
+Pancreatitis
+Acute pancreatitis
+Pancreatitis is inflammation of the
+pancreatic parenchyma, most often
+caused by alcohol or gallstones.
+Ultrasound is useful in the initial
+evaluation of pancreatitis to
+evaluate for gallstones or biliary
+obstruction.
+Usually, the pancreas appears
+normal in acute pancreatitis. The
+pancreas may be diffusely enlarged
+and relatively hypoechoic due to
+edema. More severe inflammation
+may cause the normally hypoechoic
+pancreas to become isoechoic to
+Acute pancreatitis: Transverse ultrasound of the head
 
 ---
 
-
-
-
-
-## 胰臟炎（續）
-
-
-
-
-
----
-
-
-
-
-
-### 急性胰臟炎併發症 / Acute Pancreatitis Complications
-
-
-
-
-
-##### 假性囊腫 / Pancreatic Pseudocyst
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **超音波檢出** | 通常可檢出 |
-
-
-
-| **全面評估** | 大囊腫範圍難以全面超音波評估 |
-
-
-
-
-
-##### 感染性併發症 / Infectious Complications
-
-
-
-
-
-| 併發症 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **胰周膿腫** | 感染性 |
-
-
-
-| **感染性假囊腫** | 囊腫感染 |
-
-
-
-| **感染性壞死** | 胰周壞死組織感染 |
-
-
-
-
-
-##### 血管性併發症 / Vascular Complications
-
-
-
-
-
-| 併發症 | 超音波評估 |
-
-
-
-|---|---|
-
-
-
-| **脾靜脈血栓** | 都卜勒確診 |
-
-
-
-| **脾动脉假性囊腫** | 都卜勒確診 |
-
-
-
-
-
----
-
-
-
-
-
-## 胰臟腫瘤 / Pancreatic Neoplasms
-
-
-
-
-
----
-
-
-
-
-
-### 胰臟腺癌 / Pancreatic Adenocarcinoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **胰臟腺癌**是最常見的胰臟腫瘤
-
-
-
-- 通常見於老年男性
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **小腫瘤** | 低迴聲 |
-
-
-
-| **大腫瘤** | 可能更不均質 |
-
-
-
-| **浸潤性邊界** | 難以確定腫瘤範圍 |
-
-
-
-| **最常見位置** | **胰頭**（常引起膽管/胰管梗阻） |
-
-
-
-| **雙管徵** | 胰管和膽總管同時擴張 |
-
-
-
-
-
----
-
-
-
-
-
-### 囊性胰臟腫瘤 / Cystic Pancreatic Neoplasms
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 腫瘤類型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **漿液性囊腺瘤** | 良性；老年女性；多個小囊腫；中央疤痕鈣化 |
-
-
-
-| **黏液性囊性腫瘤** | 有惡性潛能；中年女性；囊腫較大 |
-
-
-
-| **IPMN** | 與胰管相通；乳頭狀黏液性腫瘤 |
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 腫瘤類型 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **漿液性囊腺瘤** | 多微小囊腫；中央疤痕（特異性高） |
-
-
-
-| **黏液性囊性腫瘤** | 囊腫較大；黏液產生細微迴聲 |
-
-
-
-| **IPMN** | 與胰管相通（超音波特異性診斷困難） |
-
-
-
-
-
----
-
-
-
-
-
-### 胰臟內分泌腫瘤 / Pancreatic Endocrine Tumors
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 腫瘤類型 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **功能性** | 有症狀；確診時通常較小；胰島素瘤最常見 |
-
-
-
-| **非功能性** | 無症狀；確診時通常較大 |
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 腫瘤類型 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **胰島素瘤** | 低迴聲；有包膜；術中超音波檢測困難（<60%成功率） |
-
-
-
-| **胃泌素瘤** | 第二常見；可能為多發；60%確診時已有肝轉移 |
-
-
-
-
-
-##### 術中超音波 / Intraoperative Ultrasound
-
-
-
-
-
-- 對發現小腫瘤有幫助
-
-
-
-
-
----
-
-
-
-
-
-### 胰臟淋巴瘤 / Pancreatic Lymphoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 最常見為**B細胞淋巴瘤**
-
-
-
-- 通常同時有淋巴結病變和多器官侵犯
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **典型表現** | 胰臟瀰漫性腫大、低迴聲 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **胰臟腺癌** | 胰頭最常見；雙管徵；浸潤性 |
-
-> | **漿液性囊腺瘤** | 多小囊腫；中央疤痕；良性 |
-
-> | **黏液性囊性腫瘤** | 較大囊腫；有惡性潛能 |
-
-> | **IPMN** | 與胰管相通；診斷困難 |
-
-> | **胰島素瘤** | 功能性最常見；術中超音波<60%成功率 |
-
-> | **胃泌素瘤** | 60%確診時已有肝轉移 |
-
-> | **胰臟淋巴瘤** | 瀰漫性腫大低迴聲；淋巴結病變 |
-
-
-
-# Ultrasound - Page 492
-
-
-
-
+### Pancreatic neoplasms
 
 ![Page 492](/core_radiology/images/ultrasound/page-492.png)
 
-
-
-
-
-## 脾臟 / Spleen
-
-
-
-
-
----
-
-
-
-
-
-## 脾臟疾病模式 / Patterns of Splenic Disease
-
-
-
-
-
----
-
-
-
-
-
-### 脾臟鈣化 / Splenic Calcifications
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **肉芽腫疾病** | 散在或彌散性鈣化 |
-
-
-
-| **脾梗死** | 梗死區域鈣化 |
-
-
-
-| **血腫** | 血腫機化後鈣化 |
-
-
-
-| **脾动脉假性囊腫** | 脾动脉壁鈣化 |
-
-
-
-
+Pancreatic neoplasms
+Pancreatic adenocarcinoma
+Pancreatic adenocarcinoma is the most common pancreatic tumor, and is typically
+seen in older males.
+Small tumors are hypoechoic, while larger masses may be more heterogeneous. It can
+be difficult to identify the tumor extent on ultrasound because of infiltrative margins
+and invasion of the tumor into pancreatic parenchyma and adjacent structures.
+The most common location for a tumor to arise is the pancreatic head, where the
+mass often presents with ductal obstruction. The double duct sign represents dilation
+of both the pancreatic and common bile ducts caused by malignant obstruction.
+Cystic pancreatic neoplasms
+Cystic pancreatic neoplasms are a diverse group of unrelated pancreatic tumors that
+may appear similar by ultrasound.
+Serous cystadenoma is a benign tumor seen in older females, consisting of multiple
+tiny cysts. A characteristic calcified scar is not often seen, but is very specific when
+Mucinous cystic neoplasm has malignant potential, and is usually seen in middle-aged
+females. Compared to serous cystadenoma, the cysts are larger in size. The mucin can
+generate numerous fine echoes.
+Intraductal papillary mucinous neoplasm (IPMN) is a neoplasm of variable and
+controversial natural history that communicates with either the main pancreatic
 
 ---
 
-
-
-
-
-### 脾囊性病變 / Cystic Splenic Lesions
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-| 病因 | 超音波特徵 |
-
-
-
-|---|---|
-
-
-
-| **脾动脉假性囊腫/假性囊腫** | 都卜勒排除血管性病變 |
-
-
-
-| **血腫** | 急性期高迴聲，隨後低迴聲 |
-
-
-
-| **膿腫** | 複雜囊性結構 |
-
-
-
-| **胰性假囊腫** | 病史+位置 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾高迴聲病變 / Echogenic Splenic Lesions
-
-
-
-
-
-| 病因 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **血管瘤** | 可為低迴聲 |
-
-
-
-| **錯構瘤** | 良性混合性腫瘤 |
-
-
-
-| **淋巴管瘤** | 囊性淋巴管瘤 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾低迴聲病變 / Hypoechoic Splenic Lesions
-
-
-
-
-
-| 病因 | 特點 |
-
-
-
-|---|---|
-
-
-
-| **撕裂傷** | 外傷背景 |
-
-
-
-| **膿腫** | 感染性 |
-
-
-
-| **淋巴瘤** | 常見；可為轉移性 |
-
-
-
-| **結節病** | 系統性疾病 |
-
-
-
-| **轉移** | 罕見 |
-
-
-
-| **梗死** | 通常位於周邊 |
-
-
-
-| **髓外造血** | 慢性血液病 |
-
-
-
-
-
----
-
-
-
-
-
-### 脾腫大 / Splenomegaly
-
-
-
-
-
-##### 定義 / Definition
-
-
-
-
-
-- 脾臟>14 cm（矢狀面）
-
-
-
-
-
-##### 病因分類 / Etiology Classification
-
-
-
-
-
-| 程度 | 常見病因 |
-
-
-
-|---|---|
-
-
-
-| **輕至中度** | 門脈高壓（最常見）、感染、愛滋病 |
-
-
-
-| **中至重度** | 白血病/淋巴瘤、感染性單核細胞增多症 |
-
-
-
-| **巨大脾腫大** | 慢性骨髓增生性疾病（如CML） |
-
-
-
-
-
----
-
-
-
-
-
-## 腎臟 / Kidneys
-
-
-
-
-
----
-
-
-
-
-
-## 結石、梗阻和腎積水 / Stones, Obstruction, and Hydronephrosis
-
-
-
-
-
----
-
-
-
-
-
-### 腎結石評估 / Evaluation of Kidney Stones
-
-
-
-
-
-##### 超音波角色 / Ultrasound Role
-
-
-
-
-
-- 超音波是評估**腎結石**的理想工具
-
-
-
-- 可導致腎臟梗阻及**腎積水**
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **結石** | 腎臟、輸尿管或膀胱內強迴聲伴聲影 |
-
-
-
-| **腎積水** | 確診結石後應評估腎積水和腎周積液 |
-
-
-
-
-
----
-
-
-
-
-
-### 腎積水評估 / Approach to Hydronephrosis
-
-
-
-
-
-##### 病因 / Etiology
-
-
-
-
-
-- **腎結石**是最常見的腎積水原因
-
-
-
-
-
-##### 診斷要點 / Diagnostic Key Points
-
-
-
-
-
-| 要點 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **腎積水≠梗阻** | 膀胱輸尿管逆流或懷孕可引起無梗阻性擴張 |
-
-
-
-| **梗阻≠腎積水** | 急性梗阻、脫水、Fornix破裂可無腎積水 |
-
-
-
-
-
-##### 診斷陷阱 / Pitfalls
-
-
-
-
-
-| 陷阱 | 區分方法 |
-
-
-
-|---|---|
-
-
-
-| **腎竇囊腫** | 離散囊腫不相通；真性腎積水所有擴張空間相連 |
-
-
-
-| **多囊腎** | 囊腫不相通；ADPKD |
-
-
-
-
-
----
-
-
-
-
-
-### 阻抗指數 / Resistive Index (RI)
-
-
-
-
-
-##### 計算公式 / Formula
-
-
-
-
-
-| 參數 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **PSV** | 收縮期峰值速度 |
-
-
-
-| **EDV** | 舒張末期速度 |
-
-
-
-
-
-$$RI = \frac{PSV - EDV}{PSV}$$
-
-
-
-
-
-##### 臨床應用 / Clinical Application
-
-
-
-
-
-| RI值 | 意義 |
-
-
-
-|---|---|
-
-
-
-| **RI >0.7** | 患側提示急性梗阻 |
-
-
-
-| **兩腎差值 >0.1** | 提示單側病變 |
-
-
-
-| **雙側RI升高** | 非特異性；可見於多種腎臟疾病 |
-
-
-
-| **慢性梗阻** | RI無診斷價值 |
-
-
-
-
-
----
-
-
-
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **脾血管瘤** | 高迴聲；可低迴聲 |
-
-> | **脾轉移/淋巴瘤** | 低迴聲；周邊梗死 |
-
-> | **脾腫大** | >14 cm；門脈高壓最常見 |
-
-> | **腎結石** | 強迴聲+聲影；評估腎積水 |
-
-> | **急性梗阻** | RI >0.7；兩腎差值>0.1 |
-
-> | **腎竇囊腫** | 離散不相通；與腎積水鑑別 |
-
-> | **腎積水≠梗阻** | 逆流、懷孕可無梗阻 |
-
-
-
-# Ultrasound - Page 493
-
-
-
-
+### Spleen
 
 ![Page 493](/core_radiology/images/ultrasound/page-493.png)
 
-
-
-
-
-## 腎臟（續）
-
-
-
-
-
----
-
-
-
-
-
-## 輸尿管 Jet / Ureteral Jets
-
-
-
-
-
-### 臨床應用 / Clinical Application
-
-
-
-
-
-| 項目 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **定義** | 尿液以都卜勒可見的流速進入膀胱 |
-
-
-
-| **完全梗阻** | 完全梗阻時尿液流動完全消失 |
-
-
-
-| **診斷價值** | 爭議性；結石患者常見jet存在；正常人也常無jet |
-
-
-
-
+Patterns of disease
+Splenic calcification
+Granulomatous disease: Calcifications may be scattered or diffuse.
+Splenic infarct.
+Calcified splenic artery aneurysm.
+Cystic splenic lesion: Color Doppler should always be used to exclude a vascular etiology
+Splenic artery aneurysm or pseudoaneurysm.
+Pancreatic pseudocyst.
+Echogenic splenic lesion
+Hemangioma (can also be hypoechoic).
+Lymphangioma.
+Hypoechoic splenic lesion
+• Laceration (in the setting of trauma).
+• Lymphoma.
+• Sarcoidosis.
+• Metastasis.
+• Infarct (tends to be peripheral).
+• Extramedullary hematopoiesis.
+Splenomegaly (defined as >14 cm in sagittal plane)
+• Mild to moderate splenomegaly:
 
 ---
 
+## 腎臟 / Kidneys
 
+### Kidneys
 
+![Page 494](/core_radiology/images/ultrasound/page-494.png)
 
-
-## 腎臟實性腫塊 / Solid Renal Masses
-
-
-
-
-
----
-
-
-
-
-
-### 血管肌肉脂肪瘤 / Angiomyolipoma (AML)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **AML**是由血管、平滑肌和脂肪組成的良性錯構瘤
-
-
-
-- **>4 cm**時出血風險增加（可能由微血管瘤破裂引起）
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **迴聲** | 因脂肪成分呈高迴聲 |
-
-
-
-| **與RCC鑑別** | AML與腎細胞癌超音像有相當重疊 |
-
-
-
-| **後方聲影** | 約1/3 AML顯示聲影（對AML特異） |
-
-
-
-| **結節性硬化症** | 多發AML |
-
-
-
-
+Stones, obstruction, and hydronephrosis
+Evaluation of kidney stones
+Ultrasound is an excellent modality for evaluation of nephrolithiasis, which may cause
+renal obstruction and resultant hydronephrosis.
+An echogenic shadowing focus in the kidney, ureter, or bladder is suspicious for a stone.
+After diagnosing a renal or ureteral calculus, one should always evaluate for the
+presence of hydronephrosis and perinephric fluid.
+Approach to hydronephrosis
+The most common cause of hydronephrosis is an obstructing calculus.
+Sagittal view of the left kidney shows marked
+Transverse view of the bladder in the same
+hydroureteronephrosis (arrows show dilation of the patient shows a 17 mm shadowing left UVJ
+proximal ureter).
+calculus (calipers).
+Although hydronephrosis is usually due to ureteral obstruction, it is possible to have
+hydronephrosis without obstruction. For instance, vesicoureteral reflux or pregnancy
+may cause a dilated ureter without obstruction. Pregnancy preferentially affects the
+right side.
+Likewise, obstruction without hydronephrosis may also be seen in:
+Very acute obstruction.
 
 ---
 
+### Higher resistive indices correlate with higher resistance.
 
+![Page 495](/core_radiology/images/ultrasound/page-495.png)
 
-
-
-### 嗜酸細胞瘤 / Oncocytoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **嗜酸細胞瘤**是源於腎小管細胞的良性腎腫瘤
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **與RCC鑑別** | 無法區分；可低/等/高迴聲 |
-
-
-
-| **都卜勒** | 可能顯示輻條車輪樣血管模式 |
-
-
-
-
+Higher resistive indices correlate with higher resistance.
+With no diastolic flow, RI = PSV/PSV = 1
+Reversal of diastolic flow technically causes RI >1, although in such cases RI is not measured.
+A RI of >0.7 on the affected side, or a difference of >0.1 between kidneys, suggests
+acute obstruction.
+Bilateral elevated RIs (>0.7) are nonspecific and can be due to any number of medical renal
+The resistive index is not used to diagnose chronic obstruction.
+Ureteral jets may be helpful but are controversial
+A ureteral jet is flow of urine into the bladder as seen by color Doppler.
+Flow from the kidney to the bladder would be completely eliminated in complete
+obstruction, so theoretically the presence of a ureteral jet rules out a complete
+obstruction. However, ureteral jets are very commonly seen even with stones, and jets
+are often absent in normal patients.
+Solid renal masses
+Angiomyolipoma (AML)
+An angiomyolipoma is a benign hamartoma made up of blood vessels (angio), smooth
+muscle (myo), and fat (lipoma).
+Although benign, there is an increased risk of hemorrhage if >4 cm in size. The
+hemorrhage may be caused by microaneurysm rupture within the vascular elements
+of the AML.
 
 ---
 
+### Renal cell carcinoma (RCC)
 
+![Page 496](/core_radiology/images/ultrasound/page-496.png)
 
-
-
-### 腎細胞癌 / Renal Cell Carcinoma (RCC)
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- **腎細胞癌**是最常見的腎實性腫塊
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **常見迴聲** | 與腎皮質等迴聲 |
-
-
-
-| **其他迴聲** | 可為低迴聲或高迴聲（似AML） |
-
-
-
-| ** RCC特異表現** | 低迴聲環；腫瘤內囊性改變 |
-
-
-
-| **靜脈侵犯** | 腎細胞癌易侵犯腎靜脈；應仔細評估 |
-
-
-
-
-
-##### 分期要點 / Staging Considerations
-
-
-
-
-
-| 分期 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **Robson IIIA** | 腎靜脈侵犯；對手術方式有重要影響 |
-
-
-
-| **腫瘤血栓 vs 單純血栓** | 都卜勒有血流且有动脉波形提示腫瘤血栓 |
-
-
-
-
+Renal cell carcinoma (RCC)
+Renal cell carcinoma: Sagittal ultrasound through the kidney shows a hypoechoic solid mass (arrows)
+with heterogeneous echotexture in the interpolar region. The mass demonstrates vascularity on color
+Doppler (right image).
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Renal cell carcinoma (RCC) is the most common solid renal mass.
+The staging of RCC uses the Robson system, which is discussed in the genitourinary
+RCC is most often isoechoic to renal cortex, but can occasionally be hypoechoic or
+even hyperechoic (mimicking AML). A hypoechoic rim and intratumoral cystic changes
+are typically seen only in RCC, which may help to distinguish it from AML.
+In the presence of a renal mass, the renal veins must be carefully evaluated as RCC
+has a propensity for venous invasion. Venous invasion is Robson stage IIIA, and the
+presence of venous invasion has important implications for surgical approach.
+Color and spectral Doppler are helpful in differentiating bland renal vein thrombus
+(which would not be stage IIIA) from tumor thrombus. Tumor thrombus will have color
+Doppler flow with an arterial waveform.
+Renal lymphoma
+Renal lymphoma (most commonly high-grade B-cell) may disseminate hematogenously
+or spread directly from the retroperitoneum to the kidney. Primary renal lymphoma is
+very rare and of uncertain origin as there is no native lymphoid tissue within the kidney.
 
 ---
 
+### Renal sinus cyst
 
+![Page 497](/core_radiology/images/ultrasound/page-497.png)
 
-
-
-### 腎淋巴瘤 / Renal Lymphoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 最常見為**高級B細胞淋巴瘤**
-
-
-
-- 可血行播散或直接從後腹膜侵犯腎臟
-
-
-
-- 原發性腎淋巴瘤罕見
-
-
-
-
-
-##### 超音波表現 / Ultrasound Findings
-
-
-
-
-
-| 特徵 | 描述 |
-
-
-
-|---|---|
-
-
-
-| **最常見表現** | 多發低迴聲腎腫塊 |
-
-
-
-| **後腹膜淋巴結** | 通常同時存在 |
-
-
-
-| **單一腫塊** | 不常見 |
-
-
-
-| **瀰漫性浸潤** | 引起腎臟增大，罕見 |
-
-
-
-
+Renal sinus cyst
+A cyst in the renal sinus may be a peripelvic or parapelvic cyst. Peripelvic cysts are
+secondary to lymphatic obstruction and are often multiple. In contrast, a parapelvic cyst
+is a renal parenchymal cyst that herniates into the renal sinus and is usually solitary.
+When multiple renal sinus cysts are present (most commonly peripelvic cysts), the
+appearance may mimic hydronephrosis. In contrast to hydronephrosis, renal sinus
+cysts will not be contiguous with each other.
+Renal abscess
+Renal infection, discussed below, may appear as a complex cystic renal mass.
+Cystic renal cell carcinoma
+Although most cases of RCC present as a solid renal mass, a significant minority may
+present as a complex cystic lesion. Worrisome ultrasound findings of a complex cystic
+mass include thick septa, irregular wall thickening, and a mural nodule.
+The Bosniak classification of complex renal masses is based on CT appearance and
+depends on enhancement. The Bosniak classification is described in the genitourinary
+imaging section.
+Renal infection
+Acute diffuse pyelonephritis
+Pyelonephritis is infection of the renal parenchyma, usually by gram-negative urinary
+tract organisms that ascend from the lower genitourinary tract.
 
 ---
 
+### Xanthogranulomatous pyelonephritis
 
+![Page 498](/core_radiology/images/ultrasound/page-498.png)
 
-
-
-## 腎囊腫和囊性腫塊 / Renal Cysts and Cystic Masses
-
-
-
-
-
----
-
-
-
-
-
-### 單純皮質囊腫 / Simple Cortical Cyst
-
-
-
-
-
-##### 超音波診斷標準 / Sonographic Criteria
-
-
-
-
-
-| 標準 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **形態** | 圓形或橢圓形 |
-
-
-
-| **壁** | 薄、無可測量壁 |
-
-
-
-| **內部** | 完全無迴聲 |
-
-
-
-| **後方增強** | 存在 |
-
-
-
-| **邊界** | 銳利、清晰 |
-
-
-
-
+Xanthogranulomatous pyelonephritis
+Xanthogranulomatous pyelonephritis results from repeated cycles of chronic lowgrade infection caused by an obstructing calculus that leads to fibrofatty replacement
+of renal parenchyma.
+On ultrasound, the kidneys are enlarged with areas of mixed echogenicity. A central
+stone is nearly universally present, which may be staghorn in morphology.
+Pyonephrosis
+Pyonephrosis due to malpositioned nephroureteral stent: Initial ultrasound (left image) shows
+moderate hydronephrosis with a subtle echogenic dependent fluid–debris level (arrows). Low-level
+echoes are present within the collecting system. The nephroureteral stent is not visualized.
+Subsequent ultrasound less than 12 hours later (right image) shows marked progression of
+hydronephrosis, a much larger fluid–debris level (arrows), and low level internal echoes within
+the dilated collecting system. Scanning of the distal ureter (not shown) revealed a malpositioned
+nephroureteral stent as the cause of obstruction.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Pyonephrosis is infection of an obstructed collecting system and is a surgical
+emergency. Treatment is emergent relief of obstruction, either with percutaneous
+nephrostomy or ureteral stent.
+Ultrasound features echoes within a dilated collecting system. A fluid level may be present.
+HIV associated nephropathy
+The HIV virus may directly infect the renal parenchyma to produce HIV nephropathy,
 
 ---
 
+### Autosomal recessive polycystic kidney disease (ARPKD)
 
+![Page 499](/core_radiology/images/ultrasound/page-499.png)
 
-
-
-### 腎竇囊腫 / Renal Sinus Cyst
-
-
-
-
-
-##### 分類 / Classification
-
-
-
-
-
-| 類型 | 起源 | 數量 |
-
-
-
-|---|---|---|
-
-
-
-| **腎竇周囊腫（Peripelvic）** | 淋巴管阻塞 | 常多發 |
-
-
-
-| **腎竇旁囊腫（Parapelvic）** | 腎實質囊腫突入腎竇 | 常單發 |
-
-
-
-
-
-##### 鑑別診斷 / Differential Diagnosis
-
-
-
-
-
-- 多發腎竇囊腫可能類似**腎積水**
-
-
-
-- 區分點：囊腫**不相連**；腎積水所有擴張空間**相連**
-
-
-
-
+Autosomal recessive polycystic kidney disease (ARPKD)
+Autosomal recessive polycystic kidney disease (ARPKD) is a diagnosis of infancy.
+Prognosis is poor. If the child survives infancy, hepatic fibrosis usually develops.
+ARPKD presents in utero as enlarged echogenic kidneys since the cysts are too small
+to be individually resolved by ultrasound.
+Acquired renal cystic disease
+Patients on long-term dialysis often develop many small renal cysts superimposed
+upon atrophic kidneys. Acquired cystic disease does confer an increased risk of renal
+cell carcinoma, in contrast to ADPKD.
+Imaging of renal transplant
+Approach to renal transplant
+The goal of ultrasound evaluation after renal transplant is to determine whether
+there is a treatable surgical or vascular complication. Ultrasound is not useful for
+differentiating among the various kinds of parenchymal rejection.
+The transplanted kidney is implanted in the right or left iliac fossa (right more
+commonly), and is often very well imaged due to its superficial location.
+An elevated RI (>0.7) suggests renal dysfunction, but this finding is nonspecific.
+Surgical complications following renal transplant
+Ureteral obstruction is apparent on ultrasound as hydronephrosis.
+Fluid collection (blood, pus, urine) is highly dependent on timing:
 
 ---
 
+### Renal: Specific imaging patterns
 
+![Page 500](/core_radiology/images/ultrasound/page-500.png)
 
-
-
-### 囊性腎細胞癌 / Cystic Renal Cell Carcinoma
-
-
-
-
-
-##### 臨床特點 / Clinical Features
-
-
-
-
-
-- 部分RCC以複雜囊性病變表現
-
-
-
-
-
-##### 超音波警戒表現 / Ultrasound Warning Signs
-
-
-
-
-
-| 表現 | 說明 |
-
-
-
-|---|---|
-
-
-
-| **厚分隔** | 複雜囊性結構 |
-
-
-
-| **不規則壁增厚** | 囊壁不規則 |
-
-
-
-| **壁結節** | 高度懷疑惡性 |
-
-
-
-
-
-##### Bosniak分類 / Bosniak Classification
-
-
-
-
-
-- 基於CT增強表現
-
-
-
-- 描述見泌尿生殖系統影像章節
-
-
-
-
+Renal: Specific imaging patterns
+Medullary nephrocalcinosis
+Medullary nephrocalcinosis: Sagittal ultrasound through the right kidney (left image) shows diffusely
+echogenic renal pyramids (arrows). Coronal CT MIP in bone windows (right image) in a different patient
+demonstrates symmetric cloud-like renal medullary calcification bilaterally.
+differential of
+nephrocalcinosis
+Ultrasound case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Any cause of hypercalcemia and hypercalciuria can cause medullary calcification.
+Hyperparathyroidism is the most common cause of medullary nephrocalcinosis.
+Renal tubular acidosis (distal type).
+Medullary sponge kidney is caused by ectatic tubules in the medullary pyramids leading to stasis and
+stone formation.
+Papillary necrosis.
+In a child, treatment with furosemide can lead to medullary nephrocalcinosis.
+ddx of cortical
+nephrocalcinosis
+Cortical nephrocalcinosis
+Much more rare than medullary nephrocalcinosis, cortical nephrocalcinosis is due to
+diffuse cortical injury.
 
 ---
 
+### Scrotum and testicle
 
+![Page 501](/core_radiology/images/ultrasound/page-501.png)
 
-
-
-> **臨床要點**
-
-> | 疾病 | 關鍵特徵 |
-
-> |---|---|
-
-> | **AML** | 高迴聲；1/3有聲影；與RCC重疊 |
-
-> | **嗜酸細胞瘤** | 無法與RCC區分；輻條車輪血管 |
-
-> | **RCC** | 等迴聲常見；低迴聲環；靜脈侵犯 |
-
-> | **腎淋巴瘤** | 多發低迴聲；後腹膜淋巴結 |
-
-> | **腎竇囊腫** | 多發不相通；與腎積水鑑別 |
-
-> | **囊性RCC** | 厚壁/分隔/結節；Bosniak分類 |
-
-
-
-# Ultrasound - Page 494
-## 脾臟超聲 / Spleen Ultrasound
-
-## 脾臟疾病模式 / Patterns of Splenic Disease
-脾臟疾病超聲模式多元。**脾臟鈣化（Splenic calcification）** 可由肉芽腫性疾病（Granulomatous disease）（散在性或彌漫性）、脾梗塞、脾臟血腫或脾動脈瘤鈣化所致；都卜勒應優先排除血管性病因。**囊腫性脾臟病灶（Cystic splenic lesion）** 超聲檢查務必使用 Color Doppler 排除假性囊腫、血管瘤或脾臟膿腫等病因。**高迴聲性脾臟病灶（Echogenic splenic lesion）** 包括血管瘤（也可呈低迴聲）、錯構瘤及淋巴管瘤；**低迴聲性病灶（Hypoechoic splenic lesion）** 可能為撕裂傷（創傷）、膿腫、淋巴瘤或梗塞（常見於周邊分布）。脾臟腫大（Splenomegaly）定義為矢狀面徑線超過 14 cm，常見於門脈高壓、感染或血液腫瘤疾病。
-
-### 臨床重點 / Clinical Pearls
-
-- 脾臟囊腫病灶優先使用 Color Doppler 排除脾臟假性囊腫（pancreatic pseudocyst）或其他高血流病變
-- 脾梗塞超聲呈楔形（Wedge-shaped）低血流或無血流區域，常分布於周邊
-- 脾腫大常見原因：門脈高壓（輕至中度）、感染（輕至中度）、白血病/淋巴瘤（中至顯著）
+Scrotum and testicle
+Scrotal anatomy
+Epididymis: Function and anatomy
+The epididymis carries sperm away from the testicle to the vas deferens.
+The epididymis is composed of head, body, and tail. The head may measure up to 10 mm.
+The epididymis is normally hypoechoic and has less blood flow compared to the
+testicle. Relatively increased epididymal blood flow can be seen in epididymitis.
+Mediastinum testis: Function and anatomy
+The mediastinum testis is fibrous tissue in the hilum of the testicle, from which fibrous septa
+radiate towards the testicular periphery. It provides structural support to the rete testis.
+Rete testis: Function and anatomy
+The rete testis is a network of tubules that carries sperm from the seminiferous
+tubules to the vas deferens. It functions to concentrate sperm.
+Testicular masses
+Approach to a testicular mass
+Intratesticular masses are usually malignant (90–95%). Conversely, most
+extratesticular masses are benign in an adult, although a pediatric mass in this
+location may be malignant.
+The retroperitoneum should always be evaluated if an intratesticular mass is seen.
+Likewise, if retroperitoneal adenopathy is seen in a reproductive-age male, the
 
 ---
 
+### Malignant germ cell tumors: Nonseminomatous germ cell tumors
 
+![Page 502](/core_radiology/images/ultrasound/page-502.png)
 
-
-
-# Ultrasound - Page 495
-## 腎臟超聲 / Renal Ultrasound
-
-## 腎結石、梗阻與腎積水 / Stones, Obstruction, and Hydronephrosis
-超聲是評估腎結石（nephrolithiasis）的理想工具，可發現腎臟、輸尿管或膀胱內伴有聲影（acoustic shadowing）的迴聲病灶。確診結石後應常規評估是否合併腎積水及腎周積液。腎積水最常見原因為**梗阻性結石**。值得注意的是，腎積水並非一定有梗阻（如：膀胱輸尿管逆流、妊娠）；反之，急性梗阻、脫水或腎盞破裂時也可能無明顯腎積水。鑑別診斷要點：腎竇囊腫（renal sinus cyst）為離散性囊腫病灶，彼此不相通；而真正腎積水的所有液體空間則彼此連通。阻力指數（Resistive index, RI）有助評估急性梗阻：RI >0.7 或兩側差異 >0.1 提示急性梗阻，但慢性梗阻的 RI 無特異性。
-
-### 臨床重點 / Clinical Pearls
-
-- 輸尿管Jet（Ureteral jet）為彩色都卜勒可見的尿液流入膀胱現象；完全梗阻時理論上無Jet，但臨床上常見有Jet仍合併結石
-- 阻力指數（RI）須個別測量兩側，差異 >0.1 比絕對值更有意義
-- 腎竇囊腫 vs 腎積水：前者為離散囊腫不相通，後者為連續性液體擴張
-
----
-
-
-
-
-
-# Ultrasound - Page 496
-## 腎臟超聲 / Renal Ultrasound
-
-## 腎臟：阻力指數與移植腎 / Renal Resistive Index and Transplant
-阻力指數（RI）計算公式為 RI = (PSV - EDV)/PSV，PSV 為收縮期峰值速度，EDV 為舒張末期速度；無舒張期血流時 RI = 1；逆流時 RI > 1 但臨床上不測量。RI >0.7 或兩側差異 >0.1 提示急性梗阻；然而，雙側 RI 升高可見於多種內科腎病（medical renal disease），對慢性梗阻無診斷價值。腎臟移植的超聲目標是偵測可處理的外科或血管併發症，而非區分不同類型的排斥反應；移植腎位於髂窩，表淺所以顯像良好，RI升高提示腎功能障礙但特異性不足。外傷後立即：血腫；術後1-2週：尿囊腫；術後3-4週：膿腫；第二個月及之後：淋巴囊腫（lymphocele）。
-
-### 臨床重點 / Clinical Pearls
-
-- 移植腎血管併發症：腎靜脈血栓（舒張期逆流）、腎動脈狹窄（狹窄處流速升高+ parvus et tardus 波形）
-- 急性排斥反應（術後3個月內）和慢性排斥反應（術後3個月以上）超聲無特異性，需靠切片確診
-- 移植後淋巴增生疾病（PTLD）在超聲上可能類似液體收集，但有都卜勒血流訊號
+Malignant germ cell tumors: Nonseminomatous germ cell tumors (NSGCT)
+Nonseminomatous germ cell tumors (NSGCT) include embryonal carcinoma,
+teratoma, yolk sac tumor, choriocarcinoma, and mixed subtypes.
+Mixed germ cell tumor is the most common NSGCT, and is the second most common primary
+testicular malignancy after seminoma. The most common components of mixed NSGCT are
+embryonal carcinoma and teratoma.
+Embryonal cell carcinoma in its pure form is rare and in adults is typically seen as a component of
+mixed germ cell tumors. The infantile form, called endodermal sinus tumor or yolk sac tumor, is the
+most common testicular tumor of infancy. AFP is elevated.
+Teratoma is rare in its pure form in adults, but is seen in 50% of mixed NSGCT. Teratoma is classified
+as mature, immature, and malignant. In adults, teratomas are usually malignant. In children,
+teratomas are usually benign, with the mature subtype most commonly seen.
+Choriocarcinoma is the most aggressive and rare NSGCT. Choriocarcinoma metastasizes early,
+especially to brain and lung. Metastases tend to be hemorrhagic. hCG is always elevated and
+gynecomastia may result from elevated chorionic gonadotropins.
+NSGCT generally occur in younger patients compared to seminomas, typically in young
+men in their 20s and 30s. NSGCT tend to be more aggressive than seminomas. Local
+invasion into the tunica albuginea and visceral metastases are common.
+A heterogeneous testicular mass that contains solid and cystic components and coarse
+calcification is a typical appearance for a NSGCT. It is not possible to distinguish the
 
 ---
 
+### Sex-cord stromal tumors are 90% benign but are sonographical
 
+![Page 503](/core_radiology/images/ultrasound/page-503.png)
 
-
-
-# Ultrasound - Page 497
-## 腎臟超聲 / Renal Ultrasound
-
-## 腎臟實性腫塊 / Solid Renal Masses
-腎臟實性腫塊包括三種主要良性及惡性病灶。**血管肌肉脂肪瘤（Angiomyolipoma, AML）** 為良性錯構瘤，由血管、平滑肌及脂肪組成，因脂肪成分超聲呈高迴聲；直徑 >4 cm 時出血風險增加；約三分之一可見聲影，為AML特異性表現；AML亦為結節性硬化症（tuberous sclerosis）的常見表現。**嗜酸細胞瘤（Oncocytoma）** 為良性腎腫瘤，與腎細胞癌（RCC）在超聲上無法區分，有時可見「車輻狀（spoke-wheel）」血管分佈；因影像重疊，手術切除為標準治療。**腎細胞癌（Renal cell carcinoma, RCC）** 為最常見腎臟實性腫瘤，多呈等迴聲（isoechoic），需注意腎靜脈侵犯（右側腎細胞癌屬Robson分期 IIIA）；彩色都卜勒有助區分瘤栓（tumor thrombus，有血流及arterial waveform）與單純血栓（bland thrombus，無血流）。
-
-### 臨床重點 / Clinical Pearls
-
-- AML 超聲呈高迴聲時，須與 RCC 鑑別；若有聲影則高度支持 AML
-- RCC 超聲呈低迴聲環（hypoechoic rim）及腫瘤內囊性改變為RCC特徵
-- 發現腎臟腫塊時務必檢查腎靜脈有無瘤栓（Robson IIIA）
-
----
-
-
-
-
-
-# Ultrasound - Page 498
-## 腎臟超聲 / Renal Ultrasound
-
-## 腎囊腫與囊性腫塊 / Renal Cysts and Cystic Masses
-腎囊腫疾病涵蓋良性囊腫到複雜囊腫。**單純皮質囊腫（Simple cortical cyst）** 需具備所有單純囊腫標準：壁極薄、無迴聲內容物、後方超聲增強效應。**腎竇囊腫（Renalsinus cyst）** 包括周圍（parapelvic）或實質內（peripelvic）囊腫；多發性腎竇囊腫外觀可模擬腎積水，但囊腫彼此不相通（與積水不同）。**腎囊腫ford Bosniak分類** 是複雜囊腫的重要分級系統，與CT強化程度相關。**膿腎（Pyonephrosis）** 為梗阻合併感染的手術急症，超聲可見腎盞/腎盂擴張並有迴聲性液體堆積或液面（fluid-debris level），確診需緊急引流。**HIV腎病變（HIV nephropathy）** 使腎臟呈高迴聲且腫大，為HIV感染腎臟的特異性表現。
-
-### 臨床重點 / Clinical Pearls
-
-- 腎竇囊腫（parapelvic/peripelvic）vs 腎積水：前者離散不相通，後者連續擴張
-- 膿腎（Pyonephrosis）為外科急症，治療需緊急解除梗阻（經皮腎造口或輸尿管支架）
-- Bosniak分類：I=良性囊腫；II=簡單囊腫含纖細隔膜或輕微鈣化；IIF=需追蹤；III=疑似恶性（需手術）；IV=惡性囊腫
-- HIV腎病變：腎臟腫大且高迴聲（即使不腫大也有特異性）
+Sex-cord stromal tumors are 90% benign but are sonographically indistinguishable
+from malignant tumors. Orchiectomy is therefore the standard treatment.
+Leydig cell tumor can present with gynecomastia due to estrogen secretion.
+Sertoli cell tumor is associated with Peutz–Jeghers and Klinefelter syndromes.
+Sarcoidosis
+Sarcoidosis may involve either the testis, the epididymis, or both. Scrotal involvement
+is rare, but presents clinically as painless scrotal enlargement.
+The ultrasound appearance of testicular sarcoid is indistinguishable from a solid malignant
+mass. If sarcoidosis is suggested by clinical history, the testicular mass must be biopsied to
+exclude malignancy. Without tissue pathology, a mass cannot be assumed to be sarcoid.
+Benign testicular tumor mimics
+Congenital adrenal rests are embryologic remnants of adrenal tissue trapped within
+the testis. These are typically seen in newborns with congenital adrenal hyperplasia.
+Adrenal rests appear as bilateral hypoechoic masses and classically enlarge with ACTH exposure.
+Polyorchidism/supernumerary testis: An extra testicle has an identical imaging
+appearance to normal testicular parenchyma.
+Extranumerary testes carry a slightly increased risk of torsion and testicular cancer.
+Extra-testicular masses
+In contrast to intratesticular masses, extratesticular masses are usually benign. Up
+to 16% of extratesticular masses may be malignant, however, and ultrasound cannot
 
 ---
 
+## 脾臟與睪丸 / Spleen and Scrotum
 
+### On ultrasound, varicoceles appear as multiple tubular and se
 
+![Page 504](/core_radiology/images/ultrasound/page-504.png)
 
-
-# Ultrasound - Page 499
-## 腎臟超聲 / Renal Ultrasound
-
-## 腎臟感染 / Renal Infection
-腎臟感染從輕微到危及生命有不同程度表現。**急性瀰漫性腎盂腎炎（Acute diffuse pyelonephritis）** 多數超聲表現正常，偶見腎臟水腫及充血。**局灶性腎盂腎炎（Focal pyelonephritis）** 超聲呈低迴聲團塊，邊界不清，侵犯皮髓交界；需與腎膿腫或腫瘤鑑別。**腎膿腫（Renal abscess）** 超聲為輪廓清晰的厚壁囊性腎臟團塊，內部迴聲多變；<3 cm可保守抗生素治療，較大者常需引流。**氣腫性腎盂腎炎（Emphysematous pyelonephritis）** 為急重症，由產氣菌（常為大腸桿菌）引起，幾乎僅見於糖尿病或免疫抑制病患，超聲可見腎實質內高迴聲伴骯髒聲影（dirty acoustic shadowing），需緊急手術，死亡率可達40%。**黃色肉芽腫性腎盂腎炎（Xanthogranulomatous pyelonephritis, XGP）** 由慢性梗阻性結石反覆感染導致，腎臟腫大伴混合性迴聲，幾乎皆有結石（可為鹿角狀）。
-
-### 臨床重點 / Clinical Pearls
-
-- 急性腎盂腎炎超聲多正常，臨床確診依靠尿液培養；超聲主要用於排除併發症
-- 氣腫性腎盂腎炎為外科急症，死亡率極高，須緊急會診
-- XGP常見鹿角狀結石（staghorn calculus），與腎細胞癌鑑別困難
-- 膿腎（pyonephrosis）超聲可見「液面（fluid-debris level）」為關鍵特徵
-
----
-
-
-
-
-
-# Ultrasound - Page 500
-## 腎臟超聲 / Renal Ultrasound
-
-## 自體顯性多囊腎與移植腎 / ADPKD and Renal Transplant
-自體顯性多囊腎（ADPKD）** 為成人最常見多囊腎病因，與肝囊腫及其他器官囊腫相關，15%合併腦部囊狀動脈瘤（saccular cerebral aneurysm），自然病程為中年期腎衰竭。超聲可見腎臟顯著腫大，無數大小不一的囊腫；ADPKD不增加RCC風險，但囊腫內複雜性出血難與RCC區分。**自體隱性多囊腎（ARPKD）** 為嬰兒期確診，預後差，若存活則常見肝纖維化；超聲可見腎臟腫大呈高迴聲（囊腫太小無法個別解析）。**後天囊性疾病（Acquired cystic disease）** 見於長期透析患者，囊腫小且位於萎縮腎臟，確實增加RCC風險（與ADPKD不同）。腎臟移植超聲用於偵測外科及血管併發症：移植腎置於髂窩（右側較常見），RI >0.7 提示腎功能障礙但特異性不足。
-
-### 臨床重點 / Clinical Pearls
-
-- ADPKD 超聲確診後應同時評估肝囊腫及顱內囊狀動脈瘤（MRA篩檢）
-- ARPKD 在胎兒時期即可能發現，腎臟呈高迴聲為特色
-- 移植腎後天囊性疾病需長期追蹤腎細胞癌風險
-- 移植後第一個月內：血腫；第二、三週：膿腫；第一至二週：尿囊腫；第二個月起：淋巴囊腫
+On ultrasound, varicoceles appear as multiple tubular and serpentine anechoic
+structures >2 mm in diameter in the region of the upper pole of the testis and
+epididymal head. The varicoceles follow the spermatic cord into the inguinal canal
+and can be compressed by the transducer. Careful optimization of Doppler parameters
+shows the slow venous flow within the varicocele.
+Epididymal cysts and spermatocele
+An epididymal cyst is an anechoic fluid-containing cyst that can occur anywhere in the
+epididymis.
+A spermatocele is cystic dilation of the epididymis filled with spermatozoa, usually
+occurring in the epididymal head. Classic ultrasound appearance is an epididymal cyst
+with internal low-level mobile echoes.
+A simple epididymal cyst and a spermatocele cannot always be reliably distinguished
+by ultrasound.
+Simple testicular cyst
+A simple testicular cyst meets sonographic criteria for a simple cyst (smooth posterior
+wall, imperceptible wall thickness, completely anechoic, posterior through transmission).
+Tubular ectasia of rete testis
+Tubular ectasia of the rete testes:
+Transverse color Doppler ultrasound of the right testicle (left image) shows cystic dilation at the
+mediastinum testes (arrow). There is no flow within the lesion. This appearance is highly suggestive of
 
 ---
 
+### Vascular disease of the testis
 
+![Page 505](/core_radiology/images/ultrasound/page-505.png)
 
-
-
-# Ultrasound - Page 501
-## 腎臟與睪丸超聲 / Renal and Scrotal Ultrasound
-
-## 腎臟影像模式與睪丸解剖 / Renal Imaging Patterns and Testicular Anatomy
-腎臟有多種特異性影像模式。**髓質腎鈣化（Medullary nephrocalcinosis）** 超聲可見腎椎體呈均勻高迴聲，常見於甲狀旁腺機能亢進（最常見原因），亦可見於腎小管酸中毒、髓質海綿腎（medullary sponge kidney，乳頭狀集合管擴張導致結石）、乳頭壞死等；皮質腎鈣化（cortical nephrocalcinosis）更罕見，可見於急性皮質壞死或高草酸尿症。**高迴聲腎臟（Echogenic kidneys）** 最常見於內科腎病（如糖尿病腎病變），HIV腎病變可致腎臟腫大呈高迺聲。**睪丸、副睪（Epididymis）** 超聲上正常副睪呈低迺聲，血流相對少於睪丸；副睪血流相對增加見於副睪炎。**睪丸縱隔（Mediastinum testis）** 為睪丸門處的纖維組織，支持網狀睪丸（rete testis）。**網狀睪丸（Rete testis）** 為連接曲細精管與輸精管的管道網路，功用為濃縮精子。
-
-### 臨床重點 / Clinical Pearls
-
-- 髓質腎鈣化常為雙側對稱，與乳頭壞死、甲狀旁腺亢進、腎小管酸中毒相關
-- 睪丸網狀擴張（Tubular ectasia of rete testis）為老年男性常見良性發現，為睪丸門處囊性擴張
-- 副睪增大且血流增加提示副睪炎，與睪丸血流減少的扭轉形成對比
-- HIV腎病變：腎臟高迴聲為特異性表現，但僅20%出現腎臟腫大
-
----
-
-
-
-
-
-# Ultrasound - Page 502
-## 睪丸超聲 / Scrotal Ultrasound
-
-## 睪丸腫塊與掃描方法 / Testicular Masses and Scanning Approach
-睪丸腫塊的處理原則：睪丸內病灶惡性率達90-95%，而成人睪丸外病灶多為良性。發現睪丸內腫塊時，應同時檢查後腹膜淋巴結；發現後腹膜淋巴結病變的生育年齡男性，應常規檢查睪丸。**精細胞瘤（Seminoma）** 為最常見睪丸惡性腫瘤，好發於中年男性，典型超聲為單一均勻低迴聲團塊，可合併微石症（microlithiasis）；約5-10% hCG輕度升高。**非精細胞性胚細胞瘤（NSGCT）** 包括胚胎癌、畸胎瘤、絨毛膜癌、卵黃囊瘤及混合型；好發於20-30歲年輕男性，常見混合性實質及囊性病灶。**萎縮性胚細胞瘤（Burnt-out germ cell tumor）** 為原發性睪丸腫瘤已退變但轉移灶仍存活；睪丸內可見鈣化伴聲影，治療為睪丸切除+化療。
-
-### 臨床重點 / Clinical Pearls
-
-- 精細胞瘤超聲為均勻低迴聲（勻質），而NSGCT常呈混合性（實質+囊性+粗大鈣化）
-- 睪丸微石症（Testicular microlithiasis）：需≥5個微石才確診，與睪丸腫瘤有爭議性關聯
-- 睪丸病灶即使有創傷史，仍須進一步評估排除惡性
-- 睪丸內病灶血流增加（高舒張期血流，低阻力波形）為惡性特徵
+Vascular disease of the testis
+Testicular torsion
+Testicular torsion is twisting of the testicle around the spermatic cord and the vascular
+pedicle. Torsion presents with acute scrotal pain and is a surgical emergency.
+Torsion may lead to irreversible testicular infarction if not de-torsed within a few hours.
+De-torsion within 6 hours has an excellent prognosis.
+De-torsion after 24 hours has a poor prognosis for testicular salvage.
+The bell-clapper deformity predisposes to torsion due to a small testicular bare area. The
+bare area is the testicular attachment site and normally prevents the testicle from rotation.
+Ultrasound findings of torsion are dependent on the time elapsed since torsion:
+Hyperacute (within a few hours): Ultrasound shows a hyperechoic and shadowing torsion knot of
+twisted epididymis and spermatic cord, with no blood flow in the affected testicle.
+Acute (between a few hours and 24 hours): Affected testicle is enlarged and heterogeneous.
+Missed torsion (>24 hours): Affected testicle is enlarged and mottled, with scrotal skin thickening
+and increased flow in the scrotal wall. A complex or septated hydrocele may be present.
+Segmental infarction
+Segmental infarction is a focal testicular infarction that can be due to microvascular
+thrombosis from acute inflammation, vasculitis, or sickle cell disease.
+Patients are typically in their 30s and present with acute pain which may mimic
+epididymitis or torsion clinically.
 
 ---
 
+### Scrotal infection
 
+![Page 506](/core_radiology/images/ultrasound/page-506.png)
 
-
-
-# Ultrasound - Page 503
-## 睪丸超聲 / Scrotal Ultrasound
-
-## 睪丸外病灶與陰囊囊腫 / Extratesticular Masses and Scrotal Cysts
-睪丸外病灶多為良性，但仍有約16%可能為惡性。**精索脂肪瘤（Spermatic cord lipoma）** 為最常見睪丸外腫瘤；**腺瘤樣瘤（Adenomatoid tumor）** 為最常見副睪腫瘤（來源於鞘膜）。**鞘膜積液（Hydrocele）** 為睪丸周圍液體堆積，可為先天性（源於未閉合的腹膜鞘突）、特發性或發炎後性。**精索靜脈曲張（Varicocele）** 為陰囊靜脈曲張，85%發生於左側（左精索靜脈回流至左腎靜脈，受腸繫膜上動脈壓迫）；右側獨立發生應懷疑後腹膜腫瘤；精索靜脈曲張為男性不孕常見原因（不孕門診中達40%）。**副睪囊腫與精子囊腫（Epididymal cyst & Spermatocele）**：副睪囊腫為副睪任一部位的無迴聲囊腫；精子囊腫為副睪頭部囊性擴張，內含精子，超聲可見內部低水平移動性迴聲。
-
-### 臨床重點 / Clinical Pearls
-
-- 精索靜脈曲張85%位於左側；右側獨立發生需排除後腹膜腫瘤
-- 副睪囊腫與精子囊腫超聲有時難以區分，臨床意義相近（均為良性）
-- 陰囊創傷後血腫超聲呈高迴聲、無血流；與睪丸腫瘤鑑別要點為有無都卜勒血流
-- 鞘膜積液內若見液面（fluid-debris level）提示血腫或感染
-
----
-
-
-
-
-
-# Ultrasound - Page 504
-## 睪丸超聲 / Scrotal Ultrasound
-
-## 睪丸扭轉與感染 / Testicular Torsion and Infection
-**睪丸扭轉（Testicular torsion）** 為睪丸沿精索血管蒂扭轉的手術急症，數小時內即可造成不可逆性缺血壞死；6小時內解除預後極佳，超過24小時預後不良。超聲表現與扭轉時間相關：超急性期（數小時內）：睪丸可呈高迴聲並可見扭轉的副睪/精索結節（「鈴錘徵 bell-clapper deformity」使睪丸容易扭轉），血流減少或消失；急性期（數小時至24小時）：睪丸腫大且迴聲不均；延遲（>24小時）：睪丸腫大且花斑樣，可能有鞘膜積液。**副睪炎（Epididymitis）** 為副睪感染，超聲可見副睪腫大、血流增加（正常副睪血流低於睪丸，此時副睪反而血流相對豐富），常合併鞘膜積液。**壞死性筋膜炎（Fournier gangrene）** 為陰囊/會陰部壞死性筋膜炎，手術急重症，超聲特徵為皮下組織內多發高迴聲reflectors伴骯髒聲影（代表氣體）。
-
-### 臨床重點 / Clinical Pearls
-
-- 睪丸扭轉都卜勒無血流；副睪炎血流反而增加——兩者最重要的都卜勒鑑別點
-- 壞死性筋膜炎的「皮下氣體」超聲為高迴聲伴骯髒聲影，為手術急症
-- 睪丸創傷後破裂（rupture）為外科急症，需的手術修復而非保守治療
-- 部分性睪丸梗塞（segmental infarction）可類似腫瘤，需MRI或短期追蹤鑑別
+Scrotal infection
+Epididymitis
+Epididymitis: Sagittal grayscale ultrasound (left image) of the testicle and epididymis shows a markedly
+enlarged epididymis measuring 1.7 cm (calipers). Incidental note is made of an epididymal cyst (arrow).
+The testicle has a normal sonographic appearance. Transverse color Doppler of the epididymis (right
+image) demonstrates markedly increased flow.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Epididymitis is infection of the epididymis, almost always ascending from the urinary
+The classic clinical presentation of epididymitis is acute unilateral scrotal pain.
+The main differential based on clinical presentation is testicular torsion. In contrast to
+torsion, epididymitis features normal testicular blood flow.
+A key ultrasound finding of epididymitis is an enlarged epididymis with increased
+Doppler flow relative to the testicle (normally, the epididymis has less Doppler flow
+than the testicle). An associated hydrocele may be present, which often contains lowlevel echoes.
+Epididymo-orchitis
+Epididymo-orchitis is infection that has spread from the epididymis to the testicle.
+Epididymo-orchitis has a similar ultrasound appearance to epididymitis, but blood
+flow to the testicle will also be increased.
+Infection and secondary inflammation can cause venous hypertension, which is a risk
+factor for focal testicular ischemia.
 
 ---
 
+### Vascular ultrasound
 
+![Page 507](/core_radiology/images/ultrasound/page-507.png)
 
-
-
-# Ultrasound - Page 505
-## 血管都卜勒 / Vascular Doppler
-
-## 血管都卜勒原理 / Vascular Doppler Principles
-超聲都卜勒原理：都卜勒偏移與cos(θ)成正比，θ=90°時無都卜勒偏移；測量角度應標準化為60°以確保測量可重複。**峰值收縮期流速（Peak systolic velocity, PSV）** 為評估狹窄程度最準確的方法，狹窄處及近端PSV升高，狹窄遠端PSV降低；PSV升高可見於狹窄下游、對側代償或健康年輕人的高動力狀態；PSV降低可見於狹窄上游或心輸出量減少。**頸部血管檢查** 包括斑塊形態學評估（無需都卜勒）、血流動力學評估及波形分析；依據SRU標準：PSV >125 cm/s 提示 >50% 狹窄；PSV >230 cm/s 提示 >70% 狹窄；ICA/CCA比值>4提示>70%狹窄。
-
-### 臨床重點 / Clinical Pearls
-
-- 測量速度時角度校正統一定為60°，>60°時測量不準確
-- 頸部斑塊形態學（灰階）評估的是絕對狹窄程度，而都卜勒評估的是功能性狹窄程度
-- 顱內與顱外狹窄的區別：顱外狹窄近端（inflow lesion）=低速低阻波形（tardus et parvus）；狹窄遠端（outflow lesion）=高速高阻波形
-- 腎臟狹窄時（near-total occlusion）可能測不到血流訊號，需與完全閉塞鑑別
+Vascular ultrasound
+General principles
+Angle correction
+The Doppler signal is proportional to cos(θ). There is no Doppler shift at 90°.
+amount of Doppler shift is
+proportional to cos(θ)
+at 90° there is zero Doppler shift
+All measurements of velocity should be made at a consistent angle (typically 60°).
+Measurements should never be taken at an angle greater than 60°.
+Overview of peak systolic velocity (PSV)
+Peak systolic velocity (PSV) is usually the most accurate method to evaluate the
+degree of arterial stenosis. PSV is elevated proximal to and at the site of stenosis.
+PSV may be decreased distal to a hemodynamically significant stenosis.
+The differential diagnosis of increased PSV includes:
+Downstream (distal) stenosis.
+Compensatory flow, contralateral to an obstruction or severe stenosis.
+Physiologic hyperdynamic state in a healthy young patient.
+The differential diagnosis of decreased PSV includes:
+Upstream (more proximal) stenosis.
+Poor cardiac pump function.
 
 ---
 
+### Carotid artery
 
+![Page 508](/core_radiology/images/ultrasound/page-508.png)
 
+Carotid artery
+Color and spectral Doppler parameters
+color scale shows
+red is toward
+(above the baseline)
+Doppler angle
+corrected to 60 degrees
+waveform above
+the baseline
+is toward the probe
+Normal carotid examination: Duplex ultrasound of the right internal carotid artery shows normal spectral
+waveform. The peak systolic velocity is 124 cm/sec, within the normal range. There is no carotid plaque.
+By convention, for images obtained in the sagittal plane, the patient’s head is on the
+left side of the image and the feet are on the right.
+In general, ultrasound parameters are optimized so that arteries are red and normal
+arterial flow is above the baseline. Certain parameters need to be adjusted so that
+arteries above the heart (which are normally heading towards the head) appear
+similar to arteries below the heart (which normally are heading towards the feet):
+The color scale can be changed: Colors above the baseline go towards the probe.
+Spectral Doppler baseline inversion can be changed: Positive waveforms go towards the probe.
 
+---
 
-# Ultrasound - Page 506
+### End diastolic velocity of >100 cm/sec suggests >70% stenosis
+
+![Page 509](/core_radiology/images/ultrasound/page-509.png)
+
+End diastolic velocity of >100 cm/sec suggests >70% stenosis.
+In high and low flow states, the ICA/CCA ratio is more useful than the absolute PSV.
+Waveform analysis
+Stenosis downstream (distal) to transducer (outflow lesion): Spectral waveform is high
+resistance and high velocity in morphology, characterized by decreased diastolic flow.
+The systolic upstroke is normal and rapid. Spectral broadening and aliasing may be
+Spectral broadening describes the widened distribution of RBC velocities due to disruption of
+laminar flow.
+Aliasing is an artifact where the highest velocities are shown to have a reversed flow.
+Stenosis upstream (proximal) to transducer (inflow lesion): Spectral waveform is low
+resistance and low velocity in morphology, with relatively increased diastolic flow.
+Systolic upstroke is slowed, producing the tardus et parvus waveform.
+Carotid stenosis
+Severe internal carotid artery stenosis: Spectral waveform of the proximal internal carotid artery
+(left image) shows spectral broadening and markedly elevated peak systolic velocity of 634 cm/sec,
+consistent with severe stenosis. The grayscale images also show hypoechoic plaque. Evaluation distal to
+the stenosis (right image) shows a parvus et tardus waveform and decreased peak systolic velocity.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Renal artery stenosis
+Renal artery stenosis: Criteria and protocol
+
+---
+
+### Fibromuscular dysplasia (FMD)
+
+![Page 510](/core_radiology/images/ultrasound/page-510.png)
+
+Fibromuscular dysplasia (FMD)
+Fibromuscular dysplasia (FMD) is a vasculitis that primarily affects the renal and
+carotid arteries in middle-aged females.
+The most common location of stenosis in FMD is the distal two thirds of the renal artery.
+The classic angiographic appearance of FMD is a string of pearls caused by multifocal
+alternating stenoses and post-stenotic dilations.
+Deep venous thrombosis (DVT)
+Lower extremity venous system anatomy
+The superficial venous system is composed of the great and small saphenous veins.
+The great saphenous vein drains into the common femoral vein. Although the great saphenous vein
+is technically part of the superficial system, clots near the saphenofemoral junction are typically
+treated with anticoagulation because of their propensity to become dislodged.
+The small saphenous vein drains into the popliteal vein (which continues proximally as the femoral
+vein). Clots in the small saphenous vein are typically not treated.
+Deep venous system anatomy mirrors arterial anatomy:
+common femoral vein
+deep femoral vein
+femoral vein
+adductor hiatus
+popliteal vein
+
+---
+
+### The popliteal, femoral, proximal deep femoral, and common fe
+
+![Page 511](/core_radiology/images/ultrasound/page-511.png)
+
+The popliteal, femoral, proximal deep femoral, and common femoral (including the
+saphenofemoral junction) veins should be imaged every 2–3 cm with and without
+compression.
+Venous compression
+The hallmark sonographic finding of a DVT is a noncompressible vein with or without
+an intraluminal clot. A partially thrombosed vein may be partially compressible, while
+a completely thrombosed vein will not be compressible at all.
+Color Doppler is almost always used to help localize the veins, but it is not necessary
+for diagnosing DVT.
+Normal color Doppler flow in a noncompressible vein is suspicious for nonobstructing
+Color Doppler
+Acute versus chronic deep venous thrombosis
+While the diagnosis of DVT is usually straightforward, distinguishing between acute
+and chronic thrombus can be difficult. Evaluation of the clot’s echogenicity is not a
+reliable way to determine the acuity of the clot as artifactual echoes within the vein
+lumen can overlap with the clot.
+Sonographic findings of chronic venous thrombus include clot retraction and poor
+visualization of the clot, only partial compressibility, irregularly echogenic and
+thickened vein walls, and prominent collateral veins.
+Aortic disease
+
+---
+
+### Aortic dissection
+
+![Page 512](/core_radiology/images/ultrasound/page-512.png)
+
+Aortic dissection
+In aortic dissection, a tear in the intima allows blood into the media. The characteristic
+intimal dissection flap is typically echogenic.
+Color Doppler may show flow in both true and false lumens, often with different flow
+Thyroid and parathyroid
+Diffuse thyroid disease
+Hashimoto thyroiditis (chronic lymphocytic thyroiditis)
+Hashimoto thyroiditis is an autoimmune disease that ultimately produces destruction
+of the thyroid gland parenchyma. It is the most common cause of hypothyroidism.
+Hashimoto thyroiditis can present with a variety of clinical findings, thyroid function
+test results, and imaging appearances, dependent on the duration and severity of the
+Ultrasound may show either a diffusely nodular gland or a diffusely coarsened gland
+without a measurable nodule. The isthmus is characteristically thickened.
+Patients with Hashimoto thyroiditis are at increased risk of thyroid lymphoma. Any
+rapidly growing nodule should raise suspicion for lymphoma.
+Graves disease
+Graves disease: Sagittal grayscale ultrasound of the thyroid (left) demonstrates a diffusely enlarged
+gland with coarsened, heterogeneous echotexture. Color Doppler (right image) shows markedly
+increased Doppler flow representing the thyroid inferno sign.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+
+---
+
+### Subacute thyroiditis (de Quervain thyroiditis)
+
+![Page 513](/core_radiology/images/ultrasound/page-513.png)
+
+Subacute thyroiditis (de Quervain thyroiditis)
+Subacute (de Quervain) thyroiditis: Sagittal grayscale thyroid ultrasound (left image) demonstrates
+patchy areas of decreased echogenicity with no discrete nodule. Color Doppler (right image) does not
+demonstrate increased vascularity, in contrast to Graves disease.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Subacute (de Quervain) thyroiditis is granulomatous inflammation of the thyroid,
+thought to be viral in origin. The gland is usually tender and adjacent cervical
+adenopathy is common.
+Ultrasound findings are non-specific and may feature a heterogeneous gland with
+patchy areas of decreased echogenicity.
+Subacute thyroiditis is treated with steroids. Follow-up ultrasound appearance can
+show a dramatic response to treatment.
+Multinodular gland
+The term multinodular gland is preferred over multinodular goiter because goiter is a
+generic term for an enlarged gland, which can have numerous causes.
+• On imaging, a multinodular gland will appear enlarged with innumerable mixed cystic
+and solid nodules.
+Thyroid nodule and thyroid cancer
+Approach to a thyroid nodule
+There are no definitive ultrasound features that distinguish benign from malignant
+
+---
+
+### A typical ultrasound appearance of a nodule suspicious for m
+
+![Page 514](/core_radiology/images/ultrasound/page-514.png)
+
+A typical ultrasound appearance of a nodule suspicious for malignancy is a solid lesion
+with punctate calcifications and irregular margins.
+A completely solid nodule is most suspicious. In general, there is decreasing likelihood of cancer
+with increasing cystic components.
+In general, the likelihood of cancer is dependent on the pattern of calcification. Punctate
+calcifications are the most suspicious, followed by coarse or rim calcifications. Nodules without any
+calcification have the least risk of being malignant.
+Taller-than-wide orientation is an ultrasound feature associated with thyroid cancer (analogous to
+the suspicious breast ultrasound finding of taller-than-wide orientation).
+Papillary cancer is by far the most common histologic subtype of thyroid cancer, and
+confers the best prognosis.
+Follicular and medullary subtypes are less common and more aggressive. The
+anaplastic subtype is very rare and has the worst prognosis.
+Thyroid lymphoma can be seen in patients with long-standing Hashimoto thyroiditis.
+Malignant adenopathy
+Malignant lymph nodes often appear rounder in morphology than benign lymph
+nodes, with irregular margins and speckled or central calcifications.
+Metastatic adenopathy from papillary thyroid cancer has a tendency to undergo cystic
+degeneration. In some cases (especially in young women), a cystic lymph node may be
+the only presenting feature of thyroid cancer and the thyroid gland may be completely
+
+---
+
+### Uterus
+
+![Page 515](/core_radiology/images/ultrasound/page-515.png)
+
+Pelvic anatomy
+Space of Retzius
+The space of Retzius is an extraperitoneal potential space between the pubic
+symphysis and the bladder.
+A mass in the space of Retzius (such as a hematoma) can displace the bladder
+posteriorly.
+In contrast, pelvic or abdominal masses will
+displace the bladder inferiorly or anteriorly.
+endometrium
+The cervix is seen transvaginally in the
+sagittal plane as the most proximal portion
+of the uterus directly posterior to the angle
+of the bladder.
+The cervix is attached to the posterior edge
+of the bladder by the parametrium.
+The cervix and uterus normally form a
+90-degree angle.
+
+---
+
+### Scanning orientation
+
+![Page 516](/core_radiology/images/ultrasound/page-516.png)
+
+Scanning orientation
+Transabdominal
+normal anteflexed uterus
+patient lying
+on her back
+rotate 90 degrees counterclockwise
+for endovaginal orientation
+Endovaginal
+normal anteflexed uterus
+towards the feet
+transvaginal
+orientation
+flipped as if
+patient were
+on her head
+towards the head
+
+---
+
+### Congenital uterine malformations
+
+![Page 517](/core_radiology/images/ultrasound/page-517.png)
+
+Congenital uterine malformations
+Overview of uterine malformations
+Uterine malformations are due to abnormal development of the paired Müllerian
+ducts, which normally fuse during embryogenesis.
+Complete failure of fusion → didelphys uterus.
+Partial failure of fusion → bicornuate uterus.
+Failure of resorption of inter-Müllerian septa → septate uterus (by far most common uterine
+Congenital uterine abnormalities may be associated with urinary tract abnormalities
+such as renal ectopia or agenesis. The kidneys should be evaluated if a uterine
+malformation is seen.
+Uterine anomalies increase the risk of reproductive problems since the uterine cavity
+(or cavities) are abnormally small and/or abnormal in contour.
+The American Fertility Society (now known as the American Society of Reproductive
+Medicine) classifies Müllerian duct anomalies. Class I is uterine agenesis/hypoplasia, class II
+is a unicornuate uterus, and classes III through VII represent the anomalies discussed below.
+Didelphys uterus (class III)
+A didelphys uterus is two completely separate uteri and cervices, with complete
+endometrium, myometrium, and serosal surfaces on each side. 75% have a vaginal septum.
+Bicornuate uterus (class IV)
+A bicornuate uterus has two uterine fundi, with a shared proximal lower uterine segment.
+
+---
+
+### Cyclical endometrial thickness
+
+![Page 518](/core_radiology/images/ultrasound/page-518.png)
+
+Cyclical endometrial thickness
+Days 1–4: Menstrual phase. Endometrial thickness <4 mm.
+The endometrium is a thin, echogenic stripe in the menstrual phase.
+MENSTRUAL PHASE
+menstrual phase
+thin echogenic line
+thickness <4 mm
+Days 5–9: Early proliferative phase. Endometrial thickness 4–8 mm.
+Days 10–14: Late proliferative (periovulatory) phase. Endometrial thickness 6–10 mm.
+Estrogen effects dominate in the proliferative phase, causing increased functional zone thickness.
+The endometrium becomes trilaminar with a hypoechoic zone between the endometrial cavity and
+the peripheral echogenic endometrium.
+PROLIFERATIVE PHASE
+proliferative phase
+trilaminar endometrium
+thickness 4−10 mm
+Days 15–28: Secretory phase: Endometrial thickness 7–14 mm.
+Progesterone effects dominate in the secretory phase, causing the functional layer to becomes
+even thicker, soft, and edematous as the spiral arteries become tortuous. The functional layer
+increases in echogenicity and becomes isoechoic relative to the basal layer.
+
+---
+
+### Endometrial polyp
+
+![Page 519](/core_radiology/images/ultrasound/page-519.png)
+
+Endometrial polyp
+An endometrial polyp can cause mucous discharge or irregular vaginal bleeding
+between cycles. Most endometrial polyps are benign, but larger polyps (>1.5 cm) or
+polyps occurring in postmenopausal patients may have malignant potential.
+Ultrasound shows a focal nodular area of endometrial thickening, often with a feeding
+vessel by Doppler. A polyp is more definitively diagnosed by sonohysterogram, where
+saline is instilled into the uterus prior to transvaginal ultrasound.
+Tamoxifen effect
+Tamoxifen is an estrogen agonist/antagonist used in the treatment of breast cancer. It
+acts as an antagonist at the breast and an agonist at the endometrium.
+Tamoxifen can cause endometrial hyperplasia, metaplasia, and carcinoma.
+Ultrasound shows irregular, cystic endometrium, which may simulate endometrial
+cancer or endometrial cystic atrophy.
+Most women on tamoxifen are screened by ultrasound every 6 months for
+endometrial carcinoma.
+Endometrial cancer and postmenopausal endometrial thickness
+Endometrial cancer: Grayscale ultrasound of the uterus (left image) shows a mildly echogenic, irregular
+endometrial mass (arrows). Fluid in the endometrial canal has likely accumulated due to cervical
+stenosis. Color Doppler shows vascularity within the mass.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+
+---
+
+### Ectopic endometrium
+
+![Page 520](/core_radiology/images/ultrasound/page-520.png)
+
+Ectopic endometrium
+Endometriosis
+Endometriosis is ectopic endometrial tissue outside of the endometrial cavity.
+An endometrioma is a hemorrhagic focus of ectopic endometrial tissue.
+The classic ultrasound appearance of an endometrioma is a well-defined complex cyst
+with homogeneous low-level internal echoes and increased through transmission.
+Small linear echogenic foci are often seen at the cyst periphery. This classic
+appearance isn’t always seen and occasionally an endometrioma may appear similar
+to a neoplasm.
+While the ovary is the most common site of involvement, endometriosis may affect
+the adnexa, pelvic viscera, or even organs outside of the pelvis, such as the brain.
+Adenomyosis
+Adenomyosis is endometrial tissue within the myometrium. Adenomyosis typically
+presents with menorrhagia and pain.
+Ultrasound shows heterogeneous myometrium, typically more prominent in the
+posterior wall, associated with subendometrial cysts. The uterus may be globular
+and enlarged and there is often poor differentiation of the endometrial–myometrial
+border. Focal adenomyosis, known as an adenoma, may simulate a fibroid.
+Fibroid (leiomyoma)
+Fibroids are extremely common benign tumors of smooth muscle seen in 25% of
+
+---
+
+### Miscellaneous uterine disease
+
+![Page 521](/core_radiology/images/ultrasound/page-521.png)
+
+Miscellaneous uterine disease
+Endometrial fluid
+It is never normal to have more than a tiny amount of fluid in the endometrial canal.
+In a premenopausal woman, endometrial fluid can be due to bleeding from menses or
+spontaneous abortion.
+In a postmenopausal woman, endometrial fluid can be due to cervical stenosis, and a
+careful evaluation for cervical malignancy should be performed.
+Uterine infections
+Endometritis is inflammation or infection of the endometrium, and is commonly seen
+postpartum, typically with no specific findings on ultrasound. Gas in the uterus may be
+normal up to 3 weeks postpartum (seen in 7% of normal cases), but gas in the uterus
+later than 3 weeks after delivery may represent endometritis.
+Pyometra (pus within the uterus) is very rare and usually due to outflow obstruction.
+An evaluation for cervical malignancy should be performed.
+Intrauterine device (IUD)
+The ultrasound appearance of an intrauterine device (IUD) is dependent on the type
+Mirena IUD (delivers progesterone): Shadowing structure in endometrial canal.
+Conventional IUD: Highly echogenic.
+Potential complications of an IUD are rare but serious:
+Increased risk of infection with prolonged IUD use, especially actinomycosis.
+
+---
+
+### Ovaries and adnexa
+
+![Page 522](/core_radiology/images/ultrasound/page-522.png)
+
+Ovaries and adnexa
+Anatomy and physiology
+four segments of the fallopian tube
+dual blood supply of the ovaries
+(from aorta)
+interstitial/intramural
+isthmus ampulla
+infundibulum
+endometrium
+(from internal iliac)
+There is a dual blood supply to the ovary:
+The ovarian artery comes directly off the aorta to supply the lateral aspect of the ovary.
+A branch of the uterine artery arises from the internal iliac artery to supply the medial aspect of
+The fallopian tube is divided into four segments, from proximal to distal:
+Interstitial (intramural) is the narrowest segment.
+Infundibulum.
+
+---
+
+### Ovarian cysts
+
+![Page 523](/core_radiology/images/ultrasound/page-523.png)
+
+Ovarian cysts
+Physiologic simple cyst (in a premenopausal patient)
+SRU consensus
+(premenopausal)
+A simple ovarian cyst is a round or oval anechoic structure with smooth and
+imperceptibly thin walls, posterior acoustic enhancement, and lack of worrisome
+features such as solid components, septations, or internal flow on color Doppler.
+A simple ovarian cyst is a follicle that physiologically enlarges from estrogen
+stimulation as a normal part of the menstrual cycle.
+The Society of Radiologists in Ultrasound (SRU) published a consensus in 2010 regarding
+management of asymptomatic ovarian and adnexal cysts imaged at ultrasound.
+Cysts ≤3 cm do not need to be described in the report, and there is no need for follow-up.
+Cysts >3 and ≤5 cm should be mentioned in the report and described as benign, with no follow-up
+Cysts >5 and ≤7 cm are almost certainly benign but should be followed annually.
+Cysts >7 cm should be evaluated by MRI or surgery, as a full ultrasound assessment is difficult.
+SRU consensus
+menopausal)
+Postmenopausal simple ovarian cyst
+Cysts ≤1 cm do not need to be reported or followed.
+Cysts >1 cm and ≤7 cm are almost certainly benign, but should be described and followed annually
+
+---
+
+### An acutely hemorrhagic cyst may be hyperechoic and potential
+
+![Page 524](/core_radiology/images/ultrasound/page-524.png)
+
+An acutely hemorrhagic cyst may be hyperechoic and potentially mimic a solid mass, but will
+usually show posterior enhancement. As the clot dissolves, the internal echo pattern becomes
+more complex to produce characteristic web-like internal echoes. Retractile mural clot features
+concave margins and absent Doppler flow. in contrast, a solid mural nodule features a convex
+margin and internal flow.
+Ovarian hyperstimulation syndrome (OHSS)
+Ovarian hyperstimulation syndrome: Sagittal grayscale ultrasound of the right upper quadrant (left
+image) shows a large amount of ascites. Right lower quadrant ultrasound (right image) shows a
+markedly enlarged ovary (calipers measure greater than 8 cm), with numerous enlarged follicles. The
+patient was receiving infertility treatment.
+Ovarian hyperstimulation syndrome (OHSS) is a complication of fertility treatment,
+thought to be due to VEGF dysregulation causing capillary leak.
+The criteria for diagnosis of OHSS include abdominal pain, enlargement of the ovary
+to greater than 5 cm, and presence of either ascites or hydrothorax. At least one
+additional laboratory or clinical symptom must be met, including elevated hematocrit
+(≥45%), elevated WBC (>15,000), elevated LFTs, acute renal failure, or dyspnea.
+OHSS increases the risk of ovarian torsion and ectopic pregnancy.
+Polycystic ovarian syndrome (PCOS)
+Polycystic ovarian syndrome is a clinical syndrome of obesity, insulin resistance,
+anovulation, and hirsutism secondary to excess androgens.
+
+---
+
+### Peritoneal inclusion cyst
+
+![Page 525](/core_radiology/images/ultrasound/page-525.png)
+
+Peritoneal inclusion cyst
+A peritoneal inclusion cyst is a septated fluid collection formed by adhesions from
+prior surgery. The ovary is always closely associated with the peritoneal inclusion cyst,
+either trapped within or adjacent to it.
+It is important not to recommend surgery for treatment of a peritoneal inclusion cyst,
+as further surgery may create additional adhesions.
+The main differential of a peritoneal inclusion cyst is a cystadenoma, which has thick
+septations and tends to exert mass effect.
+Dilated fallopian tube
+The fallopian tube may become distended due to infection, inflammation, or traction
+from pelvic adhesions.
+A hydrosalpinx is a fluid-filled fallopian tube lacking internal echoes. Ultrasound
+shows a dilated, anechoic, paraovarian tubular structure with incomplete septations.
+The incomplete septations represent infoldings of the tubular walls.
+Hematosalpinx is a blood-filled fallopian tube that can be seen in the setting of a
+ruptured ectopic pregnancy or endometriosis. Imaging will show internal echoes
+within the dilated tube.
+Pyosalpinx is a pus-filled fallopian tube resulting from pelvic inflammatory disease. As
+in hematosalpinx, imaging will show internal echoes within the dilated tube.
+Vascular adnexal disease
+
+---
+
+### Ovarian neoplasm
+
+![Page 526](/core_radiology/images/ultrasound/page-526.png)
+
+Ovarian neoplasm
+Dermoid cyst
+Dermoid cyst: Grayscale ultrasound image of the right ovary (left image) shows a complex ovarian cyst
+with a densely echogenic, shadowing focus centrally representing the Rokitansky nodule (arrow). Color
+Doppler shows the dot-dash sign, echogenic shadowing, and no significant internal Doppler flow.
+Dermoid cyst, also called a mature cystic teratoma, is the most common ovarian neoplasm.
+Technically, a teratoma contains all three primitive germ cell layers, while a dermoid cyst
+may contain only two. In general use, however, these terms are interchangeable.
+Dermoid cysts are benign. Malignant transformation is very rare and typically occurs
+in postmenopausal patients.
+A dermoid cyst can act as a lead point for adnexal torsion.
+The classic ultrasound appearance of a dermoid cyst is a complex ovarian cyst with an
+echogenic Rokitansky nodule, a mural nodule containing solid elements. The imaging
+appearance can be variable, however, and other common imaging features include:
+The dot-dash pattern describes interrupted echogenic lines thought to be produced by keratin fibers.
+The tip of the iceberg sign describes obscuration of the deeper contents due to high-attenuation material.
+CT or MRI will confirm the presence of fat in ambiguous cases.
+Ovarian cancer
+Ovarian cancer is the sixth most common cancer in females, but is the leading cause
+of death from gynecologic malignancy as it commonly presents at an advanced stage.
+
+---
+
 ## 甲狀腺與頸部 / Thyroid and Neck
 
-## 甲狀腺瀰漫性疾病 / Diffuse Thyroid Disease
-甲狀腺超聲疾病主要分為瀰漫性及結節性。**橋本氏甲狀腺炎（Hashimoto thyroiditis）** 為自體免疫疾病，是甲狀腺機能減退最常見原因；超聲可見腺體呈瀰漫性結節樣或均勻粗糙改變，峽部（isthmus）常增厚；橋本患者甲狀腺淋巴癌（thyroid lymphoma）風險增加，甲狀腺快速長大的結節需警覺。**格雷夫斯氏病（Graves disease）** 為TSH受體自體免疫激活引起的甲狀腺機能亢進；超聲可見腺體對稱性腫大、邊界分葉狀；彩色都卜勒可見「甲狀腺地獄（thyroid inferno）」——由動靜脈分流引起的極豐富外週血流訊號，為Graves病特徵。**亞急性甲狀腺炎（Subacute/ de Quervain thyroiditis）** 為肉芽腫性炎症，疑似病毒引起，腺體壓痛明顯；超聲可見斑片狀低迴聲區域，但血流不增加（與Graves病不同）；類固醇治療效果顯著。
-
-### 臨床重點 / Clinical Pearls
-
-- 甲狀腺inferno sign（甲狀腺地獄）= Graves病的特徵性彩色都卜勒表現，腺體內極豐富血流
-- 亞急性甲狀腺炎的超聲特徵：低迴聲斑片但血流不增加，類固醇治療後快速好轉
-- 橋本氏甲狀腺炎：峽部增厚為特色發現；快速長大的結節需排除甲狀腺淋巴癌
-- 多結節性腺體（MNG）= 多發混合囊性及實質結節的腫大甲狀腺，需與單發結節鑑別惡性風險
-
----
-
-
-
-
-
-# Ultrasound - Page 507
-## 甲狀腺與頸部 / Thyroid and Neck
-
-## 甲狀腺結節與甲狀腺癌 / Thyroid Nodules and Cancer
-甲狀腺結節超聲沒有能確切區分良性與惡性的單一特徵。**甲狀腺癌（Thyroid carcinoma）** 的可疑超聲特徵包括：實質結節、邊緣不規則、點狀鈣化（punctate calcifications，最可疑）、乳頭狀癌最常見且預後最好；完全實質結節最可疑；隨囊性成分增加惡性可能降低；高>寬（taller-than-wide）為甲狀腺癌的特徵。**乳頭狀癌（Papillary carcinoma）** 占甲狀腺癌大宗，預後最佳；**濾泡型及髓質型** 較少見且更具侵襲性；**未分化型（Anaplastic）** 極罕見但預後最差。**惡性淋巴結轉移** 常見於甲狀腺乳頭狀癌轉移，淋巴結可呈圓形、邊緣不規則、Speckled或中心性鈣化；囊性變性也可見於甲狀腺乳頭狀癌的淋巴結轉移（年輕女性以囊性淋巴結為唯一表現的案例並不少見）。**副甲狀腺（Parathyroid）** 正常時超聲不可見；**副甲狀腺囊瘤（Parathyroid adenoma）** 超聲為甲狀腺後方的低迴聲實質結節，Tc-99m sestamibi核醫掃描可協助定位。
-
-### 臨床重點 / Clinical Pearls
-
-- 甲狀腺結節BI-RADS TI-RADS分類：高>寬、實質、點狀鈣化、邊緣不規則=高風險
-- 甲狀腺乳頭狀癌淋巴結轉移可呈囊性，與囊腫性病灶鑑別困難
-- 副甲狀腺囊瘤超聲定位困難時，Tc-99m sestamibi核醫掃描可互補
-- 甲狀腺結節>1cm且為實質性時，多數機構建議FNA切片
-
----
-
-
-
-
-
-# Ultrasound - Page 508
-## 婦科超聲 / Gynecologic Ultrasound
-
-## 子宮解剖與先天畸形 / Uterine Anatomy and Congenital Malformations
-盆腔超聲需了解 Retzius space（膀胱與恥骨聯合之間的腹膜外間隙），此處血腫可將膀胱向後推移；對比之下，盆腔或腹腔腫塊則將膀胱向前或向下推移。**宮頸（Nabothian cysts）** 為宮頸腺體阻塞形成的正常囊腫。**先天性子宮畸形（Uterine malformations）** 源於一對穆勒管的發育異常：完全未融合→雙角雙頸（didelphys）；部分未融合→雙角單頸（bicornuate）；中隔吸收失敗→中隔子宫（septate，最常見）；中隔子宫因中隔組織血供相對不足，是流產最常見的子宫結構性原因。**DES子宫** 為胎兒時期暴露於己烯雌酚，子宮發育不良、T字形宮腔，增加透明細胞癌風險。
-
-### 臨床重點 / Clinical Pearls
-
-- 子宮中隔（septate uterus）= 最常見子宫先天畸形，流產率最高，因中隔血供不足
-- 雙角子宫（bicornuate uterus）= 部分融合失敗，需與中隔子宫鑑別（融合失敗 vs 中隔殘留）
-- 子宮畸形患者應同時評估腎臟（穆勒管發育異常與泌尿系統發育相關）
-- Retzius space血腫將膀胱向後推移，可與盆腔腫塊向前推移膀胱做鑑別
-
----
-
-
-
-
-
-# Ultrasound - Page 509
-## 婦科超聲 / Gynecologic Ultrasound
-
-## 內膜厚度週期變化 / Cyclical Endometrial Changes
-內膜厚度應經陰道超聲在矢狀面上測量，測量最厚處。**月經期（Days 1-4）**：內膜<4 mm，為薄的迴聲帶。**增生期（Days 5-14）**：早期4-8 mm；晚期（排卵前期）6-10 mm；內膜呈三層（trilaminar），為雌素主導時期。**分泌期（Days 15-28）**：厚度7-14 mm；螺旋動脈變迂曲、內膜變厚實水腫，迴聲增加與基底層相等，為黃體素主導時期。**內膜息肉（Endomal polyp）** 超聲可見局部結節樣內膜增厚，常有都卜勒血流供應；更準確診斷可用生理食鹽水注入超聲（sonohysterogram）。**Tamoxifen效應**：Tamoxifen為乳房組織的拮抗劑/子宫組織的激動劑，可引起內膜增生、囊性子宮內膜萎縮或內膜癌；超聲可見不規則囊性內膜增厚。停經後出血婦女：內膜<5 mm基本可排除內膜癌；>8 mm需進一步評估。
-
-### 臨床重點 / Clinical Pearls
-
-- 分泌期內膜可達14mm且呈均勻高迴聲，為正常黃體素效應
-- tamoxifen 子宮超聲追蹤建議每6個月一次，評估內膜癌風險
-- 子宮內膜癌最重要的單一風險因子：停經後出血；風險因子：未孕、肥胖、晚更年期
-- 超聲測量子宮內膜厚度：矢狀面、最厚處、排除內膜液體
-
----
-
-
-
-
-
-# Ultrasound - Page 510
-## 婦科超聲 / Gynecologic Ultrasound
-
-## 內膜息肉與內膜癌 / Endometrial Polyps and Cancer
-**內膜息肉（Endometrial polyp）** 可引起黏稠分泌物或月經間期陰道出血；超聲可見局部結節樣內膜增厚，常有都卜勒血流供應（feeding vessel）；>1.5 cm或停經後患者有惡性可能。**內膜增生（Endometrial hyperplasia）** 超聲可見內膜對稱性增厚；可見於停經後雌素暴露而無黃體素拮抗時。**內膜癌（Endometrial carcinoma）** 超聲可見不規則增厚的內膜團塊伴血流增加；95%以上以停經後陰道出血為表現；超聲若見內膜與肌層界限不清為內膜癌的可疑特徵。內膜厚度測量對象為停經後未出血婦女：<8 mm通常正常；>8 mm需切片；停經後出血婦女：<5 mm幾乎可排除內膜癌（萎縮性出血），>5 mm需進一步評估。**巧克力囊腫（Endometrioma）** 為「異位性子宮內膜」囊腫，超聲呈均勻低迴聲的「磨玻璃」外觀（ground glass），為卵巢之子宮內膜異位症（endometriosis）囊腫。
-
-### 臨床重點 / Clinical Pearls
-
-- 子宮內膜癌：停經後出血+內膜>8mm（或出血者>5mm）需切片確診
-- 子宮內膜癌的超聲特徵：內膜界限不清（與肌層分界模糊）、血流增加
-- 子宮內膜囊腫（endometrioma）=「巧克力囊腫」，典型呈均勻低迴聲「磨玻璃」外觀
-- 子宮內膜息肉：表面平滑、都卜勒有蒂血流（feeding vessel），為良性
-
----
-
-
-
-
-
-# Ultrasound - Page 511
-## 婦科超聲 / Gynecologic Ultrasound
-
-## 卵巢囊腫分類 / Classification of Ovarian Cysts
-卵巢囊腫分為功能性囊腫及病理性囊腫。SRU（Society of Radiologists in Ultrasound）共識指引（2010年）：**停經前**：囊腫≤3 cm不需報告；>3-5 cm為良性（不需追蹤）；>5-7 cm良性但建議每年追蹤；>7 cm建議MRI或手術評估。**停經後**：囊腫≤1 cm不需報告；>1-7 cm良性但建議每年追蹤；>7 cm建議MRI或手術。**功能性囊腫（Functional cyst）**：濾泡囊腫（follicular cyst）為未排卵的濾泡持續增大（>25 mm）；黃體囊腫（corpus luteum cyst）可>3 cm並可呈複雜外觀（高血流並非惡性特徵）。**出血性囊腫（Hemorrhagic cyst）** 超聲可見「網狀（web-like）」內部迴聲，無都卜勒血流；追蹤可確認消退。**多囊卵巢症候群（PCOS）**：超聲標準為>12個小卵泡（周邊排列為主）、無>9 mm者、卵巢體積>10 mL；彩色都卜勒可見卵巢間質血流增加。
-
-### 臨床重點 / Clinical Pearls
-
-- SRU共識：停經前囊腫>7 cm、停經後囊腫>1 cm均建議手術或MRI評估
-- 黃體囊腫（corpus luteum cyst）高血流是正常黃體表現，與惡性腫瘤血流不同
-- 出血性囊腫追蹤後消退可確診；若持續存在需排除卵巢腫瘤
-- PCOS超聲診斷標準：>12個小卵泡/卵巢 + 卵巢體積>10mL + 臨床表現（肥胖/胰島素阻抗/多毛）
-
----
-
-
-
-
-
-# Ultrasound - Page 512
-## 婦科超聲 / Gynecologic Ultrasound
-
-## 卵巢腫瘤與輸卵管疾病 / Ovarian Neoplasms and Tubal Disease
-卵巢腫瘤分為四大組織類型：上皮性（占2/3）、胚細胞瘤、性索-間質細胞瘤及轉移瘤。**皮樣囊腫（Dermoid cyst / Mature cystic teratoma）** 為最常見卵巢腫瘤，超聲經典表現為複雜囊腫伴高迴聲壁結節（**洛基坦斯基結節 Rokitansky nodule**），可見「**點劃紋（dot-dash pattern）**」（keratin纖維產生的斷續高迴聲線）及「**冰山徵（tip of the iceberg sign）**」（高衰減物質遮擋深層內容）；CT或MRI可確診脂肪成分。**卵巢癌（Ovarian cancer）** 為女性第6常見癌症、婦科癌症死因首位；超聲懷疑惡性特徵：壁結節、高血流、厚實/不規則壁或隔膜、腹水、實質成分、乳頭狀突起。**輸卵管積水（Hydrosalpinx）** 超聲可見輸尿管型（fusiform）積液，壁光滑、內部無迴聲，「不完全隔膜（incomplete septations）」為特徵。**卵巢扭轉（Adnexal torsion）** 臨床表現急性腹痛，扭轉後卵巢增大（常>4 cm）、游離液體；卵巢扭轉時因雙重血供（卵巢血管+子宫血管），都卜勒仍可能有部分血流。
-
-### 臨床重點 / Clinical Pearls
-
-- 皮樣囊腫超聲「冰山徵」：淺層可見高迴聲實質團塊，深層結構被遮擋
-- 卵巢扭轉都卜勒評估需謹慎：雙重血供使扭轉早期仍可有部分血流
-- 卵巢囊腫的複雜性（厚隔膜、壁結節、乳頭狀突起）提示惡性
-- 輸尿管積水（hydrosalpinx）需與其他卵巢囊性病灶鑑別：輸尿管積水呈香腸狀、有不完全隔膜
-
----
-
-
-
-
-
-# Ultrasound - Page 513
-## 產科超聲 / Obstetric Ultrasound
-
-## 第一孕期超聲 / First Trimester Pregnancy Ultrasound
-第一孕期超聲評估。**妊娠囊（Gestational sac）** 為最早可見的懷孕影像學證據；經陰道超聲在β-hCG >1500 mIU/mL時可見（正常在第5週可見）。**蛻膜內徵（Intradecidual sign）** = 蛻膜內的妊娠囊（≤5週）；**雙蛻膜徵（Double decidual sac sign）** = 兩層迴聲環確認宮內懷孕（IUP）；**假妊娠囊（Pseudogestational sac）** = 宮內積液伴單層蛻膜（可能為宮外孕表現）。平均囊直徑（MSD）：8 mm時應可見卵黃囊（yolk sac）；16 mm時應可見胚胎。**卵黃囊（Yolk sac）** 正常在5.5週可見；直徑>6 mm為異常（高度預示不良）。**胎心（Hearth rate）**：M-mode都卜勒測量；正常6週胚胎心率約112 bpm；CRL≤4 mm時心率<90 bpm為過慢（預後不良）；心率沒有「過快」一說——越快越好。
-
-### 臨床重點 / Clinical Pearls
-
-- β-hCG >1500 mIU/mL經陰道超聲應可見妊娠囊；若未見需懷疑宮外孕
-- MSD 8mm有 yolk sac 若無=懷孕不太可能成功；MSD 16mm有胚胎若無=懷孕不太可能成功
-- Yolk sac >6mm即使胎心正常亦預後不良，為獨立不良預後因子
-- 第一孕期胚胎心率<90 bpm無論何時出現均預後極差，需考慮妊娠失敗
-
----
-
-
-
-
-
-# Ultrasound - Page 514
-## 產科超聲 / Obstetric Ultrasound
-
-## 早期妊娠預後 / Early Pregnancy Prognosis
-早期妊娠預後的超聲評估標準。**需追蹤（guarded prognosis）**：MSD ≥8 mm無卵黃囊；MSD ≥16 mm有卵黃囊但無胚胎；卵黃囊≥6 mm（無論是否有胚胎）；胚胎≤7 mm無胎心；妊娠6週後心率<90 bpm。**確定妊娠失敗（Definite pregnancy failure）**：已知妊娠年齡≥6.5週無胎心（需有早期超聲或試管嬰兒確定日期）；胚胎>7 mm無胎心（不建議在胚胎<7 mm時確診失敗）。妊娠失敗的超聲確診需非常謹慎，因為錯誤診斷可能導致不當終止正常懷孕。
-
-### 臨床重點 / Clinical Pearls
-
-- 胚胎7mm仍無胎心才能確診妊娠失敗；<7mm應建議追蹤而非直接確診
-- 卵黃囊異常（>6mm）即使胎心正常，亦為高度不良預後信號
-- 沒有早期超聲或IVF確定日期，不能單凭妊娠週數確診失敗
-- β-hCG半衰期：正常IUP每48小時增加>60%；宮外孕的平台期或略升；流產則下降
-
----
-
-
-
-
-
-# Ultrasound - Page 515
-## 產科超聲 / Obstetric Ultrasound
-
-## 宮外孕排除流程 / Ectopic Pregnancy Rule-Out Algorithm
-宮外孕（Ectopic pregnancy）** 定義為受精卵種植在 子宮內膜腔以外的部位，最常見於輸卵管（95%），可危及生命。典型三聯徵（陽性懷孕測試+陰道出血+盆腔疼痛+腹部壓痛）少於50%患者出現。**「排除宮外孕」患者**（新近陽性懷孕測試+疼痛或出血）在影像學檢查前已有約15%宮外孕機率。超聲的角色：確認是否有IUP，並評估宮外孕常見部位（尤其是輸卵管）。**100%確診IUP**：正常IUP+正常附屬器。**100%宮外孕確診**：宮外孕胚胎（有或無胎心）或含卵黃囊的宮外孕團塊。
-
-### 臨床重點 / Clinical Pearls
-
-- 宮外孕三聯徵：陽性懷孕測試+陰道出血+盆腔疼痛+腹部壓痛，少於半數患者齊備
-- 宮外孕「排除流程」：15% pre-test probability → 超聲評估 IUP + 附屬器
-- β-hCG：宮內孕每48小時上升>60%；宮外孕平台期；流產下降
-- 宮內積液若無雙蛻膜徵，在宮外孕排除患者中仍高度可能是極早期IUP（而非假囊）
-
----
-
-
-
-
-
-# Ultrasound - Page 516
-## 產科超聲 / Obstetric Ultrasound
-
-## 宮外孕部位與影像 / Ectopic Locations and Imaging
-宮外孕部位分布：輸尿管（95%，其中70%在壺腹ampulla）、間質部（2-3%，但破裂風險高）、卵巢（<1%）。**間質部宮外孕（Interstitial/cornual ectopic）** 超聲可見子宫角區域缺少女宮肌層圍繞，「間質線徵（interstitial line sign）」= 子宮內膜管道延伸至間質部腫塊的細迴聲線。**異質妊娠（Heterotopic pregnancy）** = 同時有IUP+宮外孕；人工生殖技術（ART）增加風險，在IUP存在的情況下仍需詳細評估附屬器。宮外孕超聲特徵：**輸尿管環（tubal ring）** = 95% PPV宮外孕；**附屬器團塊** = 92% PPV宮外孕；**輸管環徵（ring of fire）** = 彩色都卜勒見附屬器團塊周邊血流（非特異性，亦可見於黃體）。
-
-### 臨床重點 / Clinical Pearls
-
-- 間質部宮外孕，子宮外側肌層缺失（「間質線徵」），需與宮角妊娠鑑別
-- 宮外孕的「ring of fire」亦可見於黃體，黃體位於卵巢內，宮外孕位於卵巢外
-- 施壓超聲探頭可觀察團塊是否隨卵巢移動（卵巢內vs卵巢外）
-- β-hCG倍增時間：IUP 48小時≥60%↑；宮外孕平台期；流產↓；動態追蹤有意義
-
----
-
-
-
-
-
-# Ultrasound - Page 517
-## 產科超聲 / Obstetric Ultrasound
-
-## 早期妊娠其他疾病 / Miscellaneous First Trimester Disorders
-**妊娠滋養層疾病（Gestational trophoblastic disease / Molar pregnancy）** 包括完全性葡萄胎（無胎兒部分、二倍體46,XX或46,XY，可進展為絨毛膜癌）和部分性葡萄胎（有胎兒發育、三倍體69,XXX/XXY/XYY）。超聲可見子宫擴大伴「雪風暴（snowstorm）」混合性囊性外觀；**卵泡膜囊腫（Theca lutein cysts）** 為hCG升高引起的雙側卵巢囊腫。治療：真空吸引刮宮+hCG追蹤。**妊娠物滯留（Retained products of conception, RPOC）** 超聲可見子宫內膜增厚不均伴都卜勒血流；血流並非診斷必要條件（50% PPV）；**子宫內膜厚度<10 mm時RPOC可能性極低**。
-
-### 臨床重點 / Clinical Pearls
-
-- 完全性葡萄胎：無胎兒、「雪風暴」超聲、hCG極高、可能進展為絨毛膜癌
-- 部分性葡萄胎：有三倍體、有部分胎兒發育，超聲可見胎兒部分
-- RPOC 超聲：內膜增厚不均±都卜勒血流；血流存在增加RPOC可能性但非特異性
-- 妊娠物滯留：內膜厚度<10mm基本可排除RPOC
-
----
-
-
-
-
-
-# Ultrasound - Page 518
-## 產科超聲 / Obstetric Ultrasound
-
-## 多胞胎與胎盤形成 / Multiple Gestations and Placentation
-多胞胎的胎盤形成（chorionicity和amnionicity）直接影響孕期併發症風險。**雙卵胞胎（Dizygotic）** = 兩個卵+兩個精子，必然為雙絨毛膜/雙羊膜（di/di）。**單卵胞胎（Monozygotic）** = 一個卵+一個精子，胚胎分裂時機決定胎盤類型：0-4天分裂→di/di（33%）；4-8天→mono/di（66%）；>8天→mono/mono（1%，可能為連體）。絨毛膜數量決定併發症風險：di/di增加早產和低出生體重；mono/di增加輸血症候群（TTTS）、無心畸形、embolic症候群；mono/mono additionally增加臍帶纏繞和連體風險。
-
-### 臨床重點 / Clinical Pearls
-
-- 單卵胞胎分裂時機決定胎盤類型：越晚分裂=越多共享=越高風險
-- 雙卵胞胎必然是di/di（獨立胎盤、獨立羊膜囊）
-- 多胞胎第一超聲檢查時應常規報告絨毛膜和羊膜性（chorionicity/amnionicity）
-- mono/mono twins 連體可能：分裂>13天的不完全分裂導致連體
-
----
-
-
-
-
-
-# Ultrasound - Page 519
-## 產科超聲 / Obstetric Ultrasound
-
-## 雙胞胎膜性與TTTS / Twin Membrane and TTTS
-**di/di twins**：各自獨立胎盤，膜厚（2層絨毛膜+2層羊膜）；超聲可見「雙胎峰/λ徵（twin peak/lambda sign）」= 胎盤與厚膜交界處的三角形胎盤組織，為di/di特徵（胎盤邊緣局部捲曲）。**mono/di twins**：共享胎盤，膜薄（僅2層羊膜）。**mono/mono twins**：共享胎盤，無間隔膜；臍帶交纏（intertwined cords）為確診依據。**雙胞胎-雙胞胎輸血症候群（TTTS）**：單絨毛膜 twins（mono/di 或 mono/mono）共享胎盤血管，捐血 twin（小+羊水過少）向受血 twin（大+羊水過多）供血。三項診斷標準：≥25%大小差異、羊水量不成比例（捐血=羊水過少，受血=羊水過多）、單一共享胎盤。治療：胎盤血管雷射燒蝕或治療性羊膜穿刺抽出過多羊水。
-
-### 臨床重點 / Clinical Pearls
-
-- TTTS診斷三要素：≥25%大小差異+羊水量不成比例+單絨毛膜（共享胎盤）
-- Stuck twin = 捐血 twin羊水極少，羊膜像保鮮膜纏繞胎兒
-- 雙胎峰徵（lambda sign）為di/di twins特有，區分di/di與mono/di的重要標誌
-- mono/mono twins確診：交織臍帶（intertwined cords），非僅無膜可見
-
----
-
-
-
-
-
-# Ultrasound - Page 520
-## 產科超聲 / Obstetric Ultrasound
-
-## 無心畸形與雙胞胎embolization症候群 / Acardiac Twins and Twin Embolization
-**無心畸形（Acardiac twinning / TRAP sequence）** 為TTTS的嚴重型。捐血胎儿同時向自身和無心畸形供血，經胎盤動靜脈瘻管連接。無心畸形超聲可見發育不全或缺失胸腔以上結構；都卜勒在無心胎兒的臍帶內可見反轉血流（進入而非離開胎兒）。正常：臍帶動脈將缺氧血從胎兒泵出→胎盤；在無心畸形，臍帶血管攜帶缺氧血進入胎兒，都卜勒顯示反向（向內）血流。治療：超聲導引下凝固無心畸形臍帶。**雙胞胎embolization症候群**：當單絨毛膜雙胞胎之一在宮內死亡，倖存者可因栓塞性事件（CNS/腸道/腎臟梗塞）而預後不良；單絨毛膜存活兒預後很差，雙絨毛膜存活兒預後通常良好。
-
-### 臨床重點 / Clinical Pearls
-
-- TRAP：都卜勒反轉血流（臍帶动脉波形向內進入無心胎兒）為確診依據
-- 無心畸形治療：凝固臍帶阻斷對無心畸形的血流供應
-- 單絨毛膜倖存兒預後極差（栓塞風險）；雙絨毛膜倖存兒預後較好
-- 單絨毛膜孕期併發症風險：TTTS > 無心畸形 > 栓塞症候群
-
----
-
-
-
-
-
-# Ultrasound - Page 521
-## 產科超聲 / Obstetric Ultrasound
-
-## 第一孕期胚胎評估 / First Trimester Embryo Evaluation
-第一孕期胚胎超聲評估的關鍵結構。**頭臀長（Crown-rump length, CRL）**：6-12週用於確定妊娠年齡，此時胎兒頸部尚無屈伸活動，測量簡單可靠。**前腦（Prosencephalon）和菱腦（Rhombencephalon）**：8週可區分；前腦為未來大腦，菱腦為未來腦幹/小腦；兩者皆為低迴聲，菱腦更大；缺失可能為無腦畸形最早表現。**臍帶生理性疝出（Physiologic midgut herniation）**：中腸在12-13週前通過臍帶環向腹腔外疝出並270°繞腸繫膜上動脈（SMA）逆時針旋轉；病理性缺陷（如臍突出、腹裂）一般在13週確診。**頸部透明帶（Nuchal translucency, NT）**：增加與唐氏症及染色體異常相關；11週時正常上限2.2 mm；14週（CRL 79mm）時正常上限2.8 mm；NT結合母親血清檢驗計算整體風險。
-
-### 臨床重點 / Clinical Pearls
-
-- CRL 6-12週估計妊娠年齡最準確（頸部尚未屈伸），>12週改用多參數
-- 頸部透明帶測量：高對比度設定、胎兒處正中矢狀面、胎兒頸部呈自然中性位置
-- NT增加（>2.2mm at 11wks）= 唐氏症風險增加，但非確診
-- 12-13週前臍帶疝出為生理性（胎兒腹壁缺陷需13週後確診）
-
----
-
-
-
-
-
-# Ultrasound - Page 522
-## 產科超聲 / Obstetric Ultrasound
-
-## 第二/三孕期測量標準 / Second and Third Trimester Measurements
-第二/三孕期胎兒測量標準。**雙頂徑（Biparietal diameter, BPD）**：測量近探頭側骨外緣到遠側骨內緣，測量平面位於丘腦（thalami）和透明隔（CSP）水平；頭顱應完整顯像；校正BPD（Corrected BPD）則同時納入OFD（枕額徑，中-中測量）。**腹部徑（Abdominal diameter）**：在臍靜脈/肝門靜脈/胃竇水平測量外緣至外緣，AP與橫徑差<1 cm，角度約45°減少脊椎偽影。**股骨長度（Femur length）**：在胎兒最接近探頭的位置、垂直於聲束測量最準確。
-
-### 臨床重點 / Clinical Pearls
-
-- BPD測量平面：丘腦+透明隔（CSP）水平；測量不標準是最大的誤差不確定來源
-- 腹部測量：45°角減少脊椎偽影；過度肥胖胎兒腹部可呈橢圓形造成測量誤差
-- 股骨長度用於確校妊娠年齡，與BPD、腹部徑聯合使用提高準確性
-- 胎兒測量系統誤差常見：標準化測量技術和培訓可減少此類誤差
-
----
-
-
-
-
-
-# Ultrasound - Page 523
-## 產科超聲 / Obstetric Ultrasound
-
-## 羊水評估與宮頸測量 / Amniotic Fluid and Cervical Assessment
-羊水過少（Oligohydramnios）**：AFI（羊水指數）≤6.3 cm（≤2.5百分位）= 羊水過少；可導致Potter序列症（顏面畸形、肺發育不良、肢體攣縮）。最常見原因為胎兒宮內生長受限（IUGR）；需排除泌尿系統發育異常（雙側腎發育不全、後尿道瓣膜、雙側UPJ阻塞、ARPKD）。**羊水過多（Polyhydramnios）**：AFI ≥19.2 cm（≥97.5百分位）= 羊水過多；超過一半為特發性；其他原因包括胃腸道閉鎖（食道、十二指腸）、橫膈膜疝、神經系統發育異常、單絨毛膜雙胞胎症候群。**宮頸評估**：宮頸長度<3 cm為異常；宮頸漏斗（T-shaped → Y → V → U）為早產風險標誌；經陰道超聲測量子宮頸比經腹更準確。**頸部皺褶（Nuchal fold）**：16-20週測量（軸平面，後顱窩水平）；<5 mm正常；5-5.9 mm邊界；≥6 mm為唐氏症主要標誌。
-
-### 臨床重點 / Clinical Pearls
-
-- AFI四象限法：最大垂直液體深度×4，正常7-25 cm；儀器測量僅供參考，主觀評估同等重要
-- Potter序列症核心：颜面畸形（宫内压迫）、肺发育不良、肢体挛缩
-- 宮頸漏斗形进展：T→Y→V→U；T=正常；U=嚴重（需考虑宫颈环扎）
-- 頸部皺褶≥6mm在16-20週為唐氏症（Trisomy 21）主要超聲標誌，敏感性中等但特異性高
-
----
-
-
-
-
-
-# Ultrasound - Page 524
-## 產科超聲 / Obstetric Ultrasound
-
-## 胎盤與前置血管 / Placenta and Vasa Previa
-**單臍帶動脈（Single umbilical artery）**：正常臍帶為2條臍帶动脉+1條臍靜脈；單臍帶动脉（二血管臍帶）與胎兒異常可達50%（心血管最常見），與13、18三倍體相關。**前置血管（Vasa previa）**：胎盤胎兒血管跨過子宫內口（internal cervical os），由絨毛膜外臍帶插入（velamentous insertion）或副胎盤小葉（succenturiate lobe）引起；超聲胎兒血管破裂可致胎兒大出血；彩色都卜勒確診可見胎儿血管跨过宫口。**前置胎盤（Placenta previa）**：胎盤邊緣>3cm = 正常；覆盖宫口 = 需剖腹产；建議在空膀胱、無宮縮時確診。**胎盤早剝（Placental abruption）**：超聲可正常（20%病例）；急剝離血腫可與胎盤等迴聲（鑑別困難）；慢性剝離呈低迴聲；可見不同位置血腫（subchorionic、retroplacental、pre-placental）。
-
-### 臨床重點 / Clinical Pearls
-
-- 前置血管（Vasa previa）：胎兒血管跨宫口，胎兒血管而非母體血管，彩色都卜勒確診
-- 前置胎盤（Placenta previa）：覆盖宫口=剖腹产；<3cm=可陰道分娩
-- 胎盤早剝超聲可能完全正常（假陰性20%），不能單凭超聲排除
-- 單臍帶动脉：胎兒異常風險50%，應建議詳細超聲結構篩查和胎兒心臟超聲評估
-
----
-
-
-
-
-
-# Ultrasound - Page 525
-## 產科超聲 / Obstetric Ultrasound
-
-## 胎盤植入譜 / Placenta Accreta Spectrum
-胎盤植入譜（Placenta accreta spectrum）** 涵蓋三種程度：accreta（胎盤黏連至淺層肌層）、increta（侵入肌層）、percreta（穿透漿膜層甚至膀胱）。病因為 scarring（先前剖腹產、子宮刮宮、子宮內膜炎、子宮腺肌症）導致內膜缺失，使胎盤異常黏連。前置胎盤+先前剖腹產為最高風險組合。超聲特徵：**失去胎盤後透明空間（loss of retroplacental clear space）**；**胎盤-膀胱介面異常**（膀胱壁不規則或中断）；**胎盤內大型囊性血管湖（vascular lakes/moth-eaten appearance）**——此為percreta穿入膀胱的高度特異表現。Ac-creta超聲顯示正常低迴聲胎盤下區域變薄或消失；Increta為胎盤侵入肌層但未穿透；Percreta為胎盤穿透漿膜，可見膀胱內大型血管湖。
-
-### 臨床重點 / Clinical Pearls
-
-- 胎盤植入三型：accreta（黏連）< increta（侵入）< percreta（穿透，最嚴重）
-- 胎盤-膀胱交界處大型囊性血管湖（vascular lakes）= percreta穿透膀胱的高度特異性超聲表現
-- 前置胎盤+先前剖腹產史=胎盤植入最高風險群，產前應MRI評估
-- 確診胎盤植入譜對分娩計劃至關重要（避免緊急剖腹產和胎盤強行剝離）
-
----
-
-
-
-
-
-# Ultrasound - Page 526
-## 產科超聲 / Obstetric Ultrasound
-
-## 胎兒水腫 / Fetal Hydrops
-胎兒水腫（Hydrops fetalis）** 為液體過載狀態，符合以下≥2項確診：腹水、胸水/心包積液、皮膚水腫、羊水過多、胎盤增厚。分為免疫性（immune）和非免疫性（non-immune）。**免疫性水腫**：胎兒溶血性貧血（母體對Rh或其他胎兒抗原敏感），良好預後（宮內輸血治療）。**非免疫性水腫（NIHF）**：病因多樣，多數預後不良；常見原因包括：心臟結構異常或心律不整；心外分流（Galen靜脈畸形、肝血管內皮瘤、TTTS致高輸出量心衰竭）；感染（Parvovirus B19、TORCH）；血蛋白減少（肝炎、胎兒腎病變）；染色體異常（透納症候群45,X）。**胎兒腹水（Isolated fetal ascites）**：可能來自尿路梗阻（腎盞或膀胱破裂）或胎糞性腹膜炎。**胎兒胸腔積液**：為水腫診斷標準之一；孤立性最常見原因為先天性乳糜胸（胸導管發育異常）。
-
-### 臨床重點 / Clinical Pearls
-
-- 胎兒水腫≥2項確診：腹水+胸水+心包積液+皮膚水腫+羊水過多+胎盤增厚（6項任選≥2）
-- 免疫性水腫（Rh不相容）：宮內輸血治療效果佳，預後良好
-- 非免疫性胎兒水腫（NIHF）預後不良，因為原發病因多數無法有效治療
-- 胎兒胸腔積液：孤立性最常見先天性乳糜胸，與遺傳性淋巴管發育不良相關
-
----
-
-
-
-
-
-# Ultrasound - Page 527
-
-## 睪丸 / Scrotum
-
-皮樣囊腫（Mature cystic teratoma）為最常見卵巢腫瘤，占所有卵巢腫瘤20-40%。超聲經典表現為複雜囊腫伴高迴聲壁結節（**洛基坦斯基結節 Rokitansky nodule**），由皮脂物質及毛髮組成。「**點劃紋（dot-dash pattern）**」為中斷的高迴聲線條，代表keratin纖維；「**冰山徵（tip of the iceberg sign）**」為淺層高衰減實質團塊遮擋深層超聲。CT或MRI可確診脂肪成分。皮樣囊腫為良性，但可作為卵巢扭轉的lead point。
-
-### 臨床重點 / Clinical Pearls
-
-- 冰山徵：淺層高迴聲實質團塊，深層結構被遮擋；CDFI無明顯內部血流
-- 皮樣囊腫惡性變性極罕見，多為停經後患者
-- 皮樣囊腫可併發扭轉（急性腹痛），為生育期女性急性腹痛常見原因之一
-
-
-
+### First trimester pregnancy
 
 ![Page 527](/core_radiology/images/ultrasound/page-527.png)
 
-
-## 卵巢腫瘤─皮樣囊腫 / Ovarian Neoplasm - Dermoid Cyst
-
-皮樣囊腫（Mature cystic teratoma）為**最常見的卵巢腫瘤**，經典超聲表現為複雜性卵巢囊腫伴有**洛基坦斯基結節（Rokitansky nodule）**及壁結節實性成分，並可見**點劃紋（Dot-dash pattern）**（因 keratin 纖維產生中斷性高回聲線）與**冰山徵（Tip of the iceberg sign）**。卵巢癌為女性第6常見癌症、婦科惡性腫瘤死亡首因；惡性超聲特徵包括壁結節、高流量彩色都卜勒、厚實/不規則壁或隔膜、腹水、實性成分、乳頭狀突起。組織型態分4類：上皮性（2/3）、胚細胞、性索-間質、轉移性。
-
-### 臨床重點 / Clinical Pearls
-
-- 皮樣囊腫超聲「冰山徵」＝囊內實性高回聲團（皮脂物質）浮在囊液中，淺層僅見部分輪廓
-- 卵巢癌彩色都卜勒阻力指數（RI）通常較低（<0.4），但特異性不足，需結合形態學綜合判斷
-
+First trimester pregnancy
+Imaging of the early pregnancy
+Gestational sac
+The gestational sac is the earliest imaging finding in early pregnancy.
+The intradecidual sign and the double decidual sac sign are two findings that may aid
+in the detection of very early pregnancy.
+The intradecidual sign represents the gestational sac within the thickened decidua, seen at ≤5 weeks.
+The double decidual sac sign represents two echogenic rings encircling the gestational sac. It is
+most useful when seen, where it confirms the presence of an intrauterine pregnancy (IUP). The
+absence of a double decidual sign is considered indeterminate and may suggest either an IUP or
+the pseudogestational sac of an ectopic pregnancy.
+A pseudogestational sac, in contrast, is an intrauterine fluid collection surrounded by a single
+decidual layer, seen in the context of ectopic pregnancy.
+Practically, these signs are of limited clinical utility. With a positive pregnancy test and normal
+adnexae, any fluid collection in the uterus is overwhelmingly likely to represent a very early
+intrauterine pregnancy (IUP), regardless of the presence of the intradecidual, double decidual sac,
+or pseuodogestational sac signs.
+A gestational sac should be seen by transvaginal ultrasound if the β-hCG is greater
+than 1,500. The gestational sac is normally seen by 5 weeks.
+The mean sac diameter (MSD) is the average diameter of the gestational sac
 
 ---
 
-# Ultrasound - Page 528
-**妊娠囊（Gestational sac）**為經陰道超聲可見的最早懷孕結構，正常於妊娠第5週（β-hCG >1500 mIU/mL）可見。**雙蛻膜徵（Double decidual sac sign）**為確認宮內妊娠（IUP）的特徵：兩層迴聲環包繞妊娠囊。平均囊直徑（MSD）：8 mm時應可見卵黃囊；16 mm時應可見胚胎。**假妊娠囊（Pseudogestational sac）**為宮內積液被單層蛻膜包繞，可誤導為早期IUP，但極早期IUP仍最可能為正常懷孕。
-
-### 臨床重點 / Clinical Pearls
-
-- β-hCG >1500 mIU/mL經陰道超聲應可見妊娠囊；未見時高度懷疑宮外孕
-- MSD 8mm有 yolk sac 若無=此次懷孕不太可能成功
-- 陰道出血時：MSD測量誤差可達5-7天，建議以CRL追蹤胎兒大小
-
-
-
+### Recent literature, however, suggests that definitive diagnos
 
 ![Page 528](/core_radiology/images/ultrasound/page-528.png)
 
-
-## 第一孕期妊娠 / First Trimester Pregnancy
-
-**妊娠囊（Gestational sac）**為最早的超聲可見結構，**蛻膜內徵（Intradecidual sign）**＝妊娠囊位於蛻膜內（≤5週）；**雙蛻膜囊徵（Double decidual sac sign）**＝兩層迴聲環確認為宮內妊娠，而**假妊娠囊**僅有單層蛻膜（常為宮外孕）。妊娠囊在 β-hCG >1500 mIU/mL 時可見，通常於第5週出現。平均囊徑（MSD）8mm 時應見卵黃囊；16mm 時應見胚胎。卵黃囊正常於5.5週出現；直徑 >6mm 為異常。超聲見到胚胎時几乎都會同時偵測到胎心搏動。
-
-### 臨床重點 / Clinical Pearls
-
-- 陰道超聲（TVS）比腹部超聲早約1週偵測到妊娠囊，β-hCG 1500-2000 mIU/mL 為超聲可見閾值
-- 陰道出血時：MSD 16mm 無卵黃囊＝流產徵象，須動態追蹤 β-hCG 趨勢
-
+Recent literature, however, suggests that definitive diagnosis of pregnancy failure
+based on absent heartbeat be withheld until the embryo has reached a size of 7 mm.
+Based on this, it may be prudent to recommend follow-up if no heartbeat is seen in an
+embryo under 7 mm, although the chance of a successful pregnancy in such a case is
+Absence of a heartbeat by a gestational age of 6.5 weeks or greater is 100% diagnostic
+of a failed pregnancy. Note that it is only possible to be certain of pregnancy dating if
+the patient has had a previous ultrasound to establish early dating, or if the patient
+underwent IVF with a known transfer date. The date of the last menstrual period is
+not reliable enough.
+If the early heartbeat is less than 90 bpm, there is very little chance that the
+pregnancy will be successful. There is no such thing as a “too fast” heart rate. In fact,
+embryos with a faster heart rate have the highest chance of normal outcome.
+If the CRL is ≤4 mm, ≤90 bpm is considered slow and ≥100 is normal.
+If the CRL is 5–9 mm, ≤110 bpm is considered slow and ≥120 is normal.
+Heart rate is measured using M-mode Doppler.
+Normal heart rate:
+M-mode Doppler
+shows a calculated
+heart rate of 112 bpm,
+which is normal in this
 
 ---
 
-# Ultrasound - Page 529
-胎心率（HR）以**M型都卜勒（M-mode Doppler）**測量；6週胚胎正常HR約112 bpm。CRL ≤4 mm時，心率<90 bpm為過慢（預後不良）；CRL 5-9 mm時，<110 bpm為過慢。早期心率沒有「過快」一說——心率越快反而預後越好。胚胎心跳在CRL 4-5 mm時幾乎都會出現；若未出現應考慮妊娠失敗。胚胎7 mm仍無胎心才能確診失敗；<7 mm應建議追蹤而非直接確診。
-
-### 臨床重點 / Clinical Pearls
-
-- M-mode都卜勒測量胎心率：放置取樣線於心跳顯著處，測量3個以上心搏後取平均值
-- 早期胎兒心率<90 bpm無論妊娠週數均預後極差
-- 心率「過快」不存在，心率越快=預後越好（唐氏症等風險反而略降）
-
-
-
+### Early pregnancy prognosis
 
 ![Page 529](/core_radiology/images/ultrasound/page-529.png)
 
-
-## 妊娠測量─胎心率與日期 / Pregnancy Dating and Heart Rate
-
-胎心率（HR）以 **M 型都卜勒（M-mode Doppler）** 測量；正常第6週胚胎 HR 約112 bpm。依頭臀長（CRL）分級：CRL ≤4mm 時 HR ≤90 bpm 為過慢、≥100 bpm 為正常；CRL 5-9mm 時 HR ≤110 bpm 為過慢、≥120 bpm 為正常。妊娠年齡慣例以**末次月經第一天（LMP）**起算：5.0週可見妊娠囊，5.5週可見卵黃囊（無胚胎），6週胚胎<3mm 並有胎心，≥3mm CRL 則依頭臀長對照表推算至第12週。
-
-### 臨床重點 / Clinical Pearls
-
-- 胚胎心跳在 CRL 4-5mm 時幾乎都會出現；若未出現應考慮胎兒流失（流產）
-- 早期妊娠超聲測量 CRL 可將妊娠年齡精確至 ±3-5 天，優於末次月經推算
-
+Early pregnancy prognosis
+guarded pregnancy prognosis: follow-up ultrasound recommended
+mean sac diameter ≥8 mm
+with no yolk sac
+YS but no embryo
+mean sac diameter ≥16 mm
+with a yolk sac but no embryo
+After 6 weeks
+regardless of embryo
+embryo ≤7 mm
+with no heartbeat
+A yolk sac ≥6 mm portends a
+poor prognosis even if the
+embryo has a normal heart rate.
+Any visible embryo should have
+a heartbeat. If the heartbeat is not seen,
+there is very little chance of successful
+definite pregnancy failure:
+ known gestational age ≥6.5
+with no heartbeat.
 
 ---
 
-# Ultrasound - Page 530
-**不良預後徵象（Guarded prognosis）**：需追蹤超聲評估，包括：MSD ≥8 mm無卵黃囊；MSD ≥16 mm有卵黃囊但無胚胎；胚胎≤7 mm無胎心；卵黃囊≥6 mm（無論是否有胚胎）；妊娠6週後心率<90 bpm。**確定妊娠失敗（Definite failure）**：已知妊娠年齡≥6.5週無胎心（需有早期超聲或IVF確定日期）；胚胎>7 mm無胎心。
-
-### 臨床重點 / Clinical Pearls
-
-- 胚胎7 mm仍無胎心才能確診失敗；<7 mm應建議追蹤而非確診
-- 陰道出血患者：MSD測量誤差可達5-7天，建議以CRL追蹤
-- β-hCG半衰期：正常IUP每48小時增加>60%；宮外孕平台期或略升；流產下降
-
-
-
+### Ectopic pregnancy
 
 ![Page 530](/core_radiology/images/ultrasound/page-530.png)
 
-
-## 早期妊娠預後評估 / Early Pregnancy Prognosis
-
-**不良預後徵象（Guarded prognosis）**：MSD ≥8mm 但無卵黃囊；MSD ≥16mm 有卵黃囊但無胚胎；卵黃囊直徑 ≥6mm（不論是否有胚胎）；胚胎 ≤7mm 但無胎心；6週後 HR <90 bpm。**確定胎兒流失（Definite pregnancy failure）**：已知妊娠年齡 ≥6.5週且無胎心；或胚胎 >7mm 且無胎心。符合上述任一條件即可確診宮內胎兒流失（IUFD），不需等待連續 β-hCG 下降。
-
-### 臨床重點 / Clinical Pearls
-
-- 陰道出血患者：MSD測量誤差可達5-7天，建議以 CRL 為主判斷妊娠年齡
-- 早期胎兒流失診斷要謹慎：6週前（妊娠囊<25mm）未見胚胎不等於失敗，需追蹤複查
-
+Ectopic pregnancy
+“rule-out ectopic” patient
+(newly positive pregnancy test and pain or bleeding)
+15% chance of ectopic before any imaging performed
+100% normal IUP
+heterotopic
+(very rare)
+extrauterine
+mass with yolk sac
+100% ectopic
+tubal ring or
+adnexal mass
+(no embryo or YS)
+tubal ring:
+95% risk of ectopic
+adnexal mass:
+92% risk of ectopic
+5−33% risk of ectopic
 
 ---
 
-# Ultrasound - Page 531
-新陽性妊娠試驗＋疼痛/出血＝約15%宮外孕機率。**宮內妊娠（IUP）且附屬器正常**＝100%排除宮外孕；**宮外胚胎＋卵黃囊或有心跳的胚胎**＝100%宮外孕確診。附屬器環（adnexal ring）PPV達95%；附屬器腫塊PPV達92%。宮內無妊娠且附屬器正常時，仍有5-33%宮外孕風險，需追蹤。
-
-### 臨床重點 / Clinical Pearls
-
-- β-hCG異常時先區分：IUP（指數倍增，每48小時>60%）vs宮外孕（平台期）vs流產（下降）
-- 「Rule-out ectopic」患者即使IUP正常仍需評估附屬器
-- 宮外孕三聯徵：陽性懷孕測試+陰道出血+盆腔疼痛，少於50%患者齊備
-
-
-
+### Ectopic location
 
 ![Page 531](/core_radiology/images/ultrasound/page-531.png)
 
-
-## 宮外孕排除流程 / Ectopic Pregnancy Algorithm
-
-新陽性妊娠試驗＋疼痛/出血＝約15%宮外孕機率。**宮內妊娠（IUP）且附屬器正常**＝100%排除宮外孕；**宮外胚胎或帶卵黃囊腫塊**＝100%確認宮外孕；**輸卵管環（Tubal ring）**＝95%宮外孕風險；**附屬器腫塊但無胚胎/卵黃囊**＝92%宮外孕風險；**附屬器正常但無宮內妊娠**＝5-33%宮外孕風險。典型三聯徵（陽性妊娠試驗＋陰道出血＋盆腔疼痛）僅見於少於50%患者。
-
-### 臨床重點 / Clinical Pearls
-
-- β-hCG 異常時先區分：IUP（指數倍增）、宮外孕（平台期）、先兆流產（下降）
-- 「Rule-out ectopic」流程：先確認有無宮內妊娠，再評估附屬器是否有異常
-
+Ectopic location
+interstitial,
+including cornual
+tubal: ~95%
+isthmus: 12%
+ampulla: 70%
+fimbria: 11%
+Cesarean section scar (rare)
+cervical (rare)
+Most (~95%) ectopic pregnancies occur in the fallopian tube, with the ampullary
+segment being the most common site.
+It is rare for an ectopic pregnancy to be in the ovary (<1% of all ectopics).
+An especially dangerous location for an ectopic pregnancy is the interstitial portion of
+the fallopian tube. An interstitial ectopic carries an especially high risk of catastrophic
+hemorrhage due to its propensity for delayed rupture and proximity to the ovarian
+Ultrasound of an interstitial ectopic shows absent myometrium along the lateral edge. The
+interstitial line sign represents a thin, echogenic line extending from the endometrial canal
+to the center of the interstitial ectopic mass. This echogenic line is thought to represent the
+nondistended, empty endometrial canal.
+A heterotopic pregnancy is a simultaneous IUP and ectopic pregnancy. Patients
 
 ---
 
-# Ultrasound - Page 532
-約95%宮外孕發生於輸尿管，其中**壺腹部（Ampulla）**最常見（70%），其次為峽部（12%）、間質部（2-3%）及繖部（11%）。**間質部/宮角（Cornual/Interstitial）**宮外孕破裂風險最高，因肌層圍繞但較薄，破裂可致危及生命的出血；超聲可見「**間質線徵（interstitial line sign）**」＝高迴聲線從內膜管道延伸至間質部腫塊。
-
-### 臨床重點 / Clinical Pearls
-
-- 間質部宮外孕：超聲可見子宫外側肌層缺失；「間質線徵」為特徵性表現
-- 輔助生殖術後患者發現IUP，仍需詳細評估附屬器排除異質妊娠（IUP+宮外孕同時存在）
-- 宮外孕破裂可危及生命，緊急手術為主要治療方式
-
-
-
+### Ectopic pregnancy may also occur (rarely) in a prior Cesarea
 
 ![Page 532](/core_radiology/images/ultrasound/page-532.png)
 
-
-## 宮外孕部位與異質妊娠 / Ectopic Locations and Heterotopic Pregnancy
-
-約95%宮外孕發生於輸卵管，其中**壺腹部（Ampulla）**最常見（70%）。**間質部/宮角（Cornual/Interstitial）**佔2-3%，因確診較晚破裂風險高，可見「**間質線徵（Interstitial line sign）**」。卵巢宮外孕<1%。其他罕見部位包括剖腹產疤痕、子宮頸、腹腔。**異質妊娠（Heterotopic）**＝同時存在宮內及宮外妊娠，試管嬰兒等輔助生殖技術顯著增加風險；超聲可見正常宮內妊娠囊＋卵巢外附屬器腫塊（注意與卵巢黃體囊腫區分）。
-
-### 臨床重點 / Clinical Pearls
-
-- 間質部宮外孕破裂出血可危及生命，確斷依賴「間質線徵」：高回聲線從宮角延伸至宮外孕囊
-- 輔助生殖術後患者發現宮內妊娠時，務必常規掃查附屬器排除異質妊娠
-
+Ectopic pregnancy may also occur (rarely) in a prior Cesarean section scar, in the
+cervix, or in the abdomen. When in the abdomen, the ectopic pregnancy can become
+large before causing symptoms.
+Imaging findings of ectopic pregnancy
+Adnexal ectopic: Sagittal grayscale endovaginal ultrasound of the uterus (left image) shows a normal
+uterus, with no evidence of intrauterine pregnancy. Ultrasound of the adnexa (right image) shows an
+adnexal ring (yellow arrows), discrete from the normal ovary. In a patient with a suspected ectopic, the
+presence of an adnexal ring and no intrauterine pregnancy has a 95% positive predictive value of being
+an ectopic pregnancy.
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+In the absence of an IUP, an adnexal mass has a 92% positive predictive value of being
+an ectopic.
+In the absence of an IUP, an adnexal ring has a 95% positive predictive value of being
+an ectopic.
+An extrauterine embryo (with or without heartbeat) or mass with yolk sac has a 100%
+predictive value of being an ectopic.
+The nonspecific ring of fire sign describes increased peripheral color Doppler flow
+surrounding an adnexal mass. This sign is rarely helpful as it can be seen in both
+ectopic pregnancy and corpus luteum.
+In a rule-out ectopic patient, an ovarian mass is overwhelmingly more likely to be
 
 ---
 
-# Ultrasound - Page 533
-
-## 甲狀腺與頸部 / Thyroid and Neck
-
-**附屬器環（Adnexal ring）**PPV達95%；**附屬器腫塊**PPV達92%；**宮外胚胎＋卵黃囊**PPV達100%。**宮外孕特異性都卜勒徵象**：ring of fire（彩色都卜勒見周邊血流）並非特異性，亦可見於黃體囊腫。關鍵鑑別點：黃體位於卵巢內；宮外孕位於卵巢外（施壓探頭觀察團塊是否隨卵巢移動）。
-
-### 臨床重點 / Clinical Pearls
-
-- 黃體囊腫 vs 宮外孕：兩者皆可見ring of fire；施壓觀察是否卵巢內移動可鑑別
-- β-hCG >1500-2000 mIU/mL經陰道超聲應可見妊娠囊；若未見IUP且有附屬器環，宮外孕PPV達95%
-- β-hCG測量：用於追蹤而非診斷；動態倍增趨勢比單次數值更有意義
-
-
-
+### Miscellaneous first trimester disorders
 
 ![Page 533](/core_radiology/images/ultrasound/page-533.png)
 
-
-## 宮外孕超聲表現 / Imaging Findings of Ectopic Pregnancy
-
-**附屬器環（Adnexal ring）**PPV達95%；**附屬器腫塊**PPV達92%；**宮外胚胎＋卵黃囊**PPV為100%。**火環徵（Ring of fire）**＝彩色都卜勒顯示周邊充血血流（非特異性，可見於黃體囊腫）。**卵巢囊腫**較可能為黃體囊腫；**卵巢外腫塊**則更需懷疑宮外孕。追蹤 β-hCG 動態變化：IUP指數倍增（每48小時上升>53%），宮外孕呈平台期，先兆流產則持續下降。
-
-### 臨床重點 / Clinical Pearls
-
-- 黃體囊腫 vs 宮外孕：兩者皆可見火環徵，關鍵鑑別點在於囊腫位於卵巢內、宮外孕位於卵巢外
-- β-hCG >1500-2000 mIU/mL 且陰道超聲未見妊娠囊時，高度懷疑宮外孕或流產
-
+Miscellaneous first trimester disorders
+Gestational trophoblastic disease (hydatidiform molar pregnancy)
+Gestational trophoblastic disease, also called hydatidiform molar pregnancy (or molar
+pregnancy for short), is invasive neoplastic overgrowth of the trophoblast into the
+myometrium or beyond. The trophoblast normally develops into the placenta.
+The classic clinical presentation of molar pregnancy is hyperemesis, markedly elevated
+hCG, and an enlarged uterus. The patient may also present with painless vaginal bleeding.
+Complete hydatidiform mole does not contain any fetal parts. It is caused by loss of the
+egg’s DNA prior to fertilization by the sperm and has a diploid karyotype of 46,XX (most
+commonly) or 46,XY. A complete mole may progress to metastatic choriocarcinoma.
+Chorioadenoma destruens is a complete mole that invades the myometrium.
+Molar pregnancy is associated with theca lutein cysts, which arise in response to elevated hCG.
+Partial hydatidiform mole is associated with some fetal development. It is usually
+caused by two sperm fertilizing the same egg and has a triploid karyotype of 69,XXX,
+69,XXY, or 69,XYY. Partial mole is less likely to progress to choriocarcinoma.
+On ultrasound, molar disease causes uterine enlargement with a classic
+heterogeneous and multicystic snowstorm appearance. Visualization of fetal parts
+suggests a partial mole.
+Treatment of a molar pregnancy is endometrial suction curettage and close follow-up
+of serum hCG levels.
 
 ---
 
-# Ultrasound - Page 534
-**妊娠滋養層疾病（Gestational trophoblastic disease / 葡萄胎）**：完全性葡萄胎無胎兒部分、超聲呈「雪風暴」混合性囊性外觀、hCG極高；部分性葡萄胎有三倍體（69,XXX/XXY/XYY）且可見部分胎兒發育。**卵巢甲狀腺囊腫（Theca lutein cysts）**為hCG升高引起的雙側卵巢囊腫，為葡萄胎特徵性表現。**妊娠物滯留（RPOC）**：超聲可見內膜增厚不均±都卜勒血流；內膜厚度<10 mm時RPOC可能性極低。
-
-### 臨床重點 / Clinical Pearls
-
-- 完全性葡萄胎術後必須追蹤 β-hCG，每2週一次直至連續3次陰性
-- 部分性葡萄胎進展為絨毛膜癌的風險低於完全性，但仍需追蹤
-- RPOC：內膜厚度<10 mm基本可排除，但>10 mm需考慮切片
-
-
-
+### Multiple gestations and placentation
 
 ![Page 534](/core_radiology/images/ultrasound/page-534.png)
 
-
-## 第一孕期其他疾病 / Miscellaneous First Trimester Disorders
-
-**妊娠滋養層疾病（Gestational trophoblastic disease / 葡萄胎）**：完全性葡萄胎無胎兒組織，染色體為二倍體46,XX或46,XY，可能進展為絨毛膜癌；部分性葡萄胎有部分胎兒發育，染色體為三倍體69,XXX/XXY/XYY，較少惡性變化。超聲呈「**雪暴徵（Snowstorm appearance）**」異質性多囊影像。**卵巢黃素囊腫（Theca lutein cysts）**因 hCG 過高刺激所致。**停留性妊娠產物（RPOC）**：流產或產後殘留胎盤/胎兒組織，超聲顯示內膜增厚伴都卜勒血流（<10mm內膜厚度幾乎可排除RPOC）。
-
-### 臨床重點 / Clinical Pearls
-
-- 完全性葡萄胎術後必須追蹤 β-hCG，每2週一次直至連續3次陰性，监测惡性變化
-- 子宮內膜厚度 <10mm 搭配陰性都卜勒血流時，RPOC 可能性極低，可避免不必要的手術
-
+Multiple gestations and placentation
+The placentation type (chorionicity and amnionicity) substantially affects the risk for
+pregnancy complications and influences how closely the pregnancy should be followed.
+The placentation should always be stated when first describing a multiple gestation.
+The zygosity (number of fertilized eggs) cannot always be determined by ultrasound.
+Monozygotic twins can have any placentation type, depending on when the
+developing zygote splits. Dizygotic twins, however, are always diamniotic/dichorionic,
+and only dizygotic twins can be different sexes.
+Monozygotic (“identical”) twins arise from a single egg fertilized with a single sperm.
+Dizygotic (“fraternal”) twins arise from two individually fertilized eggs.
+The chorionicity is the number of placentas.
+Monochorionic twins share a single placenta.
+Dichorionic twins each have a separate placenta.
+Amnionicity is the number of amnions.
+Monoamniotic twins share a single amniotic sac.
+Diamniotic twins each have a separate amniotic sac.
+By convention, chorionicity is stated before the amnionicity when stating the
+placentation. For instance, the abbreviation mono/di refers to monochorionic/
+diamniotic twins.
+Overview of complications by placentation type
 
 ---
 
-# Ultrasound - Page 535
-雙胞胎分為雙卵（dizygotic）與單卵（monozygotic）。**雙卵雙胞胎**由兩個卵子與兩個精子受精，永遠是雙絨毛膜/雙羊膜（di/di），胎盤分開。**單卵雙胞胎**由一個受精卵分裂形成，分裂時機決定絨毛膜和羊膜數量：0-4天分裂→di/di（33%）；4-8天→mono/di（66%）；>8天→mono/mono（1%）。
-
-### 臨床重點 / Clinical Pearls
-
-- 雙卵雙胞胎必然是di/di（獨立胎盤、獨立羊膜）；單卵分裂時機決定胎盤類型
-- 單卵雙胞胎分裂時機越晚=越多共享=越高併發症風險
-- 雙胞胎第一超聲檢查時應常規報告絨毛膜與羊膜性
-
-
-
-
+### Monozygotic (“identical”) twins
 
 ![Page 535](/core_radiology/images/ultrasound/page-535.png)
 
-## 多胞胎與胎盤形成 / Multiple Gestations and Placentation
-
-雙胞胎分為雙卵（dizygotic）與單卵（monozygotic）。雙卵雙胞胎由兩個卵子與兩個精子受精，永遠是雙絨毛膜/雙羊膜（di/di）。單卵雙胞胎由一個卵子與一個精子受精，根據分裂時間不同而有不同的膜性：0-4天分裂為di/di（33%），4-8天分裂為mono/di（66%），超過8天分裂為mono/mono（1%，可能為連體嬰）。絨毛膜數量決定胎盤數量，羊膜數量決定羊膜囊數量。共享程度越高，孕期風險越大。
-
-Twins are classified as dizygotic (two eggs fertilized by two sperm, always dichorionic/diamniotic) or monozygotic (one egg fertilized by one sperm, with zygosity determined by timing of embryonic splitting). Splitting at 0-4 days yields di/di (33%), 4-8 days yields mono/di (66%), and >8 days yields mono/mono (1%, potentially conjoined). Greater vascular sharing between twins correlates with increased pregnancy risks.
-
-### 臨床重點 / Clinical Pearls
-
-- **Di/di twins**: 早產與胎兒生長遲緩風險較高 / Increased risk of premature delivery and low birth weight
-- **Mono/di twins**: 可能發生雙胞胎輸血症候群、心臟發育不全 / Risk of twin-twin transfusion syndrome and acardiac twin
-- **Mono/mono twins**: 胎兒死亡率高（25-50%），因期待照護或連體嬰 / High fetal mortality (25-50%) due to cord entanglement or conjoined twinning
+Monozygotic (“identical”) twins
+monozygotic twins
+(single egg fertilized with a single sperm)
+dichorionic
+(dual placentas,
+dual amnions)
+split 0−4 days
+(33% of all monozygotic twins)
+embryo still in fallopian tube
+up to blastomere stage
+split 4−8 days
+(66% of all monozygotic twins)
+after implantation in uterus
+after differentiation of
+cytotrophoblast and
+syncytiotrophoblast (future placenta)
+split >8 days
+(1% of all monozygotic twins)
+after development of
+chorion and amnion
 
 ---
 
-
-
-
-
-# Ultrasound - Page 536
-雙胞胎依膜性可分為三型：**di/di**（雙絨毛膜/雙羊膜，胎盤分開，隔膜厚由2層絨毛膜與2層羊膜組成）；**mono/di**（單絨毛膜/雙羊膜，共享胎盤，隔膜薄僅由2層羊膜組成）；**mono/mono**（單絨毛膜/單羊膜，共享胎盤與羊膜，無間隔膜）。di/di twins超聲可見「**雙胎峰/λ徵（twin peak/lambda sign）**」＝胎盤與厚間隔膜交界處的三角形胎盤組織摺疊。
-
-### 臨床重點 / Clinical Pearls
-
-- Lambda sign（雙胎峰徵）為di/di twins特徵，用於區分di/di與mono/di
-- mono/di twins：隔膜薄（僅2層羊膜），與di/di的厚隔膜（2層絨毛膜+2層羊膜）鑑別
-- mono/mono twins確診：交織臍帶（intertwined cords）；非僅無膜可見（mono/di也可能無膜可見）
-
-
-
-
+### Di/di (dichorionic/diamniotic) twins
 
 ![Page 536](/core_radiology/images/ultrasound/page-536.png)
 
-## 雙胞胎膜性與輸血症候群 / Membrane Configuration and Twin-Twin Transfusion Syndrome
-
-雙胞胎依膜性可分為三型：di/di（雙絨毛膜/雙羊膜，胎盤分開，隔膜厚實由2層絨毛膜與2層羊膜組成）、mono/di（單絨毛膜/雙羊膜，共用胎盤，隔膜僅有2層羊膜）、mono/mono（單絨毛膜/單羊膜，共用胎盤無隔膜，臍帶糾纏）。Twin peak / lambda sign（雙胞胎峰徵）是di/di的特徵，代表絨毛膜在隔膜介面處的三角形內翻。雙胞胎輸血症候群（TTTS）發生於單絨毛膜雙胞胎，捐血兒血流輸出過多而受血兒負荷過重。三項診斷標準：大小差距≥25%、羊水量不相等、單一共享胎盤。
-
-Twins are classified by membrane configuration: di/di (dichorionic/diamniotic with separate placentas and a thick 4-layer membrane), mono/di (monochorionic/diamniotic with a shared placenta and thin 2-layer membrane), and mono/mono (monochorionic/monoamniotic with no membrane and intertwined cords). The twin peak or lambda sign is triangular placental tissue folding at the intertwin membrane, pathognomonic for di/di twins. TTTS occurs in monochorionic twins with disproportionate blood flow from donor to recipient twin, diagnosed when there is ≥25% size discrepancy, discordant fluid, and a single shared placenta.
-
-### 臨床重點 / Clinical Pearls
-
-- **Lambda sign**: di/di twins 特徵，隔膜處有三角形胎盤組織 / Triangular placental infolding at membrane interface, diagnostic for di/di
-- **TTTS 治療**: 胎盤血管雷射燒灼、治疗性羊水抽吸、選擇性臍帶凝固 / Laser ablation of placental fistulas, therapeutic amniocentesis, selective cord coagulation
-- **Stuck twin**: 嚴重羊水過少，胎兒被羊膜包裹無法治動 / Severe oligohydramnios with the twin wrapped by amnion, immobile
+Di/di (dichorionic/diamniotic) twins
+Di/di twins each have a separate placenta and amniotic sac.
+On ultrasound, two placentas can usually be separately identified.
+The inter-twin membrane will be relatively thick as there are two layers of chorion and
+two layers of amnion separating each twin.
+In the second and third trimesters, the thickness of the inter-twin membrane is
+less reliable to determine chorionicity because the membrane becomes thinner as
+gestation progresses.
+The twin peak sign (also called lambda sign) represents a triangle-shaped placental infolding
+at the interface of the placenta and the thick inter-twin membrane that is seen in di/di
+twins. The twin peak sign is most useful when it is difficult to distinguish two placentas.
+If the twins are different sexes, they must be dizygotic twins, which are always di/di.
+Mono/di (monochorionic/diamniotic) twins
+Mono/di twins share a placenta, but have separate amniotic sacs.
+The shared placenta is usually apparent on ultrasound.
+The inter-twin membrane is thin, as it is composed of only two layers of amnion.
+Mono/mono (monochorionic/monoamniotic) twins
+Mono/mono twins share both a placenta and a single amniotic sac.
+Mono/mono twins have a shared placenta with no intervening membrane between
+the twins. Intertwined cords are diagnostic of mono/mono placentation when seen.
 
 ---
 
-
-
-
-
-# Ultrasound - Page 537
-無心畸形（Acardiac twinning）又稱**雙胞胎反向灌注序列（TRAP）**，為TTTS的嚴重型。捐血雙胞胎透過胎盤血管吻合將血液打入無心畸形。超聲可見胸腔以上結構發育不全或缺失的異常胎兒；都卜勒在臍帶內可見**反向血流**（進入而非離開胎兒）——正常：臍帶动脉將缺氧血泵出；在無心畸形，臍帶血管將缺氧血泵入胎兒。
-
-### 臨床重點 / Clinical Pearls
-
-- TRAP特徵：都卜勒顯示臍帶动脉波形方向與正常相反（向內而非向外）
-- 確診後治療：超聲導引下凝固無心畸形臍帶阻斷血流
-- 單絨毛膜雙胞胎併發症：TTTS > 無心畸形 > 雙胞胎embolization症候群
-
-
-
-
+### Acardiac twins
 
 ![Page 537](/core_radiology/images/ultrasound/page-537.png)
 
-## 無心畸形與雙胞胎embolization症候群 / Acardiac Twinning and Twin Embolization Syndrome
-
-無心畸形（Acardiac twinning）又稱雙胞胎反向灌注序列（TRAP），捐血雙胞胎透過胎盤血管吻合將血液打入無心畸形兒，導致其結構異常（通常缺少胸部以上發育）。都卜勒可見無心畸形兒的臍帶動靜脈呈現反向血流。治療方式為及早用雷射或線圈凝固無心畸形的臍帶，避免心臟衰竭。雙胞胎embolization症候群發生在單絨毛膜雙胞胎之一死亡時，存活胎兒可能因血栓或壞死物質進入而發生中樞神經系統、腸胃道或腎臟栓塞，預後極差。
-
-Acardiac twinning represents twin reversed arterial perfusion (TRAP) sequence, where a pump twin perfuses a severely malformed co-twin through placental arteriovenous fistulas, resulting in absent or rudimentary development above the thorax. Doppler shows reversed flow in the umbilical arteries and vein of the acardiac twin. Treatment involves early cord coagulation to prevent high-output cardiac failure in the pump twin. Twin embolization syndrome occurs when one monochorionic twin dies, releasing thromboplastin material that embolizes to the surviving twin's CNS, GI, or renal circulation, carrying a very poor prognosis.
-
-### 臨床重點 / Clinical Pearls
-
-- **TRAP特徵**: 無心畸形都卜勒呈現反向臍帶血流 / Reversed umbilical cord flow on Doppler confirms acardiac perfusion
-- **治療時機**: 確診後應盡早治療，避免捐血胎兒心臟衰竭 / Early treatment prevents cardiac failure in the pump twin
-- **預後差異**: 雙絨毛膜存活胎兒預後較好，單絨毛膜存活胎兒預後極差 / Surviving dichorionic twin has better prognosis than surviving monochorionic twin
+Acardiac twins
+Acardiac twinning, also called twin reversed arterial perfusion (TRAP) sequence, is a
+severe variant of twin–twin perfusion syndrome. Similar to TTTS, acardiac twinning is
+a complication of monochorionic twins (either mono- or di-amniotic).
+In acardiac twins, the donor fetus supplies circulation to itself and an acardiac twin,
+enabled by placental fistulous connections. The acardiac twin has rudimentary or no
+development of structures above the thorax.
+Doppler of the umbilical arteries and vein shows reversed flow in the acardiac twin.
+Normally, the umbilical arteries carry deoxygenated blood out of the fetus, pumped by the fetal
+heart. In the acardiac twin, the umbilical arteries carry nutrient-depleted, poorly oxygenated blood
+into the fetus, pumped by the donor twin’s heart. Doppler of the acardiac twin’s umbilical arteries
+show an arterial waveform going into the fetus.
+Normally, the umbilical vein carries oxygenated blood into the fetus, from the placenta. In the
+acardiac twin, the umbilical vein carries deoxygenated blood out of the fetus. Doppler of the
+acardiac twin’s umbilical vein shows a venous waveform going out of the fetus.
+Treatment is coagulation of the acardiac twin’s umbilical cord.
+Twin embolization syndrome
+When one monochorionic twin dies in utero, the surviving twin is at risk for twin
+embolization syndrome, which can cause CNS, gastrointestinal, or renal infarcts.
+In general, prognosis for a surviving monochorionic twin is very poor when one twin
 
 ---
 
-
-
-
-
-# Ultrasound - Page 538
-第一孕期胚胎過小難以進行完整結構掃描，但可辨識關鍵構造。**頭臀長（CRL）**用於6-12週胎兒大小的測量；8週時可區分前腦（prosen- cephalon，未來大腦）與菱腦（rhombencephalon，未來腦幹/小腦）。**頸部透明帶（NT）**：11週正常上限2.2 mm；14週（CRL 79 mm）正常上限2.8 mm；增加與唐氏症及染色體異常相關。
-
-### 臨床重點 / Clinical Pearls
-
-- NT異常（≥2.2 mm at 11wks）= 唐氏症風險增加，但非確診
-- NT測量：高對比度設定、胎兒處正中矢狀面、胎兒頸部呈自然中性位置
-- CRL 6-12週估計妊娠年齡最準確（胎兒頸部尚未屈伸）
-
-
-
-
+### Evaluation of the first trimester embryo
 
 ![Page 538](/core_radiology/images/ultrasound/page-538.png)
 
-## 第一孕期胚胎評估 / First Trimester Embryo Evaluation
-
-第一孕期胚胎過小難以進行完整結構掃描，但可辨識關鍵構造。頭臀長（CRL）用於6-12週胎兒大小的測量。前腦（prosencephalon）與後腦（rhombencephalon）在8週時已可區分，前腦缺失可能是最早的神經管發育異常徵象。中腸在第一孕期經由腹壁缺口向外突出，約在12-13週完成270度的旋轉而歸位。若腸道未在13週前歸位則為病理性缺損（如臍膨出、腹裂）。頸部透明帶（NT）厚度增加與唐氏症及染色體異常高度相關，11週時正常上限為2.2mm。
-
-The first trimester embryo is too small for a complete anatomic survey, but key structures are identifiable. Crown-rump length (CRL) is the primary measurement from 6-12 weeks. The prosencephalon (forebrain) and rhombencephalon (hindbrain) are distinguishable by 8 weeks, and absence may represent the earliest sign of anencephaly. The midgut herniates through the ventral abdominal wall in the first trimester and undergoes a 270-degree rotation around the superior mesenteric artery, with herniation complete by 12-13 weeks. Pathologic defects such as omphalocele or gastroschisis are generally not diagnosed before 13 weeks. Increased nuchal translucency (NT) is strongly associated with Down syndrome and chromosomal abnormalities, with an upper normal limit of 2.2mm at 11 weeks.
-
-### 臨床重點 / Clinical Pearls
-
-- **NT異常**: ≥2.5mm建議進行染色體與結構評估 / NT ≥2.5mm warrants chromosomal and anatomic evaluation
-- **生理性內疝**: 12-13週應消失，未消失提示病理性缺損 / Physiologic herniation should resolve by 12-13 weeks; persistence suggests pathologic defect
-- **早期篩檢**: 第一孕期流產率最高，評估重點在染色體異常與重大結構缺失 / First trimester carries highest miscarriage rate; focus on chromosomal and major structural abnormalities
+Evaluation of the first trimester embryo
+The first trimester embryo is too small for a complete fetal survey; however, a few key
+anatomic structures can be identified and evaluated.
+Crown–rump length (CRL)
+The crown–rump length (CRL) is used to assign gestational age from 6–12 weeks.
+Measuring the CRL is straightforward in the first trimester as the fetus cannot flex or
+extend the neck.
+Prosencephalon and rhombencephalon
+By 8 weeks, the forebrain (prosencephalon) can be distinguished from the hindbrain
+(rhombencephalon). Both prosencephalon and rhombencephalon are hypoechoic,
+although the rhombencephalon is much more prominent. Absence of these structures
+may be the earliest finding of anencephaly.
+Ventral abdominal wall
+The midgut normally herniates through the ventral
+abdominal wall in the first trimester. During this
+herniation, the midgut rotates 270 degrees around
+the axis of the superior mesenteric artery (SMA).
+Physiologic midgut herniation is usually complete
+by 12–13 weeks. Therefore, a pathologic ventral
+wall defect, such as omphalocele or gastroschisis, is
 
 ---
 
-
-
-
-
-# Ultrasound - Page 539
-第二與三孕期超聲主要測量包括**BPD（雙頂徑）**、**OFD（枕額徑）**、腹徑與股骨長。BPD測量顱骨外緣到內緣，標準切面在視丘與透明隔（CSP）水平；OFD為額骨中點到枕骨中點。腹徑在臍靜脈/肝門靜脈/胃竇水平測量，AP與橫徑差<1 cm。股骨長在胎兒最接近探頭位置、垂直聲束測量最準確。
-
-### 臨床重點 / Clinical Pearls
-
-- BPD標準化測量可減少主要不確定性來源
-- 腹部測量角度約45°以減少脊椎偽影
-- 胎兒測量系統誤差常見：標準化培訓可減少此類誤差
-
-
-
-
+### Second and third trimesters
 
 ![Page 539](/core_radiology/images/ultrasound/page-539.png)
 
-## 第二/三孕期測量標準 / Second and Third Trimester Measurements
-
-第二與三孕期超聲主要測量包括BPD（雙頂徑）、OFD（枕額徑）、腹徑與股骨長。BPD測量顱骨外緣到內緣，標準切面在視丘與透明隔腔 level；OFD測量顱骨前方中線到後方中線；校正後BPD結合兩徑計算。腹徑在臍靜脈/門靜脈/胃 level 測量皮膚到皮膚，正常差異前後徑與橫徑<1cm，與水平面成45度角以減少脊椎假影。股骨長應在距離探頭最近、聲束垂直時測量最準確。
-
-Key second and third trimester measurements include BPD (biparietal diameter), OFD (occipital frontal diameter), abdominal diameter, and femur length. BPD is measured from outer to inner table of the calvarium at the level of the thalami and cavum septum pellucidum; OFD is measured from middle of frontal bone to middle of occipital bone; corrected BPD incorporates both diameters. Abdominal diameter is measured skin-to-skin at the level of the umbilical vein, portal vein, and stomach, with normal AP-to-transverse difference <1cm and a 45-degree angle to minimize spine artifact. Femur length is most accurate when measured perpendicular to the beam with the femur closest to the transducer.
-
-### 臨床重點 / Clinical Pearls
-
-- **BPD校正**: OFD與BPD的比值可用於偵測胎兒頭型異常（如窄頭或扁頭）/ Ratio of OFD to BPD detects abnormal head shapes (brachycephaly, dolichocephaly)
-- **腹徑測量**: 45度角避免脊椎遮蔽與不正確的AP測量值 / 45-degree angle avoids spine shadowing and incorrect AP measurement
-- **股骨長**: 可做為篩檢工具，與BPD、腹徑共同評估胎兒生長是否合符胎齡 / Serves as a screening tool combined with BPD and abdominal diameter for gestational age assessment
+Second and third trimesters
+Second and third trimester measurements
+Head measurements
+The biparietal diameter (BPD) is
+measured from the outer edge of
+the skull closest to the transducer
+to the inner edge of the skull
+farthest from the transducer.
+The plane of measurement is at
+the level of the thalami and cavum
+septum pellucidum. The skull should
+be completely visualized all the way
+The corrected BPD incorporates the
+The scanning plane for head measurements is at the
+occipital frontal diameter (OFD) and a
+level of the thalami (yellow arrows) and cavum septum
+correction factor.
+pellucidum (red arrows).
+The occipital frontal diameter
+(OFD) is measured from the middle
 
 ---
 
-
-
-
-
-# Ultrasound - Page 540
-**羊水指數（AFI）**是四象限最大垂直羊水囊之和。羊水過少定義為AFI≤6.3cm（第2.5百分位），羊水過多為AFI≥19.2 cm（第97.5百分位）。**宮頸評估**：經陰道超聲比經腹更準確；宮頸長度<3 cm為異常；宮頸漏斗（Funneling）：T→Y→V→U形 progression表示嚴重程度增加。**頸部皺褶（Nuchal fold）**：16-20週測量，<5 mm正常，≥6 mm為唐氏症主要標誌。
-
-### 臨床重點 / Clinical Pearls
-
-- AFI主觀評估與儀器測量同樣重要；邊界情況下主觀評估優先
-- 宮頸漏斗形进展：T→Y→V→U；T=正常；U=嚴重（需考慮宮頸環扎）
-- 頸部皺褶≥6 mm在16-20週為唐氏症主要超聲標誌（特異性高）
-
-
-
-
+### Amniotic fluid index (AFI)
 
 ![Page 540](/core_radiology/images/ultrasound/page-540.png)
 
-## 羊水指數、頸部皺褶與宮頸 / AFI, Nuchal Fold, and Cervix
-
-羊水指數（AFI）是四象限最大垂直羊水囊之和。羊水過少定義為AFI≤6.3cm（第2.5百分位），羊水過多為AFI≥19.2cm（第97.5百分位），但臨床仍需主觀評估。頸部皺褶在16-20週、 後窩水平測量，正常<5mm，5-5.9mm為邊緣值，≥6mm是第21對染色體異常的重要指標，厚頸部皺褶可能是囊性水瘤（透納氏症）。宮頸長度<3cm為異常，漏斗形變化（funneling）依形狀分為T→Y→V→U型，經陰道超聲比經腹超聲測量子宮頸長度更準確。
-
-Amniotic fluid index (AFI) is the sum of the largest vertical pocket in each of four quadrants. Oligohydramnios is defined as AFI ≤6.3cm (≤2.5th percentile) and polyhydramnios as AFI ≥19.2cm (≥97.5th percentile), though subjective assessment remains important. Nuchal fold is measured at 16-20 weeks at the posterior fossa level: <5mm is normal, 5-5.9mm is borderline, and ≥6mm is a major marker for trisomy 21; a thick nuchal fold may represent cystic hygroma (Turner syndrome). Cervical length <3cm is abnormal; funneling progresses through T→Y→V→U shapes, and transvaginal US is more accurate than transabdominal US for cervical length assessment.
-
-### 臨床重點 / Clinical Pearls
-
-- **AFI interpretation**: 個別象限羊水囊測量比總和更能反映胎兒尿液生成 / Individual quadrant pocket measurement may better reflect fetal urine production than total AFI
-- **宮頸評估**: 經陰道超聲是測量子宮頸長度的標準方法，應在膀胱排空狀態下執行 / Transvaginal US is the gold standard for cervical length; perform with empty bladder
-- **宮頸短**: 與自發性早產高度相關，<2.5cm時積極考慮陰道黃體素治療 / Short cervix correlates strongly with spontaneous preterm birth; consider vaginal progesterone when <2.5cm
+Amniotic fluid index (AFI)
+To quantify the amniotic fluid index (AFI) between 16 and 42 weeks, the largest vertical
+pocket of fluid is measured (in cm) in each of the four quadrants and summed. AFI varies
+with gestational age. In borderline cases, the subjective assessment should take precedent.
+Some references state that an AFI between 7 and 25 is normal, but these cutoffs vary.
+Oligohydramnios: AFI ≤6.3 cm is ≤2.5th percentile. Peaks at 24 weeks: 9.0 cm = 2.5th percentile.
+Polyhydramnios: AFI ≥19.2 cm is ≥97.5th percentile. Peaks at 36 weeks: 27.9 cm = 97.5th
+percentile.
+The amount of amniotic fluid should always be subjectively assessed.
+Nuchal fold (second trimester only)
+A thickened nuchal fold is the most sensitive
+and specific ultrasound finding to suggest
+Down syndrome.
+Compared to nuchal lucency, measurement
+of nuchal fold is performed later in
+pregnancy. In contrast to the nuchal lucency,
+the nuchal fold is measured in the axial plane
+at the level of the posterior fossa.
+The nuchal fold is only measured from 16–20
+<5 mm is normal.
 
 ---
 
-
-
-
-
-# Ultrasound - Page 541
-胎盤由胎兒的絨毛膜與母體的蛻膜組成。**單一臍帶動脈（2-vessel cord）**發生率約1%，與胎兒異常高度相關（50%，尤其心血管），與13、18三體相關。**前置血管（Vasa previa）**：胎兒胎盤血管跨過宮頸內口，由絨毛膜外臍帶插入或副胎盤小葉引起；胎兒血管而非母體血管；彩色都卜勒可確診。
-
-### 臨床重點 / Clinical Pearls
-
-- 單一臍帶动脉：胎兒異常風險50%，應建議詳細結構超聲及胎兒心臟超聲評估
-- 前置血管（Vasa previa）：胎兒血管跨宫口，破裂可致胎兒大出血；彩色都卜勒確診
-- 前置胎盤（Placenta previa）：胎盤覆蓋宫口，需剖腹产；邊緣距宫口>3cm可陰道分娩
-
-
-
-
+### Placenta
 
 ![Page 541](/core_radiology/images/ultrasound/page-541.png)
 
-## 胎盤與前置血管 / Placenta and Vasa Previa
-
-胎盤由胎兒的絨毛膜與母體的蛻膜組成。單一臍帶動脈（2-vessel cord）發生率約1%，與胎兒異常高度相關（50%），最常見為心血管與染色體異常（第13與18對三染色體）。前置血管（vasa previa）指胎兒胎盤血管跨過宮頸內口，原因包括帆狀臍帶插入（cord inserts outside placental margin）與副葉胎盤（separate placental island connected by vessels）。都卜勒可確認胎兒血管跨越宮頸口，生產時破裂會導致胎兒出血。
-
-The placenta consists of fetal chorion and maternal decidua. A single umbilical artery (2-vessel cord) occurs in ~1% of pregnancies and is associated with fetal anomalies (50%), most commonly cardiovascular abnormalities and trisomies 13 and 18. Vasa previa refers to fetal placental vessels crossing the internal cervical os, caused by velamentous cord insertion (cord inserts outside the placental margin) or a succenturiate lobe (separate placental tissue connected by vessels). Color Doppler confirms fetal arterial vessels crossing the os, and rupture at delivery causes fetal hemorrhage.
-
-### 臨床重點 / Clinical Pearls
-
-- **2-vessel臍帶**: 應進行詳細解剖掃描與胎兒心臟評估 / Detailed anatomic survey and fetal echocardiography are warranted
-- **帆狀插入**: 需在產前確診，避免生產時血管撕裂 / Must be diagnosed prenatally to avoid vessel rupture at delivery
-- **前置血管**: 建議在36-37週計劃性剖腹產，避免胎兒失血 / Elective cesarean section at 36-37 weeks prevents fetal hemorrhage
+Placental embryology and physiology
+The placenta is formed by fetal chorion and maternal endometrium.
+The mature placental circulation allows exchange of oxygen and nutrients between
+maternal and fetal vessels through a membrane, although the blood does not admix.
+Single umbilical artery
+Two vessel cord (single umbilical artery):
+Color Doppler through the fetal bladder
+demonstrates a single umbilical artery
+Case courtesy Beryl Benacerraf, MD,
+Diagnostic Ultrasound Associates, Boston.
+The normal umbilical cord has two umbilical arteries and a single umbilical vein.
+A single umbilical artery is associated with fetal anomalies (most commonly
+cardiovascular) in up to 50% of fetuses.
+There is an increased incidence of a single umbilical artery in trisomies 13 and 18.
+Abnormalities of placental thickness
+Placental thickness is not routinely measured, but in fetal hydrops the placenta may
+become thickened.
+In polyhydramnios, the placenta usually becomes stretched and thinned. In the
+presence of polyhydramnios, if the placenta looks normal in thickness, or especially if
+the placenta looks thickened, concern should be raised for fetal hydrops.
 
 ---
 
-
-
-
-
-# Ultrasound - Page 542
-前置胎盤指胎盤覆蓋宮頸內口；邊緣距宮頸口>3cm為正常。約0.5-1%的生產需要剖腹产。**假陽性陷阱**：宮縮或膀胱過度充盈可造成前置胎盤假象；確診需空膀胱、無宮縮時實時掃描確認。**胎盤早期剝離（Abruption）**：超聲可正常（20%病例）；急剝離血腫可與胎盤等迴聲（極難鑑別）；慢性剝離呈低迴聲。**胎盤植入（Accreta）**：超聲可見胎盤-膀胱介面大型囊性血管腔（vascular lakes）及正常胎盤後透明空間消失。
-
-### 臨床重點 / Clinical Pearls
-
-- 前置胎盤假陽性：宮縮或膀胱充盈可模擬胎盤覆蓋宫口；需空膀胱確認
-- 胎盤早剝超聲可完全正常（假陰性20%），不能單凭超聲排除
-- 胎盤植入：前置胎盤+先前剖腹產史=最高風險群，產前MRI評估
-
-
-
-
+### Placenta previa and other abnormalities of placental positio
 
 ![Page 542](/core_radiology/images/ultrasound/page-542.png)
 
-## 前置胎盤、胎盤早期剝離與植入 / Placenta Previa, Abruption, and Accreta
-
-前置胎盤指胎盤覆蓋宮頸內口，邊緣距宮頸口>3cm為正常。約0.5-1%的生產需要剖腹產。需注意假陽性的陷阱：宮縮或膀胱充盈可能造成過度診斷。胎盤早期剝離（abruption）為胎盤在分娩前過早分離，常見原因包括高血壓、藥物濫用、外傷與羊水快速減少。超聲可能正常（約20%），血腫可能與胎盤回音相似。胎盤植入（accreta）為胎盤因先前疤痕（如剖腹產、子宮刮搔、 子宮內膜發炎）而異常深度附著於子宫壁，涵蓋accreta（淺層）、increta（深入肌層）與percreta（穿透漿膜層）。超聲特點包括：胎盤後方的乾淨間隙消失、胎盤與膀胱介面異常、蟲蛀狀外觀與血管腔隙。
-
-Placenta previa refers to placental tissue covering the internal cervical os; an edge >3cm from the os is considered normal. Approximately 0.5-1% of deliveries require cesarean section. Pitfalls include overdiagnosis from contractions or a full bladder. Placental abruption is premature separation of the placenta, associated with hypertension, drug abuse, trauma, and rapid decompression of the uterus. US may appear normal (~20% of cases) and the hematoma can be isoechoic to the placenta. Placenta accreta results from abnormal deep attachment due to prior scarring (cesarean delivery, D&C, endometritis), encompassing accreta (superficial), increta (into the myometrium), and percreta (through the serosa). US findings include loss of the retroplacental clear space, abnormal bladder-placenta interface, and moth-eaten appearance with vascular lacunar spaces.
-
-### 臨床重點 / Clinical Pearls
-
-- **前置胎盤假陽性**: 宮頸評估前請孕婦排空膀胱，並在30分鐘後重新評估收縮是否影響結果 / Empty bladder before cervical assessment; re-evaluate in 30 minutes if contractions may cause false-positive
-- **剝離超聲**: 胎盤後方的急性血腫在T1/T2都可能為高信號，與胎盤等回音的血腫最難診斷 / Acute retroplacental hematoma may be T1/T2 hyperintense; isoechoic hematomas are most difficult to detect
-- **植入分级**: 超聲特徵可區分accreta、increta、percreta，MRI可做為補充工具 / US features differentiate accreta/increta/percreta; MRI serves as an adjunct
+Placenta previa and other abnormalities of placental position
+Obstetrical terminology regarding abnormalities of placental position in relation to the
+internal cervical os is confusing. The terms partial previa, complete previa, incomplete
+previa, marginal placenta, and low-lying placenta are inconsistent among references.
+The edge of the placenta should be >3 cm from the internal cervical os.
+If the placenta is <3 cm from the internal cervical os, it is best to simply be descriptive
+and describe how far the leading edge of the placenta is from the internal cervical os.
+In true placenta previa, the placenta covers the internal cervical os. Placenta previa is seen
+in approximately 0.5% to 1% of deliveries and requires a cesarean section for safe delivery.
+A potential pitfall is over-diagnosis in the first and second trimesters due to contractions or
+overfilling of the maternal blader. To definitively diagnose previa, the patient should have an empty
+bladder and realtime scanning should be performed to confirm the lack of active contractions.
+Placental abruption
+Placental abruption is premature separation of the placenta from its uterine attachment.
+There is an increased incidence of abruption in maternal hypertension, drug abuse, trauma,
+or rapid decompression of a distended uterus (e.g., from a large-volume amniocentesis).
+• A subchorionic hematoma is a variant seen early in pregnancy, where a hypoechoic
+crescent is present around the gestational sac.
+• Placental abruption can have variable ultrasound findings and may even appear
+normal. Because a normal ultrasound is seen in 20% of cases of abruption, a negative
 
 ---
-
-
-
-
-
-# Ultrasound - Page 543
 
 ## 婦科超聲 / Gynecologic Ultrasound
 
-
-## 胎兒超聲 / Fetal Ultrasound
+### Placenta accreta
 
 ![Page 543](/core_radiology/images/ultrasound/page-543.png)
 
+Placenta accreta
+Placenta accreta is a spectrum of abnormally tenacious or deep attachment of the
+placenta into the myometrium, carrying a risk of hemorrhage at the time of placental
+separation.
+Accreta is thought to be caused by scarring (which may be secondary to prior
+Caesarean section, D&C, endometritis, or adenomyosis) and resultant endometrial
+deficiency. It is especially important to consider accreta if an anterior placenta is
+present with a history of prior Caesarean section. Placenta previa also increases the
+risk of accreta.
+Ultrasound findings of accreta include loss of the normal retroplacental clear space,
+abnormalities at the bladder/placental interface, and prominent vascular lacunar
+spaces. The presence of a moth-eaten placenta with vascular lacunar spaces near the
+bladder is highly specific for accreta.
+Placenta accreta is an umbrella term that describes three degrees of placental
+attachment/invasion. Confusingly, the term “placenta accreta” also describes one of
+the specific three degrees.
+In placenta accreta, the placenta attaches deeply into the myometrium but does not
+Ultrasound shows thinning or absence of the normal hypoechoic subplacental zone.
+In placenta increta, the placenta invades into the myometrium.
+In placenta percreta, placenta penetrates through the myometrium and into or
 
-
-胎兒超聲波檢查為產前評估的核心工具。第二與第三孕期（14週之後）超聲可系統性評估胎兒結構、發育及生物特徵。胎兒篩檢分為常規結構篩檢與專科針對性評估。14-22週為胎兒結構篩檢最佳時機；28週後評估胎兒發育、胎位及胎盤位置。系統性掃描遵循標準横斷面與矢狀面，確保所有結構均被檢視。
-
-### 臨床重點 / Clinical Pearls
-
-- 胎兒超聲首要目標：確認妊娠週數、胎位、胎盤位置及羊水量
-- 胎兒結構異常發現後應標準化搜尋其他系統（CNS、心臟、腎臟等）
-- 胎兒生長參數（BPD、OFD、腹徑、股骨長）用於評估發育進度是否與妊娠週數相符
 ---
 
-
-# Ultrasound - Page 544
-
-## 胎盤植入譜與胎兒水腫 / Placenta Accreta Spectrum and Fetal Hydrops
+### Fetal hydrops
 
 ![Page 544](/core_radiology/images/ultrasound/page-544.png)
 
-胎盤植入譜涵蓋黏連性（accreta）、植入性（increta）及穿透性（percreta），其中穿透性胎盤（percreta）穿過，子宮內膜已完全破壞，超音波可見胎盤與膀胱介面出現大型囊性血管湖。胎兒水腫是一種液體過載狀態，符合以下兩項以上即可診斷：腹水、胸水或心包積液、皮膚水腫、羊水過多、胎盤增厚。免疫性水腫因母體對胎兒血球致敏（多為Rh血型不合）導致胎兒溶血性貧血，宮內輸血治療預後佳；非免疫性水腫原因多元（心臟結構異常、顱外分流、TORCH感染、染色體異常等），整體預後較差。
-
-### 臨床重點 / Clinical Pearls
-
-- 胎盤穿透性（percreta）超音波特徵為胎盤-膀胱交界處的大型囊性血管腔（vascular lakes）
-- 胎兒水腫診斷需符合 ≥2 項：腹水、胸水、心包積液、皮膚水腫、羊水過多、胎盤增大
-- 非免疫性胎兒水腫（NIHF）預後較差，病因篩檢應涵蓋心臟結構、感染及染色體異常
+Fetal hydrops
+Overview of hydrops
+Fetal hydrops:
+Transverse ultrasound of a fetal head shows
+diffuse skin thickening of the scalp (arrows).
+Polyhydramnios is also present (although
+incompletely seen on this single image).
+Case courtesy Beryl Benacerraf, MD,
+Diagnostic Ultrasound Associates, Boston.
+Hydrops is a fluid-overload state characterized by at least two of the following:
+Ascites, pleural or pericardial effusion, skin thickening, polyhydramnios, and placental
+enlargement.
+Hydrops may be classified as immune or non-immune. Prognosis is variable but tends
+to be poor for non-immune hydrops.
+Immune hydrops
+Immune-mediated hydrops is fetal hemolytic anemia caused by prior maternal
+exposure to fetal antigens, by far most commonly the Rh antigen.
+Prognosis is good if treated with intrauterine or peripartum fetal blood transfusions.
+Non-immune hydrops
+Non-immune hydrops can be due to a diverse array of causes, most of which lead to
 
 ---
 
-
-# Ultrasound - Page 545
-
-## 胎兒腹水、胸腔積液與羊水異常 / Fetal Ascites, Pleural Effusion, and Amniotic Fluid Abnormalities
+### Amniotic fluid
 
 ![Page 545](/core_radiology/images/ultrasound/page-545.png)
 
-胎兒腹水與胸腔積液均為胎兒水腫的診斷標準之一；孤立性腹水可能來自尿路阻塞（腎盞或膀胱破裂）或胎糞性腹膜炎，孤立性胸腔積液則最常見於先天性乳糜胸（胸導管發育異常）。羊水主要由胎兒尿液產生、經胎兒吞嚥吸收；羊水過少常因泌尿系統發育異常（雙側腎發育不良、後尿道瓣膜、雙側腎盂輸尿管交界處阻塞、ARPKD），嚴重時可導致 Potter 序列症（顏面畸形、肺發育不良、肢體攣縮）；羊水過多則與胃腸道閉鎖（喉部、食道、十二指腸）、橫膈膜疝氣、神經系統發育異常或單絨毛膜雙胞胎症候群相關。
-
-### 臨床重點 / Clinical Pearls
-
-- 羊水過少最常見原因為胎兒宮內生長遲緩（IUGR），但需排除泌尿系統發育異常
-- Potter 序列症核心：顏面畸形的宮內壓迫表現、肺發育不良、肢體姿勢異常
-- 羊水過多 >50% 為特發性；發現羊水過多時應積極搜尋胃腸道及神經系統畸形
+Amniotic fluid
+Overview of fetal amniotic fluid
+Amniotic fluid surrounds the fetus and is required for normal development of multiple
+organ systems, including the lungs.
+The amount of amniotic fluid should routinely be assessed subjectively. It is
+not necessary to routinely measure the amount of amniotic fluid; however, if a
+measurement is needed, the amniotic fluid index (AFI) may be used for quantification.
+Amniotic fluid is produced primarily by the fetal genitourinary tract and is excreted by
+the fetus as urine. A small amount of amniotic fluid is also produced by the fetal lungs
+and nasopharyngeal cavities.
+Disorders of the fetal genitourinary tract may cause oligohydramnios due to
+insufficient secretion of fluid.
+Amniotic fluid is absorbed primarily by fetal swallowing.
+Disorders of the gastrointestinal tract or central nervous system may cause
+polyhydramnios due to impairment of swallowing or absorption of fluid.
+Oligohydramnios
+Oligohydramnios is too little amniotic fluid.
+Oligohydramnios may lead to Potter sequence, which describes the typical
+malformations induced by confinement from oligohydramnios including facial
+dysmorphism, pulmonary hypoplasia, club feet, and musculoskeletal contractures.
 
 ---
 
-
-# Ultrasound - Page 546
-
-## 胎兒腦部：腦室擴大與無腦畸形 / Fetal Brain: Ventriculomegaly and Anencephaly
+### Fetal brain and spine
 
 ![Page 546](/core_radiology/images/ultrasound/page-546.png)
 
-腦室擴大是指側腦室後角寬度超過診斷閾值，正常應 <10 mm，10-12 mm 為輕度、12-15 mm 為中度、>15 mm 為重度；「懸垂脈絡叢徵」（dangling choroid sign）為腦室擴大時脈絡叢依重力下垂的特徵性表現。無腦畸形為大腦皮質及頭蓋骨完全缺失，屬於致死性神經管缺陷，母體血清 AFP 會升高，因胎兒吞嚥功能受損可能導致羊水過多；頭部殘留的血管瘤樣間質可與羊膜帶症候群做鑑別，後者通常為非對稱性。
-
-### 臨床重點 / Clinical Pearls
-
-- 輕度腦室擴大（10-12 mm）需追蹤並排除染色體異常及顱內感染
-- Dandy-Walker 畸形、水腦（中腦水管狹窄）、Chiari II 型及胼胝體發育不全均為腦室擴大的常見病因
-- 無腦畸形為致死性，產前 AFP 升高是重要線索，與羊膜帶症候群的鑑別在於對稱性
+Fetal brain and spine
+Ventriculomegaly
+Ventriculomegaly:
+Transverse ultrasound of the fetal head shows
+moderate symmetrical dilation of the lateral
+ventricles, with the calipers measuring 14
+mm. Regardless of the gestational age, the
+lateral ventricles should always measure <10
+Case courtesy Beryl Benacerraf, MD,
+Diagnostic Ultrasound Associates, Boston.
+Ventriculomegaly is enlargement of the cerebral ventricles. The term hydrocephalus is
+usually avoided because that implies ventriculomegaly due to obstruction.
+Throughout gestation, the lateral ventricles should each measure less than 10 mm when
+measured at the atrium. The atrium is the confluence of the lateral ventricle, temporal
+horn, and occipital horn. The normal choroid plexus has a rounded border in this location.
+Mild ventriculomegaly: 10–12 mm; moderate: 12–15 mm; marked: >15 mm
+Normally, the choroid plexus fills the lateral ventricle. The dangling choroid sign
+represents the dependent drooping of choroid plexus seen in ventriculomegaly.
+Ventriculomegaly may be present even in a ventricle measuring <10 mm if there is >3 mm of fluid
+between the medial margin of the ventricle and the choroid.
 
 ---
 
-
-# Ultrasound - Page 547
-
-## 顱裂畸形、丹迪-沃克症候群與Chiari II型 / Cephalocele, Dandy Walker, and Chiari II
+### Cephalocele
 
 ![Page 547](/core_radiology/images/ultrasound/page-547.png)
 
-顱裂畸形為中線神經管缺陷，顱內容物經骨缺損處突出到顱外，枕葉最常見；僅含腦膜者為腦膜膨出（meningocele），含有神經組織者為腦膨出（encephalocele），需與最常見的胎兒頸部腫塊——囊狀水瘤（cystic hygroma）做鑑別。Dandy-Walker 畸形特徵為小腦蚓部發育不全合併第四腦室擴張，常伴隨胼胝體發育不全。Chiari II 型為後顱窩狹窄合併神經管缺陷（多為腰骶部脊髓脊膜膨出），「香蕉徵」（banana sign）為小腦半球受壓變平（對 Chiari II 型有很高的特異性），「檸檬徵」（lemon sign）為額骨變平（非特異性）；臨床上若發現香蕉徵，即使未直接看到脊髓脊膜膨出，也應假定其存在。
-
-### 臨床重點 / Clinical Pearls
-
-- 顱裂畸形若發現腦組織外露，需與囊狀水瘤鑑別，後者為胎兒頸部最常見腫塊
-- Chiari II 型幾乎都伴隨腰骶部脊髓脊膜膨出，香蕉徵是超聲診斷的強指標
-- 檸檬徵為非特異性，可見於單純腦室擴大或其他顱內異常，不可單凭此徵象做診斷
+Cephalocele
+A cephalocele is a midline neural tube defect characterized by protrusion of
+intracranial structures outside of the calvarium. The occipital skull is the most
+common location.
+A meningocele contains only meninges. An encephalocele also contains neural tissue.
+In addition to cephalocele, the primary differential consideration of a mass posterior
+to the occipital skull is a cystic hygroma, which is a congenital lymphatic malformation
+and the most common fetal neck mass.
+Dandy Walker malformation
+Dandy Walker is a diverse spectrum of diseases characterized by hypogenesis of the
+cerebellar vermis and resultant fourth ventricular dilation.
+Dandy Walker is associated with agenesis of the corpus callosum.
+Chiari II/Myelomeningocele
+Chiari II is the combination of a small posterior fossa and a neural tube defect. By far
+the most common associated neural tube defect is a lumbar myelomeningocele. A
+myelomeningocele contains both neural elements and meninges.
+The banana sign describes the characteristic flattened cerebellar hemispheres in
+the small posterior fossa. The banana sign is very specific for Chiari II. In fact, if the
+banana sign is seen, then a myelomeningocele is presumed to be present even if not
+identified on ultrasound.
 
 ---
 
-
-# Ultrasound - Page 548
-
-## 前腦無裂畸形與胼胝體發育不全 / Holoprosencephaly and Corpus Callosum Agenesis
+### Holoprosencephaly
 
 ![Page 548](/core_radiology/images/ultrasound/page-548.png)
 
-前腦無裂畸形為前腦中線分割失敗，分為三型：全前腦無裂（alobar）最嚴重，表現為丘腦融合、單一心室、背側囊腫、 Boomerang 形腦組織且無大腦縱裂，常伴隨 13 三體及顏面畸形（唇顎裂、独眼畸形）。胼胝體發育不全的間接超聲表現包括：透明隔缺如、枕角擴大的杯狀畸形（colpocephaly）、額角分開、側腦室呈平行走向、室壁內凹（Probst 束），並可能出現中線囊腫（第三腦室疝出）；常與 8、13、18 三體相關。
-
-### 臨床重點 / Clinical Pearls
-
-- 全前腦無裂（alobar）為致死性，顏面中線畸形是重要線索，常與 13 三體相關
-- 透明隔缺如強烈提示胼胝體發育不全，但需注意極少數情況下胼胝體可能正常（建議胎兒 MRI 確認）
-- Colpocephaly（枕角不成比例擴大）為胼胝體發育不全的特徵性表現
+Holoprosencephaly
+Holoprosencephaly:
+Oblique axial/coronal ultrasound
+through the posterior brain
+shows fused thalami across the
+midline (arrows). A large dorsal
+cyst is present, largely replacing
+the visualized supratentorial
+brain. No falx is seen.
+Case courtesy Beryl Benacerraf,
+MD, Diagnostic Ultrasound
+Associates, Boston.
+Holoprosencephaly is failure of midline cleavage of the primitive prosencephalon in
+early embryologic development. The most severe form, alobar holoprosencephaly,
+leads to fused thalami and a single monoventricle that may communicate with a
+large dorsal cyst. Brain tissue surrounds the monoventricle, forming a characteristic
+boomerang shape.
+Holoprosencephaly is associated with trisomy 13, facial hypoplasias, and midline facial
+anomalies including clefts.
+Agenesis of the corpus callosum
 
 ---
 
-
-# Ultrasound - Page 549
-
-## 透明隔缺如、水腦無腦畸形與胎兒顱內囊腫 / Absence of CSP, Hydranencephaly, and Fetal Intracranial Cysts
+### Absence of the cavum septum pellucidum (CSP)
 
 ![Page 549](/core_radiology/images/ultrasound/page-549.png)
 
-透明隔缺如常伴隨胼胝體發育不全（兩者同時形成），若未合併其他異常需考慮胎兒 MRI 排除隔-眼發育不良（Spto-optic dysplasia）。水腦無腦畸形（hydranencephaly）為大腦皮質因缺血或感染（常為 MCA 區域梗塞）完全破壞，皮質 mantle 完全消失（與水腦不同），但大腦縱裂仍可見（可與全前腦無裂鑑別）。脈絡叢囊腫常見（1-5%），多數為正常變異且會自行消退；50% 的 18 三體胎兒可見脈絡叢囊腫，若單獨出現且母血清篩檢正常則多為偶發。蓋倫靜脈畸形為蓋倫靜脈因動靜脈瘻管擴張，可能導致高輸出量心衰竭及胎兒水腫。
+Absence of the cavum septum pellucidum (CSP)
+The cavum septum pellucidum (CSP) should always be identified in a normal fetus.
+If the CSP is not seen, the primary consideration is agenesis of the corpus callosum, as
+the cavum septum pellucidum and corpus callosum are formed simultaneously.
+Uncommonly, the CSP may be absent in the presence of a normal corpus callosum.
+This may represent septo-optic dysplasia and fetal MRI should be recommended.
+Hydranencephaly
+Hydranencephaly is complete cortical destruction due to infarct or infection. The brain
+parenchyma is obliterated and replaced by fluid.
+The most common cause of hydranencephaly is in utero complete occlusion of the MCA.
+In contrast to severe hydrocephalus, a cortical mantle is absent in hydranencephaly.
+In contrast to holoprosencephaly, a falx is typically visualized in hydranencephaly.
+Choroid plexus cyst
+Choroid plexus cyst:
+Transverse ultrasound of a fetal head shows
+a hypoechoic cyst (arrow) located within
+the echogenic, otherwise normal-appearing
+Cysts within the choroid plexus are common (seen in 1–5% of fetal surveys). The vast
+majority of choroid plexus cysts are present in normal fetuses and resolve on followup scans. However, up to 50% of trisomy 18 fetuses will have choroid plexus cysts.
+Choroid plexus cysts can be considered an incidental finding in the absence of any
 
-### 臨床重點 / Clinical Pearls
+---
 
-- 透明隔缺如若其他結構正常，建議胎兒 MRI 確認是否為隔-眼發育不良
-- 水腦無腦畸形皮質 mantle 完全消失但大腦縱裂仍存在，可與全前腦無裂鑑別
-- 孤立性脈絡叢囊腫若母血清篩檢正常，良性可能性高；但若合併其他結構異常需考慮 18 三體
-
-心軸異常是發現胎兒胸腔病變的重要線索；先天性橫膈膜疝氣（CDH）以左後側（Bochdalek 孔）最常見，腸道（通常為胃和小腸）突入胸腔，經典超聲表現為胸腔內囊性團塊合併横膈膜下胃泡消失、右側疝氣（Morgagni 型）則為肝臟向前突出。肺部和支氣管發育異常（CPAM，原名 CCAM）為細支氣管良性增強性增生，三型分類以囊泡大小為依據，常自行消退但 CT/MRI 仍可見；肺隔離症（sequestration）為異常肺組織由主動脈而非肺循環供血，典型超聲為左下葉高回聲團塊，彩色都卜勒可確診。
-
-### 臨床重點 / Clinical Pearls
-
-- CDH 左後側（Bochdalek）最常見，經典超聲：胸腔內囊性團塊 + 横膈膜下胃泡消失
-- CPAM 病灶可超聲下看似消退但 CT/MRI 仍可見，術前需多模態評估
-- 肺隔離症確診關鍵：彩色都卜勒顯示由主動脈（而非肺循環）供血
-
-# Ultrasound - Page 550
-
-## 透明隔缺如、水腦無腦畸形與顱內囊腫 / CSP, Hydranencephaly, and Intracranial Cysts
-
-透明隔（CSP）缺如常伴隨胼胝體發育不全（兩者同時形成），若未合併其他異常需考慮胎兒 MRI 排除隔-眼發育不良（Septo-optic dysplasia）。水腦無腦畸形（Hydranencephaly）為大腦皮質因缺血或感染（常為 MCA 區域梗塞）完全破壞，皮質mantle 完全消失（與水腦不同），但大腦縱裂仍可見（可與全前腦無裂鑑別）。脈絡叢囊腫（Choroid plexus cyst）常見（1-5%），多數為正常變異且會自行消退；50% 的 18 三體胎兒可見囊腫。蓋倫靜脈畸形（Vein of Galen malformation）為蓋倫靜脈因動靜脈瘻管擴張，可致高輸出量心衰竭及胎兒水腫。
-
-### 臨床重點 / Clinical Pearls
-
-- 透明隔缺如若其他結構正常，建議胎兒 MRI 確認是否為隔-眼發育不良
-- 水腦無腦畸形皮質 mantle 完全消失但大腦縱裂仍存在，可與全前腦無裂鑑別
-- 孤立性脈絡叢囊腫若母血清篩檢正常，良性可能性高；但若合併其他結構異常需考慮 18 三體
+### Fetal thorax
 
 ![Page 550](/core_radiology/images/ultrasound/page-550.png)
 
+Fetal thorax
+Evaluation of the fetal thorax
+Abnormal position of the heart in the thorax is an important clue to the possible
+presence of a thoracic anomaly. Abnormal cardiac position or axis may be secondary
+to a thoracic mass lesion or pulmonary hypoplasia.
+Congenital diaphragmatic hernia (CDH)
+Congenital diaphragmatic hernia (CDH) is herniation of abdominal organs (most
+commonly bowel) into the thorax through a diaphragmatic defect. CDH is the most
+common fetal intrathoracic mass lesion.
+Most cases are isolated anomalies; however, a prominent minority of fetuses have
+other anomalies, most commonly congenital heart disease.
+By far, the most common location for CDH is the left posterior thorax, called a Bochdalek
+hernia (mnemonic: “back to the left”). A Bochdalek hernia may displace the heart.
+When a CDH occurs on the right it is called a Morgagni hernia. The diaphragmatic
+defect of a Morgagni hernia tends to be anterior, with the liver the most commonly
+herniated organ.
+The two classic fetal ultrasound findings of CDH are a cystic intra-thoracic mass representing
+the stomach and/or bowel, and absence of the stomach bubble below the diaphragm.
+Complications of CHD include pulmonary hypoplasia on the affected side, bowel
+obstruction with resultant polyhydramnios, and obstruction of venous return due to
+
 ---
 
-# Ultrasound - Page 551
-
-## 胎兒胸腔異常 / Fetal Thoracic Anomalies
-
-心軸異常是發現胎兒胸腔病變的重要線索。先天性橫膈膜疝氣（CDH）以左後側（Bochdalek 孔）最常見，腸道（通常為胃和小腸）突入胸腔，經典超聲表現為胸腔內囊性團塊合併橫膈膜下胃泡消失；右側疝氣（Morgagni 型）則為肝臟向前突出。肺部及支氣管發育異常（CPAM，原名 CCAM）為細支氣管良性增強性增生，三型分類以囊泡大小為依據；肺隔離症（Sequestration）為異常肺組織由主動脈而非肺循環供血，彩色都卜勒可確診。肺發育不良（Pulmonary hypoplasia）為肺組織發育不全，可由胸腔腫塊、羊水過少或骨骼發育不良引起；胎兒胸廓呈小鐘形提示肺發育不良。
-
-### 臨床重點 / Clinical Pearls
-
-- CDH 左後側（Bochdalek）最常見，經典超聲：胸腔內囊性團塊 + 橫膈膜下胃泡消失
-- CPAM 病灶可超聲下看似消退但 CT/MRI 仍可見，術前需多模態評估
-- 肺隔離症確診關鍵：彩色都卜勒顯示由主動脈（而非肺循環）供血
+### Laryngeal or tracheal atresia
 
 ![Page 551](/core_radiology/images/ultrasound/page-551.png)
 
+Laryngeal or tracheal atresia
+Atresia of the upper airway, otherwise known as congenital high airway obstruction
+syndrome (CHAOS), is lethal and may cause bilateral enlarged echogenic lungs.
+Fetal abdomen
+Anomalies of the fetal gastrointestinal tract may cause polyhydramnios due to
+disruption of swallowing or impaired absorption of swallowed amniotic fluid.
+Esophageal atresia
+Esophageal atresia is a blind-ending esophagus, due to incomplete division of the
+foregut in early embryologic development.
+Esophageal atresia is usually associated with a tracheoesophageal fistula.
+The classic ultrasound findings of esophageal atresia are polyhydramnios and an
+absent stomach bubble.
+Duodenal atresia (DA)
+Duodenal atresia: Two transverse images through the fetal abdomen (left image) show the dilated
+stomach (st) and dilated proximal duodenum (duo) representing the double bubble sign. The image on
+the right confirms that these two dilated structures connect (arrow).
+Case courtesy Julie Ritner, MD, Brigham and Women’s Hospital.
+Duodenal atresia (DA) causes duodenal obstruction from lack of recanalization of
+the duodenal lumen. Duodenal atresia is the most common cause of fetal duodenal
+obstruction.
+
 ---
 
-# Ultrasound - Page 552
-
-## 胎兒腹部：胃腸道異常 / Fetal Abdomen: Gastrointestinal Anomalies
-
-胎兒胃腸道阻塞可因干擾吞嚥或吸收而導致羊水過多。食道閉鎖（Esophageal atresia）為前腸分割失敗引起的盲端食道，常合併氣管食道瘻管；超聲經典表現為羊水過多合併胃泡消失。十二指腸閉鎖（Duodenal atresia）為最常見胎兒小腸阻塞原因，超聲呈「雙氣泡徵（double bubble sign）」——擴張的胃竇和十二指腸近端；約三分之一合併唐氏症。遠端腸道阻塞可為結構性（空腸閉鎖、迴腸閉鎖或肛門直腸畸形）或功能性（先天性巨結腸症、胎糞性腸阻塞）。
-
-### 臨床重點 / Clinical Pearls
-
-- 食道閉鎖：羊水過多 + 胃泡消失為經典表現；注意與 CDH 鑑別
-- 雙氣泡徵：擴張胃竇+十二指腸近端；三分之一合併唐氏症，應詳細搜尋心臟及結構異常
-- 胎糞性腸阻塞幾乎只见於有囊性纖維化的胎兒；三胞胎巨型兒
+### Fetal manifestations of meconium
 
 ![Page 552](/core_radiology/images/ultrasound/page-552.png)
 
+Fetal manifestations of meconium
+Meconium ileus is bowel obstruction caused by impacted meconium in a fetus with
+cystic fibrosis.
+Meconium peritonitis is peritoneal inflammation secondary to in utero bowel
+perforation and resultant spillage of meconium into the peritoneal cavity. This leads to
+peritoneal adhesions and, ultimately, dystrophic calcifications.
+Meconium pseudocyst is a cystic abdominal structure, often with peripheral calcification,
+representing a walled-off bowel perforation. It is a sequela of meconium peritonitis.
+Hyperechoic small bowel
+Hyperechoic or echogenic bowel is a nonspecific finding that is associated with
+Down syndrome. Other causes of hyperechoic small bowel include TORCH infection,
+cystic fibrosis, and swallowing of intra-amniotic blood. It may also be associated with
+intrauterine growth restriction.
+If the bowel is only mildly echogenic (less echogenic than bone) and no mass effect is
+present, this appearance may represent a normal variant.
+Omphalocele
+An omphalocele is a midline anterior abdominal wall defect with resultant herniation
+of intra-abdominal contents covered by a peritoneal membrane. Omphalocele is the
+most common anterior abdominal wall defect.
+The key to differentiate omphalocele from gastroschisis (discussed below) is the
+
 ---
 
-# Ultrasound - Page 553
-
-## 胎糞性併發症與腹壁缺損 / Meconium Complications and Abdominal Wall Defects
-
-胎糞性囊腫（Meconium pseudocyst）為包裹性腸道穿孔後由胎糞引起的囊性病變，常伴周邊鈣化；為胎糞性腹膜炎的後遺症。胎糞性腹膜炎（Meconium peritonitis）為宮內腸道穿孔後胎糞溢出至腹膜腔引起的無菌性腹膜炎，可致腹膜粘連及繼發性囊腫。高迴聲腸道（Hyperechoic bowel）為非特異性發現，可與唐氏症、TORCH 感染、囊性纖維化及胎兒生長受限相關；輕度高迴聲（低於骨頭迴聲）且無佔位效應可能為正常變異。臍膨出（Omphalocele）為最常見腹壁缺損，臍帶插入點位於囊腫底部中央；50-75% 合併其他結構異常。腹裂（Gastroschisis）為位於臍帶插入點旁側（通常右側）的腹壁缺損，腸道突出但無腹膜覆蓋，常為孤立性異常。
-
-### 臨床重點 / Clinical Pearls
-
-- 臍膨出 vs 腹裂：臍帶插入點位置為關鍵鑑別點（臍膨出=中央；腹裂=旁側）
-- 臍膨出50-75%合併其他異常（心臟、三體、Beckwith-Wiedemann）；腹裂通常為孤立性
-- 高迴聲腸道若輕度（<骨頭迴聲）且無佔位效應可能為正常變異
+### Fetal genitourinary tract
 
 ![Page 553](/core_radiology/images/ultrasound/page-553.png)
 
+Fetal genitourinary tract
+Although oligohydramnios may be due to many causes, the complete genitourinary
+(GU) tract (kidneys, ureters, bladder, and urethra) should be carefully evaluated in
+every fetus with oligohydramnios.
+Oligohydramnios due to a fetal GU malformation can be divided into three categories:
+Fetal hydronephrosis (obstructive uropathy).
+Cystic renal disease.
+Bilateral renal agenesis.
+If the fetal bladder is not visualized (a bladder not filled with fluid will not be visible on
+ultrasound) the cause of oligohydramnios is likely a renal anomaly, such as:
+Bilateral multicystic dysplastic kidneys.
+Bilateral renal agenesis.
+Autosomal recessive polycystic kidney disease (ARPKD).
+Normal fetal kidneys grow approximately 1 mm per week of gestation. For instance, a
+20Â€week fetus should have kidneys approximately 2 cm in length.
+Fetal hydronephrosis overview
+Screening for fetal hydronephrosis is routinely
+performed to evaluate for potentially
+treatable causes, such as obstruction or
+reflux, which may lead to progressive
+
 ---
 
-# Ultrasound - Page 554
-
-## 胎兒腎臟與泌尿系統 / Fetal Kidneys and Genitourinary Tract
-
-胎兒泌尿系統評估在羊水過少時尤為重要。胎兒腎積水（Fetal hydronephrosis）篩檢常用腎盂軸徑：20週後<5 mm 正常，≥10 mm 異常；16-20週時4-6 mm為邊界值。輸尿管腎盂接合部阻塞（UPJO）為最常見胎兒腎積水原因，常為單側且預後良好。後尿道瓣膜（Posterior urethral valves）為男胎兒膀胱出口阻塞最常見原因，超聲呈「鑰匙孔徵（keyhole sign）」——擴張的後尿道；常合併膀胱增厚、輸尿管腎盂積水及羊水過少。
-
-### 臨床重點 / Clinical Pearls
-
-- 胎兒腎積水測量：腎盂軸徑；20週後5 mm = 正常上限，≥10 mm = 異常
-- 後尿道瓣膜：男胎兒；「鑰匙孔徵」為特徵性超聲表現
-- 羊水過少胎兒：雙側腎臟發育不全為致死性；單側MCDK預後極好
+### Posterior urethral valves
 
 ![Page 554](/core_radiology/images/ultrasound/page-554.png)
 
+Posterior urethral valves
+Posterior urethral valves is congenital obstruction of the posterior urethra due to a
+membranous flap in the proximal urethra.
+• Ultrasound shows severe dilation of the posterior urethra resulting in the keyhole
+sign. The bladder is typically enlarged and thickened. Hydroureteronephrosis and
+oligohydramnios are usually present.
+Autosomal recessive polycystic kidney disease (ARPKD)
+Autosomal recessive polycystic kidney disease:
+Transverse ultrasound through the fetal abdomen
+at the level of the kidneys shows massively
+enlarged and echogenic kidneys (arrows).
+There is complete absence of surrounding
+amniotic fluid, consistent with severe
+oligohydramnios.
+Case courtesy Beryl Benacerraf, MD, Diagnostic
+Ultrasound Associates, Boston.
+Autosomal recessive polycystic kidney disease (ARPKD) is a congenital disorder of
+diffuse collecting tubule dilation, leading to innumerable tiny renal cysts that are too
+small to be resolved by sonography.
+Ultrasound findings include very large and echogenic kidneys and severe
+
 ---
 
-# Ultrasound - Page 555
-
-## 胎兒骨骼發育不良與骶尾部畸胎瘤 / Fetal Skeletal Dysplasia and Sacrococcygeal Teratoma
-
-軟骨發育不全（Osteogenesis imperfecta, OI）為先天性骨骼發育不良疾病，由異常 I 型膠原蛋白引起，導致多發骨折；第2型為致死性，第2型可在第二孕期診斷。軟骨發育不全長骨呈「皺褶」外觀（多次骨折導致），胸廓小而軟；與thanatophoric dysplasia 不同之處為骨質礦化減少。骶尾部畸胎瘤（Sacrococcygeal teratoma）為骶骨/尾骨的胚細胞腫瘤，常呈現為混合實質及囊性的複雜團塊；可與脊髓脊膜膨出鑑別（骶尾部畸胎瘤脊椎正常變細且覆蓋皮膚完整）。
-
-### 臨床重點 / Clinical Pearls
-
-- OI vs Thanatophoric dysplasia：前者骨質礦化減少（超聲可見完整腦組織）；後者骨質礦化正常
-- 骶尾部畸胎瘤：尾部混合實質囊性團塊；需與脊髓脊膜膨出鑑別（脊椎正常變細+皮膚完整）
-- 致死性骨骼發育不良：四肢嚴重縮短、胸廓小、多發骨折
+### Fetal musculoskeletal imaging
 
 ![Page 555](/core_radiology/images/ultrasound/page-555.png)
 
----
+Fetal musculoskeletal imaging
+Osteogenesis imperfecta (OI)
+Osteogenesis imperfecta (nonfatal type): Third-trimester fetal
+survey shows an abnormal kinking
+(arrow) of the femur from prior in
+utero fracture.
+Case courtesy Julie Ritner, MD,
+Brigham and Women’s Hospital.
+Osteogenesis imperfecta (OI) is a spectrum of congenital bone anomalies
+characterized by multiple fractures due to abnormal type I collagen. There are several
+types of OI, with type 2 being lethal. Type 2 can be diagnosed in the second trimester,
+but types 1, 3, and 4 are not typically diagnosed until the third trimester.
+OI causes severe shortening of the long bones (>3 SD below the mean). The long
+bones and ribs appear “wrinkled” due to multiple fractures. The thorax is usually small
+due to broken and structurally soft ribs.
+Unlike thanatophoric dysplasia, bony mineralization is decreased. Decreased calvarial
+mineralization causes the entire brain (including the nearfield) to be visualized well.
+Thanatophoric dysplasia
+Thanatophoric dysplasia is a lethal skeletal dysplasia with characteristic telephone
+receiver femurs, severe limb shortening and bowing, and rib shortening.
 
-# Ultrasound - Page 556
+---
 
 ## 產科超聲 / Obstetric Ultrasound
 
-
-## 染色體異常與胎兒症候群 / Chromosomal Abnormalities and Fetal Syndromes
-
-唐氏症（Trisomy 21）超聲結構異常包括：頸部皺褶增厚（16-20週≥6 mm，最敏感單一發現）、鼻骨缺如、囊性水瘤、先天性心臟病（VSD、房室通道缺損）、十二指腸閉鎖、高迴聲心內膜灶及股骨/肱骨縮短。13三體（Trisomy 13）常見全前腦無裂、顱裂畸形、囊性水瘤、心臟病、臍膨出及多指畸形。18三體（Trisomy 18）常見草莓徵（額骨內曲）、心臟病、臍膨出及握拳不開（重疊指）。Beckwith-Wiedemann症候群（BWS）為過度生長症候群，與威爾姆氏腫瘤（腎母細胞瘤）風險增加相關；需每3個月一次腹部超聲篩檢直至8歲。
-
-### 臨床重點 / Clinical Pearls
-
-- 唐氏症結構異常：頸部皺褶≥6 mm（16-20週）為最敏感單一超聲發現
-- 草莓徵：額骨內曲呈草莓外形，為18三體特徵性表現
-- BWS：腹部超聲每3個月篩檢威爾姆氏腫瘤直至8歲
+### Trisomies and syndromes
 
 ![Page 556](/core_radiology/images/ultrasound/page-556.png)
 
+Trisomies and syndromes
+Fetal anomalies often occur in associations. For instance, omphalocele may be a
+sentinel finding that signifies the presence of trisomy 13, 18, or Beckwith–Wiedemann
+syndrome. If a sentinel finding is seen, a careful search should be performed for
+associated anomalies seen in trisomies and syndromes.
+Trisomy 13 from head to toe
+Holoprosencephaly and midline facial anomalies.
+Encephalocele.
+Congenital heart disease.
+Omphalocele.
+Horseshoe kidney.
+Polycystic kidneys.
+Polydactyly.
+Trisomy 18 from head to toe
+Transverse image of the fetal skull shows a large
+choroid plexus cyst (arrow) nearly replacing the
+entire choroid.
+3D ultrasound of the fetal face shows a cleft lip
+(red arrow).
+Trisomy 18: Case courtesy Beryl Benacerraf, MD, Diagnostic Ultrasound Associates, Boston.
+
 ---
 
-# Ultrasound - Page 557
-
-## 新生兒腦部：室管膜下出血 / Neonatal Brain: Germinal Matrix Hemorrhage
-
-室管膜下出血（Germinal matrix hemorrhage, GMH）為新生兒常見腦內出血，主要見於早產兒（<34週）。室管膜（Germinal matrix）為位於尾狀丘腦溝的神經元前體細胞所在地，血管豐富且結構脆弱。GMH 分級：I級=局限於室管膜；II級=延伸至腦室但無腦室擴大；III級=延伸至腦室且有腦室擴大；IV級=延伸至腦實質。超聲為首選檢查（經前囟），可見尾狀丘腦溝區域高迴聲團塊。
-
-### 臨床重點 / Clinical Pearls
-
-- GMH 主要見於早產兒（<34週），與腦室內出血（IVH）相關
-- I-II級：多數預後良好；III-IV級：神經發育後遺症風險增加
-- 超聲為GMH首選檢查（經前囟），MRI可進一步評估腦實質受累程度
+### Trisomy 21 (Down syndrome) from head to toe
 
 ![Page 557](/core_radiology/images/ultrasound/page-557.png)
+
+Trisomy 21 (Down syndrome) from head to toe
+Increase in nuchal fold (>6 mm), measured between weeks 15 and 21, is the single most sensitive and
+specific ultrasound finding for trisomy 21.
+In contrast, nuchal translucency is measured earlier in the pregnancy (11–14) weeks, and is less
+specific for trisomy 21.
+Absent ossification of nasal bone.
+Cystic hygroma (although more common in Turner syndrome).
+Congenital heart disease: VSD and endocardial cushion defect in particular.
+Echogenic bowel.
+Duodenal atresia.
+Echogenic intracardiac focus.
+Shortened femur and humerus.
+Hypoplasia of the middle phalanx of the little finger.
+Sandal gap toes.
+Beckwith–Wiedemann syndrome (BWS)
+Beckwith–Wiedemann syndrome (BWS) is a syndrome of overgrowth that carries
+an increased risk of childhood cancers. BWS is mostly sporadic, but 10–15% of cases
+follow an autosomal dominant inheritance.
+BWS increases the risk of developing Wilms tumor (the most common tumor in BWS),
+hepatoblastoma, and other childhood tumors. The standard of care is screening with abdominal
+
+---
+
+### References, resources, and further reading
+
+![Page 558](/core_radiology/images/ultrasound/page-558.png)
+
+References, resources, and further reading
+General References:
+Middleton, W.D., Kurtz, A.B. & Hertzberg, B.S. Ultrasound: The Requisites (2nd ed.). Mosby. (2003).
+Rumack, C.M., Wilson, S.R., Charboneau, J.W. & Levine, D. Diagnostic Ultrasound (4th ed.). Mosby. (2011).
+Hepatobiliary and Right Upper Quadrant:
+Berk, R., Van der Vegt, J. & Lichtenstein, J. The hyperplastic cholecystoses: cholesterolosis and adenomyomatosis. Radiology,
+146(3), 593(1983).
+Breda Vriesman, A.C. van. et al. Diffuse gallbladder wall thickening: differential diagnosis. AJR. American journal of
+roentgenology, 188, 495-501(2007).
+Chawla, S., Trick, W.E., Gilkey, S. & Attar, B.M. Does Cholecystectomy Status Influence the Common Bile Duct Diameter? A
+Matched-Pair Analysis. Digestive Diseases and Sciences, 55, 1155-60(2010).
+Coss, A. & Enns, R. The investigation of unexplained biliary dilatation. Current gastroenterology reports, 11(2), 155-9.
+Gallahan, W.C. & Conway, J.D. (2010). Diagnosis and management of gallbladder polyps. Gastroenterology clinics of North
+America, 39(2), 359-67, x.
+Goyal, N. et al. (2009). Non-invasive evaluation of liver cirrhosis using ultrasound. Clinical radiology, 64(11), 1056-66(2009).
+Hanbidge, A.E. et al. From the RSNA refresher courses: imaging evaluation for acute pain in the right upper quadrant.
+Radiographics, 24, 1117-35(2004).
+McNaughton, D.A. & Abu-Yousef, M.M. Doppler US of the liver made simple. Radiographics, 31, 161-88(2011).
+Rosenthal, S.J., Cox, G.G., Wetzel, L.H. & Batnitzky, S. Pitfalls and differential diagnosis in biliary sonography. Radiographics,
+10(2), 285-311(1990).
+
+---
+
+### Scrotum and testicle:
+
+![Page 559](/core_radiology/images/ultrasound/page-559.png)
+
+Scrotum and testicle:
+Cokkinos, D.D., Antypa, E., Tserotas, P., Kratimenou, E., Kyratzi, E., Deligiannis, I. et al. Emergency ultrasound of the scrotum: a
+review of the commonest pathologic conditions. Current Problems In Diagnostic Radiology, 40(1), 1-14(2011).
+Dogra, V., Gottlieb, R., Oka, M. & Rubens, D. Sonography of the scrotum. Radiology, 227, 18-36(2003).
+Frates, C., Benson, C.B., Laing, F.C., Disalvo, N. & Doubilet, M. Solic Extratesticular Masses Evaluated with Sonography:
+pathologic correlation. Radiology, 204, 43-6(1997).
+Pearl, M. & Hill, M. Ultrasound of the Scrotum. Seminars in Ultrasound, CT, and MRI, 28(4), 225-48(2007).
+Bounameaux, H., Perrier, A. & Righini, M. Diagnosis of venous thromboembolism: an update. Vascular medicine (London,
+England), 15(5), 399-406(2010).
+Grant, E.G. et al. Carotid artery stenosis: gray-scale and Doppler US diagnosis – Society of Radiologists in Ultrasound
+Consensus Conference. Radiology, 229(2), 340-6(2003).
+Hamper, U.M., DeJong, M.R. & Scoutt, L.M. Ultrasound evaluation of the lower extremity veins. Radiologic clinics of North
+America, 45(3), 525-47, ix(2007).
+Sidhu, R. & Lockhart, M.E. Imaging of Renovascular Disease. Seminars in Ultrasound, CT, and MRI, 30(4), 271-88(2009).
+Spyridopoulos, T.N. et al. Ultrasound as a first line screening tool for the detection of renal artery stenosis: a comprehensive
+review. Medical ultrasonography, 12(3), 228(2010).
+Frates, M.C. et al. Management of thyroid nodules detected at US: Society of Radiologists in Ultrasound consensus conference
+statement. Radiology, 237(3), 794-800(2005).
+Female pelvis:
+Goldstein, S.R. Abnormal uterine bleeding: the role of ultrasound. Radiologic clinics of North America, 44(6), 901-10(2006).
+
+---
+
+### Multiple gestations:
+
+![Page 560](/core_radiology/images/ultrasound/page-560.png)
+
+Multiple gestations:
+Lewi, L. et al. Monochorionic diamniotic twins: complications and management options. Current opinion in obstetrics &
+gynecology, 15(2), 177-94(2003).
+Shetty, a. & Smith, a.P.M. The sonographic diagnosis of chorionicity. Prenatal diagnosis, 25(9), 735-9(2005).
+Baughman, W.C., Corteville, J.E. & Shah, R.R. Placenta Accreta: Spectrum of US and MR Imaging Findings. Radiographics,
+28(7), 1905(2008).
+Elsayes, K.M. Imaging of the Placenta: A Multimodality Pictorial Review. Radiographics, 29(5), 1371-91(2009).
+Fetal screening and anomalies:
+Bellini, C. et al. Etiology of nonimmune hydrops fetalis: a systematic review. American Journal of Medical Genetics. Part A,
+149A(5), 844-51(2009).
+Bethune, M. Time to reconsider our approach to echogenic intracardiac focus and choroid plexus cysts. The Australian &
+New Zealand Journal of Obstetrics & Gynaecology, 48(2), 137-41(2008).
+Biyyam, D., Chapman, T. & Ferguson, M. Congenital Lung Abnormalities: Embryologic Features, Prenatal Diagnosis, and
+Postnatal Radiologic-Pathologic Correlation1. Radiographics, 98195, 1721-39(2010).
+Chen, C.-P. Pathophysiology of increased fetal nuchal translucency thickness. Taiwanese journal of obstetrics & gynecology,
+49(2), 133-8(2010).
+Chow, J.S., Benson, C.B. & Doubilet, P.M. Frequency and nature of structural anomalies in fetuses with single umbilical
+arteries. Journal of ultrasound in medicine, 17(12), 765-8(1998).
+Doubilet, P.M. et al. Choroid plexus cyst and echogenic intracardiac focus in women at low risk for chromosomal anomalies:
+the obligation to inform the mother. Journal of ultrasound in medicine, 23(7), 883-5(2004).
+
+---
+
+### 
+
+![Page 561](/core_radiology/images/ultrasound/page-561.png)
+
 
 ---
