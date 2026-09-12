@@ -10131,6 +10131,16 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 
 # Ultrasound - Page 527
 
+## 睪丸 / Scrotum
+
+皮樣囊腫（Mature cystic teratoma）為最常見卵巢腫瘤，占所有卵巢腫瘤20-40%。超聲經典表現為複雜囊腫伴高迴聲壁結節（**洛基坦斯基結節 Rokitansky nodule**），由皮脂物質及毛髮組成。「**點劃紋（dot-dash pattern）**」為中斷的高迴聲線條，代表keratin纖維；「**冰山徵（tip of the iceberg sign）**」為淺層高衰減實質團塊遮擋深層超聲。CT或MRI可確診脂肪成分。皮樣囊腫為良性，但可作為卵巢扭轉的lead point。
+
+### 臨床重點 / Clinical Pearls
+
+- 冰山徵：淺層高迴聲實質團塊，深層結構被遮擋；CDFI無明顯內部血流
+- 皮樣囊腫惡性變性極罕見，多為停經後患者
+- 皮樣囊腫可併發扭轉（急性腹痛），為生育期女性急性腹痛常見原因之一
+
 
 
 
@@ -10150,6 +10160,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 528
+**妊娠囊（Gestational sac）**為經陰道超聲可見的最早懷孕結構，正常於妊娠第5週（β-hCG >1500 mIU/mL）可見。**雙蛻膜徵（Double decidual sac sign）**為確認宮內妊娠（IUP）的特徵：兩層迴聲環包繞妊娠囊。平均囊直徑（MSD）：8 mm時應可見卵黃囊；16 mm時應可見胚胎。**假妊娠囊（Pseudogestational sac）**為宮內積液被單層蛻膜包繞，可誤導為早期IUP，但極早期IUP仍最可能為正常懷孕。
+
+### 臨床重點 / Clinical Pearls
+
+- β-hCG >1500 mIU/mL經陰道超聲應可見妊娠囊；未見時高度懷疑宮外孕
+- MSD 8mm有 yolk sac 若無=此次懷孕不太可能成功
+- 陰道出血時：MSD測量誤差可達5-7天，建議以CRL追蹤胎兒大小
 
 
 
@@ -10170,6 +10187,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 529
+胎心率（HR）以**M型都卜勒（M-mode Doppler）**測量；6週胚胎正常HR約112 bpm。CRL ≤4 mm時，心率<90 bpm為過慢（預後不良）；CRL 5-9 mm時，<110 bpm為過慢。早期心率沒有「過快」一說——心率越快反而預後越好。胚胎心跳在CRL 4-5 mm時幾乎都會出現；若未出現應考慮妊娠失敗。胚胎7 mm仍無胎心才能確診失敗；<7 mm應建議追蹤而非直接確診。
+
+### 臨床重點 / Clinical Pearls
+
+- M-mode都卜勒測量胎心率：放置取樣線於心跳顯著處，測量3個以上心搏後取平均值
+- 早期胎兒心率<90 bpm無論妊娠週數均預後極差
+- 心率「過快」不存在，心率越快=預後越好（唐氏症等風險反而略降）
 
 
 
@@ -10190,6 +10214,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 530
+**不良預後徵象（Guarded prognosis）**：需追蹤超聲評估，包括：MSD ≥8 mm無卵黃囊；MSD ≥16 mm有卵黃囊但無胚胎；胚胎≤7 mm無胎心；卵黃囊≥6 mm（無論是否有胚胎）；妊娠6週後心率<90 bpm。**確定妊娠失敗（Definite failure）**：已知妊娠年齡≥6.5週無胎心（需有早期超聲或IVF確定日期）；胚胎>7 mm無胎心。
+
+### 臨床重點 / Clinical Pearls
+
+- 胚胎7 mm仍無胎心才能確診失敗；<7 mm應建議追蹤而非確診
+- 陰道出血患者：MSD測量誤差可達5-7天，建議以CRL追蹤
+- β-hCG半衰期：正常IUP每48小時增加>60%；宮外孕平台期或略升；流產下降
 
 
 
@@ -10210,6 +10241,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 531
+新陽性妊娠試驗＋疼痛/出血＝約15%宮外孕機率。**宮內妊娠（IUP）且附屬器正常**＝100%排除宮外孕；**宮外胚胎＋卵黃囊或有心跳的胚胎**＝100%宮外孕確診。附屬器環（adnexal ring）PPV達95%；附屬器腫塊PPV達92%。宮內無妊娠且附屬器正常時，仍有5-33%宮外孕風險，需追蹤。
+
+### 臨床重點 / Clinical Pearls
+
+- β-hCG異常時先區分：IUP（指數倍增，每48小時>60%）vs宮外孕（平台期）vs流產（下降）
+- 「Rule-out ectopic」患者即使IUP正常仍需評估附屬器
+- 宮外孕三聯徵：陽性懷孕測試+陰道出血+盆腔疼痛，少於50%患者齊備
 
 
 
@@ -10230,6 +10268,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 532
+約95%宮外孕發生於輸尿管，其中**壺腹部（Ampulla）**最常見（70%），其次為峽部（12%）、間質部（2-3%）及繖部（11%）。**間質部/宮角（Cornual/Interstitial）**宮外孕破裂風險最高，因肌層圍繞但較薄，破裂可致危及生命的出血；超聲可見「**間質線徵（interstitial line sign）**」＝高迴聲線從內膜管道延伸至間質部腫塊。
+
+### 臨床重點 / Clinical Pearls
+
+- 間質部宮外孕：超聲可見子宫外側肌層缺失；「間質線徵」為特徵性表現
+- 輔助生殖術後患者發現IUP，仍需詳細評估附屬器排除異質妊娠（IUP+宮外孕同時存在）
+- 宮外孕破裂可危及生命，緊急手術為主要治療方式
 
 
 
@@ -10251,6 +10296,16 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 
 # Ultrasound - Page 533
 
+## 甲狀腺與頸部 / Thyroid and Neck
+
+**附屬器環（Adnexal ring）**PPV達95%；**附屬器腫塊**PPV達92%；**宮外胚胎＋卵黃囊**PPV達100%。**宮外孕特異性都卜勒徵象**：ring of fire（彩色都卜勒見周邊血流）並非特異性，亦可見於黃體囊腫。關鍵鑑別點：黃體位於卵巢內；宮外孕位於卵巢外（施壓探頭觀察團塊是否隨卵巢移動）。
+
+### 臨床重點 / Clinical Pearls
+
+- 黃體囊腫 vs 宮外孕：兩者皆可見ring of fire；施壓觀察是否卵巢內移動可鑑別
+- β-hCG >1500-2000 mIU/mL經陰道超聲應可見妊娠囊；若未見IUP且有附屬器環，宮外孕PPV達95%
+- β-hCG測量：用於追蹤而非診斷；動態倍增趨勢比單次數值更有意義
+
 
 
 
@@ -10270,6 +10325,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 534
+**妊娠滋養層疾病（Gestational trophoblastic disease / 葡萄胎）**：完全性葡萄胎無胎兒部分、超聲呈「雪風暴」混合性囊性外觀、hCG極高；部分性葡萄胎有三倍體（69,XXX/XXY/XYY）且可見部分胎兒發育。**卵巢甲狀腺囊腫（Theca lutein cysts）**為hCG升高引起的雙側卵巢囊腫，為葡萄胎特徵性表現。**妊娠物滯留（RPOC）**：超聲可見內膜增厚不均±都卜勒血流；內膜厚度<10 mm時RPOC可能性極低。
+
+### 臨床重點 / Clinical Pearls
+
+- 完全性葡萄胎術後必須追蹤 β-hCG，每2週一次直至連續3次陰性
+- 部分性葡萄胎進展為絨毛膜癌的風險低於完全性，但仍需追蹤
+- RPOC：內膜厚度<10 mm基本可排除，但>10 mm需考慮切片
 
 
 
@@ -10290,6 +10352,13 @@ $$RI = \frac{PSV - EDV}{PSV}$$
 ---
 
 # Ultrasound - Page 535
+雙胞胎分為雙卵（dizygotic）與單卵（monozygotic）。**雙卵雙胞胎**由兩個卵子與兩個精子受精，永遠是雙絨毛膜/雙羊膜（di/di），胎盤分開。**單卵雙胞胎**由一個受精卵分裂形成，分裂時機決定絨毛膜和羊膜數量：0-4天分裂→di/di（33%）；4-8天→mono/di（66%）；>8天→mono/mono（1%）。
+
+### 臨床重點 / Clinical Pearls
+
+- 雙卵雙胞胎必然是di/di（獨立胎盤、獨立羊膜）；單卵分裂時機決定胎盤類型
+- 單卵雙胞胎分裂時機越晚=越多共享=越高併發症風險
+- 雙胞胎第一超聲檢查時應常規報告絨毛膜與羊膜性
 
 
 
@@ -10316,6 +10385,13 @@ Twins are classified as dizygotic (two eggs fertilized by two sperm, always dich
 
 
 # Ultrasound - Page 536
+雙胞胎依膜性可分為三型：**di/di**（雙絨毛膜/雙羊膜，胎盤分開，隔膜厚由2層絨毛膜與2層羊膜組成）；**mono/di**（單絨毛膜/雙羊膜，共享胎盤，隔膜薄僅由2層羊膜組成）；**mono/mono**（單絨毛膜/單羊膜，共享胎盤與羊膜，無間隔膜）。di/di twins超聲可見「**雙胎峰/λ徵（twin peak/lambda sign）**」＝胎盤與厚間隔膜交界處的三角形胎盤組織摺疊。
+
+### 臨床重點 / Clinical Pearls
+
+- Lambda sign（雙胎峰徵）為di/di twins特徵，用於區分di/di與mono/di
+- mono/di twins：隔膜薄（僅2層羊膜），與di/di的厚隔膜（2層絨毛膜+2層羊膜）鑑別
+- mono/mono twins確診：交織臍帶（intertwined cords）；非僅無膜可見（mono/di也可能無膜可見）
 
 
 
@@ -10342,6 +10418,13 @@ Twins are classified by membrane configuration: di/di (dichorionic/diamniotic wi
 
 
 # Ultrasound - Page 537
+無心畸形（Acardiac twinning）又稱**雙胞胎反向灌注序列（TRAP）**，為TTTS的嚴重型。捐血雙胞胎透過胎盤血管吻合將血液打入無心畸形。超聲可見胸腔以上結構發育不全或缺失的異常胎兒；都卜勒在臍帶內可見**反向血流**（進入而非離開胎兒）——正常：臍帶动脉將缺氧血泵出；在無心畸形，臍帶血管將缺氧血泵入胎兒。
+
+### 臨床重點 / Clinical Pearls
+
+- TRAP特徵：都卜勒顯示臍帶动脉波形方向與正常相反（向內而非向外）
+- 確診後治療：超聲導引下凝固無心畸形臍帶阻斷血流
+- 單絨毛膜雙胞胎併發症：TTTS > 無心畸形 > 雙胞胎embolization症候群
 
 
 
@@ -10368,6 +10451,13 @@ Acardiac twinning represents twin reversed arterial perfusion (TRAP) sequence, w
 
 
 # Ultrasound - Page 538
+第一孕期胚胎過小難以進行完整結構掃描，但可辨識關鍵構造。**頭臀長（CRL）**用於6-12週胎兒大小的測量；8週時可區分前腦（prosen- cephalon，未來大腦）與菱腦（rhombencephalon，未來腦幹/小腦）。**頸部透明帶（NT）**：11週正常上限2.2 mm；14週（CRL 79 mm）正常上限2.8 mm；增加與唐氏症及染色體異常相關。
+
+### 臨床重點 / Clinical Pearls
+
+- NT異常（≥2.2 mm at 11wks）= 唐氏症風險增加，但非確診
+- NT測量：高對比度設定、胎兒處正中矢狀面、胎兒頸部呈自然中性位置
+- CRL 6-12週估計妊娠年齡最準確（胎兒頸部尚未屈伸）
 
 
 
@@ -10394,6 +10484,13 @@ The first trimester embryo is too small for a complete anatomic survey, but key 
 
 
 # Ultrasound - Page 539
+第二與三孕期超聲主要測量包括**BPD（雙頂徑）**、**OFD（枕額徑）**、腹徑與股骨長。BPD測量顱骨外緣到內緣，標準切面在視丘與透明隔（CSP）水平；OFD為額骨中點到枕骨中點。腹徑在臍靜脈/肝門靜脈/胃竇水平測量，AP與橫徑差<1 cm。股骨長在胎兒最接近探頭位置、垂直聲束測量最準確。
+
+### 臨床重點 / Clinical Pearls
+
+- BPD標準化測量可減少主要不確定性來源
+- 腹部測量角度約45°以減少脊椎偽影
+- 胎兒測量系統誤差常見：標準化培訓可減少此類誤差
 
 
 
@@ -10420,6 +10517,13 @@ Key second and third trimester measurements include BPD (biparietal diameter), O
 
 
 # Ultrasound - Page 540
+**羊水指數（AFI）**是四象限最大垂直羊水囊之和。羊水過少定義為AFI≤6.3cm（第2.5百分位），羊水過多為AFI≥19.2 cm（第97.5百分位）。**宮頸評估**：經陰道超聲比經腹更準確；宮頸長度<3 cm為異常；宮頸漏斗（Funneling）：T→Y→V→U形 progression表示嚴重程度增加。**頸部皺褶（Nuchal fold）**：16-20週測量，<5 mm正常，≥6 mm為唐氏症主要標誌。
+
+### 臨床重點 / Clinical Pearls
+
+- AFI主觀評估與儀器測量同樣重要；邊界情況下主觀評估優先
+- 宮頸漏斗形进展：T→Y→V→U；T=正常；U=嚴重（需考慮宮頸環扎）
+- 頸部皺褶≥6 mm在16-20週為唐氏症主要超聲標誌（特異性高）
 
 
 
@@ -10446,6 +10550,13 @@ Amniotic fluid index (AFI) is the sum of the largest vertical pocket in each of 
 
 
 # Ultrasound - Page 541
+胎盤由胎兒的絨毛膜與母體的蛻膜組成。**單一臍帶動脈（2-vessel cord）**發生率約1%，與胎兒異常高度相關（50%，尤其心血管），與13、18三體相關。**前置血管（Vasa previa）**：胎兒胎盤血管跨過宮頸內口，由絨毛膜外臍帶插入或副胎盤小葉引起；胎兒血管而非母體血管；彩色都卜勒可確診。
+
+### 臨床重點 / Clinical Pearls
+
+- 單一臍帶动脉：胎兒異常風險50%，應建議詳細結構超聲及胎兒心臟超聲評估
+- 前置血管（Vasa previa）：胎兒血管跨宫口，破裂可致胎兒大出血；彩色都卜勒確診
+- 前置胎盤（Placenta previa）：胎盤覆蓋宫口，需剖腹产；邊緣距宫口>3cm可陰道分娩
 
 
 
@@ -10472,6 +10583,13 @@ The placenta consists of fetal chorion and maternal decidua. A single umbilical 
 
 
 # Ultrasound - Page 542
+前置胎盤指胎盤覆蓋宮頸內口；邊緣距宮頸口>3cm為正常。約0.5-1%的生產需要剖腹产。**假陽性陷阱**：宮縮或膀胱過度充盈可造成前置胎盤假象；確診需空膀胱、無宮縮時實時掃描確認。**胎盤早期剝離（Abruption）**：超聲可正常（20%病例）；急剝離血腫可與胎盤等迴聲（極難鑑別）；慢性剝離呈低迴聲。**胎盤植入（Accreta）**：超聲可見胎盤-膀胱介面大型囊性血管腔（vascular lakes）及正常胎盤後透明空間消失。
+
+### 臨床重點 / Clinical Pearls
+
+- 前置胎盤假陽性：宮縮或膀胱充盈可模擬胎盤覆蓋宫口；需空膀胱確認
+- 胎盤早剝超聲可完全正常（假陰性20%），不能單凭超聲排除
+- 胎盤植入：前置胎盤+先前剖腹產史=最高風險群，產前MRI評估
 
 
 
@@ -10498,15 +10616,31 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 
 
 # Ultrasound - Page 543
+
+## 婦科超聲 / Gynecologic Ultrasound
+
+
 ## 胎兒超聲 / Fetal Ultrasound
-
-
-
-
 
 ![Page 543](/core_radiology/images/ultrasound/page-543.png)
 
+
+
+胎兒超聲波檢查為產前評估的核心工具。第二與第三孕期（14週之後）超聲可系統性評估胎兒結構、發育及生物特徵。胎兒篩檢分為常規結構篩檢與專科針對性評估。14-22週為胎兒結構篩檢最佳時機；28週後評估胎兒發育、胎位及胎盤位置。系統性掃描遵循標準横斷面與矢狀面，確保所有結構均被檢視。
+
+### 臨床重點 / Clinical Pearls
+
+- 胎兒超聲首要目標：確認妊娠週數、胎位、胎盤位置及羊水量
+- 胎兒結構異常發現後應標準化搜尋其他系統（CNS、心臟、腎臟等）
+- 胎兒生長參數（BPD、OFD、腹徑、股骨長）用於評估發育進度是否與妊娠週數相符
+---
+
+
+# Ultrasound - Page 544
+
 ## 胎盤植入譜與胎兒水腫 / Placenta Accreta Spectrum and Fetal Hydrops
+
+![Page 544](/core_radiology/images/ultrasound/page-544.png)
 
 胎盤植入譜涵蓋黏連性（accreta）、植入性（increta）及穿透性（percreta），其中穿透性胎盤（percreta）穿過，子宮內膜已完全破壞，超音波可見胎盤與膀胱介面出現大型囊性血管湖。胎兒水腫是一種液體過載狀態，符合以下兩項以上即可診斷：腹水、胸水或心包積液、皮膚水腫、羊水過多、胎盤增厚。免疫性水腫因母體對胎兒血球致敏（多為Rh血型不合）導致胎兒溶血性貧血，宮內輸血治療預後佳；非免疫性水腫原因多元（心臟結構異常、顱外分流、TORCH感染、染色體異常等），整體預後較差。
 
@@ -10516,9 +10650,14 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - 胎兒水腫診斷需符合 ≥2 項：腹水、胸水、心包積液、皮膚水腫、羊水過多、胎盤增大
 - 非免疫性胎兒水腫（NIHF）預後較差，病因篩檢應涵蓋心臟結構、感染及染色體異常
 
-![Page 544](/core_radiology/images/ultrasound/page-544.png)
+---
+
+
+# Ultrasound - Page 545
 
 ## 胎兒腹水、胸腔積液與羊水異常 / Fetal Ascites, Pleural Effusion, and Amniotic Fluid Abnormalities
+
+![Page 545](/core_radiology/images/ultrasound/page-545.png)
 
 胎兒腹水與胸腔積液均為胎兒水腫的診斷標準之一；孤立性腹水可能來自尿路阻塞（腎盞或膀胱破裂）或胎糞性腹膜炎，孤立性胸腔積液則最常見於先天性乳糜胸（胸導管發育異常）。羊水主要由胎兒尿液產生、經胎兒吞嚥吸收；羊水過少常因泌尿系統發育異常（雙側腎發育不良、後尿道瓣膜、雙側腎盂輸尿管交界處阻塞、ARPKD），嚴重時可導致 Potter 序列症（顏面畸形、肺發育不良、肢體攣縮）；羊水過多則與胃腸道閉鎖（喉部、食道、十二指腸）、橫膈膜疝氣、神經系統發育異常或單絨毛膜雙胞胎症候群相關。
 
@@ -10528,9 +10667,14 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - Potter 序列症核心：顏面畸形的宮內壓迫表現、肺發育不良、肢體姿勢異常
 - 羊水過多 >50% 為特發性；發現羊水過多時應積極搜尋胃腸道及神經系統畸形
 
-![Page 545](/core_radiology/images/ultrasound/page-545.png)
+---
+
+
+# Ultrasound - Page 546
 
 ## 胎兒腦部：腦室擴大與無腦畸形 / Fetal Brain: Ventriculomegaly and Anencephaly
+
+![Page 546](/core_radiology/images/ultrasound/page-546.png)
 
 腦室擴大是指側腦室後角寬度超過診斷閾值，正常應 <10 mm，10-12 mm 為輕度、12-15 mm 為中度、>15 mm 為重度；「懸垂脈絡叢徵」（dangling choroid sign）為腦室擴大時脈絡叢依重力下垂的特徵性表現。無腦畸形為大腦皮質及頭蓋骨完全缺失，屬於致死性神經管缺陷，母體血清 AFP 會升高，因胎兒吞嚥功能受損可能導致羊水過多；頭部殘留的血管瘤樣間質可與羊膜帶症候群做鑑別，後者通常為非對稱性。
 
@@ -10540,9 +10684,14 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - Dandy-Walker 畸形、水腦（中腦水管狹窄）、Chiari II 型及胼胝體發育不全均為腦室擴大的常見病因
 - 無腦畸形為致死性，產前 AFP 升高是重要線索，與羊膜帶症候群的鑑別在於對稱性
 
-![Page 546](/core_radiology/images/ultrasound/page-546.png)
+---
+
+
+# Ultrasound - Page 547
 
 ## 顱裂畸形、丹迪-沃克症候群與Chiari II型 / Cephalocele, Dandy Walker, and Chiari II
+
+![Page 547](/core_radiology/images/ultrasound/page-547.png)
 
 顱裂畸形為中線神經管缺陷，顱內容物經骨缺損處突出到顱外，枕葉最常見；僅含腦膜者為腦膜膨出（meningocele），含有神經組織者為腦膨出（encephalocele），需與最常見的胎兒頸部腫塊——囊狀水瘤（cystic hygroma）做鑑別。Dandy-Walker 畸形特徵為小腦蚓部發育不全合併第四腦室擴張，常伴隨胼胝體發育不全。Chiari II 型為後顱窩狹窄合併神經管缺陷（多為腰骶部脊髓脊膜膨出），「香蕉徵」（banana sign）為小腦半球受壓變平（對 Chiari II 型有很高的特異性），「檸檬徵」（lemon sign）為額骨變平（非特異性）；臨床上若發現香蕉徵，即使未直接看到脊髓脊膜膨出，也應假定其存在。
 
@@ -10552,9 +10701,14 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - Chiari II 型幾乎都伴隨腰骶部脊髓脊膜膨出，香蕉徵是超聲診斷的強指標
 - 檸檬徵為非特異性，可見於單純腦室擴大或其他顱內異常，不可單凭此徵象做診斷
 
-![Page 547](/core_radiology/images/ultrasound/page-547.png)
+---
+
+
+# Ultrasound - Page 548
 
 ## 前腦無裂畸形與胼胝體發育不全 / Holoprosencephaly and Corpus Callosum Agenesis
+
+![Page 548](/core_radiology/images/ultrasound/page-548.png)
 
 前腦無裂畸形為前腦中線分割失敗，分為三型：全前腦無裂（alobar）最嚴重，表現為丘腦融合、單一心室、背側囊腫、 Boomerang 形腦組織且無大腦縱裂，常伴隨 13 三體及顏面畸形（唇顎裂、独眼畸形）。胼胝體發育不全的間接超聲表現包括：透明隔缺如、枕角擴大的杯狀畸形（colpocephaly）、額角分開、側腦室呈平行走向、室壁內凹（Probst 束），並可能出現中線囊腫（第三腦室疝出）；常與 8、13、18 三體相關。
 
@@ -10564,9 +10718,14 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - 透明隔缺如強烈提示胼胝體發育不全，但需注意極少數情況下胼胝體可能正常（建議胎兒 MRI 確認）
 - Colpocephaly（枕角不成比例擴大）為胼胝體發育不全的特徵性表現
 
-![Page 548](/core_radiology/images/ultrasound/page-548.png)
+---
+
+
+# Ultrasound - Page 549
 
 ## 透明隔缺如、水腦無腦畸形與胎兒顱內囊腫 / Absence of CSP, Hydranencephaly, and Fetal Intracranial Cysts
+
+![Page 549](/core_radiology/images/ultrasound/page-549.png)
 
 透明隔缺如常伴隨胼胝體發育不全（兩者同時形成），若未合併其他異常需考慮胎兒 MRI 排除隔-眼發育不良（Spto-optic dysplasia）。水腦無腦畸形（hydranencephaly）為大腦皮質因缺血或感染（常為 MCA 區域梗塞）完全破壞，皮質 mantle 完全消失（與水腦不同），但大腦縱裂仍可見（可與全前腦無裂鑑別）。脈絡叢囊腫常見（1-5%），多數為正常變異且會自行消退；50% 的 18 三體胎兒可見脈絡叢囊腫，若單獨出現且母血清篩檢正常則多為偶發。蓋倫靜脈畸形為蓋倫靜脈因動靜脈瘻管擴張，可能導致高輸出量心衰竭及胎兒水腫。
 
@@ -10576,10 +10735,6 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - 水腦無腦畸形皮質 mantle 完全消失但大腦縱裂仍存在，可與全前腦無裂鑑別
 - 孤立性脈絡叢囊腫若母血清篩檢正常，良性可能性高；但若合併其他結構異常需考慮 18 三體
 
-![Page 549](/core_radiology/images/ultrasound/page-549.png)
-
-## 胎兒胸腔異常：先天性橫膈膜疝氣、肺部病灶與隔離術 / Fetal Thoracic Anomalies: CDH, CPAM, and Sequestration
-
 心軸異常是發現胎兒胸腔病變的重要線索；先天性橫膈膜疝氣（CDH）以左後側（Bochdalek 孔）最常見，腸道（通常為胃和小腸）突入胸腔，經典超聲表現為胸腔內囊性團塊合併横膈膜下胃泡消失、右側疝氣（Morgagni 型）則為肝臟向前突出。肺部和支氣管發育異常（CPAM，原名 CCAM）為細支氣管良性增強性增生，三型分類以囊泡大小為依據，常自行消退但 CT/MRI 仍可見；肺隔離症（sequestration）為異常肺組織由主動脈而非肺循環供血，典型超聲為左下葉高回聲團塊，彩色都卜勒可確診。
 
 ### 臨床重點 / Clinical Pearls
@@ -10588,3 +10743,133 @@ Placenta previa refers to placental tissue covering the internal cervical os; an
 - CPAM 病灶可超聲下看似消退但 CT/MRI 仍可見，術前需多模態評估
 - 肺隔離症確診關鍵：彩色都卜勒顯示由主動脈（而非肺循環）供血
 
+# Ultrasound - Page 550
+
+## 透明隔缺如、水腦無腦畸形與顱內囊腫 / CSP, Hydranencephaly, and Intracranial Cysts
+
+透明隔（CSP）缺如常伴隨胼胝體發育不全（兩者同時形成），若未合併其他異常需考慮胎兒 MRI 排除隔-眼發育不良（Septo-optic dysplasia）。水腦無腦畸形（Hydranencephaly）為大腦皮質因缺血或感染（常為 MCA 區域梗塞）完全破壞，皮質mantle 完全消失（與水腦不同），但大腦縱裂仍可見（可與全前腦無裂鑑別）。脈絡叢囊腫（Choroid plexus cyst）常見（1-5%），多數為正常變異且會自行消退；50% 的 18 三體胎兒可見囊腫。蓋倫靜脈畸形（Vein of Galen malformation）為蓋倫靜脈因動靜脈瘻管擴張，可致高輸出量心衰竭及胎兒水腫。
+
+### 臨床重點 / Clinical Pearls
+
+- 透明隔缺如若其他結構正常，建議胎兒 MRI 確認是否為隔-眼發育不良
+- 水腦無腦畸形皮質 mantle 完全消失但大腦縱裂仍存在，可與全前腦無裂鑑別
+- 孤立性脈絡叢囊腫若母血清篩檢正常，良性可能性高；但若合併其他結構異常需考慮 18 三體
+
+![Page 550](/core_radiology/images/ultrasound/page-550.png)
+
+---
+
+# Ultrasound - Page 551
+
+## 胎兒胸腔異常 / Fetal Thoracic Anomalies
+
+心軸異常是發現胎兒胸腔病變的重要線索。先天性橫膈膜疝氣（CDH）以左後側（Bochdalek 孔）最常見，腸道（通常為胃和小腸）突入胸腔，經典超聲表現為胸腔內囊性團塊合併橫膈膜下胃泡消失；右側疝氣（Morgagni 型）則為肝臟向前突出。肺部及支氣管發育異常（CPAM，原名 CCAM）為細支氣管良性增強性增生，三型分類以囊泡大小為依據；肺隔離症（Sequestration）為異常肺組織由主動脈而非肺循環供血，彩色都卜勒可確診。肺發育不良（Pulmonary hypoplasia）為肺組織發育不全，可由胸腔腫塊、羊水過少或骨骼發育不良引起；胎兒胸廓呈小鐘形提示肺發育不良。
+
+### 臨床重點 / Clinical Pearls
+
+- CDH 左後側（Bochdalek）最常見，經典超聲：胸腔內囊性團塊 + 橫膈膜下胃泡消失
+- CPAM 病灶可超聲下看似消退但 CT/MRI 仍可見，術前需多模態評估
+- 肺隔離症確診關鍵：彩色都卜勒顯示由主動脈（而非肺循環）供血
+
+![Page 551](/core_radiology/images/ultrasound/page-551.png)
+
+---
+
+# Ultrasound - Page 552
+
+## 胎兒腹部：胃腸道異常 / Fetal Abdomen: Gastrointestinal Anomalies
+
+胎兒胃腸道阻塞可因干擾吞嚥或吸收而導致羊水過多。食道閉鎖（Esophageal atresia）為前腸分割失敗引起的盲端食道，常合併氣管食道瘻管；超聲經典表現為羊水過多合併胃泡消失。十二指腸閉鎖（Duodenal atresia）為最常見胎兒小腸阻塞原因，超聲呈「雙氣泡徵（double bubble sign）」——擴張的胃竇和十二指腸近端；約三分之一合併唐氏症。遠端腸道阻塞可為結構性（空腸閉鎖、迴腸閉鎖或肛門直腸畸形）或功能性（先天性巨結腸症、胎糞性腸阻塞）。
+
+### 臨床重點 / Clinical Pearls
+
+- 食道閉鎖：羊水過多 + 胃泡消失為經典表現；注意與 CDH 鑑別
+- 雙氣泡徵：擴張胃竇+十二指腸近端；三分之一合併唐氏症，應詳細搜尋心臟及結構異常
+- 胎糞性腸阻塞幾乎只见於有囊性纖維化的胎兒；三胞胎巨型兒
+
+![Page 552](/core_radiology/images/ultrasound/page-552.png)
+
+---
+
+# Ultrasound - Page 553
+
+## 胎糞性併發症與腹壁缺損 / Meconium Complications and Abdominal Wall Defects
+
+胎糞性囊腫（Meconium pseudocyst）為包裹性腸道穿孔後由胎糞引起的囊性病變，常伴周邊鈣化；為胎糞性腹膜炎的後遺症。胎糞性腹膜炎（Meconium peritonitis）為宮內腸道穿孔後胎糞溢出至腹膜腔引起的無菌性腹膜炎，可致腹膜粘連及繼發性囊腫。高迴聲腸道（Hyperechoic bowel）為非特異性發現，可與唐氏症、TORCH 感染、囊性纖維化及胎兒生長受限相關；輕度高迴聲（低於骨頭迴聲）且無佔位效應可能為正常變異。臍膨出（Omphalocele）為最常見腹壁缺損，臍帶插入點位於囊腫底部中央；50-75% 合併其他結構異常。腹裂（Gastroschisis）為位於臍帶插入點旁側（通常右側）的腹壁缺損，腸道突出但無腹膜覆蓋，常為孤立性異常。
+
+### 臨床重點 / Clinical Pearls
+
+- 臍膨出 vs 腹裂：臍帶插入點位置為關鍵鑑別點（臍膨出=中央；腹裂=旁側）
+- 臍膨出50-75%合併其他異常（心臟、三體、Beckwith-Wiedemann）；腹裂通常為孤立性
+- 高迴聲腸道若輕度（<骨頭迴聲）且無佔位效應可能為正常變異
+
+![Page 553](/core_radiology/images/ultrasound/page-553.png)
+
+---
+
+# Ultrasound - Page 554
+
+## 胎兒腎臟與泌尿系統 / Fetal Kidneys and Genitourinary Tract
+
+胎兒泌尿系統評估在羊水過少時尤為重要。胎兒腎積水（Fetal hydronephrosis）篩檢常用腎盂軸徑：20週後<5 mm 正常，≥10 mm 異常；16-20週時4-6 mm為邊界值。輸尿管腎盂接合部阻塞（UPJO）為最常見胎兒腎積水原因，常為單側且預後良好。後尿道瓣膜（Posterior urethral valves）為男胎兒膀胱出口阻塞最常見原因，超聲呈「鑰匙孔徵（keyhole sign）」——擴張的後尿道；常合併膀胱增厚、輸尿管腎盂積水及羊水過少。
+
+### 臨床重點 / Clinical Pearls
+
+- 胎兒腎積水測量：腎盂軸徑；20週後5 mm = 正常上限，≥10 mm = 異常
+- 後尿道瓣膜：男胎兒；「鑰匙孔徵」為特徵性超聲表現
+- 羊水過少胎兒：雙側腎臟發育不全為致死性；單側MCDK預後極好
+
+![Page 554](/core_radiology/images/ultrasound/page-554.png)
+
+---
+
+# Ultrasound - Page 555
+
+## 胎兒骨骼發育不良與骶尾部畸胎瘤 / Fetal Skeletal Dysplasia and Sacrococcygeal Teratoma
+
+軟骨發育不全（Osteogenesis imperfecta, OI）為先天性骨骼發育不良疾病，由異常 I 型膠原蛋白引起，導致多發骨折；第2型為致死性，第2型可在第二孕期診斷。軟骨發育不全長骨呈「皺褶」外觀（多次骨折導致），胸廓小而軟；與thanatophoric dysplasia 不同之處為骨質礦化減少。骶尾部畸胎瘤（Sacrococcygeal teratoma）為骶骨/尾骨的胚細胞腫瘤，常呈現為混合實質及囊性的複雜團塊；可與脊髓脊膜膨出鑑別（骶尾部畸胎瘤脊椎正常變細且覆蓋皮膚完整）。
+
+### 臨床重點 / Clinical Pearls
+
+- OI vs Thanatophoric dysplasia：前者骨質礦化減少（超聲可見完整腦組織）；後者骨質礦化正常
+- 骶尾部畸胎瘤：尾部混合實質囊性團塊；需與脊髓脊膜膨出鑑別（脊椎正常變細+皮膚完整）
+- 致死性骨骼發育不良：四肢嚴重縮短、胸廓小、多發骨折
+
+![Page 555](/core_radiology/images/ultrasound/page-555.png)
+
+---
+
+# Ultrasound - Page 556
+
+## 產科超聲 / Obstetric Ultrasound
+
+
+## 染色體異常與胎兒症候群 / Chromosomal Abnormalities and Fetal Syndromes
+
+唐氏症（Trisomy 21）超聲結構異常包括：頸部皺褶增厚（16-20週≥6 mm，最敏感單一發現）、鼻骨缺如、囊性水瘤、先天性心臟病（VSD、房室通道缺損）、十二指腸閉鎖、高迴聲心內膜灶及股骨/肱骨縮短。13三體（Trisomy 13）常見全前腦無裂、顱裂畸形、囊性水瘤、心臟病、臍膨出及多指畸形。18三體（Trisomy 18）常見草莓徵（額骨內曲）、心臟病、臍膨出及握拳不開（重疊指）。Beckwith-Wiedemann症候群（BWS）為過度生長症候群，與威爾姆氏腫瘤（腎母細胞瘤）風險增加相關；需每3個月一次腹部超聲篩檢直至8歲。
+
+### 臨床重點 / Clinical Pearls
+
+- 唐氏症結構異常：頸部皺褶≥6 mm（16-20週）為最敏感單一超聲發現
+- 草莓徵：額骨內曲呈草莓外形，為18三體特徵性表現
+- BWS：腹部超聲每3個月篩檢威爾姆氏腫瘤直至8歲
+
+![Page 556](/core_radiology/images/ultrasound/page-556.png)
+
+---
+
+# Ultrasound - Page 557
+
+## 新生兒腦部：室管膜下出血 / Neonatal Brain: Germinal Matrix Hemorrhage
+
+室管膜下出血（Germinal matrix hemorrhage, GMH）為新生兒常見腦內出血，主要見於早產兒（<34週）。室管膜（Germinal matrix）為位於尾狀丘腦溝的神經元前體細胞所在地，血管豐富且結構脆弱。GMH 分級：I級=局限於室管膜；II級=延伸至腦室但無腦室擴大；III級=延伸至腦室且有腦室擴大；IV級=延伸至腦實質。超聲為首選檢查（經前囟），可見尾狀丘腦溝區域高迴聲團塊。
+
+### 臨床重點 / Clinical Pearls
+
+- GMH 主要見於早產兒（<34週），與腦室內出血（IVH）相關
+- I-II級：多數預後良好；III-IV級：神經發育後遺症風險增加
+- 超聲為GMH首選檢查（經前囟），MRI可進一步評估腦實質受累程度
+
+![Page 557](/core_radiology/images/ultrasound/page-557.png)
+
+---
