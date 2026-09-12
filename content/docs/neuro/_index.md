@@ -1001,7 +1001,7 @@ Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦
 
 ---
 
-### 中風影像學評估 (Stroke Imaging Evaluation) (H3)
+## 中風影像學評估 (Stroke Imaging Evaluation)
 
 ![Page 270](/core_radiology/images/neuro/page-270.png)
 
@@ -1196,7 +1196,7 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 
 ### Intraparenchymal Hemorrhage Imaging / 腦實質內出血影像 (IMG 284, BOOK 275)
-## 顱內出血 / Intracranial Hemorrhage
+### 顱內出血 / Intracranial Hemorrhage
 
 
 ![Page 284](/core_radiology/images/neuro/page-284.png)
@@ -1276,7 +1276,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 ---
 
 ### White Matter Disease Overview / 白質疾病總論 (IMG 290, BOOK 281)
-## 白質疾病與脫髓鞘 / White Matter & Demyelination
+### 白質疾病與脫髓鞘 / White Matter & Demyelination
 
 
 ![Page 290](/core_radiology/images/neuro/page-290.png)
@@ -1343,7 +1343,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 ---
 
 ### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
-## 顱內感染 / Intracranial Infections
+### 顱內感染 / Intracranial Infections
 
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
@@ -1423,7 +1423,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 ---
 
 ### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
-## 頭頸部感染 / Head and Neck Infections
+### 頭頸部感染 / Head and Neck Infections
 
 
 ![Page 301](/core_radiology/images/neuro/page-291.png)
@@ -1684,7 +1684,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 
 ### 外耳與外耳道 / 外耳與外耳道（External Ear and EAC）
-## 顳骨與顱底 / Temporal Bone and Skull Base
+### 顳骨與顱底 / Temporal Bone and Skull Base
 
 
 ![Page 321](/core_radiology/images/neuro/page-321.png)
@@ -1830,7 +1830,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 眼眶解剖 / 眼眶解剖學（Orbital Anatomy）
-## 眼眶 / Orbit
+### 眼眶 / Orbit
 
 
 ![Page 332](/core_radiology/images/neuro/page-332.png)
@@ -1952,7 +1952,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ### 咀嚼肌間隙 / 咀嚼肌間隙（Masticator Space）
-## 頭頸部筋膜間隙 / Head and Neck Spaces
+### 頭頸部筋膜間隙 / Head and Neck Spaces
 
 
 ![Page 341](/core_radiology/images/neuro/page-341.png)
