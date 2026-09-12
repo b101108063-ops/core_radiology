@@ -1209,7 +1209,7 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 ---
 
-### Parenchymal Hematoma Stages on MRI / 腦實質血腫的MRI分期 (IMG 285, BOOK 276)
+### Parenchymal Hematoma Stages on MRI / 腦實質血腫的MRI分期 (Page 285)
 
 ![Page 285](/core_radiology/images/neuro/page-285.png)
 
@@ -1222,7 +1222,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Causes of Intraparenchymal Hemorrhage / 腦實質內出血的原因 (IMG 286, BOOK 277)
+### Causes of Intraparenchymal Hemorrhage / 腦實質內出血的原因 (Page 286)
 
 ![Page 286](/core_radiology/images/neuro/page-286.png)
 
@@ -1235,7 +1235,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Intracranial Hemorrhage Etiologies / 顱內出血病因鑑別 (IMG 287, BOOK 278)
+### Intracranial Hemorrhage Etiologies / 顱內出血病因鑑別 (Page 287)
 
 ![Page 287](/core_radiology/images/neuro/page-287.png)
 
@@ -1248,7 +1248,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Hemorrhage Summary and Moyamoya / 出血病因總結與 Moyamoya 病 (IMG 288, BOOK 279)
+### Hemorrhage Summary and Moyamoya / 出血病因總結與 Moyamoya 病 (Page 288)
 
 ![Page 288](/core_radiology/images/neuro/page-288.png)
 
@@ -1261,7 +1261,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Hemorrhage Etiology Flowchart / 腦出血病因鑑別流程圖 (IMG 289, BOOK 280)
+### Hemorrhage Etiology Flowchart / 腦出血病因鑑別流程圖 (Page 289)
 
 ![Page 289](/core_radiology/images/neuro/page-289.png)
 
@@ -1289,7 +1289,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞 (IMG 291, BOOK 282)
+### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞 (Page 282)
 
 ![Page 291](/core_radiology/images/neuro/page-282.png)
 
@@ -1302,7 +1302,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### MS Variants and Demyelinating Diseases / 脫髓鞘疾病變異型 (IMG 292, BOOK 283)
+### MS Variants and Demyelinating Diseases / 脫髓鞘疾病變異型 (Page 283)
 
 ![Page 292](/core_radiology/images/neuro/page-283.png)
 
@@ -1315,7 +1315,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### CADASIL, Vasculitis, and Microangiopathy / CADASIL、血管炎與微血管病變 (IMG 293, BOOK 284)
+### CADASIL, Vasculitis, and Microangiopathy / CADASIL、血管炎與微血管病變 (Page 284)
 
 ![Page 293](/core_radiology/images/neuro/page-284.png)
 
@@ -1328,7 +1328,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### PML, ADEM, and Radiation Injury / 進行性多竈性白質腦病、脫髓鞘性腦脊髓炎與輻射損傷 (IMG 294, BOOK 285)
+### PML, ADEM, and Radiation Injury / 進行性多竈性白質腦病、脫髓鞘性腦脊髓炎與輻射損傷 (Page 285)
 
 ![Page 294](/core_radiology/images/neuro/page-285.png)
 
@@ -1342,7 +1342,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 ---
 
 ## Neuro Infections / 顱內感染
-### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (IMG 295, BOOK 286)
+### Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (Page 285)
 
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
@@ -1356,7 +1356,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### Tuberculoma, Lyme, Fungal Infections / 結核瘤、萊姆病與真菌感染 (IMG 296, BOOK 287)
+### Tuberculoma, Lyme, Fungal Infections / 結核瘤、萊姆病與真菌感染 (Page 286)
 
 ![Page 296](/core_radiology/images/neuro/page-286.png)
 
@@ -1369,7 +1369,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### Neurocysticercosis and Toxoplasmosis / 神經囊蟲病與弓漿蟲病 (IMG 297, BOOK 288)
+### Neurocysticercosis and Toxoplasmosis / 神經囊蟲病與弓漿蟲病 (Page 287)
 
 ![Page 297](/core_radiology/images/neuro/page-287.png)
 
@@ -1382,7 +1382,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### Herpes Encephalitis and HIV Encephalopathy / 皰疹病毒腦炎與HIV腦病變 (IMG 298, BOOK 289)
+### Herpes Encephalitis and HIV Encephalopathy / 皰疹病毒腦炎與HIV腦病變 (Page 288)
 
 ![Page 298](/core_radiology/images/neuro/page-288.png)
 
@@ -1395,7 +1395,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ---
 
-### Creutzfeldt-Jakob Disease and Metabolic Disorders / CJD與中毒代謝性疾病 (IMG 299, BOOK 290)
+### Creutzfeldt-Jakob Disease and Metabolic Disorders / CJD與中毒代謝性疾病 (Page 289)
 
 ![Page 299](/core_radiology/images/neuro/page-289.png)
 
@@ -1422,7 +1422,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 ---
 
 ## Head & Neck Infections / 頭頸部感染
-### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (IMG 301, BOOK 292)
+### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (Page 291)
 
 
 ![Page 301](/core_radiology/images/neuro/page-291.png)
@@ -1436,7 +1436,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Retropharyngeal Abscess and Complications / 咽後膿腫及其併發症 (IMG 302, BOOK 293)
+### Retropharyngeal Abscess and Complications / 咽後膿腫及其併發症 (Page 292)
 
 ![Page 302](/core_radiology/images/neuro/page-292.png)
 
@@ -1462,7 +1462,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Branchial Cleft Cysts / 鰓裂囊腫 (IMG 304, BOOK 295)
+### Branchial Cleft Cysts / 鰓裂囊腫 (Page 294)
 
 ![Page 304](/core_radiology/images/neuro/page-294.png)
 
@@ -1475,7 +1475,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Masticator/Submandibular Abscess and Lymphatic Malformations / 咀嚼肌/下頜下膿腫與淋巴管畸形 (IMG 305, BOOK 296)
+### Masticator/Submandibular Abscess and Lymphatic Malformations / 咀嚼肌/下頜下膿腫與淋巴管畸形 (Page 295)
 
 ![Page 305](/core_radiology/images/neuro/page-295.png)
 
@@ -1501,7 +1501,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Laryngeal Diseases / 喉部疾病 (IMG 307, BOOK 298)
+### Laryngeal Diseases / 喉部疾病 (Page 297)
 
 ![Page 307](/core_radiology/images/neuro/page-297.png)
 
@@ -1527,7 +1527,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Chronic Sinusitis and Complications / 慢性鼻竇炎及其併發症 (IMG 309, BOOK 300)
+### Chronic Sinusitis and Complications / 慢性鼻竇炎及其併發症 (Page 299)
 
 ![Page 309](/core_radiology/images/neuro/page-299.png)
 
@@ -1540,7 +1540,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Acute and Allergic Fungal Sinusitis / 急性與慢性過敏性真菌性鼻竇炎 (IMG 310, BOOK 301)
+### Acute and Allergic Fungal Sinusitis / 急性與慢性過敏性真菌性鼻竇炎 (Page 300)
 
 ![Page 310](/core_radiology/images/neuro/page-300.png)
 
@@ -1553,7 +1553,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 (IMG 311, BOOK 302)
+### Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 (Page 301)
 
 ![Page 311](/core_radiology/images/neuro/page-301.png)
 
@@ -1579,7 +1579,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Pleomorphic Adenoma and Warthin Tumor / 多形性腺瘤與Warthin瘤 (IMG 313, BOOK 304)
+### Pleomorphic Adenoma and Warthin Tumor / 多形性腺瘤與Warthin瘤 (Page 303)
 
 ![Page 313](/core_radiology/images/neuro/page-303.png)
 
@@ -1592,7 +1592,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Malignant Parotid Tumors / 惡性唾液腺腫瘤 (IMG 314, BOOK 305)
+### Malignant Parotid Tumors / 惡性唾液腺腫瘤 (Page 304)
 
 ![Page 314](/core_radiology/images/neuro/page-304.png)
 
@@ -1605,7 +1605,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ---
 
-### Sjögren Syndrome and HIV Lymphoepithelial Lesions / 乾燥症候群與HIV淋巴上皮性病變 (IMG 315, BOOK 306)
+### Sjögren Syndrome and HIV Lymphoepithelial Lesions / 乾燥症候群與HIV淋巴上皮性病變 (Page 305)
 
 ![Page 315](/core_radiology/images/neuro/page-305.png)
 
@@ -1618,7 +1618,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### Pterygopalatine Fossa Anatomy / 翼顎窩解剖 (IMG 316, BOOK 307)
+### Pterygopalatine Fossa Anatomy / 翼顎窩解剖 (Page 306)
 
 ![Page 316](/core_radiology/images/neuro/page-306.png)
 
@@ -1631,7 +1631,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### Juvenile Nasopharyngeal Angiofibroma / 青少年鼻咽血管纖維瘤 (IMG 317, BOOK 308)
+### Juvenile Nasopharyngeal Angiofibroma / 青少年鼻咽血管纖維瘤 (Page 307)
 
 ![Page 317](/core_radiology/images/neuro/page-307.png)
 
@@ -1670,7 +1670,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### Temporal Bone Pathology / 顳骨疾病 (IMG 320, BOOK 311)
+### Temporal Bone Pathology / 顳骨疾病 (Page 310)
 
 ![Page 320](/core_radiology/images/neuro/page-310.png)
 
