@@ -66,13 +66,13 @@ MRI T2 矢狀圖清楚顯示側腦室（lateral ventricle）、第三腦室（th
 
 ![Page 214](/core_radiology/images/neuro/page-214.png)
 
-交通性水腦（communicating hydrocephalus）：腦室擴大但無阻塞病灶，蛛網膜下腔出血可通過阻礙蛛網膜顆粒吸收 CSF 而導致。
+交通性水腦（communicating hydrocephalus）：腦室擴大但無阻塞病竈，蛛網膜下腔出血可通過阻礙蛛網膜顆粒吸收 CSF 而導致。
 
 正常壓力水腦（normal pressure hydrocephalus, NPH）：一種交通性水腦，臨床上有癡呆、步態不穩與尿失禁三聯徵，是可治療且可能可逆的癡呆原因，影像可見側腦室與第三腦室擴大。
 
 非交通性水腦：由阻塞性病變引起，如第三腦室膠樣囊腫（colloid cyst）或後顱窩腫瘤阻塞第四腦室。
 
-腦內病灶分為軸內（intra-axial）與軸外（extra-axial）：軸內病變位於腦實質內（pial membrane 內側）；軸外病變位於腦膜或蛛網膜下腔（pial membrane 外側）。
+腦內病竈分為軸內（intra-axial）與軸外（extra-axial）：軸內病變位於腦實質內（pial membrane 內側）；軸外病變位於腦膜或蛛網膜下腔（pial membrane 外側）。
 
 基底腦池（basal cisterns）又稱中腦周腦池，是圍繞中腦與橋腦的 CSF 充盈空間，包括腳間池（interpeduncular cistern）、橋池（prepontine cistern）、鞍上池（suprasellar cistern）與環池（ambient cistern）。基底腦池的壓迫或消失可能是即將發生或已發生腦疝脫的徵象。
 
@@ -88,19 +88,19 @@ MRI T2 矢狀圖清楚顯示側腦室（lateral ventricle）、第三腦室（th
 
 ![Page 215](/core_radiology/images/neuro/page-215.png)
 
-MRI 影像對比源於組織內氫質子的縱向（T1）與橫向（T2）弛豫時間變化。T1 縮短（shortening）在 T1 權重影像上呈現高信號（明亮），T1 延長則呈現低信號（暗）。T2 縮短呈現低信號，T2 延長呈現高信號。
+MRI 影像對比源於組織內氫質子的縱向（T1）與橫向（T2）弛豫時間變化。T1 縮短（shortening）在 T1 權重影像上呈現高訊號（明亮），T1 延長則呈現低訊號（暗）。T2 縮短呈現低訊號，T2 延長呈現高訊號。
 
-T1 高信號的原因包括：gadolinium（造影劑）、脂肪、蛋白質物質、血質（methemoglobin）、黑色素、礦物質（銅、鐵、錳）、慢流動血液，以及罕見的鈣化（彌散分布時）。
+T1 高訊號的原因包括：gadolinium（造影劑）、脂肪、蛋白質物質、血質（methemoglobin）、黑色素、礦物質（銅、鐵、錳）、慢流動血液，以及罕見的鈣化（彌散分布時）。
 
-T2 低信號的原因包括：血質（含鐵血紅素）、鈣化、纖維性病變、高細胞密度腫瘤（如淋巴瘤 medulloblastoma）、流空效應（vascular flow-void）與黏液。
+T2 低訊號的原因包括：血質（含鐵血紅素）、鈣化、纖維性病變、高細胞密度腫瘤（如淋巴瘤 medulloblastoma）、流空效應（vascular flow-void）與黏液。
 
-FLAIR（Fluid Attenuation Inversion Recovery）是神經影像學的主力序列，為 T2 權重影像但抑制 CSF 信號。正常 FLAIR：白質信號低於灰質（與 T1 相反，T1 上白質因脂肪性髓鞘而比灰質亮）。
+FLAIR（Fluid Attenuation Inversion Recovery）是神經影像學的主力序列，為 T2 權重影像但抑制 CSF 訊號。正常 FLAIR：白質訊號低於灰質（與 T1 相反，T1 上白質因脂肪性髓鞘而比灰質亮）。
 
 **重點摘要**
 - **T1 shortening**：T1 縮短，病因包括 gadolinium、脂肪、methemoglobin、melanin
-- **T2 prolongation**：T2 延長，多數病理病灶在 T2 權重影像上呈現高信號
+- **T2 prolongation**：T2 延長，多數病理病竈在 T2 權重影像上呈現高訊號
 - **FLAIR**：抑制 CSF 訊號的 T2 權重影像，是神經影像的主力序列
-- **White matter darker than gray matter on FLAIR**：FLAIR 上白質信號低於灰質
+- **White matter darker than gray matter on FLAIR**：FLAIR 上白質訊號低於灰質
 
 ---
 
@@ -108,9 +108,9 @@ FLAIR（Fluid Attenuation Inversion Recovery）是神經影像學的主力序列
 
 ![Page 216](/core_radiology/images/neuro/page-216.png)
 
-擴散 MRI（Diffusion MRI）基於水分子的布朗運動原理，自由水（如 CSF）衰減最多，病理狀態（尤其是缺血）導致擴散受限（reduced diffusivity），訊號衰減減少而在 DWI 上呈現高信號。ADC map 提供純擴散資訊，不含 T2 權重；受限擴散在 ADC 上呈現低信號（dark）。
+擴散 MRI（Diffusion MRI）基於水分子的布朗運動原理，自由水（如 CSF）衰減最多，病理狀態（尤其是缺血）導致擴散受限（reduced diffusivity），訊號衰減減少而在 DWI 上呈現高訊號。ADC map 提供純擴散資訊，不含 T2 權重；受限擴散在 ADC 上呈現低訊號（dark）。
 
-DWI 對急性腦梗塞具有革命性意義，在症狀出現後數分鐘內即可偵測，敏感度與特異度約 95%。需注意 T2 shine through 假象：DWI 本身為 T2 權重影像，本身 T2 高信號的病灶在 DWI 上也可能呈現高信號，必須與 ADC map 相互對照。
+DWI 對急性腦梗塞具有革命性意義，在症狀出現後數分鐘內即可偵測，敏感度與特異度約 95%。需注意 T2 shine through 假象：DWI 本身為 T2 權重影像，本身 T2 高訊號的病竈在 DWI 上也可能呈現高訊號，必須與 ADC map 相互對照。
 
 b-value（b 值）越高對偵測受限擴散的對比度越好，但會降低訊噪比。臨床常使用 b=1000。
 
@@ -119,8 +119,8 @@ b-value（b 值）越高對偵測受限擴散的對比度越好，但會降低�
 質子密度（Proton Density, PD）影像神經影像學中主要用於多發性硬化症（MS）的評估，特別是後顱窩的去髓鞘斑塊。
 
 **重點摘要**
-- **DWI (Diffusion Weighted Imaging)**：急性腦中風的首選序列，受限擴散呈現高信號
-- **ADC (Apparent Diffusion Coefficient)**：受限擴散在 ADC map 上呈現低信號（dark）
+- **DWI (Diffusion Weighted Imaging)**：急性腦中風的首選序列，受限擴散呈現高訊號
+- **ADC (Apparent Diffusion Coefficient)**：受限擴散在 ADC map 上呈現低訊號（dark）
 - **T2 shine through**：DWI 的假象，需配合 ADC map 排除
 - **b-value**：影響擴散影像對比度與訊噪比的關鍵參數
 
@@ -138,29 +138,29 @@ Perfusion MRI（灌流 MRI）為先進技術，在注射 gadolinium 造影劑時
 
 **重點摘要**
 - **GRE / T2* imaging**：對 hemosiderin 與鈣化敏感，適合偵測微出血
-- **MR Spectroscopy**：分析 Cho、Cr、NAA 等化合物，協助鑑別腫瘤復發與辐射坏死
+- **MR Spectroscopy**：分析 Cho、Cr、NAA 等化合物，協助鑑別腫瘤復發與輻射壞死
 - **Hunter's angle**：頻譜判讀技巧，連線向上＝正常
 - **Perfusion MRI**：測量 rCBV（relative cerebral blood volume），高級膠質瘤灌流增加
 
 ---
 
-### Blood-Brain Barrier & Enhancement Patterns 血腦屏障與強化模式 (Page 218)
+### Blood-Brain Barrier & Enhancement Patterns 血腦屏礙與強化模式 (Page 218)
 
 ![Page 218](/core_radiology/images/neuro/page-218.png)
 
-血腦屏障（Blood Brain Barrier, BBB）由星狀細胞足突與腦毛細血管內皮細胞構成，防止系統性毛細血管與受保護的腦細胞外液直接交通。BBB 破壞（感染、發炎、腫瘤創傷、血管病因）導致注射造影劑後的實質強化。
+血腦屏礙（Blood Brain Barrier, BBB）由星狀細胞足突與腦毛細血管內皮細胞構成，防止系統性毛細血管與受保護的腦細胞外液直接交通。BBB 破壞（感染、發炎、腫瘤創傷、血管病因）導致注射造影劑後的實質強化。
 
 正常缺乏 BBB 因此會強化的結構包括：脈絡叢（choroid plexus）、腦下垂體與松果腺、tuber cinereum（位於下視丘，控制晝夜節律）與 area postrema（位於第四腦室底部，控制嘔吐）。
 
 腦內強化可分為軸內（intra-axial）與軸外（extra-axial）兩大類。軸內強化位於腦實質內。
 
-腦室周圍強化（periventricular enhancement）的軸內鑑別診斷：原發性中樞神經淋巴瘤（Primary CNS lymphoma），CT 高密度，MRI T2 低信號（因高細胞密度），ADC 低信號；巨細胞病毒（CMV）感染性室管膜炎；原發性膠質細胞瘤；多發性硬化症（active plaque 可能強化）。
+腦室周圍強化（periventricular enhancement）的軸內鑑別診斷：原發性中樞神經淋巴瘤（Primary CNS lymphoma），CT 高密度，MRI T2 低訊號（因高細胞密度），ADC 低訊號；巨細胞病毒（CMV）感染性室管膜炎；原發性膠質細胞瘤；多發性硬化症（active plaque 可能強化）。
 
 **重點摘要**
 - **Blood Brain Barrier (BBB)**：由 astrocytic foot processes 與內皮細胞構成
 - **Normal enhancing structures**：choroid plexus、pituitary、pineal gland、area postrema
 - **Periventricular enhancement**：室管膜表面強化，常見於 CNS lymphoma、MS、ependymitis
-- **Primary CNS lymphoma**：T2 低信號、ADC 低信號（高細胞密度），均勻強化
+- **Primary CNS lymphoma**：T2 低訊號、ADC 低訊號（高細胞密度），均勻強化
 
 ---
 
@@ -192,15 +192,15 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 
 環狀強化（ring enhancement）是常見表現，需鑑別高級別腫瘤與腦膿腫。可用 MAGIC DR 記憶病因：Metastasis（轉移）、Abscess（膿腫）、Glioma（膠質瘤）、Infarct（梗塞）、Contusion（挫傷）、Demyelination（脫髓鞘）與 Radiation（放射壞死）。
 
-膿腫（Abscess）：pyogenic abscess 的特徵是中心壞死區黏稠，在 DWI 上呈現高信號（受限擴散，因壞死液黏稠）而在 ADC 上暗低信號，T2 可見光滑的低信號邊緣（hypointense rim）。
+膿腫（Abscess）：pyogenic abscess 的特徵是中心壞死區黏稠，在 DWI 上呈現高訊號（受限擴散，因壞死液黏稠）而在 ADC 上暗低訊號，T2 可見光滑的低訊號邊緣（hypointense rim）。
 
-膠質瘤（Glioblastoma）：高級別膠質瘤（如 GBM）典型呈現厚且不規則的牆壁；光譜分析在強化腫瘤邊緣外仍呈現異常（因非強化浸潤性腫瘤），这点与脓肿、MS 病灶、转移瘤不同；Perfusion 顯示 rCBV 增加。
+膠質瘤（Glioblastoma）：高級別膠質瘤（如 GBM）典型呈現厚且不規則的牆壁；光譜分析在強化腫瘤邊緣外仍呈現異常（因非強化浸潤性腫瘤），这点与膿腫、MS 病竈、轉移瘤不同；Perfusion 顯示 rCBV 增加。
 
 脫髓鞘疾病（Demyelination）：關鍵特徵是缺乏顯著 mass effect；強化「環」常不完整，呈「C」形；MS 是最常見的脫髓鞘疾病。
 
 **重點摘要**
 - **Ring enhancement**：病因廣泛，MAGIC DR 幫助記憶
-- **Abscess**：DWI 高信號（受限擴散）與 T2 低信號 rim 為特徵
+- **Abscess**：DWI 高訊號（受限擴散）與 T2 低訊號 rim 為特徵
 - **GBM (Glioblastoma)**：不規則厚壁，光譜異常超出強化邊緣，灌流增加
 - **Demyelination**：無顯著 mass effect，強化環常不完整
 
@@ -214,7 +214,7 @@ Pachymeninges（厚腦膜）指的是 dura mater，是大腦最外層厚韌的�
 
 硬膜本身沒有 BBB。正常情況下對比分子可擴散進入硬膜，但 CT 上無法顯示（因顱骨與相鄰強化硬膜都呈現白色）；MRI 上也不顯示，因為正常硬膜缺乏足夠的水質子，但病理狀態下硬膜水腫提供足夠水質子使 gadolinium 顯現可見。因此 MRI 上的硬膜強化代表硬膜水腫，而非 BBB 破壞。
 
-顱內低壓（Intracranial hypotension）：因 CSF 壓力長期降低導致硬膜血管性水腫；臨床表现为体位性头痛（站立加重）；影像顯示厚線性硬膜強化、腦下垂體擴大、小腦扁桃體「下垂」；可能因腦靜脈牽引導致硬膜下出血。
+顱內低壓（Intracranial hypotension）：因 CSF 壓力長期降低導致硬膜血管性水腫；臨床表现为體位性头痛（站立加重）；影像顯示厚線性硬膜強化、腦下垂體擴大、小腦扁桃體「下垂」；可能因腦靜脈牽引導致硬膜下出血。
 
 硬膜尾（dural tail）：腦膜瘤等腦膜腫瘤產生的局部硬膜強化，為反應性變化。
 
@@ -236,13 +236,13 @@ Pachymeninges（厚腦膜）指的是 dura mater，是大腦最外層厚韌的�
 
 腦膜癌病（Leptomeningeal carcinomatosis，又稱 carcinomatous meningitis）：腫瘤擴散至蛛網膜下腔。原發性腦腫瘤可引起者包括 medulloblastoma、oligodendroglioma、choroid plexus tumor、lymphoma、ependymoma、glioblastoma 與 germinoma。
 
-慢血流（slow vascular flow）可能類似軟膜-蛛網膜強化，但仔細檢查可見其為血管內分佈的 FLAIR 高信號（因血液的高信號特性在整個脈衝序列中都被捕捉）。Moyamoya 病的慢血流可導致「ivy sign」。
+慢血流（slow vascular flow）可能類似軟膜-蛛網膜強化，但仔細檢查可見其為血管內分佈的 FLAIR 高訊號（因血液的高訊號特性在整個脈衝序列中都被捕捉）。Moyamoya 病的慢血流可導致「ivy sign」。
 
 **重點摘要**
 - **Leptomeninges (Lepto = thin)**：軟膜-蛛網膜，包含 pia 與 arachnoid
 - **Meningitis**：細線性強化提示 bacterial/viral；結節狀強化提示 fungal
 - **Leptomeningeal carcinomatosis**：腫瘤扩散至 subarachnoid space
-- **Slow flow vs. leptomeningeal enhancement**：慢血流為血管內分布，FLAIR 高信號但無真正強化
+- **Slow flow vs. leptomeningeal enhancement**：慢血流為血管內分布，FLAIR 高訊號但無真正強化
 
 ---
 
@@ -274,11 +274,11 @@ Pachymeninges（厚腦膜）指的是 dura mater，是大腦最外層厚韌的�
 
 是否強化也是重要指標：轉移瘤一定強化（因為腫瘤新生血管缺乏 BBB）；低級別原發性浸潤性腫瘤可能不強化（原發性腦腫瘤可能形成接近正常的 CNS 毛細血管，具完整 BBB）。
 
-強化程度與組織學分級無相關性：即使是大型高级別原發性腦腫瘤也可能僅輕微強化；相反地，良性幼年型毛髮狀星狀細胞瘤（JPA）常見明顯強化的結節。
+強化程度與組織學分級無相關性：即使是大型高級別原發性腦腫瘤也可能僅輕微強化；相反地，良性幼年型毛髮狀星狀細胞瘤（JPA）常見明顯強化的結節。
 
 是否為多發病變：如果多發，診斷壓倒性地傾向轉移性疾病。
 
-MRI 信號特徵有助於特定診斷：T2 低信號腫瘤包括富含黏蛋白的轉移瘤、hypercellular 腫瘤（淋巴瘤、medulloblastoma、germinoma）；T1 高信號腫瘤包括黑色素瘤（melanin）、脂肪瘤（dermoid/teratoma）與出血性轉移。
+MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白的轉移瘤、hypercellular 腫瘤（淋巴瘤、medulloblastoma、germinoma）；T1 高訊號腫瘤包括黑色素瘤（melanin）、脂肪瘤（dermoid/teratoma）與出血性轉移。
 
 **重點摘要**
 - **Extra-axial vs. intra-axial**：位置決定鑑別診斷方向
@@ -320,12 +320,12 @@ MRI 信號特徵有助於特定診斷：T2 低信號腫瘤包括富含黏蛋白�
 
 纖維性星狀細胞瘤（Fibrillary astrocytoma）為浸潤性腫瘤，分為低級別星狀細胞瘤（low-grade astrocytoma，WHO II 級）、間變性星狀細胞瘤（anaplastic astrocytoma，WHO III 級）與多形性膠質母細胞瘤（glioblastoma multiforme，GBM，WHO IV 級）。
 
-低級別星狀細胞瘤（WHO II 級）典型表現為 T2 高信號腫塊，無強化；影像學表現可能輕微，臨床上常見於年輕患者。
+低級別星狀細胞瘤（WHO II 級）典型表現為 T2 高訊號腫塊，無強化；影像學表現可能輕微，臨床上常見於年輕患者。
 
 **重點摘要**
 - **JPA (Juvenile Pilocytic Astrocytoma)**：WHO Grade I，好發後顱窩，囊性＋強化結節
 - **NF1 association**：視神經路徑 JPA 與 NF1 相關
-- **Low-grade astrocytoma**：WHO Grade II，T2 高信號，無強化
+- **Low-grade astrocytoma**：WHO Grade II，T2 高訊號，無強化
 - **Fibrillary astrocytoma family**：包括 Grade II-IV，是浸潤性腫瘤
 
 ---
@@ -336,7 +336,7 @@ MRI 信號特徵有助於特定診斷：T2 低信號腫瘤包括富含黏蛋白�
 
 間變性星狀細胞瘤（Anaplastic astrocytoma）是 WHO 第三級腫瘤。表現多樣，可從皮質增厚（類似低級別星狀細胞瘤）到不規則強化腫塊（可能與 GBM 無法區分）。其自然病程最終會進展為 GBM。
 
-膠質母細胞瘤（Glioblastoma multiforme, GBM）是第四級的高度侵襲性腫瘤，好發於老年人，是最常見的原發性中樞神經系統惡性腫瘤。GBM 表現多樣（「multiforme」），典型為白質腫塊伴有異質性強化，周圍 T2 高信號區域（多數為浸潤性腫瘤）。
+膠質母細胞瘤（Glioblastoma multiforme, GBM）是第四級的高度侵襲性腫瘤，好發於老年人，是最常見的原發性中樞神經系統惡性腫瘤。GBM 表現多樣（「multiforme」），典型為白質腫塊伴有異質性強化，周圍 T2 高訊號區域（多數為浸潤性腫瘤）。
 
 GBM 為浸潤性疾病，通過白質路徑、CSF 與室管膜下扩散。穿過胼胝體到達對側的 GBM 稱為「蝴蝶神經膠質瘤」（butterfly glioma）。經室管膜下扩散（subependymal spread）描述腫瘤沿腦室壁在室管膜細胞下扩散。
 
@@ -356,7 +356,7 @@ GBM 為浸潤性疾病，通過白質路徑、CSF 與室管膜下扩散。穿過
 
 膠質瘤病（Gliomatosis cerebri）是一種瀰漫性浸潤性中級別（WHO II 或 III 級）星狀細胞瘤，可影響多個腦葉。診斷標準為至少兩個腦葉受侵犯，加上皮質外結構（如基底核、胼胝體、腦幹或小腦）受侵犯。典型影像為整個受侵犯腦部區域的瀰漫性 T2 延長，通常有 mass effect 但無強化。預後不良，可能惡化為 GBM。
 
-瀰漫性 T2 延長可見於多種疾病，免疫低下患者需考慮：淋巴瘤、進行性多病灶腦白質病（PML，由 JC 病毒引起的脫髓鞘）與 AIDS 腦病。
+瀰漫性 T2 延長可見於多種疾病，免疫低下患者需考慮：淋巴瘤、進行性多病竈腦白質病（PML，由 JC 病毒引起的脫髓鞘）與 AIDS 腦病。
 
 寡樹突膠質細胞瘤（Oligodendroglioma）是 WHO 第二級腫瘤，好發於年輕至中年患者，以癲癇為主要表現。約 75% 有鈣化（calcification），CT 上可見低密度腫塊內的粗大鈣化。生長緩慢，周圍水腫輕微。
 
@@ -465,6 +465,8 @@ Gliomatosis cerebri Gliomatosis cerebri is a diffuse infiltrative mid-grade (WHO
 
 
 ### Ependymoma / 室管膜瘤 (H3)
+## 腦腫瘤 / Brain Tumors (cont.)
+
 
 ![Page 238](/core_radiology/images/neuro/page-238.png)
 
@@ -524,13 +526,13 @@ Choroid plexus papilloma/carcinoma（脈絡叢乳頭狀瘤/癌）T2加權可見�
 
 ![Page 242](/core_radiology/images/neuro/page-242.png)
 
-Primary CNS lymphoma（原發性中樞神經系統淋巴瘤，PCNSL）FLAIR可見左側基底神經節不均匀訊號團塊伴血管性水腫。ADC map顯示團塊中心呈暗色，代表因高細胞密度所致的受限擴散。免疫功能正常患者典型表現為強化的腦室周團塊，常跨越胼胝體涉及雙側大腦半球，通常均匀強化無中心壞死。免疫抑制患者則典型表現為腦室周環形強化合併中心壞死，主要鑑別為淋巴瘤與弓漿蟲感染，可透過thallium scan、PET或灌注掃描區分。Intra-axial metastasis（腦實質轉移）最常見原發腫瘤為肺癌、乳癌、黑色素瘤，大多發生於灰白質交界處（口徑改變處），均會強化但缺乏完整血腦障壁。
+Primary CNS lymphoma（原發性中樞神經系統淋巴瘤，PCNSL）FLAIR可見左側基底神經節不均匀訊號團塊伴血管性水腫。ADC map顯示團塊中心呈暗色，代表因高細胞密度所致的受限擴散。免疫功能正常患者典型表現為強化的腦室周團塊，常跨越胼胝體涉及雙側大腦半球，通常均匀強化無中心壞死。免疫抑制患者則典型表現為腦室周環形強化合併中心壞死，主要鑑別為淋巴瘤與弓漿蟲感染，可透過thallium scan、PET或灌注掃描區分。Intra-axial metastasis（腦實質轉移）最常見原發腫瘤為肺癌、乳癌、黑色素瘤，大多發生於灰白質交界處（口徑改變處），均會強化但缺乏完整血腦礙壁。
 
 **重點摘要**
 - **Primary CNS lymphoma（PCNSL）**：瀰漫性大型B細胞淋巴瘤，免疫正常者均勻強化無壞死，免疫抑制者典型環形強化
 - **ADC值**：低ADC代表高細胞密度，為淋巴瘤特徵
 - **Thallium scan**：淋巴瘤攝取thallium，弓漿蟲感染則不攝取
-- **Intra-axial metastasis（腦實質轉移）**：最常見於灰白質交界處，腫瘤毛細血管無完整血腦障壁故均會強化
+- **Intra-axial metastasis（腦實質轉移）**：最常見於灰白質交界處，腫瘤毛細血管無完整血腦礙壁故均會強化
 
 ---
 
@@ -552,7 +554,7 @@ Meningioma（腦膜瘤）是最常見的軸外腫瘤，起源於蜘蛛膜顆粒�
 
 ![Page 244](/core_radiology/images/neuro/page-244.png)
 
-後顱窩腫瘤的鑑別診斷需根據患者年齡與影像特徵綜合判斷。兒童最常見後顱窩腫瘤為Medulloblastoma（髓母細胞瘤），CT高衰減、MRI低ADC值為特色。若為囊性腫塊合併強化壁結節，需考慮Juvenile pilocytic astrocytoma（毛細胞型星狀膠質瘤）或Hemangioblastoma（血管母細胞瘤）。若腫瘤會經第四腦室孔擠出，則為Ependymoma（室管膜瘤）。ATRT則好發於比髓母細胞瘤更年幼的兒童。成人後顱窩腫瘤若有多發病灶且有癌症病史，需考慮Metastasis（轉移）。若為年輕成人且腫瘤位於側面，需考慮Medulloblastoma。
+後顱窩腫瘤的鑑別診斷需根據患者年齡與影像特徵綜合判斷。兒童最常見後顱窩腫瘤為Medulloblastoma（髓母細胞瘤），CT高衰減、MRI低ADC值為特色。若為囊性腫塊合併強化壁結節，需考慮Juvenile pilocytic astrocytoma（毛細胞型星狀膠質瘤）或Hemangioblastoma（血管母細胞瘤）。若腫瘤會經第四腦室孔擠出，則為Ependymoma（室管膜瘤）。ATRT則好發於比髓母細胞瘤更年幼的兒童。成人後顱窩腫瘤若有多發病竈且有癌症病史，需考慮Metastasis（轉移）。若為年輕成人且腫瘤位於側面，需考慮Medulloblastoma。
 
 **重點摘要**
 - **兒童後顱窩**：Medulloblastoma最常見（CT高衰減、低ADC）；Ependymoma會經第四腦室孔擠出
@@ -580,7 +582,7 @@ Meningioma（腦膜瘤）是最常見的軸外腫瘤，起源於蜘蛛膜顆粒�
 
 ![Page 246](/core_radiology/images/neuro/page-246.png)
 
-Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的囊腫，會沿著結構滲透生長，包繞腦神經與血管。CT上可能類似蜘蛛膜囊腫呈水衰減，MRI上T1/T2訊號類似CSF，但FLAIR通常不完全抑制。DWI上因受限擴散合併T2 shine-through而呈明顯高訊號，術後DWI追蹤對於檢測殘留病灶非常重要。A posterior fossa intra-axial neoplasm（後顱窩軸內腫瘤）可能向側面侵犯進入CPA：exophytic brainstem glioma、metastasis、medulloblastoma（小兒中線但大童/青年可側面侵犯）、ependymoma（經Luschka孔進入CPA）、hemangioblastoma（小腦半球囊性腫瘤伴流空血管）。
+Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的囊腫，會沿著結構滲透生長，包繞腦神經與血管。CT上可能類似蜘蛛膜囊腫呈水衰減，MRI上T1/T2訊號類似CSF，但FLAIR通常不完全抑制。DWI上因受限擴散合併T2 shine-through而呈明顯高訊號，術後DWI追蹤對於檢測殘留病竈非常重要。A posterior fossa intra-axial neoplasm（後顱窩軸內腫瘤）可能向側面侵犯進入CPA：exophytic brainstem glioma、metastasis、medulloblastoma（小兒中線但大童/青年可側面侵犯）、ependymoma（經Luschka孔進入CPA）、hemangioblastoma（小腦半球囊性腫瘤伴流空血管）。
 
 **重點摘要**
 - **Epidermoid cyst（膽脂瘤）**：先天性，外胚層上皮異位，FLAIR不完全抑制，DWI受限擴散
@@ -608,7 +610,7 @@ Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的�
 
 ![Page 248](/core_radiology/images/neuro/page-248.png)
 
-Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者因荷爾蒙過剩症狀就醫而非腫瘤壓迫症狀。多數微腺瘤相對於正常垂體為低強化，但ACTH分泌性腺瘤可能為高強化。Pituitary macroadenoma（腦下垂體巨腺瘤）為大於10mm的腺瘤，患者通常以視神經交叉壓迫（視力障礙）而非內分泌症狀就診。骨性蝶鞍常見擴大，巨腺瘤可能包繞但不縮窄頸內动脉（與腦膜瘤或轉移瘤不同）。Lymphocytic hypophysitis（淋巴球性垂體炎）為自體免疫發炎疾病，常見於圍產期女性，表現為尿崩症、頭痛、視力障礙及內分泌功能異常，MRI可見垂體柄增厚並明顯強化。Granulomatous hypophysitis（肉芽腫性垂體炎）病因包括結節病、Wegener肉芽腫癥、結核病及Langerhans細胞組織球增生癥。
+Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者因荷爾蒙過剩症狀就醫而非腫瘤壓迫症狀。多數微腺瘤相對於正常垂體為低強化，但ACTH分泌性腺瘤可能為高強化。Pituitary macroadenoma（腦下垂體巨腺瘤）為大於10mm的腺瘤，患者通常以視神經交叉壓迫（視力礙礙）而非內分泌症狀就診。骨性蝶鞍常見擴大，巨腺瘤可能包繞但不縮窄頸內動脈（與腦膜瘤或轉移瘤不同）。Lymphocytic hypophysitis（淋巴球性垂體炎）為自體免疫發炎疾病，常見於圍產期女性，表現為尿崩症、頭痛、視力礙礙及內分泌功能異常，MRI可見垂體柄增厚並明顯強化。Granulomatous hypophysitis（肉芽腫性垂體炎）病因包括結節病、Wegener肉芽腫癥、結核病及Langerhans細胞組織球增生癥。
 
 **重點摘要**
 - **Pituitary macroadenoma（巨腺瘤）**：>10mm，常以視交叉壓迫就診；骨性蝶鞍擴大但少縮窄ICA
@@ -636,7 +638,7 @@ Craniopharyngioma（顱咽瘤）是兒童最常見的鞍上病變，起源於Rat
 
 ![Page 250](/core_radiology/images/neuro/page-250.png)
 
-Meningioma（腦膜瘤）是成人第二常見鞍上腫瘤，好發中年女性，常以視覺障礙就診。可起源於鞍結節、床突、前床突、蝶骨平面及蝶骨脊等硬膜皺褶處。影像上T1等訊號，T2訊號多變，均勻明顯強化，常見強化硬膜尾。鄰近骨質可因血管活性因子而產生增生性改變。鞍旁腦膜瘤的重要特徵是傾向於包繞並縮窄海綿竇或床突上段頸內动脉。與腦下垂體腺瘤不同，蝶鞍通常正常，垂體可清楚辨識。Optic pathway glioma（視神經途徑膠質瘤）是兒童第二常見鞍上腫瘤（僅次於顱咽瘤），神經纖維瘤第一型患者常見此腫瘤，成人發生時則為高度惡性腫瘤。Germinoma（生殖細胞瘤）最常見於松果體區（80%），鞍上區約20%，T2低訊號、ADC暗色（高細胞密度），均匀明顯強化。
+Meningioma（腦膜瘤）是成人第二常見鞍上腫瘤，好發中年女性，常以視覺礙礙就診。可起源於鞍結節、床突、前床突、蝶骨平面及蝶骨脊等硬膜皺褶處。影像上T1等訊號，T2訊號多變，均勻明顯強化，常見強化硬膜尾。鄰近骨質可因血管活性因子而產生增生性改變。鞍旁腦膜瘤的重要特徵是傾向於包繞並縮窄海綿竇或床突上段頸內動脈。與腦下垂體腺瘤不同，蝶鞍通常正常，垂體可清楚辨識。Optic pathway glioma（視神經途徑膠質瘤）是兒童第二常見鞍上腫瘤（僅次於顱咽瘤），神經纖維瘤第一型患者常見此腫瘤，成人發生時則為高度惡性腫瘤。Germinoma（生殖細胞瘤）最常見於松果體區（80%），鞍上區約20%，T2低訊號、ADC暗色（高細胞密度），均匀明顯強化。
 
 **重點摘要**
 - **Parasellar meningioma（鞍旁腦膜瘤）**：成人第二常見鞍上腫瘤，強化硬膜尾，包繞並縮窄ICA
@@ -664,10 +666,10 @@ Hypothalamic hamartoma（下視丘錯構瘤）並非真正的腫瘤，而是異�
 
 ![Page 252](/core_radiology/images/neuro/page-252.png)
 
-松果體位於中線、間腦層面，介於兩側視丘之間、第三腦室後方。松果體細胞（pinealocyte）為改良的視網膜神經元細胞，受視網膜起源的交感神經叢支配，釋放褪黑激素調節睡眠週期。松果體沒有血腦障壁。松果體區域腫塊可能壓迫中腦、大腦導水管或四疊板，壓迫四疊板會導致Parinaud syndrome（上視麻痹、瞳孔光反射分離、眼球震顫）。松果體區域病變評估的第一步是判斷病變是否起源於松果體本身。松果體細胞腫瘤傾向抬起大腦內靜脈，而小腦幕腦膜瘤則傾向壓低這些靜脈，此關係對手術規劃至關重要。
+松果體位於中線、間腦層面，介於兩側視丘之間、第三腦室後方。松果體細胞（pinealocyte）為改良的視網膜神經元細胞，受視網膜起源的交感神經叢支配，釋放褪黑激素調節睡眠週期。松果體沒有血腦礙壁。松果體區域腫塊可能壓迫中腦、大腦導水管或四疊板，壓迫四疊板會導致Parinaud syndrome（上視麻痹、瞳孔光反射分離、眼球震顫）。松果體區域病變評估的第一步是判斷病變是否起源於松果體本身。松果體細胞腫瘤傾向抬起大腦內靜脈，而小腦幕腦膜瘤則傾向壓低這些靜脈，此關係對手術規劃至關重要。
 
 **重點摘要**
-- **Pineal gland（松果體）**：位於第三腦室後方，無血腦障壁，受交感神經支配分泌褪黑激素
+- **Pineal gland（松果體）**：位於第三腦室後方，無血腦礙壁，受交感神經支配分泌褪黑激素
 - **Parinaud syndrome（帕里諾德症候群）**：上視麻痹、瞳孔光反射分離、眼球震顫
 - **Germ cell tumor（生殖細胞瘤）**：松果體區最常見腫瘤為Germinoma（80%），其次為Teratoma
 - **松果體細胞腫瘤 vs 腦膜瘤**：前者抬起大腦內靜脈，後者壓低大腦內靜脈
@@ -706,13 +708,13 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ![Page 255](/core_radiology/images/neuro/page-255.png)
 
-由於松果體缺乏血腦障壁，轉移至松果體相對常見，但通常在已知有惡性腫瘤病史的患者中發生。2/3松果體轉移患者同時有軟膜疾病。松果體區域軸外腫瘤包括：Glioma（神經膠質瘤）可起源於中腦、視丘或胼胝體壓部；Meningioma（小腦幕腦膜瘤）好發於小腦幕頂端（松果體相鄰），傾向壓低大腦內靜脈（與松果體細胞腫瘤相反）；Quadrigeminal plate lipoma（四疊板脂肪瘤）為罕見病變，可單獨存在或與胼胝體發育不全/發育不良相關。Vein of Galen aneurysm（Galen靜脈瘤）並非真正 aneurysm，而是由於動靜脈瘻管導致Galen靜脈擴張所致。
+由於松果體缺乏血腦礙壁，轉移至松果體相對常見，但通常在已知有惡性腫瘤病史的患者中發生。2/3松果體轉移患者同時有軟膜疾病。松果體區域軸外腫瘤包括：Glioma（神經膠質瘤）可起源於中腦、視丘或胼胝體壓部；Meningioma（小腦幕腦膜瘤）好發於小腦幕頂端（松果體相鄰），傾向壓低大腦內靜脈（與松果體細胞腫瘤相反）；Quadrigeminal plate lipoma（四疊板脂肪瘤）為罕見病變，可單獨存在或與胼胝體發育不全/發育不良相關。Vein of Galen aneurysm（Galen靜脈瘤）並非真正 aneurysm，而是由於動靜脈瘻管導致Galen靜脈擴張所致。
 
 **重點摘要**
-- **Pineal metastasis（松果體轉移）**：因無血腦障壁而相對常見，2/3伴有軟膜疾病
+- **Pineal metastasis（松果體轉移）**：因無血腦礙壁而相對常見，2/3伴有軟膜疾病
 - **Tentorial meningioma（小腦幕腦膜瘤）**：壓低大腦內靜脈（與松果體細胞腫瘤相反）
 - **Quadrigeminal plate lipoma（四疊板脂肪瘤）**：罕見，可與胼胝體發育不全相關
-- **Vein of Galen aneurysm（Galen靜脈瘤）**：動靜脈瘻管使靜脈端擴張，非真正囊狀动脉瘤
+- **Vein of Galen aneurysm（Galen靜脈瘤）**：動靜脈瘻管使靜脈端擴張，非真正囊狀動脈瘤
 
 ---
 
@@ -720,10 +722,10 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 
 ![Page 256](/core_radiology/images/neuro/page-256.png)
 
-創傷性軸外出血（硬膜下、硬膜外、蛛網膜下腔）在CT上通常為高衰減值，但血液必須凝固才能呈高衰減，超急性期未凝固血液（或嚴重貧血患者的凝固血液）可能接近水的衰減值。Subarachnoid hemorrhage（SAH，創傷性蛛網膜下腔出血）常為打擊側對側的淺部腦溝內出血。Epidural hematoma（硬膜外血腫）為动脉性（Middle meningeal artery撕裂），呈透鏡狀（Lentiform），不跨越顱縫（硬膜在顱縫處緊密附著），Swirl sign提示活動性出血。Subdural hematoma（硬膜下血腫）為新月形，可跨越顱縫，通常由腦靜脈撕裂所致，萎縮患者即使輕微創傷也易發生。Subacute phase（亞急性期約1-3週）時可呈等衰減值（isodense），診斷關鍵為mass effect、white matter buckling、皮質厚度增加。
+創傷性軸外出血（硬膜下、硬膜外、蛛網膜下腔）在CT上通常為高衰減值，但血液必須凝固才能呈高衰減，超急性期未凝固血液（或嚴重貧血患者的凝固血液）可能接近水的衰減值。Subarachnoid hemorrhage（SAH，創傷性蛛網膜下腔出血）常為打擊側對側的淺部腦溝內出血。Epidural hematoma（硬膜外血腫）為動脈性（Middle meningeal artery撕裂），呈透鏡狀（Lentiform），不跨越顱縫（硬膜在顱縫處緊密附著），Swirl sign提示活動性出血。Subdural hematoma（硬膜下血腫）為新月形，可跨越顱縫，通常由腦靜脈撕裂所致，萎縮患者即使輕微創傷也易發生。Subacute phase（亞急性期約1-3週）時可呈等衰減值（isodense），診斷關鍵為mass effect、white matter buckling、皮質厚度增加。
 
 **重點摘要**
-- **Epidural hematoma（硬膜外血腫）**：动脉性，透鏡狀，不跨顱縫；Swirl sign提示活動性出血
+- **Epidural hematoma（硬膜外血腫）**：動脈性，透鏡狀，不跨顱縫；Swirl sign提示活動性出血
 - **Subdural hematoma（硬膜下血腫）**：新月形，可跨顱縫；腦室分流患者特別危險
 - **Isodense subdural hematoma（等衰減值硬膜下血腫）**：亞急性期（1-3週），需靠mass effect診斷
 - **Intraventricular hemorrhage（腦室內出血）**：可致阻塞性水腦（導水管阻塞後黏連所致）
@@ -772,17 +774,17 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ---
 
-### ICA and Circle of Willis / 頸內动脉與Willis環 (H3)
+### ICA and Circle of Willis / 頸內動脈與Willis環 (H3)
 
 ![Page 260](/core_radiology/images/neuro/page-260.png)
 
-頸內动脉（ICA）分為多個段落：Cervical segment（C1，頸段）不分支；Petrous segment（C2，岩段）固定於骨頭，頸部ICA夾層不太可能延伸到顱內；Lacerum segment（C3，破裂孔段）無分支；Cavernous segment（C4，海綿竇段）發出meningohypophyseal trunk供應垂體、小腦幕及斜坡硬膜，以及inferolateral trunk供應第III、IV、VI腦神經及三叉神經節；Clinoid segment（C5，床突段）被兩個硬膜環包繞，可防止近端 aneurysm破裂導致蛛網膜下腔出血；Supraclinoid segment（C6-C7，床突上段）發出眼动脉、後交通动脉（P-comm）、前脈絡膜动脉（供應視交叉、海馬、內囊後肢）。
+頸內動脈（ICA）分為多個段落：Cervical segment（C1，頸段）不分支；Petrous segment（C2，岩段）固定於骨頭，頸部ICA夾層不太可能延伸到顱內；Lacerum segment（C3，破裂孔段）無分支；Cavernous segment（C4，海綿竇段）發出meningohypophyseal trunk供應垂體、小腦幕及斜坡硬膜，以及inferolateral trunk供應第III、IV、VI腦神經及三叉神經節；Clinoid segment（C5，床突段）被兩個硬膜環包繞，可防止近端 aneurysm破裂導致蛛網膜下腔出血；Supraclinoid segment（C6-C7，床突上段）發出眼動脈、後交通動脈（P-comm）、前脈絡膜動脈（供應視交叉、海馬、內囊後肢）。
 
 **重點摘要**
-- **ICA segments（頸內动脉分段）**：C1頸段（無分支）、C2岩段（固定於骨）、C3破裂孔段、C4海綿竇段、C5床突段、C6-C7床突上段
-- **眼动脉（Ophthalmic artery）**：90%起源於床突上段遠端，可作為定位標誌
-- **Fetal PCA（胎兒型大腦後动脉）**：後交通动脉供應同側PCA，ICA增大
-- **Anterior choroidal artery（前脈絡膜动脉）**：供應視交叉、海馬、內囊後肢
+- **ICA segments（頸內動脈分段）**：C1頸段（無分支）、C2岩段（固定於骨）、C3破裂孔段、C4海綿竇段、C5床突段、C6-C7床突上段
+- **眼動脈（Ophthalmic artery）**：90%起源於床突上段遠端，可作為定位標誌
+- **Fetal PCA（胎兒型大腦後動脈）**：後交通動脈供應同側PCA，ICA增大
+- **Anterior choroidal artery（前脈絡膜動脈）**：供應視交叉、海馬、內囊後肢
 
 ---
 
@@ -790,13 +792,13 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ![Page 261](/core_radiology/images/neuro/page-261.png)
 
-大腦底部的Willis環由以下結構組成：前交通动脉（A-comm）連接兩側A1段；A1段發出Heubner回返动脉；內側豆狀紋狀動脉（Mural lenticulostriates）起源於ACA，外側豆狀紋狀動脉起源於MCA；後交通动脉（P-comm）為前後循環的吻合；P1段為PCA近端，由基底动脉頂端發出；P2段為PCA遠端；基地动脉還發出SCA（小腦上动脉）、AICA（小腦前下动脉）及PICA（小腦後下动脉）。Willis環為顱內血管病變（如动脉瘤、血管炎）的好發部位，也是評估側支循環的重要解剖結構。
+大腦底部的Willis環由以下結構組成：前交通動脈（A-comm）連接兩側A1段；A1段發出Heubner回返動脈；內側豆狀紋狀動脈（Mural lenticulostriates）起源於ACA，外側豆狀紋狀動脈起源於MCA；後交通動脈（P-comm）為前後循環的吻合；P1段為PCA近端，由基底動脈頂端發出；P2段為PCA遠端；基地動脈還發出SCA（小腦上動脈）、AICA（小腦前下動脈）及PICA（小腦後下動脈）。Willis環為顱內血管病變（如動脈瘤、血管炎）的好發部位，也是評估側支循環的重要解剖結構。
 
 **重點摘要**
-- **Heubner回返动脉（Recurrent artery of Heubner）**：最大豆狀紋狀動脉，起源於A1段，供應尾狀核頭及內囊前肢
-- **P-comm（大腦後交通动脉）**：前後循環唯一直接吻合；fetal PCA時同側PCA由ICA供血
-- **豆狀紋狀動脉（Lenticulostriates）**：內側支起源ACA，外側支起源MCA；高血壓性基底神經節出血的常見來源
-- **SCA/AICA/PICA**：小腦主要供血动脉，分別起源於基底动脉頂端、近端、遠端
+- **Heubner回返動脈（Recurrent artery of Heubner）**：最大豆狀紋狀動脈，起源於A1段，供應尾狀核頭及內囊前肢
+- **P-comm（大腦後交通動脈）**：前後循環唯一直接吻合；fetal PCA時同側PCA由ICA供血
+- **豆狀紋狀動脈（Lenticulostriates）**：內側支起源ACA，外側支起源MCA；高血壓性基底神經節出血的常見來源
+- **SCA/AICA/PICA**：小腦主要供血動脈，分別起源於基底動脈頂端、近端、遠端
 
 ---
 
@@ -804,24 +806,24 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 
 ![Page 262](/core_radiology/images/neuro/page-262.png)
 
-顱底與顱內血管解剖是介入治療與外科手術的重要基礎。頸內动脉海綿竇段（C4）發出的meningohypophyseal trunk供應垂體、斜坡及小腦幕。眼动脉是最重要的近端分支，其起點是定位床突上段 ICA的關鍵標誌。Willis環的完整性決定了前後循環間的側支血流。基底动脉分歧處（basilar apex）發出的SCA（小腦上动脉）供應小腦上部及中腦。PICA（小腦後下动脉）由椎动脉發出，供應延髓後外側及小腦下後部，是Wallenberg症候群（延髓外側症候群）涉及的血管。了解這些解剖對於理解血管病變（如动脉瘤、血栓形成、夾層）的臨床及影像表現至關重要。
+顱底與顱內血管解剖是介入治療與外科手術的重要基礎。頸內動脈海綿竇段（C4）發出的meningohypophyseal trunk供應垂體、斜坡及小腦幕。眼動脈是最重要的近端分支，其起點是定位床突上段 ICA的關鍵標誌。Willis環的完整性決定了前後循環間的側支血流。基底動脈分歧處（basilar apex）發出的SCA（小腦上動脈）供應小腦上部及中腦。PICA（小腦後下動脈）由椎動脈發出，供應延髓後外側及小腦下後部，是Wallenberg症候群（延髓外側症候群）涉及的血管。了解這些解剖對於理解血管病變（如動脈瘤、血栓形成、夾層）的臨床及影像表現至關重要。
 
 **重點摘要**
 - **Meningohypophyseal trunk（腦膜垂體幹）**：起源C4，供應垂體、小腦幕、斜坡
 - **Willis環側支循環**：A-comm連接雙側ACA；P-comm連接前後循環
-- **Basilar apex（基底动脉頂端）**：SCA起點，供應小腦上部及中腦
-- **PICA（椎动脉）**：Wallenberg症候群相關血管，供應延髓外側
+- **Basilar apex（基底動脈頂端）**：SCA起點，供應小腦上部及中腦
+- **PICA（椎動脈）**：Wallenberg症候群相關血管，供應延髓外側
 
 ---
 
-### Vascular Lesions and Pathology / 血管病灶與病理 (H3)
+### Vascular Lesions and Pathology / 血管病竈與病理 (H3)
 
 ![Page 263](/core_radiology/images/neuro/page-263.png)
 
-血管病變的及時診斷對臨床管理至關重要。顱內动脉瘤（Intracranial aneurysm）最常見於Willis環，特別是前交通动脉與後交通动脉起始部。梭形动脉瘤（fusiform aneurysm）常見於基底动脉，與粥狀硬化相關。夾層动脉瘤（dissecting aneurysm）可導致蛛網膜下腔出血或血管狹窄。血管痙攣（Vasospasm）為SAH後常見併發癥，通常在出血後3-14天達高峰，可導致缺血性神經功能缺損。CVT（大腦靜脈竇血栓形成）可能類似动脉性卒中，影像學可見靜脈竇充盈缺損、相關腦區水腫或出血。Moya-Moya disease（煙霧病）特徵為基底節區域側支循環形成，willis環主要分支進行性狹窄或閉塞。
+血管病變的及時診斷對臨床管理至關重要。顱內動脈瘤（Intracranial aneurysm）最常見於Willis環，特別是前交通動脈與後交通動脈起始部。梭形動脈瘤（fusiform aneurysm）常見於基底動脈，與粥狀硬化相關。夾層動脈瘤（dissecting aneurysm）可導致蛛網膜下腔出血或血管狹窄。血管痙攣（Vasospasm）為SAH後常見併發癥，通常在出血後3-14天達高峰，可導致缺血性神經功能缺損。CVT（大腦靜脈竇血栓形成）可能類似動脈性卒中，影像學可見靜脈竇充盈缺損、相關腦區水腫或出血。Moya-Moya disease（煙霧病）特徵為基底節區域側支循環形成，willis環主要分支進行性狹窄或閉塞。
 
 **重點摘要**
-- **Intracranial aneurysm（顱內动脉瘤）**：Willis環常見（前交通动脉、後交通动脉分叉處）
+- **Intracranial aneurysm（顱內動脈瘤）**：Willis環常見（前交通動脈、後交通動脈分叉處）
 - **Vasospasm（血管痙攣）**：SAH後3-14天高峰，可致缺血性神經功能缺損
 - **CVT（大腦靜脈竇血栓形成）**：靜脈竇充盈缺損，相關腦區水腫/出血
 - **Moya-Moya disease（煙霧病）**：基底節側支循環形成，willis環主要分支進行性狹窄
@@ -855,52 +857,52 @@ Zygomaticomaxillary complex fracture（ZMC骨折，俗稱三腳骨折）因破�
 - **正常變異**：空蝶鞍、腦室不對稱、Virchow-Robin spaces（VR間隙）
 
 
-### Willis環細小穿通动脉 (Critical Small Arteries of the Circle of Willis)
+### Willis環細小穿通動脈 (Critical Small Arteries of the Circle of Willis)
 
 ![Page 266](/core_radiology/images/neuro/page-266.png)
 
-Willis環周圍的重要穿通动脉供應腦部深層結構。A1段（前大腦动脉）發出Heubner返动脉（供应尾狀核頭部及內囊前肢），並發出內側豆狀核紋狀體穿通支供應基底神經節外側部。大脑中动脉（MCA）在 Willis環外側發出外側豆狀核紋狀體穿通支，供應外側殼核、 external capsule（外囊）及內囊後肢。 後交通动脉（P-comm）發出前視丘穿通支，其動脈瘤可能因局部 mass effect（質量效應）導致第三腦神經麻痹。 Percheron动脉是一種變異型，單一優勢視丘穿通支同時供應雙側 ventromedial thalamus（腹內側視丘）及中腦，發自P1段；其梗塞呈現雙側腹內側視丘，有或無中腦受累，呈V字形。 腦靜脈血栓亦可導致雙側視丘梗塞。
+Willis環周圍的重要穿通動脈供應腦部深層結構。A1段（前大腦動脈）發出Heubner返動脈（供應尾狀核頭部及內囊前肢），並發出內側豆狀核紋狀體穿通支供應基底神經節外側部。大腦中動脈（MCA）在 Willis環外側發出外側豆狀核紋狀體穿通支，供應外側殼核、 external capsule（外囊）及內囊後肢。 後交通動脈（P-comm）發出前視丘穿通支，其動脈瘤可能因局部 mass effect（質量效應）導致第三腦神經麻痹。 Percheron動脈是一種變異型，單一優勢視丘穿通支同時供應雙側 ventromedial thalamus（腹內側視丘）及中腦，發自P1段；其梗塞呈現雙側腹內側視丘，有或無中腦受累，呈V字形。 腦靜脈血栓亦可導致雙側視丘梗塞。
 
 **重點摘要**
-- **Heubner返动脉（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢，發自A1段
+- **Heubner返動脈（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢，發自A1段
 - **內側/外側豆狀核紋狀體穿通支（Lenticulostriate perforators）**：供應基底神經節及內囊
-- **Percheron动脉（Artery of Percheron）**：變異型單一穿通支供應雙側腹內側視丘，梗塞呈V字形
+- **Percheron動脈（Artery of Percheron）**：變異型單一穿通支供應雙側腹內側視丘，梗塞呈V字形
 - **Willis環變異型（Circle of Willis variants）**：A1發育不良（10%）、P-comm發育不良（34%）、fetal PCA（20%），正常解剖僅約25%
 
 ---
 
-### 大腦中动脉分節解剖 (Middle Cerebral Artery Segmental Anatomy)
+### 大腦中動脈分節解剖 (Middle Cerebral Artery Segmental Anatomy)
 
 ![Page 267](/core_radiology/images/neuro/page-267.png)
 
-大腦中动脉（MCA）從頸內动脉（ICA）末端延伸至皮質表面，分為四個主要節段。M1段（horizontal portion）從ICA末端延伸至sylvian fissure（外側裂）起點；M2段從sylvian fissure底延伸至頂部；M3段從sylvian fissure頂部延伸至皮質表面；M4段為皮質小分支。臨床實務中，bifurcation（分叉）前的主幹稱M1，之後稱M2。 MCA供應大脑半球外側大部，包括額葉、頂葉、顳葉外側及基底神經節。
+大腦中動脈（MCA）從頸內動脈（ICA）末端延伸至皮質表面，分為四個主要節段。M1段（horizontal portion）從ICA末端延伸至sylvian fissure（外側裂）起點；M2段從sylvian fissure底延伸至頂部；M3段從sylvian fissure頂部延伸至皮質表面；M4段為皮質小分支。臨床實務中，bifurcation（分叉）前的主幹稱M1，之後稱M2。 MCA供應大腦半球外側大部，包括額葉、頂葉、顳葉外側及基底神經節。
 
 **重點摘要**
-- **M1段（M1 segment）**：ICA末端至sylvian fissure，發出 lenticulostriate arteries（豆狀核紋狀體动脉）
+- **M1段（M1 segment）**：ICA末端至sylvian fissure，發出 lenticulostriate arteries（豆狀核紋狀體動脈）
 - **M2段（M2 segment）**：sylvian fissure內，島閾上方，向上走行的分支
 - **M3段（M3 segment）**：sylvian fissure至皮質表面的島蓋部
-- **M4段（M4 segment）**：皮質小分支，供應大脑半球外側面
+- **M4段（M4 segment）**：皮質小分支，供應大腦半球外側面
 
 ---
 
-### 前大腦动脉及持久性頸基底吻合 (Anterior Cerebral Artery and Persistent Carotid-Basilar Connections)
+### 前大腦動脈及持久性頸基底吻合 (Anterior Cerebral Artery and Persistent Carotid-Basilar Connections)
 
 ![Page 268](/core_radiology/images/neuro/page-268.png)
 
-前大腦动脉（ACA）分為A1至A4段。A1段為交通前段，A2段為交通後段（上升至大脑半球間裂），A3段繞過胼胝體膝部，A4段為胼周动脉。 Heubner返动脉最常發自A1段，供应尾狀核頭部及內囊前肢。 持久性頸动脉-基底动脉吻合是胚胎發育期殘留的血管結構，包括最常見的持久性三叉动脉（persistent trigeminal artery），其特徵為angiography（血管造影）側位像上的三叉戟樣（trident）或τ形顯影；Saltzman I型連接基底动脉，II型連接小腦上动脉。其他罕見吻合包括otical、hypoglossal及proatlantal intersegmental arteries。
+前大腦動脈（ACA）分為A1至A4段。A1段為交通前段，A2段為交通後段（上升至大腦半球間裂），A3段繞過胼胝體膝部，A4段為胼周動脈。 Heubner返動脈最常發自A1段，供應尾狀核頭部及內囊前肢。 持久性頸動脈-基底動脈吻合是胚胎發育期殘留的血管結構，包括最常見的持久性三叉動脈（persistent trigeminal artery），其特徵為angiography（血管造影）側位像上的三叉戟樣（trident）或τ形顯影；Saltzman I型連接基底動脈，II型連接小腦上動脈。其他罕見吻合包括otical、hypoglossal及proatlantal intersegmental arteries。
 
 **重點摘要**
-- **前大腦动脉分節（ACA segments）**：A1（交通前）、A2（交通後）、A3（膝部）、A4（胼周动脉）
-- **持久性三叉动脉（Persistent trigeminal artery）**：最常見頸基底吻合，與三叉神經相鄰，三叉戟/τ形造影特徵
-- **Heubner返动脉（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢
+- **前大腦動脈分節（ACA segments）**：A1（交通前）、A2（交通後）、A3（膝部）、A4（胼周動脈）
+- **持久性三叉動脈（Persistent trigeminal artery）**：最常見頸基底吻合，與三叉神經相鄰，三叉戟/τ形造影特徵
+- **Heubner返動脈（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢
 
 ---
 
-### 动脉供應領域 (Arterial Territories)
+### 動脈供應領域 (Arterial Territories)
 
 ![Page 269](/core_radiology/images/neuro/page-269.png)
 
-各主要动脉供應明確的腦區域。ACA供應內側額葉及胼胝體；MCA（外側紋狀體支）供應外側基底神經節、內囊前後肢及大腦半球外側面；前脈絡膜动脉供應視交叉、海馬及內囊後肢；PCA視丘穿通支供應視丘；小腦上动脉（SCA）供應小腦上表面；基底动脉及椎动脉供應腦幹及小腦。理解這些供應領域有助於根據梗塞部位定位責任血管。
+各主要動脈供應明確的腦區域。ACA供應內側額葉及胼胝體；MCA（外側紋狀體支）供應外側基底神經節、內囊前後肢及大腦半球外側面；前脈絡膜動脈供應視交叉、海馬及內囊後肢；PCA視丘穿通支供應視丘；小腦上動脈（SCA）供應小腦上表面；基底動脈及椎動脈供應腦幹及小腦。理解這些供應領域有助於根據梗塞部位定位責任血管。
 
 **重點摘要**
 - **ACA領域**：內側額葉、胼胝體、旁中央小葉
@@ -914,7 +916,7 @@ Willis環周圍的重要穿通动脉供應腦部深層結構。A1段（前大腦
 
 ![Page 270](/core_radiology/images/neuro/page-270.png)
 
-中風影像的首要目標是判斷候選人是否適合治療。靜脈或動脈內溶栓（tPA）在適切選擇的病人可有顯著療效，但選擇不當會導致致命性出血。初始影像通常為非增強CT，主要目的為排除出血。進階影像（CT/MR血管成像、diffusion-weighted imaging及perfusion imaging）可提供額外資訊但不應延誤治療。根據AHA指引，發病3小時內唯一絕對排除靜脈tPA的CT發現是出血存在。對於不符合靜脈溶栓條件的MCA血栓，發病6小時內可考慮動脈內溶栓。Perfusion imaging（灌注成像）的理論目標是識別缺血半暗帶（penumbra），其灌註量低於20 mL/100 g tissue/min，導致細胞功能障礙但可能可逆。
+中風影像的首要目標是判斷候選人是否適合治療。靜脈或動脈內溶栓（tPA）在適切選擇的病人可有顯著療效，但選擇不當會導致致命性出血。初始影像通常為非增強CT，主要目的為排除出血。進階影像（CT/MR血管成像、diffusion-weighted imaging及perfusion imaging）可提供額外資訊但不應延誤治療。根據AHA指引，發病3小時內唯一絕對排除靜脈tPA的CT發現是出血存在。對於不符合靜脈溶栓條件的MCA血栓，發病6小時內可考慮動脈內溶栓。Perfusion imaging（灌注成像）的理論目標是識別缺血半暗帶（penumbra），其灌註量低於20 mL/100 g tissue/min，導致細胞功能礙礙但可能可逆。
 
 **重點摘要**
 - **tPA時間窗（tPA window）**：靜脈tPA 3小時（部分延伸至4.5小時），動脈內6-8小時
@@ -928,11 +930,11 @@ Willis環周圍的重要穿通动脉供應腦部深層結構。A1段（前大腦
 
 ![Page 271](/core_radiology/images/neuro/page-271.png)
 
-非增強CT是評估超急性期腦梗塞的首選檢查，主要目的為排除出血。高峰CT在超急性期檢測早期梗塞的敏感性相對較低。腦島帶徵（insular ribbon sign）描述腦島皮層灰白質界線消失，见于急性MCA梗塞。豆狀核模糊（obscuration of lentiform nucleus）為內囊後肢邊界灰白質分化消失所致。緻密动脉徵（hyperdense artery sign）直接顯示急性血管內血栓，最常見於MCA，特異性高但敏感性約僅三分之一。
+非增強CT是評估超急性期腦梗塞的首選檢查，主要目的為排除出血。高峰CT在超急性期檢測早期梗塞的敏感性相對較低。腦島帶徵（insular ribbon sign）描述腦島皮層灰白質界線消失，見于急性MCA梗塞。豆狀核模糊（obscuration of lentiform nucleus）為內囊後肢邊界灰白質分化消失所致。緻密動脈徵（hyperdense artery sign）直接顯示急性血管內血栓，最常見於MCA，特異性高但敏感性約僅三分之一。
 
 **重點摘要**
 - **腦島帶徵（Insular ribbon sign）**：急性MCA梗塞時腦島灰白質分化消失
-- **緻密动脉徵（Hyperdense artery sign）**：CT可直接見血栓，高特異性、低敏感性（約1/3）
+- **緻密動脈徵（Hyperdense artery sign）**：CT可直接見血栓，高特異性、低敏感性（約1/3）
 - **窄窗技術（Window 30/Level 30）**：顯示灰白質界面最清楚
 - **非增強CT目的**：排除出血，確認無靜脈tPA禁忌症
 
@@ -942,11 +944,11 @@ Willis環周圍的重要穿通动脉供應腦部深層結構。A1段（前大腦
 
 ![Page 272](/core_radiology/images/neuro/page-272.png)
 
-MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI）在症狀發作後數分鐘內即可檢測到急性梗塞，呈高信號；ADC map呈低信號，反映restricted diffusion（受限擴散）。FLAIR在超急性期可能正常或僅輕微高信號，敏感性低於DWI。Gradient recall echo（GRE）序列可顯示bloom artifact（暈染偽影），代表腔內血栓，是MRI上類似CT緻密动脉徵的表現。MR血管成像（MRA）可顯示血管閉塞部位及範圍。
+MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI）在症狀發作後數分鐘內即可檢測到急性梗塞，呈高訊號；ADC map呈低訊號，反映restricted diffusion（受限擴散）。FLAIR在超急性期可能正常或僅輕微高訊號，敏感性低於DWI。Gradient recall echo（GRE）序列可顯示bloom artifact（暈染偽影），代表腔內血栓，是MRI上類似CT緻密動脈徵的表現。MR血管成像（MRA）可顯示血管閉塞部位及範圍。
 
 **重點摘要**
 - **DWI（Diffusion-weighted imaging）**：超急性期最敏感的MRI序列，數分鐘內即可見異常
-- **ADC map低信號**：反映細胞毒性水腫及受限擴散，急性期特徵
+- **ADC map低訊號**：反映細胞毒性水腫及受限擴散，急性期特徵
 - **GRE bloom artifact**：代表腔內血栓，是CT hyperdense artery sign的MRI對應
 - **FLAIR局限性**：超急性期可正常，<6小時敏感性低於DWI
 
@@ -956,12 +958,12 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 273](/core_radiology/images/neuro/page-273.png)
 
-梗塞演變可分為四個時期，各有其獨特MRI特徵。超急性期（0-6小時）最顯著異常為DWI受限擴散及ADC低信號；FLAIR可正常或輕微高信號；perfusion顯示核心區血流減少。急性期（6-72小時）T2/FLAIR信號增加，開始出現mass effect（質量效應）；DWI仍受限。早期亞急性期（1.5-5天）T2信號更明顯並延伸至白質，mass effect達高峰（3-4天），ADC信號可能回升。晚期亞急性期（5天-2週）特徵為腦迴強化（gyriform enhancement），mass effect開始消退。
+梗塞演變可分為四個時期，各有其獨特MRI特徵。超急性期（0-6小時）最顯著異常為DWI受限擴散及ADC低訊號；FLAIR可正常或輕微高訊號；perfusion顯示核心區血流減少。急性期（6-72小時）T2/FLAIR訊號增加，開始出現mass effect（質量效應）；DWI仍受限。早期亞急性期（1.5-5天）T2訊號更明顯並延伸至白質，mass effect達高峰（3-4天），ADC訊號可能回升。晚期亞急性期（5天-2週）特徵為腦迴強化（gyriform enhancement），mass effect開始消退。
 
 **重點摘要**
 - **超急性期（0-6小時）**：DWI受限擴散最早出現，Na/K ATPase pump failure導致細胞水腫
-- **急性期（6-72小時）**：T2高信號、vasogenic edema（血管源性水腫）增加、mass effect出現
-- **早期亞急性期（1.5-5天）**：mass effect高峰（3-4天），T2信號延伸至白質
+- **急性期（6-72小時）**：T2高訊號、vasogenic edema（血管源性水腫）增加、mass effect出現
+- **早期亞急性期（1.5-5天）**：mass effect高峰（3-4天），T2訊號延伸至白質
 - **晚期亞急性期（5天-2週）**：腦迴強化（6天至6週），mass effect消退
 
 ---
@@ -970,12 +972,12 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 274](/core_radiology/images/neuro/page-274.png)
 
-慢性期梗塞特徵為囊性腦軟化（cystic encephalomalacia）及膠質增生，壞死組織被巨噬細胞清除。皮質脊髓束受累可導致Wallerian变性（Wallerian degeneration），表現在同側大脑脚及橋腦腹側萎縮。皮質層狀壞死（cortical laminar necrosis）是另一種慢性變化，由於缺血後脂質沉積性巨噬細胞積聚，在T1及T2皆呈高信號。晚期亞急性期強化的消退符合「2-2-2規則」：2天開始、2週達峰、2個月消失。
+慢性期梗塞特徵為囊性腦軟化（cystic encephalomalacia）及膠質增生，壞死組織被巨噬細胞清除。皮質脊髓束受累可導致Wallerian變性（Wallerian degeneration），表現在同側大腦脚及橋腦腹側萎縮。皮質層狀壞死（cortical laminar necrosis）是另一種慢性變化，由於缺血後脂質沉積性巨噬細胞積聚，在T1及T2皆呈高訊號。晚期亞急性期強化的消退符合「2-2-2規則」：2天開始、2週達峰、2個月消失。
 
 **重點摘要**
-- **慢性梗塞（Chronic infarct）**：囊性腦軟化、膠質增生、DWI信號恢復正常
-- **Wallerian变性（Wallerian degeneration）**：皮質脊髓束受累導致同側大脑脚/橋腦萎縮
-- **皮質層狀壞死（Cortical laminar necrosis）**：T1及T2皆高信號，非腦軟化型慢性改變
+- **慢性梗塞（Chronic infarct）**：囊性腦軟化、膠質增生、DWI訊號恢復正常
+- **Wallerian變性（Wallerian degeneration）**：皮質脊髓束受累導致同側大腦脚/橋腦萎縮
+- **皮質層狀壞死（Cortical laminar necrosis）**：T1及T2皆高訊號，非腦軟化型慢性改變
 - **2-2-2規則**：強化始於2天、達峰於2週、消失於2個月
 
 ---
@@ -984,12 +986,12 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 275](/core_radiology/images/neuro/page-275.png)
 
-動靜脈畸形（AVM）是先天性高流量血管畸形，由直接連接的动脉和靜脈組成，無毛細血管床介於其間。85%位於幕上，常以癲癇或出血表現。Spetzler-Martin分級用於評估手術風險，分級考慮nidus（畸形血管團）大小、静脈引流深度及是否位於eloquent cortex（功能區皮層）。AVM在MRI上呈現多條 serpentine（蛇樣）流空訊號，鄰近腦實質有膠質增生、鈣化及血液產物。Galen大脑大静脉畸形是另一種高流量病變，兒童期可致高輸出量心衰竭。硬膜動靜脈瘻（dAVF）以皮質靜脈引流程度判斷預後，Cognard分級I至IV型出血風險遞增。
+動靜脈畸形（AVM）是先天性高流量血管畸形，由直接連接的動脈和靜脈組成，無毛細血管床介於其間。85%位於幕上，常以癲癇或出血表現。Spetzler-Martin分級用於評估手術風險，分級考慮nidus（畸形血管團）大小、靜脈引流深度及是否位於eloquent cortex（功能區皮層）。AVM在MRI上呈現多條 serpentine（蛇樣）流空訊號，鄰近腦實質有膠質增生、鈣化及血液產物。Galen大腦大靜脈畸形是另一種高流量病變，兒童期可致高輸出量心衰竭。硬膜動靜脈瘻（dAVF）以皮質靜脈引流程度判斷預後，Cognard分級I至IV型出血風險遞增。
 
 **重點摘要**
 - **AVM（Arteriovenous malformation）**：先天性高流量畸形，無毛細血管，MRI流空訊號特徵
-- **Spetzler-Martin分級（Spetzler-Martin scale）**：nidus大小、静脈引流、是否功能區三者評估
-- **Galen大脑大静脉畸形（Vein of Galen malformation）**：兒童常見心衰竭原因
+- **Spetzler-Martin分級（Spetzler-Martin scale）**：nidus大小、靜脈引流、是否功能區三者評估
+- **Galen大腦大靜脈畸形（Vein of Galen malformation）**：兒童常見心衰竭原因
 - **dAVF（Cognard分級）**：皮質靜脈引流程度是預後關鍵，Type IV出血率66%
 
 ---
@@ -998,7 +1000,7 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 276](/core_radiology/images/neuro/page-276.png)
 
-海綿狀畸形（cavernoma）是血管錯構瘤，有明確但較小的出血風險，可引起癲癇發作。常伴隨鄰近的發育性靜脈異常（DVA），DVA本身無出血風險但若同時存在會增加出血風險。多發性海綿狀畸形可能為家族性海綿狀瘤病（familial cavernomatosis）。非增強CT呈現邊界清楚之圓形高密度影（因微鈣化）；MRI呈「爆米花樣」分葉狀混合信號，周邊有低信號hemosiderin（含鐵血黃素）環。 發育性靜脈異常（DVA）為功能性靜脈引流結構，do not touch lesion（不可觸碰病變），若切除會導致靜脈性梗塞。
+海綿狀畸形（cavernoma）是血管錯構瘤，有明確但較小的出血風險，可引起癲癇發作。常伴隨鄰近的發育性靜脈異常（DVA），DVA本身無出血風險但若同時存在會增加出血風險。多發性海綿狀畸形可能為家族性海綿狀瘤病（familial cavernomatosis）。非增強CT呈現邊界清楚之圓形高密度影（因微鈣化）；MRI呈「爆米花樣」分葉狀混合訊號，周邊有低訊號hemosiderin（含鐵血黃素）環。 發育性靜脈異常（DVA）為功能性靜脈引流結構，do not touch lesion（不可觸碰病變），若切除會導致靜脈性梗塞。
 
 **重點摘要**
 - **海綿狀畸形（Cavernous malformation）**：CT高密度、MRI popcorn sign、周邊hemosiderin環
@@ -1012,26 +1014,26 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 277](/core_radiology/images/neuro/page-277.png)
 
-毛細血管擴張（capillary telangiectasia）是無症狀的血管病變，由擴張毛細血管與正常腦組織交錯組成，為another do not touch lesion。MRI增強後呈現腦幹/橋腦內淡淡刷狀強化，無mass effect或周圍水腫，GRE可見susceptibility artifact。與海綿狀畸形相同，血管造影上不顯影。 表層鐵質沉著症（superficial siderosis）因慢性或反覆蛛網膜下腔出血導致軟膜含鐵沉積，臨床上以感音神經性聽力障礙及共濟失調表現，MRI T2可見受累腦溝表層低信號輪廓。
+毛細血管擴張（capillary telangiectasia）是無症狀的血管病變，由擴張毛細血管與正常腦組織交錯組成，為another do not touch lesion。MRI增強後呈現腦幹/橋腦內淡淡刷狀強化，無mass effect或周圍水腫，GRE可見susceptibility artifact。與海綿狀畸形相同，血管造影上不顯影。 表層鐵質沉著症（superficial siderosis）因慢性或反覆蛛網膜下腔出血導致軟膜含鐵沉積，臨床上以感音神經性聽力礙礙及共濟失調表現，MRI T2可見受累腦溝表層低訊號輪廓。
 
 **重點摘要**
 - **毛細血管擴張（Capillary telangiectasia）**：腦幹無症狀小病變，刷狀強化，do not touch
-- **表層鐵質沉著症（Superficial siderosis）**：T2軟膜低信號（含鐵沉積），感音神經性聾、共濟失調
+- **表層鐵質沉著症（Superficial siderosis）**：T2軟膜低訊號（含鐵沉積），感音神經性聾、共濟失調
 - **dAVF（Cognard分級）**：皮質靜脈引流程度是預後關鍵，Type IV出血率66%
 
 ---
 
-### 蛛網膜下腔出血與顱內动脉瘤 (Subarachnoid Hemorrhage and Intracranial Aneurysms)
+### 蛛網膜下腔出血與顱內動脈瘤 (Subarachnoid Hemorrhage and Intracranial Aneurysms)
 
 ![Page 278](/core_radiology/images/neuro/page-278.png)
 
-非創傷性蛛網膜下腔出血（SAH）最常見原因為动脉瘤破裂，臨床以雷擊頭痛（thunderclap headache）及腦膜刺激徵象表現。非增強CT是首選初始檢查，發病6小時內敏感性超過95%，至第5天降至約50%。若CT陰性但臨床高度懷疑，標準做法是進行腰椎穿刺檢查xanthochromia（黃變）。MRI FLAIR上急性SAH呈高信號，GRE可見susceptibility artifact。確診後需導管血管造影或CT血管造影評估动脉瘤。
+非創傷性蛛網膜下腔出血（SAH）最常見原因為動脈瘤破裂，臨床以雷擊頭痛（thunderclap headache）及腦膜刺激徵象表現。非增強CT是首選初始檢查，發病6小時內敏感性超過95%，至第5天降至約50%。若CT陰性但臨床高度懷疑，標準做法是進行腰椎穿刺檢查xanthochromia（黃變）。MRI FLAIR上急性SAH呈高訊號，GRE可見susceptibility artifact。確診後需導管血管造影或CT血管造影評估動脈瘤。
 
 **重點摘要**
-- **SAH病因**：創傷最常見；非創傷性以动脉瘤破裂為首
+- **SAH病因**：創傷最常見；非創傷性以動脈瘤破裂為首
 - **CT敏感性**：6小時內>95%，第5天約50%
 - **Xanthochromia（黃變）**：腰椎穿刺後上清液黃變提示SAH
-- **FLAIR高信號**：急性SAH在MRI FLAIR呈高信號，需與腦膜炎、轉移鉴别
+- **FLAIR高訊號**：急性SAH在MRI FLAIR呈高訊號，需與腦膜炎、轉移鑑別
 
 ---
 
@@ -1039,27 +1041,27 @@ MRI在急性中風評估中具有極高價值。Diffusion-weighted imaging（DWI
 
 ![Page 279](/core_radiology/images/neuro/page-279.png)
 
-SAH分布可提示破裂动脉瘤位置：前縱裂出血提示前交通动脉瘤（33%）；鞍上池出血提示後交通动脉瘤（33%）；外側裂出血提示大腦中动脉分叉處动脉瘤（20%）；中腦周圍池出血提示基底動脉分叉處动脉瘤（5%）或良性非動靜脈瘤性中腦周圍SAH。 Fisher分級根據CT表現分級：1級CT陰性；2級<1mm薄層；3級>1mm；4級瀰漫性SAH或腦室/腦實質內擴展。遲發性血管痙攣是存活者最常見致殘致死原因，發病後約7天達峰，治療包括三H療法（高血壓、高容量、血液稀釋）。
+SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈瘤（33%）；鞍上池出血提示後交通動脈瘤（33%）；外側裂出血提示大腦中動脈分叉處動脈瘤（20%）；中腦周圍池出血提示基底動脈分叉處動脈瘤（5%）或良性非動靜脈瘤性中腦周圍SAH。 Fisher分級根據CT表現分級：1級CT陰性；2級<1mm薄層；3級>1mm；4級瀰漫性SAH或腦室/腦實質內擴展。遲發性血管痙攣是存活者最常見致殘致死原因，發病後約7天達峰，治療包括三H療法（高血壓、高容量、血液稀釋）。
 
 **重點摘要**
-- **前交通动脉瘤**：前縱裂出血，最常見（33%）
-- **後交通动脉瘤**：鞍上池出血（33%）
-- **大腦中动脉瘤**：外側裂出血（20%）
+- **前交通動脈瘤**：前縱裂出血，最常見（33%）
+- **後交通動脈瘤**：鞍上池出血（33%）
+- **大腦中動脈瘤**：外側裂出血（20%）
 - **Fisher分級（Fisher grade）**：CT分級預測血管痙攣風險，3-4級高風險
 
 ---
 
-### 可逆性腦血管收縮症候群與动脉瘤形態學 (RCVS and Aneurysm Morphology)
+### 可逆性腦血管收縮症候群與動脈瘤形態學 (RCVS and Aneurysm Morphology)
 
 ![Page 280](/core_radiology/images/neuro/page-280.png)
 
-可逆性腦血管收縮症候群（RCVS）是非創傷性、非動靜脈瘤性SAH及缺血的病因，臨床以雷擊頭痛為表現，特徵為可逆性腦血管收縮。 动脉瘤形態分類：囊狀（saccular/bberry）动脉瘤最常見，位於Willis環分支點，由血流動力學壓力及血管壁退化引起，可分為小（<1cm）、中（1-2.5cm）、巨大（>2.5cm），越大破裂風險越高；梭形（fusiform）动脉瘤為節段性血管擴張無明確neck，常見於椎基底系統；黴菌性（mycotic）动脉瘤因感染性心內膜炎致膿性栓子，多位於末梢循環；創傷性假性动脉瘤缺乏正常血管壁三層結構。
+可逆性腦血管收縮症候群（RCVS）是非創傷性、非動靜脈瘤性SAH及缺血的病因，臨床以雷擊頭痛為表現，特徵為可逆性腦血管收縮。 動脈瘤形態分類：囊狀（saccular/bberry）動脈瘤最常見，位於Willis環分支點，由血流動力學壓力及血管壁退化引起，可分為小（<1cm）、中（1-2.5cm）、巨大（>2.5cm），越大破裂風險越高；梭形（fusiform）動脈瘤為節段性血管擴張無明確neck，常見於椎基底系統；黴菌性（mycotic）動脈瘤因感染性心內膜炎致膿性栓子，多位於末梢循環；創傷性假性動脈瘤缺乏正常血管壁三層結構。
 
 **重點摘要**
 - **RCVS（Reversible cerebral vasoconstriction syndrome）**：可逆性血管收縮，雷擊頭痛
-- **囊狀动脉瘤（Saccular aneurysm）**：最好發，Willis環分支點，與血流方向一致
-- **梭形动脉瘤（Fusiform aneurysm）**：節段性擴張無neck，常累及椎基底系統
-- **黴菌性动脉瘤（Mycotic aneurysm）**：遠端分布（超越Willis環），易破裂
+- **囊狀動脈瘤（Saccular aneurysm）**：最好發，Willis環分支點，與血流方向一致
+- **梭形動脈瘤（Fusiform aneurysm）**：節段性擴張無neck，常累及椎基底系統
+- **黴菌性動脈瘤（Mycotic aneurysm）**：遠端分布（超越Willis環），易破裂
 
 ---
 
@@ -1081,7 +1083,7 @@ SAH分布可提示破裂动脉瘤位置：前縱裂出血提示前交通动脉�
 
 ![Page 282](/core_radiology/images/neuro/page-282.png)
 
-靜脈血栓是年輕人中風的常見原因之一，風險因子包括妊娠、口服避孕藥、血栓傾向、惡性腫瘤及感染。非增強CT上血栓靜脈竇或皮層靜脈呈高密度（cord sign）；增強CT可見上矢狀竇充盈缺損（empty delta sign）。MRI FLAIR及DWI可見靜脈竇內高信號血栓，DWI上皮層受限擴散提示已有靜脈性梗塞。靜脈血栓導致靜脈高壓，可能引起梗塞及腦實質出血，依血栓位置不同有三種典型表現：上矢狀竇血栓→旁矢狀區高凸面皮層梗塞；深部靜脈系統血栓→雙側視丘梗塞；橫竇血栓→顳葉後部梗塞。
+靜脈血栓是年輕人中風的常見原因之一，風險因子包括妊娠、口服避孕藥、血栓傾向、惡性腫瘤及感染。非增強CT上血栓靜脈竇或皮層靜脈呈高密度（cord sign）；增強CT可見上矢狀竇充盈缺損（empty delta sign）。MRI FLAIR及DWI可見靜脈竇內高訊號血栓，DWI上皮層受限擴散提示已有靜脈性梗塞。靜脈血栓導致靜脈高壓，可能引起梗塞及腦實質出血，依血栓位置不同有三種典型表現：上矢狀竇血栓→旁矢狀區高凸面皮層梗塞；深部靜脈系統血栓→雙側視丘梗塞；橫竇血栓→顳葉後部梗塞。
 
 **重點摘要**
 - **Cord sign**：非增強CT上靜脈竇/皮層靜脈高密度，代表血栓
@@ -1095,12 +1097,12 @@ SAH分布可提示破裂动脉瘤位置：前縱裂出血提示前交通动脉�
 
 ![Page 283](/core_radiology/images/neuro/page-283.png)
 
-腦靜脈疾病的影像評估需要多種MRI序列及CT靜脈造影的綜合分析。靜脈血栓的MRI特徵包括T1高信號血栓（尤其是矢狀竇）、FLAIR高信號及DWI上的皮層擴散受限。深靜脈血栓的特徵性影像為DWI雙側視丘受限擴散。治療策略包括抗凝治療（首選低分子量肝素）及血管內治療（溶栓或取栓），對於抗凝失敗或惡化病例可考慮。及時診斷和治療對改善預後至關重要，因靜脈性梗塞比動脈性更具可逆性。
+腦靜脈疾病的影像評估需要多種MRI序列及CT靜脈造影的綜合分析。靜脈血栓的MRI特徵包括T1高訊號血栓（尤其是矢狀竇）、FLAIR高訊號及DWI上的皮層擴散受限。深靜脈血栓的特徵性影像為DWI雙側視丘受限擴散。治療策略包括抗凝治療（首選低分子量肝素）及血管內治療（溶栓或取栓），對於抗凝失敗或惡化病例可考慮。及時診斷和治療對改善預後至關重要，因靜脈性梗塞比動脈性更具可逆性。
 
 **重點摘要**
 - **靜脈血栓治療**：低分子量肝素抗凝為首選，血管內溶栓/取栓為補救治療
-- **深靜脈血栓特徵**：DWI雙側視丘受限擴散（非动脉粥樣硬化分布）
-- **靜脈vs.动脉梗塞**：靜脈性梗塞更具可逆性，需積極抗凝治療
+- **深靜脈血栓特徵**：DWI雙側視丘受限擴散（非動脈粥樣硬化分布）
+- **靜脈vs.動脈梗塞**：靜脈性梗塞更具可逆性，需積極抗凝治療
 - **預後關鍵**：早期診斷、盡早抗凝，避免進展為靜脈性梗塞及腦實質出血
 
 
@@ -1108,12 +1110,12 @@ SAH分布可提示破裂动脉瘤位置：前縱裂出血提示前交通动脉�
 
 ![Page 284](/core_radiology/images/neuro/page-284.png)
 
-顱內出血的影像學评估是急診神经影像的核心任務。非增強電腦斷層（CT）對急性出血高度敏感，表现为相对于腦實質和腦脊髓液的高密度（hyperattenuating）信號。MRI則能根據血紅蛋白演變的不同階段提供更精確的出血「年齡」判定——從超急性期的細胞內氧合血紅蛋白，到急性期的去氧血紅蛋白，再到亞急性期的正鐵血紅蛋白，最終形成慢性期的含鐵血黃素沉積。
+顱內出血的影像學评估是急診神經影像的核心任務。非增強電腦斷層（CT）對急性出血高度敏感，表现为相对于腦實質和腦脊髓液的高密度（hyperattenuating）訊號。MRI則能根據血紅蛋白演變的不同階段提供更精確的出血「年齡」判定——從超急性期的細胞內氧合血紅蛋白，到急性期的去氧血紅蛋白，再到亞急性期的正鐵血紅蛋白，最終形成慢性期的含鐵血黃素沉積。
 
 **重點摘要**
 - **CT敏感度**：非增強CT对急性顱內出血高度敏感，表现为高密度（English: Noncontrast CT is highly sensitive for acute intracranial hemorrhage）
-- **血紅蛋白演變**：MRI可根據T1/T2信號變化判定出血階段（English: MRI signal characteristics allow "dating" of hemorrhage based on hemoglobin evolution stages）
-- **治療原則**：出血治療以控制血壓、糾正凝血功能障礙為主，大血腫可考慮手術清除（English: Mainstay of treatment is supportive care; large hemorrhages may require surgical evacuation）
+- **血紅蛋白演變**：MRI可根據T1/T2訊號變化判定出血階段（English: MRI signal characteristics allow "dating" of hemorrhage based on hemoglobin evolution stages）
+- **治療原則**：出血治療以控制血壓、糾正凝血功能礙礙為主，大血腫可考慮手術清除（English: Mainstay of treatment is supportive care; large hemorrhages may require surgical evacuation）
 
 ---
 
@@ -1121,12 +1123,12 @@ SAH分布可提示破裂动脉瘤位置：前縱裂出血提示前交通动脉�
 
 ![Page 285](/core_radiology/images/neuro/page-285.png)
 
-MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分為五個階段，每個階段都有獨特的訊號特徵。超急性期（0-6小時）以細胞內氧合血紅蛋白為主，T1等信號、T2略高信號，周邊因脫氧而形成特徵性暗邊（dark rim）。急性期（6-72小時）細胞內去氧血紅蛋白使T2均勻低信號。早期亞急性期（3天-1週）細胞內正鐵血紅蛋白造成T1高信號，但T2仍低。晚期亞急性期（1週後）細胞裂解，正鐵血紅蛋白游離至細胞外，T1、T2均高信號。慢性期（含鐵血黃素）則造成T2和梯度回波序列的長期低信號。
+MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分為五個階段，每個階段都有獨特的訊號特徵。超急性期（0-6小時）以細胞內氧合血紅蛋白為主，T1等訊號、T2略高訊號，周邊因脫氧而形成特徵性暗邊（dark rim）。急性期（6-72小時）細胞內去氧血紅蛋白使T2均勻低訊號。早期亞急性期（3天-1週）細胞內正鐵血紅蛋白造成T1高訊號，但T2仍低。晚期亞急性期（1週後）細胞裂解，正鐵血紅蛋白游離至細胞外，T1、T2均高訊號。慢性期（含鐵血黃素）則造成T2和梯度回波序列的長期低訊號。
 
 **重點摘要**
 - **超急性血腫（<6小時）**：T2周邊暗邊是關鍵特徵（English: Peripheral T2 hypointense rim is the key finding in hyperacute hematoma）
-- **急性期（6-72小時）**：T2均勻低信號，T1等至輕度低信號（English: Acute hematoma becomes hypointense on T2-weighted images throughout）
-- **亞急性期**：正鐵血紅蛋白造成T1高信號，為出血診斷的重要線索（English: Methemoglobin causes T1 hyperintensity, an important clue to diagnosis）
+- **急性期（6-72小時）**：T2均勻低訊號，T1等至輕度低訊號（English: Acute hematoma becomes hypointense on T2-weighted images throughout）
+- **亞急性期**：正鐵血紅蛋白造成T1高訊號，為出血診斷的重要線索（English: Methemoglobin causes T1 hyperintensity, an important clue to diagnosis）
 
 ---
 
@@ -1147,11 +1149,11 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ![Page 287](/core_radiology/images/neuro/page-287.png)
 
-腦出血的病因診斷需結合臨床與影像。高血壓性出血位於典型部位（基底節、丘腦、小腦）時，應考虑慢性高血壓導致的小血管病變。動靜脈畸形（AVM）破裂通常影響年輕患者，影像可見畸形血管團（nidus）與周圍腦實質的信號異常。靜脈血栓形成可導致靜脈性腦梗塞和出血性轉化。腫瘤出血則可能表現為水腫程度超過預期或多發性強化病灶。
+腦出血的病因診斷需結合臨床與影像。高血壓性出血位於典型部位（基底節、丘腦、小腦）時，應考虑慢性高血壓導致的小血管病變。動靜脈畸形（AVM）破裂通常影響年輕患者，影像可見畸形血管團（nidus）與周圍腦實質的訊號異常。靜脈血栓形成可導致靜脈性腦梗塞和出血性轉化。腫瘤出血則可能表現為水腫程度超過預期或多發性強化病竈。
 
 **重點摘要**
-- **海綿狀血管瘤**：MRI呈「爆米花」樣混合信號，伴含鐵血黃素邊緣（English: Cavernous malformation shows "popcorn-like" mixed signal with hemosiderin rim）
-- **AVM出血**：年輕患者腦實質出血应考虑AVM破裂（English: AVM rupture tends to affect younger patients with parenchymal hematoma）
+- **海綿狀血管瘤**：MRI呈「爆米花」樣混合訊號，伴含鐵血黃素邊緣（English: Cavernous malformation shows "popcorn-like" mixed signal with hemosiderin rim）
+- **AVM出血**：年輕患者腦實質出血應考虑AVM破裂（English: AVM rupture tends to affect younger patients with parenchymal hematoma）
 - **腫瘤出血**：膠質母細胞瘤是最常見出血的原發性腦腫瘤（English: Glioblastoma is the most common primary brain tumor to hemorrhage）
 
 ---
@@ -1160,11 +1162,11 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ![Page 288](/core_radiology/images/neuro/page-288.png)
 
-本頁以流程圖方式總結腦出血的病因鑑別診斷，並介紹Moyamoya病。Moyamoya是一種非粥狀硬化性血管病變，特徵是顱內內頸動脈及其近端分支進行性狹窄，導致基底節側支血管（紋狀體側支）增生。血管造影可見「煙霧」狀表現。FLAIR MRI上的「常春藤徵」（ivy sign）代表因慢速側支血流而在腦溝內顯現的管狀高信號結構。
+本頁以流程圖方式總結腦出血的病因鑑別診斷，並介紹Moyamoya病。Moyamoya是一種非粥狀硬化性血管病變，特徵是顱內內頸動脈及其近端分支進行性狹窄，導致基底節側支血管（紋狀體側支）增生。血管造影可見「煙霧」狀表現。FLAIR MRI上的「常春藤徵」（ivy sign）代表因慢速側支血流而在腦溝內顯現的管狀高訊號結構。
 
 **重點摘要**
 - **Moyamoya特徵**：內頸動脈近端進行性狹窄，基底節側支血管增生（English: Progressive stenosis of intracranial ICA with proliferation of lenticulostriate collaterals）
-- **常春藤徵（Ivy sign）**：FLAIR上腦溝內慢速側支血流的高信號（English: Ivy sign on FLAIR represents slow collateral flow in sulci）
+- **常春藤徵（Ivy sign）**：FLAIR上腦溝內慢速側支血流的高訊號（English: Ivy sign on FLAIR represents slow collateral flow in sulci）
 - **血管炎**：MRI可見基底節和皮質下白質多發性T2延長（English: Vasculitis shows multiple T2 prolongations in basal ganglia and subcortical white matter）
 
 ---
@@ -1173,7 +1175,7 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ![Page 289](/core_radiology/images/neuro/page-289.png)
 
-本頁以視覺化流程圖幫助臨床醫師系統性鑑別腦出血病因。首先判断是否有高血壓病史，接著依出血部位（基底節/丘腦/小腦 vs 葉狀/皮質）、微出血分佈、白質病變等線索，逐步區分高血壓性出血、類澱粉血管病、動靜脈畸形、靜脈血栓形成、腫瘤出血、缺血性腦梗塞出血轉化、中樞神經系統血管炎及Moyamoya病等診斷。
+本頁以視覺化流程圖幫助臨床醫師系統性鑑別腦出血病因。首先判斷是否有高血壓病史，接著依出血部位（基底節/丘腦/小腦 vs 葉狀/皮質）、微出血分佈、白質病變等線索，逐步區分高血壓性出血、類澱粉血管病、動靜脈畸形、靜脈血栓形成、腫瘤出血、缺血性腦梗塞出血轉化、中樞神經系統血管炎及Moyamoya病等診斷。
 
 **重點摘要**
 - **高血壓性出血**：老年高血壓患者，出血位於基底節/丘腦/小腦（English: Elderly hypertensive patient with hemorrhage in basal ganglia/thalamus/cerebellum）
@@ -1186,10 +1188,10 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ![Page 290](/core_radiology/images/neuro/page-290.png)
 
-白質疾病的典型MRI表現為受影響白質區域的T2延長信號。脫髓鞘疾病的關鍵影像特徵是：相對於病灶大小，佔位效應極輕微。多發性硬化症（MS）是最常見的慢性脫髓鞘疾病，好發於中年高加索女性，主要臨床表現包括復發-緩解型和進展型。典型MRI特徵包括垂直於腦室的Dawson手指狀病灶（Dawson fingers）和增強活性脫髓鞘斑塊。
+白質疾病的典型MRI表現為受影響白質區域的T2延長訊號。脫髓鞘疾病的關鍵影像特徵是：相對於病竈大小，佔位效應極輕微。多發性硬化症（MS）是最常見的慢性脫髓鞘疾病，好發於中年高加索女性，主要臨床表現包括復發-緩解型和進展型。典型MRI特徵包括垂直於腦室的Dawson手指狀病竈（Dawson fingers）和增強活性脫髓鞘斑塊。
 
 **重點摘要**
-- **脫髓鞘疾病關鍵特徵**：相對於病灶大小，佔位效應極輕微（English: Key imaging finding of demyelinating disease is minimal mass effect relative to lesion size）
+- **脫髓鞘疾病關鍵特徵**：相對於病竈大小，佔位效應極輕微（English: Key imaging finding of demyelinating disease is minimal mass effect relative to lesion size）
 - **多發性硬化症（MS）**：白質T2延長，好發於中年高加索女性（English: MS is more common in middle-aged Caucasian females）
 - **復發-緩解型MS**：每次急性發作後可有部分或完全緩解（English: Relapsing-remitting MS shows partial or complete resolution of each acute attack）
 
@@ -1199,11 +1201,11 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ![Page 291](/core_radiology/images/neuro/page-282.png)
 
-多發性硬化症的典型MRI表現包括Dawson手指（Dawson fingers）——指向腦室的橢圓形T2延長病變，以及慢性和急性增強斑塊。T1低信號病變稱為「黑洞」（black holes），代表更嚴重的脫髓鞘和軸突丟失。MS也可影響脊髓，典型為短節段單側性病變。影像確診需滿足McDonald標準：病灶在空間上分佈於CNS不同區域，時間上新病灶陸續出現。
+多發性硬化症的典型MRI表現包括Dawson手指（Dawson fingers）——指向腦室的橢圓形T2延長病變，以及慢性和急性增強斑塊。T1低訊號病變稱為「黑洞」（black holes），代表更嚴重的脫髓鞘和軸突丟失。MS也可影響脊髓，典型為短節段單側性病變。影像確診需滿足McDonald標準：病竈在空間上分佈於CNS不同區域，時間上新病竈陸續出現。
 
 **重點摘要**
 - **Dawson手指**：垂直指向腦室的橢圓形T2延長病變（English: Dawson fingers are periventricular ovoid foci of T2 prolongation pointing toward ventricles）
-- **黑洞（Black holes）**：T1低信號病變，與嚴重脫髓鞘和軸突丟失相關（English: T1 hypointense "black holes" are associated with more severe demyelination and axonal loss）
+- **黑洞（Black holes）**：T1低訊號病變，與嚴重脫髓鞘和軸突丟失相關（English: T1 hypointense "black holes" are associated with more severe demyelination and axonal loss）
 - **MS脊髓病變**：通常為短節段單側性（English: Spinal MS involvement is usually short-segment and unilateral）
 
 ---
@@ -1229,16 +1231,16 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 **重點摘要**
 - **CADASIL**：前顳葉T2延長對本病高度特異（English: Anterior temporal lobe T2 prolongation is highly specific for CADASIL）
-- **血管炎**：可見出血灶（GRE/SWI），可用於與MS鑑別（English: Vasculitis may show hemorrhagic foci, helping differentiate from MS）
+- **血管炎**：可見出血竈（GRE/SWI），可用於與MS鑑別（English: Vasculitis may show hemorrhagic foci, helping differentiate from MS）
 - **微血管病變**：從不侵犯胼胝體；若胼胝體受累應考慮其他診斷（English: Microangiopathy never involves corpus callosum）
 
 ---
 
-### PML, ADEM, and Radiation Injury / 進行性多灶性白質腦病、脫髓鞘性腦脊髓炎與輻射損傷 (IMG 294, BOOK 285)
+### PML, ADEM, and Radiation Injury / 進行性多竈性白質腦病、脫髓鞘性腦脊髓炎與輻射損傷 (IMG 294, BOOK 285)
 
 ![Page 294](/core_radiology/images/neuro/page-285.png)
 
-進行性多灶性白質腦病（PML）見於免疫抑制患者，因JC病毒再活化導致脫髓鞘，MRI顯示不對稱多灶性白質病變，少有佔位效應或強化。ADAM（急性播散性腦脊髓炎）為單相性脫髓鞘疾病，好發於兒童，常在病毒感染或疫苗接种後。Hurst變異型為爆發性HAD，數天內死亡。放射性腦損傷分為急性、早期延遲性（脫髓鞘）和晚期延遲性（白質損傷或放射性壞死）三階段。
+進行性多竈性白質腦病（PML）見於免疫抑制患者，因JC病毒再活化導致脫髓鞘，MRI顯示不對稱多竈性白質病變，少有佔位效應或強化。ADAM（急性播散性腦脊髓炎）為單相性脫髓鞘疾病，好發於兒童，常在病毒感染或疫苗接种後。Hurst變異型為爆發性HAD，數天內死亡。放射性腦損傷分為急性、早期延遲性（脫髓鞘）和晚期延遲性（白質損傷或放射性壞死）三階段。
 
 **重點摘要**
 - **PML**：不對稱白質病變，少有佔位效應或強化（English: PML shows asymmetric white matter lesions with rare mass effect or enhancement）
@@ -1251,11 +1253,11 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ![Page 295](/core_radiology/images/neuro/page-285.png)
 
-化膿性腦膿腫可由血行播散、鼻竇炎/乳突炎直接蔓延或腦膜炎併發症引起。膿腫演變經四階段（早期腦炎→晚期腦炎→早期膿腫→晚期膿腫），約需兩週完全形成。成熟膿腫的典型影像特徵包括：T2均勻低信號的薄壁、光滑的環形強化，以及DWI高信號/ADC低信號（受限擴散），此乃因膿液高黏滳性所致。
+化膿性腦膿腫可由血行播散、鼻竇炎/乳突炎直接蔓延或腦膜炎併發症引起。膿腫演變經四階段（早期腦炎→晚期腦炎→早期膿腫→晚期膿腫），約需兩週完全形成。成熟膿腫的典型影像特徵包括：T2均勻低訊號的薄壁、光滑的環形強化，以及DWI高訊號/ADC低訊號（受限擴散），此乃因膿液高黏滳性所致。
 
 **重點摘要**
 - **環形強化**：膿腫壁薄而光滑，有別於膠質母細胞瘤或轉移瘤的不規則厚壁（English: Abscess rim is thin and smooth, unlike the thick irregular wall of glioma or metastasis）
-- **DWI受限擴散**：幾乎所有化膿性膿腫都表現DWI高信號/ADC低信號（English: Pyogenic brain abscess almost always demonstrates restricted diffusion on DWI）
+- **DWI受限擴散**：幾乎所有化膿性膿腫都表現DWI高訊號/ADC低訊號（English: Pyogenic brain abscess almost always demonstrates restricted diffusion on DWI）
 - **腦室周圍膿腫**：膿腫壁朝向腦室側較薄，提示可能即將破裂（English: Periventricular abscess has thinner capsule oriented toward ventricles, suggesting impending rupture）
 
 ---
@@ -1264,10 +1266,10 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ![Page 296](/core_radiology/images/neuro/page-286.png)
 
-結核瘤為局限性結核性肉芽腫，T2信號多變但中央常為低信號（對比化膿性膿腫的高信號）。隱球菌（Cryptococcus）是AIDS患者最常見的CNS真菌感染，主要影像表現是腦積水，並可沿基底節血管周圍空間擴散，在MRI上形成膠樣假囊。隱球菌也可在脈絡叢產生環形強化的肉芽腫（隱球菌瘤）。
+結核瘤為局限性結核性肉芽腫，T2訊號多變但中央常為低訊號（對比化膿性膿腫的高訊號）。隱球菌（Cryptococcus）是AIDS患者最常見的CNS真菌感染，主要影像表現是腦積水，並可沿基底節血管周圍空間擴散，在MRI上形成膠樣假囊。隱球菌也可在脈絡叢產生環形強化的肉芽腫（隱球菌瘤）。
 
 **重點摘要**
-- **結核瘤**：T2低信號（化膿性膿腫通常高信號）（English: Tuberculoma tends to have T2 hypointensity, unlike pyogenic abscess which is hyperintense）
+- **結核瘤**：T2低訊號（化膿性膿腫通常高訊號）（English: Tuberculoma tends to have T2 hypointensity, unlike pyogenic abscess which is hyperintense）
 - **隱球菌**：AIDS患者最常見CNS真菌感染，CD4 <100 cells/μL時易感性增加（English: Cryptococcosis is most common CNS fungal infection in AIDS patients with CD4 <100）
 - **隱球菌瘤**：脈絡叢的環形強化肉芽腫（English: Cryptococcomas are ring-enhancing granulomas within the ventricles, especially choroid plexus）
 
@@ -1277,7 +1279,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ![Page 297](/core_radiology/images/neuro/page-287.png)
 
-神經囊蟲病（Neurocysticercosis）是免疫功能正常者最常見的寄生蟲CNS感染，由豬肉絛蟲（Taenia solium）引起，四個階段各有特徵性影像表現：囊泡期可見與CSF信號相同的囊泡；膠樣期呈現環形強化但DWI為高信號（對比膿腫的低信號）；結節/顆粒期囊腫退化；鈣化期CT可見小鈣化。弓漿蟲病（Toxoplasmosis）是AIDS患者最常見的腦部腫塊病變，典型表現為基底節單發或多發環形強化病灶。
+神經囊蟲病（Neurocysticercosis）是免疫功能正常者最常見的寄生蟲CNS感染，由豬肉絛蟲（Taenia solium）引起，四個階段各有特徵性影像表現：囊泡期可見與CSF訊號相同的囊泡；膠樣期呈現環形強化但DWI為高訊號（對比膿腫的低訊號）；結節/顆粒期囊腫退化；鈣化期CT可見小鈣化。弓漿蟲病（Toxoplasmosis）是AIDS患者最常見的腦部腫塊病變，典型表現為基底節單發或多發環形強化病竈。
 
 **重點摘要**
 - **神經囊蟲病四期**：囊泡期→膠樣期→結節/顆粒期→鈣化期（English: Four stages of neurocysticercosis: viable/vesicular → colloidal → nodular/granular → calcified）
@@ -1293,7 +1295,7 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 皰疹病毒腦炎（Herpes encephalitis）由HSV-1在三叉神經節再活化引起，典型侵犯內側顳葉和下額葉，CT早期常正常，MRI可見雙側（常不對稱）T2延長，急性期可有限制擴散。本病為神經科急症，需立即啟動抗病毒治療。HIV腦病變（HIV encephalopathy）是AIDS患者最常見CNS感染，影像可見瀰漫性腦萎縮和對稱性腦室周圍及深部白質T2延長，但不同於PML，U纖維和皮質下白質不受累。
 
 **重點摘要**
-- **皰疹腦炎**：發燒、內側顳葉信號異常、急性意識改變——應作為首要考量（English: Fever, mesial temporal lobe signal abnormality, acute altered mental status—herpes should be first consideration）
+- **皰疹腦炎**：發燒、內側顳葉訊號異常、急性意識改變——應作為首要考量（English: Fever, mesial temporal lobe signal abnormality, acute altered mental status—herpes should be first consideration）
 - **CMV腦炎**：CD4 <50 cells/μL時易感性增加，主要表現為腦室炎（English: CMV encephalitis affects immunosuppressed with CD4 <50, manifests as ventriculitis）
 - **HIV腦病變**：對稱性白質T2延長，保留U纖維（English: HIV encephalitis shows symmetric white matter T2 prolongation with sparing of U-fibers）
 
@@ -1303,12 +1305,12 @@ CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡�
 
 ![Page 299](/core_radiology/images/neuro/page-289.png)
 
-Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退化性疾病，典型MRI表現包括皮質帶狀強化（cortical ribboning）——大腦皮質的帶狀FLAIR高信號和受限擴散，以及齒狀核和丘腦的受累。「曲棍球棒徵」（hockey stick sign）指背內側丘腦的FLAIR高信號。低血糖可導致雙側皮質、海馬和基底節對稱性T2延長。缺氧缺血性腦病變（HIE）同樣影響灰質結構，預後不良指標是基底節受累。
+Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退化性疾病，典型MRI表現包括皮質帶狀強化（cortical ribboning）——大腦皮質的帶狀FLAIR高訊號和受限擴散，以及齒狀核和丘腦的受累。「曲棍球棒徵」（hockey stick sign）指背內側丘腦的FLAIR高訊號。低血糖可導致雙側皮質、海馬和基底節對稱性T2延長。缺氧缺血性腦病變（HIE）同樣影響灰質結構，預後不良指標是基底節受累。
 
 **重點摘要**
 - **CJD典型表現**：皮層帶狀強化+齒狀核/丘腦受累（English: CJD shows cortical ribboning with involvement of basal ganglia and thalami）
-- **曲棍球棒徵**：背內側丘腦高信號，為CJD特徵性表現（English: Hockey stick sign describes bright signal in dorsomedial thalamus in CJD）
-- **HIE**：蒼白球對稱性T2/DWI高信號，小腦相對保留（「小腦白徵」）（English: HIE shows symmetric globus pallidus T2/DWI hyperintensity with relative cerebellar sparing）
+- **曲棍球棒徵**：背內側丘腦高訊號，為CJD特徵性表現（English: Hockey stick sign describes bright signal in dorsomedial thalamus in CJD）
+- **HIE**：蒼白球對稱性T2/DWI高訊號，小腦相對保留（「小腦白徵」）（English: HIE shows symmetric globus pallidus T2/DWI hyperintensity with relative cerebellar sparing）
 
 ---
 
@@ -1316,10 +1318,10 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 300](/core_radiology/images/neuro/page-290.png)
 
-中毒性與代謝性腦病變涵蓋肝臟疾病、低血糖、缺氧缺血性腦病變（HIE）、甲醇中毒和一中氧化碳中毒。肝臟疾病的典型MRI表現為T1加權影像上蒼白球和黑質的高信號，因錳沉積所致。一氧化碳中毒典型導致蒼白球對稱性T2延長和受限擴散。HIE由循環或呼吸衰竭引起的全腦缺氧/缺氧導致，影像上灰質結構優先受累，預後不良時見基底節受累。
+中毒性與代謝性腦病變涵蓋肝臟疾病、低血糖、缺氧缺血性腦病變（HIE）、甲醇中毒和一中氧化碳中毒。肝臟疾病的典型MRI表現為T1加權影像上蒼白球和黑質的高訊號，因錳沉積所致。一氧化碳中毒典型導致蒼白球對稱性T2延長和受限擴散。HIE由循環或呼吸衰竭引起的全腦缺氧/缺氧導致，影像上灰質結構優先受累，預後不良時見基底節受累。
 
 **重點摘要**
-- **肝臟疾病**：T1蒼白球高信號 = 錳沉積（English: T1 hyperintensity in globus pallidus in liver disease indicates manganese deposition）
+- **肝臟疾病**：T1蒼白球高訊號 = 錳沉積（English: T1 hyperintensity in globus pallidus in liver disease indicates manganese deposition）
 - **一中氧化碳中毒**：蒼白球對稱性T2延長和受限擴散（English: Carbon monoxide poisoning causes symmetric globus pallidus T2 prolongation and restricted diffusion）
 - **HIE預後指標**：基底節受累提示預後不良（English: Basal ganglia involvement in HIE portends a worse prognosis）
 
@@ -1459,10 +1461,10 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 311](/core_radiology/images/neuro/page-301.png)
 
-黏囊腫（mucocele）是竇口阻塞後竇腔擴張無氣的結果，內容物信號隨慢性程度而異：隨時間進展，T1信號增加，T2信號降低（因脫水），晚期T2可極低模擬正常充氣竇。內翻性乳頭狀瘤（inverted papilloma）是鼻竇黏膜的良性上皮腫瘤，但10-20%與鱗狀細胞癌相關。典型CT可見骨質重塑，MRI增強掃描可見特徵性「大腦狀」強化模式（cerebriform pattern），即曲線樣、腦回狀強化。
+黏囊腫（mucocele）是竇口阻塞後竇腔擴張無氣的結果，內容物訊號隨慢性程度而異：隨時間進展，T1訊號增加，T2訊號降低（因脫水），晚期T2可極低模擬正常充氣竇。內翻性乳頭狀瘤（inverted papilloma）是鼻竇黏膜的良性上皮腫瘤，但10-20%與鱗狀細胞癌相關。典型CT可見骨質重塑，MRI增強掃描可見特徵性「大腦狀」強化模式（cerebriform pattern），即曲線樣、腦回狀強化。
 
 **重點摘要**
-- **黏囊腫**：竇口阻塞→竇腔擴張無氣；內容物信號隨脫水程度變化（English: Mucocele results from sinus ostium obstruction; signal varies with desiccation degree）
+- **黏囊腫**：竇口阻塞→竇腔擴張無氣；內容物訊號隨脫水程度變化（English: Mucocele results from sinus ostium obstruction; signal varies with desiccation degree）
 - **內翻性乳頭狀瘤**：10-20%與鱗狀細胞癌相關（English: Inverted papilloma is associated with squamous cell carcinoma in 10-20% of cases）
 - **大腦狀強化（cerebriform）**：內翻性乳頭狀瘤的特徵性MRI強化模式（English: Cerebriform enhancement pattern is characteristic of inverted papilloma on MRI）
 
@@ -1485,7 +1487,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 313](/core_radiology/images/neuro/page-303.png)
 
-多形性腺瘤（pleomorphic adenoma）是腮腺最常見腫瘤（佔80%），好發於中年女性，为良性但完整切除是標準治療以防復發和惡性轉化。MRI上T1和T2信號與水相似，但與囊腫不同，通常有強化。Warthin瘤（淋巴乳頭狀囊腺瘤）是第二常見腮腺良性腫瘤（10%），15%為雙側，典型為老年男性，與吸菸相關，一般為囊性腫瘤且無強化。
+多形性腺瘤（pleomorphic adenoma）是腮腺最常見腫瘤（佔80%），好發於中年女性，为良性但完整切除是標準治療以防復發和惡性轉化。MRI上T1和T2訊號與水相似，但與囊腫不同，通常有強化。Warthin瘤（淋巴乳頭狀囊腺瘤）是第二常見腮腺良性腫瘤（10%），15%為雙側，典型為老年男性，與吸菸相關，一般為囊性腫瘤且無強化。
 
 **重點摘要**
 - **多形性腺瘤**：腮腺最常見腫瘤（80%），完整切除防復發（English: Pleomorphic adenoma is most common parotid tumor (80%); complete excision prevents recurrence）
@@ -1511,7 +1513,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 315](/core_radiology/images/neuro/page-305.png)
 
-Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年女性好發。影像上可見唾液腺組織萎縮和脂肪置換，伴多發結節、異質強化、小的囊性灶和點狀鈣化。Sjögren症候群患者發生腮腺和頭頸部淋巴瘤的風險顯著增加，任何新出現的優勢性腮腺腫塊都應懷疑淋巴瘤。HIV淋巴上皮性病變表現為雙側多發囊性腫塊，腮腺是唯一含有固有淋巴組織的唾液腺。
+Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年女性好發。影像上可見唾液腺組織萎縮和脂肪置換，伴多發結節、異質強化、小的囊性竈和點狀鈣化。Sjögren症候群患者發生腮腺和頭頸部淋巴瘤的風險顯著增加，任何新出現的優勢性腮腺腫塊都應懷疑淋巴瘤。HIV淋巴上皮性病變表現為雙側多發囊性腫塊，腮腺是唯一含有固有淋巴組織的唾液腺。
 
 **重點摘要**
 - **Sjögren症候群**：唾液腺和淚腺自體免疫疾病，中年女性（English: Sjögren syndrome is autoimmune disorder affecting salivary and lacrimal glands, middle-aged females）
@@ -1524,7 +1526,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 316](/core_radiology/images/neuro/page-306.png)
 
-翼顎窩是連接面部和顱內的橋樑，是腫瘤或感染擴散的重要通道。翼顎窩位於上頜竇後方、眶下裂下方，六個壁分別通向面部各重要結構。正常翼顎窩含有對稱脂肪和軟組織，不對稱時應懷疑淋巴瘤或唾液腺腫瘤（如腺樣囊性癌）的神經周圍擴散。翼顎窩內容物包括翼顎神經節和上頜內动脉分支。重要通道包括：蝶顎孔（通向鼻咽）、圓孔（V2）、 Vidius管（翼管神經和血管）。
+翼顎窩是連接面部和顱內的橋樑，是腫瘤或感染擴散的重要通道。翼顎窩位於上頜竇後方、眶下裂下方，六個壁分別通向面部各重要結構。正常翼顎窩含有對稱脂肪和軟組織，不對稱時應懷疑淋巴瘤或唾液腺腫瘤（如腺樣囊性癌）的神經周圍擴散。翼顎窩內容物包括翼顎神經節和上頜內動脈分支。重要通道包括：蝶顎孔（通向鼻咽）、圓孔（V2）、 Vidius管（翼管神經和血管）。
 
 **重點摘要**
 - **翼顎窩**：面部與顱內之間的橋樑，是腫瘤/感染擴散路徑（English: Pterygopalatine fossa is bridge between face and brain, key pathway for tumor/infection spread）
@@ -1550,10 +1552,10 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 318](/core_radiology/images/neuro/page-308.png)
 
-前顱底惡性腫瘤包括嗅神經母細胞瘤（esthesioneuroblastoma，又稱olfactory neuroblastoma）、鱗狀細胞癌（SCC，鼻竇和鼻腔最常見惡性腫瘤）、腺樣囊性癌和橫紋肌肉瘤。嗅神經母細胞瘤為雙峰年齡分布，好發於青少年和中年人，CT上略高衰減，T1/T2中等信號（因高細胞密度），常見鈣化，特征性表現是顱內部分邊緣的囊性灶。鱗狀細胞癌强化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵。
+前顱底惡性腫瘤包括嗅神經母細胞瘤（esthesioneuroblastoma，又稱olfactory neuroblastoma）、鱗狀細胞癌（SCC，鼻竇和鼻腔最常見惡性腫瘤）、腺樣囊性癌和橫紋肌肉瘤。嗅神經母細胞瘤為雙峰年齡分布，好發於青少年和中年人，CT上略高衰減，T1/T2中等訊號（因高細胞密度），常見鈣化，特征性表現是顱內部分邊緣的囊性竈。鱗狀細胞癌強化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵。
 
 **重點摘要**
-- **嗅神經母細胞瘤**：神經嵴來源，好發於青少年和中年，邊緣囊性灶為特徵（English: Esthesioneuroblastoma is neural crest tumor with bimodal age, peripheral tumor cysts at intracranial margin are characteristic）
+- **嗅神經母細胞瘤**：神經嵴來源，好發於青少年和中年，邊緣囊性竈為特徵（English: Esthesioneuroblastoma is neural crest tumor with bimodal age, peripheral tumor cysts at intracranial margin are characteristic）
 - **鱗狀細胞癌**：鼻竇/鼻腔最常見惡性腫瘤，上頜竇最常見原發部位（English: SCC is most common sinonasal malignancy; maxillary antrum is most common primary site）
 - **眼眶侵犯**：常經紙樣板（lateral orbital wall weakest）入侵（English: Orbital invasion most commonly occurs through lamina papyracea, the weak medial orbital wall）
 
@@ -1576,11 +1578,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 320](/core_radiology/images/neuro/page-310.png)
 
-顳骨各區域有其特發性疾病譜。外耳疾病包括外耳道狹窄/閉鎖（先天性）、急性外耳炎（游泳者耳）、壞死性（惡性）外耳炎（老年糖尿病/免疫抑制，銅綠假單胞菌最常見）和膽脂瘤（外耳道軟組織腫塊伴骨質侵蝕）。中耳疾病包括膽固醇肉芽腫（常見岩錐部病變，T1高信號）和膽脂瘤（DWI受限擴散）。內耳疾病包括耳蝸發育不良（Mondini畸形）和前庭導水管擴大綜合徵。
+顳骨各區域有其特發性疾病譜。外耳疾病包括外耳道狹窄/閉鎖（先天性）、急性外耳炎（游泳者耳）、壞死性（惡性）外耳炎（老年糖尿病/免疫抑制，銅綠假單胞菌最常見）和膽脂瘤（外耳道軟組織腫塊伴骨質侵蝕）。中耳疾病包括膽固醇肉芽腫（常見岩錐部病變，T1高訊號）和膽脂瘤（DWI受限擴散）。內耳疾病包括耳蝸發育不良（Mondini畸形）和前庭導水管擴大綜合徵。
 
 **重點摘要**
 - **壞死性外耳炎**：老年糖尿病/免疫抑制患者，銅綠假單胞菌（English: Necrotizing external otitis occurs in elderly diabetics/immunocompromised; Pseudomonas aeruginosa is most common pathogen）
-- **膽固醇肉芽腫**：岩錐部最常見良性病變，T1高信號（English: Cholesterol granuloma is most common benign petrous apex lesion, T1 hyperintense）
+- **膽固醇肉芽腫**：岩錐部最常見良性病變，T1高訊號（English: Cholesterol granuloma is most common benign petrous apex lesion, T1 hyperintense）
 - **膽脂瘤**：DWI受限擴散（與膽固醇肉芽腫鑑別要點）（English: Cholesteatoma shows restricted diffusion on DWI, distinguishing it from cholesterol granuloma）
 
 
@@ -1602,12 +1604,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 322](/core_radiology/images/neuro/page-322.png)
 
-中耳起於鼓膜，包含聽小骨（鎚骨、砧骨、鐙骨）以及鼓膜張肌與鐙骨肌。鐙骨足板與卵圓窗相連，為中耳空氣與內耳淋巴液之間的介面。頸靜脈球瘤（glomus tympanicum）是最常見的原發性中耳腫瘤，典型表現為脈搏性耳鳴或傳導性聽力損失，耳鏡下可見鼓膜後紅色血管性腫塊。顏面神經鞘瘤在顱骨內生長緩慢，最常侵犯膝狀神經節。顏面神經在顳骨內分為：迷路節（從內耳道至膝狀神經節）、鼓室節（水平段，位於外半規管下方）與乳突節（向下延伸至莖乳突孔）。臨床上30%的顏面神經鞘瘤患者並無顏面神經症狀。膽固醇肉芽腫（膽固醇囊腫）是最常見的良性岩部病變，耳鏡下可見鼓膜後藍色腫塊，MRI T1加权圖像通常呈高信號。
+中耳起於鼓膜，包含聽小骨（鎚骨、砧骨、鐙骨）以及鼓膜張肌與鐙骨肌。鐙骨足板與卵圓窗相連，為中耳空氣與內耳淋巴液之間的介面。頸靜脈球瘤（glomus tympanicum）是最常見的原發性中耳腫瘤，典型表現為脈搏性耳鳴或傳導性聽力損失，耳鏡下可見鼓膜後紅色血管性腫塊。顏面神經鞘瘤在顱骨內生長緩慢，最常侵犯膝狀神經節。顏面神經在顳骨內分為：迷路節（從內耳道至膝狀神經節）、鼓室節（水平段，位於外半規管下方）與乳突節（向下延伸至莖乳突孔）。臨床上30%的顏面神經鞘瘤患者並無顏面神經症狀。膽固醇肉芽腫（膽固醇囊腫）是最常見的良性岩部病變，耳鏡下可見鼓膜後藍色腫塊，MRI T1加權圖像通常呈高訊號。
 
 **重點摘要**
 - **Glomus tympanicum（頸靜脈球瘤）**：最常見原發性中耳腫瘤，脈搏性耳鳴為典型症狀
 - **Facial nerve schwannoma（顏面神經鞘瘤）**：顏面神經在顳骨內走行的鞘瘤，遲發性顏面神經麻痺
-- **Cholesterol granuloma（膽固醇肉芽腫）**：T1高信號，藍色鼓膜後腫塊
+- **Cholesterol granuloma（膽固醇肉芽腫）**：T1高訊號，藍色鼓膜後腫塊
 
 ---
 
@@ -1628,10 +1630,10 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 324](/core_radiology/images/neuro/page-324.png)
 
-評估膽脂瘤最特異的MRI序列為造影增強與擴散權重影像（DWI）。與顱內表皮樣囊腫相似，膽脂瘤在DWI上呈高信號且不增強。DWI高信號代表T2穿透效應與受限擴散同時存在，原因與囊腫內容物的黏滯性有關。膽脂瘤在T2加权圖像上呈中等至輕度高信號，T1加权圖像信號強度則多變。CT對發現小型膽脂瘤很敏感，但無法區分膽脂瘤與其他軟組織腫塊（如膽固醇肉芽腫或腫瘤）。
+評估膽脂瘤最特異的MRI序列為造影增強與擴散權重影像（DWI）。與顱內表皮樣囊腫相似，膽脂瘤在DWI上呈高訊號且不增強。DWI高訊號代表T2穿透效應與受限擴散同時存在，原因與囊腫內容物的黏滯性有關。膽脂瘤在T2加權圖像上呈中等至輕度高訊號，T1加權圖像訊號強度則多變。CT對發現小型膽脂瘤很敏感，但無法區分膽脂瘤與其他軟組織腫塊（如膽固醇肉芽腫或腫瘤）。
 
 **重點摘要**
-- **DWI hyperintensity（擴散權重高信號）**：膽脂瘤的特徵，與囊腫內容物黏滯性相關
+- **DWI hyperintensity（擴散權重高訊號）**：膽脂瘤的特徵，與囊腫內容物黏滯性相關
 - **Non-enhancement（不增強）**：膽脂瘤在造影MRI上通常不增強，有助與其他腫瘤鑑別
 - **CT sensitivity（CT敏感性）**：CT偵測小型膽脂瘤敏感度高，但特異性低
 
@@ -1654,7 +1656,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 326](/core_radiology/images/neuro/page-326.png)
 
-迷路炎是內耳的炎症，分為急性、纖維性與骨化性三階段。急性迷路炎僅有內耳結構的強化；纖維性迷路炎時內耳被纖維組織取代，T2信號降低；骨化性迷路炎為最終階段，CT可見鈣化沉積。顳骨骨折傳統上依與顳骨軸的關係分為縱向與橫向骨折，新分類則分為耳囊破壞型與耳囊保留型。縱向骨折最常見，易侵犯聽小骨導致傳導性聽力損失；橫向骨折則易侵犯骨性迷路，導致感音神經性聽力損失。20%的縱向骨折與50%的橫向骨折會造成顏面神經損傷。
+迷路炎是內耳的炎症，分為急性、纖維性與骨化性三階段。急性迷路炎僅有內耳結構的強化；纖維性迷路炎時內耳被纖維組織取代，T2訊號降低；骨化性迷路炎為最終階段，CT可見鈣化沉積。顳骨骨折傳統上依與顳骨軸的關係分為縱向與橫向骨折，新分類則分為耳囊破壞型與耳囊保留型。縱向骨折最常見，易侵犯聽小骨導致傳導性聽力損失；橫向骨折則易侵犯骨性迷路，導致感音神經性聽力損失。20%的縱向骨折與50%的橫向骨折會造成顏面神經損傷。
 
 **重點摘要**
 - **Labyrinthitis ossificans（骨化性迷路炎）**：迷路炎最終階段，CT為首選檢查，可見迷路內鈣化
@@ -1667,10 +1669,10 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 327](/core_radiology/images/neuro/page-327.png)
 
-岩部是顳骨最內側的部分，連接下方的舌骨上頸部與上方的顱內腔室，鄰近Dorello管、Meckel腔與頸內动脉等重要構造。岩部正常由骨骨髓與緻密骨組成，約10%的人有氣化岩部，會增加膽固醇囊腫或岩部尖骨髓炎的風險。膽固醇囊腫是對膽固醇結晶的異物巨細胞反應，MRI可見膨脹性腫塊，內部出血與液體在脂肪抑制序列不衰減。岩部尖骨髓炎（petrous apicitis）是耳乳突炎後感染蔓延至氣化岩部，典型Gradenigo三聯症包括耳乳突炎、顏面疼痛（ Meckel腔三叉神經受損）與外展神經麻痺（第六對腦神經在Dorello管受損）。蘭格罕氏細胞組織球增生症（LCH）是嗜酸性球與蘭格罕氏細胞的腫瘤性增生的疾病，顳骨是最常見的顱底侵犯部位。
+岩部是顳骨最內側的部分，連接下方的舌骨上頸部與上方的顱內腔室，鄰近Dorello管、Meckel腔與頸內動脈等重要構造。岩部正常由骨骨髓與緻密骨組成，約10%的人有氣化岩部，會增加膽固醇囊腫或岩部尖骨髓炎的風險。膽固醇囊腫是對膽固醇結晶的異物巨細胞反應，MRI可見膨脹性腫塊，內部出血與液體在脂肪抑制序列不衰減。岩部尖骨髓炎（petrous apicitis）是耳乳突炎後感染蔓延至氣化岩部，典型Gradenigo三聯症包括耳乳突炎、顏面疼痛（ Meckel腔三叉神經受損）與外展神經麻痺（第六對腦神經在Dorello管受損）。蘭格罕氏細胞組織球增生症（LCH）是嗜酸性球與蘭格罕氏細胞的腫瘤性增生的疾病，顳骨是最常見的顱底侵犯部位。
 
 **重點摘要**
-- **Cholesterol cyst（膽固醇囊腫）**：MRI T1高信號，脂肪抑制序列不衰減
+- **Cholesterol cyst（膽固醇囊腫）**：MRI T1高訊號，脂肪抑制序列不衰減
 - **Apical petrositis（岩部尖骨髓炎）**：Gradenigo三聯症（耳乳突炎、顏面疼痛、外展神經麻痺）
 - **Langerhans cell histiocytosis（蘭格罕氏細胞組織球增生症）**：顳骨最常見的顱底侵犯部位
 
@@ -1680,12 +1682,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 328](/core_radiology/images/neuro/page-328.png)
 
-岩部病變的鑑別診斷可依「ACGME'S MC」記憶口訣：良性病變包括膽固醇肉芽腫（無受限擴散，T1高信號）、腦膜瘤（有硬膜尾徵，骨質增生）、嗜酸性肉芽腫（兒童光滑骨質溶解病變）、神經鞘瘤（規則強化，骨質重塑）與先天性膽脂瘤（有受限擴散）。惡性病變則有轉移性腫瘤/骨髓瘤（侵襲性表現）與軟骨肉瘤/脊索瘤（T2高信號，分葉狀）。軟骨肉瘤好發於中線或岩斜裂縫，CT可見環弧狀軟骨基質，MRI T2高信號。脊索瘤則起源於斜坡，同樣呈T2高信號並有骨質破壞。
+岩部病變的鑑別診斷可依「ACGME'S MC」記憶口訣：良性病變包括膽固醇肉芽腫（無受限擴散，T1高訊號）、腦膜瘤（有硬膜尾徵，骨質增生）、嗜酸性肉芽腫（兒童光滑骨質溶解病變）、神經鞘瘤（規則強化，骨質重塑）與先天性膽脂瘤（有受限擴散）。惡性病變則有轉移性腫瘤/骨髓瘤（侵襲性表現）與軟骨肉瘤/脊索瘤（T2高訊號，分葉狀）。軟骨肉瘤好發於中線或岩斜裂縫，CT可見環弧狀軟骨基質，MRI T2高訊號。脊索瘤則起源於斜坡，同樣呈T2高訊號並有骨質破壞。
 
 **重點摘要**
 - **ACGME'S MC 口訣**：ACGME用於記憶岩部良性病變的鑑別要點
-- **Chondrosarcoma（軟骨肉瘤）**：T2高信號分葉狀腫塊，CT可見環弧狀軟骨基質
-- **Chordoma（脊索瘤）**：起源於斜坡的T2高信號腫瘤，具骨質破壞
+- **Chondrosarcoma（軟骨肉瘤）**：T2高訊號分葉狀腫塊，CT可見環弧狀軟骨基質
+- **Chordoma（脊索瘤）**：起源於斜坡的T2高訊號腫瘤，具骨質破壞
 
 ---
 
@@ -1693,12 +1695,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 329](/core_radiology/images/neuro/page-329.png)
 
-正常成人斜坡在矢狀T1加权MRI上應呈現脂肪骨髓信號。瀰漫性骨髓置換可能代表全身性疾病，而局灶性骨髓置換則需懷疑腫瘤。脊索瘤（chordoma）是起源於脊索殘餘的局部侵襲性腫瘤，約50%起源於薦骨，35%起源於斜坡，其餘在脊椎。脊索瘤內部無基質，CT可見的鈣化可能為被侵蝕骨的殘餘碎片。MRI上脊索瘤在T2加权圖像呈高信號，伴隨骨質破壞。軟骨肉瘤可從斜坡中央或從岩部尖旁矢狀起源。乳癌有明顯的斜坡轉移傾向。
+正常成人斜坡在矢狀T1加權MRI上應呈現脂肪骨髓訊號。瀰漫性骨髓置換可能代表全身性疾病，而局竈性骨髓置換則需懷疑腫瘤。脊索瘤（chordoma）是起源於脊索殘餘的局部侵襲性腫瘤，約50%起源於薦骨，35%起源於斜坡，其餘在脊椎。脊索瘤內部無基質，CT可見的鈣化可能為被侵蝕骨的殘餘碎片。MRI上脊索瘤在T2加權圖像呈高訊號，伴隨骨質破壞。軟骨肉瘤可從斜坡中央或從岩部尖旁矢狀起源。乳癌有明顯的斜坡轉移傾向。
 
 **重點摘要**
-- **Chordoma（脊索瘤）**：脊索殘餘腫瘤，50%在薦骨，35%在斜坡；T2高信號，侵襲性生長
-- **Chondrosarcoma（軟骨肉瘤）**：可從斜坡中央或岩部尖旁起源，T2高信號
-- **Fatty marrow（脂肪骨髓）**：正常成人斜坡T1高信號，為確定的MRI標誌
+- **Chordoma（脊索瘤）**：脊索殘餘腫瘤，50%在薦骨，35%在斜坡；T2高訊號，侵襲性生長
+- **Chondrosarcoma（軟骨肉瘤）**：可從斜坡中央或岩部尖旁起源，T2高訊號
+- **Fatty marrow（脂肪骨髓）**：正常成人斜坡T1高訊號，為確定的MRI標誌
 
 ---
 
@@ -1719,12 +1721,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 331](/core_radiology/images/neuro/page-331.png)
 
-頸靜脈鼓室球瘤（glomus jugulotympanicum）是頸靜脈球瘤蔓延至中耳的名稱。頸動脈體瘤（glomus caroticum）起源於頸動脈體，特徵性地分開頸內與頸外动脉。迷走神經球瘤（glomus vagale）起源於迷走神經，典型位置與頸動脈體瘤相同，但會將頸內與頸外动脉向內前側位移，與頸動脈體瘤分開兩者的特性不同。迷走神經鞘瘤也可能發生在相同位置，也會使頸动脉向內前位移，但鞘瘤血管較少，不會有迷走神經球瘤典型的流空現象。
+頸靜脈鼓室球瘤（glomus jugulotympanicum）是頸靜脈球瘤蔓延至中耳的名稱。頸動脈體瘤（glomus caroticum）起源於頸動脈體，特徵性地分開頸內與頸外動脈。迷走神經球瘤（glomus vagale）起源於迷走神經，典型位置與頸動脈體瘤相同，但會將頸內與頸外動脈向內前側位移，與頸動脈體瘤分開兩者的特性不同。迷走神經鞘瘤也可能發生在相同位置，也會使頸動脈向內前位移，但鞘瘤血管較少，不會有迷走神經球瘤典型的流空現象。
 
 **重點摘要**
 - **Glomus jugulotympanicum（頸靜脈鼓室球瘤）**：頸靜脈球瘤蔓延至中耳
-- **Carotid body tumor（頸動脈體瘤）**：分開頸內與頸外动脉（splay the carotids）
-- **Glomus vagale（迷走神經球瘤）**：使頸动脉向內前位移，與頸總动脉分開不同
+- **Carotid body tumor（頸動脈體瘤）**：分開頸內與頸外動脈（splay the carotids）
+- **Glomus vagale（迷走神經球瘤）**：使頸動脈向內前位移，與頸總動脈分開不同
 
 ---
 
@@ -1732,7 +1734,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 332](/core_radiology/images/neuro/page-332.png)
 
-眼眶是由五塊骨頭構成的四邊形錐體空腔：額骨、篩骨、鼻骨、顴骨與上頜骨。眼眶包含多個薄壁骨質與氣化竇。視神經孔包含視神經與眼动脉。除V2外的海綿竇內所有腦神經均經上眶裂進入眼眶：動眼神經（CN III）支配上、內、下直肌與下斜肌；滑車神經（CN IV）支配上斜肌；眼支（V1）提供顏面上部感覺；外展神經（CN VI）支配外直肌。上眼靜脈為無瓣膜靜脈，可能是感染蔓延至顱內的途徑。眼眶可分為五個解剖區室：眶隔前（浅層潛在空間，無眶內結構）與眶隔後，後者再分為眶外間隙（包含淚腺、脂肪與骨性眼眶）、錐內間隙（包含眼外肌）與眼球。
+眼眶是由五塊骨頭構成的四邊形錐體空腔：額骨、篩骨、鼻骨、顴骨與上頜骨。眼眶包含多個薄壁骨質與氣化竇。視神經孔包含視神經與眼動脈。除V2外的海綿竇內所有腦神經均經上眶裂進入眼眶：動眼神經（CN III）支配上、內、下直肌與下斜肌；滑車神經（CN IV）支配上斜肌；眼支（V1）提供顏面上部感覺；外展神經（CN VI）支配外直肌。上眼靜脈為無瓣膜靜脈，可能是感染蔓延至顱內的途徑。眼眶可分為五個解剖區室：眶隔前（浅層潛在空間，無眶內結構）與眶隔後，後者再分為眶外間隙（包含淚腺、脂肪與骨性眼眶）、錐內間隙（包含眼外肌）與眼球。
 
 **重點摘要**
 - **Superior orbital fissure（上眶裂）**：CN III、IV、VI、V1及上眼靜脈的共同通道
@@ -1746,12 +1748,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 333](/core_radiology/images/neuro/page-333.png)
 
-鼻竇感染直接蔓延是眼眶感染最常見的原因，其他原因包括外傷、異物與牙源性感染。眼眶感染代表一個從輕到重的連續光譜：眶隔前感染僅表現為眼瞼腫脹與紅斑；眼眶蜂窩組織炎/蜂窩織炎為眼眶內感染但尚未形成膿疡；骨膜下膿疡（subperiosteal abscess）是骨膜下的感染性積液臨床上表現為眼球突出與視力障礙，是需緊急手術的急症，因為有因眼壓升高導致永久失明的風險；眼眶膿疡是比骨膜下膿疡更嚴重的感染，臨床上除眼球突出外還有眼肌麻痺；海綿竇血栓是眼眶感染的嚴重後遺症，可出現多發性腦神經麻痺。
+鼻竇感染直接蔓延是眼眶感染最常見的原因，其他原因包括外傷、異物與牙源性感染。眼眶感染代表一個從輕到重的連續光譜：眶隔前感染僅表現為眼瞼腫脹與紅斑；眼眶蜂窩組織炎/蜂窩織炎為眼眶內感染但尚未形成膿癤；骨膜下膿癤（subperiosteal abscess）是骨膜下的感染性積液臨床上表現為眼球突出與視力礙礙，是需緊急手術的急症，因為有因眼壓升高導致永久失明的風險；眼眶膿癤是比骨膜下膿癤更嚴重的感染，臨床上除眼球突出外還有眼肌麻痺；海綿竇血栓是眼眶感染的嚴重後遺症，可出現多發性腦神經麻痺。
 
 **重點摘要**
 - **Preseptal infection（眶隔前感染）**：眼瞼腫脹紅斑，無眶內結構侵犯
-- **Orbital cellulitis（眼眶蜂窩組織炎）**：需與骨膜下膿疡鑑別，影像上無離散液體收集
-- **Subperiosteal abscess（骨膜下膿疡）**：外科急症，需靜脈抗生素與手術引流
+- **Orbital cellulitis（眼眶蜂窩組織炎）**：需與骨膜下膿癤鑑別，影像上無離散液體收集
+- **Subperiosteal abscess（骨膜下膿癤）**：外科急症，需靜脈抗生素與手術引流
 - **Cavernous sinus thrombosis（海綿竇血栓）**：多發性腦神經麻痺為特色
 
 ---
@@ -1760,12 +1762,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 334](/core_radiology/images/neuro/page-334.png)
 
-海綿狀血管瘤（cavernous hemangioma）是成人最常見的成人眼眶腫瘤，通常為眶內（intraconal）也可為眶外，好發於成人，典型表現為進行性眼球突出。CT可見橢圓形強化腫塊，MRI T1等信號、T2高信號，早期呈現斑駁強化。毛細血管瘤（capillary hemangioma）為兒童血管瘤，與皮膚病灶如葡萄酒色斑或草莓狀血管瘤相關，通常在出生後數月內自行消退。眼眶淋巴瘤通常與系統性疾病相關，淚腺是最常見的侵犯部位，臨床上以無痛性向下眼球突出表現。眼眶淋巴瘤在CT上呈高密度，T1與T2均呈低信號（高細胞密度）。
+海綿狀血管瘤（cavernous hemangioma）是成人最常見的成人眼眶腫瘤，通常為眶內（intraconal）也可為眶外，好發於成人，典型表現為進行性眼球突出。CT可見橢圓形強化腫塊，MRI T1等訊號、T2高訊號，早期呈現斑駁強化。毛細血管瘤（capillary hemangioma）為兒童血管瘤，與皮膚病竈如葡萄酒色斑或草莓狀血管瘤相關，通常在出生後數月內自行消退。眼眶淋巴瘤通常與系統性疾病相關，淚腺是最常見的侵犯部位，臨床上以無痛性向下眼球突出表現。眼眶淋巴瘤在CT上呈高密度，T1與T2均呈低訊號（高細胞密度）。
 
 **重點摘要**
-- **Cavernous hemangioma（海綿狀血管瘤）**：成人最常見眼眶腫瘤，眶內位置，T2高信號
+- **Cavernous hemangioma（海綿狀血管瘤）**：成人最常見眼眶腫瘤，眶內位置，T2高訊號
 - **Capillary hemangioma（毛細血管瘤）**：兒童血管瘤，出生後數月內自行消退
-- **Orbital lymphoma（眼眶淋巴瘤）**：高細胞密度腫瘤，T1/T2均低信號，常與系統性疾病相關
+- **Orbital lymphoma（眼眶淋巴瘤）**：高細胞密度腫瘤，T1/T2均低訊號，常與系統性疾病相關
 
 ---
 
@@ -1773,7 +1775,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 335](/core_radiology/images/neuro/page-335.png)
 
-淋巴管瘤（lymphangioma）是兒童族群常見的良性錯構瘤性病变，又稱低流速淋巴管畸形。淋巴管瘤最常見於眶外間隙，影像上呈多房囊性腫塊，內部複雜，常可見因先前出血導致的液體平面， 通常有輕微的周邊與間隔強化。神經鞘瘤與神經纖維瘤在眼眶的影像表現無法區分，神經鞘瘤較常見，最常侵犯V1的感覺分支，典型位置在眼眶上部。成人眼眶轉移瘤來源包括乳癌、肺癌、甲狀腺癌、腎細胞癌與黑色素瘤。硬斑性乳癌轉移可因纖維化而導致眼球內陷（enophthalmos）而非眼球突出。兒童則需注意轉移性神經母細胞瘤，典型表現為長骨上的攻擊性日光放射狀骨膜反應。淚腺病灶中，上皮性腫瘤約50%良性（如多形性腺瘤）與50%惡性（如腺樣囊性癌與黏液表皮樣癌）。
+淋巴管瘤（lymphangioma）是兒童族群常見的良性錯構瘤性病變，又稱低流速淋巴管畸形。淋巴管瘤最常見於眶外間隙，影像上呈多房囊性腫塊，內部複雜，常可見因先前出血導致的液體平面， 通常有輕微的周邊與間隔強化。神經鞘瘤與神經纖維瘤在眼眶的影像表現無法區分，神經鞘瘤較常見，最常侵犯V1的感覺分支，典型位置在眼眶上部。成人眼眶轉移瘤來源包括乳癌、肺癌、甲狀腺癌、腎細胞癌與黑色素瘤。硬斑性乳癌轉移可因纖維化而導致眼球內陷（enophthalmos）而非眼球突出。兒童則需注意轉移性神經母細胞瘤，典型表現為長骨上的攻擊性日光放射狀骨膜反應。淚腺病竈中，上皮性腫瘤約50%良性（如多形性腺瘤）與50%惡性（如腺樣囊性癌與黏液表皮樣癌）。
 
 **重點摘要**
 - **Lymphangioma（淋巴管瘤）**：多房囊性腫塊，常見液體平面與先前出血的證據
@@ -1812,12 +1814,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 338](/core_radiology/images/neuro/page-338.png)
 
-視神經炎是視神經的非腫瘤性炎症，通常表現為疼痛與亞急性視力減退及色彩知覺下降，最常見原因為多發性硬化症，但也可能由病毒感染、結節病、血管炎與毒素暴露引起。急性期可見視神經腫大與T2信號延長，強化代表疾病正在活動。慢性期可見視神經萎縮。視神經炎與脊髓脫髓鞘病變同時存在（無腦部病灶）時為Devic症候群（視神經脊髓炎）。影像檢查應包括頭部與脊椎MRI以評估顱內斑塊：約75%的視神經炎患者會有腦部白質病灶。多發性硬化症的白質病灶在FLAIR影像上最為明顯，典型分布在腦室周圍。
+視神經炎是視神經的非腫瘤性炎症，通常表現為疼痛與亞急性視力減退及色彩知覺下降，最常見原因為多發性硬化症，但也可能由病毒感染、結節病、血管炎與毒素暴露引起。急性期可見視神經腫大與T2訊號延長，強化代表疾病正在活動。慢性期可見視神經萎縮。視神經炎與脊髓脫髓鞘病變同時存在（無腦部病竈）時為Devic症候群（視神經脊髓炎）。影像檢查應包括頭部與脊椎MRI以評估顱內斑塊：約75%的視神經炎患者會有腦部白質病竈。多發性硬化症的白質病竈在FLAIR影像上最為明顯，典型分布在腦室周圍。
 
 **重點摘要**
 - **Optic neuritis（視神經炎）**：疼痛性亞急性視力喪失，最常與多發性硬化症相關
-- **Devic syndrome（Devic症候群）**：視神經炎合併脊髓脫髓鞘，無腦部病灶
-- **75% optic neuritis patients**：有腦白質病灶，MRI需常規評估頭部
+- **Devic syndrome（Devic症候群）**：視神經炎合併脊髓脫髓鞘，無腦部病竈
+- **75% optic neuritis patients**：有腦白質病竈，MRI需常規評估頭部
 
 ---
 
@@ -1825,7 +1827,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 339](/core_radiology/images/neuro/page-339.png)
 
-眼球病灶最常見於兒童。視網膜母細胞瘤（retinoblastoma）是眼球最常見的原發性惡性腫瘤，幾乎都發生在5歲以下孩童，典型表現為白色瞳孔反射（leukocoria）。散發性病例常為單側，家族性病例（與p53腫瘤抑制基因突變相關）常為雙側。CT上呈現高密度並有強化的視網膜腫塊合併鈣化，眼球大小正常。「三側性」視網膜母細胞瘤指雙側視網膜母細胞瘤合併松果體母細胞瘤。Coat病是視網膜的血管疾病，特徵為脂蛋白性視網膜下滲出導致視網膜剝離，患者年齡通常稍大於視網膜母細胞瘤患者，眼球大小正常但有視網膜下不強化的軟組織。早產兒視網膜病變（ROP）僅見於早產兒，因長期氧氣治療所致，表現包括異常血管發育、出血與視網膜剝離，雙眼受影響程度相似，通常為小眼球（microphthalmia）。
+眼球病竈最常見於兒童。視網膜母細胞瘤（retinoblastoma）是眼球最常見的原發性惡性腫瘤，幾乎都發生在5歲以下孩童，典型表現為白色瞳孔反射（leukocoria）。散發性病例常為單側，家族性病例（與p53腫瘤抑制基因突變相關）常為雙側。CT上呈現高密度並有強化的視網膜腫塊合併鈣化，眼球大小正常。「三側性」視網膜母細胞瘤指雙側視網膜母細胞瘤合併松果體母細胞瘤。Coat病是視網膜的血管疾病，特徵為脂蛋白性視網膜下滲出導致視網膜剝離，患者年齡通常稍大於視網膜母細胞瘤患者，眼球大小正常但有視網膜下不強化的軟組織。早產兒視網膜病變（ROP）僅見於早產兒，因長期氧氣治療所致，表現包括異常血管發育、出血與視網膜剝離，雙眼受影響程度相似，通常為小眼球（microphthalmia）。
 
 **重點摘要**
 - **Retinoblastoma（視網膜母細胞瘤）**：5歲以下最常見，leukocoria為典型表現，CT可見鈣化
@@ -1838,7 +1840,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 340](/core_radiology/images/neuro/page-340.png)
 
-持續性原始玻璃體增生症（PHPV）為玻璃體內持續存在的胚胎血管組織，可導致出血、白內障與視網膜剝離導致視力喪失，受影響嬰兒通常為足月產。患眼偏小（microphthalmia）且玻璃體密度增加。PHPV的鑑別點在於無鈣化，可與視網膜母細胞瘤及ROP區分。脈絡膜缺損（coloboma）由胚胎眼內裂癒合不完全造成，可導致眼球變形或延長。脈絡膜缺損與多項症候群相關，包括13與18三染色體以及CHARGE與VATER關聯症。影像上可見錐狀或切跡狀變形。蝶骨翼發育不全（sphenoid wing dysplasia）見於第一型神經纖維瘤病，CSF搏動透過蝶骨翼缺陷傳遞可產生典型的搏動性眼球突出。隔視神經發育不全（septo-optic dysplasia）特徵為視神經發育不全與透明中隔缺如，常與裂腦症（schizencephaly）相關。
+持續性原始玻璃體增生症（PHPV）為玻璃體內持續存在的胚胎血管組織，可導致出血、白內礙與視網膜剝離導致視力喪失，受影響嬰兒通常為足月產。患眼偏小（microphthalmia）且玻璃體密度增加。PHPV的鑑別點在於無鈣化，可與視網膜母細胞瘤及ROP區分。脈絡膜缺損（coloboma）由胚胎眼內裂癒合不完全造成，可導致眼球變形或延長。脈絡膜缺損與多項症候群相關，包括13與18三染色體以及CHARGE與VATER關聯症。影像上可見錐狀或切跡狀變形。蝶骨翼發育不全（sphenoid wing dysplasia）見於第一型神經纖維瘤病，CSF搏動透過蝶骨翼缺陷傳遞可產生典型的搏動性眼球突出。隔視神經發育不全（septo-optic dysplasia）特徵為視神經發育不全與透明中隔缺如，常與裂腦症（schizencephaly）相關。
 
 **重點摘要**
 - **PHPV（持續性原始玻璃體增生症）**：Microphthalmia，玻璃體高密度，無鈣化
@@ -1852,7 +1854,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 341](/core_radiology/images/neuro/page-341.png)
 
-咀嚼肌間隙位於腮腺前方，包含咀嚼肌、下頜骨與顱神經V3。V3經卵圓孔離開顱骨並支配咀嚼肌。若咀嚼肌間隙有病變，必須評估是否有沿V3的神經周圍蔓延。牙源性疾病是咀嚼肌間隙病變最常見的原因，可導致膿疡。下頜骨病變中，骨肉瘤與轉移瘤是兩種最常見的惡性下頜骨病灶。橫紋肌肉瘤是兒童最常見的頭頸部腫瘤。頭頸部筋膜間隙複雜，包含咽（分為鼻咽、口咽、口腔、下咽與喉）、咀嚼肌間隙、頸动脉間隙、副咽間隙與椎體前間隙。咽是頭頸部的解剖中心，各間隙依其位置與相鄰結構形成特徵性的鑑別診斷。
+咀嚼肌間隙位於腮腺前方，包含咀嚼肌、下頜骨與顱神經V3。V3經卵圓孔離開顱骨並支配咀嚼肌。若咀嚼肌間隙有病變，必須評估是否有沿V3的神經周圍蔓延。牙源性疾病是咀嚼肌間隙病變最常見的原因，可導致膿癤。下頜骨病變中，骨肉瘤與轉移瘤是兩種最常見的惡性下頜骨病竈。橫紋肌肉瘤是兒童最常見的頭頸部腫瘤。頭頸部筋膜間隙複雜，包含咽（分為鼻咽、口咽、口腔、下咽與喉）、咀嚼肌間隙、頸動脈間隙、副咽間隙與椎體前間隙。咽是頭頸部的解剖中心，各間隙依其位置與相鄰結構形成特徵性的鑑別診斷。
 
 **重點摘要**
 - **Masticator space（咀嚼肌間隙）**：位於腮腺前方，含咀嚼肌、下頜骨與V3
@@ -1861,16 +1863,16 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 頸动脉間隙 / 頸动脉間隙（Carotid Space）
+### 頸動脈間隙 / 頸動脈間隙（Carotid Space）
 
 ![Page 342](/core_radiology/images/neuro/page-342.png)
 
-頸动脉間隙（又稱莖突後咽旁間隙）是包繞頸动脉與頸靜脈的不完整筋膜環，从顱底延伸至主動脈弓。頸动脉間隙包含頸动脉、頸动脉體、頸靜脈與多條腦神經。迷走神經（CN X）是唯一全程走在頸动脉間隙內進入胸腔的腦神經。頸动脉間隙病變的關鍵在於血管結構的位移方向：頸动脉體瘤（carotid body tumor）在頸动脉分叉處分開內外頸动脉；迷走神經球瘤（glomus vagale）則將內外頸动脉向前內側位移；迷走神經鞘瘤的位移方式與迷走神經球瘤相似，但血管性較低。神經纖維瘤幾乎都與第一型神經纖維瘤病相關。MRI上，神經纖維瘤與神經鞘瘤無法區分。
+頸動脈間隙（又稱莖突後咽旁間隙）是包繞頸動脈與頸靜脈的不完整筋膜環，从顱底延伸至主動脈弓。頸動脈間隙包含頸動脈、頸動脈體、頸靜脈與多條腦神經。迷走神經（CN X）是唯一全程走在頸動脈間隙內進入胸腔的腦神經。頸動脈間隙病變的關鍵在於血管結構的位移方向：頸動脈體瘤（carotid body tumor）在頸動脈分叉處分開內外頸動脈；迷走神經球瘤（glomus vagale）則將內外頸動脈向前內側位移；迷走神經鞘瘤的位移方式與迷走神經球瘤相似，但血管性較低。神經纖維瘤幾乎都與第一型神經纖維瘤病相關。MRI上，神經纖維瘤與神經鞘瘤無法區分。
 
 **重點摘要**
-- **Carotid space（頸动脉間隙）**：包含頸动脉、頸靜脈、頸动脉體與CN IX、X、XI、XII
-- **Splay the carotids（分開頸动脉）**：頸动脉體瘤的特徵性病徵
-- **Vagal schwannoma（迷走神經鞘瘤）**：將頸动脉向前內側位移，與球瘤相似但較少血管性
+- **Carotid space（頸動脈間隙）**：包含頸動脈、頸靜脈、頸動脈體與CN IX、X、XI、XII
+- **Splay the carotids（分開頸動脈）**：頸動脈體瘤的特徵性病徵
+- **Vagal schwannoma（迷走神經鞘瘤）**：將頸動脈向前內側位移，與球瘤相似但較少血管性
 
 ---
 
@@ -1878,7 +1880,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 343](/core_radiology/images/neuro/page-343.png)
 
-咽旁間隙（PPS）是三角形的脂肪填充空間，除了偶爾的異位小唾液腺組織外，無其他重要內容物。因其脂肪含量，無論在MRI或CT上都相當明顯。根據相鄰區室的病變對咽旁間隙造成的位移方向可預測病變的起源：咀嚼肌間隙病變（如咀嚼肌膿疡）將PPS向後內側位移；腮腺病變（如多形性腺瘤）將PPS向前內側位移；頸动脉間隙病變（如球瘤）將PPS向前位移。椎體前間隙由深層頸筋膜圍繞椎前與椎旁肌肉形成，前方為椎體前間隙，相當於舌骨上頸部的椎體前部分。內容物包括椎动脉、椎旁肌肉、脊椎與穿出的神經。
+咽旁間隙（PPS）是三角形的脂肪填充空間，除了偶爾的異位小唾液腺組織外，無其他重要內容物。因其脂肪含量，無論在MRI或CT上都相當明顯。根據相鄰區室的病變對咽旁間隙造成的位移方向可預測病變的起源：咀嚼肌間隙病變（如咀嚼肌膿癤）將PPS向後內側位移；腮腺病變（如多形性腺瘤）將PPS向前內側位移；頸動脈間隙病變（如球瘤）將PPS向前位移。椎體前間隙由深層頸筋膜圍繞椎前與椎旁肌肉形成，前方為椎體前間隙，相當於舌骨上頸部的椎體前部分。內容物包括椎動脈、椎旁肌肉、脊椎與穿出的神經。
 
 **重點摘要**
 - **Parapharyngeal space（咽旁間隙）**：三角形脂肪填充間隙，病變位移方向可判斷起源
@@ -1899,11 +1901,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 脊椎腫瘤定位 / 脊椎病灶定位（Spine Lesion Localization）
+### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization）
 
 ![Page 345](/core_radiology/images/neuro/page-345.png)
 
-評估任何脊椎病灶的第一步是確定其原始間室，每個間室都有不同的病變考量。三個間室分別為：髓內間室（位於軟膜深側，通常在脊髓實質內）、髓外膜內間室（位於硬膜內但軟膜外）與硬膜外間室（硬膜外）。各間室常見病灶：髓內常見星狀膠質細胞瘤、室管膜瘤與血管母細胞瘤；髓外膜內常見神經鞘瘤、神經纖維瘤與腦膜瘤；硬膜外常見脊椎腫瘤、轉移與椎間盤突出。熟悉這些解剖學分區是系統性分析脊椎MRI的基礎。
+評估任何脊椎病竈的第一步是確定其原始間室，每個間室都有不同的病變考量。三個間室分別為：髓內間室（位於軟膜深側，通常在脊髓實質內）、髓外膜內間室（位於硬膜內但軟膜外）與硬膜外間室（硬膜外）。各間室常見病竈：髓內常見星狀膠質細胞瘤、室管膜瘤與血管母細胞瘤；髓外膜內常見神經鞘瘤、神經纖維瘤與腦膜瘤；硬膜外常見脊椎腫瘤、轉移與椎間盤突出。熟悉這些解剖學分區是系統性分析脊椎MRI的基礎。
 
 **重點摘要**
 - **Intramedullary（髓內）**：星狀膠質細胞瘤、室管膜瘤、血管母細胞瘤
@@ -1912,11 +1914,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 髓內病灶 / 髓內病灶（Intramedullary Lesions）
+### 髓內病竈 / 髓內病竈（Intramedullary Lesions）
 
 ![Page 346](/core_radiology/images/neuro/page-346.png)
 
-髓內病灶位於軟膜深側，通常在脊髓實質內，所有髓內病灶同時也是髓內膜內病灶。星狀膠質細胞瘤與室管膜瘤合計占髓內腫瘤的95%，兩者影像特徵有重疊。星狀膠質細胞瘤在兒童較常見，通常為低惡性度，常延伸數個脊椎節段並導致脊髓紡錘狀擴大。約三分之一有囊性成分並可能伴有脊髓空洞。星狀膠質細胞瘤幾乎都會強化，出血較少見。室管膜瘤在成人最常見，起源於排列中央管的室管膜細胞，與第二型神經纖維瘤病相關，典型影像特徵為明顯強化、囊腫形成與明顯的極性囊腫。
+髓內病竈位於軟膜深側，通常在脊髓實質內，所有髓內病竈同時也是髓內膜內病竈。星狀膠質細胞瘤與室管膜瘤合計占髓內腫瘤的95%，兩者影像特徵有重疊。星狀膠質細胞瘤在兒童較常見，通常為低惡性度，常延伸數個脊椎節段並導致脊髓紡錘狀擴大。約三分之一有囊性成分並可能伴有脊髓空洞。星狀膠質細胞瘤幾乎都會強化，出血較少見。室管膜瘤在成人最常見，起源於排列中央管的室管膜細胞，與第二型神經纖維瘤病相關，典型影像特徵為明顯強化、囊腫形成與明顯的極性囊腫。
 
 **重點摘要**
 - **Astrocytoma（星狀膠質細胞瘤）**：兒童最常見髓內腫瘤，常為低度，紡錘狀脊髓擴大
@@ -1929,7 +1931,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 347](/core_radiology/images/neuro/page-347.png)
 
-室管膜瘤在成人最常見，起源於中央管的室管膜細胞，與第二型神經纖維瘤病相關。室管膜瘤常為出血性，MRI呈現異質性外觀，周邊含鐵血黃素沉積在T2加权圖像上形成暗邊緣。典型影像特徵包括腫瘤囊腫與非腫瘤性極性囊腫的大量形成。週邊型含鐵血黃素為常見表現，椎體 scalloping（齒痕狀）為過去的經典影像發現，但現今已少見。血管母細胞瘤是罕見的髓內腫瘤，為第三常見，與馮希佩爾-林道症（VHL）相關。典型影像特徵包括明顯強化、囊腫形成與大量流空現象，高達15%同時有髓內與髓外膜內成分。多發性硬化症活動性病灶可強化並類似脊椎腫瘤，但通常無脊髓擴大可資區別。
+室管膜瘤在成人最常見，起源於中央管的室管膜細胞，與第二型神經纖維瘤病相關。室管膜瘤常為出血性，MRI呈現異質性外觀，周邊含鐵血黃素沉積在T2加權圖像上形成暗邊緣。典型影像特徵包括腫瘤囊腫與非腫瘤性極性囊腫的大量形成。週邊型含鐵血黃素為常見表現，椎體 scalloping（齒痕狀）為過去的經典影像發現，但現今已少見。血管母細胞瘤是罕見的髓內腫瘤，為第三常見，與馮希佩爾-林道症（VHL）相關。典型影像特徵包括明顯強化、囊腫形成與大量流空現象，高達15%同時有髓內與髓外膜內成分。多發性硬化症活動性病竈可強化並類似脊椎腫瘤，但通常無脊髓擴大可資區別。
 
 **重點摘要**
 - **Scalloping（齒痕狀）**：過去室管膜瘤的經典影像特徵，代表慢性疾病與腫瘤長期壓迫
@@ -1938,15 +1940,15 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 髓外膜內病灶 / 髓外膜內病灶（Intradural-Extramedullary Lesions）
+### 髓外膜內病竈 / 髓外膜內病竈（Intradural-Extramedullary Lesions）
 
 ![Page 348](/core_radiology/images/neuro/page-348.png)
 
-髓外膜內病灶位於硬膜內但位於軟膜外，大多數時候位於蛛網膜下腔。典型影像表現（但非總是出現）是病灶與脊髓之間有CSF裂隙。神經鞘瘤（神經纖維瘤與神經鞘瘤）與腦膜瘤合計占髓外膜內腫瘤的90%。神經鞘瘤不能從影像上可靠地與神經纖維瘤區分；神經鞘瘤較常見，發生於老年患者，有完整包膜可進行「 shelling out」的手術方式；神經纖維瘤與第一型神經纖維瘤病相關，發生於年輕成人，缺乏包膜因此需切除神經。兩者皆可導致神經孔擴大。Target sign（T2加权圖像上周邊高信號圍繞中心低信號）提示良性。腦膜瘤為良性腫瘤，起源於蛛網膜帽狀細胞，最常見於老年女性，典型影像特徵包括寬廣的硬膜附著部與經常性鈣化。
+髓外膜內病竈位於硬膜內但位於軟膜外，大多數時候位於蛛網膜下腔。典型影像表現（但非總是出現）是病竈與脊髓之間有CSF裂隙。神經鞘瘤（神經纖維瘤與神經鞘瘤）與腦膜瘤合計占髓外膜內腫瘤的90%。神經鞘瘤不能從影像上可靠地與神經纖維瘤區分；神經鞘瘤較常見，發生於老年患者，有完整包膜可進行「 shelling out」的手術方式；神經纖維瘤與第一型神經纖維瘤病相關，發生於年輕成人，缺乏包膜因此需切除神經。兩者皆可導致神經孔擴大。Target sign（T2加權圖像上周邊高訊號圍繞中心低訊號）提示良性。腦膜瘤為良性腫瘤，起源於蛛網膜帽狀細胞，最常見於老年女性，典型影像特徵包括寬廣的硬膜附著部與經常性鈣化。
 
 **重點摘要**
 - **Schwannoma vs neurofibroma（神經鞘瘤與神經纖維瘤）**：鞘瘤有包膜可保守切除，纖維瘤需切除神經
-- **Target sign（靶徵）**：T2中心低信號、周邊高信號，提示良性神經鞘瘤
+- **Target sign（靶徵）**：T2中心低訊號、周邊高訊號，提示良性神經鞘瘤
 - **Meningioma（腦膜瘤）**：良性，起源於蛛網膜帽狀細胞，寬廣硬膜附著部為特色
 
 ---
@@ -1955,11 +1957,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 349](/core_radiology/images/neuro/page-349.png)
 
-皮樣囊腫（dermoid cyst）是先天性病灶，通常在兒童期出現，內含囊性脂肪，在T1加权圖像上呈現高信號。罕見的皮樣囊腫破裂可能引起潛在致命的化學性腦膜炎。表皮樣囊腫（epidermoid cyst）是罕見的後天性脊椎腫瘤，被認為是在新生兒腰椎穿刺時將皮膚組織植入蛛網膜下腔所造成。大多數表皮樣囊腫影像表現類似簡單囊腫（T1低信號、T2高信號），可見輕微周邊強化。偶爾囊腫內容物可能因蛋白含量高而造成T1縮短。表皮樣囊腫受限擴散，與囊狀蛛網膜下腔囊腫（arachnoid cyst）不同。神經鞘瘤（神經纖維瘤與神經鞘瘤）是最常見的髓外膜內腫瘤，15%同時有髓外膜內與硬膜外成分（啞鈴狀腫瘤）。
+皮樣囊腫（dermoid cyst）是先天性病竈，通常在兒童期出現，內含囊性脂肪，在T1加權圖像上呈現高訊號。罕見的皮樣囊腫破裂可能引起潛在致命的化學性腦膜炎。表皮樣囊腫（epidermoid cyst）是罕見的後天性脊椎腫瘤，被認為是在新生兒腰椎穿刺時將皮膚組織植入蛛網膜下腔所造成。大多數表皮樣囊腫影像表現類似簡單囊腫（T1低訊號、T2高訊號），可見輕微周邊強化。偶爾囊腫內容物可能因蛋白含量高而造成T1縮短。表皮樣囊腫受限擴散，與囊狀蛛網膜下腔囊腫（arachnoid cyst）不同。神經鞘瘤（神經纖維瘤與神經鞘瘤）是最常見的髓外膜內腫瘤，15%同時有髓外膜內與硬膜外成分（啞鈴狀腫瘤）。
 
 **重點摘要**
-- **Dermoid cyst（皮樣囊腫）**：含囊性脂肪，T1高信號，破裂可致化學性腦膜炎
-- **Epidermoid cyst（表皮樣囊腫）**：T1低/T2高信號，受限擴散與囊狀蛛網膜囊腫不同
+- **Dermoid cyst（皮樣囊腫）**：含囊性脂肪，T1高訊號，破裂可致化學性腦膜炎
+- **Epidermoid cyst（表皮樣囊腫）**：T1低/T2高訊號，受限擴散與囊狀蛛網膜囊腫不同
 - **Dumbbell tumor（啞鈴狀腫瘤）**：15%神經鞘瘤同時有膜內與硬膜外成分
 
 ---
@@ -1968,7 +1970,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 350](/core_radiology/images/neuro/page-350.png)
 
-黏液乳頭狀室管膜瘤（myxopapillary ependymoma）是一種室管膜瘤變異型，僅發生在圓錐或終絲，是圓錐與終絲最常見的腫瘤，起源於終絲的室管膜細胞。腫瘤特徵為生長緩慢，典型導致椎體 scalloping 與椎管擴大。黏液乳頭狀室管膜瘤是高血管性、出血性腫瘤，MRI呈現複雜分葉狀外觀並有內部出血，周邊含鐵血黃素常見，在T2加权圖像上呈低信號並在GRE圖像上产生晕染效應。黏液乳頭狀室管膜瘤在年輕男性中相對常見，典型位於馬尾部。蛛網膜炎（arachnoiditis）是蛛網膜圍繞神經根的炎症，過去常見原因為結核病與梅毒，今日則以腰椎手術為最常見原因。典型影像所見包括神經根位移與最終的硬膜囊消失。
+黏液乳頭狀室管膜瘤（myxopapillary ependymoma）是一種室管膜瘤變異型，僅發生在圓錐或終絲，是圓錐與終絲最常見的腫瘤，起源於終絲的室管膜細胞。腫瘤特徵為生長緩慢，典型導致椎體 scalloping 與椎管擴大。黏液乳頭狀室管膜瘤是高血管性、出血性腫瘤，MRI呈現複雜分葉狀外觀並有內部出血，周邊含鐵血黃素常見，在T2加權圖像上呈低訊號並在GRE圖像上产生暈染效應。黏液乳頭狀室管膜瘤在年輕男性中相對常見，典型位於馬尾部。蛛網膜炎（arachnoiditis）是蛛網膜圍繞神經根的炎症，過去常見原因為結核病與梅毒，今日則以腰椎手術為最常見原因。典型影像所見包括神經根位移與最終的硬膜囊消失。
 
 **重點摘要**
 - **Myxopapillary ependymoma（黏液乳頭狀室管膜瘤）**：圓錐/終絲最常見腫瘤，高血管性
@@ -1977,15 +1979,15 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 硬膜外病灶 / 硬膜外病灶（Extradural Lesions）
+### 硬膜外病竈 / 硬膜外病竈（Extradural Lesions）
 
 ![Page 351](/core_radiology/images/neuro/page-351.png)
 
-硬膜外病灶位於硬膜外，椎間盤突出與骨刺等退化性病變是最常見的硬膜外病灶。轉移性疾病是成人最常見的硬膜外惡性腫瘤，乳癌、肺癌與攝護腺癌是最常見的原發腫瘤。T1加权圖像對評估椎體骨髓置換至關重要，正常骨髓在T1上應比椎間盤更高信號。瀰漫性T1骨髓信號降低為非特異性，可見於白血病、淋巴瘤、骨髓纖維化與HIV。血管瘤（hemangioma）是常見且通常為偶然發現的良性病變，由內皮襯裡的血管結構組成。CT上可見粗布紋樣（corduroy）外觀，軸位CT可見點狀外觀（end-on thickened trabeculae）。侵襲性變異型偶見於胸椎，可有硬膜外軟組織成分導致脊髓壓迫。
+硬膜外病竈位於硬膜外，椎間盤突出與骨刺等退化性病變是最常見的硬膜外病竈。轉移性疾病是成人最常見的硬膜外惡性腫瘤，乳癌、肺癌與攝護腺癌是最常見的原發腫瘤。T1加權圖像對評估椎體骨髓置換至關重要，正常骨髓在T1上應比椎間盤更高訊號。瀰漫性T1骨髓訊號降低為非特異性，可見於白血病、淋巴瘤、骨髓纖維化與HIV。血管瘤（hemangioma）是常見且通常為偶然發現的良性病變，由內皮襯裡的血管結構組成。CT上可見粗布紋樣（corduroy）外觀，軸位CT可見點狀外觀（end-on thickened trabeculae）。侵襲性變異型偶見於胸椎，可有硬膜外軟組織成分導致脊髓壓迫。
 
 **重點摘要**
 - **Metastatic disease（轉移性疾病）**：成人最常見硬膜外惡性腫瘤，乳癌/肺癌/攝護腺最常見
-- **Hemangioma（血管瘤）**：典型T1/T2高信號，CT粗布紋樣外觀為特色
+- **Hemangioma（血管瘤）**：典型T1/T2高訊號，CT粗布紋樣外觀為特色
 - **Aggressive hemangioma（侵襲性血管瘤）**：胸椎，伴隨硬膜外軟組織成分，可壓迫脊髓
 
 ---
@@ -1994,11 +1996,11 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 352](/core_radiology/images/neuro/page-352.png)
 
-脊索瘤是起源於脊索殘餘的惡性腫瘤，最常見於薦尾部，其次為斜坡，約15%發生於椎體。漿細胞瘤（plasmacytoma）是發生於晚年的溶骨性、膨脹性骨病變，被認為是多發性骨髓瘤的前驅病變。軟骨肉瘤是一種低度惡性腫瘤，在T2加权圖像上呈高信號，可見軟骨環弧狀鈣化。椎體血管瘤為常見良性病變，通常為偶然發現。椎體外脂肪瘤病（epidural lipomatosis）是硬膜外脂肪的異常增生，可導致神經組織壓迫，常由外源性類固醇製劑或庫欣病/症候群引起。退化性脊椎疾病是背部疼痛最常見的原因，核磁共振檢查的主要目標是找出可手術糾正的病灶或可注射類固醇治療的病變。
+脊索瘤是起源於脊索殘餘的惡性腫瘤，最常見於薦尾部，其次為斜坡，約15%發生於椎體。漿細胞瘤（plasmacytoma）是發生於晚年的溶骨性、膨脹性骨病變，被認為是多發性骨髓瘤的前驅病變。軟骨肉瘤是一種低度惡性腫瘤，在T2加權圖像上呈高訊號，可見軟骨環弧狀鈣化。椎體血管瘤為常見良性病變，通常為偶然發現。椎體外脂肪瘤病（epidural lipomatosis）是硬膜外脂肪的異常增生，可導致神經組織壓迫，常由外源性類固醇製劑或庫欣病/症候群引起。退化性脊椎疾病是背部疼痛最常見的原因，核磁共振檢查的主要目標是找出可手術糾正的病竈或可注射類固醇治療的病變。
 
 **重點摘要**
-- **Chordoma（脊索瘤）**：notochord殘餘，惡性，T2高信號，常見於薦骨與斜坡
-- **Plasmacytoma（漿細胞瘤）**：多發性骨髓瘤前驅病變，單一溶骨性病灶
+- **Chordoma（脊索瘤）**：notochord殘餘，惡性，T2高訊號，常見於薦骨與斜坡
+- **Plasmacytoma（漿細胞瘤）**：多發性骨髓瘤前驅病變，單一溶骨性病竈
 - **Epidural lipomatosis（椎體外脂肪瘤病）**：類固醇使用或肥胖引起的手術治療對象
 
 ---
@@ -2007,12 +2009,12 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 353](/core_radiology/images/neuro/page-353.png)
 
-正常椎間盤由中央膠凍狀髓核與周圍纖維性纖維環構成。當椎間盤內容物（髓核、纖維環或兩者）超出正常邊界時即形成椎間盤突出或脫出。廣泛性椎間盤突出（bulge）是指超過180°的椎間盤周徑超出椎間盤的預期邊界。脫出（herniation）是焦點性椎間盤突出，技術上涉及不到90°的椎間盤周徑。脫出分為突出（protrusion）與擠出（extrusion）：突出的特徵是頸部直徑大於頂部直徑；擠出的特徵是頸部直徑小於頂部直徑，類似於囊狀动脉瘤。椎間盤突出可能導致神經根壓迫與脊椎狹窄。
+正常椎間盤由中央膠凍狀髓核與周圍纖維性纖維環構成。當椎間盤內容物（髓核、纖維環或兩者）超出正常邊界時即形成椎間盤突出或脫出。廣泛性椎間盤突出（bulge）是指超過180°的椎間盤周徑超出椎間盤的預期邊界。脫出（herniation）是焦點性椎間盤突出，技術上涉及不到90°的椎間盤周徑。脫出分為突出（protrusion）與擠出（extrusion）：突出的特徵是頸部直徑大於頂部直徑；擠出的特徵是頸部直徑小於頂部直徑，類似於囊狀動脈瘤。椎間盤突出可能導致神經根壓迫與脊椎狹窄。
 
 **重點摘要**
 - **Disc bulge（椎間盤突出）**：>180°周徑超出，為廣泛性
 - **Protrusion（突出）**：脫出的一種，頸部比頂部寬
-- **Extrusion（擠出）**：脫出的一種，頂部比頸部寬（類似囊狀动脉瘤）
+- **Extrusion（擠出）**：脫出的一種，頂部比頸部寬（類似囊狀動脈瘤）
 
 ---
 
