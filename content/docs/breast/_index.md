@@ -13,7 +13,7 @@ weight: 8
 
 ---
 
-## 乳癌關鍵事實 / Breast Cancer Key Facts
+### 乳癌關鍵事實 / Breast Cancer Key Facts
 
 ![Page 602](/core_radiology/images/breast/page-602.png)
 
@@ -21,7 +21,7 @@ weight: 8
 
 ---
 
-## 乳癌危險因子 / Breast Cancer Risk Factors
+### 乳癌危險因子 / Breast Cancer Risk Factors
 
 ![Page 603](/core_radiology/images/breast/page-603.png)
 
@@ -29,7 +29,7 @@ weight: 8
 
 ---
 
-## 發炎性乳癌與帕哲忒氏病 / Inflammatory Carcinoma and Paget Disease
+### 發炎性乳癌與帕哲忒氏病 / Inflammatory Carcinoma and Paget Disease
 
 ![Page 604](/core_radiology/images/breast/page-604.png)
 
@@ -41,7 +41,7 @@ weight: 8
 
 ---
 
-## 纖維囊性病與發炎性疾病 / Fibrocystic Change and Infectious Disease
+### 纖維囊性病與發炎性疾病 / Fibrocystic Change and Infectious Disease
 
 ![Page 605](/core_radiology/images/breast/page-605.png)
 
@@ -49,7 +49,7 @@ weight: 8
 
 ---
 
-## 糖尿病性乳腺病變與蒙道爾氏病 / Diabetic Mastopathy and Mondor Disease
+### 糖尿病性乳腺病變與蒙道爾氏病 / Diabetic Mastopathy and Mondor Disease
 
 ![Page 606](/core_radiology/images/breast/page-606.png)
 
@@ -61,7 +61,7 @@ weight: 8
 
 ---
 
-## 篩檢攝影標準體位 / Routine Screening Mammographic Views
+### 篩檢攝影標準體位 / Routine Screening Mammographic Views
 
 ![Page 607](/core_radiology/images/breast/page-607.png)
 
@@ -69,7 +69,7 @@ weight: 8
 
 ---
 
-## 線上與離線篩檢 / Online and Offline Screening
+### 線上與離線篩檢 / Online and Offline Screening
 
 ![Page 608](/core_radiology/images/breast/page-608.png)
 
@@ -77,7 +77,7 @@ weight: 8
 
 ---
 
-## 診斷性乳房攝影適應症 / Indications for Diagnostic Mammography
+### 診斷性乳房攝影適應症 / Indications for Diagnostic Mammography
 
 ![Page 609](/core_radiology/images/breast/page-609.png)
 
@@ -85,7 +85,7 @@ weight: 8
 
 ---
 
-## BI-RADS 評估類別 / BI-RADS Assessment Categories
+### BI-RADS 評估類別 / BI-RADS Assessment Categories
 
 ![Page 610](/core_radiology/images/breast/page-610.png)
 
@@ -93,7 +93,7 @@ weight: 8
 
 ---
 
-## 纖維腺體密度 / Fibroglandular Density
+### 纖維腺體密度 / Fibroglandular Density
 
 ![Page 611](/core_radiology/images/breast/page-611.png)
 
@@ -101,7 +101,7 @@ weight: 8
 
 ---
 
-## 皮膚增厚與 BI-RADS 腫塊 lexicon / Skin Thickening and Mass Definition
+### 皮膚增厚與 BI-RADS 腫塊 lexicon / Skin Thickening and Mass Definition
 
 ![Page 612](/core_radiology/images/breast/page-612.png)
 
@@ -109,7 +109,7 @@ weight: 8
 
 ---
 
-## 腫塊密度與形狀 / Mass Density and Shape
+### 腫塊密度與形狀 / Mass Density and Shape
 
 ![Page 613](/core_radiology/images/breast/page-613.png)
 
@@ -117,7 +117,7 @@ weight: 8
 
 ---
 
-## 腫塊相關特徵 / Associated Features of Masses
+### 腫塊相關特徵 / Associated Features of Masses
 
 ![Page 614](/core_radiology/images/breast/page-614.png)
 
@@ -125,7 +125,7 @@ weight: 8
 
 ---
 
-## BI-RADS 乳房攝影腫塊 lexicon / BI-RADS Mammographic Mass Lexicon
+### BI-RADS 乳房攝影腫塊 lexicon / BI-RADS Mammographic Mass Lexicon
 
 ![Page 615](/core_radiology/images/breast/page-615.png)
 
@@ -136,7 +136,7 @@ weight: 8
 
 ---
 
-## 乳房攝影鈣化概述 / Overview of Mammographic Calcifications
+### 乳房攝影鈣化概述 / Overview of Mammographic Calcifications
 
 ![Page 616](/core_radiology/images/breast/page-616.png)
 
@@ -144,7 +144,7 @@ weight: 8
 
 ---
 
-## 良性鈣化：爆米花型與大桿狀 / Benign Calcifications: Popcorn and Large Rod-like
+### 良性鈣化：爆米花型與大桿狀 / Benign Calcifications: Popcorn and Large Rod-like
 
 ![Page 617](/core_radiology/images/breast/page-617.png)
 
@@ -152,7 +152,7 @@ weight: 8
 
 ---
 
-## 縫線鈣化與營養不良性鈣化 / Sutural and Dystrophic Calcifications
+### 縫線鈣化與營養不良性鈣化 / Sutural and Dystrophic Calcifications
 
 ![Page 618](/core_radiology/images/breast/page-618.png)
 
@@ -160,7 +160,7 @@ weight: 8
 
 ---
 
-## 不確定性鈣化 / Indeterminate Calcifications
+### 不確定性鈣化 / Indeterminate Calcifications
 
 ![Page 619](/core_radiology/images/breast/page-619.png)
 
@@ -168,7 +168,7 @@ weight: 8
 
 ---
 
-## 高可疑性鈣化 / High-Suspicion Calcifications
+### 高可疑性鈣化 / High-Suspicion Calcifications
 
 ![Page 620](/core_radiology/images/breast/page-620.png)
 
@@ -176,7 +176,7 @@ weight: 8
 
 ---
 
-## 鈣化分布 / Distribution of Calcifications
+### 鈣化分布 / Distribution of Calcifications
 
 ![Page 621](/core_radiology/images/breast/page-621.png)
 
@@ -184,7 +184,7 @@ weight: 8
 
 ---
 
-## BI-RADS 鈣化 lexicon / BI-RADS Calcification Lexicon
+### BI-RADS 鈣化 lexicon / BI-RADS Calcification Lexicon
 
 ![Page 622](/core_radiology/images/breast/page-622.png)
 
@@ -192,11 +192,11 @@ weight: 8
 
 ---
 
-## 乳房攝影工作流程與問題解決 / Mammographic Workup and Problem Solving (Pages 623-625)
+### 乳房攝影工作流程與問題解決 / Mammographic Workup and Problem Solving (Pages 623-625)
 
 ---
 
-## 定點加壓與特殊體位 / Spot Compression and Special Views
+### 定點加壓與特殊體位 / Spot Compression and Special Views
 
 ![Page 623](/core_radiology/images/breast/page-623.png)
 
@@ -204,7 +204,7 @@ weight: 8
 
 ---
 
-## 病灶三角定位 / Triangulation
+### 病灶三角定位 / Triangulation
 
 ![Page 624](/core_radiology/images/breast/page-624.png)
 
@@ -212,7 +212,7 @@ weight: 8
 
 ---
 
-## 可觸及腫塊與 BI-RADS 3 / Palpable Mass and BI-RADS 3
+### 可觸及腫塊與 BI-RADS 3 / Palpable Mass and BI-RADS 3
 
 ![Page 625](/core_radiology/images/breast/page-625.png)
 
@@ -224,7 +224,7 @@ weight: 8
 
 ---
 
-## 乳房區域解剖 / Zonal Anatomy
+### 乳房區域解剖 / Zonal Anatomy
 
 ![Page 626](/core_radiology/images/breast/page-626.png)
 
@@ -232,7 +232,7 @@ weight: 8
 
 ---
 
-## 乳腺區與脂肪顯像 / Mammary Zone and Fat Imaging
+### 乳腺區與脂肪顯像 / Mammary Zone and Fat Imaging
 
 ![Page 627](/core_radiology/images/breast/page-627.png)
 
@@ -240,7 +240,7 @@ weight: 8
 
 ---
 
-## 超音波腫塊 lexicon / Ultrasound Mass Lexicon
+### 超音波腫塊 lexicon / Ultrasound Mass Lexicon
 
 ![Page 628](/core_radiology/images/breast/page-628.png)
 
@@ -248,7 +248,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 後方聲學特徵 / Posterior Acoustic Features
+### 後方聲學特徵 / Posterior Acoustic Features
 
 ![Page 629](/core_radiology/images/breast/page-629.png)
 
@@ -256,7 +256,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## BI-RADS 超音波腫塊 lexicon / BI-RADS Ultrasound Mass Lexicon
+### BI-RADS 超音波腫塊 lexicon / BI-RADS Ultrasound Mass Lexicon
 
 ![Page 630](/core_radiology/images/breast/page-630.png)
 
@@ -268,7 +268,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 脂肪性腫塊 / Fatty Masses
+### 脂肪性腫塊 / Fatty Masses
 
 ![Page 631](/core_radiology/images/breast/page-631.png)
 
@@ -276,7 +276,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 脂肪包含性腫塊：錯構瘤 / Fat-Containing Masses: Hamartoma
+### 脂肪包含性腫塊：錯構瘤 / Fat-Containing Masses: Hamartoma
 
 ![Page 632](/core_radiology/images/breast/page-632.png)
 
@@ -284,7 +284,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 乳腺囊腫與乳房內淋巴結 / Galactocele and Intramammary Lymph Node
+### 乳腺囊腫與乳房內淋巴結 / Galactocele and Intramammary Lymph Node
 
 ![Page 633](/core_radiology/images/breast/page-633.png)
 
@@ -292,7 +292,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 纖維腺瘤 / Fibroadenoma
+### 纖維腺瘤 / Fibroadenoma
 
 ![Page 634](/core_radiology/images/breast/page-634.png)
 
@@ -300,7 +300,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 導管內乳頭狀瘤與原位癌 / Intraductal Papilloma and DCIS
+### 導管內乳頭狀瘤與原位癌 / Intraductal Papilloma and DCIS
 
 ![Page 635](/core_radiology/images/breast/page-635.png)
 
@@ -308,7 +308,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 巨大固態腫塊 / Large Solid Masses
+### 巨大固態腫塊 / Large Solid Masses
 
 ![Page 636](/core_radiology/images/breast/page-636.png)
 
@@ -316,7 +316,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 多發性實性腫塊 / Multiple Solid Masses
+### 多發性實性腫塊 / Multiple Solid Masses
 
 ![Page 637](/core_radiology/images/breast/page-637.png)
 
@@ -324,7 +324,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 囊性乳腺病灶 / Cystic Breast Lesions
+### 囊性乳腺病灶 / Cystic Breast Lesions
 
 ![Page 638](/core_radiology/images/breast/page-638.png)
 
@@ -332,7 +332,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 複雜性腫塊 / Complex Mass
+### 複雜性腫塊 / Complex Mass
 
 ![Page 639](/core_radiology/images/breast/page-639.png)
 
@@ -340,7 +340,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 放射狀腫塊：侵襲性導管癌 / Spiculated Masses: Invasive Ductal Carcinoma
+### 放射狀腫塊：侵襲性導管癌 / Spiculated Masses: Invasive Ductal Carcinoma
 
 ![Page 640](/core_radiology/images/breast/page-640.png)
 
@@ -348,7 +348,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 放射狀疤痕 / Radial Scar
+### 放射狀疤痕 / Radial Scar
 
 ![Page 641](/core_radiology/images/breast/page-641.png)
 
@@ -356,7 +356,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 良性乳腺纖維化 / Benign Breast Fibrosis
+### 良性乳腺纖維化 / Benign Breast Fibrosis
 
 ![Page 642](/core_radiology/images/breast/page-642.png)
 
@@ -364,7 +364,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 其他乳腺惡性腫瘤 / Other Malignant Disease of the Breast
+### 其他乳腺惡性腫瘤 / Other Malignant Disease of the Breast
 
 ![Page 643](/core_radiology/images/breast/page-643.png)
 
@@ -376,7 +376,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 不對稱性 / Asymmetry
+### 不對稱性 / Asymmetry
 
 ![Page 645](/core_radiology/images/breast/page-645.png)
 
@@ -384,7 +384,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 局部不對稱與結構扭曲 / Focal Asymmetry and Architectural Distortion
+### 局部不對稱與結構扭曲 / Focal Asymmetry and Architectural Distortion
 
 ![Page 646](/core_radiology/images/breast/page-646.png)
 
@@ -392,7 +392,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 正常變異：胸骨肌 / Normal Variants: Sternalis Muscle
+### 正常變異：胸骨肌 / Normal Variants: Sternalis Muscle
 
 ![Page 647](/core_radiology/images/breast/page-647.png)
 
@@ -404,7 +404,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 乳房 MRI 導論 / Introduction to Breast MRI
+### 乳房 MRI 導論 / Introduction to Breast MRI
 
 ![Page 648](/core_radiology/images/breast/page-648.png)
 
@@ -412,7 +412,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## 造影動力學 / Enhancement Kinetics
+### 造影動力學 / Enhancement Kinetics
 
 ![Page 649](/core_radiology/images/breast/page-649.png)
 
@@ -420,7 +420,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 ---
 
-## MRI 腫塊：形狀與邊緣 / MRI Masses: Shape and Margin
+### MRI 腫塊：形狀與邊緣 / MRI Masses: Shape and Margin
 
 ![Page 650](/core_radiology/images/breast/page-650.png)
 
@@ -428,7 +428,7 @@ MRI 上**腫塊（Mass）** 是佔據空間並推開正常乳腺組織的病灶�
 
 ---
 
-## MRI 腫塊 lexicon 總結 / Summary of MRI Mass Lexicon
+### MRI 腫塊 lexicon 總結 / Summary of MRI Mass Lexicon
 
 ![Page 651](/core_radiology/images/breast/page-651.png)
 
@@ -436,7 +436,7 @@ MRI 上**腫塊（Mass）** 是佔據空間並推開正常乳腺組織的病灶�
 
 ---
 
-## 非腫塊樣增強 / Non-Masslike Enhancement (NMLE)
+### 非腫塊樣增強 / Non-Masslike Enhancement (NMLE)
 
 ![Page 652](/core_radiology/images/breast/page-652.png)
 
@@ -444,7 +444,7 @@ MRI 上**腫塊（Mass）** 是佔據空間並推開正常乳腺組織的病灶�
 
 ---
 
-## NMLE lexicon 總結與 MRI 判讀 / Summary of NMLE Lexicon and MRI Interpretation
+### NMLE lexicon 總結與 MRI 判讀 / Summary of NMLE Lexicon and MRI Interpretation
 
 ![Page 653](/core_radiology/images/breast/page-653.png)
 
@@ -452,7 +452,7 @@ MRI 上**腫塊（Mass）** 是佔據空間並推開正常乳腺組織的病灶�
 
 ---
 
-## 乳房 MRI 適應症 / Indications for Breast MRI
+### 乳房 MRI 適應症 / Indications for Breast MRI
 
 ![Page 654](/core_radiology/images/breast/page-654.png)
 
@@ -460,7 +460,7 @@ MRI 上**腫塊（Mass）** 是佔據空間並推開正常乳腺組織的病灶�
 
 ---
 
-## 殘留病灶與復發偵測 / Residual Disease and Recurrence Detection
+### 殘留病灶與復發偵測 / Residual Disease and Recurrence Detection
 
 ![Page 655](/core_radiology/images/breast/page-655.png)
 
@@ -472,7 +472,7 @@ MRI 可評估**術後殘留病灶**（表現為切片邊緣周圍的小結節樣
 
 ---
 
-## 矽膠植入物評估 / Evaluation of Silicone Implants
+### 矽膠植入物評估 / Evaluation of Silicone Implants
 
 ![Page 656](/core_radiology/images/breast/page-656.png)
 
@@ -480,7 +480,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 植入物破裂 / Implant Rupture
+### 植入物破裂 / Implant Rupture
 
 ![Page 657](/core_radiology/images/breast/page-657.png)
 
@@ -488,7 +488,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 囊外矽膠植入物破裂 / Extracapsular Silicone Implant Rupture
+### 囊外矽膠植入物破裂 / Extracapsular Silicone Implant Rupture
 
 ![Page 658](/core_radiology/images/breast/page-658.png)
 
@@ -496,7 +496,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 縮胸整形術 / Reduction Mammoplasty
+### 縮胸整形術 / Reduction Mammoplasty
 
 ![Page 659](/core_radiology/images/breast/page-659.png)
 
@@ -508,7 +508,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 男性女乳症與男性乳癌 / Gynecomastia and Male Breast Cancer
+### 男性女乳症與男性乳癌 / Gynecomastia and Male Breast Cancer
 
 ![Page 660](/core_radiology/images/breast/page-660.png)
 
@@ -520,7 +520,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 乳房介入處置概述 / Overview of Breast Interventions
+### 乳房介入處置概述 / Overview of Breast Interventions
 
 ![Page 661](/core_radiology/images/breast/page-661.png)
 
@@ -528,7 +528,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 超音波導引切片與囊腫抽吸 / Ultrasound-Guided Biopsy and Cyst Aspiration
+### 超音波導引切片與囊腫抽吸 / Ultrasound-Guided Biopsy and Cyst Aspiration
 
 ![Page 662](/core_radiology/images/breast/page-662.png)
 
@@ -536,7 +536,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 立體定位切片與真空輔助切片 / Stereotactic Biopsy and Vacuum-Assisted Biopsy
+### 立體定位切片與真空輔助切片 / Stereotactic Biopsy and Vacuum-Assisted Biopsy
 
 ![Page 663](/core_radiology/images/breast/page-663.png)
 
@@ -544,7 +544,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ---
 
-## 乳房攝影導引鋼線定位 / Mammographic-Guided Wire Localization
+### 乳房攝影導引鋼線定位 / Mammographic-Guided Wire Localization
 
 ![Page 664](/core_radiology/images/breast/page-664.png)
 
@@ -556,13 +556,13 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ![Page 665](/core_radiology/images/breast/page-665.png)
 
-### 一般參考書目 / General References
+#### 一般參考書目 / General References
 
 - de Paredes, E.S. *Atlas of Mammography* (3rd ed.). Lippincott Williams & Wilkins. (2007).
 - D'Orsi, C.J. et al. *ACR BI-RADS Breast Imaging and Reporting Data System* (4th ed.). American College of Radiology. (2003).
 - Ikeda, D.M. *Breast Imaging: The Requisites* (2nd ed.). Mosby. (2011).
 
-### 乳癌病理學 / Breast Cancer Pathology
+#### 乳癌病理學 / Breast Cancer Pathology
 
 - Allred, D.C. Ductal carcinoma in situ: terminology, classification, and natural history. *JNCI Monographs*, 2010(41), 134-8 (2010).
 - Bombonati, A. & Sgroi, D.C. The molecular pathology of breast cancer progression. *The Journal of Pathology*, 223(2), 308-18 (2011).
@@ -570,19 +570,19 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 - Sewell, C.W. Pathology of high-risk breast lesions and DCIS. *Radiologic Clinics of North America*, 42(5), 821-30 (2004).
 - Virnig, B.A. et al. Ductal carcinoma in situ: risk factors and impact of screening. *JNCI Monographs*, 2010(41), 113-6 (2010).
 
-### 乳癌篩檢 / Breast Cancer Screening
+#### 乳癌篩檢 / Breast Cancer Screening
 
 - Berg, W.A. Beyond standard mammographic screening. *Radiologic Clinics of North America*, 45(5), 895-906 (2007).
 - Feig, S. Cost-effectiveness of mammography, MRI, and ultrasonography. *Radiologic Clinics of North America*, 48(5), 879-91 (2010).
 - Tabár, L. et al. Swedish Two-County Trial: Impact of Mammographic Screening on Breast Cancer Mortality during 3 Decades. *Radiology*, 260(3), 658-63 (2011).
 - Warner, E. Breast-Cancer Screening. *New England Journal of Medicine*, 365(11), 1025-32 (2011).
 
-### 良性乳腺疾病 / Benign Breast Disease
+#### 良性乳腺疾病 / Benign Breast Disease
 
 - Cao, M. Mammographic signs of systemic disease. *Radiographics*, 31(4), 1085-100 (2011).
 - Santen, R.J. & Mansel, R. Benign breast disorders. *New England Journal of Medicine*, 275-85 (2005).
 
-### 乳房攝影技術 / Mammography
+#### 乳房攝影技術 / Mammography
 
 - Bartella, L. et al. Imaging breast cancer. *Radiologic Clinics of North America*, 45(1), 45-67 (2007).
 - Doshi, D. et al. Complex Cystic Breast Masses. *Radiographics*, 27, S53-65 (2007).
@@ -592,14 +592,14 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 
 ![Page 666](/core_radiology/images/breast/page-666.png)
 
-### 乳房超音波 / Breast Ultrasound
+#### 乳房超音波 / Breast Ultrasound
 
 - Mendelson, E.B. Problem-solving ultrasound. *Radiologic Clinics of North America*, 42(5), 909-18 (2004).
 - Raza, S. et al. BI-RADS 3, 4, and 5 Lesions: Value of US in Management. *Radiology*, 248(3), 773 (2008).
 - Stavros, A. et al. Solid breast nodules: use of sonography to distinguish between benign and malignant lesions. *Radiology*, 196, 123-34 (1995).
 - Yang, W. & Dempsey, P.J. Diagnostic breast ultrasound. *Radiologic Clinics of North America*, 45(5), 845-61 (2007).
 
-### 乳房 MRI / Breast MRI
+#### 乳房 MRI / Breast MRI
 
 - Kuhl, C.K. et al. Dynamic breast MRI imaging: are signal intensity time course data useful? *Radiology*, 211(1), 101-10 (1999).
 - Lee, C.H. Problem solving MRI imaging of the breast. *Radiologic Clinics of North America*, 42(5), 919-34 (2004).
@@ -611,7 +611,7 @@ MRI 是評估矽膠植入物破裂**敏感性及特異性最高**的方法，植
 - Thomassin-Naggara, I. Non-masslike enhancement in breast MRI. *Journal of Radiology*, 90, 269-75 (2009).
 - Weinstein, S. & Rosen, M. Breast MRI imaging. *Radiologic Clinics of North America*, 48(5), 1013-42 (2010).
 
-### 乳房介入處置 / Breast Interventions
+#### 乳房介入處置 / Breast Interventions
 
 - Bassett, L.W. et al. Interventional breast imaging. *Radiologic Clinics of North America*, 45(5), 881-94 (2007).
 - Berg, W.A. Image-guided breast biopsy and management of high-risk lesions. *Radiologic Clinics of North America*, 42(5), 935-46 (2004).
