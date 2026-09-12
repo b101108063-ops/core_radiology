@@ -12,11 +12,14 @@ weight: 6
 
 ---
 
+![Page 473](/core_radiology/images/ultrasound/page-473.png)
 
 
 
 
-# Ultrasound - Page 464
+
+
+# Ultrasound - Page 473
 
 
 
