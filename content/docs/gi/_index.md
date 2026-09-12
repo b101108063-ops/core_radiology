@@ -1,6 +1,6 @@
 ---
 title: "Gastrointestinal Imaging"
-weight: 3
+weight: 2
 ---
 ## 肝臟 / Liver
 
