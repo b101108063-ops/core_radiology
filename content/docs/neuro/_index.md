@@ -1829,7 +1829,6 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 眼眶解剖 / 眼眶解剖學（Orbital Anatomy）
 ## Orbit / 眼眶
 
 
@@ -2004,8 +2003,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
-### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization）
 ## Spine Tumors / 脊椎腫瘤
+### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization）
 ## Degenerative Spine / 退化性脊椎病變
 
 
