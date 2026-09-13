@@ -29,51 +29,17 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 | Topic | Pages |
-
-
-
 |---|---|
-
-
-
 | **Introductory Concepts** (Anatomy, Atelectasis) | 10–19 |
-
-
-
 | **Patterns of Lung Disease** (Consolidation, Ground Glass, Nodules) | 17–29 |
-
-
-
 | **Pulmonary Infection** (Community-acquired, HAP, VAP, Immunocompromised) | 30–41 |
-
-
-
 | **Pulmonary Edema & ICU Imaging** | 42–47 |
-
-
-
 | **Lung Cancer** | 48–64 |
-
-
-
 | **Diffuse Lung Disease** | 65–74 |
-
-
-
 | **Airways** | 75–82 |
-
-
-
 | **Pleura** | 83–89 |
-
-
-
 | **Pulmonary Vascular Disease** | 27–30 |
-
-
-
 | **Mediastinum** | 43–47 |
-
 
 
 
