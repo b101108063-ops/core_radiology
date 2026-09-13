@@ -867,32 +867,38 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 538 / 胎兒心跳與心跳過緩 (Fetal Heartbeat and Bradycardia)
+### Page 538 / 妊娠失敗標準 (Pregnancy Failure Criteria)
 
 ![Page 538](/core_radiology/images/ultrasound/page-538.png)
 
-Recent literature, however, suggests that definitive diagnosis of pregnancy failure based on absent heartbeat be withheld until the embryo has reached a size of 7 mm. Based on this, it may be prudent to recommend follow-up if no heartbeat is seen in an
+根據現有文獻，**確定診斷胎兒失敗（Pregnancy Failure）的標準**應為：胚胎（embryo）≥7mm且無心跳，或者已知妊娠年齡≥6.5週且無心跳（需先前有超聲建立日期或已知 IVF 移植日期）。較早研究曾以5mm為界，但最新建議為避免誤診，應等待胚胎≥7mm才可診斷胎兒失敗。若未見心跳但胚胎<7mm，建議短期隨訪而非直接診斷失敗。
 
 **重點摘要**
-- embryo under 7 mm, although the chance of a successful pregnancy in such a case is
-- Absence of a heartbeat by a gestational age of 6.5 weeks or greater is 100% diagnostic
-- of a failed pregnancy. Note that it is only possible to be certain of pregnancy dating if
-- the patient has had a previous ultrasound to establish early dating, or if the patient
-- underwent IVF with a known transfer date. The date of the last menstrual period is
+- **胎兒失敗確診標準**：胚胎>7mm且無心跳；或已知妊娠年齡≥6.5週且無心跳
+- **胚胎心跳觀察原則**：胚胎<7mm時未觀察到心跳不應直接診斷失敗，應隨訪
+- **妊娠年齡可靠確定**：僅先前有早孕超聲建立日期或已知IVF移植日期時方可確定
+- **心跳過緩預後差**：心率<90 bpm無論CRL大小均提示預後不良
 
 ---
 
-### Page 539 / 早期妊娠預後評估 (Early Pregnancy Prognosis)
+### Page 539 / 早期妊娠預後與隨訪 (Early Pregnancy Prognosis and Follow-up)
 
 ![Page 539](/core_radiology/images/ultrasound/page-539.png)
 
-Early pregnancy prognosis guarded pregnancy prognosis: follow-up ultrasound recommended mean sac diameter ≥8 mm
+根據超聲參數，**早期妊娠預後（Early Pregnancy Prognosis）**可分為以下幾類：**MSD ≥8mm且無卵黃囊**應建議隨訪複查；**已有卵黃囊但無胚胎**且MSD ≥16mm應考慮妊娠失敗。**妊娠失敗的可能超聲表現**包括：空妊娠囊（blighted ovum，即胚胎未發育的空孕囊）、胚胎心跳消失、胚胎大小與妊娠年齡不符、或其他明確畸形證據。
+
+| 超聲參數 | 臨床意義 |
+|---------|---------|
+| MSD ≥8mm 無卵黃囊 | 預後不確定，需隨訪 |
+| 有卵黃囊，無胚胎，MSD ≥16mm | 高度提示妊娠失敗 |
+| 胚胎CRL ≥7mm 無心跳 | 確診胎兒失敗 |
+| 已知妊娠年齡 ≥6.5週 無心跳 | 確診胎兒失敗 |
 
 **重點摘要**
-- with no yolk sac
-- YS but no embryo
-- mean sac diameter ≥16 mm
-- with a yolk sac but no embryo
+- **MSD ≥8mm 且無卵黃囊**：建議隨訪，複查時間通常1-2週後
+- **MSD ≥16mm 有卵黃囊但無胚胎**：提示妊娠失敗（空妊娠囊）
+- **MSD 測量意義**：CRL測量困難或無法進行時，MSD可輔助判斷妊娠狀態
+- **隨訪策略**：不確定時短期隨訪優於直接診斷，可1-2週後複查
 
 ---
 
@@ -900,51 +906,56 @@ Early pregnancy prognosis guarded pregnancy prognosis: follow-up ultrasound reco
 
 ![Page 540](/core_radiology/images/ultrasound/page-540.png)
 
-Ectopic pregnancy “rule-out ectopic” patient (newly positive pregnancy test and pain or bleeding)
+**宮外孕（Ectopic Pregnancy）**定義為妊娠著床於，子宮內膜腔以外的位置，可能危及生命的出血是主要風險。臨床懷疑宮外孕的患者（新陽性妊娠試驗且疼痛或出血）在任何影像學檢查前，**約有15%的患者確實為宮外孕**。超聲的角色是確認是否有宮內妊娠（IUP）並評估常見宮外孕位置（尤其是輸卵管）。宮外孕最常見位置為輸卵管（約95%），其中**壺腹部（Ampulla）**最常見（約70%）。**間質部/角部（Interstitial/Cornual）**宮外孕因延遲破裂風險且靠近卵巢血管而特別危險。宮內宮外孕同時存在（heterotopic pregnancy）極罕見（約1/30,000），但在接受促排卵治療的患者中風險增加。
 
 **重點摘要**
-- 15% chance of ectopic before any imaging performed
+- **宮外孕（Ectopic Pregnancy）**：妊娠在，子宮內膜腔外，輸卵管最常見（95%）
+- **壺腹部（Ampulla）**：70%宮外孕的位置，最常見著床部位
+- **間質部宮外孕（Interstitial Ectopic）**：特別危險，子宮角破裂風險高
+- **15%規則**：新陽性妊娠試驗且疼痛或出血患者，約15%確實為宮外孕
+- **異位妊娠（heterotopic pregnancy）**：宮內+宮外同時妊娠，極罕見但促排卵治療後風險增加
+- **超聲檢查目標**：確認是否有宮內妊娠，評估輸卵管區域有無異常
 
 ---
-
-### Page 541 / 宮外孕位置與類型 (Ectopic Locations and Types)
+### Page 541 / 早期妊娠與產科─異位妊娠位置 (Ectopic Pregnancy Locations)
 
 ![Page 541](/core_radiology/images/ultrasound/page-541.png)
 
-Ectopic location interstitial, including cornual
+異位妊娠（Ectopic pregnancy）指受精卵著床於宮腔以外的部位，其中輸卵管的壺腹部是最常見的著床位置，約佔整體的70-80%。除了輸卵管的常見位置之外，異位妊娠也可能發生於較罕見的位置，包括**間質部（Interstitial）**、**宮角部（Cornual）**以及**剖腹產疤痕（Cesarean section scar）**。間質部異位妊娠因其周圍的子宫肌層組織較厚，破裂發生時間往往較晚，但一旦破裂會導致大量出血，死亡率約為2-7%。宮角部妊娠（Cornual pregnancy）佔所有異位妊娠的2-4%，超聲表現為孕囊偏離中線且被薄層肌層包繞，須與宮內妊娠的偏心著床鑑別。剖腹產疤痕異位妊娠最為罕見，但隨著剖腹產率上升，其發生率也逐年增加，處理方式需高度個體化。
 
 **重點摘要**
-- Cesarean section scar (rare)
+- **輸卵管的壺腹部**：最常見的異位妊娠位置（約70-80%），超聲可見輸卵管的無回音性管狀結構
+- **間質部異位妊娠（Interstitial ectopic）**：著床於輸卵管的間質段，周圍肌層厚，破裂時間晚但危急性高
+- **宮角部妊娠（Cornual pregnancy）**：占2-4%，孕囊偏離中線，被薄層肌層包繞
+- **剖腹產疤痕異位妊娠（Cesarean scar ectopic）**：罕見但危險，著床於前次剖腹產疤痕處
 
 ---
 
-### Page 542 / 宮外孕影像學發現 (Imaging Findings of Ectopic Pregnancy)
+### Page 542 / 異位妊娠的超聲表現 (Imaging Findings of Ectopic Pregnancy)
 
 ![Page 542](/core_radiology/images/ultrasound/page-542.png)
 
-Ectopic pregnancy may also occur (rarely) in a prior Cesarean section scar, in the cervix, or in the abdomen. When in the abdomen, the ectopic pregnancy can become large before causing symptoms.
+異位妊娠的超聲診斷核心在於辨識**輸卵管的環形徵（Adnexal ring sign）**，即在卵巢外的附屬器區域可見一個以高迴聲邊界包繞的無回音性環形結構。當超聲檢查發現**正常子宫影像伴隨附屬器環形徵**，且宮腔內無妊娠證據時，對異位妊娠的陽性預測值（Positive Predictive Value, PPV）高達**95%**，是臨床上高度可信的診斷標準。除了經陰道超聲的基本掃描外，彩色都卜勒（Color Doppler）可進一步顯示環形結構周圍的滋養層血流（Trophoblastic flow），其血流阻抗指數（Resistance Index, RI）通常較低（約0.4-0.6），有助於與其他附屬器囊性病變（如卵巢囊腫或巧克力囊腫）鑑別。若臨床高度懷疑但超聲未見明確異位妊娠證據時，可配合血清β-hCG動態監測（48小時內若無倍增應懷疑）及後續影像追蹤。
 
 **重點摘要**
-- Imaging findings of ectopic pregnancy
-- Adnexal ectopic: Sagittal grayscale endovaginal ultrasound of the uterus (left image) shows a normal
-- uterus, with no evidence of intrauterine pregnancy. Ultrasound of the adnexa (right image) shows an
-- adnexal ring (yellow arrows), discrete from the normal ovary. In a patient with a suspected ectopic, the
-- presence of an adnexal ring and no intrauterine pregnancy has a 95% positive predictive value of being
+- **附屬器環形徵（Adnexal ring sign）**：異位妊娠最具特異性的超聲徵象，呈無回音性環形伴高迴聲邊界
+- **95% PPV（95% positive predictive value）**：正常子宫＋附屬器環形徵＋宮內無妊娠證據＝異位妊娠確診
+- **滋養層血流（Trophoblastic flow）**：都卜勒顯示低阻抗血流（RI約0.4-0.6），協助確認異位妊娠
+- **β-hCG動態監測**：48小時內未見倍增應高度懷疑異位妊娠，但需排除流產
 
 ---
 
-### Page 543 / 妊娠滋養層疾病 / 葡萄胎 (Gestational Trophoblastic Disease)
+### Page 543 / 早期妊娠與產科─妊娠滋養層疾病 (Gestational Trophoblastic Disease)
 
 ![Page 543](/core_radiology/images/ultrasound/page-543.png)
 
-Miscellaneous first trimester disorders Gestational trophoblastic disease (hydatidiform molar pregnancy) Gestational trophoblastic disease, also called hydatidiform molar pregnancy (or molar
+妊娠滋養層疾病（Gestational Trophoblastic Disease, GTD）又稱**葡萄胎（Molar pregnancy）**，是由於滋養層組織的異常增殖所引起的疾病，涵蓋從良性水泡狀胎塊到侵襲性妊娠滋養層腫瘤的完整疾病譜。**完全性葡萄胎（Complete mole）** 由受精過程中卵子核DNA缺失或功能喪失所致（父源染色體重複），因此不含有任何胎兒成分，典型超聲表現為子宫均勻增大伴瀰漫性多位於「葡萄串」狀小囊性結構（類似「暴風雪」徵），血清β-hCG顯著升高（常>100,000 mIU/mL）。**部分性葡萄胎（Partial mole）** 則為三套染色體（Triploid）異常，通常由雙精子受精引起，超聲可見局部異常胎塊區域，有時可見胎兒結構但多有嚴重畸形，β-hCG升高程度較輕。臨床症狀方面，葡萄胎患者常見**妊娠劇吐（Hyperemesis gravidarum）**（因β-hCG過高刺激甲狀腺）、不伴疼痛的陰道出血，以及子宫增大速度快於妊娠週期。
 
 **重點摘要**
-- pregnancy for short), is invasive neoplastic overgrowth of the trophoblast into the
-- myometrium or beyond. The trophoblast normally develops into the placenta.
-- The classic clinical presentation of molar pregnancy is hyperemesis, markedly elevated
-- hCG, and an enlarged uterus. The patient may also present with painless vaginal bleeding.
-- Complete hydatidiform mole does not contain any fetal parts. It is caused by loss of the
+- **完全性葡萄胎（Complete mole）**：無胎兒成分、父源染色體重複、瀰漫性「葡萄串」囊性結構、β-hCG極度升高（>100,000 mIU/mL）
+- **部分性葡萄胎（Partial mole）**：三套染色體異常（Triploid）、局部囊性區域、可有胎兒結構但多畸形
+- **妊娠劇吐（Hyperemesis gravidarum）**：GTD常見症狀，因β-hCG過高刺激甲狀腺所致
+- **子宫增大**：葡萄胎的子宫常大於妊娠週期預期大小，是臨床上重要的初步線索
 
 ---
 
@@ -952,56 +963,55 @@ Miscellaneous first trimester disorders Gestational trophoblastic disease (hydat
 
 ![Page 544](/core_radiology/images/ultrasound/page-544.png)
 
-Multiple gestations and placentation The placentation type (chorionicity and amnionicity) substantially affects the risk for pregnancy complications and influences how closely the pregnancy should be followed.
+多胞胎妊娠的**胎盤類型（Placentation）** 取決於**絨毛膜性（Chorionicity）** 與**羊膜性（Ammnionicity）**，這兩個因素直接決定了妊娠併發症的風險程度與追蹤頻率。**絨毛膜（Chorion）** 來自受精後第4-8天的外層細胞團，負責形成胎盤的胎兒側；**羊膜（Ammion）** 來自受精後第8-13天的內層細胞團，包繞羊膜腔。根據受精卵分裂時間的不同，單卵雙胞胎（ Monozygotic twins）可呈現任何一種胎盤組合：**一個絨毛膜＋一個羊膜（Mono/Mono）**（極罕見，約1%）、**一個絨毛膜＋兩個羊膜（Mono/Di）**（約25%）或**兩個絨毛膜＋兩個羊膜（Di/Di）**（約33%）。雙卵雙胞胎（Dizygotic twins）則由兩個獨立受精卵形成，因此一定是**Di/Di型**，且可能為不同性別。臨床上，超聲確定胎盤類型時，應優先評估兩個胎兒之間的**隔膜厚度**（Di/Di型隔膜較厚，由兩層絨毛膜＋兩層羊膜組成），以及各自是否有獨立的胎盤。
 
 **重點摘要**
-- The placentation should always be stated when first describing a multiple gestation.
-- The zygosity (number of fertilized eggs) cannot always be determined by ultrasound.
-- Monozygotic twins can have any placentation type, depending on when the
-- developing zygote splits. Dizygotic twins, however, are always diamniotic/dichorionic,
-- and only dizygotic twins can be different sexes.
+- **絨毛膜性（Chorionicity）**：由受精後第4-8天的分裂時間決定，影響胎盤數量與類型
+- **羊膜性（Ammnionicity）**：由受精後第8-13天的分裂時間決定，影響羊膜腔數量
+- **單卵雙胞胎（Monozygotic twins）**：分裂時間決定胎盤類型，約33%為Di/Di型，可出現Mono/Mono、Mono/Di或Di/Di
+- **雙卵雙胞胎（Dizygotic twins）**：一定為Di/Di型，兩個獨立受精卵，可能為不同性別
 
 ---
 
-### Page 545 / 同卵雙胞胎 (Monozygotic Twins)
+### Page 545 / 單卵雙胞胎 (Monozygotic / "Identical" Twins)
 
 ![Page 545](/core_radiology/images/ultrasound/page-545.png)
 
-Monozygotic (“identical”) twins monozygotic twins (single egg fertilized with a single sperm)
+單卵雙胞胎（Monozygotic twins）是由**單一卵子（single egg）** 與**單一精子（single sperm）** 受精後，於發育過程中受精卵分裂為兩個胚胎而形成，因此又稱為「同卵」或「identical」雙胞胎。單卵雙胞胎的基因組成完全相同，性別一定相同，外觀高度相似。單卵雙胞胎的胎盤類型取決於受精卵分裂的時間早晚，分為三種情況：若在受精後**第0-3天**（受精卵發育至桑葚胚階段前）分裂，會形成**兩個絨毛膜＋兩個羊膜（Di/Di）**，約佔所有單卵雙胞胎的**33%**；若在第4-8天（絨毛膜已形成之後）分裂，則形成**一個絨毛膜＋兩個羊膜（Mono/Di）**，約佔75%，此類型因共享胎盤而有較高的雙胞胎輸血症候群（TTTS）風險；若在第8-13天之後分裂，則形成**一個絨毛膜＋一個羊膜（Mono/Mono）**，最為罕見但雙胞胎輸血症候群（TTTS）及選擇性胎兒生長受限（sFGR）風險最高。
 
 **重點摘要**
-- (dual placentas,
-- (33% of all monozygotic twins)
+- **單卵雙胞胎（Monozygotic twins）**：單一卵子＋單一精子，基因完全相同，性別一致
+- **33% Di/Di型**：單卵雙胞胎在第0-3天分裂者形成兩個絨毛膜＋兩個羊膜，約佔三分之一
+- **Mono/Di型（約75%）**：第4-8天分裂，共享胎盤，TTTS（雙胞胎輸血症候群）風險增加
+- **Mono/Mono型（極罕見）**：第8-13天分裂，共享胎盤與羊膜囊，各種併發症風險最高
 
 ---
 
-### Page 546 / 雙卵雙胞胎 (Dizygotic Twins) / Di-Di 雙胞胎
+### Page 546 / 雙絨毛膜─雙羊膜雙胞胎 (Di/Di Dichorionic-Diamniotic Twins)
 
 ![Page 546](/core_radiology/images/ultrasound/page-546.png)
 
-Di/di (dichorionic/diamniotic) twins Di/di twins each have a separate placenta and amniotic sac. On ultrasound, two placentas can usually be separately identified.
+Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁有獨立胎盤（Dichorionic）與獨立羊膜腔（Diamniotic）的雙胞胎類型。這是所有雙胞胎類型中最常見的一種，也是妊娠併發症風險相對最低的類型。超聲檢查時，Di/Di雙胞胎可見**兩個可區分的獨立胎盤**（若兩個胎盤著床於子宫的不同位置），且胎兒之間的**隔膜（Inter-twin membrane）** 由**兩層絨毛膜＋兩層羊膜**組成，因此厚度較其他類型（尤其是Mono/Di型）相對較厚，這是超聲區分Di/Di與Mono/Di的重要依據。在妊娠早期與中期，隔膜厚度的判斷較為可靠；但隨著妊娠進展至中晚期，羊膜會變薄，使得隔膜厚度變得不那麼可靠來作為判斷絨毛膜性的依據，應優先採用胎盤數目與性別進行判斷。若為同性別雙胞胎且超聲可見兩個明確獨立的胎盤，則高度支持Di/Di的診斷。
 
 **重點摘要**
-- The inter-twin membrane will be relatively thick as there are two layers of chorion and
-- two layers of amnion separating each twin.
-- In the second and third trimesters, the thickness of the inter-twin membrane is
-- less reliable to determine chorionicity because the membrane becomes thinner as
-- gestation progresses.
+- **Dichorionic/Diamniotic（Di/Di）**：兩個獨立胎盤＋兩個獨立羊膜腔，併發症風險最低
+- **隔膜厚度（Inter-twin membrane thickness）**：Di/Di型因兩層絨毛膜＋兩層羊膜，隔膜較厚
+- **兩層絨毛膜＋兩層羊膜**：與Mono/Di型（僅兩層羊膜）相比，厚度差異是超聲鑑別要點
+- **隔膜厚度侷限性**：中晚期時羊膜變薄，隔膜厚度作為絨毛膜性判斷依據的可靠性下降
 
 ---
 
-### Page 547 / 無心畸胎 / TRAP 序列 (Acardiac Twins / TRAP Sequence)
+### Page 547 / 無心畸胎序列症（TRAP） (Acardiac Twins / TRAP Sequence)
 
 ![Page 547](/core_radiology/images/ultrasound/page-547.png)
 
-Acardiac twins Acardiac twinning, also called twin reversed arterial perfusion (TRAP) sequence, is a severe variant of twin–twin perfusion syndrome. Similar to TTTS, acardiac twinning is
+無心畸胎序列症（Acardiac twinning），又稱為**雙胞胎反向動脈灌注序列症（Twin Reversed Arterial Perfusion Sequence, TRAP）**，是單絨毛膜（Monochorionic）雙胞胎妊娠中一種嚴重的血管並發症，屬於雙胞胎─雙胞胎灌注症候群（Twin-Twin Perfusion Syndrome）譜系中的最嚴重形式。在TRAP序列症中，正常發育的「供血胎兒（Donor twin）」通過胎盤內的**動靜脈瘻管（Arteriovenous fistula）** 連接，不僅為自身供血，還同時為一個無心或嚴重發育不全的「受血胎兒（Acardiac twin）」供血。這種異常灌注導致無心畸胎的**上胸腔以上結構發育缺失或原始**（如缺乏心臟、無腦畸形等），而血流則呈現特徵性的**反向灌注（Reversed arterial perfusion）** 模式。都卜勒超聲顯示無心畸胎的臍动脉呈現反向血流（由頭側流向尾側，而非正常的由尾側流向胎盤），這是確診TRAP序列症的核心超聲發現。TRAP序列症若不及時干預，供血胎兒因承担雙倍心輸出量而极易出现心衰竭，預後不良。
 
 **重點摘要**
-- a complication of monochorionic twins (either mono- or di-amniotic).
-- In acardiac twins, the donor fetus supplies circulation to itself and an acardiac twin,
-- enabled by placental fistulous connections. The acardiac twin has rudimentary or no
-- development of structures above the thorax.
-- Doppler of the umbilical arteries and vein shows reversed flow in the acardiac twin.
+- **TRAP序列症（ Twin Reversed Arterial Perfusion Sequence）**：單絨毛膜雙胞胎的嚴重血管併發症
+- **供血胎兒（Donor twin）**：為自身及無心畸胎雙倍供血，心衰竭風險極高
+- **無心畸胎（Acardiac twin）**：上胸腔以上結構發育缺失或原始（如無心、無腦），被動接受反向灌注
+- **反向灌注（Reversed arterial perfusion）**：臍动脉血流反向，都卜勒確診TRAP的核心發現
 
 ---
 
@@ -1009,45 +1019,41 @@ Acardiac twins Acardiac twinning, also called twin reversed arterial perfusion (
 
 ![Page 548](/core_radiology/images/ultrasound/page-548.png)
 
-Evaluation of the first trimester embryo The first trimester embryo is too small for a complete fetal survey; however, a few key anatomic structures can be identified and evaluated.
+第一孕期（妊娠6-12週）的胚胎超聲評估因胚胎體積微小，無法進行完整結構掃描，但可針對少數關鍵解剖構造進行評估。**頭臀長（Crown-Rump Length, CRL）** 是6-12週孕期估算的首選測量參數，因為此時期胚胎無法進行頸部的屈伸活動，測量姿勢變異最小，CRL測量誤差約為正負3-5天，是臨床上最準確的孕期估算方法。超聲下可見胚胎的兩個重要原始腦部結構：**前腦（Prosencephalon）** 為未來發育成大腦半球與間腦的原始前側腦泡，在超聲冠狀切面上呈現為一個無回音性結構；**菱腦（Rhombencephalon）** 為後腦的原始結構，未來發育成小腦與腦橋，在超聲矢狀或軸狀切面上可見。後續（第10-12週之後），菱腦會向尾側移動至頸部位置，超聲追蹤此結構的位置變化有助於確認胚胎發育正常。
 
 **重點摘要**
-- Crown–rump length (CRL)
-- The crown–rump length (CRL) is used to assign gestational age from 6–12 weeks.
-- Measuring the CRL is straightforward in the first trimester as the fetus cannot flex or
-- extend the neck.
-- Prosencephalon and rhombencephalon
+- **頭臀長（Crown-Rump Length, CRL）**：6-12週孕期估算首選參數，誤差僅正負3-5天
+- **前腦（Prosencephalon）**：原始前側腦泡，發育為大腦半球與間腦，超聲冠狀切面可見無回音性結構
+- **菱腦（Rhombencephalon）**：原始後腦結構，發育為小腦與腦橋，矢狀或軸狀切面可見
+- **第一孕期侷限性**：胚胎過小無法完整結構掃描，僅能評估CRL與主要原始解剖構造
 
 ---
 
-### Page 549 / 第二/第三孕期測量與 BPD (Second/Third Trimester Measurements)
+### Page 549 / 第二、三孕期胎頭測量 (Second and Third Trimester Head Measurements)
 
 ![Page 549](/core_radiology/images/ultrasound/page-549.png)
 
-Second and third trimesters Second and third trimester measurements Head measurements
+第二孕期與第三孕期的胎兒頭部測量是多項胎兒生長與發育評估的核心內容，其中**雙頂徑（Biparietal Diameter, BPD）** 是最常使用的測量參數之一。BPD的標準測量方式為從**靠近探頭側的顱骨外緣（Outer edge）** 到**遠離探頭側的顱骨內緣（Inner edge）** 的測量，簡稱為**外─內（Outer-to-Inner, OO）** 法或「從外到內」法。此測量方法與胎頭的形狀（無論是圓形還是橢圓形）無關，且能準確反映大腦發育空間的實際大小。測量BPD時，應選擇在丘腦（Thalamus）水平的中軸切面，並確保顯示透明隔腔（Cavum septum pellucidum, CSP）與丘腦結構。值得注意的是，BPD與頭圍（Head Circumference, HC）在生長評估中各有價值：當胎頭形狀異常（例如因頭顱骨的軟骨發育不良導致）時，頭圍較BPD更為可靠。
 
 **重點摘要**
-- The biparietal diameter (BPD) is
-- measured from the outer edge of
-- the skull closest to the transducer
-- to the inner edge of the skull
-- farthest from the transducer.
+- **雙頂徑（Biparietal Diameter, BPD）**：第二、三孕期胎兒頭部測量最常用參數
+- **外─內測量法（Outer-to-Inner, OO）**：從靠近探頭側顱骨外緣到遠側顱骨內緣
+- **測量平面**：丘腦（Thalamus）水平中軸切面，應顯示透明隔腔（CSP）與丘腦結構
+- **頭圍（Head Circumference, HC）**：當胎頭形狀異常時，HC較BPD更可靠
 
 ---
 
-### Page 550 / 羊水指數 (Amniotic Fluid Index)
+### Page 550 / 羊水指數（AFI） (Amniotic Fluid Index)
 
 ![Page 550](/core_radiology/images/ultrasound/page-550.png)
 
-Amniotic fluid index (AFI) To quantify the amniotic fluid index (AFI) between 16 and 42 weeks, the largest vertical pocket of fluid is measured (in cm) in each of the four quadrants and summed. AFI varies
+羊水指數（Amniotic Fluid Index, AFI）是臨床上量化羊水量的標準超聲測量方法，適用於妊娠16至42週。測量方式是將子宫劃分為**四個象限（Four quadrants）**，在每個象限中分別找出**最大垂直液性暗區（ Largest vertical pocket）** 並測量其深度（以公分為單位），然後將四個象限的測量值相加，總和即為AFI。AFI的正常值與診斷閾值隨妊娠週數變化，**羊水過少（Oligohydramnios）** 的超聲診斷標準為AFI≤6.3cm（約為第2.5百分位），24週時第2.5百分位為9.0cm；**羊水過多（Polyhydramnios）** 的標準為AFI≥19.2cm（約為第97.5百分位），36週時第97.5百分位為27.9cm。需要特別注意的是，AFI作為單一指標存在一定局限性，在臨界值附近時應**結合主觀評估（Subjective assessment）** 進行整體判斷；若臨床表現與AFI數值不一致，應以主觀超聲評估為優先。
 
 **重點摘要**
-- with gestational age. In borderline cases, the subjective assessment should take precedent.
-- Some references state that an AFI between 7 and 25 is normal, but these cutoffs vary.
-- Oligohydramnios: AFI ≤6.3 cm is ≤2.5th percentile. Peaks at 24 weeks: 9.0 cm = 2.5th percentile.
-- Polyhydramnios: AFI ≥19.2 cm is ≥97.5th percentile. Peaks at 36 weeks: 27.9 cm = 97.5th
-
----
+- **羊水指數（Amniotic Fluid Index, AFI）**：四個象限最大垂直液性暗區之和，適用於16-42週
+- **羊水過少（Oligohydramnios）**：AFI ≤6.3cm（約第2.5百分位），24週時第2.5百分位為9.0cm
+- **羊水過多（Polyhydramnios）**：AFI ≥19.2cm（約第97.5百分位），36週時第97.5百分位為27.9cm
+- **主觀評估優先（Subjective assessment takes precedence）**：臨界值或臨床不符時，應優先採用主觀超聲評估
 
 ### Page 551 / 胎盤胚胎學與單一臍动脉 (Placental Embryology and Single Umbilical Artery)
 
