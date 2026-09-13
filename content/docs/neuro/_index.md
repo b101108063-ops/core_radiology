@@ -2003,8 +2003,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ---
 
 ## Spine Tumors / 脊椎腫瘤
+
 ### 脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization） (Page 343)
-## Degenerative Spine / 退化性脊椎病變
 
 
 ![Page 343](/core_radiology/images/neuro/page-343.png)
@@ -2016,7 +2016,7 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 - **Intradural-extramedullary（髓外膜內）**：神經鞘瘤、腦膜瘤
 - **Extradural（硬膜外）**：椎間盤突出、轉移、脊椎原發腫瘤
 
----
+
 
 ### 髓內病竈 / 髓內病竈（Intramedullary Lesions） (Page 353)
 
@@ -2082,6 +2082,9 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 - **Arachnoiditis（蛛網膜炎）**：腰椎手術為今日最常見原因，三種影像模式
 
 ---
+
+
+## Degenerative Spine / 退化性脊椎病變
 
 ### 硬膜外病竈 / 硬膜外病竈（Extradural Lesions） (Page 358)
 
