@@ -1,3 +1,21 @@
+### Page 473 / 超聲波簡介與膽囊膽管總覽 (Ultrasound Introduction and Gallbladder Overview)
+
+![Page 473](/core_radiology/images/ultrasound/page-473.png)
+
+超聲波（Ultrasound）是膽囊、膽管、肝臟、胰臟、腎臟及脾臟等腹部器官的**首選一線影像檢查**，因其無創、無輻射、可移動及時操作而廣泛應用於臨床。超聲波探頭（Transducer）以高頻聲波反射成像，常用頻率為2-5 MHz，頻率越高解析度越佳但穿透力越弱。超聲波檢查可能受到多種偽影（Artifacts）影響，包括**後方聲影（Posterior Acoustic Shadowing）**——高迴聲結構（如結石）阻擋聲波穿透造成暗區；**後方聲增強（Posterior Acoustic Enhancement）**——低衰減結構（如囊腫）後方出現明亮增強；以及**混響偽影（Reverberation Artifact）**等。
+
+本超聲波章節依器官系統分為多個章節：膽囊與膽管（464-472頁）、肝臟與肝靜脈都卜勒（471-483頁）、胰臟（483-485頁）、脾臟（485頁）、腎臟（486-498頁）、陰囊與睪丸（499-503頁）、血管超聲（504-511頁）、甲狀腺與副甲狀腺（508-509/513/515頁）以及婦科（510-530頁）。膽囊超聲檢查時，患者空腹可減少膽囊收縮並使膽囊壁更易觀察；膽囊正常壁厚<3mm，膽總管直徑正常<=6mm（60歲前）或按年齡遞增。
+
+**重點摘要**
+
+- **超聲波特性**：無創、無輻射、可移動，為腹部器官首選篩檢工具
+- **後方聲影（Acoustic Shadowing）**：高迴聲結構（結石、鈣化）阻擋聲波
+- **後方聲增強（Acoustic Enhancement）**：低衰減結構（囊腫）後方信號增強
+- **膽囊正常壁厚**：<3mm；膽總管：60歲前<=6mm
+- **空腹準備**：檢查前空腹6-8小時，避免膽囊收縮影響觀察
+
+---
+
 ### Page 474 / 膽囊與膽管 (Gallbladder and Bile Ducts)
 
 ![Page 474](/core_radiology/images/ultrasound/page-474.png)
@@ -743,108 +761,113 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **間質部宮外孕**：特別危險，子宮角破裂風險高
 - **15%**：新陽性妊娠試驗且疼痛或出血患者確實為宮外孕
 
-### Page 531 / Early Pregnancy and Obstetrics (IMG 531 / Book 522)
+### Page 531 / 婦科疾病：其他 uterine 疾病、子宮內膜液體與感染 (Miscellaneous Uterine Disease, Endometrial Fluid, and Uterine Infections)
 
 ![Page 531](/core_radiology/images/ultrasound/page-531.png)
 
-Miscellaneous uterine disease Endometrial fluid It is never normal to have more than a tiny amount of fluid in the endometrial canal.
+**Other Uterine Diseases（其他 uterine 疾病）** include endometrial fluid accumulation and uterine infections. It is never normal to have more than a tiny amount of fluid in the endometrial canal. In premenopausal women, endometrial fluid may result from menstrual bleeding or spontaneous abortion. In postmenopausal women, endometrial fluid is often due to cervical stenosis, and careful evaluation for cervical malignancy should be performed. **Uterine infections（子宫感染）** such as endometritis can complicate pregnancy or be associated with instrumentation, presenting with altered endometrial echogenicity.
 
 **重點摘要**
-- In a premenopausal woman, endometrial fluid can be due to bleeding from menses or
-- spontaneous abortion.
-- In a postmenopausal woman, endometrial fluid can be due to cervical stenosis, and a
-- careful evaluation for cervical malignancy should be performed.
-- Uterine infections
+- **Endometrial fluid（子宫内膜液）**: Never normal except trace amounts; premenopausal cause includes menses or spontaneous abortion; postmenopausal cause suggests cervical stenosis with risk of malignancy
+- **Cervical stenosis（子宫颈狭窄）**: Common cause of postmenopausal endometrial fluid; requires malignancy workup
+- **Endometritis（子宫内膜炎）**: Infection of the endometrium; associated with pregnancy, abortion, or instrumentation; shows altered endometrial echogenicity
+- **Pyometra（子宫积脓）**: Purulent fluid collection in the uterus; associated with cervical cancer, stenosis, or post-surgical changes
 
 ---
 
-### Page 532 / Early Pregnancy and Obstetrics (IMG 532 / Book 523)
+### Page 532 / 卵巢與附屬器官：解剖學與生理學 (Ovaries and Adnexa: Anatomy and Physiology)
 
 ![Page 532](/core_radiology/images/ultrasound/page-532.png)
 
-Ovaries and adnexa Anatomy and physiology four segments of the fallopian tube
+**Ovaries and Adnexa（卵巢與附属器官）** The fallopian tube has four segments from lateral to medial: the **infundibulum（含纖毛的漏斗部）** with its fimbriated end adjacent to the ovary, the **ampulla（壺腹部）** which is the most common site of fertilization, the **isthmus（峽部）** which is the narrow mid-segment, and the **interstitial/intramural segment（間質部/壁內段）** which passes through the uterine wall. The ovaries have a **dual blood supply（雙重血液供應）** from the ovarian artery (branch of the aorta) and the uterine artery (branch of the internal iliac), with venous drainage following the ovarian vein to the IVC (right) and left renal vein (left). Ovarian physiology includes follicular development, ovulation (typically day 14 of a 28-day cycle), and corpus luteum formation.
 
 **重點摘要**
-- dual blood supply of the ovaries
-- interstitial/intramural
+- **Infundibulum（含纖毛漏斗部）**: Most lateral segment; fimbriated end captures ovulated oocyte; adjacent to ovary
+- **Ampulla（壺腹部）**: Widest segment; most common fertilization site (~70% of ectopic pregnancies originate here)
+- **Isthmus（峽部）**: Narrow mid-segment with thick muscular wall; common site of tubal ligation
+- **Interstitial/intramural segment（間質部/壁內段）**: Passes through uterine cornua; dangerous location for ectopic pregnancy (high rupture risk)
+- **Dual blood supply（雙重血供）**: Ovarian artery + uterine artery anastomosis; venous drainage: right to IVC, left to left renal vein
 
 ---
 
-### Page 533 / Early Pregnancy and Obstetrics (IMG 533 / Book 524)
+### Page 533 / 卵巢囊腫：生理性囊腫與 SRU 共識 (Ovarian Cysts: Physiologic Cysts and SRU Consensus)
 
 ![Page 533](/core_radiology/images/ultrasound/page-533.png)
 
-Ovarian cysts Physiologic simple cyst (in a premenopausal patient) SRU consensus
+**Ovarian Cysts（卵巢囊腫）** are common findings in both premenopausal and postmenopausal women. The **Society of Radiologists in Ultrasound (SRU) consensus（超聲波放射學會共識）** provides standardized criteria for differentiating benign from suspicious cysts. A **simple ovarian cyst（單純性卵巢囊腫）** is defined as a round or oval anechoic structure with smooth, imperceptibly thin walls, posterior acoustic enhancement, and lacking worrisome features such as solid components, septations, or internal flow on color Doppler. A simple cyst in a premenopausal patient is typically a **physiologic follicle（生理性濾泡）** that enlarges under estrogen stimulation and usually resolves spontaneously within 8-12 weeks. Postmenopausal simple cysts require follow-up as they carry a small risk of malignancy, though most are benign.
 
 **重點摘要**
-- A simple ovarian cyst is a round or oval anechoic structure with smooth and
-- imperceptibly thin walls, posterior acoustic enhancement, and lack of worrisome
-- features such as solid components, septations, or internal flow on color Doppler.
-- A simple ovarian cyst is a follicle that physiologically enlarges from estrogen
+- **Simple cyst definition（單純性囊腫定義）**: Round/oval, anechoic, thin smooth walls, posterior enhancement, no internal flow or solid components
+- **SRU consensus（SRU共識）**: Simple cysts <10 cm in premenopausal women can be followed conservatively; >10 cm or suspicious features warrant further evaluation
+- **Physiologic follicle（生理性濾泡）**: Normal follicular cyst from estrogen stimulation; usually <3 cm; resolves spontaneously
+- **Corpus luteum cyst（黃體囊腫）**: Post-ovulatory cyst with thicker wall; may show peripheral flow on Doppler; resolves by 8-12 weeks
+- **Postmenopausal cysts（停經後囊腫）**: Require follow-up; higher malignancy risk than premenopausal cysts
 
 ---
 
-### Page 534 / Early Pregnancy and Obstetrics (IMG 534 / Book 525)
+### Page 534 / 囊腫出血與卵巢過度刺激症候群 (Hemorrhagic Cyst and Ovarian Hyperstimulation Syndrome)
 
 ![Page 534](/core_radiology/images/ultrasound/page-534.png)
 
-An acutely hemorrhagic cyst may be hyperechoic and potentially mimic a solid mass, but will usually show posterior enhancement. As the clot dissolves, the internal echo pattern becomes more complex to produce characteristic web-like internal echoes. Retractile mural clot features
+**Hemorrhagic Ovarian Cyst（出血性卵巢囊腫）** An acutely hemorrhagic cyst may appear hyperechoic and mimic a solid mass, but will usually demonstrate posterior acoustic enhancement. As the clot dissolves over days to weeks, the internal echo pattern becomes more complex, producing characteristic **web-like internal echoes（網狀內部回聲）** from fibrin strands. Key differentiating feature of a **retractile mural clot（可退縮性壁層血塊）**: concave margins and absent Doppler flow. In contrast, a **solid mural nodule（實質性壁層結節）** shows convex margins and internal vascular flow on color Doppler.
+
+**Ovarian Hyperstimulation Syndrome（卵巢過度刺激症候群，OHSS）** is an iatrogenic complication of controlled ovarian stimulation for IVF. It presents with massively enlarged ovaries with multiple cysts, ascites, and sometimes pleural effusions. Ultrasound shows bilateral enlarged ovaries with numerous small follicles, and clinical severity ranges from mild (grade 1-2) with mild abdominal distension to severe (grade 3-5) with clinical fluid shifts, hemoconcentration, and risk of thrombosis.
 
 **重點摘要**
-- concave margins and absent Doppler flow. in contrast, a solid mural nodule features a convex
-- margin and internal flow.
-- Ovarian hyperstimulation syndrome (OHSS)
-- Ovarian hyperstimulation syndrome: Sagittal grayscale ultrasound of the right upper quadrant (left
-- image) shows a large amount of ascites. Right lower quadrant ultrasound (right image) shows a
+- **Hemorrhagic cyst（出血性囊腫）**: Acute phase hyperechoic mimicking solid mass; classic web-like echoes as clot lyses
+- **Retractile mural clot（可退縮性壁層血塊）**: Concave margins + no internal Doppler flow = benign; contrast with solid nodule (convex + internal flow)
+- **OHSS（卵巢過度刺激症候群）**: Complication of IVF ovarian stimulation; bilateral enlarged ovaries with multiple cysts + ascites
+- **OHSS grading（OHSS分級）**: Mild (grade 1-2), moderate (grade 2-3), severe (grade 3-5) with clinical complications
+- **Complications of OHSS（OHSS併發症）**: Third-spacing of fluids, hemoconcentration, thrombosis, renal impairment
 
 ---
 
-### Page 535 / Early Pregnancy and Obstetrics (IMG 535 / Book 526)
+### Page 535 / 腹膜包涵囊腫 (Peritoneal Inclusion Cyst)
 
 ![Page 535](/core_radiology/images/ultrasound/page-535.png)
 
-Peritoneal inclusion cyst A peritoneal inclusion cyst is a septated fluid collection formed by adhesions from prior surgery. The ovary is always closely associated with the peritoneal inclusion cyst,
+**Peritoneal Inclusion Cyst（腹膜包涵囊腫）** A peritoneal inclusion cyst is a septated fluid collection formed by adhesions from prior surgery or inflammation. The **ovary is always closely associated（卵巢始終密切相關）** with the peritoneal inclusion cyst, either trapped within or adjacent to it. This is a benign condition and it is important NOT to recommend surgery for treatment, as further surgery may create additional adhesions and worsen the condition. The main differential diagnosis is a **cystadenoma（囊腺瘤）**, which has thick septations and tends to exert mass effect on surrounding structures. Peritoneal inclusion cysts follow the shape of the peritoneal cavity and lack the mural nodules or solid components seen in neoplastic lesions.
 
 **重點摘要**
-- either trapped within or adjacent to it.
-- It is important not to recommend surgery for treatment of a peritoneal inclusion cyst,
-- as further surgery may create additional adhesions.
-- The main differential of a peritoneal inclusion cyst is a cystadenoma, which has thick
-- septations and tends to exert mass effect.
+- **Peritoneal inclusion cyst（腹膜包涵囊腫）**: Benign fluid collection from adhesions; ovary trapped within or adjacent
+- **Key imaging clue（關鍵影像線索）**: Ovary always associated with the cyst; cyst follows peritoneal contour
+- **Conservative management（保守治療）**: No surgery recommended; further adhesions from surgery worsen condition
+- **Differential: cystadenoma（鑑別診斷：囊腺瘤）**: Thick septations + mass effect suggests neoplastic cyst (serous or mucinous cystadenoma)
+- **Follow-up（追蹤）**: Monitor for size changes; sudden growth warrants re-evaluation
 
 ---
 
-### Page 536 / Early Pregnancy and Obstetrics (IMG 536 / Book 527)
+### Page 536 / 卵巢腫瘤：皮樣囊腫（成熟畸胎瘤）[Ovarian Neoplasm: Dermoid Cyst (Mature Cystic Teratoma)]
 
 ![Page 536](/core_radiology/images/ultrasound/page-536.png)
 
-Ovarian neoplasm Dermoid cyst Dermoid cyst: Grayscale ultrasound image of the right ovary (left image) shows a complex ovarian cyst
+**Dermoid Cyst / Mature Cystic Teratoma（皮樣囊腫/成熟囊性畸胎瘤）** is the most common ovarian neoplasm, typically occurring in young women of reproductive age. Ultrasound shows a complex cystic mass with a **densely echogenic, shadowing focus centrally** representing the **Rokitansky nodule（洛基塔斯基結節）**, also called the dermoid plug or Rokitansky protuberance. This is a dermoid cyst's hallmark finding and consists of sebaceous material, hair, and sometimes teeth or cartilage. Color Doppler characteristically shows the **dot-dash sign（點線 sign）** - scattered punctate and linear flow artifacts in the echogenic component with minimal internal vascularity. The shadowing and lack of significant internal Doppler flow helps differentiate dermoid cysts from solid neoplasms.
 
 **重點摘要**
-- with a densely echogenic, shadowing focus centrally representing the Rokitansky nodule (arrow). Color
-- Doppler shows the dot-dash sign, echogenic shadowing, and no significant internal Doppler flow.
-- Dermoid cyst, also called a mature cystic teratoma, is the most common ovarian neoplasm.
-- Technically, a teratoma contains all three primitive germ cell layers, while a dermoid cyst
-- may contain only two. In general use, however, these terms are interchangeable.
+- **Dermoid cyst（皮樣囊腫）**: Most common ovarian neoplasm; peak incidence in reproductive age women
+- **Rokitansky nodule（洛基塔斯基結節）**: Central echogenic focus with shadowing = pathognomonic finding; contains sebaceous material/hair
+- **Dot-dash sign（點線 sign）**: Scattered flow on color Doppler with minimal internal vascularity; characteristic of dermoid
+- **Mature cystic teratoma（成熟囊性畸胎瘤）**: Contains ectodermal (skin, hair, sebaceous glands) and sometimes mesodermal elements
+- **Complications（併發症）**: Torsion (most common acute presentation), rupture (chemical peritonitis), malignant transformation (rare, <2%)
 
 ---
 
-### Page 537 / Early Pregnancy and Obstetrics (IMG 537 / Book 528)
+### Page 537 / 第一孕期超聲：妊娠囊與早期徵象 (First Trimester: Gestational Sac and Early Signs)
 
 ![Page 537](/core_radiology/images/ultrasound/page-537.png)
 
-First trimester pregnancy Imaging of the early pregnancy Gestational sac
+**First Trimester Pregnancy Imaging（第一孕期超聲成像）** The **gestational sac（妊娠囊）** is the earliest imaging finding in early pregnancy, visible by transvaginal ultrasound as early as 4-5 weeks. Two important early signs aid in detecting very early pregnancy: the **intradecidual sign（蛻膜內徵象）** and the **double decidual sac sign（雙蛻膜徵象）**. The intradecidual sign represents the gestational sac within the thickened decidua, seen at less than or equal to 5 weeks, appearing as an eccentric anechoic structure surrounded by the echogenic decidua. The double decidual sac sign represents two echogenic rings encircling the gestational sac - the inner decidua capsularis and the outer decidua vera, with the gestational sac between them; this sign confirms an intrauterine pregnancy and helps differentiate from a pseudogestational sac of ectopic pregnancy.
 
 **重點摘要**
-- The gestational sac is the earliest imaging finding in early pregnancy.
-- The intradecidual sign and the double decidual sac sign are two findings that may aid
-- in the detection of very early pregnancy.
-- The intradecidual sign represents the gestational sac within the thickened decidua, seen at ≤5 weeks.
-- The double decidual sac sign represents two echogenic rings encircling the gestational sac. It is
+- **Gestational sac（妊娠囊）**: Earliest imaging finding of pregnancy; visible by TVS at 4-5 weeks; should be ≥2 mm mean diameter
+- **Intradecidual sign（蛻膜內徵象）**: Eccentric anechoic structure within thickened decidua; seen at ≤5 weeks
+- **Double decidual sac sign（雙蛻膜徵象）**: Two echogenic rings (decidua capsularis + vera) around gestational sac; confirms IUP vs pseudogestational sac
+- **Pseudogestational sac（假妊娠囊）**: Ectopic pregnancy can produce fluid collection in uterine cavity; lacks double decidual sac sign
+- **Yolk sac（卵黃囊）**: First structure visible within gestational sac at ~5.5 weeks; confirms IUP and embryonal development
 
 ---
 
-### Page 538 / Early Pregnancy and Obstetrics (IMG 538 / Book 529)
+### Page 538 / 胎兒心跳與心跳過緩 (Fetal Heartbeat and Bradycardia)
 
 ![Page 538](/core_radiology/images/ultrasound/page-538.png)
 
@@ -859,7 +882,7 @@ Recent literature, however, suggests that definitive diagnosis of pregnancy fail
 
 ---
 
-### Page 539 / Early Pregnancy and Obstetrics (IMG 539 / Book 530)
+### Page 539 / 早期妊娠預後評估 (Early Pregnancy Prognosis)
 
 ![Page 539](/core_radiology/images/ultrasound/page-539.png)
 
@@ -873,7 +896,7 @@ Early pregnancy prognosis guarded pregnancy prognosis: follow-up ultrasound reco
 
 ---
 
-### Page 540 / Early Pregnancy and Obstetrics (IMG 540 / Book 531)
+### Page 540 / 宮外孕概述 (Ectopic Pregnancy Overview)
 
 ![Page 540](/core_radiology/images/ultrasound/page-540.png)
 
@@ -884,7 +907,7 @@ Ectopic pregnancy “rule-out ectopic” patient (newly positive pregnancy test 
 
 ---
 
-### Page 541 / Early Pregnancy and Obstetrics (IMG 541 / Book 532)
+### Page 541 / 宮外孕位置與類型 (Ectopic Locations and Types)
 
 ![Page 541](/core_radiology/images/ultrasound/page-541.png)
 
@@ -895,7 +918,7 @@ Ectopic location interstitial, including cornual
 
 ---
 
-### Page 542 / Early Pregnancy and Obstetrics (IMG 542 / Book 533)
+### Page 542 / 宮外孕影像學發現 (Imaging Findings of Ectopic Pregnancy)
 
 ![Page 542](/core_radiology/images/ultrasound/page-542.png)
 
@@ -910,7 +933,7 @@ Ectopic pregnancy may also occur (rarely) in a prior Cesarean section scar, in t
 
 ---
 
-### Page 543 / Early Pregnancy and Obstetrics (IMG 543 / Book 534)
+### Page 543 / 妊娠滋養層疾病 / 葡萄胎 (Gestational Trophoblastic Disease)
 
 ![Page 543](/core_radiology/images/ultrasound/page-543.png)
 
@@ -925,7 +948,7 @@ Miscellaneous first trimester disorders Gestational trophoblastic disease (hydat
 
 ---
 
-### Page 544 / Early Pregnancy and Obstetrics (IMG 544 / Book 535)
+### Page 544 / 多胞胎與胎盤類型 (Multiple Gestations and Placentation)
 
 ![Page 544](/core_radiology/images/ultrasound/page-544.png)
 
@@ -940,7 +963,7 @@ Multiple gestations and placentation The placentation type (chorionicity and amn
 
 ---
 
-### Page 545 / Early Pregnancy and Obstetrics (IMG 545 / Book 536)
+### Page 545 / 同卵雙胞胎 (Monozygotic Twins)
 
 ![Page 545](/core_radiology/images/ultrasound/page-545.png)
 
@@ -952,7 +975,7 @@ Monozygotic (“identical”) twins monozygotic twins (single egg fertilized wit
 
 ---
 
-### Page 546 / Early Pregnancy and Obstetrics (IMG 546 / Book 537)
+### Page 546 / 雙卵雙胞胎 (Dizygotic Twins) / Di-Di 雙胞胎
 
 ![Page 546](/core_radiology/images/ultrasound/page-546.png)
 
@@ -967,7 +990,7 @@ Di/di (dichorionic/diamniotic) twins Di/di twins each have a separate placenta a
 
 ---
 
-### Page 547 / Early Pregnancy and Obstetrics (IMG 547 / Book 538)
+### Page 547 / 無心畸胎 / TRAP 序列 (Acardiac Twins / TRAP Sequence)
 
 ![Page 547](/core_radiology/images/ultrasound/page-547.png)
 
@@ -982,7 +1005,7 @@ Acardiac twins Acardiac twinning, also called twin reversed arterial perfusion (
 
 ---
 
-### Page 548 / Early Pregnancy and Obstetrics (IMG 548 / Book 539)
+### Page 548 / 第一孕期胚胎評估 (First Trimester Embryo Evaluation)
 
 ![Page 548](/core_radiology/images/ultrasound/page-548.png)
 
@@ -997,7 +1020,7 @@ Evaluation of the first trimester embryo The first trimester embryo is too small
 
 ---
 
-### Page 549 / Early Pregnancy and Obstetrics (IMG 549 / Book 540)
+### Page 549 / 第二/第三孕期測量與 BPD (Second/Third Trimester Measurements)
 
 ![Page 549](/core_radiology/images/ultrasound/page-549.png)
 
@@ -1012,7 +1035,7 @@ Second and third trimesters Second and third trimester measurements Head measure
 
 ---
 
-### Page 550 / Early Pregnancy and Obstetrics (IMG 550 / Book 541)
+### Page 550 / 羊水指數 (Amniotic Fluid Index)
 
 ![Page 550](/core_radiology/images/ultrasound/page-550.png)
 
@@ -1026,164 +1049,164 @@ Amniotic fluid index (AFI) To quantify the amniotic fluid index (AFI) between 16
 
 ---
 
-### Page 551 / Early Pregnancy and Obstetrics (IMG 551 / Book 542)
+### Page 551 / 胎盤胚胎學與單一臍动脉 (Placental Embryology and Single Umbilical Artery)
 
 ![Page 551](/core_radiology/images/ultrasound/page-551.png)
-
-Placental embryology and physiology The placenta is formed by fetal chorion and maternal endometrium. The mature placental circulation allows exchange of oxygen and nutrients between
+胎盤（Placenta）是由胎兒的絨毛膜（Chorion）與母體的蛻膜（Decidua）共同發育而成，成熟胎盤的絨毛膜絨毛浸泡在母體血液中，執行氣體交換、營養輸送與廢物排除的功能，但母血與胎血並不直接混合。臨床上，單一臍帶動脈（Single Umbilical Artery, SUA）是最常見的臍帶異常，超音波以彩色都卜勒確認胎兒膀胱兩側僅各有單一血管；SUA 與染色體異常（尤其 Trisomy 13 與 18）及結構畸形高度相關，且胎兒生長遲緩（FGR）的風險也會增加。正常胎盤厚度在妊娠中期約為 2–4 cm，足月時一般不超過 4–5 cm，過厚可能與糖尿病、妊娠滋養層疾病或胎盤血腫有關。
 
 **重點摘要**
-- maternal and fetal vessels through a membrane, although the blood does not admix.
-- Single umbilical artery
-- Two vessel cord (single umbilical artery):
-- Color Doppler through the fetal bladder
-- demonstrates a single umbilical artery
+- **絨毛膜絨毛（Chorionic Villi）**：胎盤的 fetal portion，執行母胎氣體與營養交換
+- **單一臍帶動脈（Single Umbilical Artery, SUA）**：雙血管臍帶，50% 與其他畸形相關，Trisomy 13/18 風險增加
+- **胎盤厚度（Placental Thickness）**：正常中期妊娠 2–4 cm，足月不超過 4–5 cm
+- **彩色都卜勒（Color Doppler）**：確診 SUA 的標準工具，確認膀胱兩側為單一血管
 
 ---
 
-### Page 552 / Early Pregnancy and Obstetrics (IMG 552 / Book 543)
+### Page 552 / 前置胎盤 (Placenta Previa)
 
 ![Page 552](/core_radiology/images/ultrasound/page-552.png)
-
-Placenta previa and other abnormalities of placental position Obstetrical terminology regarding abnormalities of placental position in relation to the internal cervical os is confusing. The terms partial previa, complete previa, incomplete
+胎盤位置異常的術語在臨床文獻中並不一致，常見名詞包括前置胎盤（Placenta Previa）、邊緣性前置胎盤（Marginal Previa）、低置胎盤（Low-Lying Placenta）與部分性前置胎盤（Partial Previa），彼此定義重疊因而造成混淆。實用原則為：胎盤邊緣距離宮頸內口（Internal Cervical Os）超過 3 公分者為正常；若胎盤邊緣距離內口不及 3 公分，則應直接描述胎盤前緣距內口的實際距離，而非直接給予前置胎盤的診斷。真正的完全性前置胎盤（Complete Previa）定義為胎盤組織完全覆蓋宮頸內口，無論胎兒位置為何，均須以剖腹產方式分娩。
 
 **重點摘要**
-- previa, marginal placenta, and low-lying placenta are inconsistent among references.
-- The edge of the placenta should be >3 cm from the internal cervical os.
-- If the placenta is <3 cm from the internal cervical os, it is best to simply be descriptive
-- and describe how far the leading edge of the placenta is from the internal cervical os.
-- In true placenta previa, the placenta covers the internal cervical os. Placenta previa is seen
+- **胎盤邊緣距內口 >3 cm**：正常位置，無需特殊處置
+- **胎盤邊緣距內口 <3 cm**：描述前緣距離內口的實際數值，避免使用不一致的術語
+- **完全性前置胎盤（Complete Previa）**：胎盤完全覆蓋宮頸內口，須剖腹產
+- **部分性/低置性前置胎盤（Partial/Low-Lying Previa）**：術語不統一，臨床建議以測量值溝通
 
 ---
 
-### Page 553 / Early Pregnancy and Obstetrics (IMG 553 / Book 544)
+### Page 553 / 胎盤植入譜系疾病 (Placenta Accreta Spectrum)
 
 ![Page 553](/core_radiology/images/ultrasound/page-553.png)
-
-Placenta accreta Placenta accreta is a spectrum of abnormally tenacious or deep attachment of the placenta into the myometrium, carrying a risk of hemorrhage at the time of placental
+胎盤植入異常譜系（Placenta Accreta Spectrum, PAS）為胎盤絨毛異常地緊密附著或深入侵入子宮肌層，根據侵入深度分為三型：胎盤黏連（Placenta Accreta，絨毛附著於肌層表面）、胎盤侵入（Placenta Increta，絨毛侵入肌層深部）與胎盤穿透（Placenta Percreta，絨毛穿透整個肌層甚至達到漿膜層）。主要病因為、子宮內膜缺陷，常見於曾接受剖腹產（C-Section）、刮宮術（D&C）或、子宮內膜炎的患者；尤其當孕婦有剖腹產史且此次為前置胎盤（Anterior Previa）時，植入異常的陽性預測值最高。超聲波特徵包括：胎盤後方的無迴聲間隙（Retroplacental Clear Space）消失、子宮漿膜層與膀胱介面連續性中斷、以及「蛀蝕狀胎盤」（Moth-Eaten Placenta），意即胎盤內出現多發性血管腔隙樣（Vascular Lacunar）低迴聲區。
 
 **重點摘要**
-- Accreta is thought to be caused by scarring (which may be secondary to prior
-- Caesarean section, D&C, endometritis, or adenomyosis) and resultant endometrial
-- deficiency. It is especially important to consider accreta if an anterior placenta is
-- present with a history of prior Caesarean section. Placenta previa also increases the
+- **胎盤黏連（Placenta Accreta）**：絨毛附著於肌層表面，不入浸肌層
+- **胎盤侵入（Placenta Increta）**：絨毛深入侵入，子宮肌層
+- **胎盤穿透（Placenta Percreta）**：絨毛穿透漿膜層，可達膀胱或腸道
+- **前置胎盤合併剖腹產史**：PAS 高風險組合，術前應充分準備
+- **蛀蝕狀胎盤（Moth-Eaten Placenta）**：PAS 的特異性超聲波徵象，血管腔隙樣低迴聲區
+- **胎盤後方無迴聲間隙消失**：肌層與絨毛界消失，正常應有 1–2 mm 的低迴聲間隙
 
 ---
 
-### Page 554 / Early Pregnancy and Obstetrics (IMG 554 / Book 545)
+### Page 554 / 胎兒水腫 (Fetal Hydrops)
 
 ![Page 554](/core_radiology/images/ultrasound/page-554.png)
-
-Fetal hydrops Overview of hydrops Fetal hydrops:
+胎兒水腫（Fetal Hydrops）並非單一疾病，而是一种因胎兒體液過剩所致的病理狀態，其診斷要件包括以下五項中至少一項：胎兒腹水（Ascites）、肋膜積液（Pleural Effusion）、心包積液（Pericardial Effusion）、皮膚層增厚（Skin Thickening ≥5 mm）以及羊水過多（Polyhydramnios）。胎兒水腫分為兩大類：免疫性水腫（Immune Hydrops）由母體與胎兒血型不合（最常見者為 Rh 同種免疫）所引起，導致胎兒溶血與貧血；非免疫性水腫（Non-Immune Hydrops, NIH）則涵蓋所有其他病因，包括染色體異常、先天性心臟病、胎兒感染（弓漿蟲、梅毒、巨細胞病毒等）、肺部畸形與胎兒腫瘤等。超聲波應全面掃描胎兒結構、胎盤厚度與羊水量，並評估胎兒都卜勒以排除貧血。
 
 **重點摘要**
-- Transverse ultrasound of a fetal head shows
-- diffuse skin thickening of the scalp (arrows).
-- Polyhydramnios is also present (although
-- incompletely seen on this single image).
-- Case courtesy Beryl Benacerraf, MD,
+- **胎兒水腫（Hydrops Fetalis）**：液體過剩狀態，五項診斷要件至少一項
+- **免疫性水腫（Immune Hydrops）**：母胎血型不合（Rh），胎兒溶血性貧血
+- **非免疫性水腫（Non-Immune Hydrops, NIH）**：染色體異常、心臟病、感染、腫瘤等多種病因
+- **胎兒腹水（Ascites）**：腹膜腔游離液體
+- **胎兒皮膚增厚（Skin Thickening）**：厚度 ≥5 mm 為異常
+- **羊水過多（Polyhydramnios）**：羊水指數 AFI >24 cm 或最大羊水池深度 >8 cm
 
 ---
 
-### Page 555 / Early Pregnancy and Obstetrics (IMG 555 / Book 546)
+### Page 555 / 羊水概述 (Amniotic Fluid Overview)
 
 ![Page 555](/core_radiology/images/ultrasound/page-555.png)
-
-Amniotic fluid Overview of fetal amniotic fluid Amniotic fluid surrounds the fetus and is required for normal development of multiple
+羊水（Amniotic Fluid）主要由胎兒泌尿系統產生，妊娠早期以羊膜（Amnion）分泌為主，中期後則以胎兒尿液為主要來源，胎兒吞嚥後再由腸道吸收並經胎盤轉運至母體。羊水過少（Oligohydramnios）的常見原因包括胎兒泌尿系統阻塞（後尿道瓣膜、腎發育不全）、胎膜早破（PPROM）與胎盤功能不良。嚴重羊水過少可導致波特序列（Potter Sequence），包括四肢壓迫變形、肺發育不良（Pulmonary Hypoplasia）與典型的 Potter面容（扁平鼻、眼距過寬）。羊水過多（Polyhydramnios）則常見於胎兒無法吞嚥羊水的狀況，如食道閉鎖（Esophageal Atresia）、先天性巨結腸症（Hirschsprung Disease）或神經管缺陷（Neural Tube Defect）；此外，妊娠糖尿病（Maternal Diabetes）也是羊水過多的常見原因。臨床常以羊水指數（Amniotic Fluid Index, AFI）或最大羊水池深度（Single Deepest Pocket, SDP）來量化羊水量。
 
 **重點摘要**
-- organ systems, including the lungs.
-- The amount of amniotic fluid should routinely be assessed subjectively. It is
-- not necessary to routinely measure the amount of amniotic fluid; however, if a
-- measurement is needed, the amniotic fluid index (AFI) may be used for quantification.
-- Amniotic fluid is produced primarily by the fetal genitourinary tract and is excreted by
+- **羊水過少（Oligohydramnios）**：AFI <5 cm 或 SDP <2 cm
+- **波特序列（Potter Sequence）**：羊水過少導致肺發育不良、四肢變形與 Potter 面容
+- **羊水過多（Polyhydramnios）**：AFI >24 cm 或 SDP >8 cm
+- **羊水指數（Amniotic Fluid Index, AFI）**：四象限羊水深度總和，正常 5–24 cm
+- **最大羊水池深度（Single Deepest Pocket, SDP）**：單一最深垂直徑，正常 2–8 cm
+- **食道閉鎖（Esophageal Atresia）**：羊水過多合併無法見到胃泡，為常見鑑別診斷
 
 ---
 
-### Page 556 / Early Pregnancy and Obstetrics (IMG 556 / Book 547)
+### Page 556 / 胎兒腦部：腦室擴大 (Fetal Brain: Ventriculomegaly)
 
 ![Page 556](/core_radiology/images/ultrasound/page-556.png)
-
-Fetal brain and spine Ventriculomegaly Ventriculomegaly:
+側腦室擴大（Ventriculomegaly）是胎兒中樞神經系統最常見的超聲波異常之一，測量位置為側腦室後角（Posterior Horn of Lateral Ventricle）的最寬徑，無論妊娠週數，**側腦室寬度始終應小於 10 mm**。臨床分類如下：輕度（Mild）為 10–12 mm，約 80% 為良性變異；中度（Moderate）為 12–15 mm，結構畸形與染色體異常風險明顯增加；重度或顯著（Marked/Severe）為 >15 mm，與腦發育不良、神經發育遲緩及胎兒死亡高度相關。典型超聲波徵象包括「懸垂脈絡叢徵」（Dangling Choroid Sign），即腦室擴大時脈絡叢失去支撐而垂離腦室頂端。發現側腦室擴大後，應完整掃描胎兒結構與胎兒腦部MRI以排除其他腦發育異常。
 
 **重點摘要**
-- Transverse ultrasound of the fetal head shows
-- moderate symmetrical dilation of the lateral
-- ventricles, with the calipers measuring 14
-- mm. Regardless of the gestational age, the
-- lateral ventricles should always measure <10
+- **側腦室寬度正常值**：<10 mm（任何妊娠週數均適用）
+- **輕度擴大（Mild Ventriculomegaly）**：10–12 mm，良性變異率約 80%
+- **中度擴大（Moderate Ventriculomegaly）**：12–15 mm，異常風險顯著增加
+- **重度擴大（Marked Ventriculomegaly）**：>15 mm，預後不良，須全面掃描胎兒結構
+- **懸垂脈絡叢徵（Dangling Choroid Sign）**：腦室擴大時脈絡叢垂離腦室頂端
+- **胎兒腦部 MRI**：側腦室擴大時的補充檢查，評估腦皮層發育
 
 ---
 
-### Page 557 / Early Pregnancy and Obstetrics (IMG 557 / Book 548)
+### Page 557 / 腦膨出與囊狀水瘤 (Cephalocele and Cystic Hygroma)
 
 ![Page 557](/core_radiology/images/ultrasound/page-557.png)
-
-Cephalocele A cephalocele is a midline neural tube defect characterized by protrusion of intracranial structures outside of the calvarium. The occipital skull is the most
+腦膨出（Cephalocele）為中線神經管缺陷（Neural Tube Defect），指顱骨或脊柱發生缺損，導致顱內結構向顱外突出。最常見的位置為枕部（Occipital），約佔 75%；其次為額部（Frontal）與頂部（Parietal）。根據內容物可分為兩型：腦膜膨出（Meningocele）僅含腦膜與腦脊液，預後相對較好；腦膜腦膨出（Encephalocele）則包含腦組織與脈絡叢，預後較差且常伴隨染色體異常（尤其是 Trisomy 18）與其他結構畸形。囊性水瘤（Cystic Hygroma）為胎兒頸部的先天性淋巴管發育異常（ Lymphatic Malformation），超聲波下見分隔壁膜的多房性囊腫，好發於後頸部，是胎兒最常見的頸部腫塊；約 50–70% 合併染色體異常（尤其 Turner 症候群與 Trisomy 21）。
 
 **重點摘要**
-- common location.
-- A meningocele contains only meninges. An encephalocele also contains neural tissue.
-- In addition to cephalocele, the primary differential consideration of a mass posterior
-- to the occipital skull is a cystic hygroma, which is a congenital lymphatic malformation
-- and the most common fetal neck mass.
+- **腦膜膨出（Meningocele）**：僅含腦膜與腦脊液，不含神經組織，預後較佳
+- **腦膜腦膨出（Encephalocele）**：含腦組織，預後較差，常伴 Trisomy 18
+- **囊性水瘤（Cystic Hygroma）**：分隔壁膜的多房性囊腫，50–70% 合併染色體異常
+- **枕部腦膨出（Occipital Cephalocele）**：最常見位置，佔所有腦膨出約 75%
+- ** Turner 症候群（Turner Syndrome）**：45,XO，囊性水瘤的常見染色體病因之一
+- **Trisomy 21（唐氏症候群）**：囊性水瘤常見相關染色體異常
 
 ---
 
-### Page 558 / Early Pregnancy and Obstetrics (IMG 558 / Book 549)
+### Page 558 / 全前腦畸形 (Holoprosencephaly)
 
 ![Page 558](/core_radiology/images/ultrasound/page-558.png)
-
-Holoprosencephaly Holoprosencephaly: Oblique axial/coronal ultrasound
+全前腦序列症（Holoprosencephaly, HPE）為前腦（Prosencephalon）於胚胎發育第 4–6 週時無法正常分為左右兩半球，導致中線結構融合的一系列疾病譜系，嚴重程度從輕微的單一中央門牙（Single Central Incisor）到最嚴重的無腦畸形（Alobar HPE）不等。超聲波診斷要點包括：丘腦融合（Fused Thalami，矢狀切面可見單一卵圓形丘腦）、單一腦室（Monoventricle，無側腦室分界）以及與之相連的背側囊（Dorsal Cyst）。HPE 常伴隨中線顏面畸形（如眼球融合Cyclopia、喙鼻Proboscis）及染色體異常，其中以 Trisomy 13（Patau 症候群）最為常見，約佔 50–75% 的中型或重型 HPE 病例。
 
 **重點摘要**
-- through the posterior brain
-- shows fused thalami across the
-- midline (arrows). A large dorsal
-- cyst is present, largely replacing
-- the visualized supratentorial
+- **全前腦序列症（Holoprosencephaly, HPE）**：前腦分叶失敗，中線結構融合
+- **融合丘腦（Fused Thalami）**：HPE 的特異性超聲波徵象，矢狀面可見單一丘腦
+- **單一腦室（Monoventricle）**：無側腦室分界的單一原始腦室腔
+- **背側囊（Dorsal Cyst）**：與 monoventricle 相通的大型囊性結構
+- **Trisomy 13（Patau 症候群）**：HPE 最常見的相關染色體異常，佔 HPE 病例 50–75%
+- **無腦畸形（Alobar HPE）**：HPE 最嚴重類型，單一腦室、背側囊與嚴重中線畸形
 
 ---
 
-### Page 559 / Early Pregnancy and Obstetrics (IMG 559 / Book 550)
+### Page 559 / 透明隔缺損與胼胝體發育不全 (CSP Absence and Agenesis of Corpus Callosum)
 
 ![Page 559](/core_radiology/images/ultrasound/page-559.png)
-
-Absence of the cavum septum pellucidum (CSP) The cavum septum pellucidum (CSP) should always be identified in a normal fetus. If the CSP is not seen, the primary consideration is agenesis of the corpus callosum, as
+透明隔腔（Cavum Septum Pellucidum, CSP）為兩側側腦室間的薄壁無神經組織結構，於胎兒 18–37 週的超聲波檢查中應恆可見。當 CSP 缺失時，最可能的診斷為胼胝體發育不全（Agenesis of Corpus Callosum, ACC），因為兩者在胚胎發育上同期形成（受精後 12–20 週）；臨床上 ACC 可為部分性或完全性，於冠狀切面可見第三腦室向上移位及側腦室呈「牛眼」狀態。若 CSP 缺失但胼胝體外觀正常，則需考慮更罕見的診斷：透明隔-眼發育不全序列症（Septo-Optic Dysplasia），此時胎兒 MRI 檢查有其必要性。積水無腦畸形（Hydranencephaly）則代表大腦皮層的全面性破壞，常因大腦中動
+脈（Middle Cerebral Artery, MCA）阻塞或宮內感染（如巨細胞病毒）所致；超聲波下可見大腦皮層組織完全消失或極度變薄，僅剩腦幹與小腦保留，由 MCA 分布區域的無迴聲液體所取代。
 
 **重點摘要**
-- the cavum septum pellucidum and corpus callosum are formed simultaneously.
-- Uncommonly, the CSP may be absent in the presence of a normal corpus callosum.
-- This may represent septo-optic dysplasia and fetal MRI should be recommended.
-- Hydranencephaly is complete cortical destruction due to infarct or infection. The brain
+- **透明隔腔（Cavum Septum Pellucidum, CSP）**：胎兒 18–37 週應恆可見
+- **胼胝體發育不全（Agenesis of Corpus Callosum, ACC）**：CSP 缺失的最常見病因
+- **透明隔-眼發育不全序列症（Septo-Optic Dysplasia）**：CSP 缺失但胼胝體存在，須 MRI 確診
+- **積水無腦畸形（Hydranencephaly）**：大腦皮層全面破壞，MCA 分布區被液體取代
+- **大腦中動脈阻塞（MCA Occlusion）**：積水無腦畸形的常見病因之一
+- **冠狀切面「牛眼」徵（Bull's Eye Sign）**：ACC 時側腦室與第三腦室的特徵性表現
 
 ---
 
-### Page 560 / Early Pregnancy and Obstetrics (IMG 560 / Book 551)
+### Page 560 / 胎兒胸腔與先天性橫膈膜疝氣 (Fetal Thorax and CDH)
 
 ![Page 560](/core_radiology/images/ultrasound/page-560.png)
-
-Fetal thorax Evaluation of the fetal thorax Abnormal position of the heart in the thorax is an important clue to the possible
+胎兒胸腔的超聲波評估應包括肺臟實質構造、心臟位置與軸向（Cardiac Axis）以及橫膈完整性。胸腔內任何異常構造（如囊腫、腫塊或異位器官）皆可造成心臟位置偏移或心軸異常，臨床超聲掃描時若發現心臟軸向或位置異常，應仔細掃描同側胸腔以排除佔位性病變。先天性橫膈疝氣（Congenital Diaphragmatic Hernia, CDH）為腹腔臟器經橫膈缺損進入胸腔，最常見的位置為左側後外側（Left Posterolateral，Bochdalek 孔），佔所有 CDH 的 85–90%；左側較常見的原因可能與右側肝臟的保護作用有關。超聲波可見胃泡（Gastric Bubble）或腸氣（Bowel Gas）在胸腔內，心臟被推向對側，肺臟因受壓而發育不良（Pulmonary Hypoplasia）。肺發育不良的嚴重程度是影響 CDH 出生後預後的最重要因素。
 
 **重點摘要**
-- presence of a thoracic anomaly. Abnormal cardiac position or axis may be secondary
-- to a thoracic mass lesion or pulmonary hypoplasia.
-- Congenital diaphragmatic hernia (CDH)
-- Congenital diaphragmatic hernia (CDH) is herniation of abdominal organs (most
-- commonly bowel) into the thorax through a diaphragmatic defect. CDH is the most
+- **心臟軸向（Cardiac Axis）**：異常軸向為胸腔病變的重要線索
+- **先天性橫膈疝氣（Congenital Diaphragmatic Hernia, CDH）**：腹臟經橫膈缺損進入胸腔
+- **Bochdalek 孔疝氣（Left Posterolateral CDH）**：最常見類型，佔 85–90%，左側為主
+- **胃泡異位（Intrathoracic Gastric Bubble）**：CDH 的特異性超聲波徵象
+- **肺發育不良（Pulmonary Hypoplasia）**：CDH 最重要的預後因素
+- **心臟偏移（Mediastinal Shift）**：胸腔內佔位導致心臟推向對側
 
 ---
 
-### Page 561 / Early Pregnancy and Obstetrics (IMG 561 / Book 552)
+### Page 561 / 喉氣管閉鎖與食道閉鎖 (Laryngeal Atresia and Esophageal Atresia)
 
 ![Page 561](/core_radiology/images/ultrasound/page-561.png)
-
-Laryngeal or tracheal atresia Atresia of the upper airway, otherwise known as congenital high airway obstruction syndrome (CHAOS), is lethal and may cause bilateral enlarged echogenic lungs.
+先天性高位呼吸道阻塞症候群（Congenital High Airway Obstruction Syndrome, CHAOS）為胎兒喉或氣管閉鎖所致的致死性氣道疾病，發病率極低但預後惡劣。由於胎兒無法經由氣道排出肺內液體，雙肺因液體滯留而呈現對稱性腫大與高迴聲性（Enlarged Echogenic Lungs），心臟被推至中央位置（Elevated Diaphragms），胎兒最終因嚴重肺發育不良與肺高壓而死亡。胎兒胃腸道畸形常導致羊水過多，因為胎兒無法正常吞嚥或吸收羊水。食道閉鎖（Esophageal Atresia）為食道於胚胎發育時未完全分裂，形成盲端，最常見的類型（約 85%）合併氣管食道瘻管（Tracheoesophageal Fistula, TEF），其中又以遠端 TEF 最常見。超聲波徵象包括：羊水過多（因無法吞嚥羊水）、口腔至胃之間無連續性可見（Nasogastric Tube 不能進入胃部）以及掃描中無法見到胃泡（Gastric Bubble Absence），但若合併遠端 TEF，少量液體仍可經瘻管進入胃部，使胃泡淺見或延遲出現。
 
 **重點摘要**
-- Anomalies of the fetal gastrointestinal tract may cause polyhydramnios due to
-- disruption of swallowing or impaired absorption of swallowed amniotic fluid.
-- Esophageal atresia
-- Esophageal atresia is a blind-ending esophagus, due to incomplete division of the
+- **先天性高位呼吸道阻塞症候群（CHAOS）**：致死性，雙側腫大高迴聲肺
+- **食道閉鎖（Esophageal Atresia）**：盲端食道，85% 合併氣管食道瘻管（TEF）
+- **氣管食道瘻管（Tracheoesophageal Fistula, TEF）**：食道閉鎖最常見的合併異常
+- **胃泡消失（Gastric Bubble Absence）**：食道閉鎖的特異性超聲波徵象
+- **羊水過多（Polyhydramnios）**：胎兒無法吞嚥羊水，為消化道阻塞的常見表現
+- **CHAOS 的典型超聲波所見**：雙側對稱性高迴聲肺、心臟中央位置、橫膈上升
 
 ---
