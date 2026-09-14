@@ -268,6 +268,19 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 ## 直接徵象 / Direct Signs
+### 直接徵象 / Direct Signs
+
+**直接徵象**是可直接觀察到的肺葉容積減少的影像學表現。
+
+| 徵象 | 說明 | 影像學表現 |
+|------|------|-----------|
+| **葉間裂隙位移** | 葉間裂隙向病變側移位 | 最可靠的直接徵象 |
+| **血管擁擠** | 病變區域肺血管聚集 | 肺紋理增加 |
+| **肺葉密度增加** | 病變區域透明度降低 | 肺葉變白 |
+| **支氣管位移** | 支氣管向病變側移位 | 可見支氣管走向改變 |
+
+> **重點**：葉間裂隙位移是診斷肺膨脹不全最可靠的直接徵象，出現在任何原因的肺葉塌陷中。
+
 
 
 
@@ -1383,6 +1396,19 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 
 
 ## 毛玻璃分布 / Ground Glass Distribution Patterns
+### 毛玻璃分布 / Ground Glass Distribution Patterns
+
+**毛玻璃（Ground Glass Opacification, GGO）**是指肺野透明度輕度降低，但仍可見底下血管和支氣管結構的表現。
+
+| 分布類型 | 常見病因 |
+|---------|---------|
+| **中央型（Central-predominant）** | 肺水腫、病毒性肺炎、間質性肺炎 |
+| **周邊型（Peripheral-predominant）** | 慢性嗜伊紅性肺炎、過敏性肺炎、COP |
+| **瀰漫性（Diffuse）** | PCP、ARDS、藥物中毒 |
+| **斑片狀（Patchy）** | 機化性肺炎、嗜伊紅性肺炎 |
+
+> **臨床要點**：GGO分布類型對鑑別診斷有重要價值。周邊型GGO需考慮慢性嗜伊紅性肺炎（CEP）；過敏性肺炎常見為中央型或斑片狀分布。
+
 
 
 
@@ -1496,6 +1522,18 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 小葉間隔增厚 / Interlobular Septal Thickening
+### 小葉間隔增厚 / Interlobular Septal Thickening
+
+**小葉間隔（Interlobular Septum）**是分隔次級肺小葉（Secondary Pulmonary Lobule）的纖維性邊界。
+
+| 類型 | 常見病因 |
+|------|---------|
+| **光滑型（Smooth）** | 肺水腫、肺靜脈瘀血、間質性肺炎 |
+| **結節型（Nodular）** | 結節病、淋巴管癌轉移、矽肺症 |
+| **不規則型（Irregular）** | 纖維化間質性肺炎、疤痕 |
+
+> **Kerley B lines**：是小葉間隔增厚在X光下的表現，為肋膜下1-2cm長的水平線，代表間質液體或纖維化堆積。
+
 
 
 
@@ -1662,6 +1700,26 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 碎石路徵 / Crazy Paving
+### 碎石路徵 / Crazy Paving
+
+**碎石路徵（Crazy Paving）**是指在毛玻璃不透性的基礎上，加上重疊的小葉間隔增厚（鋪路石樣外觀）。
+
+### 病理機制 / Pathophysiology
+
+肺泡壁和間質水腫，加上增厚的小葉間隔，形成特徵性的鋪路石樣圖案。
+
+### 常見病因 / Differential Diagnosis
+
+| 病因 | 臨床特點 |
+|------|---------|
+| **肺泡蛋白質沉積症（PAP）** | 乳白色支氣管肺泡灌洗液，KL-6升高 |
+| **機化性肺炎（OP）** | 斑片狀分布，邊緣模糊 |
+| **嗜伊紅性肺炎（CEP）** | 周邊分布，嗜伊紅細胞升高 |
+| **ARDS/弥漫性肺泡損傷** | 急性病程，雙側對稱 |
+| **藥物毒性** | 有用藥史 |
+
+> **臨床要點**：PAP的碎石路徵常為對稱性、瀰漫性分布，肺泡蛋白沉積症為其代表性病因。
+
 
 
 
@@ -1776,6 +1834,19 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 肺部多發結節 / Approach to Multiple Pulmonary Nodules
+### 肺部多發結節 / Approach to Multiple Pulmonary Nodules
+
+多發性肺部結節的鑑別診斷需根據結節的**大小、分布、特徵**來分析。
+
+| 分布類型 | 常見病因 |
+|---------|---------|
+| **小葉中心性（Centrilobular）** | 支氣管擴張、支氣管炎、結核、塵肺症 |
+| **淋巴管周圍性（Perilymphatic）** | 結節病、淋巴管癌轉移、矽肺症 |
+| **隨機分布（Random）** | 粟粒性結核、轉移性腫瘤、血行傳播 |
+| **樹芽徵（Tree-in-Bud）** | 支氣管擴張、結核、細菌性肺炎 |
+
+> **影像學鑒別**：小葉中心性結節不直達肋膜面；淋巴管周圍性結節則沿支氣管血管束、葉間裂隙和肋膜分布。
+
 
 
 
@@ -2265,6 +2336,20 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 空洞性與囊性肺部疾病 / Cavitary and Cystic Lung Disease
+### 空洞性與囊性肺部疾病 / Cavitary and Cystic Lung Disease
+
+**空洞（Cavity）**是結節或腫塊內部出現的充氣空間，代表壞死組織的排出。
+
+| 病因 | 空洞特點 |
+|------|---------|
+| **結核** | 上葉薄壁空洞，支氣管傳播 |
+| **鱗狀細胞癌** | 厚壁不規則空洞，偏心性 |
+| **膿胸** | 胸膜旁空洞，膿胸併發症 |
+| **黴菌病** | 暈徵後出現空洞（初期為結節） |
+| **韋格納肉芽腫症** | 多發性空洞，分布廣泛 |
+
+**囊（Cyst）**：薄壁充氣空間，常見於淋巴管平滑肌瘤症（LAM）、肺孢子蟲肺炎（PCP）、類肉樣瘤病。
+
 
 
 
@@ -2621,6 +2706,18 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 纖維化改變 / Fibrotic Lung Changes
+### 纖維化改變 / Fibrotic Lung Changes
+
+肺部纖維化是各種間質性肺疾病（ILD）的末期表現，影像學上呈現為**網狀（reticular）浸潤**和**蜂窩狀（honeycombing）**結構。
+
+| 分布類型 | 代表疾病 |
+|---------|---------|
+| **下葉為主** | 特發性肺纖維化（IPF）、系統性硬化癥相關ILD |
+| **上葉為主** | 結節病、放射性纖維化、藥物相關纖維化 |
+| **中葉為主** | 慢性過敏性肺炎（非鶴沼型） |
+
+> **HRCT特點**：IPF的典型表現為蜂窩狀結構（honeycombing）位於胸膜下和肺底部，伴隨牽引性支氣管擴張。
+
 
 
 
@@ -3000,6 +3097,20 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 肺炎併發症 / Complications of Pneumonia
+### 肺炎併發症 / Complications of Pneumonia
+
+肺部感染可能導致多種危及生命的併發症。
+
+| 併發症 | 影像學表現 | 臨床意義 |
+|--------|-----------|---------|
+| **肺膿腫** | 厚壁空洞，氣液平面 | 需靜脈抗生素，必要時引流 |
+| **膿胸** | 積液分房包裹，積液內氣體 | 需放置胸管引流 |
+| **肺氣囊（Pneumatocele）** | 薄壁囊腔，常為一過性 | 常見於葡萄球菌肺炎 |
+| **支氣管胸膜瘻（BPF）** | 氣胸合併積液 | 需緊急處理 |
+| **敗血症** | 瀰漫性浸潤，發展快速 | 全身性併發症 |
+
+> **影像追蹤**：肺炎併發症的發展可在48-72小時內快速演變，臨床表現穩定但影像惡化時需高度警覺。
+
 
 
 
@@ -3251,6 +3362,25 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 結核病 / Tuberculosis (TB)
+### 結核病 / Tuberculosis (TB)
+
+**結核病（Tuberculosis）**是由結核分枝桿菌（Mycobacterium tuberculosis）引起的傳染病，主要影響肺部。
+
+### 原發性 vs 再活化性結核
+
+| 特點 | 原發性結核 | 再活化性結核 |
+|------|-----------|-------------|
+| **好發部位** | 中、下肺葉 | 上葉尖段 |
+| **空洞** | 少見 | 常見（50%） |
+| **淋巴結病變** | 常見（單側肺門） | 少見 |
+| **胸腔積液** | 可見 | 少見 |
+
+### 典型影像學表現
+
+- **Ghon complex**：原發性病竈 + 同側肺門淋巴結病變
+- **Ranke complex**：Ghon complex + 淋巴結鈣化
+- **再活化性結核**：上葉尖段浸潤 → 空洞形成 → 支氣管傳播
+
 
 
 
@@ -4350,6 +4480,21 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 ## 麴菌病血管侵襲 vs 氣道侵襲 / Angioinvasive vs. Airway-Invasive
+### 麴菌 / Aspergillus
+
+**麴菌（Aspergillus）**是最常見的侵襲性黴菌，常見於免疫抑制患者。
+
+### 疾病譜系 / Spectrum of Disease
+
+| 類型 | 宿主 | 影像學特徵 |
+|------|------|-----------|
+| **過敏性支氣管肺麴菌病（ABPA）** | 氣喘、囊性纖維化 | 中央型支氣管擴張，黏液嵌塞 |
+| **麴菌瘤（Aspergilloma）** | 空洞患者 | 空洞內移動性真菌球（air crescent sign） |
+| **慢性壞死性麴菌病** | 輕度免疫抑制 | 空洞性浸潤，半月徵 |
+| **侵襲性麴菌病** | 嚴重免疫抑制 | 結節 + 暈徵（halo sign）→ 空洞 |
+
+> **特徵性表現**：麴菌瘤在空洞內形成自由移動的真菌球，卧位和立位X光可見位置改變（air crescent sign）。
+
 
 
 
