@@ -1,3 +1,5 @@
+## 膽囊與膽管 / Gallbladder and Bile Ducts
+
 ### Page 473 / 超聲波簡介與膽囊膽管總覽 (Ultrasound Introduction and Gallbladder Overview)
 
 ![Page 473](/core_radiology/images/ultrasound/page-473.png)
@@ -68,6 +70,8 @@
 - **膽囊癌（Gallbladder Cancer）**：具血流訊號的突起腫塊，常侵犯肝臟
 
 ---
+
+## 肝臟疾病 / Liver Disease
 
 ### Page 478 / 膽囊常見影像模式 (Gallbladder: Common Imaging Patterns)
 
@@ -225,6 +229,8 @@
 
 ---
 
+## 胰臟 / Pancreas
+
 ### Page 490 / 肝靜脈都卜勒波形 (Hepatic Vein Waveforms)
 
 ![Page 490](/core_radiology/images/ultrasound/page-490.png)
@@ -265,6 +271,8 @@
 
 ---
 
+## 脾臟 / Spleen
+
 ### Page 493 / 脾臟：疾病影像模式 (Spleen: Patterns of Disease)
 
 ![Page 493](/core_radiology/images/ultrasound/page-493.png)
@@ -277,6 +285,8 @@
 - **脾梗塞**：周邊分布的低迴聲區域
 
 ---
+
+## 腎臟 / Kidneys
 
 ### Page 494 / 腎臟：結石、阻塞與腎積水 (Kidneys: Stones, Obstruction, and Hydronephrosis)
 
@@ -344,6 +354,8 @@
 
 ---
 
+## 陰囊與睪丸 / Scrotum and Testicles
+
 ### Page 499 / 陰囊與睪丸 (Scrotum and Testicle)
 
 ![Page 499](/core_radiology/images/ultrasound/page-499.png)
@@ -409,6 +421,8 @@
 
 ---
 
+## 血管超聲 / Vascular Ultrasound
+
 ### Page 504 / 血管超聲原理 (Vascular Ultrasound: General Principles)
 
 ![Page 504](/core_radiology/images/ultrasound/page-504.png)
@@ -462,6 +476,8 @@
 
 ---
 
+## 甲狀腺 / Thyroid
+
 ### Page 508 / 甲狀腺與副甲狀腺 (Thyroid and Parathyroid)
 
 ![Page 508](/core_radiology/images/ultrasound/page-508.png)
@@ -487,6 +503,8 @@
 - **副甲狀腺腺瘤（Parathyroid Adenoma）**：單一功能亢進的副甲狀腺，Tc-99m sestamibi掃描可定位
 
 ---
+
+## 婦科與子宫 / Gynecology and Uterus
 
 ### Page 510 / 子宮解剖與位置變異 (Uterine Anatomy and Variant Positions)
 
@@ -644,6 +662,8 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
+## 卵巢與輸卵管 / Ovaries and Fallopian Tubes
+
 ### Page 522 / 卵巢與輸卵管的解剖與生理 (Ovarian and Fallopian Tube Anatomy and Physiology)
 
 ![Page 522](/core_radiology/images/ultrasound/page-522.png)
@@ -721,6 +741,8 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **Meigs症候群**：良性纖維瘤+腹水+右側胸水
 
 ---
+
+## 產科第一孕期 / First Trimester Obstetrics
 
 ### Page 528 / 第一孕期超聲 (First Trimester Pregnancy)
 
@@ -880,6 +902,8 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **心跳過緩預後差**：心率<90 bpm無論CRL大小均提示預後不良
 
 ---
+
+## 產科第二、三孕期 / Second and Third Trimester
 
 ### Page 539 / 早期妊娠預後與隨訪 (Early Pregnancy Prognosis and Follow-up)
 
