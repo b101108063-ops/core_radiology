@@ -88,6 +88,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 011](/core_radiology/images/thoracic/page-011.png)
 ### 右肺 / Right Lung
 
 
@@ -170,6 +171,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 012](/core_radiology/images/thoracic/page-012.png)
 - On frontal radiograph: the **right heart border** is formed by the **right middle lobe**; the **left heart border** is formed by the **lingula**
 
 
@@ -200,6 +202,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 013](/core_radiology/images/thoracic/page-013.png)
 **Atelectasis** is loss of lung volume due to decreased aeration — synonymous with **collapse**.
 
 
@@ -212,6 +215,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 014](/core_radiology/images/thoracic/page-014.png)
 - **Fissure displacement** — displacement of the fissures toward the area of volume loss
 
 
@@ -228,6 +232,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 015](/core_radiology/images/thoracic/page-015.png)
 - **橫膈膜抬高 (Diaphragm elevation)**
 
 
@@ -260,6 +265,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 016](/core_radiology/images/thoracic/page-016.png)
 | Type | Mechanism | Common Causes |
 
 
@@ -296,6 +302,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 017](/core_radiology/images/thoracic/page-017.png)
 - **Obstructive atelectasis** occurs more rapidly in patients on supplemental oxygen (oxygen is absorbed faster than nitrogen)
 
 
@@ -320,6 +327,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 018](/core_radiology/images/thoracic/page-018.png)
 | Feature | Atelectasis | Pleural Effusion | Pneumonia |
 
 
@@ -362,6 +370,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
+![Page 019](/core_radiology/images/thoracic/page-019.png)
 Each of the five pulmonary lobes collapses in a **predictable direction**, depending on which lobe is affected.
 
 
@@ -374,6 +383,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 020](/core_radiology/images/thoracic/page-020.png)
 | Lobe | Direction of Collapse | Key Imaging Clues |
 
 
@@ -410,6 +420,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 021](/core_radiology/images/thoracic/page-021.png)
 - **Upper lobe collapse**: Lobe shifts upward; adjacent lobes overinflate to fill the space
 
 
@@ -440,6 +451,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 022](/core_radiology/images/thoracic/page-022.png)
 ### Luftsichel Sign
 
 
@@ -492,6 +504,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 023](/core_radiology/images/thoracic/page-023.png)
 ### Golden's S Sign (Reverse S Sign)
 
 
@@ -542,6 +555,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 024](/core_radiology/images/thoracic/page-024.png)
 | Sign | Condition | Key Feature |
 
 
@@ -580,6 +594,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 025](/core_radiology/images/thoracic/page-025.png)
 ### 左下葉 / Left Lower Lobe (LLL) Atelectasis
 
 
@@ -630,6 +645,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 026](/core_radiology/images/thoracic/page-026.png)
 | Feature | Left Lower Lobe | Right Lower Lobe |
 
 
@@ -658,6 +674,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 027](/core_radiology/images/thoracic/page-027.png)
 - **Pleural effusion** —、沙漏-shaped with meniscus; no volume loss; mediastinum shifts *away*
 
 
@@ -688,6 +705,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 028](/core_radiology/images/thoracic/page-028.png)
 - **Findings can be subtle** on the frontal radiograph
 
 
@@ -718,6 +736,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 029](/core_radiology/images/thoracic/page-029.png)
 **Round atelectasis** is focal atelectasis with a **round morphology**, always associated with an adjacent **pleural abnormality**.
 
 
@@ -802,6 +821,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 030](/core_radiology/images/thoracic/page-030.png)
 | Entity | Key Distinguishing Feature |
 
 
@@ -844,6 +864,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 
 
+![Page 031](/core_radiology/images/thoracic/page-031.png)
 The **secondary pulmonary lobule (SPL)** is the **elemental structural and functional unit** of the lung.
 
 
@@ -924,6 +945,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 032](/core_radiology/images/thoracic/page-032.png)
 | Pattern | Anatomic Location |
 
 
@@ -962,6 +984,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 033](/core_radiology/images/thoracic/page-033.png)
 **Consolidation** and **ground glass opacification** are two very commonly seen patterns of lung disease caused by **abnormal alveoli** (either filling with fluid or incomplete aeration).
 
 
@@ -980,6 +1003,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 034](/core_radiology/images/thoracic/page-034.png)
 **Consolidation** is histologically due to **complete filling** of affected alveoli with a liquid-like substance.
 
 
@@ -1092,6 +1116,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 035](/core_radiology/images/thoracic/page-035.png)
 **Ground glass opacification** is histologically due to:
 
 
@@ -1212,6 +1237,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 036](/core_radiology/images/thoracic/page-036.png)
 | Distribution | Entities |
 
 
@@ -1246,6 +1272,7 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 
+![Page 037](/core_radiology/images/thoracic/page-037.png)
 The **distribution** of ground glass opacification provides important diagnostic clues.
 
 
@@ -1264,6 +1291,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 038](/core_radiology/images/thoracic/page-038.png)
 **Differential Diagnosis:**
 
 
@@ -1308,6 +1336,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 039](/core_radiology/images/thoracic/page-039.png)
 **Differential Diagnosis:**
 
 
@@ -1356,6 +1385,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 040](/core_radiology/images/thoracic/page-040.png)
 ---
 
 
@@ -1368,6 +1398,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 041](/core_radiology/images/thoracic/page-041.png)
 **Mechanism**: Dilation of **pulmonary veins** causes smooth interlobular septal thickening.
 
 
@@ -1418,6 +1449,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 042](/core_radiology/images/thoracic/page-042.png)
 **Mechanism**: Processes that **infiltrate peripheral lymphatics**.
 
 
@@ -1480,6 +1512,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 043](/core_radiology/images/thoracic/page-043.png)
 | Feature | Smooth Septal Thickening | Nodular/Irregular Septal Thickening |
 
 
@@ -1518,6 +1551,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 044](/core_radiology/images/thoracic/page-044.png)
 **Crazy paving** describes **interlobular septal thickening with superimposed ground glass opacification** — resembling broken pieces of stone.
 
 
@@ -1530,6 +1564,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 045](/core_radiology/images/thoracic/page-045.png)
 - **Ground glass** component: Alveoli filled with proteinaceous material
 
 
@@ -1550,6 +1585,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 046](/core_radiology/images/thoracic/page-046.png)
 | Entity | Key Features |
 
 
@@ -1594,6 +1630,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 047](/core_radiology/images/thoracic/page-047.png)
 - **Crazy paving = septal thickening + GGO** — always identify both components
 
 
@@ -1628,6 +1665,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 048](/core_radiology/images/thoracic/page-048.png)
 ---
 
 
@@ -1640,6 +1678,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 049](/core_radiology/images/thoracic/page-049.png)
 **Definition**: Opacification of the **centrilobular bronchiole** (or less commonly the centrilobular artery) at the **center of each secondary pulmonary lobule**.
 
 
@@ -1760,6 +1799,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 050](/core_radiology/images/thoracic/page-050.png)
 **Definition**: Nodules following the anatomic distribution of **pulmonary lymphatics**.
 
 
@@ -1840,6 +1880,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 051](/core_radiology/images/thoracic/page-051.png)
 | Feature | Centrilobular | Perilymphatic | Random |
 
 
@@ -1878,6 +1919,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 052](/core_radiology/images/thoracic/page-052.png)
 **Random nodules** are distributed throughout the secondary pulmonary lobule via **hematogenous spread**, with an **angiocentric distribution**.
 
 
@@ -1938,6 +1980,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 053](/core_radiology/images/thoracic/page-053.png)
 **Miliary pattern**: innumerable tiny random nodules disseminated hematogenously — reminiscent of millet seeds.
 
 
@@ -1972,6 +2015,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 054](/core_radiology/images/thoracic/page-054.png)
 | Feature | Centrilobular | Perilymphatic | Random |
 
 
@@ -2010,6 +2054,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 055](/core_radiology/images/thoracic/page-055.png)
 **Tree-in-bud nodules** are multiple small nodules connected to linear branching structures — resembling a **budding tree branch in springtime** on CT.
 
 
@@ -2078,6 +2123,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 056](/core_radiology/images/thoracic/page-056.png)
 - Most commonly seen with **mycobacterial infection** (TB and atypical mycobacteria)
 
 
@@ -2108,6 +2154,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 057](/core_radiology/images/thoracic/page-057.png)
 ---
 
 
@@ -2120,6 +2167,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 058](/core_radiology/images/thoracic/page-058.png)
 **Cavitary lesion**: thick, irregular wall, often with a solid mural component.
 
 
@@ -2198,6 +2246,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 059](/core_radiology/images/thoracic/page-059.png)
 **Mechanism**: Typically **vascular** or **hematogenous spread**.
 
 
@@ -2232,6 +2281,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 060](/core_radiology/images/thoracic/page-060.png)
 **Cyst**: air-containing lucency with a **thin, nearly imperceptible wall**.
 
 
@@ -2322,6 +2372,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 061](/core_radiology/images/thoracic/page-061.png)
 **Cyst**: an air-containing lucency with a **thin, nearly imperceptible wall**.
 
 
@@ -2340,6 +2391,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 062](/core_radiology/images/thoracic/page-062.png)
 | Entity | Key Features |
 
 
@@ -2380,6 +2432,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 063](/core_radiology/images/thoracic/page-063.png)
 | Entity | Key Features |
 
 
@@ -2414,6 +2467,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 064](/core_radiology/images/thoracic/page-064.png)
 | Disease | Smoking | Wall | Distribution | Other |
 
 
@@ -2456,6 +2510,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 065](/core_radiology/images/thoracic/page-065.png)
 ---
 
 
@@ -2468,6 +2523,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 066](/core_radiology/images/thoracic/page-066.png)
 | Entity | Key Features |
 
 
@@ -2554,6 +2610,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 067](/core_radiology/images/thoracic/page-067.png)
 | Entity | Key Features |
 
 
@@ -2582,6 +2639,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 068](/core_radiology/images/thoracic/page-068.png)
 - **Basilar honeycombing** = classic for **IPF**
 
 
@@ -2616,6 +2674,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 069](/core_radiology/images/thoracic/page-069.png)
 ---
 
 
@@ -2628,6 +2687,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 070](/core_radiology/images/thoracic/page-070.png)
 ### 社區獲得性肺炎 / Community-Acquired Pneumonia (CAP)
 
 
@@ -2732,6 +2792,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 071](/core_radiology/images/thoracic/page-071.png)
 | Pattern | Key Features | Common Organisms |
 
 
@@ -2764,6 +2825,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 072](/core_radiology/images/thoracic/page-072.png)
 - **Infectious mass-like opacity** seen **only in children**
 
 
@@ -2796,6 +2858,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 073](/core_radiology/images/thoracic/page-073.png)
 ---
 
 
@@ -2808,6 +2871,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 074](/core_radiology/images/thoracic/page-074.png)
 | Feature | Description |
 
 
@@ -2842,6 +2906,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 075](/core_radiology/images/thoracic/page-075.png)
 - **Very rare** complication of pneumonia
 
 
@@ -2868,6 +2933,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 076](/core_radiology/images/thoracic/page-076.png)
 **Empyema** = infection within the pleural space.
 
 
@@ -2950,6 +3016,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 077](/core_radiology/images/thoracic/page-077.png)
 - Thin-walled, gas-filled cyst
 
 
@@ -2976,6 +3043,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 078](/core_radiology/images/thoracic/page-078.png)
 | Feature | Description |
 
 
@@ -3008,6 +3076,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 079](/core_radiology/images/thoracic/page-079.png)
 - **Extension of empyema to the chest wall**
 
 
@@ -3040,6 +3109,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 080](/core_radiology/images/thoracic/page-080.png)
 **Tuberculosis** (Mycobacterium tuberculosis) remains a significant global health problem.
 
 
@@ -3058,6 +3128,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 081](/core_radiology/images/thoracic/page-081.png)
 | Outcome | Description | Frequency |
 
 
@@ -3088,6 +3159,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 082](/core_radiology/images/thoracic/page-082.png)
 **Primary TB** = first exposure to TB; may involve parenchyma, airways, and pleura; often causes **adenopathy**.
 
 
@@ -3166,6 +3238,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 083](/core_radiology/images/thoracic/page-083.png)
 - Reactivation of previously latent infection
 
 
@@ -3194,6 +3267,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 084](/core_radiology/images/thoracic/page-084.png)
 | Feature | Primary TB | Reactivation TB |
 
 
@@ -3226,6 +3300,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 085](/core_radiology/images/thoracic/page-085.png)
 - **Low-attenuation adenopathy** is typical (similar to primary TB)
 
 
@@ -3254,6 +3329,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 
 
+![Page 086](/core_radiology/images/thoracic/page-086.png)
 - **Adenopathy is common in primary TB**, especially in children
 
 
