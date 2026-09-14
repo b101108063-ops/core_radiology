@@ -1182,9 +1182,9 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 
 ---
 
-### 靜脈性疾病診斷與治療 (Venous Disease Diagnosis and Treatment) (Page 275)
+### 靜脈性疾病診斷與治療 (Venous Disease Diagnosis and Treatment) (Page 274)
 
-![Page 274](/core_radiology/images/neuro/page-274.png)
+![Page 273](/core_radiology/images/neuro/page-273.png)
 
 腦靜脈疾病的影像評估需要多種MRI序列及CT靜脈造影的綜合分析。靜脈血栓的MRI特徵包括T1高訊號血栓（尤其是矢狀竇）、FLAIR高訊號及DWI上的皮層擴散受限。深靜脈血栓的特徵性影像為DWI雙側視丘受限擴散。治療策略包括抗凝治療（首選低分子量肝素）及血管內治療（溶栓或取栓），對於抗凝失敗或惡化病例可考慮。及時診斷和治療對改善預後至關重要，因靜脈性梗塞比動脈性更具可逆性。
 
@@ -1289,55 +1289,16 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 ---
 
-### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞 (Page 273)
+### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞
 
-![Page 272](/core_radiology/images/neuro/page-272.png)
+![Page 280](/core_radiology/images/neuro/page-280.png)
 
-多發性硬化症的典型MRI表現包括Dawson手指（Dawson fingers）——指向腦室的橢圓形T2延長病變，以及慢性和急性增強斑塊。T1低訊號病變稱為「黑洞」（black holes），代表更嚴重的脫髓鞘和軸突丟失。MS也可影響脊髓，典型為短節段單側性病變。影像確診需滿足McDonald標準：病竈在空間上分佈於CNS不同區域，時間上新病竈陸續出現。
+多發性硬化症（MS）的典型MRI表現包括Dawson手指（Dawson fingers）——指向腦室的橢圓形T2延長病變，以及慢性和急性增強斑塊。T1低訊號病變稱為「黑洞」（black holes），代表更嚴重的脫髓鞘和軸突丟失。MS也可影響脊髓，典型為短節段單側性病變。影像確診需滿足McDonald標準：病竈在空間上分佈於CNS不同區域，時間上新病竈陸續出現。
 
 **重點摘要**
 - **Dawson手指**：垂直指向腦室的橢圓形T2延長病變（English: Dawson fingers are periventricular ovoid foci of T2 prolongation pointing toward ventricles）
 - **黑洞（Black holes）**：T1低訊號病變，與嚴重脫髓鞘和軸突丟失相關（English: T1 hypointense "black holes" are associated with more severe demyelination and axonal loss）
 - **MS脊髓病變**：通常為短節段單側性（English: Spinal MS involvement is usually short-segment and unilateral）
-
----
-
-### MS Variants and Demyelinating Diseases / 脫髓鞘疾病變異型 (Page 274)
-
-![Page 273](/core_radiology/images/neuro/page-273.png)
-
-本頁涵蓋多種脫髓鞘疾病變異型：同心圓性硬化（Concentric/Balo硬化）、Marburg變異型（爆發性MS，數月內死亡）、Devic病（視神經脊髓炎，NMO-IgG抗體對aquaporin-4特異）。此外介紹PRES（後部可逆性腦病變症候群），為自體調節失敗導致血管性水腫，好發於後循環，觸發因素包括急性高血壓、子癇前期/癲癇、敗血症及化療。
-
-**重點摘要**
-- **同心圓性硬化（Balo）**：MS罕見變異型，呈現正常與異常髓鞘交替的同心圓帶（English: Concentric Balo sclerosis has alternating concentric bands of normal and abnormal myelin）
-- **Devic病（視神經脊髓炎）**：NMO-IgG抗aquaporin-4抗體為診斷標誌（English: NMO-IgG antibody to aquaporin-4 is highly specific for Devic disease）
-- **PRES**：後循環為主的對稱性皮質下白質病變，血管性水腫（English: PRES shows symmetric posterior-predominant subcortical white matter abnormalities of vasogenic edema）
-
----
-
-### CADASIL, Vasculitis, and Microangiopathy / CADASIL、血管炎與微血管病變 (Page 275)
-
-![Page 274](/core_radiology/images/neuro/page-274.png)
-
-CADASIL是遺傳性小血管病變，以反覆中風、偏頭痛、皮質下癡呆和假性球麻痺為特徵；MRI可見前顳葉或旁正中額葉對稱性T2延長病變。血管炎影響CNS小血管，MRI可見皮質下和深部白質多發T2延長，T2*可見微出血。微血管病變（Microangiopathy）為年齡相關性慢性軸突丟失和缺血性改變，常達80%老年人，但從不侵犯胼胝體。
-
-**重點摘要**
-- **CADASIL**：前顳葉T2延長對本病高度特異（English: Anterior temporal lobe T2 prolongation is highly specific for CADASIL）
-- **血管炎**：可見出血竈（GRE/SWI），可用於與MS鑑別（English: Vasculitis may show hemorrhagic foci, helping differentiate from MS）
-- **微血管病變**：從不侵犯胼胝體；若胼胝體受累應考慮其他診斷（English: Microangiopathy never involves corpus callosum）
-
----
-
-### PML, ADEM, and Radiation Injury / 進行性多竈性白質腦病、脫髓鞘性腦脊髓炎與輻射損傷 (Page 276)
-
-![Page 275](/core_radiology/images/neuro/page-275.png)
-
-進行性多竈性白質腦病（PML）見於免疫抑制患者，因JC病毒再活化導致脫髓鞘，MRI顯示不對稱多竈性白質病變，少有佔位效應或強化。ADAM（急性播散性腦脊髓炎）為單相性脫髓鞘疾病，好發於兒童，常在病毒感染或疫苗接种後。Hurst變異型為爆發性HAD，數天內死亡。放射性腦損傷分為急性、早期延遲性（脫髓鞘）和晚期延遲性（白質損傷或放射性壞死）三階段。
-
-**重點摘要**
-- **PML**：不對稱白質病變，少有佔位效應或強化（English: PML shows asymmetric white matter lesions with rare mass effect or enhancement）
-- **ADAM**：單相性，常在病毒感染後，好發於兒童（English: ADEM is monophasic, often post-viral, primarily in children）
-- **放射性腦損傷**：晚期延遲性可出現壞死性腫塊，需與腫瘤復發鑑別（English: Late delayed radiation injury may cause necrotic mass requiring differentiation from tumor recurrence）
 
 ---
 
