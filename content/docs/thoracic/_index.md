@@ -48,27 +48,35 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
-
-
-- Recognize normal thoracic anatomy on chest radiography and CT
-
-
-
-- Identify patterns of lung disease and formulate appropriate differentials
+**胸腔影像學**是理解肺部疾病的核心工具。本章節將幫助您建立系統性的判讀能力。
 
 
 
-- Understand the radiographic appearances of common pulmonary infections
+### 臨床導讀 / Clinical Overview
 
 
 
-- Distinguish benign from malignant lung lesions
+- **胸部 X 光（CXR）**是胸腔疾病的第一線影像工具，應作為所有胸腔影像判讀的起點
+
+- **電腦斷層（CT）**提供優異的解析度，能夠詳細表徵肺實質、氣道與縱膈病變
+
+- **模式識別（Pattern Recognition）**是建立聚焦性鑑別診斷的關鍵策略
+
+- 正常解剖知識是精確定位病變的基礎
 
 
 
-- Recognize pleural and mediastinal pathology
+### 學習目標 / Learning Objectives
 
 
+
+| Objective | Clinical Relevance |
+|---|---|
+| Recognize normal thoracic anatomy on chest radiography and CT | 精確定位病變的解剖位置 |
+| Identify patterns of lung disease and formulate appropriate differentials | 建立系統性鑑別診斷思路 |
+| Understand the radiographic appearances of common pulmonary infections | 區分典型與非典型肺炎 |
+| Distinguish benign from malignant lung lesions | 評估肺癌可能性 |
+| Recognize pleural and mediastinal pathology | 發現非肺實質病變 |
 
 
 
@@ -79,6 +87,8 @@ This chapter covers the following major topics in thoracic imaging:
 > - CT provides superior detail for characterizing lung parenchymal, airway, and mediastinal pathology
 
 > - Pattern recognition is key to formulating focused differential diagnoses in thoracic imaging
+
+> - Always compare current study with prior imaging when available — stability suggests benignity
 
 
 
@@ -141,7 +151,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
-###支氣管肺段 / Bronchopulmonary Segments
+### 支氣管肺段 / Bronchopulmonary Segments
 
 
 
@@ -161,6 +171,27 @@ This chapter covers the following major topics in thoracic imaging:
 
 - **Pulmonary veins** and **lymphatics** run in the **interlobular septa** (peripheral to each secondary pulmonary lobule)
 
+
+
+### 葉間裂隙 / Interlobar Fissures
+
+
+
+| Fissure | Location | Separates |
+|---|---|---|
+| **Minor fissure** | Horizontal; visible on frontal and lateral CXR | RUL from RML |
+| **Right major (oblique) fissure** | Oblique; visible on lateral CXR | Upper/middle lobes from RLL |
+| **Left major (oblique) fissure** | Oblique; visible on lateral CXR | LUL from LLL |
+| **Azygos fissure** | Accessory; <1% of patients | Defines an azygos lobe (RUL apical/posterior segments within own pleural sac) |
+
+
+> **臨床要點**
+
+> - **Minor fissure** displacement indicates volume loss — absence suggests RML or RLL collapse
+
+> - The **azygos lobe** is a normal variant — do not mistake for pathology
+
+> - **Major fissure** visibility on lateral CXR is key to distinguishing upper vs. lower lobe collapse
 
 
 
@@ -198,6 +229,33 @@ This chapter covers the following major topics in thoracic imaging:
 
 ## 肺膨脹不全 / Atelectasis
 
+**肺膨脹不全（Atelectasis）**是肺部影像學中最常見的發現之一，是由於肺泡空氣減少導致肺葉或全肺容積下降的病理狀態，與**肺泡塌陷（collapse）**同義。
+
+### 病因分類 / Etiology Classification
+
+| 類型 | 病因 | 機制 |
+|------|------|------|
+| **阻塞性（Obstructive）** | 腫瘤、異物、黏液栓 | 氣道阻塞，氣體吸收 |
+| **被動性（Passive）** | 胸腔積液、氣胸、腫瘤 | 外部壓迫導致肺泡塌陷 |
+| **疤痕性（Cicatricial）** | 纖維化、肺結核 | 肺實質破壞，疤痕攣縮 |
+| **亞節段性（Subsegmental）** | 手術後、疼痛不敢深呼吸 | 末梢氣道闭合 |
+
+### 影像學分類 / Radiologic Classification
+
+**直接徵象（Direct Signs）**
+- **葉間裂隙位移（Fissure displacement）** — 葉間裂隙向病變側移位
+- **血管擁擠（Vascular crowding）** — 肺血管向病變處聚集
+- **肺葉密度增加** — 病變區域透明度降低
+
+**間接徵象（Indirect Signs）**
+- **橫膈膜抬高（Diaphragm elevation）** — 患側橫膈向上位移
+- **縱膈位移（Mediastinal shift）** — 氣管及心臟向患側移位
+- **肋骨間隙變窄** — 患側肋骨間隙變窄
+- **鄰近肺葉代償性過度膨脹** — 健康肺葉填補容積缺失
+
+> **臨床要點**：肺膨脹不全是肺容積減少的總稱，診斷關鍵在於區分阻塞性與非阻塞性，並找出根本病因。急性阻塞性肺膨脹不全常見於術後患者或肺部感染後；慢性肺膨脹不全則需排除肺癌可能。
+
+
 
 
 
@@ -220,7 +278,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 
-- **血管擁擠 (Vascular crowding)** — crowding of pulmonary vessels in the affected region
+- **血管擁擠 (Vascular crowding)** — crowding of pulmonary vessels in the affected region; occurs because, as the lobe collapses, the volume loss causes the remaining aerated lung parenchyma to compact, bringing the pulmonary arteries and veins closer together; in severe cases the vessels may appear almost stacked
 
 
 
@@ -233,27 +291,37 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 ![Page 015](/core_radiology/images/thoracic/page-015.png)
-- **橫膈膜抬高 (Diaphragm elevation)**
+- **橫膈膜抬高 (Diaphragm elevation)** — elevation of the hemidiaphragm on the affected side; seen especially in lower lobe collapse
 
 
 
-- **鄰近或對側肺葉過度膨脹 (Overinflation of adjacent or contralateral lobes)**
+- **鄰近或對側肺葉過度膨脹 (Overinflation of adjacent or contralateral lobes)** — compensatory hyperinflation of remaining lung tissue to fill the volume deficit
 
 
 
-- **肋骨擁擠 (Rib crowding)** on the side of volume loss
+- **肋骨擁擠 (Rib crowding)** on the side of volume loss — reduced intercostal spaces indicate volume loss
 
 
 
-- **肺門位移 (Hilar displacement)**
+- **肺門位移 (Hilar displacement)** — the hilum shifts toward the collapsed lung; a key secondary sign
 
 
 
-- **縱膈位移 (Mediastinal shift)** toward the side of volume loss
+- **縱膈位移 (Mediastinal shift)** toward the side of volume loss — indicates significant volume loss; if shift is away from the opacity, consider pleural effusion instead
 
 
 
-- **Air bronchograms** are absent in **obstructive atelectasis** (due to central bronchial obstruction) but may be seen in **subsegmental atelectasis**
+- **Air bronchograms** are absent in **obstructive atelectasis** (due to central bronchial obstruction) but may be seen in **subsegmental atelectasis**; presence of air bronchograms favors pneumonia over atelectasis
+
+
+
+> **臨床要點**
+
+> - **Indirect signs** are often more easily recognized than direct signs on CXR
+
+> - **Mediastinal shift away** from an opacity favors pleural effusion; **toward** the opacity favors atelectasis
+
+> - **Rib crowding** is a simple and reliable sign of volume loss on the affected side
 
 
 
@@ -266,31 +334,22 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 ![Page 016](/core_radiology/images/thoracic/page-016.png)
-| Type | Mechanism | Common Causes |
+| Type | Mechanism | Common Causes | Key Features |
+|---|---|---|---|
+| **Obstructive (absorption) atelectasis** | Alveolar gas absorbed by blood; not replaced by inspired air | Mucus plugging, foreign body, tumor | Most common type; occurs rapidly with supplemental O₂ (O₂ absorbed faster than N₂); in ICU, fluid transudation can cause superimposed consolidation |
+| **Relaxation (passive) atelectasis** | Lung relaxation due to intrathoracic mass effect | Pleural effusion, pneumothorax, pulmonary mass | Lobe remains aerated but collapses passively; no bronchial obstruction required |
+| **Adhesive atelectasis** | Surfactant deficiency causing alveolar collapse | Neonatal RDS, ARDS | Surfactant normally reduces surface tension; deficiency leads to end-expiratory collapse |
+| **Cicatricial atelectasis** | Parenchymal fibrosis with architectural distortion | Fibrosis from prior inflammation/injury | Volume loss is irreversible; fibrosis replaces aerated parenchyma |
+| **Subsegmental atelectasis** | Small airway (bronchiole) obstruction by secretions | Post-surgical, general illness | Very common post-operatively; no proven relationship with postoperative fever; usually bibasilar |
 
 
+> **臨床要點**
 
-|---|---|---|
+> - **Obstructive** is the most common mechanism overall; always identify the obstructing lesion in non-post-surgical adults
 
+> - In **ICU patients** on 100% O₂, atelectasis can develop within minutes due to rapid absorption of alveolar gas
 
-
-| **Obstructive (absorption) atelectasis** | Alveolar gas absorbed by blood; not replaced by inspired air | Mucus plugging, foreign body, tumor |
-
-
-
-| **Relaxation (passive) atelectasis** | Lung relaxation due to intrathoracic mass effect | Pleural effusion, pneumothorax, pulmonary mass |
-
-
-
-| **Adhesive atelectasis** | Surfactant deficiency | Neonatal RDS, ARDS |
-
-
-
-| **Cicatricial atelectasis** | Parenchymal fibrosis with architectural distortion | Fibrosis from prior inflammation/injury |
-
-
-
-| **Subsegmental atelectasis** | Small airway obstruction by secretions | Post-surgical, general illness |
+> - **Subsegmental atelectasis** in post-surgical patients does not require antibiotics in isolation — no causative relationship proven with fever
 
 
 
@@ -303,19 +362,59 @@ This chapter covers the following major topics in thoracic imaging:
 
 
 ![Page 017](/core_radiology/images/thoracic/page-017.png)
-- **Obstructive atelectasis** occurs more rapidly in patients on supplemental oxygen (oxygen is absorbed faster than nitrogen)
+### 氧氣與吸收速率 / Oxygen and Absorption Rate
 
 
 
-- In **children**, airway obstruction (e.g., foreign body) causes **hyperexpansion** due to a ball-valve effect — the opposite of adults
+- **Obstructive atelectasis** occurs more rapidly in patients on **supplemental oxygen** — oxygen is absorbed from alveoli into blood faster than nitrogen is replaced by inspired air
+
+- This is especially important in **ICU patients on 100% FiO₂** — atelectasis can develop within minutes
 
 
 
-- **Subsegmental atelectasis** and mild fever are common in post-surgical patients; no proven causative relationship
+### 兒童特點 / Pediatric Considerations
 
 
 
-- **Lobar atelectasis** (complete collapse of one lobe) requires ruling out an obstructing central tumor, especially in outpatients
+- In **children**, airway obstruction (e.g., foreign body aspiration) causes **hyperexpansion** due to a **ball-valve effect** — air enters the lung but cannot exit, causing overinflation distal to the obstruction
+
+- This is the **opposite** of the adult response to airway obstruction
+
+- Foreign body aspiration most commonly affects the **right main bronchus** (wider, more vertical orientation)
+
+
+
+### ICU 情境 / ICU Considerations
+
+
+
+- **Rapid onset** in ventilated patients on high FiO₂ is characteristic of obstructive atelectasis
+
+- In **critically ill ICU patients**, obstructive atelectasis may be accompanied by rapid **transudation of fluid** into obstructed alveoli, resulting in superimposed consolidation
+
+- **Lobar atelectasis** in ICU patients is most commonly due to **mucus plugging** — aggressive pulmonary toilet, bronchodilators, and recruitment maneuvers are indicated
+
+
+
+### 門診 vs. 住院 / Outpatient vs. Inpatient
+
+
+
+- **Acute lobar atelectasis** (minutes to hours) → most likely **mucus plugging**
+
+- **Lobar atelectasis in an outpatient** → must rule out an **obstructing central tumor**
+
+- **Subsegmental atelectasis** and mild fever are common post-operatively; no proven causative relationship between atelectasis and postoperative fever
+
+
+
+> **臨床要點**
+
+> - **Supplemental O₂ accelerates obstructive atelectasis** — in high-risk patients, use the lowest FiO₂ needed
+
+> - **Ball-valve effect in children** causes hyperexpansion, not collapse — the opposite of adults
+
+> - **Post-operative fever + atelectasis** is a classic pairing, but evidence does not support atelectasis as the cause of fever
 
 
 
@@ -946,23 +1045,40 @@ The **secondary pulmonary lobule (SPL)** is the **elemental structural and funct
 
 
 ![Page 032](/core_radiology/images/thoracic/page-032.png)
-| Pattern | Anatomic Location |
+Understanding SPL anatomy is essential for **pattern-based lung disease analysis** on CT, as the distribution of abnormalities within the SPL narrows the differential diagnosis significantly.
 
 
 
-|---|---|
+| Pattern | Anatomic Location | Classic Entities |
+|---|---|---|
+| **Centrilobular** | Center of SPL (bronchioles, centrilobular artery) | Hypersensitivity pneumonitis, respiratory bronchiolitis, endobronchial spread of infection (TB, atypical mycobacteria) |
+| **Perilymphatic** | Along interlobular septa, bronchovascular bundles, subpleural regions | **Sarcoidosis** (most common), pneumoconioses, lymphangitic carcinomatosis |
+| **Random** | Throughout the SPL (hematogenous/angiocentric) | Miliary TB, hematogenous metastases, pulmonary Langerhans cell histiocytosis |
 
 
 
-| **Centrilobular** | Center of SPL (bronchioles, arteries) |
+### 影像對照表 / CT Pattern对照
 
 
 
-| **Perilymphatic** | Along septa, bronchovascular bundles, subpleural regions |
+| SPL Component | Visible on CT? | Disease Implication |
+|---|---|---|
+| **Centrilobular artery** | Yes — faint dot in center of SPL | Enlargement: pulmonary hypertension; beading: vasculitis |
+| **Centrilobular bronchus** | No — normally invisible | If visible = abnormal bronchial wall thickening or dilation |
+| **Interlobular septa** | No — normally thin | Thickening → venous/lymphatic pathology |
+| **Acini (≤12 per SPL)** | No | Overaeration → emphysema; underaeration → atelectasis |
 
 
 
-| **Random** | Throughout the SPL (hematogenous spread) |
+> **臨床要點**
+
+> - **Centrilobular nodules never touch the pleura** — this distinguishes them from perilymphatic and random nodules
+
+> - **Perilymphatic distribution** with upper-lobe predominance is classic for **sarcoidosis** (noncaseating granulomas)
+
+> - **Random nodules** that touch the pleura suggest hematogenous spread — think metastases or miliary TB
+
+> - The **centrilobular artery** is often the only visible component of the SPL on routine CT
 
 
 
@@ -2670,6 +2786,37 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 肺部感染 / Pulmonary Infection
 
+**肺部感染（Pulmonary Infection）**是胸腔影像學中最常見的疾病類別之一，包括社區性肺炎、院內肺炎、免疫抑制患者的伺機性感染等。
+
+### 臨床分類 / Clinical Classification
+
+| 類型 | 定義 | 常見病原 |
+|------|------|---------|
+| **社區性肺炎（CAP）** | 社區中獲得的感染 | 肺炎鏈球菌、黴漿菌、退伍軍人菌 |
+| **院內肺炎（HAP）** | 住院48小時後發生 | 金黃色葡萄球菌、綠膿桿菌、腸道菌 |
+| **呼吸器相關肺炎（VAP）** | 使用呼吸器後發生 | 多重耐藥菌為主 |
+
+### 影像學分類 / Radiographic Patterns
+
+**大葉性肺炎（Lobar Pneumonia）**：肺葉或肺段實變（consolidation），常見於右肺上葉；支氣管充氣像（Air Bronchogram）為特徵性表現
+
+**節段性肺炎（Bronchopneumonia）**：多發性斑片狀浸潤，沿支氣管分布，常見於雙側肺門周圍及下葉
+
+**間質性肺炎（Interstitial Pneumonia）**：網狀或結節狀間質浸潤
+
+### 常見病原與影像特徵
+
+| 病原 | 典型影像特徵 |
+|------|-------------|
+| **肺炎鏈球菌** | 大葉性實變，支氣管充氣像 |
+| **黴漿菌** | 網狀浸潤，小量胸腔積液 |
+| **退伍軍人菌** | 多葉性實變，空洞形成 |
+| **結核** | 上葉空洞，支氣管傳播 |
+| **真菌（免疫抑制）** | 結節性浸潤，空洞，暈徵（halo sign） |
+
+> **併發症**：肺膿腫（壞死組織液化形成空洞）、膿胸（感染蔓延至胸膜腔）、肺氣囊（肺泡破裂形成囊性空腔）、支氣管胸膜瘻（BPF，嚴重併發症需積極處理）
+
+
 
 
 
@@ -4244,6 +4391,26 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 肺水腫 / Pulmonary Edema
 
+**肺水腫（Pulmonary Edema）**是指液體異常堆積於肺間質或肺泡內，常見於心衰竭、腎衰竭、急性呼吸窘迫症候群（ARDS）等。
+
+### 病因分類 / Etiology
+
+| 類型 | 病因 | 機制 |
+|------|------|------|
+| **心源性** | 左心衰竭、心肌梗塞、心包填塞 | 肺毛細血管壓力升高 |
+| **非心源性** | ARDS、敗血症、創傷 | 肺泡毛細血管通透性增加 |
+| **靜水壓性** | 腎衰竭、液體過量 | 膠體滲透壓降低 |
+| **通透性增加** | 吸入性損傷、藥物中毒 | 血管內皮受損 |
+
+### 影像學分期 / Imaging Staging
+
+**間質性水腫（Interstitial Edema）**：間隔線（Kerley B lines）代表間質液體堆積；支氣管袖口徵（Bronchial cuffing）為支氣管壁增厚；血管邊界模糊
+
+**肺泡水腫（Alveolar Edema）**：蝴蝶翼徵（Bat wing sign）為雙側肺門周圍浸潤；邊緣模糊向肺野外帶延伸；可見支氣管充氣像
+
+> **血流重分布**：心源性肺水腫時，血流從上方肺葉重分布至下方肺葉，導致上方肺野血管增粗，此為區分心源性與非心源性水腫的重要指標。過敏性肺炎可模擬肺水腫表現，需結合病史區分。
+
+
 
 
 
@@ -4677,6 +4844,31 @@ SVC → Right atrium → Tricuspid valve → Right ventricle → Pulmonic valve 
 
 
 ## 肺癌 / Lung Cancer — Clinical Overview
+
+**肺癌（Lung Cancer）**是全球死亡率最高的惡性腫瘤之一，影像學在早期發現、分期及治療評估中扮演核心角色。
+
+### 流行病學 / Epidemiology
+
+- **危險因子**：吸菸（90%相關）、二手菸、氡氣暴露、石棉、空氣污染
+- **組織學分類**：非小細胞肺癌（85%）、小細胞肺癌（15%）
+- **好發年齡**：55-74歲
+
+### 非小細胞肺癌組織學類型 / NSCLC Subtypes
+
+| 類型 | 占比 | 影像特徵 | 預後 |
+|------|------|---------|------|
+| **腺癌** | 40% | 周邊型、結節狀、可有空洞 | 較佳 |
+| **鱗狀細胞癌** | 25% | 中央型、厚壁空洞 | 中等 |
+| **大細胞癌** | 10% | 周邊型大腫塊 | 較差 |
+
+### 孤立性肺結節評估 / SPN Evaluation
+
+**良性結節特徵**：完整鈣化（中心性、爆米花樣、分層樣）、邊緣光滑銳利、兩年內無增長
+
+**惡性結節特徵**：分葉狀邊緣（lobulated）、毛刺徵（spiculation）、空洞壁厚不規則、增長迅速
+
+> **TNM分期要點**：T分期看腫瘤大小（T1<3cm, T2 3-7cm, T3>7cm）及侵犯結構；N分期看淋巴結轉移；M分期看遠處轉移。早期肺癌（I-II期）以手術切除為主，局部晚期（III期）需多模態治療。
+
 
 
 
@@ -6675,6 +6867,31 @@ SVC → Right atrium → Tricuspid valve → Right ventricle → Pulmonic valve 
 
 
 ## 肺栓塞 / Pulmonary Embolism (PE)
+
+**肺栓塞（Pulmonary Embolism, PE）**是靜脈血栓栓塞症（VTE）的最嚴重表現，死亡率高，及時診斷至關重要。
+
+### 病因與危險因子 / Risk Factors
+
+| 類型 | 常見原因 |
+|------|---------|
+| **靜脈瘀滯** | 長期臥床、長途旅行、肥胖 |
+| **內皮損傷** | 手術、創傷、靜脈導管 |
+| **高凝狀態** | 惡性腫瘤、遺傳性血栓素質、口服避孕藥 |
+
+### 臨床表現 / Clinical Presentation
+
+- **典型三聯徵**：呼吸困難、胸痛、咳血（僅見於少數患者）
+- **其他症狀**：心悸、暈厥、發紺
+- **體徵**：tachypnea、tachycardia、血氧飽和度下降
+
+### CT肺血管造影（CTPA）診斷標準
+
+**直接徵象**：血栓（Thrombus）為肺動脈腔內充盈缺損（filling defect）；馬鞍形血栓（Saddle embolus）跨分歧部大型血栓，緊急處理
+
+**間接徵象**：肺梗死（楔形實變）、右心負荷過重（右心擴大、室間隔變平）、蘭姆塞徵（Hampton hump）、威斯特ermark徵（Westermark sign）
+
+> **診斷要點**：Wells Score用於臨床評估PE可能性；D-dimer正常可排除低度可能性患者之PE；CTPA為標準診斷工具，敏感度>95%。孕婦考慮MR肺血管造影（無輻射暴露）。
+
 
 
 
