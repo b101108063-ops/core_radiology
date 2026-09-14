@@ -819,6 +819,7 @@ Pineocytoma（松果體細胞瘤）為低惡性度（WHO I-II級）的松果體�
 - **Isodense subdural hematoma（等衰減值硬膜下血腫）**：亞急性期（1-3週），需靠mass effect診斷
 - **Intraventricular hemorrhage（腦室內出血）**：可致阻塞性水腦（導水管阻塞後黏連所致）
 
+![Page 235](/core_radiology/images/neuro/page-235.png)
 ---
 
 ### Intra-axial Injury / 軸內腦損傷 (Page 253)
@@ -1165,6 +1166,7 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 - **竇匯（Torcular Herophili）**：上矢狀竇、橫竇、直竇匯合
 - **靜脈角（Venous angle）**：透明隔靜脈與丘紋靜脈交匯處，Monro孔標誌
 - **Labbé靜脈（Vein of Labbé）**：顳葉至橫竇，手術中損傷可致靜脈性梗塞
+![Page 271](/core_radiology/images/neuro/page-271.png)
 
 ---
 
@@ -1310,6 +1312,10 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 化膿性腦膿腫可由血行播散、鼻竇炎/乳突炎直接蔓延或腦膜炎併發症引起。膿腫演變經四階段（早期腦炎→晚期腦炎→早期膿腫→晚期膿腫），約需兩週完全形成。成熟膿腫的典型影像特徵包括：T2均勻低訊號的薄壁、光滑的環形強化，以及DWI高訊號/ADC低訊號（受限擴散），此乃因膿液高黏滳性所致。
 
+![Page 284](/core_radiology/images/neuro/page-284.png)
+![Page 283](/core_radiology/images/neuro/page-283.png)
+![Page 282](/core_radiology/images/neuro/page-282.png)
+![Page 281](/core_radiology/images/neuro/page-281.png)
 **重點摘要**
 - **環形強化**：膿腫壁薄而光滑，有別於膠質母細胞瘤或轉移瘤的不規則厚壁（English: Abscess rim is thin and smooth, unlike the thick irregular wall of glioma or metastasis）
 - **DWI受限擴散**：幾乎所有化膿性膿腫都表現DWI高訊號/ADC低訊號（English: Pyogenic brain abscess almost always demonstrates restricted diffusion on DWI）
@@ -1611,6 +1617,8 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 前顱底惡性腫瘤包括嗅神經母細胞瘤（esthesioneuroblastoma，又稱olfactory neuroblastoma）、鱗狀細胞癌（SCC，鼻竇和鼻腔最常見惡性腫瘤）、腺樣囊性癌和橫紋肌肉瘤。嗅神經母細胞瘤為雙峰年齡分布，好發於青少年和中年人，CT上略高衰減，T1/T2中等訊號（因高細胞密度），常見鈣化，特徵性表現是顱內部分邊緣的囊性竈。鱗狀細胞癌強化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵。
 
+![Page 309](/core_radiology/images/neuro/page-309.png)
+![Page 302](/core_radiology/images/neuro/page-302.png)
 **重點摘要**
 - **嗅神經母細胞瘤**：神經嵴來源，好發於青少年和中年，邊緣囊性竈為特徵（English: Esthesioneuroblastoma is neural crest tumor with bimodal age, peripheral tumor cysts at intracranial margin are characteristic）
 - **鱗狀細胞癌**：鼻竇/鼻腔最常見惡性腫瘤，上頜竇最常見原發部位（English: SCC is most common sinonasal malignancy; maxillary antrum is most common primary site）
@@ -2008,6 +2016,22 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 ### 髓外膜內病竈 / 髓外膜內病竈（Intradural-Extramedullary Lesions） (Page 355)
 
 ![Page 354](/core_radiology/images/neuro/page-354.png)
+![Page 351](/core_radiology/images/neuro/page-351.png)
+![Page 350](/core_radiology/images/neuro/page-350.png)
+![Page 349](/core_radiology/images/neuro/page-349.png)
+![Page 348](/core_radiology/images/neuro/page-348.png)
+![Page 347](/core_radiology/images/neuro/page-347.png)
+![Page 346](/core_radiology/images/neuro/page-346.png)
+![Page 345](/core_radiology/images/neuro/page-345.png)
+![Page 344](/core_radiology/images/neuro/page-344.png)
+![Page 343](/core_radiology/images/neuro/page-343.png)
+![Page 341](/core_radiology/images/neuro/page-341.png)
+![Page 340](/core_radiology/images/neuro/page-340.png)
+![Page 339](/core_radiology/images/neuro/page-339.png)
+![Page 338](/core_radiology/images/neuro/page-338.png)
+![Page 337](/core_radiology/images/neuro/page-337.png)
+![Page 336](/core_radiology/images/neuro/page-336.png)
+![Page 335](/core_radiology/images/neuro/page-335.png)
 
 髓外膜內病竈位於硬膜內但位於軟膜外，大多數時候位於蛛網膜下腔。典型影像表現（但非總是出現）是病竈與脊髓之間有CSF裂隙。神經鞘瘤（神經纖維瘤與神經鞘瘤）與腦膜瘤合計占髓外膜內腫瘤的90%。神經鞘瘤不能從影像上可靠地與神經纖維瘤區分；神經鞘瘤較常見，發生於老年患者，有完整包膜可進行「 shelling out」的手術方式；神經纖維瘤與第一型神經纖維瘤病相關，發生於年輕成人，缺乏包膜因此需切除神經。兩者皆可導致神經孔擴大。Target sign（T2加權圖像上周邊高訊號圍繞中心低訊號）提示良性。腦膜瘤為良性腫瘤，起源於蛛網膜帽狀細胞，最常見於老年女性，典型影像特徵包括寬廣的硬膜附著部與經常性鈣化。
 
