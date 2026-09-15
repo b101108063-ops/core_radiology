@@ -15,13 +15,13 @@ weight: 847
 
 血管迷走神經性反應、肺水腫、癲癇發作等皆屬此類，需與過敏性反應鑑別。
 
-![Treatment of contrast media reaction - allergic type flowchart]({{ site.baseurl }}/images/physics/page-847.png)
+![Treatment of contrast media reaction - allergic type flowchart](/core_radiology/images/physics/page-847.png)
 
 **臨床描述：** 此流程圖清楚呈現過敏性對比劑反應的分類與處置階梯。中間欄為支氣管痙攣的處置，需給予氧氣、beta-agonist 吸入劑，若反應不佳則使用 epinephrine。右側欄為顏面或喉部水腫的緊急處理，同樣以 epinephrine 為主。臨床上需快速評估反應型態與嚴重程度。
 
 **臨床描述：** 血管迷走神經性反應（低血壓合併心搏過緩）的處置流程位於圖示左欄。首要步驟為心電圖監測、給氧，並抬高雙腿或採 Trendelenburg 姿勢。若反應不佳，atropine 0.6-1 mg IV 是關鍵治療藥物，最大劑量可達 0.04 mg/kg。此類反應雖非過敏引起，但臨床上可能與過敏性反應混淆。
 
-![Treatment of contrast media reaction - non-allergic type]({{ site.baseurl }}/images/physics/page-848.png)
+![Treatment of contrast media reaction - non-allergic type](/core_radiology/images/physics/page-848.png)
 
 **臨床描述：** 此圖呈現非過敏性對比劑反應的緊急處置演算法。肺水腫患者需採坐姿、給氧，並靜脈注射 furosemide 20-40 mg。癲癇發作時首選 diazepam 5 mg IV 或 midazolam 0.5-1 mg IV，並需持續監測生命徵象與血氧飽和度。處置時機的掌握是搶救成功的關鍵。
 
@@ -87,7 +87,7 @@ CIN 是指在血管內注射碘對比劑後，因不明原因導致的腎功能�
 
 <span style="color:#60a5fa">**釓對比劑的輕度和重度不良反應都比碘對比劑罕見得多。**</span> 大多數不良反應為輕度，如噁心、嘔吐、頭痛或注射部位疼痛。過敏性反應罕見（0.004%-0.7%），過敏性休克極為罕見（<0.01%）。外滲的處理方式與碘對比劑相似，但釓對比劑對皮膚及軟組織的毒性低得多。
 
-![Physics quick review - radiation units and measurement]({{ site.baseurl }}/images/physics/page-849.png)
+![Physics quick review - radiation units and measurement](/core_radiology/images/physics/page-849.png)
 
 **臨床描述：** 此圖說明各種輻射劑量的測量與單位。空氣克馬（Air Kerma）描述入射 X 光束強度，單位為 Gray (Gy)。等效劑量（Equivalent Dose）採用 Sievert (Sv) 單位，是吸收劑量（Gy）乘以射線加權因子，診斷用 X 光 WR=1。有效劑量（Effective Dose）則納入各器官的放射敏感性加權因子。這些概念是理解影像輻射劑量的基礎。
 
@@ -107,7 +107,7 @@ NSF 是一種高致死率的疾病，特徵為<span style="color:#60a5fa">**皮�
 
 <span style="color:#f87171">**【禁忌症】**</span> 懷孕期間不應給予釓對比劑。釓會穿過胎盤，可能累積於羊水中並長期停留，有解離出毒性游離釓離子的風險。哺乳方面，24 小時內經乳汁分泌的劑量不到母體劑量的 0.04%，嬰兒吸收劑量僅約 0.0004%，持續哺乳應屬安全。
 
-![X-ray generator and beam quality]({{ site.baseurl }}/images/physics/page-850.png)
+![X-ray generator and beam quality](/core_radiology/images/physics/page-850.png)
 
 **臨床描述：** X 光光子由高能電子撞擊陽極端靶材產生。一般放射與 CT 使用鎢（原子序 74）作為靶材。99% 電子動能轉換為熱能，僅 1% 轉換為 X 光。90% X 光來自制動輻射（bremsstrahlung），10% 來自特性輻射（characteristic radiation）。特性 X 光產生於高能電子將 K 層電子撞出軌道後，外層電子填補空位時所釋放的能量。
 
@@ -166,7 +166,7 @@ X 光產量與 <span style="color:#60a5fa">**(kV)² 成正比**</span>。kV 增�
 
 **Heel Effect（足跟效應）：** 這是由於陽極端的光子衰減造成的，導致陽極端 X 光較少。足跟效應的主要影響因素是陽極角度（典型約 15 度）。**陽極角度越大，足跟效應越明顯。**
 
-![X-ray interactions with matter]({{ site.baseurl }}/images/physics/page-851.png)
+![X-ray interactions with matter](/core_radiology/images/physics/page-851.png)
 
 **臨床描述：** 此圖說明 X 光與物質的三種主要交互作用機制。上方為<span style="color:#22d3ee">**同調散射（Coherent scatter）**</span>，無能量交換、無頻率改變，對患者劑量無貢獻。中間為<span style="color:#22d3ee">**康普吞散射（Compton散射）**</span>，光子被散射後波長變長、頻率降低、能量減少。下方為<span style="color:#22d3ee">**光電效應（Photoelectric effect）**</span>，光子能量完全被吸收，擊出內層電子後產生特性 X 光或 Auger 電子。
 
@@ -280,7 +280,7 @@ HVL 是測量光束品質的指標，定義為使 50% 入射能量衰減所需�
 | 曝光時間 | 50 ms | 3 s |
 | mAs | 100（使用濾線柵）| 70（不使用濾線柵）|
 
-![Mammography physics and AGD]({{ site.baseurl }}/images/physics/page-852.png)
+![Mammography physics and AGD](/core_radiology/images/physics/page-852.png)
 
 **臨床描述：** 乳房攝影 X 光機使用<span style="color:#60a5fa">**鉬（Mo）靶**</span>（K-edge 20 keV）產生 17 和 19 keV 的特性 X 光。Mo 濾波器可濾除不參與成像的低能 X 光（增加輻射暴露）及高能 X 光（降低對比度）。銠（Rh）濾波器將能譜向右偏移，用於較厚或較緻密的乳房。平均能量約 17 keV。
 
@@ -334,7 +334,7 @@ HU 是測量相對 CT 衰減的值：
 
 <span style="color:#60a5fa">**重要原則：** 10 HU = 1% 的對比差異。灰質與白質的對比差異僅 0.5%。</span>
 
-![CT dosimetry and image quality]({{ site.baseurl }}/images/physics/page-853.png)
+![CT dosimetry and image quality](/core_radiology/images/physics/page-853.png)
 
 **臨床描述：** CT 劑量指數（CTDI）是測量單次軸向掃描（含散射）的平均 phantom 劑量，單位為 Gy。CTDIvol = CTDIw / pitch。Pitch 與病床移動速度相關：pitch < 1 會過度掃描並增加輻射暴露；pitch > 1 會漏掃但降低暴露。CTDIvol 與掃描長度無關，是評估 CT 輻射劑量的標準指標。
 
@@ -484,7 +484,7 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 - BW：接收頻寬，寬頻寬可加快採集但增加雜訊
 - B：磁場強度的固有函數
 
-![MRI physics - T1, T2 relaxation and pulse sequences]({{ site.baseurl }}/images/physics/page-854.png)
+![MRI physics - T1, T2 relaxation and pulse sequences](/core_radiology/images/physics/page-854.png)
 
 **臨床描述：** 此圖說明 MRI 的 T1 與 T2 弛緩時間特性。上排為 T1 弛緩（縱向弛緩），下排為 T2 弛緩（橫向弛緩）。T1 對比依賴重複時間（TR），T2 對比依賴回波時間（TE）。短 TR 短 TE 產生 T1 加權影像，脂肪和亞急性出血因 T1 弛緩時間短，在 T1 加權影像上呈現高信號（亮）。
 
@@ -583,7 +583,7 @@ PRF 是探頭每秒輸出超聲波脈衝的次數。PRF 增加會導致回波接
 
 <span style="color:#60a5fa">**電子捕獲記憶口诀：** "COWBOY says GIIT over here" → Cs-137（劑量校正）、Ga-67、In-111、I-123、Tl-201</span>
 
-![Nuclear medicine decay and quality control]({{ site.baseurl }}/images/physics/page-855.png)
+![Nuclear medicine decay and quality control](/core_radiology/images/physics/page-855.png)
 
 **臨床描述：** 此圖說明核子醫學中各種衰變類型的原子序與原子質量變化。左上為 β⁻ 衰變（過多中子），原子序增加 1。右上為 β⁺ 衰變（過多質子），原子序減少 1。下方為電子捕獲，與 β⁺ 衰變競爭，質子捕獲 K 層電子後轉變為中子，導致特徵 X 光或 Auger 電子的釋放。
 
