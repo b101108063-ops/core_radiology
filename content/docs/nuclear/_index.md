@@ -1,3 +1,8 @@
+---
+title: "Nuclear Medicine Imaging"
+weight: 7
+---
+
 ## PET-CT (page 562)
 
 [Chapter opening image - no clinical content needed, just insert the image]
@@ -134,7 +139,6 @@
 
 ### Radionuclides in Nuclear Cardiology
 
-![Page 571](/core_radiology/images/nuclear/page-571.png)
 
 | Agent | Type | Half-life | Key Features |
 |-------|------|----------|--------------|
@@ -193,7 +197,6 @@
 
 ### Sample Nuclear Cardiology Cases
 
-![Page 576](/core_radiology/images/nuclear/page-576.png)
 
 #### Normal Study
 - Rest and stress images are identical; both normal.
@@ -212,7 +215,6 @@
 
 ### Radiotracers
 
-![Page 577](/core_radiology/images/nuclear/page-577.png)
 
 | Agent | Half-life | Energy | Administration | Primary Use |
 |-------|-----------|--------|----------------|-------------|
@@ -264,7 +266,6 @@
 ### Therapeutic Indications (I-131)
 
 ![Page 579](/core_radiology/images/nuclear/page-579.png)
-![Page 580](/core_radiology/images/nuclear/page-580.png)
 
 #### Thyroid Carcinoma (Post-Thyroidectomy)
 - I-131 given ~1–2 months post-thyroidectomy to treat/image residual/metastatic disease.

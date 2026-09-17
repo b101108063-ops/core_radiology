@@ -1,5 +1,5 @@
 baseURL: "https://b101108063-ops.github.io/core_radiology/"
-languageCode: "zh-tw"
+locale: "zh-TW"
 title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
 theme: "hugo-book"
 enableEmoji: true

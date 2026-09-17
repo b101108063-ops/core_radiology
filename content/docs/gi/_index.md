@@ -331,7 +331,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 環狀胰臟（annular pancreas）是一種罕見的先天性異常，胰臟組織完全環繞十二指腸，是由於腹側胰芽旋轉不完全所導致。Annular pancreas is a rare congenital anomaly where a portion of the pancreas wraps completely around the duodenum, secondary to incomplete rotation of the ventral pancreatic bud.
 
 **重點摘要**
-- 成人環狀胰臟可引起胰臟炎、消化性潰�疾病與十二指腸阻塞；新生兒則可導致十二指腸阻塞，為雙氣泡徵（double bubble sign）的鑑別診斷之一。In adults, annular pancreas can cause pancreatitis, peptic ulcer, and duodenal obstruction; in neonates, it can cause duodenal obstruction.
+- 成人環狀胰臟可引起胰臟炎、消化性潰瘍疾病與十二指腸阻塞；新生兒則可導致十二指腸阻塞，為雙氣泡徵（double bubble sign）的鑑別診斷之一。In adults, annular pancreas can cause pancreatitis, peptic ulcer, and duodenal obstruction; in neonates, it can cause duodenal obstruction.
 - 共同通道症候群（common channel syndrome），又稱胰膽管合流異常（pancreaticobiliary maljunction），遠端膽總管與胰管之間缺少分隔，允許兩系統統間逆流。In common channel syndrome, the distal CBD and pancreatic duct are missing the septum, allowing reflux between the two systems.
 
 ---

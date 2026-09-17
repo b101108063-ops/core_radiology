@@ -50,7 +50,7 @@ weight: 8
 
 ![Page 604](/core_radiology/images/breast/page-604.png)
 
-**發炎性乳癌（Inflammatory Carcinoma）** 為癌細胞侵犯真皮淋巴管，臨床表現為乳房紅腫、 edema（水中毒）及變硬，乳房攝影可見乳房變大、密度增加、小樑增厚及皮膚增厚。**帕哲忒氏病（Paget Disease of the Nipple）** 為 DCIS 的一種，癌細胞浸潤乳頭表皮，臨床表現為乳頭紅斑、潰爛及濕疹樣改變。乳癌預後最重要的因素是腋下淋巴結狀態，無淋巴結轉移者的治愈率最高。
+**發炎性乳癌（Inflammatory Carcinoma）** 為癌細胞侵犯真皮淋巴管，臨床表現為乳房紅腫、水腫（edema）及變硬，乳房攝影可見乳房變大、密度增加、小樑增厚及皮膚增厚。**帕哲忒氏病（Paget Disease of the Nipple）** 為 DCIS 的一種，癌細胞浸潤乳頭表皮，臨床表現為乳頭紅斑、潰爛及濕疹樣改變。乳癌預後最重要的因素是腋下淋巴結狀態，無淋巴結轉移者的治愈率最高。
 
 ---
 
