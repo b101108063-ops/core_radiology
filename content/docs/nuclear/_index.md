@@ -3,11 +3,13 @@ title: "Nuclear Medicine Imaging"
 weight: 7
 ---
 
-## PET-CT (page 562)
+## 正子斷層與電腦斷層 (PET-CT)
 
-[Chapter opening image - no clinical content needed, just insert the image]
+<!-- page: 562 -->
 
 ![Page 562](/core_radiology/images/nuclear/page-562.png)
+
+本章介紹核醫影像的核心原理與臨床應用，包括 PET-CT、核醫心臟檢查、甲狀腺與副甲狀腺造影、腸胃道與肺部掃描、骨骼掃描，以及腎臟與腦血流評估。內容著重放射性藥物分布、正常生理攝取、常見偽影與影像判讀重點。
 
 ## Technical Considerations (pages 563–564)
 

@@ -4,19 +4,11 @@ weight: 9
 ---
 ![Page 667](/core_radiology/images/cardiovascular/page-667.png)
 
-9 Cardiovascular imaging Contents Aortic anatomy 659 Acute aortic syndrome 661
-
-
-
-
+本章涵蓋主動脈解剖與急性主動脈症候群、冠狀動脈 CT、心臟 MRI、胸部 X 光心臟判讀、非缺血性心肌疾病及心包疾病，並整理重要影像徵象、測量標準與臨床處置原則。
 
 ## 第 9 章 / Chapter 9：心血管影像 / Cardiovascular Imaging
 
-
-
 ### 章節目錄 / Contents
-
-
 
 | 單元 | 標題 | 頁碼 |
 |------|------|------|
@@ -31,25 +23,11 @@ weight: 9
 | 9 | 心包疾病 / Pericardial Disease | 689 |
 ---
 
-
-
-
-
-
-
-
-
 ## 主動脈解剖 / Aortic Anatomy
-
-
 
 ### 主動脈弓及變異 / Aortic Arch and Variants
 
-
-
 ### 正常主動脈弓分支 / Normal Aortic Arch Branching
-
-
 
 | 分支名稱 | 說明 |
 |---------|------|
@@ -58,11 +36,7 @@ weight: 9
 | **左鎖骨下动脉（Left subclavian artery）** | 主動弓第三分支 |
 - **正常主動弓分支型態**佔 **66%** 的人口
 
-
-
 ### 常見變異：無名动脉與左總頸动脉共同起源 / Common Variant: Common Origin of Brachiocephalic and Left Common Carotid
-
-
 
 | 特徵 | 說明 |
 |------|------|
@@ -75,25 +49,13 @@ weight: 9
 > - 此變異在黑人族群中更常見
 > - 影像報告中應清楚描述分支型態以供外科手術規劃參考
 
-
-
-
-
-
-
 ## 主動脈弓變異（續）/ Aortic Arch Variants (Continued)
 
-
-
 ### 迷行右鎖骨下动脉 / Aberrant Right Subclavian Artery
-
-
 
 ### 疾病名稱 / Disease Name
 
 **迷行右鎖骨下动脉（Aberrant Right Subclavian Artery）** 是主動弓的先天性變異。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -111,27 +73,17 @@ weight: 9
 
 - **重要注意**：若計劃甲狀腺手術，**喉返神經**不在正常位置，手術風險增加
 
-
-
 ### 附加發現 / Additional Finding
 
 - **Kommerel 憩室（Diverticulum of Kommerel）**：迷行鎖骨下动脉起源處的小膨出
 
-
-
 ---
 
-
-
 ### 左椎动脉直接起源於主動脈 / Left Vertebral Artery Origin Directly from Aorta
-
-
 
 ### 疾病名稱 / Disease Name
 
 **左椎动脉直接起源於主動弓（Aortic origin of the left vertebral artery）** 是一種四血管主動弓變異。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -145,25 +97,13 @@ weight: 9
 > - 甲狀腺或頸部手術前需確認有無此變異
 > - 左椎动脉直接起源於主動弓為相對常見的變異，發生率約 6%
 
-
-
-
-
-
-
 ## 急性主動脈症候群 / Acute Aortic Syndrome
 
-
-
 ### 概述 / Overview
-
-
 
 ### 疾病定義 / Disease Definition
 
 **急性主動脈症候群（Acute Aortic Syndrome）** 是一組以主動脈壁損傷為特徵的相關疾病，臨床上以嚴重胸痛為主要表現。
-
-
 
 ### 疾病分類 / Disease Classification
 
@@ -181,15 +121,9 @@ weight: 9
 | **降主動脈（Descending aorta）** | 內科治療為主（血壓控制）|
 > ⚠️ 任何急性主動脈病變通常需要完整主動脈成像。
 
-
-
 ---
 
-
-
 ### 主動脈剝離 / Aortic Dissection
-
-
 
 ### 病理機制 / Pathophysiology
 
@@ -202,8 +136,6 @@ weight: 9
 4. 假腔內血流較慢，容易血栓形成
 
 5. 血液經**再入口撕裂（re-entry tear）**離開假腔
-
-
 
 ### 風險因子 / Risk Factors
 
@@ -224,28 +156,15 @@ weight: 9
 
 - 粥樣硬化相關的主動剝離**較常見於 Type B（降主動脈）**
 
-
-
-
 > **臨床要點**
 > - 主動剝離的關鍵特徵是內膜中斷，高壓血流滲入並擴張中膜
 > - 高血壓是最重要的風險因子
 > - 治療方式取決於病灶位置（升主動脈 vs. 降主動脈），而非病因
 > - 完整主動脈成像是急性主動脈病變的必要檢查
 
-
-
-
-
-
-
 ## 主動剝離分型 / Classification of Aortic Dissection
 
-
-
 ### Stanford 分型系統 / Stanford Classification System
-
-
 
 ### Type A（Stanford A 型）
 
@@ -281,19 +200,9 @@ weight: 9
 > - CT 血管造影（CTA）是診斷主動剝離的首選無創檢查
 > - 準確區分 Type A 與 Type B 對治療決策至關重要
 
-
-
-
-
-
-
 ## 壁內血腫 / Intramural Hematoma (IMH)
 
-
-
 **壁內血腫（Intramural Hematoma, IMH）** 是主動剝離的一種變異型，血液堆積於中膜內，但無內膜瓣與主動腔相連。
-
-
 
 ### 病因學 / Etiology
 
@@ -302,8 +211,6 @@ weight: 9
 - **高血壓**：與剝離類似，是主要風險因子
 
 - **外傷**：可能導致創傷性壁內血腫
-
-
 
 ### 病理特點 / Pathologic Features
 
@@ -325,8 +232,6 @@ weight: 9
 
 - **替代策略**：低風險患者可先做非對比 CT，若在 CTA 上懷疑 IMH 再加做非對比 CT，以降低輻射劑量
 
-
-
 ### 治療原則 / Treatment Principles
 
 | 病灶位置 | 治療建議 |
@@ -346,19 +251,9 @@ weight: 9
 > - 治療建議與主動剝離相同，取決於是否涉及升主動脈
 > - 高風險患者建議在 CTA 前常規先行非對比 CT，以準確檢出 IMH
 
-
-
-
-
-
-
 ## 穿透性粥樣硬化潰湯 / Penetrating Atherosclerotic Ulcer (PAU)
 
-
-
 **穿透性粥樣硬化潰湯（Penetrating Atherosclerotic Ulcer, PAU）** 是指粥樣硬化斑塊穿透內膜，血液進入中膜形成的病變。
-
-
 
 ### 病理機制 / Pathophysiology
 
@@ -374,8 +269,6 @@ weight: 9
 - 與剝離及壁內血腫不同，PAU 主要由**粥樣硬化**而非高血壓引起
 
 - 粥樣硬化相關剝離的理論之一是起始於穿透性潰湯
-
-
 
 ### 診斷要點 / Diagnostic Key Points
 
@@ -397,34 +290,19 @@ weight: 9
 
 - 若發現 PAU，建議對整個主動腔進行成像
 
-
-
-
 > **臨床要點**
 > - PAU 在影像上表現為對比劑潰湯超出主動腔壁的預期輪廓
 > - 與其他急性主動症候群不同，PAU 主要與粥樣硬化相關
 > - 多發潰湯可能遍布整個胸腹主動腔
 > - 所有急性主動病變都建議進行全主動腔成像
 
-
-
-
-
-
-
 ## 主動創傷 / Traumatic Aortic Injury
 
-
-
 **創傷性主動損傷（Traumatic Aortic Injury）** 是因減速傷害導致主動創傷性病變。
-
-
 
 ### 損傷好發位置 / Predilection Sites
 
 主動創傷好發於三個相對固定的解剖位置（因減速傷害）：
-
-
 
 | 位置 | 說明 |
 |------|------|
@@ -438,8 +316,6 @@ weight: 9
 - 約 5% 鈍性主動創傷患者存活
 
 - 常伴有**無名动脉、左頸總动脉或左鎖骨下动脉**起始部的損傷
-
-
 
 ### 診斷要點 / Diagnostic Key Points
 
@@ -456,8 +332,6 @@ weight: 9
 
 - 壁內血腫（intramural hematoma）
 
-
-
 ### 鑑別要點 / Differential Key Points
 
 | 情況 | 血腫特點 | 處理原則 |
@@ -470,19 +344,9 @@ weight: 9
 > - 主動壁接觸的血腫提示主動損傷，需手術治療
 > - 主動峽部是鈍性創傷存活者最常見的損傷位置
 
-
-
-
-
-
-
 ## 胸主動瘤 / Thoracic Aortic Aneurysm (TAA)
 
-
-
 **胸主動瘤（Thoracic Aortic Aneurysm, TAA）** 是指胸主動局部病理性擴大。
-
-
 
 ### 定義與測量 / Definition and Measurement
 
@@ -491,8 +355,6 @@ weight: 9
 | 升主動 | 直徑 **>4 cm** |
 | 降主動 | 直徑 **>3 cm** |
 > ⚠️ 主動大小也需根據體表面積標準化並與參考值比較。
-
-
 
 ### 病因學 / Etiology
 
@@ -515,20 +377,13 @@ weight: 9
 | 降主動 | **>6.0 cm** | >6.0 cm |
 > ⚠️  além size criteria，年生長率 **>1 cm/年**（或 >5 mm/6 個月）也是手術適應症。
 
-
-
 ### 破裂徵象 / Signs of Impending Rupture
 
 - **主動下垂徵象（Draped Aorta Sign）**：軸位影像上主動後壁緊貼脊柱
 
-
-
 ### 治療併發症 / Treatment Complications
 
 - 破裂、剝離、感染、內漏（endoleak）、截癱（因 Adamkiewicz 动脉阻塞）
-
-
-
 
 > **臨床要點**
 > - 測量主動直徑應使用**與主動腔垂直的雙斜短軸多平面重建圖像（double-oblique short-axis MPR）**
@@ -536,19 +391,9 @@ weight: 9
 > - 主動下垂徵象是即將破裂的徵兆
 > - 超過三分之一的粥樣硬化性 TAA 患者同時有腹主動瘤
 
-
-
-
-
-
-
 ## 腹主動瘤 / Abdominal Aortic Aneurysm (AAA)
 
-
-
 **腹主動瘤（Abdominal Aortic Aneurysm, AAA）** 是指腹主動局部病理性擴大，直徑 ≥3 cm。
-
-
 
 ### 流行病學 / Epidemiology
 
@@ -561,13 +406,9 @@ weight: 9
 
 - **年齡**、**男性**、**吸煙**、**家族史**
 
-
-
 ### 自然病史 / Natural History
 
 - AAA 的自然病程是逐漸擴大，最終破裂
-
-
 
 ### 年度破裂風險 / Annual Rupture Risk
 
@@ -592,8 +433,6 @@ weight: 9
 | **>5.5 cm** | 建議手術 |
 > ⚠️ 除了大小，手術適應症還包括：**年生長率 >5 mm/年** 或有症狀的 AAA。
 
-
-
 ### 治療方式 / Treatment Options
 
 | 方式 | 優缺點 |
@@ -604,37 +443,21 @@ weight: 9
 
 - 破裂性 AAA 死亡率至少 **50%**
 
-
-
-
 > **臨床要點**
 > - AAA 直徑測量應使用**雙斜重建圖像**取得真正的橫截面直徑
 > - 直徑越大，年度破裂風險越高
 > - 破裂性 AAA 死亡率高，及早篩檢高風險人群至關重要
 > - 血管內修復適合高手術風險患者，但常需再次介入治療
 
-
-
 ![Page 668](/core_radiology/images/cardiovascular/page-668.png)
 
 Aortic anatomy Aortic arch and variants Normal aortic arch branching ascending
 
-
-
-
-
-
 ## 腹主動瘤 - 內漏 / AAA - Endoleaks
-
-
 
 **內漏（Endoleak）** 是指在血管內修復術（EVAR）後，支架 graft 排除的动脉瘤囊內仍有持續血流灌注。
 
-
-
 ### 分型系統 / Classification System
-
-
 
 ### Type I 內漏：Graft 密封不良 / Type I Endoleak: Inadequate Seal
 
@@ -645,8 +468,6 @@ Aortic anatomy Aortic arch and variants Normal aortic arch branching ascending
 - **機制**：Graft 與主動壁之間密封不完整，使血液進入被隔離的动脉瘤囊
 
 - **處理**：需要積極治療（通常需手術或血管內修復）
-
-
 
 ### Type II 內漏：側支血流持續灌注 / Type II Endoleak: Persistent Collateral Flow
 
@@ -665,30 +486,17 @@ Aortic anatomy Aortic arch and variants Normal aortic arch branching ascending
 > - EVAR 術後需定期影像追蹤（CT 或超音箱）以早期發現內漏
 > - 內漏不及時處理可能導致动脉瘤囊持續增大及破裂
 
-
-
 ![Page 669](/core_radiology/images/cardiovascular/page-669.png)
 
 Aberrant right subclavian ascending aorta descending aorta
 
-
-
-
-
-
 ## 腹主動瘤內漏（三）/ AAA Endoleaks (Continued)
 
-
-
 ### Type III 內漏：器械故障 / Type III Endoleak: Device Failure
-
-
 
 ### 疾病名稱 / Disease Name
 
 **Type III 內漏（Type III Endoleak）** 是因器械故障導致 graft  fabric 或模組化 graft 接合處出現滲漏。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -701,15 +509,9 @@ Aberrant right subclavian ascending aorta descending aorta
 
 - CT 冠狀面可見對比劑通過模組化主動 graft 的彎曲處外滲
 
-
-
 ---
 
-
-
 ### Type IV 及 Type V 內漏 / Types IV and V Endoleaks
-
-
 
 ### Type IV 內漏 / Type IV Endoleak
 
@@ -741,24 +543,13 @@ Aberrant right subclavian ascending aorta descending aorta
 > - **Type V 內漏**為排除性診斷，臨床上需排除其他類型內漏
 > - EVAR 術後需終身影像監測以早期發現各類內漏
 
-
-
 ![Page 670](/core_radiology/images/cardiovascular/page-670.png)
 
 Acute aortic syndrome Overview of acute aortic syndrome • Acute aortic syndrome represents a clinical spectrum of three related diseases that are characterized by damage to at least one component of the aortic wall, and
 
-
-
-
-
-
 ## 主動炎 / Aortitis
 
-
-
 **主動炎（Aortitis）** 是主動壁的炎症反應，可分為感染性或非感染性（自體免疫性）。
-
-
 
 ### 病因學 / Etiology
 
@@ -771,8 +562,6 @@ Acute aortic syndrome Overview of acute aortic syndrome • Acute aortic syndrom
 - 感染性主動炎的併發症：黴菌性动脉瘤（以金黃色葡萄球菌最常見）
 
 - 自體免疫性主動炎治療以**皮質類固醇**為主
-
-
 
 ### 急性期影像特徵 / Acute Phase Imaging Features
 
@@ -800,24 +589,13 @@ Acute aortic syndrome Overview of acute aortic syndrome • Acute aortic syndrom
 > - 主動炎與壁內血腫的鑑別要點在於增厚型態（環形 vs. 偏心弧形）
 > - 慢性期可出現長段狹窄或動瘤，需長期追蹤
 
-
-
 ![Page 671](/core_radiology/images/cardiovascular/page-671.png)
 
 Classification of aortic dissection true lumen false lumen
 
-
-
-
-
-
 ## Takayasu 動脈炎 / Takayasu Arteritis
 
-
-
 **Takayasu 動脈炎（Takayasu Arteritis）**，又稱「無脈搏病（pulseless disease）」，是一種特發性炎症性大血管血管炎。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -852,33 +630,19 @@ Classification of aortic dissection true lumen false lumen
 
 - 血管內治療僅在急性炎症消退後才可進行
 
-
-
-
 > **臨床要點**
 > - Takayasu 動脈炎主要影響年輕至中年女性
 > - 長段平滑狹窄是典型影像特徵
 > - 與巨細胞动脉炎的鑑別主要依靠年齡（<50 歲傾向 Takayasu）
 > - 治療前需確認炎症已消退（ESR 正常化），以避免治療後併發症
 
-
-
 ![Page 672](/core_radiology/images/cardiovascular/page-672.png)
 
 Intramural hematoma (IMH) intima media adventitia
 
-
-
-
-
-
 ## 主動縮窄 / Aortic Coarctation
 
-
-
 **主動縮窄（Aortic Coarctation）** 是指近端降主動的先天性局灶性狹窄。
-
-
 
 ### 解剖變異 / Anatomic Variants
 
@@ -893,8 +657,6 @@ Intramural hematoma (IMH) intima media adventitia
 - 主要側支：內胸动脉 ↔ 腹壁上动脉 ↔ 腹壁下动脉
 
 - 其他側支：內胸动脉 ↔ 肋間动脉
-
-
 
 ### X 光所見 / Radiographic Findings
 
@@ -921,24 +683,13 @@ Intramural hematoma (IMH) intima media adventitia
 > - 相位對比 MRI 可評估縮窄的血流動力學顯著性
 > - 假性縮窄外觀類似但無血流動力學影響，側支循環是否存在是關鍵鑑別點
 
-
-
 ![Page 673](/core_radiology/images/cardiovascular/page-673.png)
 
 Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) Atherosclerotic plaque penetrates the intima. Atherosclerotic plaque ulcerates, allowing blood to extend into the media. PAU may cause the media to enlarge, leading to an aneurysm formation.
 
-
-
-
-
-
 ## 冠狀动脉 CT 血管造影 / Coronary CT Angiography (CCTA)
 
-
-
 ### 臨床應用證據 / Evidence for Clinical Use
-
-
 
 ### 診斷效能 / Diagnostic Performance
 
@@ -956,21 +707,13 @@ Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) A
 
 - CCTA 對顯著狹窄敏感，但**鈣化斑塊可能產生光暈假影（blooming artifact）**，導致過度診斷
 
-
-
 ---
 
-
-
 ### 心電圖同步與輻射劑量 / ECG Gating and Radiation Dose
-
-
 
 ### 劑量估算 / Dose Estimation
 
 - **劑量-長度乘積（DLP）× 0.017 = 有效劑量（mSv）**
-
-
 
 ### 同步方式比較 / Gating Methods Comparison
 
@@ -980,11 +723,7 @@ Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) A
 | **前瞻性同步（Prospective）** | 輻射劑量較低 | 僅取得部分心動周期，無法做電影重組 |
 ---
 
-
-
 ### 空間解析度與狹窄分級 / Spatial Resolution and Stenosis Grading
-
-
 
 ### 解析度對比 / Resolution Comparison
 
@@ -1003,15 +742,9 @@ Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) A
 | **>70%** | 重度（考慮血行動力學顯著性）|
 > ⚠️ **>50% 狹窄被視為潛在血行動力學顯著性病變；<50% 則不具顯著性。**
 
-
-
 ---
 
-
-
 ### 時間解析度 / Temporal Resolution
-
-
 
 | 設備 | 旋轉時間 | 時間解析度 |
 |------|---------|----------|
@@ -1019,14 +752,9 @@ Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) A
 | **雙源 CT（Dual source）** | - | **~75 ms**（僅需 90°）|
 ---
 
-
-
 ### 檢查前準備 / Pre-Procedure
 
 - 建議目標心率：**<60 bpm**（以最大化 R-R 間期）
-
-
-
 
 > **臨床要點**
 > - CCTA 是排除血行動力學顯著冠狀动脉疾病的優秀工具，Negative predictive value 超過 90%
@@ -1035,24 +763,13 @@ Penetrating atherosclerotic ulcer (PAU)Penetrating atherosclerotic ulcer (PAU) A
 > - 雙源 CT 的時間解析度顯著提升（~75 ms），可更好地「凍結」心臟運動
 > - 檢查前需控制心率以優化影像品質
 
-
-
 ![Page 674](/core_radiology/images/cardiovascular/page-674.png)
 
 Traumatic aortic injury Aortic trauma Chest radiograph in a trauma patient shows indistinct widening of the mediastinum. The
 
-
-
-
-
-
 ## 冠狀动脉 CT 血管造影（續）/ CCTA (Continued)
 
-
-
 ### 檢查前準備 / Pre-Procedure Preparation
-
-
 
 ### 藥物準備 / Pharmacologic Preparation
 
@@ -1062,15 +779,9 @@ Traumatic aortic injury Aortic trauma Chest radiograph in a trauma patient shows
 | **舌下硝酸甘油（Nitroglycerin）** | 0.5–0.8 mg | 擴張冠狀动脉 |
 > ⚠️ 口服 β-受體阻斷劑較靜脈注射更能控制心率並減少心率變異。
 
-
-
 ---
 
-
-
 ### 冠狀动脉解剖 / Coronary Artery Anatomy
-
-
 
 ### 主動脈竇 Coronary Sinuses
 
@@ -1092,24 +803,13 @@ Traumatic aortic injury Aortic trauma Chest radiograph in a trauma patient shows
 > - 口服 β-受體阻斷劑控制心率效果優於靜脈注射
 > - 冠狀动脉最常見於竇 Valsalva 起源
 
-
-
 ![Page 675](/core_radiology/images/cardiovascular/page-675.png)
 
 Aortic aneurysms and miscellaneous disorders Thoracic aortic aneurysm Thoracic aortic aneurysm (TAA) Thoracic aortic aneurysm: Frontal chest radiograph demonstrates ectasia of the right aortic border
 
-
-
-
-
-
 ## 冠狀动脉解剖（續）/ Coronary Artery Anatomy (Continued)
 
-
-
 ### 左主冠狀动脉 / Left Main Coronary Artery (LMCA)
-
-
 
 | 項目 | 說明 |
 |------|------|
@@ -1118,8 +818,6 @@ Aortic aneurysms and miscellaneous disorders Thoracic aortic aneurysm Thoracic a
 | 變異 | 可有 Ramus 分支，形成三分叉 |
 ### 左前降支 / Left Anterior Descending (LAD)
 
-
-
 | 項目 | 說明 |
 |------|------|
 | 行徑 | 前室間溝（左右心室間的解剖溝）|
@@ -1127,16 +825,12 @@ Aortic aneurysms and miscellaneous disorders Thoracic aortic aneurysm Thoracic a
 | 供血範圍 | 室間隔前半部 |
 ### 左迴旋支 / Left Circumflex (LCx)
 
-
-
 | 項目 | 說明 |
 |------|------|
 | 行徑 | 左心耳下方，左房室溝（左右心室與左心房之間）|
 | 分支 | **頓緣支（Obtuse marginal, OM）**：供應左心室側壁 |
 | 變異 | 約 **7%** 可供應後降支（PDA），為左主型標準 |
 ### 右冠狀动脉 / Right Coronary Artery (RCA)
-
-
 
 | 項目 | 說明 |
 |------|------|
@@ -1154,24 +848,13 @@ Aortic aneurysms and miscellaneous disorders Thoracic aortic aneurysm Thoracic a
 > - RCA 與 LCx 行徑對稱，在約 85% 的人中 RCA 為 dominant artery
 > - Dominance 取決於誰供應 PDA、PLA 及 AVN
 
-
-
 ![Page 676](/core_radiology/images/cardiovascular/page-676.png)
 
 Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneurysm: Axial CT of the infrarenal
 
-
-
-
-
-
 ## 冠狀动脉顯性判定及結構異常 / Dominance & Structural Anomalies
 
-
-
 ### 顯性判定 / Determination of Dominance
-
-
 
 | 顯性類型 | 發生率 | 供應血管 |
 |---------|--------|---------|
@@ -1180,11 +863,7 @@ Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneur
 | **雙主型（Codominant）** | 約 **7%** | RCA 供應 PDA，LCx 供應 PLA |
 ---
 
-
-
 ### 冠狀动脉起源異常 / Anomalies of Coronary Artery Origin
-
-
 
 ### 惡性異常（Malignant Anomalies）
 
@@ -1199,15 +878,9 @@ Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneur
 
 - 起源於對側冠狀竇，取決於其行徑
 
-
-
 ---
 
-
-
 ### 冠狀动脉行徑異常 / Anomalies of Coronary Artery Course
-
-
 
 | 行徑類型 | 臨床意義 |
 |---------|---------|
@@ -1218,8 +891,6 @@ Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneur
 | **壁內行徑（Intramural）** | **惡性**：冠狀动脉在主動脉壁內行走一小段，通常為裂隙狀結構，猝死風險高 |
 ---
 
-
-
 ### 壁內行徑 / Intramural Course
 
 | 項目 | 說明 |
@@ -1229,16 +900,11 @@ Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneur
 | 治療 | 搭橋移植、再植入手術、或「去頂術（unroofing procedure）」 |
 ---
 
-
-
 ### 良性冠狀动脉異常 / Benign Coronary Artery Anomaly
 
 - 任何**不在主動脉與肺动脉之間**行走的冠狀动脉均屬良性
 
 - 例如：肺动脉前行徑的 LAD
-
-
-
 
 > **臨床要點**
 > - **顯性判定**：取決於誰供應 PDA、PLA 和 AVN
@@ -1247,24 +913,13 @@ Abdominal aortic aneurysm Abdominal aortic aneurysm (AAA) Abdominal aortic aneur
 > - MDCT（含 CCTA）是評估冠狀动脉解剖異常的最佳工具
 > - 壁內行徑治療方式包括去頂術，是較新且保留竇的手術方式
 
-
-
 ![Page 677](/core_radiology/images/cardiovascular/page-677.png)
 
 Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into an excluded aneurysm sac after endovascular treatment with a stent graft. Type I endoleak: Inadequate seal of graft
 
-
-
-
-
-
 ## 惡性冠狀动脉異常 / Malignant Coronary Artery Anomalies
 
-
-
 **惡性冠狀动脉異常（Malignant Coronary Artery Anomaly）** 指冠狀动脉起源或行徑異常，導致猝死風險增加。
-
-
 
 ### 發病機制 / Pathophysiology
 
@@ -1273,8 +928,6 @@ Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into a
 - 運動時主動脉擴張可能壓迫異常血管，導致心肌梗塞
 
 - 猝死風險高達 **40%**
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1287,21 +940,13 @@ Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into a
 
 - **手術搭橋移植（Surgical bypass grafting）**
 
-
-
 ---
 
-
-
 ### 異常左冠狀动脉起源於肺动脉 / ALCAPA (Bland-White-Garland Syndrome)
-
-
 
 ### 疾病名稱 / Disease Name
 
 **異常左冠狀动脉起源於肺动脉（Anomalous Left Coronary Artery from the Pulmonary Artery, ALCAPA）**，又稱**Bland-White-Garland 症候群**。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1320,9 +965,6 @@ Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into a
 
 - **異常右冠狀动脉起源於肺动脉（ARCAPA）**：較少見，治療方式相似
 
-
-
-
 > **臨床要點**
 > - 惡性冠狀动脉異常（Interarterial 行徑）運動時猝死風險高達 40%
 > - ALCAPA/Bland-White-Garland 症候群若不治療，嬰兒期死亡率超過 90%
@@ -1330,30 +972,17 @@ Abdominal aortic aneurysms - Endoleaks • An endoleak is persistent flow into a
 > - ARCAPA 較少見，治療原則與 ALCAPA 相似
 > - 早期診斷對改善預後至關重要
 
-
-
 ![Page 678](/core_radiology/images/cardiovascular/page-678.png)
 
 Type III endoleak: Device failure causing leakage • T ype III endoleak represents device failure causing leakage through graft fabric or segments of a modular graft. Type III endoleak: Blood enters the excluded
 
-
-
-
-
-
 ## 心肌橋樑及心臟 MRI / Myocardial Bridging & Cardiac MRI
 
-
-
 ### 心肌橋樑 / Myocardial Bridging
-
-
 
 ### 疾病名稱 / Disease Name
 
 **心肌橋樑（Myocardial Bridging）** 是指心肌纖維帶覆蓋於冠狀动脉某段之上的現象。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1364,11 +993,7 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 | 評估方法 | 若懷疑為症狀來源，建議進一步評估（運動心肌灌注檢查）|
 ---
 
-
-
 ### 心臟 MRI 概述 / Overview of Cardiac MRI
-
-
 
 ### 技術基礎 / Technical Basis
 
@@ -1379,15 +1004,9 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 | **雙或三反轉快速自旋迴波（Double/Triple IR FSE）** | 組織特徵化 |
 ### 臨床應用 / Clinical Applications
 
-
-
 ---
 
-
-
 ### 對比增強灌注 MRI / Contrast-Enhanced Perfusion MRI
-
-
 
 | 項目 | 說明 |
 |------|------|
@@ -1396,11 +1015,7 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 | 異常表現 | 灌注減少區域呈現相對低增強 |
 ---
 
-
-
 ### 延遲增強 MRI / Delayed Contrast-Enhanced MRI (DE-MRI)
-
-
 
 ### 原理 / Principle
 
@@ -1408,11 +1023,7 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 
 - 異常：比值改變，最常見於心肌梗塞（心肌細胞被疤痕組織取代）
 
-
-
 ### 延遲增強分型 / Patterns of Delayed Enhancement
-
-
 
 | 類型 | 特點 |
 |------|------|
@@ -1431,9 +1042,6 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 
 - 反轉時間因延遲時間、排洩率、對比劑弛緩率及體積而異
 
-
-
-
 > **臨床要點**
 > - 心肌橋樑最常見於中段 LAD，通常為偶然發現
 > - 心臟 MRI 提供優異的心肌與血池對比（SSFP 序列）
@@ -1441,30 +1049,17 @@ Type III endoleak: Device failure causing leakage • T ype III endoleak represe
 > - 缺血性延遲增強**必定從心內膜開始**，這是與非缺血性病變的關鍵鑑別點
 > - 延遲增強模式有助於區分缺血性與非缺血性心肌病變
 
-
-
 ![Page 679](/core_radiology/images/cardiovascular/page-679.png)
 
 Miscellaneous aortic disorders Aortitis Active aortitis: T1-weighted post-contrast fat saturated
 
-
-
-
-
-
 ## 延遲增強 MRI（續）/ Delayed Enhancement MRI (Continued)
 
-
-
 ### 透壁性延遲增強 / Transmural Delayed Enhancement
-
-
 
 ### 疾病名稱 / Disease Name
 
 **透壁性延遲增強（Transmural Delayed Enhancement）** 代表全層心肌厚度皆有的延遲增強。
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1480,15 +1075,9 @@ Miscellaneous aortic disorders Aortitis Active aortitis: T1-weighted post-contra
 
 - **心內膜下增強**：僅涉及心內膜層
 
-
-
 ---
 
-
-
 ### 非缺血性延遲增強 / Nonischemic Delayed Enhancement
-
-
 
 ### 疾病概述 / Disease Overview
 
@@ -1496,11 +1085,7 @@ Miscellaneous aortic disorders Aortitis Active aortitis: T1-weighted post-contra
 
 - 多種非缺血性延遲增強模式已被描述
 
-
-
 ### 心肌中層增強 / Mid-Myocardial Delayed Enhancement
-
-
 
 | 疾病 | 說明 |
 |------|------|
@@ -1514,24 +1099,13 @@ Miscellaneous aortic disorders Aortitis Active aortitis: T1-weighted post-contra
 > - DCM 最常見的非缺血性心肌病，MRI 有心肌中層增強及心腔擴大
 > - HCM 嚴重者可導致猝死，MRI 有助評估
 
-
-
 ![Page 680](/core_radiology/images/cardiovascular/page-680.png)
 
 Takayasu arteritis Takayasu arteritis: Sagittal-oblique maximum intensity projection MR angiogram (left image) of the aortic arch shows narrowing of the left common carotid artery (yellow arrow) and left subclavian artery (red arrow).
 
-
-
-
-
-
 ## 非缺血性延遲增強（續）/ Nonischemic Delayed Enhancement (Continued)
 
-
-
 ### 心外膜下延遲增強 / Epicardial/Subepicardial Delayed Enhancement
-
-
 
 ### 相關疾病 / Related Diseases
 
@@ -1542,11 +1116,7 @@ Takayasu arteritis Takayasu arteritis: Sagittal-oblique maximum intensity projec
 | **結節病** | 可引起心肌中層或心外膜下延遲增強（結節或片狀）|
 ---
 
-
-
 ### 環形心內膜下延遲增強 / Circumferential Subendocardial Delayed Enhancement
-
-
 
 ### 相關疾病 / Related Diseases
 
@@ -1556,11 +1126,7 @@ Takayasu arteritis Takayasu arteritis: Sagittal-oblique maximum intensity projec
 | **心臟移植患者** | 可見環形心內膜下延遲增強，病理上與心肌纖維化相關 |
 ---
 
-
-
 ### 延遲增強 MRI 總結 / Summary of Delayed Enhancement MRI
-
-
 
 ### 缺血性 / Ischemic
 
@@ -1582,30 +1148,17 @@ Takayasu arteritis Takayasu arteritis: Sagittal-oblique maximum intensity projec
 > - 延遲增強模式是區分缺血性與非缺血性心肌病變的關鍵工具
 > - 系統性評估增強模式對正確診斷至關重要
 
-
-
 ![Page 681](/core_radiology/images/cardiovascular/page-681.png)
 
 Aortic coarctation Aortic coarctation: Coronal maximum intensity projection MR angiogram (left image) shows extensive collateral vessels throughout the thorax, with prominent internal thoracic arteries (yellow arrows). 3D volume rendered CT of the aorta (top right image) demonstrates the coarctation (blue arrows)
 
-
-
-
-
-
 ## 心臟疾病 X 光片影像 / Plain Film Imaging of Heart Disease
 
-
-
 ### 系統性評估方法 / Systematic Approach
-
-
 
 ### 心臟大小評估 / Cardiac Silhouette Assessment
 
 - **心臟橫徑比（Cardiothoracic ratio）**：PA view 上 ≥**0.55** 提示心臟擴大
-
-
 
 ### 心臟大小正常的疾病 / Normal-Sized Cardiac Silhouette
 
@@ -1628,11 +1181,7 @@ Aortic coarctation Aortic coarctation: Coronal maximum intensity projection MR a
 | 心臟外腫塊 | 心臟擴大 |
 ---
 
-
-
 ### 評估關鍵結構 / Key Structures to Evaluate
-
-
 
 ### 心臟擴大時 / With Enlarged Cardiac Silhouette
 
@@ -1652,15 +1201,9 @@ Aortic coarctation Aortic coarctation: Coronal maximum intensity projection MR a
 
 - 肺血管紋、胸壁、心腔擴大、主大血管（肺动脉、升主動、主動弓、降主動）
 
-
-
 ---
 
-
-
 ### 各心腔擴大的 X 光表現 / Chamber Enlargement on Radiograph
-
-
 
 ### 右心室擴大 / Right Ventricular Enlargement
 
@@ -1688,26 +1231,15 @@ Aortic coarctation Aortic coarctation: Coronal maximum intensity projection MR a
 > - 肥厚型心肌病的心臟輪廓可正常，這點很重要
 > - 系統性評估胸片是辨別心臟病病因的關鍵第一步
 
-
-
 ![Page 682](/core_radiology/images/cardiovascular/page-682.png)
 
 Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic cardiac disease • Cor onary CT angiography (CCTA) is an excellent test to rule out hemodynamically significant coronary artery disease. Meta-analyses of multiple trials have shown the
 
-
-
-
-
-
 ## 左心房擴大 / Left Atrial Enlargement
-
-
 
 ### 解剖位置 / Anatomic Position
 
 - 左心房是心臟中**最靠後**的心腔
-
-
 
 ### 病因分類 / Etiology Classification
 
@@ -1716,8 +1248,6 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 | **二尖瓣逆流（Mitral regurgitation）** | 心臟擴大 | 慢性容量負荷過重 |
 | **二尖瓣狹窄（Mitral stenosis）** | 心臟大小正常 | 阻塞性病变 |
 ### X 光徵象 / Radiographic Signs
-
-
 
 ### 正面觀（Frontal View）
 
@@ -1739,24 +1269,13 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 > - 氣管分歧部撐開是左心房顯著擴大的標誌
 > - 二尖瓣狹窄時心臟大小正常但左心房擴大；逆流時心臟通常擴大
 
-
-
 ![Page 683](/core_radiology/images/cardiovascular/page-683.png)
 
 • Beta-blockade is usually necessary to achieve this target heart rate. Oral metoprolol is administered (between 5 and 25 mg, typically administered in 5 mg doses). Oral beta blocker gives better heart rate control and decreased heart rate variability compared to IV. • Just prior to scanning, sublingual nitroglycerin (0.5–0.8 mg) is administered to dilate
 
-
-
-
-
-
 ## 心肌梗塞的影像及併發症 / Imaging and Complications of Myocardial Infarction
 
-
-
 ### 心肌梗塞 X 光評估 / Plain Film Evaluation of MI
-
-
 
 ### 急性心肌梗塞的 X 光發現 / Findings in Acute MI
 
@@ -1775,11 +1294,7 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 | 乳頭肌斷裂 | 急性肺水腫（尤其右上葉）|
 ---
 
-
-
 ### 左心室瘤 / Ventricular Aneurysms
-
-
 
 ### 真性左心室瘤 / True Left Ventricular Aneurysm
 
@@ -1814,8 +1329,6 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 | 治療 | 內科 | 手術 |
 ---
 
-
-
 ### Dressler 症候群 / Dressler Syndrome
 
 | 項目 | 說明 |
@@ -1823,8 +1336,6 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 | 定義 | 自體免疫性心包炎 |
 | 特點 | 常伴有心包及胸膜積液 |
 ---
-
-
 
 ### 心內膜炎 / Endocarditis
 
@@ -1840,8 +1351,6 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 > - **假性瘤随时可能破裂**，是外科急症
 > - 乳頭肌斷裂可導致急性肺水腫（尤其孤立性右上葉）
 > - 心內膜炎的 CT 評估可補充超音波，檢測大於 1 cm 的贅生物
-
-
 
 ![Page 684](/core_radiology/images/cardiovascular/page-684.png)
 ![Page 685](/core_radiology/images/cardiovascular/page-685.png)
@@ -1863,8 +1372,6 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 ![Page 701](/core_radiology/images/cardiovascular/page-701.png)
 ![Page 702](/core_radiology/images/cardiovascular/page-702.png)
 
-
-
 ---
 
 title: "Cardiovascular Imaging"
@@ -1873,14 +1380,7 @@ weight: 667
 
 ---
 
-
-
-
-
-
 ## 二尖瓣返流 / Mitral Regurgitation
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1890,24 +1390,15 @@ weight: 667
 
 - **左心耳（LAA）**在風濕性疾病患者中常見擴大；而在非風濕性二尖瓣返流中，LAA 通常不擴大
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 心臟大小及左心房大小是評估二尖瓣返流慢性程度的關鍵
 
 - LAA 是否有擴大有助于鑑別風濕性與非風濕性病因
 
-
-
 ---
 
-
-
-
 ## 二尖瓣狹窄 / Mitral Stenosis
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1915,24 +1406,15 @@ weight: 667
 
 - 肺靜脈壓力通常升高
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 胸部 X 光：心影正常大小、左心房擴大、肺靜脈淤血
 
 - 超聲心動圖可確認瓣膜狹窄程度
 
-
-
 ---
 
-
-
-
 ## 二尖瓣環鈣化 / Mitral Annular Calcification (MAC)
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1942,8 +1424,6 @@ weight: 667
 
 - MAC 可合併二尖瓣返流，但與二尖瓣瓣膜鈣化不同，MAC 不引起二尖瓣狹窄
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 | 疾病 | 與 MAC 的關係 |
@@ -1952,12 +1432,7 @@ weight: 667
 | 二尖瓣狹窄 | MAC 不導致狹窄（需與瓣膜鈣化鑑別）|
 ---
 
-
-
-
 ## 主動脈瓣狹窄 / Aortic Stenosis
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1967,24 +1442,15 @@ weight: 667
 
 - 肺血管紋理通常正常
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 左心室肥厚但心影不大為主動脈瓣狹窄的典型表現
 
 - 升主動脈擴大提示長期病程
 
-
-
 ---
 
-
-
-
 ## 主動脈瓣返流 / Aortic Regurgitation
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -1994,22 +1460,13 @@ weight: 667
 
 - 與主動脈瓣狹窄類似，肺血管紋理通常正常
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 心影擴大（cardiomegaly）+ 升主動脈擴大為長期主動脈瓣返流的特徵
 
-
-
 ---
 
-
-
-
 ## 右側心臟瓣膜疾病 / Right-Sided Valvular Disease
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2017,22 +1474,13 @@ weight: 667
 
 - 左側瓣膜亦可受累
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 - 類癌性心臟病：主要影響右心，與其他瓣膜病的左右側偏好不同
 
-
-
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - **二尖瓣返流**：急性可無心臟擴大；慢性則心影及左心房擴大；LAA 擴大提示風濕性病因
 
@@ -2046,31 +1494,13 @@ weight: 667
 
 - **右側瓣膜病**：類癌疾病優先侵犯右心，致三尖瓣及肺動脈瓣受累
 
-
-
 ---
-
-
-
-
-
-
-
-
-
 
 ## 非缺血性心肌病 / Nonischemic Myocardial Disease
 
-
-
 ---
 
-
-
-
 ## 兒茶酚胺誘發性心肌病（ Takotsubo 心肌病）/ Catecholamine-Induced (Takotsubo) Cardiomyopathy
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2084,8 +1514,6 @@ weight: 667
 
 - 通常為**自限性**
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 心臟 MRI 或冠脈 CT：特徵性表現為**心尖部氣球樣變**，心臟形狀似日本章魚壺（takotsubo），故名
@@ -2093,8 +1521,6 @@ weight: 667
 - MRI 無異常延遲強化（delayed enhancement）
 
 - 心導管檢查正常可排除冠心病
-
-
 
 ### 鑑別診斷 / Differential Diagnosis
 
@@ -2104,12 +1530,7 @@ weight: 667
 | 心肌炎 | 延遲強化分佈不同 |
 ---
 
-
-
-
 ## 致心律失常性心肌病 / Arrhythmogenic Cardiomyopathy
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2123,8 +1544,6 @@ weight: 667
 
 - 患者可發生**致命性心律失常**，確診後常需植入 ICD（植入式心律轉復除顫器）
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 影像學在診斷中起支援作用
@@ -2135,8 +1554,6 @@ weight: 667
 
 - 心肌脂肪不再作為標準（因脂肪可見於正常老化個體）
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 | 疾病 | 特點 |
@@ -2146,12 +1563,7 @@ weight: 667
 | 右室心肌梗死 | 冠心病史；無脂肪替代 |
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - **Takotsubo 心肌病**：老年女性 + 情緒刺激 + 心尖 ballooning + 導管正常 = 典型表現；自限性病程
 
@@ -2159,22 +1571,9 @@ weight: 667
 
 - 兩者均可表現為胸痛 + ECG 異常 + 心肌酶升高，但治療及預後截然不同
 
-
-
 ---
 
-
-
-
-
-
-
-
-
-
 ## 心肌緻密化不全 / Myocardial Noncompaction
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2184,30 +1583,19 @@ weight: 667
 
 - 左心室在影像上呈現**重度小梁化**，類似右心室，而左心室壁相對較薄
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 影像特徵：左心室呈重度 trabeculated（小梁化），左心室壁相對較薄
 
 - 需與擴張型心肌病伴小梁化鑑別
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 - 擴張型心肌病：DCM 也可有小梁化，但心肌緻密化不全以左心室壁薄為特徵
 
-
-
 ---
 
-
-
-
 ## 肥厚型心肌病 / Hypertrophic Cardiomyopathy (HCM)
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2223,8 +1611,6 @@ weight: 667
 
 - **二尖瓣前葉收縮期前向運動（Systolic Anterior Motion, SAM）**可導致二尖瓣返流及左心房擴大
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 超聲心動圖為首選診斷工具
@@ -2239,8 +1625,6 @@ weight: 667
 
 - SAM 現象導致 LVOT 阻塞和二尖瓣返流
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 | 疾病 | 與 HCM 的鑑別 |
@@ -2250,12 +1634,7 @@ weight: 667
 | 選手心臟 | 輕度均勻肥厚；無 LVOT 阻塞 |
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - **心肌緻密化不全**：左心室重度小梁化 + 相對薄壁 = 特徵性影像；血栓栓塞風險高
 
@@ -2263,22 +1642,9 @@ weight: 667
 
 - 超聲心動圖為首選；MRI 用於明確診斷及評估瓣下狹窄
 
-
-
 ---
 
-
-
-
-
-
-
-
-
-
 ## 限制型心肌病 / Restrictive Cardiomyopathy
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2294,8 +1660,6 @@ weight: 667
 
   - **心肌沉積性疾病**（如**澱粉樣變性 Amyloidosis**）
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 限制型心肌病與**縮窄性生理（Constrictive physiology）**為不同疾病，兩者心室壓力曲線可相同，均以舒張功能障礙為特徵
@@ -2306,8 +1670,6 @@ weight: 667
 
   - 限制型心肌病**無有效治療**，預後較差
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 | 疾病 | 治療 | 預後 |
@@ -2316,20 +1678,13 @@ weight: 667
 | 縮窄性心包炎 | 心包剝離術 | 取決於病因 |
 ---
 
-
-
-
 ## 擴張型心肌病 / Dilated Cardiomyopathy
-
-
 
 ### 臨床特點 / Clinical Features
 
 - **擴張型心肌病（DCM）**以**心室腔向心性擴大**伴**收縮功能受損**為特徵
 
 - 通常雙心室均受累
-
-
 
 ### 病因與評估 / Etiology and Evaluation
 
@@ -2343,24 +1698,15 @@ weight: 667
 
 - **心導管造影**為新診斷 DCM 的推薦檢查，以排除冠心病
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - **特發性 DCM** 中多達 **41%** 的患者在**中層心室壁**呈非缺血性分佈的異常強化
 
   - 此強化的臨床意義尚不確定
 
-
-
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - **限制型心肌病**：心室小、僵硬、肥厚 + 雙心房擴大 = 典型表現；主要需排除可治的縮窄性心包炎
 
@@ -2370,22 +1716,9 @@ weight: 667
 
 - 新診斷 DCM 應行心導管檢查排除冠心病
 
-
-
 ---
 
-
-
-
-
-
-
-
-
-
 ## 特發性擴張型心肌病的延遲強化 / Delayed Enhancement in Idiopathic DCM
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2393,16 +1726,9 @@ weight: 667
 
 - 此類強化的臨床意義尚不確定
 
-
-
 ---
 
-
-
-
 ## 房間隔脂肪瘤樣肥厚 / Lipomatous Hypertrophy of the Interatrial Septum
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2410,15 +1736,11 @@ weight: 667
 
 - 通常為**偶然發現**，無需治療
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 需注意**與心臟腫瘤鑑別**
 
 - 極罕見的脂肪性心臟腫瘤鑑別：脂肪肉瘤（Liposarcoma）
-
-
 
 ### 鑑別診斷 / Differential Diagnosis
 
@@ -2428,20 +1750,11 @@ weight: 667
 | 脂肪肉瘤 | 極罕見；為惡性 |
 ---
 
-
-
-
 ## 心包疾病 / Pericardial Disease
-
-
 
 ---
 
-
-
 ### 心包解剖 / Pericardial Anatomy
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2453,15 +1766,9 @@ weight: 667
 
 - 影像學上心包厚度 **≥4 mm** 即為明確異常
 
-
-
 ---
 
-
-
 ### 心包積液 / Pericardial Effusion
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2469,15 +1776,11 @@ weight: 667
 
 - 若積液快速積聚，**僅 100–200 mL** 即可妨礙舒張期充盈
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - **Oreo 餅乾徵（Oreo Cookie Sign）**：心包積液的經典 X 光表現
 
   - 代表：透亮的**心外膜脂肪條紋**及**心包脂肪條紋**（兩塊餅乾），以及不透亮的**心包積液**（白色夾心）
-
-
 
 ### 鑑別診斷 / Differential Diagnosis
 
@@ -2487,12 +1790,7 @@ weight: 667
 | 慢性積液 | 可達數百毫升而無壓塞症狀 |
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - 特發性 DCM 中 41% 可有非缺血性中層壁強化，臨床意義待定
 
@@ -2504,30 +1802,15 @@ weight: 667
 
 - **Oreo Cookie Sign**：心包積液的特異性 X 光徵象
 
-
-
 ---
 
-
-
-
-
-
-
-
-
-
 ## 心包鈣化 / Pericardial Calcification
-
-
 
 ### 臨床特點 / Clinical Features
 
 - 心包鈣化可由**既往心包炎**引起，最常見病因為**病毒性或尿毒症性**心包炎
 
 - 心包鈣化可與**縮窄性生理**相關
-
-
 
 ### 鑑別診斷 / Differential Diagnosis
 
@@ -2537,12 +1820,7 @@ weight: 667
 | 心肌鈣化 | 由舊心肌梗死引起 |
 ---
 
-
-
-
 ## 先天性心包缺如 / Congenital Absence of the Pericardium
-
-
 
 ### 臨床特點 / Clinical Features
 
@@ -2554,8 +1832,6 @@ weight: 667
 
 - **部分心包缺如**患者存在心臟通過心包缺損**嵌頓（herniation）**的風險
 
-
-
 ### 診斷要點 / Diagnostic Key Points
 
 - 影像學上提示心包缺如的線索：**主動脈與肺動脈之間的透亮缺口**
@@ -2566,8 +1842,6 @@ weight: 667
 
 - **左心包缺如**可導致心臟**左移**，這可能是唯一的影像學表現
 
-
-
 ### 鑑別診斷 / Differential Diagnosis
 
 | 疾病 | 特點 |
@@ -2576,47 +1850,23 @@ weight: 667
 | 先天性心臟位移 | 其他心臟畸形相關 |
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - **心包鈣化**：病毒或尿毒症性心包炎後常見；主要需與心肌鈣化（舊梗死）鑑別
 
 - **先天性心包缺如**：左心包缺如最常見；主肺動脈間透亮缺口是重要 CT 線索；部分缺如有嵌頓風險
 
-
-
 ---
-
-
-
-
-
-
-
-
-
 
 ## 參考文獻 / References, Resources, and Further Reading
 
-
-
 ### 綜合參考 / General References
-
-
 
 - Miller, S.W., Abbara, S. & Boxt, L.B. *Cardiac Imaging: The Requisites* (3rd ed.) Mosby. (2009).
 
 - Webb, W.R. & Higgins, C.B. *Thoracic Imaging – Pulmonary and Cardiovascular Radiology*. Lippincott Williams & Wilkins. (2005).
 
-
-
 ### 主動脈 / Aorta
-
-
 
 - Agarwal, P.P. et al. Multidetector CT of thoracic aortic aneurysms. *Radiographics*, 29(2), 537–52 (2009).
 
@@ -2636,11 +1886,7 @@ weight: 667
 
 - Rakita, D. et al. Spectrum of CT findings in rupture and impending rupture of abdominal aortic aneurysms. *Radiographics*, 27(2), 497–507 (2007).
 
-
-
 ### 心臟 CT / Cardiac CT
-
-
 
 - Heffernan, E.J., Dodd, J.D. & Malone, D.E. Cardiac multidetector CT: technical and diagnostic evaluation with evidence-based practice techniques. *Radiology*, 248(2), 366–77 (2008).
 
@@ -2656,36 +1902,17 @@ weight: 667
 
 - Sparrow, P. et al. CT and MRI Imaging Findings in Patients with Acquired Heart Disease at Risk for Sudden Cardiac Death. *Radiographics*, 29, 805–23 (2009).
 
-
-
 ---
-
-
-
-
-
-
-
-
-
 
 ## 參考文獻（續）/ References, Resources, and Further Reading (Continued)
 
-
-
 ### 心臟miscellaneous / Miscellaneous
-
-
 
 - Chen, J.J. et al. CT Angiography of the Cardiac Valves: Normal, Diseased, and Postoperative Appearances. *Radiographics*, 29, 1393–412 (2009).
 
 - Marcus, F.I. et al. Diagnosis of arrhythmogenic right ventricular cardiomyopathy/dysplasia: proposed modification of the task force criteria. *Circulation*, 121(13), 1533–41 (2010).
 
-
-
 ### 心臟 MRI / Cardiac MRI
-
-
 
 - Boxt, L.M. Cardiac MRI Imaging: A Guide for the Beginner. *Radiographics*, 19(4), 1009–25 (1999).
 
@@ -2693,33 +1920,15 @@ weight: 667
 
 - Vogel-Claussen, J. et al. Delayed Enhancement MRI Imaging: Utility in Myocardial Assessment. *Radiographics*, 26(3), 795 (2006).
 
-
-
 ### 心包 / Pericardium
-
-
 
 - Broderick, L.S., Brooks, G.N. & Kuhlman, J. Anatomic Pitfalls of the Heart and Pericardium. *Radiographics*, 25, 441–53 (2005).
 
-
-
 ---
-
-
-
-
-
-
-
-
 
 ## 人工瓣膜影像 / Imaging of Prosthetic Valves
 
-
-
 ### 瓣膜位置關係 / Valve Position Relationships
-
-
 
 ### 側面 X 光上的瓣膜定位 / Valve Localization on Lateral Radiograph
 
@@ -2733,15 +1942,9 @@ weight: 667
 
 - 房室瓣（二尖瓣及三尖瓣）在**舒張期開放**
 
-
-
 ---
 
-
-
 ### 影像評估要點 / Imaging Evaluation Key Points
-
-
 
 ### 位置關係 / Positional Relationships
 
@@ -2764,34 +1967,21 @@ weight: 667
 > - 房室瓣在舒張期開放，這對理解心臟血流動力學很重要
 > - 心腔擴大或心臟旋轉可能使瓣膜位置的評估更具挑戰性
 
-# Cardiovascular Imaging — Learning Radiology 整合章 / Learning Radiology Integration
-
-
+## Cardiovascular Imaging — Learning Radiology 整合章 / Learning Radiology Integration
 
 > **来源 / Source:** Learning Radiology (5th Ed.) — Chapter 3: Recognizing Normal Cardiac Anatomy + Chapter 11: Recognizing Adult Heart Disease
 
-
-
 ---
-
-
-
 
 ## 正常心臟解剖學 / Normal Cardiac Anatomy
 
-
-
 ### 心臟輪廓 — 胸部 X 光片 / Cardiac Contours on Frontal Chest Radiograph
-
-
 
 **心臟右側 / Right Heart Border:**
 
 - 第一個輪廓：升主動脈（Ascending Aorta）
 
 - 升主動脈與右心房交界處有輕微凹陷，左心房擴大時可見（雙重密度 / double density）
-
-
 
 **心臟左側 / Left Heart Border:**
 
@@ -2801,15 +1991,11 @@ weight: 667
 
 - 左心室形成心臟最下方的輪廓
 
-
-
 **主動脈結 / Aortic Knob:**
 
 - 正常 < 35 mm（從氣管邊緣測量）
 
 - 主動脈弓狹窄，主動脈會輕微推向氣管右側
-
-
 
 **降主動脈 / Descending Aorta:**
 
@@ -2817,11 +2003,7 @@ weight: 667
 
 - 彎曲或 uncoiled 時，會偏向左側
 
-
-
 ### 心臟擴大的評估 / Evaluating Cardiomegaly
-
-
 
 **心胸比（Cardiothoracic Ratio）:**
 
@@ -2829,24 +2011,15 @@ weight: 667
 
 - 適用於 PA 胸部 X 光
 
-
-
 **左右心室肥厚性對比 / Stenotic vs. Regurgitant Valves:**
 
 - **狹窄性病變（Stenotic）**：心室先肥大（hypertrophy）不見得變大
 
 - **逆流性病變（Regurgitant）**：心室變大（dilatation），容積過載導致更明顯的心臟擴大
 
-
-
 ---
 
-
-
-
 ## 電腦斷層心臟解剖 / Cardiac CT Anatomy
-
-
 
 ### 五血管層面 / Five-Vessel Level
 
@@ -2856,8 +2029,6 @@ weight: 667
 
 - 可见：無名动脉（Innominate Artery）、左總頸动脉（Left Common Carotid）、左鎖骨下动脉（Left Subclavian Artery）
 
-
-
 ### 主動脈弓層面 / Aortic Arch Level
 
 - U 形主動脈弓
@@ -2866,15 +2037,11 @@ weight: 667
 
 - 奇靜脈（Azygos Vein）引流至上腔靜脈
 
-
-
 ### 動膜窗 / Aortopulmonary Window
 
 - 主動脈弓下方、肺動脈上方之間的空間
 
 - **重要標誌**：淋巴結腫大的好發位置
-
-
 
 ### 主肺動脈層面 / Main Pulmonary Artery Level
 
@@ -2886,15 +2053,11 @@ weight: 667
 
 - 右中葉支氣管（Bronchus Intermedius）後方應為肺實質
 
-
-
 ### 心臟高層面 / High Cardiac Level
 
 - 左心房、右心房、主動脈根部、主肺动脉出口（RVOT）
 
 - **PALS 記憶法**：肺动脉瓣在主動脈瓣的**前、外、上**（Pulmonic valve lies Anterior, Lateral, Superior to aortic valve）
-
-
 
 ### 心臟低層面 / Low Cardiac Level
 
@@ -2904,16 +2067,9 @@ weight: 667
 
 - 左心室壁較厚
 
-
-
 ---
 
-
-
-
 ## 冠狀動脈解剖 / Coronary Artery Anatomy
-
-
 
 ### 左冠狀动脉 / Left Coronary Artery (LCA)
 
@@ -2924,8 +2080,6 @@ weight: 667
   - **左前降枝（Left Anterior Descending, LAD）**：行走於前室間溝，供應大部分左心室及前間隔
 
   - **左迴旋枝（Circumflex Artery, LCx）**：行走於左心房與左心室之間，供應左心室側壁
-
-
 
 ### 右冠狀动脉 / Right Coronary Artery (RCA)
 
@@ -2941,8 +2095,6 @@ weight: 667
 
   - 後降枝（Posterior Descending Artery, PDA）：約 70% 的人由 RCA 發出
 
-
-
 ### 冠狀動派優勢 / Coronary Dominance
 
 - **右優勢（Right Dominant）**：約 85% 人口
@@ -2951,16 +2103,9 @@ weight: 667
 
 - **共同優勢（Co-dominant）**：其餘
 
-
-
 ---
 
-
-
-
 ## 心臟 MRI / Cardiac MRI
-
-
 
 ### 標準成像平面 / Standard Planes
 
@@ -2974,24 +2119,15 @@ weight: 667
 
 - **三腔 view**：評估主動脈瓣、二尖瓣、左心房
 
-
-
 ### 影像技術 / Imaging Techniques
 
 - **亮血技術（Bright Blood）**：評估心臟功能
 
 - **黑血技術（Black Blood）**：評估心臟形態
 
-
-
 ---
 
-
-
-
 ## 冠狀動派鈣化與鈣化積分 / Coronary Artery Calcium Scoring
-
-
 
 | 分數 | 意義 |
 |------|------|
@@ -3001,16 +2137,9 @@ weight: 667
 | > 300 | 高度鈣化，嚴重疾病及心臟病發作風險較高 |
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
 
-
-
 ### 成人心臟病 — 胸口 X 光評估 / Adult Heart Disease on Chest X-ray
-
-
 
 **心臟擴大的非心臟原因 / Extracardiac Causes of Apparent Cardiomegaly:**
 
@@ -3026,20 +2155,11 @@ weight: 667
 
 - 心包膜積液（Pericardial Effusion）
 
-
-
 ---
-
-
-
 
 ## 鬱血性心臟衰竭 / Congestive Heart Failure (CHF)
 
-
-
 ### 肺間質水腫 / Pulmonary Interstitial Edema
-
-
 
 四大關鍵徵象：
 
@@ -3051,11 +2171,7 @@ weight: 667
 
 4. **肋膜積液（ Pleural Effusions）**：通常雙側，右側常較大
 
-
-
 ### 肺泡性水腫 / Pulmonary Alveolar Edema
-
-
 
 - 蓬鬆、模糊、斑塊狀肺泡密度
 
@@ -3065,11 +2181,7 @@ weight: 667
 
 - 消退迅速（小時至數天）
 
-
-
 ### 心源性 vs. 非心源性肺水腫 / Cardiogenic vs. Noncardiogenic
-
-
 
 | 發現 | 心源性 | 非心源性 |
 |------|--------|----------|
@@ -3079,12 +2191,7 @@ weight: 667
 | PCWP | 升高（>15 mmHg） | 正常（<12 mmHg） |
 ---
 
-
-
-
 ## 主動脈狹窄 / Aortic Stenosis
-
-
 
 - 三聯徵：胸痛、心衰竭症狀、暈厥
 
@@ -3094,16 +2201,9 @@ weight: 667
 
 - 心臟大小：早期正常，晚期擴大
 
-
-
 ---
 
-
-
-
 ## 僧帽瓣狹窄 / Mitral Stenosis
-
-
 
 - 最常見原因：風濕性心臟病（現在已減少）
 
@@ -3113,16 +2213,9 @@ weight: 667
 
 - 左心耳常明顯擴大
 
-
-
 ---
 
-
-
-
 ## 心肌病變 / Cardiomyopathy
-
-
 
 ### 擴張型心肌病 / Dilated Cardiomyopathy
 
@@ -3131,8 +2224,6 @@ weight: 667
 - 射出分率（EF）< 40%
 
 - 心臟擴大，常伴隨 CHF 影像
-
-
 
 ### 肥厚型心肌病 / Hypertrophic Cardiomyopathy (HCM)
 
@@ -3144,8 +2235,6 @@ weight: 667
 
 - 可有 SAM（前向運動收縮異常）
 
-
-
 ### 限制型心肌病 / Restrictaive Cardiomyopathy
 
 - 最少見
@@ -3156,16 +2245,9 @@ weight: 667
 
 - 需與**縮窄性心包炎（Constrictive Pericarditis）**區分：後者心包增厚（可手術治療）
 
-
-
 ---
 
-
-
-
 ## 主動脈瘤 / Thoracic Aortic Aneurysm
-
-
 
 - 定義：直徑 > 正常 50%
 
@@ -3177,24 +2259,15 @@ weight: 667
 
 - CT 血管攝影（CTA）為首選
 
-
-
 ---
 
-
-
-
 ## 主動脈夾層 / Aortic Dissection
-
-
 
 ### Stanford 分型：
 
 - **Type A**：涉及升主動脈 → 通常手術治療
 
 - **Type B**：僅涉及降主動脈 → 通常內科治療
-
-
 
 ### 影像徵象（Conventional X-ray）：
 
@@ -3206,22 +2279,13 @@ weight: 667
 
 - 氣管或食道向右偏移
 
-
-
 ### CT / MRI 表現：
 
 - **內膜瓣（Intimal Flap）**：區分真腔（true lumen）與假腔（false lumen）
 
-
-
 ---
 
-
-
-
 ## 冠狀動派疾病 / Coronary Artery Disease (CAD)
-
-
 
 - 全球死亡主因
 
@@ -3231,16 +2295,9 @@ weight: 667
 
 - MRI：評估心肌疤痕、收縮功能
 
-
-
 ---
 
-
-
-
 ## 臨床要點 / Clinical Key Points
-
-
 
 - 主心臟輪廓異常（心房、心室、主動脈）為心臟疾病診斷的關鍵
 
@@ -3250,21 +2307,10 @@ weight: 667
 
 - 冠狀動派疾病可使用 CTA、鈣化積分、SPECT 評估
 
-
-
 ---
-
-
 
 > **參考文獻 / Reference:** Herring W. Learning Radiology (5th Ed.) — Recognizing Normal Cardiac Anatomy (Ch. 3) & Recognizing Adult Heart Disease (Ch. 11). Elsevier.
 
-
-
 ---
 
-
-
-
 ## 圖片出處 / Image References
-
-
