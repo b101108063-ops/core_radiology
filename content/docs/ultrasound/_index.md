@@ -278,9 +278,9 @@ weight: 6
 
 ## 脾臟 / Spleen
 
-### Page 493 / 脾臟：疾病影像模式 (Spleen: Patterns of Disease)
+### Page 494 / 脾臟：疾病影像模式 (Spleen: Patterns of Disease)
 
-![Page 493](/core_radiology/images/ultrasound/page-493.png)
+![Page 494](/core_radiology/images/ultrasound/page-494.png)
 
 脾臟鈣化性病灶可由肉芽腫性疾病、脾梗塞、血腫或脾動脈瘤引起。脾臟高迴聲性病灶包括血管瘤（也可能為低迴聲）、錯構瘤及淋巴管瘤；低迴聲病灶則包括撕裂傷（在創傷情境下）、膿瘻、淋巴瘤、結節病、轉移及梗塞（傾向周邊分布）。脾腫大（>14cm）常見原因包括門靜脈高壓（最常見）、感染及愛滋病；中重度脾腫大則需考慮白血病/淋巴瘤或傳染性單核細胞增多症。
 
@@ -602,9 +602,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 517 / 子宮發育異常 (Congenital Uterine Malformations)
+### Page 518 / 子宮發育異常 (Congenital Uterine Malformations)
 
-![Page 517](/core_radiology/images/ultrasound/page-517.png)
+![Page 518](/core_radiology/images/ultrasound/page-518.png)
 
 子宫發育異常源於成對苗勒氏管的發育異常，完全未融合導致雙角子宫（didelphys uterus）；部分未融合導致雙角子宫（bicornuate uterus）；苗勒氏管間隔未被吸收則導致隔離子宫（septate uterus），為最常見的子宫異常。雙角子宫因分隔組織缺乏血管，妊娠丟失風險最高。子宫發育異常可能與泌尿道異常相關，如腎臟異位或發育不全。隔離子宫（septate uterus）占所有子宫異常的大多數，子宮內膜囊在臨床上最難與雙角子宫區分。
 
@@ -682,9 +682,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 523 / 卵巢囊腫 (Ovarian Cysts)
+### Page 524 / 卵巢囊腫 (Ovarian Cysts)
 
-![Page 523](/core_radiology/images/ultrasound/page-523.png)
+![Page 524](/core_radiology/images/ultrasound/page-524.png)
 
 2010年放射學會超聲共識（SRU Consensus）對無症狀卵巢囊腫的管理指引：停經前：<=3cm不需報告；>3-5cm報告為良性不需追蹤；>5-7cm應年度追蹤；>7cm應MRI或手術。停經後：<=1cm不需報告；>1-7cm應年度追蹤；>7cm應MRI或手術。功能性囊腫（Functional Cyst）為卵泡週期未正常執行所致，包含卵泡囊腫（>25mm未排卵之卵泡）與黃體囊腫（未退化且增大至>3cm）。黃體囊腫超聲表現多變，但常見複雜囊腫表現，有豐富舒張血流。出血性囊腫超聲可見網狀內部迴聲，隨時間演變為更複雜外觀。
 
@@ -849,9 +849,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 535 / 腹膜包涵囊腫 (Peritoneal Inclusion Cyst)
+### Page 526 / 腹膜包涵囊腫 (Peritoneal Inclusion Cyst)
 
-![Page 535](/core_radiology/images/ultrasound/page-535.png)
+![Page 526](/core_radiology/images/ultrasound/page-526.png)
 
 **Peritoneal Inclusion Cyst（腹膜包涵囊腫）** A peritoneal inclusion cyst is a septated fluid collection formed by adhesions from prior surgery or inflammation. The **ovary is always closely associated（卵巢始終密切相關）** with the peritoneal inclusion cyst, either trapped within or adjacent to it. This is a benign condition and it is important NOT to recommend surgery for treatment, as further surgery may create additional adhesions and worsen the condition. The main differential diagnosis is a **cystadenoma（囊腺瘤）**, which has thick septations and tends to exert mass effect on surrounding structures. Peritoneal inclusion cysts follow the shape of the peritoneal cavity and lack the mural nodules or solid components seen in neoplastic lesions.
 
@@ -988,9 +988,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 544 / 多胞胎與胎盤類型 (Multiple Gestations and Placentation)
+### Page 535 / 多胞胎與胎盤類型 (Multiple Gestations and Placentation)
 
-![Page 544](/core_radiology/images/ultrasound/page-544.png)
+![Page 535](/core_radiology/images/ultrasound/page-535.png)
 
 多胞胎妊娠的**胎盤類型（Placentation）** 取決於**絨毛膜性（Chorionicity）** 與**羊膜性（Ammnionicity）**，這兩個因素直接決定了妊娠併發症的風險程度與追蹤頻率。**絨毛膜（Chorion）** 來自受精後第4-8天的外層細胞團，負責形成胎盤的胎兒側；**羊膜（Ammion）** 來自受精後第8-13天的內層細胞團，包繞羊膜腔。根據受精卵分裂時間的不同，單卵雙胞胎（ Monozygotic twins）可呈現任何一種胎盤組合：**一個絨毛膜＋一個羊膜（Mono/Mono）**（極罕見，約1%）、**一個絨毛膜＋兩個羊膜（Mono/Di）**（約25%）或**兩個絨毛膜＋兩個羊膜（Di/Di）**（約33%）。雙卵雙胞胎（Dizygotic twins）則由兩個獨立受精卵形成，因此一定是**Di/Di型**，且可能為不同性別。臨床上，超聲確定胎盤類型時，應優先評估兩個胎兒之間的**隔膜厚度**（Di/Di型隔膜較厚，由兩層絨毛膜＋兩層羊膜組成），以及各自是否有獨立的胎盤。
 
@@ -1002,9 +1002,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 545 / 單卵雙胞胎 (Monozygotic / "Identical" Twins)
+### Page 536 / 單卵雙胞胎 (Monozygotic / "Identical" Twins)
 
-![Page 545](/core_radiology/images/ultrasound/page-545.png)
+![Page 536](/core_radiology/images/ultrasound/page-536.png)
 
 單卵雙胞胎（Monozygotic twins）是由**單一卵子（single egg）** 與**單一精子（single sperm）** 受精後，於發育過程中受精卵分裂為兩個胚胎而形成，因此又稱為「同卵」或「identical」雙胞胎。單卵雙胞胎的基因組成完全相同，性別一定相同，外觀高度相似。單卵雙胞胎的胎盤類型取決於受精卵分裂的時間早晚，分為三種情況：若在受精後**第0-3天**（受精卵發育至桑葚胚階段前）分裂，會形成**兩個絨毛膜＋兩個羊膜（Di/Di）**，約佔所有單卵雙胞胎的**33%**；若在第4-8天（絨毛膜已形成之後）分裂，則形成**一個絨毛膜＋兩個羊膜（Mono/Di）**，約佔75%，此類型因共享胎盤而有較高的雙胞胎輸血症候群（TTTS）風險；若在第8-13天之後分裂，則形成**一個絨毛膜＋一個羊膜（Mono/Mono）**，最為罕見但雙胞胎輸血症候群（TTTS）及選擇性胎兒生長受限（sFGR）風險最高。
 
@@ -1016,9 +1016,9 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ---
 
-### Page 546 / 雙絨毛膜─雙羊膜雙胞胎 (Di/Di Dichorionic-Diamniotic Twins)
+### Page 537 / 雙絨毛膜─雙羊膜雙胞胎 (Di/Di Dichorionic-Diamniotic Twins)
 
-![Page 546](/core_radiology/images/ultrasound/page-546.png)
+![Page 537](/core_radiology/images/ultrasound/page-537.png)
 
 Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁有獨立胎盤（Dichorionic）與獨立羊膜腔（Diamniotic）的雙胞胎類型。這是所有雙胞胎類型中最常見的一種，也是妊娠併發症風險相對最低的類型。超聲檢查時，Di/Di雙胞胎可見**兩個可區分的獨立胎盤**（若兩個胎盤著床於子宫的不同位置），且胎兒之間的**隔膜（Inter-twin membrane）** 由**兩層絨毛膜＋兩層羊膜**組成，因此厚度較其他類型（尤其是Mono/Di型）相對較厚，這是超聲區分Di/Di與Mono/Di的重要依據。在妊娠早期與中期，隔膜厚度的判斷較為可靠；但隨著妊娠進展至中晚期，羊膜會變薄，使得隔膜厚度變得不那麼可靠來作為判斷絨毛膜性的依據，應優先採用胎盤數目與性別進行判斷。若為同性別雙胞胎且超聲可見兩個明確獨立的胎盤，則高度支持Di/Di的診斷。
 
@@ -1044,9 +1044,9 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ---
 
-### Page 548 / 第一孕期胚胎評估 (First Trimester Embryo Evaluation)
+### Page 539 / 第一孕期胚胎評估 (First Trimester Embryo Evaluation)
 
-![Page 548](/core_radiology/images/ultrasound/page-548.png)
+![Page 539](/core_radiology/images/ultrasound/page-539.png)
 
 第一孕期（妊娠6-12週）的胚胎超聲評估因胚胎體積微小，無法進行完整結構掃描，但可針對少數關鍵解剖構造進行評估。**頭臀長（Crown-Rump Length, CRL）** 是6-12週孕期估算的首選測量參數，因為此時期胚胎無法進行頸部的屈伸活動，測量姿勢變異最小，CRL測量誤差約為正負3-5天，是臨床上最準確的孕期估算方法。超聲下可見胚胎的兩個重要原始腦部結構：**前腦（Prosencephalon）** 為未來發育成大腦半球與間腦的原始前側腦泡，在超聲冠狀切面上呈現為一個無回音性結構；**菱腦（Rhombencephalon）** 為後腦的原始結構，未來發育成小腦與腦橋，在超聲矢狀或軸狀切面上可見。後續（第10-12週之後），菱腦會向尾側移動至頸部位置，超聲追蹤此結構的位置變化有助於確認胚胎發育正常。
 
@@ -1072,9 +1072,9 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ---
 
-### Page 550 / 羊水指數（AFI） (Amniotic Fluid Index)
+### Page 541 / 羊水指數（AFI） (Amniotic Fluid Index)
 
-![Page 550](/core_radiology/images/ultrasound/page-550.png)
+![Page 541](/core_radiology/images/ultrasound/page-541.png)
 
 羊水指數（Amniotic Fluid Index, AFI）是臨床上量化羊水量的標準超聲測量方法，適用於妊娠16至42週。測量方式是將子宫劃分為**四個象限（Four quadrants）**，在每個象限中分別找出**最大垂直液性暗區（ Largest vertical pocket）** 並測量其深度（以公分為單位），然後將四個象限的測量值相加，總和即為AFI。AFI的正常值與診斷閾值隨妊娠週數變化，**羊水過少（Oligohydramnios）** 的超聲診斷標準為AFI≤6.3cm（約為第2.5百分位），24週時第2.5百分位為9.0cm；**羊水過多（Polyhydramnios）** 的標準為AFI≥19.2cm（約為第97.5百分位），36週時第97.5百分位為27.9cm。需要特別注意的是，AFI作為單一指標存在一定局限性，在臨界值附近時應**結合主觀評估（Subjective assessment）** 進行整體判斷；若臨床表現與AFI數值不一致，應以主觀超聲評估為優先。
 
@@ -1097,9 +1097,9 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ---
 
-### Page 552 / 前置胎盤 (Placenta Previa)
+### Page 543 / 前置胎盤 (Placenta Previa)
 
-![Page 552](/core_radiology/images/ultrasound/page-552.png)
+![Page 543](/core_radiology/images/ultrasound/page-543.png)
 胎盤位置異常的術語在臨床文獻中並不一致，常見名詞包括前置胎盤（Placenta Previa）、邊緣性前置胎盤（Marginal Previa）、低置胎盤（Low-Lying Placenta）與部分性前置胎盤（Partial Previa），彼此定義重疊因而造成混淆。實用原則為：胎盤邊緣距離宮頸內口（Internal Cervical Os）超過 3 公分者為正常；若胎盤邊緣距離內口不及 3 公分，則應直接描述胎盤前緣距內口的實際距離，而非直接給予前置胎盤的診斷。真正的完全性前置胎盤（Complete Previa）定義為胎盤組織完全覆蓋宮頸內口，無論胎兒位置為何，均須以剖腹產方式分娩。
 
 **重點摘要**
@@ -1125,9 +1125,9 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ---
 
-### Page 554 / 胎兒水腫 (Fetal Hydrops)
+### Page 545 / 胎兒水腫 (Fetal Hydrops)
 
-![Page 554](/core_radiology/images/ultrasound/page-554.png)
+![Page 545](/core_radiology/images/ultrasound/page-545.png)
 胎兒水腫（Fetal Hydrops）並非單一疾病，而是一种因胎兒體液過剩所致的病理狀態，其診斷要件包括以下五項中至少一項：胎兒腹水（Ascites）、肋膜積液（Pleural Effusion）、心包積液（Pericardial Effusion）、皮膚層增厚（Skin Thickening ≥5 mm）以及羊水過多（Polyhydramnios）。胎兒水腫分為兩大類：免疫性水腫（Immune Hydrops）由母體與胎兒血型不合（最常見者為 Rh 同種免疫）所引起，導致胎兒溶血與貧血；非免疫性水腫（Non-Immune Hydrops, NIH）則涵蓋所有其他病因，包括染色體異常、先天性心臟病、胎兒感染（弓漿蟲、梅毒、巨細胞病毒等）、肺部畸形與胎兒腫瘤等。超聲波應全面掃描胎兒結構、胎盤厚度與羊水量，並評估胎兒都卜勒以排除貧血。
 
 **重點摘要**
@@ -1185,9 +1185,9 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ---
 
-### Page 558 / 全前腦畸形 (Holoprosencephaly)
+### Page 549 / 全前腦畸形 (Holoprosencephaly)
 
-![Page 558](/core_radiology/images/ultrasound/page-558.png)
+![Page 549](/core_radiology/images/ultrasound/page-549.png)
 全前腦序列症（Holoprosencephaly, HPE）為前腦（Prosencephalon）於胚胎發育第 4–6 週時無法正常分為左右兩半球，導致中線結構融合的一系列疾病譜系，嚴重程度從輕微的單一中央門牙（Single Central Incisor）到最嚴重的無腦畸形（Alobar HPE）不等。超聲波診斷要點包括：丘腦融合（Fused Thalami，矢狀切面可見單一卵圓形丘腦）、單一腦室（Monoventricle，無側腦室分界）以及與之相連的背側囊（Dorsal Cyst）。HPE 常伴隨中線顏面畸形（如眼球融合Cyclopia、喙鼻Proboscis）及染色體異常，其中以 Trisomy 13（Patau 症候群）最為常見，約佔 50–75% 的中型或重型 HPE 病例。
 
 **重點摘要**
