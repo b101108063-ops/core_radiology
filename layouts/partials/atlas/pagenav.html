@@ -1,0 +1,23 @@
+{{- /* pagenav.html — 上／下一頁導覽 */ -}}
+{{ $prev := .PrevInSection }}
+{{ $next := .NextInSection }}
+{{ if or $prev $next }}
+<nav class="atlas-pagenav" aria-label="章節導覽">
+  {{ with $prev }}
+    <a class="atlas-pagenav-link" href="{{ .RelPermalink }}">
+      <span class="atlas-pagenav-dir">← 上一頁</span>
+      <span class="atlas-pagenav-title">{{ .Title }}</span>
+    </a>
+  {{ else }}
+    <span class="atlas-pagenav-link atlas-pagenav-empty" aria-hidden="true"></span>
+  {{ end }}
+  {{ with $next }}
+    <a class="atlas-pagenav-link is-next" href="{{ .RelPermalink }}">
+      <span class="atlas-pagenav-dir">下一頁 →</span>
+      <span class="atlas-pagenav-title">{{ .Title }}</span>
+    </a>
+  {{ else }}
+    <span class="atlas-pagenav-link atlas-pagenav-empty is-next" aria-hidden="true"></span>
+  {{ end }}
+</nav>
+{{ end }}

@@ -1,3 +1,7 @@
 themes/
 public/
 resources/
+node_modules/
+.shots/
+package-lock.json
+.hugo_build.lock

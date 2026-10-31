@@ -1,0 +1,13 @@
+{{- /* ddx.html — Differential Diagnosis 鑑別診斷
+     用法：{{< ddx >}}…{{< /ddx >}} */ -}}
+{{- $title := .Get "title" | default "Differential Diagnosis" -}}
+{{- $zh := .Get "zh" | default "鑑別診斷" -}}
+<div class="atlas-card atlas-card-ddx">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10M7 20h10"/><path d="M12 4v6M12 14v6"/><path d="M5 12h4M15 12h4"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

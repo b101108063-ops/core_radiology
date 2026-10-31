@@ -1,0 +1,13 @@
+{{- /* findings.html — Imaging Findings 影像所見
+     用法：{{< findings >}}…{{< /findings >}} */ -}}
+{{- $title := .Get "title" | default "Imaging Findings" -}}
+{{- $zh := .Get "zh" | default "影像所見" -}}
+<div class="atlas-card atlas-card-findings">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/><circle cx="12" cy="12" r="9"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>
