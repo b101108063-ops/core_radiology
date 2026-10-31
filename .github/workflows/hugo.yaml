@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: write
@@ -27,63 +29,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.166.0'
+          hugo-version: '0.148.1'
           extended: true
 
-      - name: Clone Hugo Book theme
-        run: git clone --depth 1 https://github.com/alex-shpak/hugo-book.git themes/hugo-book
-
-      - name: Patch Hugo Book theme
-        run: |
-          python3 << 'PYEOF'
-          import os
-
-          # Patch menu-filetree.html - sort sections by weight
-          f = "themes/hugo-book/layouts/_partials/docs/menu-filetree.html"
-          with open(f, 'r') as fh:
-              content = fh.read()
-
-          old = '{{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}'
-          new = ('{{ $ordered := slice }}'
-                 '{{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}'
-                 '  {{ $weight := 9999 }}'
-                 '  {{ with .Params.weight }}{{ $weight = . }}{{ end }}'
-                 '  {{ $ordered = $ordered | append (dict "Page" . "Weight" $weight) }}'
-                 '{{ end }}'
-                 '{{ $sorted := slice }}'
-                 '{{ range sort $ordered "Weight" "asc" }}'
-                 '  {{ $sorted = $sorted | append .Page }}'
-                 '{{ end }}'
-                 '  {{ range $sorted }}')
-
-          content = content.replace(old, new)
-          with open(f, 'w') as fh:
-              fh.write(content)
-          print("Patched", f)
-
-          # Patch title.html - remove Chapter X: prefix
-          f = "themes/hugo-book/layouts/_partials/docs/title.html"
-          with open(f, 'r') as fh:
-              content = fh.read()
-
-          old = '{{ if .LinkTitle }}\n  {{ $title = .LinkTitle }}\n{{ else if .Title }}\n  {{ $title = .Title }}'
-          new = ('{{ $title := "" }}\n'
-                 '{{ if .LinkTitle }}\n'
-                 '  {{ $title = .LinkTitle }}\n'
-                 '{{ else if .Title }}\n'
-                 '  {{ $title = .Title }}')
-          content = content.replace(old, new)
-
-          # Add the regex replacement after the last {{ return $title }}
-          content = content.replace('{{ return $title }}',
-                                   '{{ $title = replaceRE "^Chapter\\\\s+\\\\d+:\\\\s*" "" $title }}\n{{ return $title }}')
-          with open(f, 'w') as fh:
-              fh.write(content)
-          print("Patched", f)
-          PYEOF
-
+      # Radiology Atlas 版面自給自足：所有 layout / asset / shortcode 皆在 repository 內，
+      # 不需 clone 外部 theme，也不需在 CI 內 patch theme。
       - name: Build
-        run: hugo
+        run: hugo --gc --minify
+        env:
+          HUGO_ENV: production
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -98,6 +52,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages

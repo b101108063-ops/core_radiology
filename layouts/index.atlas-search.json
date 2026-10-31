@@ -1,0 +1,23 @@
+{{- /* atlas-search.json — 全書搜尋索引
+     供前端即時搜尋使用；僅收錄有實際內容的章節頁面。 */ -}}
+[
+{{ $pages := slice }}
+{{ range .Site.Pages }}
+  {{ if and (ne .Kind "home") (gt (len (.Plain | plainify)) 240) }}
+    {{ $pages = $pages | append . }}
+  {{ end }}
+{{ end }}
+{{ range $i, $p := $pages }}
+{{ if gt $i 0 }},{{ end }}
+{{- $section := "" }}
+{{- if $p.IsSection }}{{ $section = $p.Title }}
+{{- else }}{{ with $p.Parent }}{{ if not .IsHome }}{{ $section = .Title }}{{ end }}{{ end }}{{ end }}
+{{- $section = replaceRE "^Chapter\\s+\\d+:\\s*" "" $section -}}
+{
+  "href": {{ $p.RelPermalink | jsonify }},
+  "title": {{ $p.Title | jsonify }},
+  "section": {{ $section | jsonify }},
+  "content": {{ substr ($p.Plain | plainify) 0 40000 | jsonify }}
+}
+{{ end }}
+]

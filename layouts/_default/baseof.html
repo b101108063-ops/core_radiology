@@ -1,0 +1,43 @@
+{{- /* baseof.html — Radiology Atlas 三欄閱讀版面 */ -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "zh-TW" }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="theme-color" content="#142235">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+{{- $css := resources.Get "styles/atlas.css" | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" {{ with $css.Data.Integrity }}integrity="{{ . }}"{{ end }}>
+</head>
+<body class="atlas-body">
+<a class="atlas-skip" href="#atlas-main">跳至主要內容</a>
+
+<div class="atlas-shell">
+  {{ partial "atlas/sidebar.html" . }}
+
+  <div class="atlas-main-col">
+    <div class="atlas-topbar">
+      <button class="atlas-icon-btn" id="atlas-menu-toggle" aria-label="開啟章節導覽" aria-expanded="false" aria-controls="atlas-sidebar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <span class="atlas-topbar-title">{{ if .IsHome }}Core Radiology{{ else }}{{ partial "atlas/title.html" . }}{{ end }}</span>
+      <button class="atlas-icon-btn" id="atlas-toc-toggle" aria-label="開啟目錄">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg>
+      </button>
+    </div>
+
+    <main class="atlas-main" id="atlas-main">
+      {{ block "main" . }}{{ end }}
+    </main>
+  </div>
+
+  {{ partial "atlas/toc.html" . }}
+</div>
+
+<div class="atlas-sidebar-scrim" id="atlas-sidebar-scrim"></div>
+{{ partial "atlas/viewer.html" . }}
+{{ partial "atlas/scripts.html" . }}
+</body>
+</html>

@@ -1,0 +1,13 @@
+{{- /* pearls.html — Clinical Pearls 臨床寶貝
+     用法：{{< pearls >}}…{{< /pearls >}} */ -}}
+{{- $title := .Get "title" | default "Clinical Pearls" -}}
+{{- $zh := .Get "zh" | default "臨床要點" -}}
+<div class="atlas-card atlas-card-pearls">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2h5c0-.8.4-1.5 1-2A6 6 0 0 0 12 3z"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

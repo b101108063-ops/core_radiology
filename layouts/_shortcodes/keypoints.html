@@ -1,0 +1,14 @@
+{{- /* keypoints.html — Key Points 教學卡
+     用法：{{< keypoints >}}…{{< /keypoints >}}
+     選用參數 title="重點摘要" */ -}}
+{{- $title := .Get "title" | default "Key Points" -}}
+{{- $zh := .Get "zh" | default "重點摘要" -}}
+<div class="atlas-card atlas-card-keypoints">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 7v6c0 4.5 3.4 7.9 8 8.5 4.6-.6 8-4 8-8.5V7z"/><path d="m9 12 2 2 4-4"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

@@ -1,0 +1,18 @@
+{{- /* render-image.html — 醫學影像自動包裝為 figure + 檢視器觸發點
+     保留原始解析度與標註；僅增加縮放外框與圖說，不改動影像本身。 */ -}}
+{{- $src := .Destination -}}
+{{- $alt := .Text | plainify -}}
+{{- $title := .Title | default $alt -}}
+<figure class="atlas-figure" data-image-src="{{ $src }}">
+  <button class="atlas-figure-frame" type="button" data-atlas-viewer-open="{{ $src }}" data-atlas-caption="{{ $title }}" aria-label="放大檢視影像">
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  </button>
+  <figcaption>
+    <span class="atlas-figure-caption-text">{{ $title }}</span>
+    <span class="atlas-figure-tools">
+      <button class="atlas-figure-tool" type="button" data-atlas-compare="{{ $src }}" aria-label="將此影像加入對比檢視" title="加入對比">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="8" height="16" rx="1"/><rect x="13" y="4" width="8" height="16" rx="1"/></svg>
+      </button>
+    </span>
+  </figcaption>
+</figure>
