@@ -64,15 +64,17 @@ thoracic,NO_MATCH,content/docs/thoracic/_index.md,1503,再活化結核 / Reactiv
 thoracic,NO_MATCH,content/docs/thoracic/_index.md,1516,原發性 vs 再活化性結核 / Primary vs. Reactivation TB,page-084.png,75,,,Airways,,0
 thoracic,NO_MATCH,content/docs/thoracic/_index.md,1526,"免疫抑制患者的結核 / TB in Immunosuppressed Patients (e.g., HIV)",page-085.png,76,,,Tuberculosis,,0
 thoracic,MATCHED,content/docs/thoracic/_index.md,1543,結核性淋巴結病 / Tuberculous Adenopathy,page-086.png,77,24,53,Wegener granulomatosis,Tuberculous adenopathy: Contrast-enhanced,1
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6554,圖片出處 / Image References,page-087.png,78,,,"Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women’s Hos",,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6555,圖片出處 / Image References,page-088.png,79,,,Emphysema,,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6556,圖片出處 / Image References,page-089.png,80,,,Panacinar (panlobular) emphysema,,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6557,圖片出處 / Image References,page-090.png,81,,,Adenoid cystic carcinoma (ACC),,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6558,圖片出處 / Image References,page-091.png,82,,,Mucoepidermoid carcinoma,,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6559,圖片出處 / Image References,page-092.png,83,,,Pleura,,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6560,圖片出處 / Image References,page-093.png,84,,,Fibrous tumor of the pleura (FTP),,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6561,圖片出處 / Image References,page-094.png,85,,,Chylothorax,,0
-thoracic,NO_MATCH,content/docs/thoracic/_index.md,6562,圖片出處 / Image References,page-095.png,86,,,Pulmonary vascular disease:,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4433,先天性結締組織疾病 / Congenital Connective Tissue Disorders,page-087.png,78,,,"Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women’s Hos",,0
+thoracic,AMBIGUOUS,content/docs/thoracic/_index.md,4480,肺氣腫 / Emphysema,page-088.png,79,,,Emphysema,,2
+thoracic,MATCHED,content/docs/thoracic/_index.md,4508,全小葉型肺氣腫 / Panacinar (Panlobular) Emphysema,page-089.png,80,80,0,Panacinar (panlobular) emphysema,Panacinar (panlobular) emphysema,1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4524,氣管鱗狀細胞癌 / Tracheal Squamous Cell Carcinoma (SCC),page-089.png,80,36,44,Panacinar (panlobular) emphysema,Squamous cell carcinoma (SCC),1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4534,腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC),page-090.png,81,81,0,Adenoid cystic carcinoma (ACC),Adenoid cystic carcinoma (ACC),1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4548,氣管類癌 / Endobronchial Carcinoid,page-090.png,81,,,Adenoid cystic carcinoma (ACC),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4578,氣管內轉移 / Endobronchial Metastasis,page-091.png,82,,,Mucoepidermoid carcinoma,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4604,惡性胸膜腫瘤 / Pleural Malignancy,page-092.png,83,,,Pleura,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,4634,纖維性胸膜腫瘤 / Fibrous Tumor of the Pleura (FTP),page-093.png,84,84,0,Fibrous tumor of the pleura (FTP),Fibrous tumor of the pleura (FTP),1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4674,乳糜胸 / Chylothorax,page-094.png,85,85,0,Chylothorax,Chylothorax,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4682,"參考文獻 / References, Resources, and Further Reading",page-095.png,86,,,Pulmonary vascular disease:,,0
 gi,AMBIGUOUS,content/docs/gi/_index.md,7,肝臟 / Liver,page-096.png,87,,,2 Gastrointestinal imaging,,5
 gi,NO_MATCH,content/docs/gi/_index.md,19,肝臟解剖 / Liver Anatomy,page-097.png,88,,,Liver,,0
 gi,NO_MATCH,content/docs/gi/_index.md,31,肝段記憶口訣 / Hepatic Segment Mnemonic,page-098.png,89,,,1 is 7.,,0

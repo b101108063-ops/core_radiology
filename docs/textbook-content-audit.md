@@ -3,7 +3,7 @@
 審計對象：<https://github.com/b101108063-ops/core_radiology>
 審計分支基準：`main` @ `228eb5a`（UI 改版 PR #1 未納入本審計）
 報告產生日期：2026-10-31
-狀態：**第二階段（12 章全量影像身分驗證 + 系統性偏移修正已套用）**
+狀態：**第三階段（來源混雜段落已移除 + 原書缺頁已補回 + 影像錯位修正完成）**
 
 ---
 
@@ -19,8 +19,9 @@
 | 12 個網站章節 ↔ 教科書章節對應 | ✅ 全部建立，章節邊界逐章驗證通過 |
 | 已完整審計章節數 | **12 / 12**（全量） |
 | 影像檔身分確定性驗證 | **865 張全數比對**（815 張像素級完全命中 + 50 張視覺覆核） |
-| 已確認差異數 | **9 項**（CRITICAL 0、MAJOR 3、MINOR 4、UNVERIFIED 2） |
+| 已確認差異數 | **10 項**（CRITICAL 0、MAJOR 3、MINOR 4、UNVERIFIED 2、MAJOR 1 新增） |
 | 已套用修正 | **22 處系統性影像偏移**（gi +1、ultrasound +9），commit `dd9b3b5` |
+| 第三階段修正 | **15 處 Learning Radiology 內容移除**、**原書書頁 78–86 補回**（thoracic）、**4 處影像錯置修正**（見 §7） |
 
 **最重要的單一發現**：網站章節內容由**兩個不同來源**組成 —— *Core Radiology*（Cambridge, Mandell 2013）與 *Learning Radiology*（Herring）。兩者在影像配對上的頁碼基準不同，導致大量影像與其說明文字錯位。此問題在 thoracic 章最嚴重。
 
@@ -178,8 +179,8 @@ static/images/<chapter>/page-NNN.png   的 NNN  =  教科書印刷頁碼 + 9
 | 來源證據 | 網站內容含 15 處形如 `**Source: Learning Radiology, Chapter 9 — Critical Care Radiology (William Herring, MD, FACR)**` 的出處標註，位於 thoracic 第 4578、4766、4903、5071、5268、5457、5737、5953、6137、6395 行；cardiovascular 與 pediatric 各有 3 處、2 處 |
 | 網站內容 | 上述標註之間為完整章節內容，含 PICCC 導管 malposition、Swan-Ganz 導管、中心靜脈導管、吸入性肺炎三型、Mengelson 症候群等主題 |
 | 說明 | 這些章節源自 William Herring 的 *Learning Radiology*，**不是** Mandell 的 *Core Radiology*。因此：(a) 無法以本教科書驗證其內容；(b) 這些段落的影像錯位基準與前後段落不同，是 F-01 錯位的部分成因 |
-| 建議修正 | 選項：(1) 明確標示為「補充教材（Learning Radiology）」並與教科書原文分區呈現；(2) 改寫為依本教科書對應章節的內容；(3) 移除。**需使用者決定，不得靜默改寫** |
-| 驗證狀態 | ✅ 已驗證（出處標註明確） |
+| 建議修正 | 選項：(1) 明確標示為「補充教材（Learning Radiology）」並與教科書原文分區呈現；(2) 改寫為依本教科書對應章節的內容；(3) 移除 |
+| 驗證狀態 | ✅ 已驗證（出處標註明確）→ **第三階段已採用選項 (3) 移除**，見 §7.5 |
 
 ### F-05 — 圓形肺炎病原菌列表與教科書不符
 
@@ -192,7 +193,7 @@ static/images/<chapter>/page-NNN.png   的 NNN  =  教科書印刷頁碼 + 9
 | 網站內容 | 兩處並存：(1) 第 1313 行「圓形肺炎 / Round Pneumonia」：病原菌為 *Streptococcus pneumoniae*，與教科書一致 ✓；(2) 第 5372 行「圓形肺炎 Round Pneumonia」（Learning Radiology 版）：病原菌為「**流感嗜血桿菌、鏈球菌、肺炎球菌**」 |
 | 說明 | 兩處內容互相矛盾，且第二處出現教科書未提及的 *Haemophilus influenzae*。此為來源混雜（F-04）造成的直接臨床內容衝突 |
 | 建議修正 | 以教科書版為準統一，或明確標註兩來源並說明差異。**屬臨床內容，不得靜默修改** |
-| 驗證狀態 | ✅ 已驗證 |
+| 驗證狀態 | ✅ 已驗證 → **第三階段已解除**（Learning Radiology 版段落已移除，現存版本與教科書 p.21 一致：僅見於兒童、最常見為 *Streptococcus pneumoniae*；全章 *Haemophilus influenzae*／流感嗜血桿菌 出現次數為 0） |
 
 ### F-06 — 影像識別錯誤（醫學影像對應到錯誤章節）
 
@@ -205,7 +206,7 @@ static/images/<chapter>/page-NNN.png   的 NNN  =  教科書印刷頁碼 + 9
 | 網站內容 | `page-022.png` 置於「左上葉肺膨脹不全」；`page-057.png` 置於「空洞性與囊性肺部疾病」但書頁 48 為「Diffuse lung disease」起始；`page-071.png` 置於「結核病 / Tuberculosis」但書頁 62 屬「Miscellaneous diffuse pulmonary disease」 |
 | 說明 | 讀者在「左上葉肺膨脹不全」段落看到的是 Crazy paving 的示範圖 —— **這是明確的錯誤影像識別**，且屬臨床誤導性質。經 F-01 量化後，此類錯誤遍佈全章 |
 | 建議修正 | 依 F-01 的重編對照表逐張重新對位；建議以自動化比對產出草稿後逐張人工覆核 |
-| 驗證狀態 | ⚠️ 已驗證（頁碼層級）；**全章 86 張的逐張覆核尚未完成**，故暫列候選 CRITICAL |
+| 驗證狀態 | ⚠️ 已驗證（頁碼層級）；**全章 86 張的逐張覆核尚未完成**，故暫列候選 CRITICAL。<br>**第三階段狀態：仍存在** —— `page-022.png`（書頁 13「Crazy paving」）至今仍置於「左上葉肺膨脹不全」段落，而「碎石路徵 / Crazy Paving」段落（書頁 13 的正確位置）使用的是 `page-044.png`。經查 atelectasis 段的偏移為**漸進漂移**（+6 → +8 → +10 → +12 → +15 … +53），非孤立雜訊，屬系統性問題，待下一階段處理 |
 
 ### F-07 — Cardiovascular 章影像越界 1 頁
 
@@ -408,8 +409,9 @@ cardiovascular 與 physics —— 這兩章的掃描檔解析度是 1241×1531�
 | 603 個 NO_MATCH 區塊 | 無法用標題反查，需改用內文 cosine 或圖說語意逐張比對 |
 | F-02 圖說回填 | 未執行 |
 | F-03 章節大綱頁碼 | 未修正 |
-| F-04 來源混雜 15 處 | 待使用者決定 |
+| F-04 來源混雜 15 處 | ✅ **第三階段已移除**（見 §7A.1） |
 | F-09 網站原創臨床建議標註 | 待使用者決定 |
+| **移除 LR 後的主題缺口（7 個主題）** | 未處理 —— 原書對應段落尚未補回，見 §7A.4 |
 
 ---
 
@@ -437,13 +439,84 @@ cardiovascular 與 physics —— 這兩章的掃描檔解析度是 1241×1531�
 ### 7.3 來源混雜區段
 
 thoracic（10 處）、cardiovascular（3 處）、pediatric（2 處）共 15 處 Learning Radiology 內容需使用者決策。
+**第三階段已採用「移除」方案並補回原書對應內容，見 §7.5。**
 
 ### 7.4 分支策略
 
 依指示，內容修正應與 UI 改版**分開 PR**：
 
 - `feature/radiology-atlas`（PR #1）— UI 改版，維持現狀待 review
-- 建議新分支 `fix/content-fidelity` — 內容修正，獨立 PR
+- `feature/content-fidelity-audit`（PR #2）— 內容修正，獨立 PR
+
+---
+
+## 7A. 第三階段：移除來源混雜內容並補回原書缺頁
+
+### 7A.1 已套用的變更
+
+| 變更 | 範圍 | 內容 |
+|---|---|---|
+| 移除 Learning Radiology 區塊 | thoracic 10 處、cardiovascular 3 處、pediatric 2 處，合計 15 處 | 全站 `Learning Radiology` 字串歸零；刪除 2579 行、補回 198 行 |
+| 補回原書書頁 78–86 | thoracic | 先天性結締組織疾病、支氣管擴張症病因與形態學分類、肺氣腫（3 型）、氣道腫瘤（SCC／ACC／類癌／黏液表皮樣癌／氣管淋巴瘤／氣管內轉移／直接侵犯／良性腔內病變）、胸膜疾病（間皮瘤／轉移／骨髓瘤／FTP／積液／乳糜胸）、參考文獻 |
+| 影像錯置修正 | thoracic 4 處 | 見 §7A.3 |
+
+**補回內容的來源**：全部改寫自教科書文字層 `/tmp/cr_source/ch/thoracic.txt`（書頁 78–86），
+未加入原書沒有的臨床主張。參考文獻節為原書書頁 85–86 的條目。
+
+### 7A.2 修正前後的驗證
+
+| 項目 | 修正前 | 修正後 |
+|---|---|---|
+| `hugo` 0.166.0 build（CI 同版本） | EXIT=0（baseline） | EXIT=0，502 pages，零 ERROR |
+| 全站影像引用 | 845 | 847（新增 2 張重複引用，因原書同頁含兩張圖） |
+| 缺圖 | 0 | 0 |
+| alt 文字與檔名一致性 | 1 處不一致（neuro，**既有**問題） | 1 處不一致（neuro，同一處，未變動） |
+| `Learning Radiology` 出現次數 | 15 處 | 0 |
+| 12 章詞集包含規則比對 | — | MATCHED 129 / AMBIGUOUS 17 / NO_MATCH 599 |
+
+### 7A.3 影像錯置的 4 處修正 —— 「一節配一頁」的假設失效
+
+補回內容後以「詞集包含規則」重跑比對，發現 4 處 offset 非零。**根因不是頁碼換算錯誤，
+而是「一個小節配一張圖」的假設失效：原書一頁含多張圖，頁首標題只反映該頁的第一個標題。**
+
+| 段落 | 該圖實際所在書頁 | 修正前 | 修正後 |
+|---|---|---|---|
+| 全小葉型肺氣腫 | 書頁 80 | `page-089` ✅ | `page-089` |
+| 氣管鱗狀細胞癌（SCC） | 書頁 80（與肺氣腫**同頁**） | `page-090` ❌ | `page-089` |
+| 腺樣囊性癌（ACC） | 書頁 81 | `page-091` ❌ | `page-090` |
+| 氣管類癌（Endobronchial Carcinoid） | 書頁 81（與 ACC **同頁**） | 無圖 ❌ | `page-090` |
+| 氣管內轉移 | 書頁 82 | 無圖 ❌ | `page-091` |
+
+**驗證方式**：對 `page-089.png`／`page-090.png` 下半部裁切後逐張視覺覆核，
+確認書頁 80 同頁含「Panacinar emphysema」與「Endotracheal squamous cell carcinoma」兩張圖，
+書頁 81 含「Tracheal adenoid cystic carcinoma」與「Endobronchial carcinoid」兩張圖，
+書頁 82 含「Endobronchial metastasis」。
+
+**方法論教訓**：
+- 「詞集包含規則」在**一頁一圖**時有效；**一頁多圖**時會必然漏配（頁首標題不含第二張圖的圖說詞）。
+- 這也解釋了為何書頁 80 的 SCC 段會被判成 offset=44 —— 規則把該段反查到書頁 36。
+- 因此**比對結果只能當候選**，同頁多圖的情境必須視覺覆核（本階段 4 處修正全部來自視覺覆核，比對只提供了線索）。
+
+### 7A.4 移除來源混雜內容後的主題缺口（新增發現，待處理）
+
+移除 Learning Radiology 區塊後，以下主題在網站**歸零**，而這些主題**原書都有**：
+
+| 章節 | 歸零主題 | 原書對應 |
+|---|---|---|
+| thoracic | 前縱隔／後縱隔腫瘤分類、畸胎瘤、甲狀腺腫塊、Luftsichel 徵、肋膜積液 | 書頁 65–74（Mediastinum）、p.5、p.40 |
+| pediatric | 兒童虐待相關骨折 | 書頁（Pediatric 章，'abuse' 出現 14 次、'fracture' 88 次、'Salter' 6 次） |
+| cardiovascular | 主動脈夾層、僧帽瓣 | 書頁 661–664（Acute aortic syndrome）、685（Mitral regurgitation） |
+
+**這不是「刪錯了」，而是揭露了 F-04 的另一面**：原本標示為 Learning Radiology 的區塊中，
+部分內容**確實涵蓋了原書的主題**，只是以另一本書的架構與頁碼基準呈現。移除它們會讓
+這些主題在網站消失，須依原書重寫補回（同 thoracic 書頁 78–86 的處理方式）。
+
+**未在本階段處理**，因為需要逐主題比對原書文字後改寫，屬另一個批次的工作量。
+建議下一步：對 thoracic 書頁 65–74、pediatric 虐待主題、cardiovascular 書頁 658–693
+逐段做「原書頁 → 網站段落」盤點，再以同一套腳本（`scripts/audit/add_book_pages_*.py`）補回。
+
+**注意**：Luftsichel 徵在書頁 5 與 p.3 概述均有描述，網站目前仍以 `### Luftsichel Sign` 小節保留
+（僅中文關鍵字「Luftschel」拼寫少一個 c，英文 "luftsichel" 仍在），故實質未遺失。
 
 ---
 
@@ -475,6 +548,7 @@ thoracic（10 處）、cardiovascular（3 處）、pediatric（2 處）共 15 �
 | `propose_exact_image_fixes.py` | **詞集包含規則**逐區塊比對 + 分段偏移統計 |
 | `apply_segment_offsets.py` | 只套用系統性偏移段（同一偏移值 ≥3 次連續） |
 | `match_text_to_page.py` / `match_heading_to_page.py` | 文字／標題 → 書頁比對 |
+| `add_book_pages_78_86.py` | **第三階段**：把原書書頁 78–86 的內容與影像補回 thoracic 章（可重跑，含自校驗） |
 
 **審計結果資料（`docs/audit/`）**
 

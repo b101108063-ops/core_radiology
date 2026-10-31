@@ -4424,1975 +4424,367 @@ Mucus plugging → bacterial colonization → inflammatory response
 > - **Bronchiectasis** always has an underlying cause — always investigate (CF, primary ciliary dyskinesia, immune deficiency)
 
 > - Bronchiectasis from **cystic fibrosis** shows upper-lobe predominant cylindrical bronchiectasis with mucus plugging
+### 先天性結締組織疾病 / Congenital Connective Tissue Disorders
 
-## LR 02: Recognizing Normal Pulmonary Anatomy 正常肺部分解剖學
+- **Mounier–Kuhn**：結締組織疾病，造成**氣管支氣管擴張**（tracheobronchomegaly），導致反覆肺炎
 
-## 技術合格的胸部X光 Technical Adequacy of Chest X-Ray
+- **Williams–Campbell**：遠端支氣管軟骨罕見疾病，可為先天性，或為病毒感染後的後遺症
 
-## 合格的胸部X光關鍵要素 Key Elements of an Adequate Chest Radiograph
+![Page 087](/core_radiology/images/thoracic/page-087.png)
 
-| 要素 Element | 正常表現 Normal Finding |
+*Mounier–Kuhn：胸部 X 光（左）顯示嚴重瀰漫性支氣管擴張；CT 顯示氣管擴張（卡尺量測）與嚴重囊狀支氣管擴張。*
+
+### 支氣管擴張症的原因 / Causes of Bronchiectasis
+
+**CAPTAin Kangaroo has Mounier–Kuhn** — 記憶支氣管擴張症常見病因的口訣：
+
+| 病因 / Cause | 備註 |
 |---|---|
-| ** Inspiration 吸氣** | 約可見10條後肋 Approximately 10 posterior ribs visible |
-| ** Rotation 旋轉** | 椎體棘突投影於兩側鎖骨中點連線正中 Spinous process midway between clavicular heads |
-| ** Penetration 穿透度** | 脊椎輪廓可透過心臟看到 Spine visible through heart |
-| ** Positioning 位置** | 鎖骨內側端與第1前肋重疊 Medial clavicle overlaps anterior 1st rib |
+| **Cystic fibrosis** | 最常見原因之一 |
+| **Allergic bronchopulmonary aspergillosis (ABPA)** | — |
+| **Post infectious** | 感染後 |
+| **TB / atypical mycobacteria** | — |
+| **Agammaglobulinemia** | — |
+| **Immunodeficiency** | — |
+| **Kartagener** | 原發性纖毛運動不能 |
+| **Mounier–Kuhn** | 先天性氣管支氣管擴張 |
 
-## 前肋與後肋鑑別 Anterior vs. Posterior Ribs
+- **Cystic fibrosis** 傾向**上葉為主**；相對地，**感染後**支氣管擴張症傾向**下葉為主**
 
-- **後肋 Posterior ribs**：輪廓清晰、呈水平方向 Orientation: horizontal, more apparent
+### 形態學分類 / Morphologic Classification
 
-- **前肋 Anterior ribs**：較不明顯、向下傾斜 Orientation: angled downward
+形態學分類最適合作為**嚴重程度的粗略指標**：
 
-> **臨床要點 Clinical Key Points**：吸氣不足（<8條後肋）可能模擬肺炎或肺塌陷 Poor inspiration may mimic pneumonia/atelectasis
-
----
-
-## 肺部分解剖学 Lung Anatomy
-
-## 右肺 Right Lung
-
-| 肺葉 Lobe | 支氣管肺段 Bronchopulmonary Segments |
-|---|---|
-| **右肺上葉 RUL** | Apical 尖段, Posterior 後段, Anterior 前段 |
-| **右肺中葉 RML** | Lateral 外側段, Medial 內側段 |
-| **右肺下葉 RLL** | Superior 上段, Medial basal 內底段, Anterior basal 前底段, Lateral basal 側底段, Posterior basal 後底段 |
-
-## 左肺 Left Lung
-
-| 肺葉 Lobe | 支氣管肺段 Bronchopulmonary Segments |
-|---|---|
-| **左肺上葉 LUL** | Apical 尖段, Posterior 後段, Anterior 前段, Superior lingula 上舌段, Inferior lingula 下舌段 |
-| **左肺下葉 LLL** | Superior 上段, Medial basal 內底段, Anterior basal 前底段, Lateral basal 側底段, Posterior basal 後底段 |
-
----
-
-## 肺血管 Pulmonary Vasculature
-
-- **正常血流分布**：直立姿勢時，肺底血流 > 肺尖（重力效應）Upright: basilar flow > apical flow
-
-- **血管口徑**：從中心到周邊逐漸變細 Tapering from central to peripheral
-
-- **X光辨識限制**：無法準確區分肺动脉與肺静脉 Cannot differentiate arteries vs. veins on conventional radiograph
-
-> **臨床要點 Clinical Key Points**：肺血管大小改變可反映肺循環壓力或流量變化 Changes in vessel caliber reflect altered pulmonary hemodynamics
-
----
-
-## 胸膜正常解剖 Pleural Anatomy
-
-- **臟層胸膜 Visceral pleura**：緊貼肺臟表面，構成肺葉裂縫 Folds to form fissures
-
-- **壁層胸膜 Parietal pleura**：襯於胸壁內面 Lines inner chest wall
-
-- **胸膜腔 Pleural space**：正常含約數毫升液體，無空氣 Normal: few mL fluid, no air
-
-- **裂縫 Fissures**：僅可見臟層胸膜折疊處 Usually invisible except where visceral pleura folds
-
----
-
-## 側位胸部X光 Lateral Chest Radiograph
-
-## 正常側位片標誌 Normal Lateral Film Landmarks
-
-| 結構 Structure | 表現 Finding |
-|---|---|
-| 胸骨後空間 Retrosternal space | 清晰透亮 Clear |
-| 肺門 Hila | 無明確輪廓 No discrete shadow |
-| 脊椎椎體 Vertebral bodies | 高度相近、終板平行 Equal height, parallel end plates |
-| 後肋膈角 Posterior costophrenic angles | 銳利 Sharp |
-| 左横膈 Left hemidiaphragm | 被心臟遮蔽（輪廓消失）Silhouetted by heart |
-
-## 側位片價值 Why Lateral View Matters
-
-1. 確認正位片發現的病變位置 Confirms location of frontal findings
-
-2. 確認可疑病變 Confirms suspicious findings
-
-3. 發現正位片未顯示的病變 Reveals disease invisible on frontal view
-
----
-
-## 纵隔结构 Mediastinal Structures
-
-## 主要纵隔组成部分 Key Mediastinal Components
-
-| 區域 Compartment | 主要結構 Contents |
-|---|---|
-| **前纵隔 Anterior** | 胸腺、胸廓內血管、淋巴結 Thymus, internal mammary vessels, lymph nodes |
-| **中纵隔 Middle** | 心臟、大血管、氣管、心包 Heart, great vessels, trachea, pericardium |
-| **後纵隔 Posterior** | 降主動脈、食道、神經、淋巴結 Descending aorta, esophagus, nerves, lymph nodes |
-
----
-
-## 橫膈膜正常位置 Normal Diaphragm Position
-
-- 右側通常高於左側約半個肋間距 Right hemidiaphragm is normally ~half an intercostal space higher than left
-
-- 約10%正常人中左側高於右側 ~10% of normal individuals: left higher than right
-
-- 左側可由胃部氣泡位置推斷 Position of left hemidiaphragm inferred from stomach bubble
-
----
-
-## 常見技術假象 Common Technical Artifacts
-
-## 曝光不足 Underpenetrated Film
-
-- 脊椎不可見透過心臟 Spine not visible through heart
-
-- 左側橫膈不可見 Left hemidiaphragm not visible
-
-- **可能模擬疾病 Mimics disease**
-
-## 吸氣不足 Suboptimal Inspiration
-
-- 僅可見8條後肋 Only 8 posterior ribs
-
-- 底部肺紋理擁擠 Crowded basilar lung markings
-
-- **可能模擬吸入性肺炎 Mimics aspiration/pneumonia**
-
-## 頂部軸位視 Apical Lordotic View
-
-- 鎖骨投影於第1肋上方 Clavicles above 1st ribs
-
-- 心影變形 Distorted heart shape
-
-- 左側橫膈假性遮蔽 Spurious obscuration of left hemidiaphragm
-
----
-
-## 臨床要點 Clinical Key Points
-
-> 1. 評估胸部X光前，先確認**技術合格性**（吸氣、旋轉、穿透度）— Technical adequacy first
-
-> 2. **側位片**對於局部病變定位極為重要 — Lateral view essential for localization
-
-> 3. 肺血管在直立姿勢時基底部的口徑正常應大於尖部 — Basilar vessels normally larger than apical
-
-> 4. 識別技術假象可避免**不必要的進一步檢查** — Recognize artifacts to avoid unnecessary workup
-
----
-
-**Source: Learning Radiology, Chapter 2 (William Herring, MD, FACR)**
-
----
-
-## LR 04: Airspace vs Interstitial Lung Disease 肺泡型與間質型肺部疾病
-
-## 肺泡型疾病 Airspace Disease 特徵
-
-## 定義 Definition
-
-肺泡型疾病（Airspace disease）是指肺泡內充滿液體、發炎滲出物、血液或其他物質，導致肺泡內空氣被取代。
-
-## 主要特徵 Key Characteristics
-
-| 特徵 Feature | 描述 Description |
-|---|---|
-| **邊緣 Margins** | 模糊不清楚 Indistinct, fuzzy |
-| **質地 Texture** | 棉絮狀、雲霧狀 Fluffy, cloud-like |
-| **趨勢 Trend** | 趨向融合 Confluent |
-| **陰影密度 Opacity** | 緻密均勻 Dense, homogeneous |
-
-## 肺泡型疾病典型分布 Typical Distribution of Airspace Disease
-
-- **彌漫性 Diffuse**：肺水腫 Pulmonary edema（圖4.1）
-
-- **局灶性 Localized**：肺炎（節段性或肺葉性）Pneumonia
-
-## 支氣管充氣像 Air Bronchograms
-
-- **定義**：肺泡內充滿液體/軟組織時，支氣管內空氣顯影為黑色分支管狀結構
-
-- **意義**：幾乎總是代表肺泡型疾病的存在
-
-- **機制**：正常時支氣管壁極薄且含空氣，與周圍含空氣的肺組織無對比；當周圍肺泡被液體充填時，支氣管內空氣變得可見
-
-> **可充填肺泡的物質**：
-
-> - 液體（如肺水腫 Fluid — pulmonary edema）
-
-> - 血液（如肺出血 Blood — pulmonary hemorrhage）
-
-> - 胃液（如吸入 Aspirated gastric juices）
-
-> - 發炎滲出物（如肺炎 Inflammatory exudate — pneumonia）
-
-> - 水（如近乎溺水 Water — near-drowning）
-
----
-
-## 剪影徵象 Silhouette Sign
-
-## 定義 Definition
-
-當兩種具有相同X光密度（如液體與軟組織）的結構相互接觸時，其間的邊緣或輪廓會消失。
-
-## 臨床應用 Clinical Applications
-
-| 接觸結構 Contact Structure | 病變位置 Disease Location |
-|---|---|
-| 右心邊界消失 Right heart border obscured | 右中葉 Right Middle Lobe |
-| 左心邊界消失 Left heart border obscured | 左舌段 Lingula |
-| 右橫膈消失 Right hemidiaphragm obscured | 右下葉 Right Lower Lobe |
-| 左橫膈消失 Left hemidiaphragm obscured | 左下葉 Left Lower Lobe |
-
----
-
-## 間質型疾病 Interstitial Lung Disease 特徵
-
-## 定義 Definition
-
-間質型疾病侵犯肺臟的結締組織、淋巴管、血管和支氣管等支撐結構。
-
-## 主要特徵 Key Characteristics
-
-| 特徵 Feature | 描述 Description |
-|---|---|
-| **形態 Patterns** | 網格狀、結節狀、或兩者混合 Reticular, nodular, or reticulonodular |
-| **分佈 Distribution** | 離散性「病灶」被正常充氣肺組織分隔 Discrete "packets" separated by normal lung |
-| **邊緣 Margins** | 銳利清楚 Sharp, discrete |
-| **分布範圍 Range** | 局灶性或彌漫性 Focal or diffuse |
-| **空氣支氣管徵 Air bronchograms** | 通常不存在 Usually absent |
-
-## 間質型疾病三種形態 Three Patterns of Interstitial Disease
-
-| 形態 Pattern | X光表現 Radiographic Appearance |
-|---|---|
-| **網格狀 Reticular** | 交錯線條網絡 Network of crisscrossing lines |
-| **結節狀 Nodular** | 散在分佈的小點 Discrete dots |
-| **網格結節狀 Reticulonodular** | 同時具有線條和點 Mixed lines and dots |
-
----
-
-## 肺泡型疾病病因 Causes of Airspace Disease
-
-## 肺炎 Pneumonia（另見第8章）
-
-- 約90%社區性肺炎由**肺炎鏈球菌 Streptococcus pneumoniae**引起
-
-- 影像：斑片狀、節段性或肺葉性肺泡浸潤，可含空氣支氣管徵
-
-- 清除時間：通常<10天（肺炎球菌性可在48小時內清除）
-
-## 肺泡性肺水腫 Pulmonary Alveolar Edema（另見心臟疾病章）
-
-- **典型表現**：雙側性、門部周圍分佈的肺泡浸潤，呈「蝙蝠翼」或「天使翼」構型
-
-- **常見特徵**：心臟擴大、肋膜積液、葉間裂隙增厚
-
-- **特點**：因肺泡和支氣管內均充滿液體，通常**無空氣支氣管徵**
-
-- **治療後清除**：通常<48小時
-
-## 吸入性肺炎 Aspiration（另見第8章）
-
-- **好發部位**：取決於患者體位
-
-  - 仰臥：下葉背段或上葉後段
-
-  - 直立：下葉
-
-- **右側為主**：因右主支氣管更粗更短
-
-- **清除時間**：
-
-  - 單純性（無感染）胃液/水吸入：24-48小時內清除
-
-  - 感染性吸入：可能需要數週
-
----
-
-## 間質型疾病病因 Causes of Interstitial Lung Disease
-
-| 病因 Cause | 說明 Description |
-|---|---|
-| **間質性肺水腫 Pulmonary interstitial edema** | 血管紋理增粗、Kerley B線 |
-| **間質性肺炎 Interstitial pneumonia** | 病毒性、黴漿菌性、黴菌性 |
-| **結節病 Sarcoidosis** | 雙側肺門淋巴結病變 + 網格/結節 |
-| **塵肺症 Pneumoconiosis** | 職業性粉塵暴露（矽肺、煤工塵肺） |
-| **類風濕性關節炎 Rheumatoid arthritis** | 漸進性纖維化 |
-| **系統性硬化症 Systemic sclerosis** | 下肺野纖維化 |
-| **化療/輻射 Lung disease from chemotherapy/radiation** | 藥物性肺炎、放射性肺炎 |
-
----
-
-## 診斷陷阱 Diagnostic Pitfalls
-
-## 陷阱一：間質疾病模擬肺泡疾病
-
-- 大量間質疾病重疊時可類似肺泡疾病
-
-- **解決方法**：觀察陰影周邊是否有銳利邊緣
-
-- 真正的肺泡疾病周邊邊緣模糊；間質疾病疊加則邊緣銳利
-
-## 陷阱二：肺泡疾病模擬間質疾病
-
-- 稀少且明確的肺泡浸潤有時可類似網格樣
-
-- **解決方法**：尋找融合趨勢和空氣支氣管徵
-
----
-
-## 臨床要點 Clinical Key Points
-
-> **肺泡型疾病特徵**：
-
-> - 棉絮狀、雲霧狀陰影 Fluffy, hazy opacities
-
-> - 邊緣模糊 Indistinct margins
-
-> - 趨向融合 Confluent
-
-> - 可含空氣支氣管徵 May contain air bronchograms
-
-> **間質型疾病特徵**：
-
-> - 離散性網格、結節或混合形態 Discrete reticular, nodular, or mixed patterns
-
-> - 銳利清楚的邊緣 Sharp, discrete margins
-
-> - 病灶間有正常充氣肺組織 Packets separated by normal aerated lung
-
-> - 通常無空氣支氣管徵 Usually no air bronchograms
-
-> **剪影徵象 Silhouette Sign**是定位病變的關鍵工具 — 病變若與某解剖結構密度相同且位置相鄰，該結構輪廓會消失
-
----
-
-**Source: Learning Radiology, Chapter 4 (William Herring, MD, FACR)**
-
----
-
-## LR 05: Opacified Hemithorax 單側胸腔變白：鑑別診斷
-
-## 單側胸腔變白的四大病因 Four Major Causes
-
-| 病因 Cause | 機制 Mechanism | 是否有位移 Shift? |
+| 型別 / Type | 嚴重度 | 描述 |
 |---|---|---|
-| **整體肺葉塌陷 Atelectasis** | 支氣管阻塞導致肺容積減少 | 向患側偏移 Toward opacified side |
-| **大量胸膜積液 Large Pleural Effusion** | 液體佔據胸腔 | 偏離患側 Away from opacified side |
-| **全肺肺炎 Pneumonia of Entire Lung** | 發炎滲出物充填肺泡 | 無位移 No shift |
-| **肺葉切除術後 Postpneumonectomy** | 肺臟被手術移除 | 最終向患側偏移 Eventually toward side |
+| **Cylindrical** | 最輕 | 輕度支氣管擴張 |
+| **Varicose** | 中度 | 支氣管可變成串珠狀、不規則 |
+| **Cystic** | 最嚴重 | 支氣管明顯擴大並氣球化，形成多發囊腫，可能與氣道不相通 |
 
----
-
-## 氣胸 vs 阻塞性肺葉塌陷 Pneumothorax vs Obstructive Atelectasis
-
-## 兩種導致肺臟「塌陷」的不同機制 Two Different Mechanisms of Lung Collapse
-
-| 特徵 Feature | 氣胸 Pneumothorax | 阻塞性肺葉塌陷 Obstructive Atelectasis |
-|---|---|---|
-| **胸膜腔 Pleural space** | 空氣分隔臟層與壁層胸膜 Air separates visceral from parietal pleura | 臟層與壁層胸膜保持接觸 Pleurae remain in contact |
-| **密度 Density** | 患側更黑（空氣密度）More lucent ("blacker") | 患側更白（無空氣）More opaque ("whiter") |
-| **偏移 Shift** | 氣胸側無偏移 **Never** any shift toward pneumothorax | 幾乎總是向患側偏移 **Almost always** shifts toward atelectasis |
-
-> **重要**：整肺塌陷時，心臟和氣管向患側偏移；整肺氣胸時，心臟和氣管**不**向患側偏移
-
-> **Key**: In whole-lung atelectasis, heart/trachea shift toward the side of opacification; in whole-lung pneumothorax, they **do not** shift toward the lucent side
-
----
-
-## 肺葉塌陷的位移 Pattern — Atelectasis Shift
-
-## 整肺塌陷或肺葉切除術時的位移 Direction of Shift in Atelectasis/Pneumonectomy
-
-| 結構 Structure | 正常位置 Normal Position | 右側塌陷 Right-Sided | 左側塌陷 Left-Sided |
-|---|---|---|---|
-| **心臟 Heart** | 正中 Midline | 向右偏移 Shift rightward | 向左偏移 Shift leftward |
-| **氣管 Trachea** | 正中 Midline | 向右偏移 Shift rightward | 向左偏移 Shift leftward |
-| **橫膈 Hemidiaphragm** | 右側略高 Right slightly higher | 右側抬高 + 輪廓消失 Elevated + silhouette | 左側抬高 + 輪廓消失 Elevated + silhouette |
-
----
-
-## 大量胸膜積液 Large Pleural Effusion
-
-## 積液的位移 Direction of Shift in Large Effusion
-
-| 結構 Structure | 正常位置 Normal Position | 右側積液 Right-Sided Effusion | 左側積液 Left-Sided Effusion |
-|---|---|---|---|
-| **心臟 Heart** | 正中 Midline | 向左偏移、近左胸壁 Apex near left chest wall | 向右偏移 More right of spine |
-| **氣管 Trachea** | 正中 Midline | 向左偏移 Shift leftward | 向右偏移 Shift rightward |
-| **橫膈 Hemidiaphragm** | 右側略高 Right slightly higher | 右側消失（剪影徵）Silhouette sign | 左側消失（剪影徵）Silhouette sign |
-
----
-
-## 全肺肺炎 Pneumonia of Entire Lung
-
-## 肺炎的位移 Direction of Shift in Pneumonia
-
-| 結構 Structure | 正常位置 Normal Position | 右側肺炎 Right-Sided Pneumonia | 左側肺炎 Left-Sided Pneumonia |
-|---|---|---|---|
-| **心臟 Heart** | 正中 Midline | 無位移 Usually no shift | 無位移 Usually no shift |
-| **氣管 Trachea** | 正中 Midline | 無位移 Midline | 無位移 Midline |
-| **橫膈 Hemidiaphragm** | 右側略高 Right slightly higher | 右側可能消失 Silhouette sign | 左側可能消失 Silhouette sign |
-
-## 關鍵區別 Key Differentiator
-
-- 肺炎症時：肺泡內充滿發炎滲出物，但**無推力（積液）也無拉力（容積減少）**
-
-- 因此：**心臟和氣管通常無位移**
-
-- 但：可出現**空氣支氣管徵 Air bronchograms**（因為支氣管內仍有空氣）
-
----
-
-## 肺葉切除術後 Postpneumonectomy
-
-## 演變過程 Timeline
-
-| 時間 Time | 表現 Finding |
-|---|---|
-| **術後24小時內** | 僅空氣佔據患側胸腔 |
-| **約2週內** | 胸腔逐漸被液體充填 |
-| **約4個月** | 患側胸腔應完全變白（充滿液體+纖維化） |
-| **長期** | 心臟和氣管向患側偏移 |
-
-## 診斷線索 Diagnostic Clues
-
-| 線索 Clue | 意義 Significance |
-|---|---|
-| 第5或第6肋骨被切除 Absence of 5th or 6th rib | 提示曾行肺葉切除術 |
-| 肺門處金屬夾 Metallic clips at hilum | 提示曾行肺葉切除術 |
-| 患側心臟/氣管偏移 | 符合容積減少 |
-
----
-
-## 診斷陷阱 Diagnostic Pitfalls
-
-## 陷阱：積液與塌陷達到平衡
-
-- 惡性腫瘤同時引起：
-
-  - **阻塞性肺葉塌陷**（腫瘤阻塞支氣管）→ 拉力向患側
-
-  - **惡性胸膜積液**（腫瘤轉移到胸膜）→ 推力離患側
-
-- 兩種力量可能**完美平衡**
-
-- 結果：單側胸腔完全變白，但**無氣管/心臟位移**
-
-- **臨床意義**：高度懷疑中央型支氣管肺癌合併惡性積液
-
-| 病因 Cause | 偏移方向 Shift Direction | 氣管位置 Trachea | 心臟位置 Heart | 其他特徵 Other Features |
-|---|---|---|---|---|
-| **整肺塌陷** | 向患側 | 偏移 | 偏移 | 無空氣支氣管徵 |
-| **大量積液** | 離患側 | 偏移 | 偏移 | 無空氣支氣管徵 |
-| **全肺肺炎** | 無偏移 | 無偏移 | 無偏移 | **可有**空氣支氣管徵 |
-| **肺葉切除術** | 向患側 | 偏移 | 偏移 | 肋骨缺失、手術夾 |
-
----
-
-## 臨床要點 Clinical Key Points
-
-> 1. **單側胸腔變白的第一步**：確認氣管位置（偏移方向）— Assess tracheal position first
-
-> 2. **向患側偏移** = 肺容積減少（塌陷或肺葉切除術後）— Shift toward opacified side = volume loss
-
-> 3. **離患側偏移** = 佔位性病變（大量積液）— Shift away from opacified side = mass effect
-
-> 4. **無偏移但有完全變白** = 考慮肺炎，或積液與塌陷同時存在形成平衡 — No shift = consider pneumonia or balanced effusion + atelectasis
-
-> 5. **空氣支氣管徵**支持肺炎診斷 — Air bronchograms support pneumonia
-
----
-
-**Source: Learning Radiology, Chapter 5 (William Herring, MD, FACR)**
-
----
-
-## LR 06: Atelectasis 肺膨脹不全（肺塌陷）
-
-## 定義 What is Atelectasis?
-
-**肺膨脹不全（Atelectasis）** = 肺臟部分或全部喪失膨脹（容積減少），導致密度增加（變白）。
-
-- 正常肺臟因含空氣而呈「黑色」
-
-- 當空氣因吸收或壓迫而被移除時，受影響區域變得更緻密（更白）
-
----
-
-## 肺膨脹不全的類型 Types of Atelectasis
-
-| 類型 Type | 機制 Mechanism | 胸膜接觸 Pleural Contact | 位移方向 Shift |
-|---|---|---|---|
-| **阻塞性（吸收性）Obstructive (Resorptive)** | 支氣管阻塞後肺泡內空氣被吸收 | 臟層與壁層保持接觸 | 向患側 Toward atelectasis |
-| **被動性（壓迫性）Passive (Compressive)** | 胸膜腔內空氣/液體/腫瘤分離兩層胸膜 | 胸膜分離 | 各不相同 Variable |
-| **黏連性 Adhesive** | 表面張力素減少（ARDS） | 保持接觸 | 各不相同 |
-| **亞節段性 Subsegmental** | 表面張力素減少、疼痛性固定 | 保持接觸 | 無（極輕微）None (minimal) |
-| **疤痕性 Cicatrization** | 纖維化/疤痕導致容積減少 | 各不相同 | 各不相同 |
-
----
-
-## 阻塞性肺葉塌陷 Obstructive Atelectasis
-
-## 常見病因 Common Causes
-
-| 病因 Cause | 說明 Description |
-|---|---|
-| **腫瘤 Tumors** | 支氣管肺癌（尤其是鱗狀細胞癌）、遠處轉移、内生性乳頭狀瘤 |
-| **黏液栓 Mucous plug** | 臥床患者、術後患者、氣喘、囊狀纖維化 |
-| **異物吸入 Foreign body aspiration** | 花生、小玩具；創傷性插管後 |
-| **外部壓迫 External compression** | 淋巴結增大、腫瘤 |
-
-## 阻塞性肺葉塌陷的徵象 Signs of Obstructive Atelectasis
-
-| 徵象 Sign | 說明 Description |
-|---|---|
-| **葉間裂隙位移** | 向容積減少區域偏移 |
-| **患側密度增加** | 緻密、變白 |
-| **移動結構偏移** | 氣管、心臟、橫膈向患側移動 |
-| **未受影響肺/肺葉代償性過度膨脹** | 對側肺或同側其他肺葉 |
-
-## Golden S徵（反向S徵）Golden's S Sign (Reverse S Sign)
-
-- **定義**：右肺上葉塌陷時，由於肺門腫塊 + 小裂隙向上位移，在正位片上形成S形輪廓
-
-- **意義**：提示右肺門惡性腫瘤
-
-## Luftschel徵
-
-- **定義**：左肺上葉塌陷時，左下葉上段代償性過度膨脹，在主動脈弓外側形成新月形透亮區
-
-- **意義**：左肺上葉塌陷的特徵性表現
-
----
-
-## 各肺葉塌陷模式 Patterns of Lobar Atelectasis
-
-## 塌陷方向 Direction of Collapse
-
-| 肺葉 Lobe | 塌陷方向 Direction | 影像特徵 Imaging Clues |
-|---|---|---|
-| **右肺上葉 RUL** | 向上、內側 Upward + medial | 小裂隙向上位移；Golden S徵 |
-| **左肺上葉 LUL** | 向上、向前 Upward + anterior | Luftschel徵；心臟/氣管輕度左偏 |
-| **右肺中葉 RML** | 內側、向前 Medial + anterior | 右心邊界消失（小葉性浸潤）；側位片楔形陰影 |
-| **右下葉 RLL** | 內側、下方 Medial + inferior | 心後陰影；右橫膈內側消失 |
-| **左下葉 LLL** | 內側、下方 Medial + inferior | 心後陰影；左橫膈消失 |
-
----
-
-## 被動性肺葉塌陷 Passive Atelectasis
-
-## 病因 Causes
-
-- 大量胸膜積液 Large pleural effusion
-
-- 氣胸 Pneumothorax
-
-- 胸腔內佔位性腫瘤 Space-occupying thoracic mass
-
-## 影像特徵 Imaging Features
-
-- CT上可見受壓迫的肺組織
-
-- 臟層與壁層胸膜被液體/空氣分離
-
----
-
-## 亞節段性肺葉塌陷 Subsegmental (Discoid/Linear) Atelectasis
-
-## 特徵 Features
-
-- **形狀**：線狀、平行於橫膈的帶狀密度
-
-- **部位**：肺底部
-
-- **機制**：表面張力素減少、疼痛導致不敢深呼吸（術後、肋膜性胸痛）
-
-- **特點**：容積減少輕微，**不引起**移動結構偏移
-
-> **鑑別診斷**：亞節段性塌陷與慢性線狀疤痕外觀相似
-
-> - 亞節段性塌陷：可在數天內因深呼吸而消失
-
-> - 疤痕：長期存在、不變
-
----
-
-## 圓形（葉）肺葉塌陷 Round (Rounded) Atelectasis
-
-## 機制 Mechanism
-
-- 通常因先前存在的胸膜疾病（如石棉暴露、結核）與胸膜積液共同導致
-
-- 積液消退後，受影響的胸膜區域肺組織被「卡住」無法復張
-
-## 影像特徵 Imaging Features
-
-- 周邊性、團塊樣病變，可類似腫瘤
-
-- CT特徵：**支氣管血管結構**從團塊向肺門延伸，形成「彗星尾」外觀
-
-> **臨床意義**：不應誤認為腫瘤
-
----
-
-## 疤痕性肺葉塌陷 Cicatrization Atelectasis
-
-- **病因**：結核病（最常見）、組織胞漿菌病、矽肺症、硬皮病、放射性肺炎（晚期）、特發性肺纖維化
-
-- **好發部位**：上葉
-
-- **特徵**：纖維化條索 + 容積減少 + 胸膜增厚
-
----
-
-## 臨床要點 Clinical Key Points
-
-> **阻塞性肺葉塌陷的四大徵象**：
-
-> 1. 葉間裂隙位移
-
-> 2. 患側密度增加
-
-> 3. 移動結構（氣管、心臟、橫膈）向患側偏移
-
-> 4. 未受影響肺葉代償性過度膨脹
-
-> **各肺葉塌陷的特徵性表現**：
-
-> - 右肺上葉塌陷 → Golden S徵
-
-> - 左肺上葉塌陷 → Luftschel徵
-
-> - 右肺中葉塌陷 → 右心邊界消失
-
-> - 肺底塌陷 → 橫膈消失（剪影徵）
-
-> **重症患者**：左下葉塌陷最常見，務必確認左側橫膈是否完整可見
-
----
-
-**Source: Learning Radiology, Chapter 6 (William Herring, MD, FACR)**
-
----
-
-## LR 07: Pleural Effusion 肋膜積液
-
-## 胸膜腔正常解剖與生理 Normal Anatomy and Physiology
-
-## 正常解剖 Normal Anatomy
-
-| 結構 Structure | 說明 Description |
-|---|---|
-| **壁層胸膜 Parietal pleura** | 襯於胸壁內面 |
-| **臟層胸膜 Visceral pleura** | 緊貼肺臟表面，包含葉間裂縫 |
-| **胸膜腔 Pleural space** | 潛在空間，正常含約2-5 mL液體 |
-| **葉間裂縫 Fissures** | 臟層胸膜折疊形成（右侧：斜裂+水平裂；左侧：僅斜裂）|
-
-## 正常生理 Normal Physiology
-
-- 每天數百毫升液體產生並被再吸收
-
-- 液體主要由壁層胸膜（肺毛細血管）產生
-
-- 液體由臟層胸膜和壁層胸膜淋巴管共同吸收
-
----
-
-## 肋膜積液的原因 Causes of Pleural Effusions
-
-## 積液形成加速的情況 Increased Formation Rate
-
-| 原因 Cause | 機制 Mechanism |
-|---|---|
-| 左心衰竭 Left heart failure | 毛細血管靜水壓增加 |
-| 低蛋白血症 Hypoproteinemia | 膠體滲透壓降低 |
-| 肺炎旁積液 Parapneumonic effusion | 毛細血管通透性增加 |
-| 過敏反應 Hypersensitivity reaction | 毛細血管通透性增加 |
-
-## 積液吸收減少的情況 Decreased Absorption Rate
-
-| 原因 Cause | 機制 Mechanism |
-|---|---|
-| 淋巴管癌病 Lymphangitic carcinomatosis | 淋巴引流受阻 |
-| 中心靜脈壓升高 Elevated CVP | 淋巴吸收減少 |
-| 支氣管阻塞導致胸膜腔壓力降低 | 被動性肺葉塌陷 |
-
----
-
-## 積液的分類 Types of Pleural Effusions
-
-## 漏出液 vs 滲出液 Transudate vs Exudate
-
-| 特徵 Feature | 漏出液 Transudate | 滲出液 Exudate |
-|---|---|---|
-| **蛋白含量** | 低 Low | 高 High |
-| **LDH** | 低 Low | 高 High |
-| **比重** | 低 Low | 高 High |
-| **常見病因** | 鬱血性心衰竭、低白蛋白血症、肝硬化、腎病綜合徵 | 炎症、惡性腫瘤、感染 |
-| **分布** | 通常雙側 Bilateral | 通常單側 Unilateral |
-| **最常見病因** | 鬱血性心衰竭 | **惡性腫瘤** |
-
-## 特殊類型積液 Special Types
-
-| 類型 Type | 特徵 Feature |
-|---|---|
-| **膿胸 Empyema** | 含膿的滲出液 |
-| **血胸 Hemothorax** | 積液晶爾比>血液晶爾比的50% |
-| **乳糜胸 Chylothorax** | 富含三酸甘油酯或膽固醇 |
-
----
-
-## 積液的偏側性 Side-Specificity
-
-| 偏側性 Side | 常見病因 Common Causes |
-|---|---|
-| **雙側 Bilateral** | 鬱血性心衰竭（左、右通常相似，右略多）；紅斑性狼瘡 |
-| **常為單側 Unilateral (usually)** | 結核、其他滲出液、肺栓塞、外傷 |
-| **僅左側 Left only** | 胰臟炎、遠端胸導管阻塞、Dressler症候群 |
-| **僅右側 Right only** | 肝病、卵巢疾病（Meigs症候群）、類風濕關節炎、近端胸導管阻塞 |
-
----
-
-## 積液的影像表現 Recognizing Pleural Effusions
-
-## 1. 肺下積液 Subpulmonic Effusion
-
-**定義**：積液聚集在肺與橫膈之間
-
-**正位片特徵**：
-
-| 發現 Finding | 左側 Left | 右側 Right |
-|---|---|---|
-| 假性橫膈輪廓 Apparent diaphragm | 頂點偏外側 Highest point lateral | 頂點偏外側 Highest point lateral |
-| 胃泡距離 Stomach distance | 距假性橫膈>1cm（正常~1cm） | — |
-| 後方輪廓 Posterior contour | 彎曲，與主裂縫交界處變平 | 彎曲，與主裂縫交界處變平 |
-
-> **注意**：肺下積液≠被困積液；大多數肺下積液可隨體位變化而自由流動
-
-## 2. 肋骨膈角變鈍 Blunting of Costophrenic Angles
-
-| 類型 Type | 所需積液量 Approximate Volume | 觀察體位 View |
-|---|---|---|
-| **後肋膈角變鈍（側位片）** | ~75 mL | 側位 Lateral |
-| **外側肋膈角變鈍（正位片）** | ~300 mL | 正位 Frontal |
-
-## 3. 新月徵（積液弧線）Meniscus Sign
-
-- **形成機制**：肺臟彈性回縮力使積液在胸壁邊緣比內側升得更高
-
-- **正位片表現**：U形密度，兩側高、中央低
-
-- **側位片表現**：U形，均等在前後方上升
-
-## 4. 葉間偽腫瘤 Fissural Pseudotumor
-
-- **定義**：積液被困在葉間裂縫或葉間裂縫旁的袖套狀積液
-
-- **別名**：Vanishing tumor（消失性腫瘤）
-
-- **病因**：幾乎總是鬱血性心衰竭
-
-- **特徵**：
-
-  - 扁豆形（檸檬狀），邊緣清楚
-
-  - 75%位於小裂縫（水平裂）
-
-  - 兩端尖銳（伸入裂縫內）
-
-  - 不隨體位自由流動
-
-- **預後**：治療心衰竭後消失，但可在心衰竭復發時再次出現
-
-## 5. 層狀積液 Laminar Effusion
-
-- 薄帶狀積液，沿側胸壁平行分布
-
-- 常見於鬱血性心衰竭
-
-## 6. 局部分隔積液 Loculated Effusion
-
-- **病因**：過去感染或血胸導致胸膜黏連
-
-- **特徵**：
-
-  - 形狀/位置不尋常
-
-  - 不受重力影響（在非依賴區）
-
-  - 可類似團塊
-
-- **重要性**：因多條黏連分隔，難以用單根引流管完全引流
-
-## 7. 單側胸腔完全變白 Opacified Hemithorax
-
-- 成人患側約含2升積液時出現
-
-- 可推擠心臟和氣管離開患側
-
-- CT是評估積液下方肺組織的最佳工具
-
----
-
-## 體位對積液影像的影響 Effect of Patient Positioning
-
-| 體位 Position | 積液分布 Distribution |
-|---|---|
-| **直立 Upright** | 降至胸腔底部，U形/新月額 |
-| **仰臥 Supine** | 沿後胸膜腔分層，整個患側均勻「霧狀」 |
-| **側臥 Decubitus** | 沿患側依賴區形成條帶狀 |
-
-> **臨床要點**：同一積液量在不同體位下可出現截然不同的影像表現，**並非**積液量有變化
-
----
-
-## 臨床要點 Clinical Key Points
-
-> 1. **積液量評估**：
-
->    - ~75 mL：後肋膈角變鈍（側位片）
-
->    - ~300 mL：外側肋膈角變鈍（正位片）
-
->    - ~2 L：單側胸腔完全變白
-
-> 2. **新月徵 Meniscus Sign**：辨識異常密度陰影呈新月額形，高度提示積液
-
-> 3. **鬱血性心衰竭**最常見漏出性積液原因；**惡性腫瘤**最常見滲出性積液原因
-
-> 4. **葉間偽腫瘤**幾乎總是鬱血性心衰竭的表現，治療後會消失（Vanishing tumor）
-
-> 5. **區域性積液**（loculated effusion）提示過去有胸膜感染或出血史，難以引流
-
-> 6. **積液與肺下積液**：兩者可以流動，若疑為肺下積液，側臥片可幫助確認
-
----
-
-**Source: Learning Radiology, Chapter 7 (William Herring, MD, FACR)**
-
----
-
-## LR 08: Pneumonia 肺炎
-
-## 肺炎的一般特徵 General Characteristics of Pneumonia
-
-| 特徵 Feature | 說明 Description |
-|---|---|
-| **密度** | 比周圍正常充氣肺組織更白（緻密）More opaque |
-| **肺泡型肺炎邊緣** | 棉絮狀、模糊（除非鄰近葉間裂縫或胸壁）Fluffy, indistinct |
-| **當接觸葉間裂縫或胸壁時邊緣** | 銳利 Sharply demarcated |
-| **質地質地** | 均質 Homogeneous（大葉性肺炎）|
-| **空氣支氣管徵** | 可出現（當支氣管內仍有空氣時）Air bronchograms may be present |
-| **可合併肺葉塌陷** | 支氣管肺炎時因支氣管被滲出物堵塞，可出現 |
-
-> **關鍵**：空氣支氣管徵在肺門周圍中心區域更易見；肺臟周邊支氣管太細難以顯影
-
----
-
-## 肺炎的類型 Patterns of Pneumonia
-
-## 分佈類型 Distribution Patterns
-
-| 類型 Pattern | 特徵 Features | 病因 Examples |
-|---|---|---|
-| **大葉性 Lobar** | 緻密均勻浸潤，達整個肺葉，常含空氣支氣管徵 | 肺炎鏈球菌（S. pneumoniae）|
-| **節段性/支氣管肺炎 Segmental (Bronchopneumonia)** | 斑片狀浸潤，多節段同時受影響；通常無空氣支氣管徵；常伴肺葉塌陷 | 金黃色葡萄球菌（S. aureus）、革蘭氏陰性菌 |
-| **間質性 Interstitial** | 細網格狀，早期瀰漫分布；可進展為肺泡型 | 病毒性、黴漿菌性、卡氏肺孢子蟲肺炎（PCP）|
-| **圓形 Round** | 球形病變，多見於兒童下葉 | 流感嗜血桿菌、鏈球菌、肺炎球菌 |
-| **空洞性 Cavitary** | 含空洞，多由結核桿菌引起 | 結核桿菌（M. tuberculosis）、葡萄球菌、克雷伯菌 |
-
----
-
-## 大葉性肺炎 Lobar Pneumonia
-
-## 原型：肺炎球菌性肺炎 Pneumococcal Pneumonia
-
-- **病原菌**：肺炎鏈球菌（S. pneumoniae）— 約佔社區性大葉/節段性肺炎90%
-
-- **影像特徵**：
-
-  - 均質緻密浸潤，占據大部分或全部肺葉
-
-  - 當接觸葉間裂縫時邊緣銳利
-
-  - 接觸心臟、主動脈、橫膈時出現**剪影徵 Silhouette sign**
-
-  - 近肺門中心區幾乎總是有**空氣支氣管徵**
-
-- **清除時間**：通常<10天（肺炎球菌性可在48小時內清除）
-
----
-
-## 節段性肺炎（支氣管肺炎）Segmental Pneumonia (Bronchopneumonia)
-
-## 病原菌 Pathogens
-
-- **原型**：金黃色葡萄球菌（S. aureus）
-
-- 其他：綠膿桿菌（P. aeruginosa）等革蘭氏陰性菌
-
-## 發病機制 Pathophysiology
-
-- 病原體經由氣管支氣管樹向多個肺病灶同時擴散
-
-- 因此**常同時侵犯數個肺節段**
-
-## 影像特徵
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **分佈** | 斑片狀，多節段同時受影響 |
-| **邊緣** | 所有邊緣趨向棉絮狀、模糊（節段不受裂縫約束）|
-| **空氣支氣管徵** | 通常**無**（因支氣管內含滲出物）|
-| **肺葉塌陷** | 常伴隨出現 |
-
----
-
-## 間質性肺炎 Interstitial Pneumonia
-
-## 病原菌 Pathogens
-
-- **原型**：病毒性肺炎、黴漿菌肺炎、HIV患者的卡氏肺孢子蟲肺炎（PCP）
-
-## 影像特徵
-
-| 病原 Pathogen | 影像特徵 Imaging Features |
-|---|---|
-| **病毒性/黴漿菌性** | 早期：細網格狀；晚期：可進展為斑片狀肺泡浸潤 |
-| **PCP（卡氏肺孢子蟲肺炎）** | 門部周圍/雙側網格型；可類似肺水腫；通常**無**胸膜積液和肺門淋巴結病變 |
-| **COVID-19** | 斑片狀或瀰漫肺泡浸潤；胸膜積液少見 |
-
-## PCP 重點
-
-- AIDS患者最常見的臨床確診感染（CD4<200/mm³）
-
-- 典型表現：門部周圍、網格型/肺泡型浸潤
-
-- CT最常見：雙側磨玻璃樣浸潤（ground-glass opacities），好發於下葉和後側
-
----
-
-## 圓形肺炎 Round Pneumonia
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **年齡** | 幾乎只見於兒童（<12歲）|
-| **好發部位** | 下葉後側 |
-| **病原菌** | 流感嗜血桿菌、鏈球菌、肺炎球菌 |
-| **臨床** | 兒童出現咳嗽發燒症狀 |
-| **鑑別診斷** | 需與腫瘤鑑別；兒童罕見肺癌，故兒童優先考慮肺炎 |
-
----
-
-## 空洞性肺炎 Cavitary Pneumonia
-
-## 病原菌 Pathogens
-
-| 病原 Pathogen | 特徵 Features |
-|---|---|
-| **結核桿菌 TB** | 最典型；好發於上葉；通常為雙側性；薄壁；無氣液平面；可經支氣管散布至對側下葉 |
-| **金黃色葡萄球菌** | 可形成空洞；可產生薄壁囊樣構造（肺囊樣變 pneumatoceles）|
-| **鏈球菌、克雷伯菌、球黴菌** | 也可產生空洞性肺炎 |
-
-> **結核空洞**：後結核（再活化結核）常見；原發性結核少見空洞
-
----
-
-## 吸入性肺炎 Aspiration Pneumonia
-
-## 吸入病因分類 Three Patterns of Acute Aspiration
-
-| 類型 Type | 病因 Cause | 影像/病程 Imaging/Course |
-|---|---|---|
-| **單純性（無感染）胃液/水** | 昏迷、麻醉後 | 肺泡浸潤，24-48小時清除（吸收）|
-| **感染性吸入（厭氧菌）** | 意識障礙、吞嚥障礙、神經疾病 | 肺泡浸潤，常見於依賴區；可**空洞化**；可能需要數月才消退 |
-| **Mendelson症候群（未中和胃酸）** | 大量未中和胃酸 | 化學性肺炎；依賴區肺泡浸潤或瀰漫肺水腫；數小時內出現；可繼發感染 |
-
-## 好發部位 Location of Aspiration
-
-| 體位 Position | 好發部位 Dependent Area |
-|---|---|
-| **直立** | 下葉（下葉後段 or基底段）|
-| **仰臥** | 上葉後段、下葉背段 |
-| **右側為主** | 右主支氣管更粗更短 |
-
-> **臨床要點**：吸入性肺炎的治療取決於吸入物質的性質
-
----
-
-## COVID-19 肺炎 COVID-19 Pneumonia
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **病原體** | SARS-CoV-2 |
-| **X光表現** | 斑片狀或瀰漫肺泡浸潤 |
-| **CT表現** | 雙側磨玻璃樣浸潤（ground-glass opacities），好發於後側、下葉；常見血管增粗；氣胸少見 |
-| **預後** | 大多數輕至中度，重症需住院 |
-
----
+### 影像表現 / Radiographic and CT Findings
 
-## 臨床要點 Clinical Key Points
+- **X 光**：取決於嚴重程度。輕度案例可能只看到 **tram tracks**（電車軌徵）—— 支氣管壁增厚形成平行的放射不透線，狀似電車軌；較嚴重時可見廣泛囊狀變化
 
-> **肺炎五大關鍵徵象**：
+- **CT — signet ring sign（指環徵）**：擴張的支氣管**鄰鄰正常的肺動脈分支**。正常每條支氣管的大小應約等於相鄰的肺動脈分支
 
-> 1. 比周圍正常肺組織更白（緻密）More opaque than surrounding normal lung
+- 其他 CT 所見：**支氣管失去逐漸變細（lack of bronchial tapering）**、**支氣管壁增厚**、**黏液充填的支氣管**；常伴隨鄰近的 **tree-in-bud 結節**，很可能代表相關的小氣道感染
 
-> 2. 肺泡型浸潤邊緣棉絮狀、模糊（除非接觸葉間裂縫/胸壁，邊緣則銳利）
+### 支氣管結石症 / Broncholithiasis
 
-> 3. 質地均質 Homogeneous density
+- 支氣管結石症是**支氣管腔內鈣化／骨化物質**的罕見疾病，最常由鄰近**鈣化肉芽腫淋巴結侵蝕**造成
 
-> 4. 可含空氣支氣管徵 Air bronchograms
+- 臨床表現為**無痰咳嗽（nonproductive cough）、咯血（hemoptysis）與空氣滯留（air trapping）**
 
-> 5. 間質性肺炎可產生網格狀改變 Reticular pattern
+## 肺氣腫 / Emphysema
 
-> **大葉性 vs 節段性肺炎**：
+![Page 088](/core_radiology/images/thoracic/page-088.png)
 
-> - 大葉性：有空氣支氣管徵、邊緣銳利（接觸裂縫時）—常有
+*小葉中心型與旁隔型肺氣腫：冠狀面（左）與軸位 CT 顯示小葉中心型與旁隔型肺氣腫。小葉中心型肺氣腫以上葉為主（黃箭頭），旁隔型肺氣腫見於前內側（藍箭頭）。冠狀面可見橫膈變平（紅箭頭）。*
 
-> - 節段性：無空氣支氣管徵、邊緣模糊—常伴肺葉塌陷
+### 定義與機轉 / Definition and Pathophysiology
 
-> **吸收性**：單純性吸入通常在24-48小時內清除；感染性吸入可能需數月
+- **肺氣腫** 是**肺泡壁的破壞**，導致**遠端氣腔不可逆擴大**。雖然肺氣腫初期不涉及纖維化，但**末期肺氣腫可能引發修復反應，最終導致肺纖維化**
 
-> **結核空洞**好發於上葉，考慮結核直到證實其他病原
+- **Elastase（胰彈性蛋白酶）** 由**肺泡巨噬細胞與中性球**產生，兩者在吸菸者中皆增加。Elastase 是強大的破壞性酵素，在宿主防禦機制中發揮功能，但**過量的 elastase 對原生組織極為有害**
 
----
-
-**Source: Learning Radiology, Chapter 8 (William Herring, MD, FACR)**
-
----
-
-## LR 09: Recognizing the Correct Placement of Lines and Tubes 氣管內管、胸腔引流管與靜脈導管的正確放置
-
-## 重症監護放射學概覽 Critical Care Radiology Overview
-
-## ICU常見疾病與X光表現 Common ICU Findings
-
-| 疾病/發現 Disease/Finding | 相關章節 Discussed In |
-|---|---|
-| 急性呼吸窘迫症候群 ARDS | Chapter 11 |
-| 吸入性肺炎 Aspiration | Chapter 8 |
-| 肺葉塌陷 Atelectasis | Chapter 6 |
-| 鬱血性心衰竭（肺水腫）CHF (Pulmonary edema) | Chapter 11 |
-| 肋膜積液 Pleural effusion | Chapter 7 |
-| 縱隔氣胸 Pneumomediastinum | Chapter 24 |
-
-> **術後警示徵象 Postprocedure Warning Signs**：
-
-> - 積液出現或增加 Appearance/increase of pleural effusion
-
-> - 氣胸 Pneumothorax
-
-> - 縱隔氣胸 Pneumomediastinum
-
-> - 縱隔陰影增寬 Widening of mediastinal shadow
-
-> - 游離氣體（腹部術後）Pneumoperitoneum (post-abdominal procedure)
-
----
-
-## 氣管內管 Endotracheal Tubes (ETT)
-
-## 適應症 Indications
-
-- 輔助通氣 Assist ventilation
-
-- 控制氣道 Isolate the trachea for airway control
-
-- 防止胃腸氣脹 Prevent gastric distension
-
-- 直接吸引 route for suctioning
-
-- 給藥 Administer medications
-
-## 正確放置位置 Correct Position
-
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **管尖位置** | 頭部中立位時，管尖距隆突（Carina）約3-5 cm |
-| **相對位置** | 約在鎖骨內側端中點與隆突距離的一半 |
-| **理想管徑** | 約為氣管寬度的1/2至2/3 |
-| **確認隆突位置** | 追蹤左或右主支氣管向後直到與對側主支氣管交匯；95%人群隆突投影於T5-T7椎體 |
-
-## 頭部移動對ETT位置的影響 Effect of Head Movement on ETT Position
-
-| 動作 Movement | 管尖移動 Direction |
-|---|---|
-| **頸部屈曲 Neck flexion** | 管尖下降約2 cm（跟隨氣管向下）|
-| **頸部伸展 Neck extension** | 管尖上升約2 cm |
-| **記憶口訣** | "The tip of the hose follows the tip of the nose" |
-
-> **鈴聲記憶法**：ETT管尖跟隨鼻尖方向移動
-
-## 錯誤放置與併發症 Malpositioning and Complications
-
-| 併發症 Complication | 說明 Description |
-|---|---|
-| **最常見錯誤** | 管尖滑入**右側支氣管**（因右主支氣管更粗、角度更淺）|
-| **後果** | 右肺上葉塌陷（不充氣）+ 左肺塌陷 |
-| **右主支氣管插管** | 可導致右側張力性氣胸 |
-| **氣管/支氣管損傷** | 氣囊過度充氣長期壓迫可致壞死、氣管狹窄 |
-| **位置過高** | 管尖在聲門或咽部，損傷聲帶、誤吸風險 |
-
----
-
-## 氣管切開管 Tracheostomy Tubes
-
-## 適應症 Indications
-
-- 氣道阻塞（位於或高於聲門）Airway obstruction at or above larynx
-
-- 長期機械通氣需求（>21天）Long-term intubation
-
-- 睡眠呼吸中止症 Airway obstruction during sleep apnea
-
-- 吞嚥或呼吸肌麻痺 Paralysis of swallowing/respiratory muscles
-
-## 正確放置位置 Correct Position
-
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **管尖位置** | 約在氣管切開口與隆突距離的中點（通常約T3水平）|
-| **與頭部移動關係** | **不受**頸部屈曲/伸展影響（與ETT不同）|
-| **理想管徑** | 約為氣管寬度的2/3 |
-
-## 併發症 Complications
-
-| 時機 Timing | 併發症 Complication |
-|---|---|
-| **術後立即** | 氣管穿孔：縱隔氣胸、皮下氣腫 Pneumomediastinum, pneumothorax, subcutaneous emphysema |
-| **長期** | 氣管狹窄（最常見晚期併發症，可在氣切口、氣囊水平或管尖處發生）|
-
----
-
-## 中央靜脈導管 Central Venous Catheters (CVC/CVP)
-
-## 適應症 Indications
-
-- 靜脈通路（注入化療藥物、高滲透壓製劑）Venous access for chemotherapy/hyperosmolar agents
-
-- 測量中心靜脈壓 Measure central venous pressure
-
-- 維持及監測血管內容積 Maintain/monitor intravascular blood volume
-
-## 正確放置位置 Correct Position
-
-| 結構 Structure | 位置 Location |
-|---|---|
-| **插入路徑** | 鎖骨下靜脈或頸內靜脈 Subclavian or internal jugular vein |
-| **起始點** | 鎖骨內側端後方（約T1水平）|
-| **路徑** | 導管下降於脊柱右側 Right of spine |
-| **管尖位置** | 上腔靜脈與右心房交界處（通常約T5-T6水平，約在隆突下2個椎體）|
-
-## 併發症 Complications
-
-| 併發症 Complication | 說明 |
-|---|---|
-| **最常見錯誤位置** | 管尖在右心房或頸內靜脈（圖9.7）|
-| **心律不整** | 管尖在右心房內時可發生 |
-| **氣胸** | 約5%的CVC插入會發生（鎖骨下途徑更常見）|
-| **導管穿孔** | 導管有不應該出現的銳角/彎折提示；應為平滑曲線 |
-| **誤入鎖骨下動脈** | 血流回輸為搏動性；路徑不沿脊柱右側下降 |
-
-> **臨床要點**：首次插管失敗後，在嘗試另一側前應先拍胸部X光，避免造成雙側氣胸
-
----
-
-## 周邊置入中心導管 PICC (Peripherally Inserted Central Catheters)
-
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **置入途徑** | 肘前靜脈 Antecubital vein |
-| **管尖位置** | 上腔靜脈或右心房交界處；也可放在腋靜脈 |
-| **特點** | 口徑小，X光可能難以顯影 |
-
----
-
-## 肺動脈導管 Swan-Ganz Catheters
-
-## 適應症 Indications
-
-- 監測重症患者血流動力學狀態 Hemodynamic monitoring
-
-- 區分心源性與非心源性肺水腫 Differentiate cardiac vs. noncardiac pulmonary edema
-
-## 正確放置位置 Correct Position
-
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **外觀** | 與中央靜脈導管相似但更長 |
-| **置入途徑** | 鎖骨下靜脈或頸內靜脈 |
-| **管尖位置** | 應在肺門陰影邊緣**2 cm以內**的近端肺動脈（圖9.10）|
-| **氣囊** | 僅在測量壓力時充氣，測量後應立即排氣 |
-
-## 併發症 Complications
-
-| 併發症 Complication | 說明 |
-|---|---|
-| **肺梗塞** | 最常見顯著併發症（導管堵塞肺動脈或來自導管的栓塞）|
-| **周邊放置風險** | 管尖位於肺臟外周可增加併發症風險（圖9.11）|
-| **偽性动脉瘤形成** | 周邊導管尖端穿破血管可形成局限性出血（pseudoaneurysm） |
-
----
-
-## 血液透析導管 Hemodialysis Catheters
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **外觀** | 大口徑導管，通常有中央條紋標記 |
-| **設計** | 至少兩個同軸管腔，減少再循環 |
-| **「動脈」端口** | 從患者抽取血液（近端）|
-| **「靜脈」端口** | 血液返回患者（遠端）|
-| **插入途徑** | 右頸內靜脈首選（血栓形成率最低）|
-
----
-
-## 胸腔引流管 Chest Tubes
-
-## 適應症 Indications
-
-- 引流胸膜腔內空氣或異常液體 collection
-
-- 引流氣胸 Evacuation of pneumothorax
-
-- 引流積液/血胸/膿胸 Drainage of effusion/hemothorax/empyema
-
-## 正確放置位置 Correct Position
-
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **插入位置** | 盡量靠近上位肋骨上緣（因為肋間神經和血管沿下緣走行）|
-| **側孔位置** | 所有側孔必須在胸廓以內 |
-| **氣胸引流** | 前上方（前側）為佳 |
-| **積液引流** | 後下方（後側）為佳 |
-| **外觀** | 寬大口徑管，有不透射線標記條紋；側孔處標記條紋中斷 |
-
-## 併發症 Complications
-
-| 併發症 Complication | 說明 |
-|---|---|
-| **側孔在胸廓外** | 漏氣致引流不充分 + 皮下氣腫（圖9.14）|
-| **引流管打折** | 降低引流效率（圖9.14）|
-| **引流管誤入葉間裂縫** | 姿勢不當可導致引流不充分（圖9.15）|
-| **肋間血管撕裂** | 出血（罕見但嚴重）|
-| **肝/脾損傷** | 插入位置過低時可發生 |
-| **單側復張性肺水腫** | 快速復張塌陷的肺可致單側肺水腫 |
-
----
-
-## 心律調節器 Pacemakers
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **組成** | 脈衝產生器（通常置於左前胸壁皮下）+ 導線（ electrodes）|
-| **導線位置** | 幾乎總是在**右心室心尖部** |
-| **導線數量** | 1-3條導線（常用：右心房+右心室；或右心房+右心室+冠狀靜脈竇）|
-| **導線形態** | 應為平滑曲線；不應有銳角 |
-
-## 併發症 Complications
-
-| 併發症 Complication | 說明 |
-|---|---|
-| **氣胸** | 少見 |
-| **導線斷裂** | 可在產生器、靜脈穿刺點或導線尖端發生；X光可見導線不連續 |
-| **心臟穿孔** | 導線尖端的銳角提示；可致心包填塞 |
-
----
-
-## ICU胸部X光常見發現 Common ICU Chest X-Ray Findings
-
-## 肺水腫 Pulmonary Edema
-
-| 類型 Type | 特徵 Features |
-|---|---|
-| **心源性肺水腫** | Kerley B線、袖套徵（裂縫增厚）、蝙蝠翼分佈、雙側積液 |
-| **ARDS（急性呼吸窘迫症候群）** | 彌漫性、均勻、雙側肺泡浸潤；心臟大小正常；無積液或積液少 |
-| **醫院內肺炎 HAP/VAP** | 新的局灶性浸潤、進行性浸潤、空洞形成 |
-
-## 其他常見ICU發現 Other Common ICU Findings
-
-| 發現 Finding | 說明 |
-|---|---|
-| **肺葉塌陷 Atelectasis** | ICU最常見於左下葉（圖6.9C）|
-| **鎮靜相關亞節段性塌陷** | 線狀/盤狀肺葉塌陷，術後常見 |
-| **呼吸器相關肺炎 VAP** | 氣管內插管患者的新型/進行性浸潤 |
-| **氣胸 Pneumothorax** | 尤其見於正壓通氣患者 |
-
----
-
-## 臨床要點 Clinical Key Points
-
-> **確認導管位置的一般原則**：
-
-> 1. **中央靜脈導管**：應沿脊柱右側下行；管尖在上腔靜脈-右心房交界處
-
-> 2. **氣管內管**：頭部中立位時，管尖距隆突3-5 cm；右側插管最常見
-
-> 3. **胸腔引流管**：側孔必須在胸廓以內；前上（前側）引流氣胸；後下引流積液
-
-> 4. **肺動脈導管**：管尖應在肺門陰影2 cm以內
-
-> **術後/術後立即X光**：幾乎所有侵入性裝置置入後都需拍X光確認位置及排除併發症
-
-> **ICU常見四大發現**：肺水腫、肺炎、肺葉塌陷、積液
-
----
-
-**Source: Learning Radiology, Chapter 9 — Critical Care Radiology (William Herring, MD, FACR)**
-
----
-
-## LR 10: Other Chest Diseases 其他胸部疾病：肺癌、肺栓塞、縱隔腫瘤
+- **Alpha-1-antitrypsin（α1-抗胰蛋白酶）** 正常情況下中和 elastase。**elastase 過量**（吸菸相關肺氣腫）或**中和酵素不足**（α1-antitrypsin 缺乏）任一者都可造成肺組織破壞與肺氣腫
 
-## 肺癌 Lung Cancer
+### 小葉中心型肺氣腫 / Centrilobular Emphysema
 
-## 支氣管肺癌 Bronchogenic Carcinoma
+- **小葉中心型肺氣腫是吸菸相關的肺疾病**
 
-| 組織類型 Histologic Type | 特徵 Features |
-|---|---|
-| **鱗狀細胞癌 Squamous cell carcinoma** | 最常引起遠處轉移至胸膜；常見空洞；常見阻塞性肺葉塌陷 |
-| **腺癌 Adenocarcinoma** | 最常見類型；周邊型；可表現為磨玻璃樣結節（ground-glass nodule）|
-| **大細胞肺癌 Large cell carcinoma** | 周邊型；常较大 |
-| **小細胞肺癌 Small cell carcinoma** |  中央型；易早期轉移；常見縱隔淋巴結侵犯 |
-
-## 肺癌的X光表現 Radiographic Features
-
-| 表現 Feature | 說明 |
-|---|---|
-| **孤立結節/團塊** | 最常見；形狀不規則；毛刺徵象（spiculation）提示惡性 |
-| **空洞形成 Cavitation** | 厚壁、不規則空洞常見於鱗狀細胞癌 |
-| **阻塞性改變** | 肺葉塌陷、肺炎、反覆性肺炎 |
-| **淋巴結病變** | 肺門/縱隔淋巴結增大 |
-| **胸膜侵犯** | 肋膜增厚、積液 |
-
-## 中央型 vs 周邊型肺癌 Central vs. Peripheral Lung Cancer
-
-| 類型 Type | 特徵 Features |
-|---|---|
-| **中央型 Central** | 小細胞肺癌、鱗狀細胞癌；可致支氣管阻塞、阻塞性肺炎、肺葉塌陷 |
-| **周邊型 Peripheral** | 腺癌、大細胞肺癌；可表現為結節或團塊 |
-
----
-
-## 肺栓塞 Pulmonary Embolism (PE)
-
-## 急性肺栓塞的X光表現 Chest X-Ray in Acute PE
-
-> **重要**：胸部X光對肺栓塞的敏感度和特異度均較低；確診需靠CT肺血管造影（CTPA）或核醫學肺通氣/灌注掃描
-
-## X光可能的發現 Possible Findings
-
-| 發現 Finding | 說明 |
-|---|---|
-| **正常** | 約30%患者X光可完全正常 |
-| **Westermark徵象** | 肺栓塞遠端血管紋理減少（區域性肺紋理稀疏）|
-| **Hampton駝峰徵（Hampton's hump）** | 肺實變，呈楔形，底朝胸膜，尖向肺門 |
-| **肺缺血/肺梗塞** | 區域性肺泡浸潤；可含氣液平面 |
-| **胸腔積液** | 約30%患者可見，常為少量 |
-| **心臟擴大** | 右心負荷過重時可見 |
-
-> **臨床要點**：X光所見必須與臨床高度懷疑相結合；確診需靠CTPA或核醫學掃描
-
----
-
-## 單發肺結節 Solitary Pulmonary Nodule (SPN)
-
-## 定義 Definition
-
-- **結節 Nodule**：≤3 cm 的孤立緻密陰影
-
-- **團塊 Mass**：>3 cm 的孤立緻密陰影
-
-## 評估要點 Assessment Key Points
-
-| 因素 Factor | 評估內容 |
-|---|---|
-| **大小 Size** | 越大，惡性可能性越高 |
-| **邊緣 Margin** | 毛刺狀/不規則→高度懷疑惡性；光滑→可能良性 |
-| **穩定性 Stability** | 2年以上無變化→高度提示良性 |
-| **鈣化 Calcification** | 中心型、分層型、爆米花型→良性；偏心型、不定型→需進一步評估 |
-| **位置 Location** | 上葉→惡性可能性略高 |
-
-## Fleischner學會2017年指南：偶發性單發非鈣化肺結節追蹤建議
-
-### 單發實性結節（Solid Nodules）
-
-| 結節大小 Size | 低風險患者 Low Risk | 高風險患者 High Risk |
-|---|---|---|
-| **<6 mm** | 不需常規追蹤 | 可選：12個月後追蹤 |
-| **6-8 mm** | 6-12個月追蹤；如穩定可考慮18-24個月 | 6-12個月追蹤；18-24個月確認 |
-| **>8 mm** | 考慮3個月追蹤、PET、或組織取樣 | 考慮3個月追蹤、PET、或組織取樣 |
-
-### 單發亞實性/磨玻璃樣結節（Subsolid/Ground-Glass Nodules）
-
-| 結節類型 Type | 大小 Size | 建議 Recommendation |
-|---|---|---|
-| **純磨玻璃樣 Pure GGO** | <6 mm | 不需常規追蹤 |
-| **純磨玻璃樣 Pure GGO** | ≥6 mm | 6-12個月確認持續存在；之後每2年追蹤至5年 |
-| **部分實性 Partly solid** | <6 mm solid | 不需常規追蹤 |
-| **部分實性 Partly solid** | ≥6 mm | 3-6個月確認持續存在；如實性成分<6 mm且無變化，則每年追蹤5年 |
-
-> **高風險患者定義**：年齡大、吸煙量大、上葉位置、邊緣不規則/毛刺狀
-
----
-
-## 縱隔腫瘤 Mediastinal Masses
-
-## 縱隔解剖分區 Mediastinal Compartments
-
-| 分區 Compartment | 邊界 Boundaries | 主要內容物 Contents |
-|---|---|---|
-| **前縱隔 Anterior** | 胸骨後→主動脈前方 | 胸腺、胸廓內血管、淋巴結 |
-| **中縱隔（臟層分區）Middle (Visceral)** | 主動脈前方→心臟後方 | 心臟、大血管、氣管、淋巴結 |
-| **後縱隔（椎旁分區）Posterior (Paravertebral)** | 心臟後方→椎體前緣 | 降主動脈、食道、神經、神經源性腫瘤 |
-
----
-
-## 前縱隔腫瘤 Anterior Mediastinal Masses
-
-## 四個主要病因 The "T4" Masses
-
-| 病因 Etiology | 特徵 Features |
-|---|---|
-| **胸腺瘤 Thymoma** | 最常見；中年成人；平滑或分葉狀；可含鈣化；與重症肌無力相關（35%相關）|
-| **畸胎瘤/生殖細胞瘤 Teratoma/Germ Cell Tumor** | 囊性；含脂肪、軟組織、鈣化；年輕成人 |
-| **甲狀腺腫塊 Substernal Thyroid** | 連續於甲狀腺；富鈣化；CT增強後明顯強化；可致氣管偏移 |
-| **淋巴瘤 Lymphoma** | 最常見的縱隔腫塊；霍奇金淋巴瘤（結節硬化型）最典型；分葉狀邊緣；常為雙側性 |
-
-## 甲狀腺腫塊 Substernal Thyroid
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **CT特徵** | 與甲狀腺連續；粗大鈣化；靜脈注射對比劑後明顯強化（不均勻）|
-| **氣管偏移** | 75%向前偏移；25%向後偏移（幾乎均為右側）|
-| **確診** | 甲狀腺核醫掃描為首選（顯示攝取）|
-
-## 淋巴瘤 Hodgkin Lymphoma
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **臨床** | 無痛性頸部淋巴結；酒精相關淋巴結疼痛（經典型但少見）|
-| **影像** | 常為雙側性、不對稱淋巴結病變；分葉狀邊緣；常伴肺門淋巴結病變 |
-| **CT特徵** |  均質軟組織密度；可壞死時呈不均勻 |
-
-## 胸腺瘤 Thymoma
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **年齡** | 中年成人 |
-| **特徵** | 平滑或分葉狀；可含鈣化 |
-| **與重肌無力關聯** | 胸腺瘤患者中35%有重症肌無力；重症肌無力患者中15%有胸腺瘤 |
-| **CT特徵** | 起源於心臟與大血管交界處；軟組織密度 |
-
----
-
-## 中縱隔腫瘤 Middle Mediastinal Masses
-
-## 淋巴結病變 Lymphadenopathy
-
-| 病因 Etiology | 特徵 Features |
-|---|---|
-| **惡性 Malignant** | 淋巴瘤、小細胞肺癌轉移、乳腺癌轉移 |
-| **良性 Benign** | 單核細胞增多症、結核（通常為單側）|
-
-> **中縱隔淋巴結病變**：CT上>1cm（短徑）即認為增大
-
----
-
-## 後縱隔腫瘤 Posterior Mediastinal Masses
-
-## 神經源性腫瘤 Neurogenic Tumors
-
-| 腫瘤類型 Type | 特徵 Features |
-|---|---|
-| **神經鞘瘤 Schwannoma/神經纖維瘤 Neurofibroma** | 最常見後縱隔腫瘤；20-50歲；良性；生長緩慢 |
-| **神經節細胞瘤 Ganglioneuroma** | 良性；由交感神經節細胞發生 |
-| **神經母細胞瘤 Neuroblastoma** | 惡性；兒童常見 |
-| **NF1相關** | 神經纖維瘤病1型可有多發性神經纖維瘤 |
-
-## 特徵影像發現 Characteristic Imaging
-
-| 發現 Finding | 說明 |
-|---|---|
-| **啞鈴狀病變 Dumbbell lesion** | 擴大神經孔；由椎管向縱隔突出 |
-| **骨質侵蝕** | 良性神經鞘瘤可侵蝕鄰近肋骨/椎體 |
-| **後側脊椎 scalloping** | NF1患者可見椎體後緣凹陷（腦膜憩室）|
+- **以上葉為主**。與另一種吸菸相關肺疾病 **RB-ILD** 相同，小葉中心型肺氣腫**主要影響次級肺小葉的中心**
 
----
-
-## 臨床要點 Clinical Key Points
-
-> **肺癌**：
-
-> - 鱗狀細胞癌常見空洞和阻塞性肺葉塌陷
-
-> - 腺癌是最常見類型，常表現為周邊型結節
-
-> - 任何肺癌類型都應評估淋巴結和遠處轉移
-
-> **肺栓塞**：
-
-> - X光對PE敏感度/特異度低；確診靠CTPA或核醫掃描
-
-> - Hampton駝峰徵 = 楔形肺實變，提示肺梗塞
-
-> **單發肺結節**：
-
-> - 評估大小、邊緣、穩定性、鈣化模式
-
-> - 2年穩定幾乎可以確認良性
-
-> - 亞實性（磨玻璃）結節惡性率更高
-
-> **縱隔腫瘤**：
-
-> - 前縱隔：「T4」—胸腺瘤、畸胎瘤、甲狀腺、淋巴瘤
-
-> - 淋巴結增大（>1cm短徑）是中縱隔最常見的腫塊類型
+- 所有吸菸相關肺病（**RB、RB-ILD、DIP、PLCH 與 emphysema**）都可能屬於**同一發病譜系** —— 由巨噬細胞介導、對吸入顆粒與毒素的發炎反應所造成
 
-> - 後縱隔：神經源性腫瘤最常見
+### 旁隔型肺氣腫 / Paraseptal Emphysema
 
----
-
-**Source: Learning Radiology, Chapter 10 — Recognizing Other Diseases of the Chest (William Herring, MD, FACR)**
-
----
-
-## LR 12: Mediastinum 縱隔腔：解剖分區與常見疾病
-
-## 縱隔腔解剖分區 Mediastinal Compartments
-
-## 傳統X光分區 Traditional Radiographic Classification
-
-| 分區 Compartment | 前界 Anterior | 後界 Posterior | 主要內容物 Contents |
-|---|---|---|---|
-| **前縱隔 Anterior** | 胸骨後緣 Posterior sternum | 主動脈前緣 Anterior border of aorta | 胸腺、胸廓內血管、淋巴結 |
-| **中縱隔 Middle** | 主動空前緣 Anterior border of aorta | 心臟前緣 Anterior border of heart | 心臟、大血管、氣管、淋巴結 |
-| **後縱隔 Posterior** | 心臟後緣 Posterior border of heart | 椎體前緣 Anterior border of vertebral body | 降主動脈、食道、神經 |
+- 旁隔型肺氣腫**通常與其他形式的肺氣腫合併出現**，通常也與吸菸有關
 
-## CT分區 Cross-Sectional (CT) Classification
+- **位於胸膜下（subpleural）**，易導致**氣胸**
 
-| CT分區 CT Compartment | 說明 Description |
-|---|---|
-| **血管前區 Prevascular** | 胸骨後到血管前緣；等同於前縱隔 |
-| **臟層分區 Visceral** | 從血管前緣到椎體前緣；涵蓋傳統中縱隔 |
-| **椎旁分區 Paravertebral** | 椎體兩側的旁區；等同於後縱隔 |
-
----
-
-## 前縱隔腫瘤 Anterior Mediastinal Masses
+### 全小葉型肺氣腫 / Panacinar (Panlobular) Emphysema
 
-## 前縱隔四大病因 "T4" Masses
+![Page 089](/core_radiology/images/thoracic/page-089.png)
 
-| 疾病 Disease | 特徵 Features | 年齡 Age |
-|---|---|---|
-| **胸腺瘤 Thymoma** | 軟組織團塊；平滑或分葉狀；可含鈣化 | 中年 |
-| **畸胎瘤 Teratoma** | 囊性；含脂肪、軟組織、鈣化；好發於前縱隔 | 年輕 |
-| **甲狀腺腫塊 Substernal Thyroid** | 與甲狀腺延續；富鈣化；CT強化明顯 | 各年齡 |
-| **淋巴瘤 Lymphoma** | 分葉狀邊緣；常為雙側淋巴結增大 | 青年/中年 |
+*全小葉型肺氣腫（α1-抗胰蛋白酶缺乏所致）：胸部 X 光與冠狀面 CT 顯示瀰漫性肺氣腫變化，以**下葉**最嚴重，並可見橫膈變平（箭頭）。*
 
-## 甲狀腺腫塊 Substernal Thyroid Goiter
+- **全小葉型（又稱 panlobular）肺氣腫** 影響**整個腺泡（acinus）**，在肺內瀰漫分布；肺氣腫變化通常在**肺底部更嚴重**
 
-| 特徵 Feature | 說明 |
-|---|---|
-| **與甲狀腺關係** | 與甲狀腺相連續，是其向下的延伸 |
-| **CT表現** | 含粗大鈣化；靜脈注射對比劑後明顯強化（呈斑駁狀）|
-| **氣管偏移** | 約75%向前偏移；約25%（幾乎均為右側）向後偏移 |
-| **確診方法** | 甲狀腺核醫掃描為首選（幾乎都會攝取放射性核種）|
-
-## 淋巴瘤 Hodgkin Lymphoma
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **臨床表現** | 無痛性頸部淋巴結增大；酒精相關淋巴結疼痛（少見但具特異性）|
-| **典型分佈** | 雙側、不對稱的淋巴結病變 |
-| **邊緣特徵** | 因多個淋巴結融合，常呈**分葉狀或圓齒狀邊緣** |
-| **肺門病變** | 常伴不對稱肺門淋巴結增大 |
-| **CT特徵** | 均質軟組織密度；壞死時可呈不均質 |
-
-## 胸腺瘤 Thymoma
-
-| 特徵 Feature | 說明 |
-|---|---|
-| **年齡** | 中年（比畸胎瘤年長）|
-| **特徵** | 平滑或分葉狀；可含鈣化 |
-| **與重症肌無力關聯** | 胸腺瘤患者35%有重症肌無力；重症肌無力患者15%有胸腺瘤 |
-| **CT表現** | 起源於心臟與大血管交界處；軟組織密度 |
+- **Alpha-1-antitrypsin 缺乏是全小葉型肺氣腫的重要病因**
 
-## 畸胎瘤 Teratoma
+## 氣道腫瘤 / Airway Tumors
 
-| 特徵 Feature | 說明 |
-|---|---|
-| **組織來源** | 含全部三個胚層（外胚層、中胚層、內胚層）|
-| **良性比例** | 約70%為良性；30%為惡性（預後差）|
-| **CT特徵** | 囊性為主；邊界清楚；CT上含脂肪、軟組織、鈣化 |
-| **預後** | 良性可行手術切除 |
+- **氣管與中央支氣管的原發腫瘤很少見**。**成人**而言絕大多數為**惡性**；**兒童**則**大多為良性**
 
----
+- **鱗狀細胞癌（SCC）與腺樣囊性癌（ACC）** 是成人最常見的兩種中央氣道原發腫瘤
 
-## 中縱隔腫瘤 Middle Mediastinal Masses
+### 氣管鱗狀細胞癌 / Tracheal Squamous Cell Carcinoma (SCC)
 
-## 淋巴結病變 Lymphadenopathy
+![Page 089](/core_radiology/images/thoracic/page-089.png)
 
-| 病因 Etiology | 特徵 Features |
-|---|---|
-| **霍奇金淋巴瘤 Hodgkin Lymphoma** | 最多見；前縱隔+中縱隔淋巴結 |
-| **小細胞肺癌 Small cell lung carcinoma** | 早期轉移到縱隔淋巴結 |
-| **轉移性腫瘤 Metastatic carcinoma** | 乳腺癌等遠處轉移 |
-| **良性 Benign** | 單核細胞增多症、結核（通常為單側）|
+*氣管鱗狀細胞癌：胸部 X 光顯示細微的氣管充盈缺損（箭頭）。CT 可見異質性強化、界限清晰、顯著狹窄氣管腔的腫塊（箭頭）。*
 
-> **CT縱隔淋巴結增大標準**：短徑>1cm視為增大
+- **鱗狀細胞癌是最常見的原發氣管惡性腫瘤**，與**吸菸**強烈相關
 
----
+- 典型的 CT 表現為**息肉樣的腔內腫塊（polypoid intraluminal mass）**。腫塊輪廓可為**不規則、平滑或分葉狀**。腫瘤偶爾可**侵犯食道，造成氣管食道瘻（tracheoesophageal fistula）**
 
-## 後縱隔腫瘤 Posterior Mediastinal Masses
+### 腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC)
 
-## 神經源性腫瘤 Neurogenic Tumors
+![Page 090](/core_radiology/images/thoracic/page-090.png)
 
-| 腫瘤類型 Type | 起源 Origin | 良/惡 Benign/Malignant |
-|---|---|---|
-| **神經鞘瘤 Schwannoma** | 神經鞘細胞（Schwann cell）| 良性（最常見）|
-| **神經纖維瘤 Neurofibroma** | 神經鞘細胞 | 良性 |
-| **神經節細胞瘤 Ganglioneuroma** | 交感神經節 | 良性 |
-| **神經母細胞瘤 Neuroblastoma** | 交感神經節 | 惡性（兒童常見）|
+*氣管腺樣囊性癌：CT（左）顯示不規則的環形氣管壁增厚（箭頭）。對比增強冠狀面 T1 加權 MRI（右）顯示伸入氣管腔的強化結節狀腫塊（箭頭）。*
 
-## 神經纖維瘤病1型 NF1相關發現
+- **腺樣囊性癌是相對低度惡性的腫瘤**，通常影響**四十歲左右**的病人，比典型的 SCC 病人**早一二十年**
 
-| 發現 Finding | 說明 |
-|---|---|
-| **皮下結節** | 皮膚神經纖維瘤 |
-| **骨質侵蝕** | 肋骨切跡（rib notching）|
-| **椎體凹陷 Scalloping** | 腦膜憩室導致椎體後緣侵蝕 |
-| **啞鈴狀病變 Dumbbell lesion** | 擴大神經孔；從椎管向縱隔突出 |
-| **脊柱側後凸 kyphoscoliosis** | 銳角胸腰交界處 |
+- **與吸菸無關**
 
----
+- **ACC 有沿神經周圍與黏膜下擴散（perineural and submucosal spread）的傾向**。雖然生長緩慢（indolent），**轉移病灶在 PET 上常呈現強烈 FDG uptake**
 
-## 淋巴瘤與結節病鑑別 Lymphoma vs. Sarcoidosis
+- 典型的 CT 表現為**黏膜下腫塊，浸潤氣管壁與周圍縱隔脂肪**。ACC 也可能表現為**環形的氣管或支氣管壁增厚，造成氣道狹窄**
 
-| 特徵 Feature | 結節病 Sarcoidosis | 淋巴瘤 Lymphoma |
-|---|---|---|
-| **典型分佈** | 雙側肺門+右側氣管旁淋巴結 | 以縱隔淋巴結增大為主 |
-| **支氣管肺淋巴結** | 增大，位於外周 | 增大，位於中心 |
-| **胸膜積液** | 約5% | 約30%（更常見）|
-| **前縱隔淋巴結** | 不常見 | 常見 |
-| **分布** | 淋巴結通常為雙側、對稱 | 淋巴結常為雙側、不對稱 |
+### 氣管類癌 / Endobronchial Carcinoid
 
----
+![Page 090](/core_radiology/images/thoracic/page-090.png)
 
-## 縱隔淋巴結增大的CT評估 CT Assessment of Mediastinal Lymph Nodes
+*氣管內類癌：胸部 X 光顯示右下葉肺膨脹不全（箭頭）與容積減少。軸位對比增強 CT 顯示右主支氣管內、隆突稍遠端有一個輕度強化的界限清楚腔內支氣管腫塊（箭頭）。*
 
-| 位置 Location | 正常上限 Upper Limit of Normal |
-|---|---|
-| **大多數縱隔淋巴結** | 短徑≤1cm |
-| **隆突下淋巴結 Subcarinal** | 短徑≤1.1cm |
-| **肺門淋巴結 Hilar** | 短徑≤1cm |
+- **類癌是神經內分泌腫瘤的一個譜系**，包含**低度惡性類癌、侵襲性類癌與小細胞癌**，其生物學行為範圍廣
 
----
+- 類癌腫瘤**極少分泌荷爾蒙**（例如 ACTH）
 
-## 縱隔腫瘤的臨床處理 Clinical Approach to Mediastinal Masses
+- 雖然**成人**的腔內支氣管類癌很少見，但**類癌是兒童最常見的支氣管腫瘤**
 
-## 評估步驟 Assessment Steps
+- **類癌幾乎總是發生在隆突（carina）遠端**
 
-1. **定位縱隔分區**：前、中或後縱隔
+- **CT 顯示腔內支氣管腫塊，具均勻的動脈期強化**
 
-2. **確定數目**：單個團塊 vs 多個淋巴結增大
+- 強化的腔內支氣管腫塊之**鑑別診斷**還包括**黏液表皮樣癌（mucoepidermoid carcinoma）**，以及極罕見的**血管瘤與球瘤（glomus tumor）**
 
-3. **評估特徵**：大小、形狀、邊緣、密度（均質/不均質/含脂肪/含鈣化）
+### 黏液表皮樣癌 / Mucoepidermoid Carcinoma
 
-4. **病史**：年齡、症狀、已知惡性腫瘤
+- 罕見腫瘤，起源於**氣管支氣管樹襯 lining 的細小唾液腺**
 
-## 常見縱隔淋巴結增大的病因
+- 傾向影響**比腺樣囊性癌更年輕**的病人
 
-| 年齡組 Age Group | 常見病因 Common Causes |
-|---|---|
-| **兒童/青少年** | 淋巴瘤、結核 |
-| **年輕成人** | 淋巴瘤、結節病、結核 |
-| **中年/老年** | 淋巴瘤、轉移性腫瘤、肺癌 |
+- CT 表現為**圓形或卵形的腔內支氣管腫塊**，與**類癌無法區分**
 
----
+### 氣管淋巴瘤 / Tracheal Lymphoma
 
-## 臨床要點 Clinical Key Points
+- 氣管淋巴瘤罕見，通常與**黏膜相關淋巴組織（MALT）**相關，屬**低度惡性**
 
-> **前縱隔四大病因（記憶法：T4）**：
+### 氣管內轉移 / Endobronchial Metastasis
 
-> - **T**hymoma 胸腺瘤
+![Page 091](/core_radiology/images/thoracic/page-091.png)
 
-> - **T**eratoma 畸胎瘤
+*氣管內轉移：冠狀面對比增強 CT 顯示一個異質性強化的腫塊，侵犯右主支氣管（箭頭）。此例為梭形細胞癌，但影像表現並無特異性。*
 
-> - **T**hyroid (substernal) 甲狀腺（胸骨後）
+- **最常見會轉移至中央氣道的惡性腫瘤**：**乳癌、腎細胞癌、甲狀腺癌、肺癌、黑色素瘤與肉瘤**
 
-> - **L**ymphoma 淋巴瘤（也可以L替代T）
+- **BReTh Lung** 是記憶四種最常見氣道轉移（乳癌、腎細胞癌、甲狀腺癌、肺癌）的口訣
 
-> **淋巴瘤影像特徵**：
+### 相鄰惡性腫瘤直接侵犯 / Direct Invasion of the Central Airways
 
-> - 分葉狀/多發淋巴結融合邊緣
+- **直接侵犯中央氣道比氣管內轉移更常見**
 
-> - CT上均質（壞死時不均質）
+- **侵襲性的喉癌、甲狀腺癌、食道癌與肺癌** 可造成直接的氣道侵犯
 
-> - 常為雙側、不對稱
+### 良性腔內病變 / Benign Endobronchial Lesions
 
-> **神經源性腫瘤**是後縱隔最常見的腫瘤類型；啞鈴狀病變提示椎管內外均有腫瘤
+- **乳突狀瘤（papilloma）** 是良性但**具有潛在癌變可能**的病變，可能轉化為癌。疑似乳突狀瘤通常需密切追蹤。**單一乳突狀瘤**通常由慢性刺激造成；**多發乳突狀瘤（喉氣管乳突狀瘤病）**由 **HPV** 造成，可於出生時獲得。**罕見**（<1% 的病例）乳突狀瘤會散播至肺部，形成**多發空洞性結節**
 
-> **CT縱隔淋巴結增大標準**：短徑>1cm
+- **軟骨瘤（chondroma）** 是罕見的良性軟骨性腫瘤，極少發生於氣道
 
----
+- 其他良性腔內病變包括**神經鞘瘤、腺瘤、錯構瘤、血管瘤、脂肪瘤與平滑肌瘤**
 
-**Source: Learning Radiology, Chapter 10 — Recognizing Other Diseases of the Chest (William Herring, MD, FACR)**
+## 胸膜疾病 / Pleura
 
----
+### 惡性胸膜腫瘤 / Pleural Malignancy
 
-## LR 14: ICU Portable Chest X-ray ICU床旁胸部X光判讀
+![Page 092](/core_radiology/images/thoracic/page-092.png)
 
-## 重症監護單元概覽 ICU Overview
+*間皮瘤：胸部對比增強 CT（左）顯示左側胸腔廣泛結節性胸膜增厚（箭頭）。上腹部影像顯示廣泛軟組織異常並侵犯胸壁（箭頭）。*
 
-## ICU患者為何需要床旁X光?
+#### 間皮瘤 / Mesothelioma
 
-- 監測多種輔助裝置的位置
+- **間皮瘤是起源於胸膜的高度侵襲性腫瘤**。多數病例與**既往石棉暴露**有關，**潛伏期 >20 年**
 
-- 評估心肺狀態
+- **上皮型（epithelial subtype）較常見**，預後略佳；**肉瘤樣與混合型更具侵襲性**
 
-- 幾乎所有侵入性裝置置入或嘗試置入後，都需要拍X光確認位置及排除併發症
+- **間皮瘤的 CT 典型表現為結節性同心胸膜增厚**，常伴隨胸腔積液
 
-## ICU常見疾病與影像學 Chapter Cross-Reference
+- **手術的角色仍在演進**，目標是切除所有可見的腫瘤
 
-| 疾病/發現 Disease | 相關章節 Reference |
-|---|---|
-| 急性呼吸窘迫症候群 ARDS | 心臟疾病章節 Chapter 11 |
-| 吸入性肺炎 Aspiration | 肺炎章節 Chapter 8 |
-| 肺葉塌陷 Atelectasis | 肺葉塌陷章節 Chapter 6 |
-| 鬱血性心衰竭/肺水腫 CHF/Pulmonary Edema | 心臟疾病章節 Chapter 11 |
-| 肋膜積液 Pleural Effusion | 肋膜積液章節 Chapter 7 |
-| 縱隔氣胸 Pneumomediastinum | 創傷章節 Chapter 24 |
+- **局部侵襲性疾病** 執行**胸膜外全肺切除（extrapleural pneumonectomy）**
 
----
+- **較不進展的疾病**偏好**胸膜剝除術與剝除皮質（pleurectomy and decortication）**，可保留肺與葉間裂。對侵襲性較低的**上皮型**，其預後與胸膜剝除術或肺切除相當
 
-## ICU床旁X光的技術考量 Technical Considerations
+- 結合**手術、術中 heated chemotherapy 與放射治療的三模式治療（trimodality therapy）**，已證實對部分病人有益
 
-## 床旁X光的限制 Limitations
+### 胸膜轉移 / Metastases
 
-| 問題 Issue | 說明 |
-|---|---|
-| **前後位（AP）投影** | 放大效应导致心脏轮廓增大 Apical magnification |
-| **仰臥位** | 液體分層方式改變；氣胸不易發現 |
-| **半坐臥位** | 可造成頂部軸位視效果 Apical lordotic effect |
-| **穿透度** | 行動式X光機穿透力可能不足 |
-| **多重管線重疊** | 多個導管和監測設備重疊使判讀困難 |
-
-## 正常臥位X光表現 Expected Findings on Supine Films
-
-| 發現 | 說明 |
-|---|---|
-| **主動脈結、主肺動脈窗** | 主動空前緣輪廓清晰 |
-| **肺血管** | 應逐漸變細從中心到周邊 |
-| **心臟輪廓** | 由於AP放大，心影可能輕度增大 |
-| **橫膈** | 右側略高；雙側輪廓清晰 |
+- **肺癌、胃腸道與泌尿生殖道腺癌，以及侵襲性胸腺瘤** 皆可轉移至胸膜
 
----
+### 多發性骨髓瘤／漿細胞瘤 / Multiple Myeloma / Plasmacytoma
 
-## ICU床旁X光常見發現 Common ICU Portable Chest X-Ray Findings
+- **肋骨起源的病灶可能外觀上像是胸膜起源**，但**起源於肋骨的病灶其中心會落在肋骨上**
 
-## 肺水腫 Pulmonary Edema
+### 纖維性胸膜腫瘤 / Fibrous Tumor of the Pleura (FTP)
 
-| 類型 Type | 特徵 Features |
-|---|---|
-| **心源性肺水腫 Cardio genic** | Kerley B線、袖套徵（裂縫增厚）、蝙蝠翼分佈、雙側積液 |
-| **ARDS（急性呼吸窘迫症候群）** | 彌漫性、均勻、雙側肺泡浸潤；心臟大小正常；無或少量積液 |
-| **輸液過負荷 Fluid overload** | 肺血管增粗、Kerley B線、積液 |
+![Page 093](/core_radiology/images/thoracic/page-093.png)
 
-## 肺葉塌陷 Atelectasis
+*胸膜纖維性腫瘤：CT topogram（左）顯示一個圓形不透亮區（箭頭），內側緣銳利、外側緣不清，提示胸膜為來源的腫塊。CT 確認該腫塊（箭頭）源自胸膜，與胸膜呈寬基底相連。*
 
-| 發現 Finding | 說明 |
-|---|---|
-| **最常見位置** | 左下葉（ICU最常見塌陷部位）|
-| **表現** | 左側橫膈消失（左下葉塌陷的間接徵象）|
-| **原因** | 鎮靜、淺呼吸、疼痛導致不敢深呼吸 |
-| **治療後** | 通常快速復張 |
+- **胸膜纖維性腫瘤是不與石棉沉著或間皮瘤相關的局灶性胸膜腫塊**，**並非間皮來源**
 
-## 肺炎 Pneumonia
+- **約 20–30% 的 FTP 為惡性，因此所有病例皆切除**。惡性潛力由**病理上的有絲分裂數**決定
 
-| 類型 Type | 特徵 Features |
-|---|---|
-| **社區性肺炎 CAP** | 局灶性肺泡浸潤 |
-| **院內肺炎 HAP** | 新發現或進展性浸潤 |
-| **呼吸器相關肺炎 VAP** | 氣管內插管患者的新型/進展性浸潤 |
-| **吸入性肺炎 Aspiration** | 取決於體位；仰臥→上葉後段、下葉背段 |
+- FTP 可伴隨**低血糖或肥大性肺性骨關節病**，但這些合併症**罕見（5%）**
 
-## 氣胸 Pneumothorax
+- **FTP 可為帶蒂（pedunculated）**。**胸膜為主的腫塊若位置會改變，提示 FTP**。FTP 在 PET 上**FDG uptake 低**
 
-| 發現 Finding | 說明 |
-|---|---|
-| **正壓通氣患者** | 氣胸風險增加 |
-| **仰臥位氣胸** | 早期可能僅表現為前側透亮區；肺尖透亮區 |
-| **張力性氣胸** | 氣管偏移遠離患側；心臟偏移；患側過度透亮 |
+### 胸腔積液：漏出液與滲出液 / Pleural Effusion: Transudate and Exudate
 
-## 肋膜積液 Pleural Effusion
+#### 漏出液 / Transudate
 
-| 體位 Position | 表現 Appearance |
-|---|---|
-| **仰臥位** | 患側均勻「霧狀」陰影；底部緻密；臥位時液體向後分層 |
-| **直立/半坐臥** | 新月形/弧線形積液 |
+- **漏出性積液**源於**全身或局部的液體靜力學與血漿膠體滲透壓的不平衡**。常見原因包括**全身性低蛋白狀態、心臟衰竭與腎病症候群**
 
----
+#### 滲出液 / Exudate
 
-## ICU常見裝置的X光評估 Evaluating ICU Devices on Chest X-Ray
+- **滲出性積液與漏出液的區分靠胸腔穿刺（thoracentesis）**。**沒有可靠的影像特徵**可以區分漏出液與滲出液
 
-## 氣管內管 Endotracheal Tube (ETT)
+- 以 **Light's criteria** 分析胸腔穿刺液是**最可靠的區分方法**。若以下任一項存在，即歸類為**滲出液**：
 
-| 參數 Parameter | 標準 Standard |
+| Light's criteria | 閾值 |
 |---|---|
-| **位置** | 頭部中立位時，管尖距隆突3-5 cm |
-| **記憶方法** | "Tip of hose follows tip of nose" |
-| **併發症** | 右側支氣管插管→右肺上葉塌陷；左肺塌陷 |
+| 胸腔液蛋白 / 血清蛋白比值 | **>0.5** |
+| 胸腔液 LDH / 血清 LDH 比值 | **>0.6** |
+| 胸腔液 LDH | **> 血清正常上限的 2/3** |
 
-## 中央靜脈導管 Central Venous Catheter (CVC)
+- **滲出液的存在意味著胸膜疾病造成微血管通透性增加**，可能的原因包括：
 
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **路徑** | 沿脊柱右側下行 |
-| **管尖** | 上腔靜脈與右心房交界處 |
-| **併發症** | 氣胸（5%）；位置過深（在右心房內）|
+- **肺炎**伴旁支氣管積液、**膿胸（empyema）** 或**結核性胸膜炎**
 
-## 胸腔引流管 Chest Tube
+- **間皮瘤或胸膜轉移**
 
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **側孔位置** | 全部側孔必須在胸廓以內 |
-| **方向** | 前上（前側）引流氣胸；後下引流積液 |
-| **併發症** | 側孔在胸廓外→持續漏氣；引流管打折→引流不暢 |
+- **類風濕性關節炎或其他膠原血管疾病**
 
-## 肺動脈導管 Pulmonary Artery Catheter
+### 乳糜胸 / Chylothorax
 
-| 參數 Parameter | 標準 Standard |
-|---|---|
-| **位置** | 管尖應在肺門陰影2cm以內 |
-| **併發症** | 過於周邊→肺梗塞；偽性血管瘤形成 |
+![Page 094](/core_radiology/images/thoracic/page-094.png)
 
----
+- **乳糜胸是含有腸淋巴液的胸腔積液**，最常由**胸導管的腫瘤性阻塞**造成。乳糜胸也與**淋巴管平滑肌瘤症（LAM）** 相關
 
-## ICU床旁X光的系統性判讀 Systematic Approach to ICU Portable Chest X-Ray
+- **胸導管起源於上腹部的乳糜池（cisterna chyli）**，並**注入左頭臂靜脈或左鎖骨下靜脈**
 
-## 判讀步驟 Reading Steps
+## 參考文獻 / References, Resources, and Further Reading
 
-1. **技術品質 Technical Quality**
+![Page 095](/core_radiology/images/thoracic/page-095.png)
 
-   - 確認體位（仰臥、半坐臥、直立）
+以下為原書所列參考文獻。
 
-   - 吸氣深度（可見後肋數目）
+### 一般參考文獻 / General References
 
-   - 穿透度
+- Webb, W.R. & Higgins, C.B. *Thoracic Imaging — Pulmonary and Cardiovascular Radiology*. Lung. Lippincott Williams & Williams. (2005).
 
-2. **導管和裝置 Lines and Devices**
+- Hansell, D.M., Lynch, D., McAdams, H.P. & Bankier, A.A. *Imaging of Diseases of the Chest* (5th ed.). Mosby. (2010).
 
-   - 氣管內管：位置是否正確
+### 解剖與基本概念 / Anatomy and Basic Concepts
 
-   - 中央靜脈導管：路徑是否正確
+- Eisenhuber, E. Signs in imaging — the tree in bud sign. *Radiology* 222, 771–2 (2002).
 
-   - 胸腔引流管：側孔是否在胸廓內
+- Engoren, M. Lack of association between atelectasis and fever. *Chest* 107, 81–84 (1995).
 
-   - 鼻胃管：是否在胃內
+- Gibbs, J.M. et al. Lines and stripes: where did they go? — From conventional radiography to CT. *Radiographics* 27, 33–48 (2007).
 
-3. **心臟輪廓 Cardiac Silhouette**
+- Marshall, G.B. et al. Signs in thoracic imaging. *Journal of Thoracic Imaging* 21, 76–90 (2006).
 
-   - 大小是否正常（考慮AP放大）
+### 肺部感染 / Pulmonary Infection
 
-   - 輪廓是否清晰
+- Franquet, T. et al. Spectrum of Pulmonary Aspergillosis: Histologic, Clinical, and Radiologic Findings. *Radiographics* 21, 825 (2001).
 
-   - 心包積液可類似心臟增大
+- Gotway, M.B. et al. The radiologic spectrum of pulmonary Aspergillus infections. *Journal of Computer Assisted Tomography* 26, 159–73 (2002).
 
-4. **肺血管 Pulmonary Vasculature**
+- Systrom, D.M. & Wittram, C. Case 9-2005-A 67-Year-Old Man with Acute Respiratory Failure. *New England Journal of Medicine* 352, 1238 (2005).
 
-   - 肺血管是否增粗
+- Tarver, R.D. et al. Radiology of community-acquired pneumonia. *Radiologic Clinics of North America* 43, 497–512, viii (2005).
 
-   - Kerley B線是否存在
+- Waite, S., Jeudy, J. & White, C.S. Acute lung infections in normal and immunocompromised hosts. *Radiologic Clinics of North America* 44, 295–315, ix (2006).
 
-   - 是否有肺水腫證據
+### 肺水腫與 ICU 影像 / Pulmonary Edema and ICU Imaging
 
-5. **肺野 Lung Fields**
+- Ely, E.W. Using the Chest Radiograph To Determine Intravascular Volume Status: The Role of Vascular Pedicle Width. *Chest* 121, 942–50 (2002).
 
-   - 是否有浸潤：局灶性或彌漫性
+- Martin, G.S. Findings on the Portable Chest Radiograph Correlate With Fluid Balance in Critically Ill Patients. *Chest* 122, 2087–2095 (2002).
 
-   - 是否有空洞
+### 肺癌 / Lung Cancer
 
-   - 是否有塌陷區域
+- Hartman, T.E. Radiologic evaluation of the solitary pulmonary nodule. *Radiologic Clinics of North America* 43, 459–65, vii (2005).
 
-6. **肋膜 Pleura**
+- MacMahon, H. et al. Guidelines for management of small pulmonary nodules detected on CT scans: a statement from the Fleischner Society. *Radiology* 237, 395–400 (2005).
 
-   - 是否有積液（注意臥位分層）
+- Travis, W.D. et al. International association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society international multidisciplinary classification of lung adenocarcinoma. *Journal of Thoracic Oncology* 6, 244–85 (2011).
 
-   - 是否有氣胸（注意前側透亮區）
+- UyBico, S.J. et al. Lung cancer staging essentials: the new TNM staging system and potential imaging pitfalls. *Radiographics* 30, 1163–81 (2010).
 
-   - 是否有皮下氣腫
+### 肺血管疾病 / Pulmonary Vascular Disease
 
-7. **縱隔 Mediastinum**
+- Agnelli, G. & Becattini, C. Acute Pulmonary Embolism. *New England Journal of Medicine* 363, 266–74 (2010).
 
-   - 寬度是否正常
+- Durán-Mendicuti, A. & Sodickson, A. Imaging evaluation of the pregnant patient with suspected pulmonary embolism. *International Journal of Obstetric Anesthesia* 20, 51–9 (2011).
 
-   - 是否有游離氣體（氣腹）
+- Frazier, A. et al. From the Archives of the AFIP: Pulmonary Veno-occlusive Disease and Pulmonary Capillary Hemangiomatosis. *Radiographics* 27, 867–83 (2007).
 
-   - 主動空前緣是否清晰
+- Kuriakose, J. & Patel, S. Acute pulmonary embolism. *Radiologic Clinics of North America* 48, 31–50 (2010).
 
-8. **骨結構和軟組織 Bone and Soft Tissue**
+- Patel, N.M. et al. Pulmonary hypertension in idiopathic pulmonary fibrosis. *Chest* 132, 998–1006 (2007).
 
-   - 是否有骨折
+- Wittram, C. et al. CT angiography of pulmonary embolism: diagnostic criteria and causes of misdiagnosis. *Radiographics* 24, 1219–38 (2004).
 
-   - 是否有皮下氣腫
+### 瀰漫性肺疾病 / Diffuse Lung Disease
 
-   - 是否有胸壁軟組織腫脹
+- Attili, A.K. et al. Smoking-related interstitial lung disease: radiologic-clinical-pathologic correlation. *Radiographics* 28, 1383–96 (2008).
 
----
+- Gill, R., Matsusoka, S. & Hatabu, H. Cavities in the lung in oncology patients: imaging overview and differential diagnoses. *Applied Radiology* (June), 10–21 (2010).
 
-## ICU床旁X光的陷阱 Pitfalls in ICU Chest X-Ray Interpretation
+- Gotway, M.B. et al. High-resolution CT of the lung: patterns of disease and differential diagnoses. *Radiologic Clinics of North America* 43, 513–42, viii (2005).
 
-| 陷阱 Pitfall | 說明 | 如何避免 Avoidance |
-|---|---|---|
-| **AP放大效應** | 仰臥AP投影可使心臟輪廓變大 | 了解患者為AP臥位投影 |
-| **仰臥位液體分層** | 少量積液可能表現為「霧狀」而非新月形 | 對比側位片或超聲確認 |
-| **床邊人工假象** | 導管、監測線、心電圖導線可遮擋病變 | 識別並排除人工假象 |
-| **半坐臥位假象** | 半坐臥位可類似頂部軸位視，鎖骨位置改變 | 考慮體位影響 |
-| **過早判讀「進步」** | 肺葉塌陷可被誤判為浸潤好轉 | 對比多日X光並追蹤臨床症狀 |
-| **忽略小量氣胸** | 仰臥位小量氣胸可能只在肺尖或前側可見 | 檢查肺尖區和前側透亮區 |
+- Kligerman, S.J. et al. Nonspecific interstitial pneumonia: radiologic, clinical, and pathologic considerations. *Radiographics* 29, 73–87 (2009).
 
----
+- Medoff, B.D., Abbott, G.F. & Louissaint Jr, A. Case 16-2010 — A 48-Year-Old Man with a Cough and Pain in the Left Shoulder. *New England Journal of Medicine* 362, 2013 (2010).
 
-## ICU床旁X光報告要點 Reporting Key Points
+- Mueller-Mang, C., Grosse, C. & Schmid, K. What Every Radiologist Should Know about Idiopathic Interstitial Pneumonias. *Radiographics* 27, 595–616 (2007).
 
-## 報告必含要素 Essential Elements in ICU Chest X-Ray Report
+- Rossi, S.E. et al. "Crazy-Paving" Pattern at Thin-Section CT of the Lungs: Radiologic-Pathologic Overview. *Radiographics* 23, 1509–519 (2003).
 
-| 要素 Element | 內容 Content |
-|---|---|
-| **技術品質** | 體位（仰臥/半坐臥/直立）、穿透度、吸氣深度 |
-| **導管位置** | 逐一描述各導管/管線位置是否正確 |
-| **心臟** | 大小、輪廓清晰度 |
-| **肺野** | 是否有浸潤、塌陷、或其他異常 |
-| **肋膜** | 是否有積液、氣胸 |
-| **縱隔** | 寬度、是否有游離氣體 |
-| **骨結構** | 是否有骨折 |
-| **對比建議** | 是否需要進一步檢查（如CT）|
+- Webb, W.R. Thin-section CT of the secondary pulmonary lobule: anatomy and the image — the 2004 Fleischner lecture. *Radiology* 239, 322–38 (2006).
 
----
+### 縱隔 / Mediastinum
 
-## 臨床要點 Clinical Key Points
+- Quint, L.E. Imaging of anterior mediastinal masses. *Cancer Imaging* 7 Spec No, S56–62 (2007).
 
-> **ICU床旁X光判讀原則**：
+- Tecce, P.M., Fishman, E.K. & Kuhlman, J.E. CT evaluation of the anterior mediastinum: spectrum of disease. *Radiographics* 14, 973 (1994).
 
-> 1. **首先確認技術品質和患者體位** — AP放大效應和液體分層方式都與體位密切相關
+- Whitten, C., Khan, S. & Munneke, G. A Diagnostic Approach to Mediastinal Abnormalities. *Radiographics* 27, 657–71 (2007).
 
-> 2. **系統性評估所有導管位置** — 導管位置異常是ICU X光最常見的發現之一
+### 氣道 / Airways
 
-> 3. **肺水腫 vs 肺炎 vs ARDS**：三者均可表現為雙側浸潤，但各有特點
+- Ferretti, G.R. et al. Imaging of tumors of the trachea and central bronchi. *Radiologic Clinics of North America* 47, 227–41 (2009).
 
->    - 心源性肺水腫：心臟增大、Kerley B線、蝙蝠翼分佈
+- Javidan-Nejad, C. & Bhalla, S. Bronchiectasis. *Radiologic Clinics of North America* 47, 289–306 (2009).
 
->    - ARDS：心臟大小正常、無積液、均勻分佈
+- Martinez, S. et al. Mucoid impactions: finger-in-glove sign and other CT and radiographic features. *Radiographics* 28, 1369–82 (2008).
 
->    - 肺炎：局灶性、不對稱分佈
+### 胸膜 / Pleura
 
-> **左下葉塌陷**是ICU最常見的肺葉塌陷，務必檢查左側橫膈是否完整可見
+- Qureshi, N.R. & Gleeson, F.V. Imaging of pleural disease. *Clinics in Chest Medicine* 27, 193–213 (2006).
 
-> **仰臥位氣胸**：可在肺尖區或前側表現為局灶透亮，應仔細觀察
+- Sugarbaker, D. & Wolf, A. Surgery for malignant pleural mesothelioma. *Expert Review of Respiratory Medicine* 4, 363–72 (2010).
 
-> **胸腔引流管側孔**：務必確認所有側孔在胸廓以內，否則導致持續漏氣
+- Wang, Z.J. et al. Malignant Pleural Mesothelioma: Evaluation with CT, MR Imaging, and PET. *Radiographics* 24, 105 (2004).
 
 ---
 
-**Source: Learning Radiology, Chapter 9 — Critical Care Radiology + Chapter 10 — Other Diseases of the Chest (William Herring, MD, FACR)**
 
 ---
 
@@ -6551,12 +4943,20 @@ Mucus plugging → bacterial colonization → inflammatory response
 - [圖1：page-085.png](/core_radiology/images/thoracic/page-085.png){target="_blank"}
 
 - [圖1：page-086.png](/core_radiology/images/thoracic/page-086.png){target="_blank"}
-![Page 87](/core_radiology/images/thoracic/page-087.png)
-![Page 88](/core_radiology/images/thoracic/page-088.png)
-![Page 89](/core_radiology/images/thoracic/page-089.png)
-![Page 90](/core_radiology/images/thoracic/page-090.png)
-![Page 91](/core_radiology/images/thoracic/page-091.png)
-![Page 92](/core_radiology/images/thoracic/page-092.png)
-![Page 93](/core_radiology/images/thoracic/page-093.png)
-![Page 94](/core_radiology/images/thoracic/page-094.png)
-![Page 95](/core_radiology/images/thoracic/page-095.png)
+- [圖1：page-087.png](/core_radiology/images/thoracic/page-087.png){target="_blank"}
+
+- [圖1：page-088.png](/core_radiology/images/thoracic/page-088.png){target="_blank"}
+
+- [圖1：page-089.png](/core_radiology/images/thoracic/page-089.png){target="_blank"}
+
+- [圖1：page-090.png](/core_radiology/images/thoracic/page-090.png){target="_blank"}
+
+- [圖1：page-091.png](/core_radiology/images/thoracic/page-091.png){target="_blank"}
+
+- [圖1：page-092.png](/core_radiology/images/thoracic/page-092.png){target="_blank"}
+
+- [圖1：page-093.png](/core_radiology/images/thoracic/page-093.png){target="_blank"}
+
+- [圖1：page-094.png](/core_radiology/images/thoracic/page-094.png){target="_blank"}
+
+- [圖1：page-095.png](/core_radiology/images/thoracic/page-095.png){target="_blank"}

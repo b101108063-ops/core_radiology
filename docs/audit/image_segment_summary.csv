@@ -17,6 +17,11 @@ thoracic,42,1,1347,1347,64,64,肺炎併發症 / Complications of Pneumonia,page-
 thoracic,44,1,1374,1374,67,67,膿胸 / Empyema,page-076.png,page-032.png
 thoracic,47,1,1424,1424,70,70,Empyema Necessitans,page-079.png,page-032.png
 thoracic,53,1,1543,1543,77,77,結核性淋巴結病 / Tuberculous Adenopathy,page-086.png,page-033.png
+thoracic,0,1,4508,4508,80,80,全小葉型肺氣腫 / Panacinar (Panlobular) Emphysema,page-089.png,page-089.png
+thoracic,44,1,4524,4524,80,80,氣管鱗狀細胞癌 / Tracheal Squamous Cell Carcinoma (SCC),page-089.png,page-045.png
+thoracic,0,1,4534,4534,81,81,腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC),page-090.png,page-090.png
+thoracic,0,1,4634,4634,84,84,纖維性胸膜腫瘤 / Fibrous Tumor of the Pleura (FTP),page-093.png,page-093.png
+thoracic,0,1,4674,4674,85,85,乳糜胸 / Chylothorax,page-094.png,page-094.png
 gi,0,10,43,169,90,100,肝臟代謝疾病 / Hepatic Metabolic Disorders,page-099.png,page-099.png
 gi,0,2,214,227,103,104,膽囊感染與發炎 / Gallbladder Infection and Inflammation,page-112.png,page-112.png
 gi,-1,1,267,267,107,107,胰臟腫瘤概論 / Overview of Pancreatic Neoplasms,page-116.png,page-117.png
