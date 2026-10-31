@@ -2,5 +2,9 @@ themes/
 public/
 resources/
 node_modules/
+.shots/
 package-lock.json
+.hugo_build.lock
+
+# Python 工具產生的快取
 __pycache__/

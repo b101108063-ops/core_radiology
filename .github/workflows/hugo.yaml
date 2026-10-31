@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: write
@@ -98,6 +100,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
+    # pull_request 只做建置驗證，不部署 —— github-pages 環境的 branch policy
+    # 只允許 main 部署，若不擋掉會出現與環境保護無關的 "Deploy failed"。
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
