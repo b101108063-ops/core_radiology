@@ -3,7 +3,7 @@
 審計對象：<https://github.com/b101108063-ops/core_radiology>
 審計分支基準：`main` @ `228eb5a`（UI 改版 PR #1 未納入本審計）
 報告產生日期：2026-10-31
-狀態：**第一階段（代表性章節抽樣審計）— 等待核准後續審其餘 11 章**
+狀態：**第二階段（12 章全量影像身分驗證 + 系統性偏移修正已套用）**
 
 ---
 
@@ -17,8 +17,10 @@
 | 文字層是否可抽取 | ✅ 可，3.38 MB 純文字，886 頁全數可定位 |
 | 書頁碼 ↔ PDF 頁序對應 | ✅ 完全一致，偏移固定 **+8**（886/886 頁驗證通過） |
 | 12 個網站章節 ↔ 教科書章節對應 | ✅ 全部建立，章節邊界逐章驗證通過 |
-| 已完整審計章節數 | **1 / 12**（thoracic），其餘 11 章待核准 |
+| 已完整審計章節數 | **12 / 12**（全量） |
+| 影像檔身分確定性驗證 | **865 張全數比對**（815 張像素級完全命中 + 50 張視覺覆核） |
 | 已確認差異數 | **9 項**（CRITICAL 0、MAJOR 3、MINOR 4、UNVERIFIED 2） |
+| 已套用修正 | **22 處系統性影像偏移**（gi +1、ultrasound +9），commit `dd9b3b5` |
 
 **最重要的單一發現**：網站章節內容由**兩個不同來源**組成 —— *Core Radiology*（Cambridge, Mandell 2013）與 *Learning Radiology*（Herring）。兩者在影像配對上的頁碼基準不同，導致大量影像與其說明文字錯位。此問題在 thoracic 章最嚴重。
 
@@ -282,34 +284,151 @@ static/images/<chapter>/page-NNN.png   的 NNN  =  教科書印刷頁碼 + 9
 
 ---
 
-## 6. 尚未審計的章節（11 章）
+## 6. 全 12 章影像身分驗證（第二階段已完成）
 
-| # | 章節 | 書頁碼 | 影像數 | 狀態 |
+### 6.1 確定性影像身分驗證（865 張）
+
+以 `scripts/audit/verify_image_pixels.py` 逐張比對：把 `static/images/<chapter>/page-NNN.png`
+與教科書對應書頁以相同解析度渲染後做像素比對。正確頁的平均絕對差為 **0**，次選頁為 13.9–24.5，
+差距逾 10 倍，故差值 < 3 視為確定性命中。
+
+| 章節 | 影像數 | 像素級完全命中 | 檔名與實際一致 |
+|---|---|---|---|
+| thoracic | 86 | 86 | 86 |
+| gi | 70 | 70 | 70 |
+| genitourinary | 44 | 44 | 44 |
+| neuro | 145 | 145 | 145 |
+| msk | 118 | 118 | 118 |
+| ultrasound | 89 | 89 | 89 |
+| nuclear | 39 | 39 | 39 |
+| breast | 66 | 66 | 66 |
+| interventional | 47 | 47 | 47 |
+| pediatric | 97 | 97 | 97 |
+| cardiovascular | 37 | 1 | 35 |
+| physics | 27 | 13 | 22 |
+| **合計** | **865** | **815** | **849** |
+
+**結論：影像檔名規則（`NNN = 書頁 + 9`）在全書成立。** 剩餘 50 張未像素命中者全部集中於
+cardiovascular 與 physics —— 這兩章的掃描檔解析度是 1241×1531（其餘為 1294×1630），
+渲染尺寸不一致導致像素差無法歸零。已用視覺覆核確認這 50 張的檔名規則同樣成立
+（例：`cardiovascular/page-668.png` = 書頁 659「Aortic anatomy」、
+`physics/page-851.png` = 書頁 842「Iodinated contrast and pregnancy」）。
+
+**這修正了第一階段的認知**：原報告 F-01 認為「影像與說明文字系統性錯位」的成因是
+*Learning Radiology* 骨架。實際上**檔名本身幾乎全對**，錯的是「哪一張圖掛在哪一段」。
+
+### 6.2 影像數與書頁數相等 → 一對一對應
+
+| 章節 | 影像數 | 該章書頁數 | 差 |
+|---|---|---|---|
+| thoracic | 86 | 86 | 0 |
+| gi | 70 | 70 | 0 |
+| genitourinary | 44 | 44 | 0 |
+| neuro | 145 | 145 | 0 |
+| msk | 118 | 118 | 0 |
+| ultrasound | 89 | 89 | 0 |
+| nuclear | 39 | 39 | 0 |
+| breast | 66 | 66 | 0 |
+| interventional | 47 | 47 | 0 |
+| pediatric | 97 | 97 | 0 |
+| physics | 27 | 27 | 0 |
+| cardiovascular | 37 | 36 | +1（F-07） |
+
+11/12 章完全相等。這意味著正確的對應必然是**雙射**（每張圖恰好對應一頁）。
+此發現同時宣告兩個方法論的**死路**（實測驗證）：
+
+- **嚴格單調一對一對齊**：必然退化成恆等映射，檢不出任何錯位（空檢定）。
+- **允許多段複用同一頁的 DP**：會整體漂移，產生離譜偏移（實測 thoracic 末段偏移 −53），
+  誤提案率極高。
+
+可用的判準是**局部**的：每一段文字都帶有它自己應對應的書頁標題。
+
+### 6.3 逐區塊比對：詞集包含規則
+
+採用**包含關係**而非模糊分數：區塊英文標題的內容詞集 S，若 `S ⊆ heading(P)`
+（教科書該頁頁首標題的詞集），則 P 幾乎確定就是該段來源頁。包含關係比 cosine 嚴格得多，
+不會把「肝臟 / Liver」這種單詞泛配到所有含 liver 的頁。
+
+比對結果（`docs/audit/image_segment_offsets.csv`，743 個含影像區塊）：
+
+| 狀態 | 數量 | 意義 |
+|---|---|---|
+| MATCHED | 124 | 找到唯一來源頁，可計算偏移 |
+| AMBIGUOUS | 16 | 多頁同詞，證據不足以區分 |
+| NO_MATCH | 603 | 區塊標題是網站自撰，無法用書頁標題反查 |
+
+已 MATCHED 的 124 段中，偏移量分布**高度集中**：
+
+| 章節 | offset=0（正確） | 非零偏移 | 分布 |
+|---|---|---|---|
+| ultrasound | 16 | 0 | 全對（修正後） |
+| gi | 35 | 2 | 全對（修正後） |
+| breast | 25 | 2 | — |
+| interventional | 6 | 0 | 全對 |
+| thoracic | 0 | 18 | 全部唯一值 +6…+53 |
+| msk | 2 | 11 | 全部唯一值 −12…+9 |
+| neuro / pediatric / cardiovascular | 0 | 0–1 | 無可比對區塊 |
+
+**非零偏移只有兩處成段出現**：
+
+| 章節 | 偏移 | 連續段數 | 行號範圍 | 性質 |
 |---|---|---|---|---|
-| 2 | Gastrointestinal | 87–156 | 70 | ⏳ 待核准 |
-| 3 | Genitourinary | 157–200 | 44 | ⏳ 待核准 |
-| 4 | Neuroimaging | 201–345 | 145 | ⏳ 待核准 |
-| 5 | Musculoskeletal | 346–463 | 118 | ⏳ 待核准 |
-| 6 | Ultrasound | 464–552 | 89 | ⏳ 待核准 |
-| 7 | Nuclear | 553–591 | 39 | ⏳ 待核准 |
-| 8 | Breast | 592–657 | 66 | ⏳ 待核准 |
-| 9 | Cardiovascular | 658–693 | 37 | ⏳ 待核准 |
-| 10 | Interventional | 694–740 | 47 | ⏳ 待核准 |
-| 11 | Pediatric | 741–837 | 97 | ⏳ 待核准 |
-| 12 | Physics | 838–864 | 27 | ⏳ 待核准 |
+| gi | **+1** | 10 | L406–545（脾臟／食道段） | 頁碼換算漏用一次 |
+| ultrasound | **+9** | 9 | L854–1190（婦產科段） | 頁碼換算**重複套用**一次 |
+
+偏移量恰為 +9 是決定性線索：`NNN = 書頁 + 9` 的換算被做了兩次。
+
+### 6.4 已套用的修正（commit `dd9b3b5`）
+
+`scripts/audit/apply_segment_offsets.py` 只處理**同一章內、同一偏移值出現 ≥3 次**的連續區塊 ——
+這是機械式 bug 的特徵；孤立的大偏移經查證多為比對雜訊（例如 thoracic 的 +6…+53
+各只出現一次，且其「來源頁」多為章節總覽或參考文獻頁），一律不動。
+
+修正內容（22 處）：
+
+1. 影像檔名 `page-NNN.png` → `page-MMM.png`
+2. alt 文字 `![Page NNN]` → `![Page MMM]`
+3. 章節標題的 `### Page NNN` 標籤同步（ultrasound 章的標籤即頁碼，
+   不同步會讓網站顯示與影像不符的頁碼）
+
+驗證結果：
+
+- 套用 22 處、跳過 0 處
+- 重跑比對：ultrasound 16/16 offset=0、gi 35/37 offset=0
+- 942 個影像引用全部可解析，零缺圖
+- alt 文字與檔名一致性：全部章節通過（neuro 有 1 處**既有**不一致，非本次修改造成）
+- `### Page NNN` 標籤與影像一致性：全部章節通過
+- `hugo` 0.166.0（CI 同版本）build：502 pages，EXIT=0
+
+### 6.5 尚待處理
+
+| 項目 | 狀態 |
+|---|---|
+| thoracic 18 段、msk 11 段的孤立偏移 | 未處理 —— 多為比對雜訊，需逐張視覺覆核才能確認 |
+| 603 個 NO_MATCH 區塊 | 無法用標題反查，需改用內文 cosine 或圖說語意逐張比對 |
+| F-02 圖說回填 | 未執行 |
+| F-03 章節大綱頁碼 | 未修正 |
+| F-04 來源混雜 15 處 | 待使用者決定 |
+| F-09 網站原創臨床建議標註 | 待使用者決定 |
 
 ---
 
 ## 7. 建議的後續流程
 
-### 7.1 影像重對位（影響最大，建議優先）
+### 7.1 影像重對位（已部分完成）
 
-每個含影像的區塊都需決定「正確的影像檔」。這是機械性但需人工覆核的工作：
+已完成系統性偏移段（gi +1、ultrasound +9，22 處，commit `dd9b3b5`）。剩餘待處理：
 
-1. 對每個區塊，用文字比對工具產生候選書頁（目前工具已可用，thoracic 產出 44 個區塊的候選）
-2. 產生重編對照表：`區塊標題 → 正確書頁 → 正確檔名（書頁+9）`
-3. **逐張視覺覆核**（86 張/章；全書 865 張）—— 文字比對只能給候選，圖說語意需人眼確認
-4. 依對照表更新 markdown 中的檔名，保留 alt 為可讀描述
+1. **孤立偏移段**（thoracic 18 段、msk 11 段）：逐張視覺覆核才能確認，多數疑為比對雜訊。
+   比對工具：`scripts/audit/propose_exact_image_fixes.py`（輸出 `docs/audit/image_segment_offsets.csv`）。
+2. **NO_MATCH 區塊**（603 段）：區塊標題為網站自撰，無法用書頁標題反查。
+   需改用**區塊內文**對該頁內文的 cosine 比對，或以圖說語意人工覆核。
+3. 覆核後依對照表更新檔名，並同步 alt 文字與 `### Page NNN` 標籤。
+
+**方法論提醒**（第二階段實測得出，見 §6.2）：
+- 不要用「嚴格單調一對一對齊」—— 影像數等於書頁數，必然退化成恆等映射，檢不出任何錯位。
+- 不要用「允許多段複用同一頁的 DP」—— 會整體漂移，產生離譜偏移。
+- 可靠的是**局部**判準：詞集包含規則 + 系統性偏移檢測（同一偏移值連續出現）。
 
 ### 7.2 圖說回填
 
@@ -335,15 +454,40 @@ thoracic（10 處）、cardiovascular（3 處）、pediatric（2 處）共 15 �
 | 用途 | 位置 |
 |---|---|
 | 教科書 PDF | `/tmp/cr_source/textbook.pdf`（91.9 MB，未納入 git） |
-| 全書文字層 | `/tmp/cr_source/text_all.txt`（3.38 MB） |
+| 全書文字層 | `/tmp/cr_source/textbook_all.txt`（3.38 MB） |
 | 書頁 ↔ PDF 頁序對照 | `/tmp/cr_source/p2i.json`（偏移固定 +8） |
 | 各章書頁文字 | `/tmp/cr_source/ch/<chapter>.txt` |
 | 書頁標題索引 | `/tmp/cr_source/bookhead.json` |
-| 文字→書頁比對工具 | `/tmp/cr_source/match.py` |
-| 標題→書頁比對工具 | `/tmp/cr_source/hdrmatch.py` |
-| 網站段落比對結果 | `/tmp/cr_source/match_thoracic.json`、`hdrmatch_thoracic.json` |
+| 頁面圖說資料 | `/tmp/cr_source/captions.json` |
+| 逐頁像素快取 | `/tmp/cr_source/pixel_cache/`（`p<書頁>-<pdf頁序>.png`） |
 
-比對工具目前位於 `/tmp`，**重啟後會遺失**。若要將審計流程納入 repository 以便複核，建議移至 `scripts/audit/`。此動作尚未執行，待核准。
+**審計工具（已納入 repository，`scripts/audit/`）**
+
+| 工具 | 用途 |
+|---|---|
+| `verify_image_pixels.py` | 像素級影像身分驗證（確定性，865 張） |
+| `verify_image_identity.py` | 影像身分驗證（OCR 輔助） |
+| `extract_captions.py` | 抽取各頁頁首標題與圖說 |
+| `audit_content.py` | 數值門檻／原書未提及敘述／章內矛盾 |
+| `audit_images.py` | 全站影像對應審計（DP 單調對齊） |
+| `inventory_other_sources.py` | 非原書來源（Learning Radiology 等）盤點與 A/B/C/D 分類 |
+| `consolidate_findings.py` | 彙整 findings.csv |
+| `propose_exact_image_fixes.py` | **詞集包含規則**逐區塊比對 + 分段偏移統計 |
+| `apply_segment_offsets.py` | 只套用系統性偏移段（同一偏移值 ≥3 次連續） |
+| `match_text_to_page.py` / `match_heading_to_page.py` | 文字／標題 → 書頁比對 |
+
+**審計結果資料（`docs/audit/`）**
+
+| 檔案 | 內容 |
+|---|---|
+| `image_identity_pixels.csv` | 865 張影像的像素級身分驗證結果 |
+| `image_segment_offsets.csv` | 743 個含影像區塊的逐區塊比對與偏移 |
+| `image_segment_summary.csv` | 分段偏移統計 |
+| `findings.csv` | 彙整後的 95 項發現 |
+| `content_findings_raw.csv` | 內容比對原始結果 |
+| `image_mapping.csv` | 全站影像對應表 |
+| `other_sources.csv` | 非原書來源盤點 |
+| `applied_segment_offsets.diff` | 已套用修正的 unified diff（可回溯） |
 
 ---
 
