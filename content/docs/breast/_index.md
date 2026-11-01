@@ -387,6 +387,13 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 **淋巴瘤（Lymphoma）** 的影像表現多變，大多數原發性乳腺淋巴瘤為瀰漫性大B細胞淋巴瘤，常以可觸及腫塊表現，可伴有腋下淋巴結病變。**轉移瘤（Metastasis）** 到乳腺很少見，黑色素瘤是常見的原發灶，常表現為臨床可觸及的腫塊，常規乳房攝影和超音箱可能為陰性，需 MRI 確診。
 
+
+#### 轉移瘤 / Metastasis
+
+![Page 644](/core_radiology/images/breast/page-644.png)
+
+**黑色素瘤轉移（Melanoma metastasis）** 為轉移至乳腺最常見的原發灶。乳房攝影與超音波常呈陰性，MRI 為必要檢查：T2 加權影像呈高訊號、超音波呈均勻高回聲，兩者相較乳癌皆較不具可疑度。Metastasis to the breast is uncommon; cutaneous melanoma is the most common primary. Mammography and ultrasound are often negative, so MRI is required. On MRI the lesion is typically T2 hyperintense and homogeneously hyperechoic on ultrasound — features less suspicious than breast cancer.
+
 ---
 
 ## 非對稱性與正常變異 / Asymmetries and Normal Variants (Pages 645-648)

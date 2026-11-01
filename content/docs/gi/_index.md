@@ -403,7 +403,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 良性非囊性脾臟病灶 / Benign Non-cystic Splenic Lesions
 
-![Page 127](/core_radiology/images/gi/page-127.png)
+![Page 126](/core_radiology/images/gi/page-126.png)
 
 血管瘤（hemangioma）是最常見的良性脾臟新生物，可為單發或多發，病灶通常較小。Hemangioma is the most common benign splenic neoplasm. 脾臟血管瘤與 Kasabach-Merritt 症候群（貧血、血小板減少與消耗性凝血病）及 Klippel-Trenaunay-Weber 症候群（皮膚血管瘤、靜脈曲張與肢體肥大）相關。
 
@@ -416,7 +416,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 良性囊性脾臟病灶 / Benign Cystic Splenic Lesions
 
-![Page 128](/core_radiology/images/gi/page-128.png)
+![Page 127](/core_radiology/images/gi/page-127.png)
 
 先天性真性囊腫（congenital true cyst）具有上皮襯裡，臨床上可能導致腫瘤標記（如 CA19-9、CA125、CEA）升高，但病理上完全為良性。A congenital true cyst is defined as having an epithelial lining; interestingly, a splenic epithelial cyst may cause elevation of tumor markers including CA19-9, CA125, and CEA, despite its completely benign nature.
 
@@ -429,7 +429,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 發炎性脾臟病灶 / Inflammatory Splenic Lesions
 
-![Page 129](/core_radiology/images/gi/page-129.png)
+![Page 128](/core_radiology/images/gi/page-128.png)
 
 類肉瘤病（sarcoidosis）是一種系統統性疾病，當涉及脾臟時，最常見的表現為脾腫大，常伴隨肝腫大與淋巴結病。When sarcoidosis involves the spleen, splenomegaly is the most common presentation. 較少見的情況下，脾臟類肉瘤可能呈現多發結節狀分布，影像學上難以與脾臟淋巴瘤區分。
 
@@ -442,7 +442,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 惡性脾臟病灶 / Malignant Splenic Lesions
 
-![Page 130](/core_radiology/images/gi/page-130.png)
+![Page 129](/core_radiology/images/gi/page-129.png)
 
 脾臟淋巴瘤（splenic lymphoma）是最常見的脾臟惡性腫瘤，原發性脾臟淋巴瘤罕見（不到所有淋巴瘤的 1%），通常呈現為單一低血管性腫塊。Splenic lymphoma is the most common splenic malignancy; primary splenic lymphoma is rare (<1% of all lymphoma cases) and usually presents as a solitary hypovascular mass.
 
@@ -454,7 +454,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 脾臟其他病灶 / Miscellaneous Splenic Lesions
 
-![Page 131](/core_radiology/images/gi/page-131.png)
+![Page 130](/core_radiology/images/gi/page-130.png)
 
 脾臟梗塞（splenic infarct）最常見的原因在老年患者為栓塞（emboli），年輕患者為血栓形成（thrombosis，特別是血液疾病患者）。Splenic infarcts are most commonly due to emboli in older patients and thrombosis in younger patients with hematologic disease.
 
@@ -466,7 +466,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 脾臟創傷 / Splenic Trauma
 
-![Page 132](/core_radiology/images/gi/page-132.png)
+![Page 131](/core_radiology/images/gi/page-131.png)
 
 脾臟是鈍性腹部創傷中最常受損的腹部器官。脾臟切除術會大幅增加術後敗血症的風險，這推動了脾臟保留與保守治療的趨勢。The spleen is the most commonly injured abdominal organ from blunt trauma; splenectomy dramatically increases the risk of subsequent sepsis, driving the trend toward splenic preservation.
 
@@ -480,7 +480,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 食道解剖 / Esophageal Anatomy
 
-![Page 133](/core_radiology/images/gi/page-133.png)
+![Page 132](/core_radiology/images/gi/page-132.png)
 
 咽部可分為三部分：鼻咽（nasopharynx）從顱底延伸至軟顎、口咽（oropharynx）位於口腔後方、從懸雍垂至舌骨，以及下咽（hypopharynx）從舌骨至環咽肌（cricopharyngeus muscle）。The pharynx consists of nasopharynx, oropharynx, and hypopharynx; the cricopharyngeus muscle at C5–6 is the upper esophageal sphincter.
 
@@ -492,7 +492,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 食道炎 / Esophagitis
 
-![Page 134](/core_radiology/images/gi/page-134.png)
+![Page 133](/core_radiology/images/gi/page-133.png)
 
 逆流性（胃酸逆流，peptic）食道炎是由酸性胃分泌物暴露食道黏膜所引起，導致遠端潰癤與最終的狹窄。Reflux (peptic) esophagitis is caused by exposure of esophageal mucosa to acidic gastric secretions, leading to distal ulcerations and eventual stricture. 慢性食道炎與疤痕形成導致胃食道交界處上方平滑漸進性狹窄。
 
@@ -504,7 +504,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 食道狹窄 / Esophageal Strictures
 
-![Page 135](/core_radiology/images/gi/page-135.png)
+![Page 134](/core_radiology/images/gi/page-134.png)
 
 胃酸逆流性（peptic）狹窄位於遠端，通常在胃食道交界處正上方；纖維化可導致食道縮短，繼發食道裂孔疝氣。Peptic strictures are located distally, usually just above the GE junction; fibrosis can cause esophageal shortening, leading to hiatal hernia.
 
@@ -517,7 +517,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 良性食道腫瘤 / Benign Esophageal Masses
 
-![Page 136](/core_radiology/images/gi/page-136.png)
+![Page 135](/core_radiology/images/gi/page-135.png)
 
 間質細胞瘤（GIST, gastrointestinal stromal tumor）是最常見的黏膜下腫瘤（submucosal tumor），其他包括平滑肌瘤（leiomyoma）、脂肪瘤（lipoma）與血管瘤（hemangioma）。Benign mesenchymal tumors are the most common submucosal tumors and include GIST, leiomyoma, lipoma, and hemangioma.
 
@@ -530,7 +530,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 惡性食道腫瘤 / Malignant Esophageal Masses
 
-![Page 137](/core_radiology/images/gi/page-137.png)
+![Page 136](/core_radiology/images/gi/page-136.png)
 
 食道癌（esophageal carcinoma）可能為鱗狀細胞癌（SCC）或腺癌（adenocarcinoma），在鋇餐檢查上難以可靠區分。Esophageal carcinoma may be squamous cell carcinoma (SCC) or adenocarcinoma, which cannot be reliably differentiated on barium studies. SCC 好發於上段或中段食道，而腺癌通常位於遠端食道並可延伸至胃部。
 
@@ -542,7 +542,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 食道運動功能障礙 / Esophageal Motility Disorders
 
-![Page 138](/core_radiology/images/gi/page-138.png)
+![Page 137](/core_radiology/images/gi/page-137.png)
 
 賁門失弛緩症（achalasia）是遠端食道的運動功能障礙，因 Auerbach 肌層神經節細胞功能異常，導致食道無法鬆弛。Achalasia is a motility disorder of the distal esophagus unable to relax due to an abnormality of myenteric ganglia in Auerbach plexus. 典型影像學表現為巨大的食道擴張，胃食道交界處呈「鳥嘴狀」（bird's beak）狹窄。
 

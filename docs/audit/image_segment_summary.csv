@@ -1,0 +1,77 @@
+chapter,offset,count,first_line,last_line,first_book_page,last_book_page,sample_section,correct_file,proposed_file
+thoracic,6,1,276,276,10,10,肺葉塌陷方向 / Patterns of Lobar Atelectasis,page-019.png,page-013.png
+thoracic,8,1,309,309,13,13,左上葉肺膨脹不全 / Left Upper Lobe Atelectasis,page-022.png,page-014.png
+thoracic,10,1,368,368,16,16,下葉肺膨脹不全 / Lower Lobe Atelectasis,page-025.png,page-015.png
+thoracic,12,1,415,415,19,19,右中葉肺膨脹不全 / Right Middle Lobe Atelectasis,page-028.png,page-016.png
+thoracic,15,1,540,540,24,24,肺泡異常 / Abnormalities of the Secondary Pulmonary Lobule,page-033.png,page-018.png
+thoracic,16,1,589,589,26,26,毛玻璃樣浸潤 / Ground Glass Opacification (GGO),page-035.png,page-019.png
+thoracic,18,1,665,665,29,29,中央型為主 / Central-Predominant Ground Glass,page-038.png,page-020.png
+thoracic,19,1,710,710,31,31,小葉間隔增厚 / Interlobular Septal Thickening,page-040.png,page-021.png
+thoracic,20,1,715,715,32,32,光滑型間隔增厚 / Smooth Interlobular Septal Thickening,page-041.png,page-021.png
+thoracic,26,1,896,896,41,41,淋巴管周圍結節 / Perilymphatic Nodules,page-050.png,page-024.png
+thoracic,27,1,938,938,43,43,隨機分布結節 / Random Nodules,page-052.png,page-025.png
+thoracic,29,1,987,987,46,46,樹芽徵結節 / Tree-in-Bud Nodules,page-055.png,page-026.png
+thoracic,30,1,1041,1041,48,48,空洞性與囊性肺部疾病 / Cavitary and Cystic Lung Disease,page-057.png,page-027.png
+thoracic,41,1,1305,1305,62,62,感染的影像學分類 / Radiographic Patterns of Infection,page-071.png,page-030.png
+thoracic,42,1,1347,1347,64,64,肺炎併發症 / Complications of Pneumonia,page-073.png,page-031.png
+thoracic,44,1,1374,1374,67,67,膿胸 / Empyema,page-076.png,page-032.png
+thoracic,47,1,1424,1424,70,70,Empyema Necessitans,page-079.png,page-032.png
+thoracic,53,1,1543,1543,77,77,結核性淋巴結病 / Tuberculous Adenopathy,page-086.png,page-033.png
+thoracic,0,1,4508,4508,80,80,全小葉型肺氣腫 / Panacinar (Panlobular) Emphysema,page-089.png,page-089.png
+thoracic,44,1,4524,4524,80,80,氣管鱗狀細胞癌 / Tracheal Squamous Cell Carcinoma (SCC),page-089.png,page-045.png
+thoracic,0,1,4534,4534,81,81,腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC),page-090.png,page-090.png
+thoracic,0,1,4634,4634,84,84,纖維性胸膜腫瘤 / Fibrous Tumor of the Pleura (FTP),page-093.png,page-093.png
+thoracic,0,1,4674,4674,85,85,乳糜胸 / Chylothorax,page-094.png,page-094.png
+gi,0,10,43,169,90,100,肝臟代謝疾病 / Hepatic Metabolic Disorders,page-099.png,page-099.png
+gi,0,2,214,227,103,104,膽囊感染與發炎 / Gallbladder Infection and Inflammation,page-112.png,page-112.png
+gi,-1,1,267,267,107,107,胰臟腫瘤概論 / Overview of Pancreatic Neoplasms,page-116.png,page-117.png
+gi,0,14,317,545,111,128,先天性胰臟異常 / Congenital Pancreatic Anomalies,page-120.png,page-120.png
+gi,0,3,598,622,133,135,惡性胃部腫瘤 / Malignant Gastric Masses,page-142.png,page-142.png
+gi,0,1,662,662,138,138,嵌頓性腹外疝氣 / Obstruction Due to External Hernia,page-147.png,page-147.png
+gi,0,3,753,792,145,148,潰痬性結腸炎 / Ulcerative Colitis,page-154.png,page-154.png
+gi,0,1,831,831,151,151,腸繫膜腫瘤 / Mesenteric Masses,page-160.png,page-160.png
+gi,2,1,844,844,152,152,腹膜疾病 / Peritoneal Disease,page-161.png,page-159.png
+gi,0,1,857,857,153,153,腹膜假黏液瘤 / Pseudomyxoma Peritonei,page-162.png,page-162.png
+genitourinary,-1,1,1705,1705,177,177,皮質腎鈣化 / Cortical Nephrocalcinosis,page-186.png,page-187.png
+genitourinary,0,1,2203,2203,185,185,腹膜內膀胱破裂 / Intraperitoneal Bladder Rupture,page-194.png,page-194.png
+msk,-12,1,2056,2056,371,371,骨肉瘤轉移 / Metastasis,page-380.png,page-392.png
+msk,0,1,5654,5654,425,425,樹枝狀脂肪瘤 / Lipoma Arborescens,page-434.png,page-434.png
+msk,-1,1,5849,5849,428,428,囊外骨折特徵 / Extracapsular Fracture Features,page-437.png,page-438.png
+msk,0,1,7543,7543,454,454,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-463.png,page-463.png
+msk,1,1,7544,7544,455,455,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-464.png,page-463.png
+msk,2,1,7545,7545,456,456,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-465.png,page-463.png
+msk,3,1,7546,7546,457,457,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-466.png,page-463.png
+msk,4,1,7547,7547,458,458,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-467.png,page-463.png
+msk,5,1,7548,7548,459,459,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-468.png,page-463.png
+msk,6,1,7549,7549,460,460,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-469.png,page-463.png
+msk,7,1,7550,7550,461,461,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-470.png,page-463.png
+msk,8,1,7551,7551,462,462,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-471.png,page-463.png
+msk,9,1,7552,7552,463,463,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-472.png,page-463.png
+ultrasound,0,2,28,41,465,466,Page 474 / 膽囊與膽管 (Gallbladder and Bile Ducts),page-474.png,page-474.png
+ultrasound,0,1,83,83,469,469,Page 478 / 膽囊常見影像模式 (Gallbladder: Common Imaging Patterns),page-478.png,page-478.png
+ultrasound,0,1,283,283,485,485,Page 494 / 脾臟：疾病影像模式 (Spleen: Patterns of Disease),page-494.png,page-494.png
+ultrasound,0,1,607,607,509,509,Page 518 / 子宮發育異常 (Congenital Uterine Malformations),page-518.png,page-518.png
+ultrasound,0,1,687,687,515,515,Page 524 / 卵巢囊腫 (Ovarian Cysts),page-524.png,page-524.png
+ultrasound,0,1,754,754,519,519,Page 528 / 第一孕期超聲 (First Trimester Pregnancy),page-528.png,page-528.png
+ultrasound,0,1,854,854,517,517,Page 526 / 腹膜包涵囊腫 (Peritoneal Inclusion Cyst),page-526.png,page-526.png
+ultrasound,0,7,993,1130,526,536,Page 535 / 多胞胎與胎盤類型 (Multiple Gestations and Placentation),page-535.png,page-535.png
+ultrasound,0,1,1190,1190,540,540,Page 549 / 全前腦畸形 (Holoprosencephaly),page-549.png,page-549.png
+nuclear,1,1,134,134,562,562,Viability Imaging,page-571.png,page-570.png
+nuclear,0,1,155,155,563,563,Imaging Protocols,page-572.png,page-572.png
+nuclear,1,1,156,156,564,564,Imaging Protocols,page-573.png,page-572.png
+nuclear,2,1,157,157,565,565,Imaging Protocols,page-574.png,page-572.png
+breast,0,1,43,43,594,594,乳癌危險因子 / Breast Cancer Risk Factors,page-603.png,page-603.png
+breast,0,4,83,115,598,602,篩檢攝影標準體位 / Routine Screening Mammographic Views,page-607.png,page-607.png
+breast,0,2,147,158,606,607,BI-RADS 乳房攝影腫塊 lexicon / BI-RADS Mammographic Mass Lexicon,page-615.png,page-615.png
+breast,0,2,206,226,613,615,BI-RADS 鈣化 lexicon / BI-RADS Calcification Lexicon,page-622.png,page-622.png
+breast,-2,1,262,262,619,619,超音波腫塊 lexicon / Ultrasound Mass Lexicon,page-628.png,page-630.png
+breast,0,2,270,278,620,621,後方聲學特徵 / Posterior Acoustic Features,page-629.png,page-629.png
+breast,0,7,330,386,627,634,巨大固態腫塊 / Large Solid Masses,page-636.png,page-636.png
+breast,-1,1,398,398,636,636,不對稱性 / Asymmetry,page-645.png,page-646.png
+breast,0,1,434,434,640,640,造影動力學 / Enhancement Kinetics,page-649.png,page-649.png
+breast,0,6,474,566,645,655,乳房 MRI 適應症 / Indications for Breast MRI,page-654.png,page-654.png
+cardiovascular,-14,1,1151,1151,672,672,非缺血性 / Nonischemic,page-681.png,page-695.png
+interventional,0,2,188,202,717,719,腸系膜上動脈症候群（SMA Syndrome）,page-726.png,page-726.png
+interventional,0,1,248,248,725,725,經皮腎造廔術（PCN）與經皮胃造廔術,page-734.png,page-734.png
+interventional,0,1,287,287,730,730,子宮動脈栓塞術（UAE）與顆粒選擇,page-739.png,page-739.png
+interventional,0,2,319,326,734,735,胸廓出口症候群（TOS）分類與解剖,page-743.png,page-743.png
