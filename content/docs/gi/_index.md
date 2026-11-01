@@ -416,7 +416,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 良性囊性脾臟病灶 / Benign Cystic Splenic Lesions
 
-![Page 128](/core_radiology/images/gi/page-128.png)
+![Page 127](/core_radiology/images/gi/page-127.png)
 
 先天性真性囊腫（congenital true cyst）具有上皮襯裡，臨床上可能導致腫瘤標記（如 CA19-9、CA125、CEA）升高，但病理上完全為良性。A congenital true cyst is defined as having an epithelial lining; interestingly, a splenic epithelial cyst may cause elevation of tumor markers including CA19-9, CA125, and CEA, despite its completely benign nature.
 
@@ -480,7 +480,7 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 
 ### 食道解剖 / Esophageal Anatomy
 
-![Page 133](/core_radiology/images/gi/page-133.png)
+![Page 132](/core_radiology/images/gi/page-132.png)
 
 咽部可分為三部分：鼻咽（nasopharynx）從顱底延伸至軟顎、口咽（oropharynx）位於口腔後方、從懸雍垂至舌骨，以及下咽（hypopharynx）從舌骨至環咽肌（cricopharyngeus muscle）。The pharynx consists of nasopharynx, oropharynx, and hypopharynx; the cricopharyngeus muscle at C5–6 is the upper esophageal sphincter.
 

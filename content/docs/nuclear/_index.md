@@ -84,6 +84,9 @@ weight: 7
 - Not routinely used for stage I–III.
 
 ### Esophageal Cancer
+
+![Page 568](/core_radiology/images/nuclear/page-568.png)
+
 - Identifies **stage IV** disease (non-surgical candidates).
 - ≥30% decrease in SUV after neoadjuvant therapy suggests favorable prognosis.
 
@@ -94,8 +97,6 @@ weight: 7
 
 
 ## Nuclear Cardiology (pages 568–576)
-
-![Page 568](/core_radiology/images/nuclear/page-568.png)
 
 ### Clinical Overview — Perfusion Imaging
 
@@ -120,8 +121,6 @@ weight: 7
 
 ### Clinical Applications
 
-![Page 570](/core_radiology/images/nuclear/page-570.png)
-
 - **Acute chest pain**: Negative perfusion scan → safe discharge. Normal study = **0.6% annual cardiac event rate**.
 - **Coronary stenosis hemodynamic significance**: Normal nuclear perfusion = low event risk despite anatomic stenosis.
 - **Post-MI risk stratification**: High-risk findings include peri-infarct ischemia, multi-vessel territory defect, significant lung uptake, LV aneurysm, EF <40%.
@@ -131,7 +130,8 @@ weight: 7
 
 ### Viability Imaging
 
-![Page 571](/core_radiology/images/nuclear/page-571.png)
+![Page 570](/core_radiology/images/nuclear/page-570.png)
+
 
 - **Hibernating myocardium**: Hypoperfused but viable myocardium that may benefit from revascularization.
 - **F-18 FDG PET** is the **gold standard** for viability imaging (correlate with perfusion study).
@@ -140,6 +140,9 @@ weight: 7
 - Gated SPECT wall motion: normal motion in perfusion defect area → viability (hibernating myocardium); large defect with abnormal motion → scar.
 
 ### Radionuclides in Nuclear Cardiology
+
+![Page 571](/core_radiology/images/nuclear/page-571.png)
+
 
 
 | Agent | Type | Half-life | Key Features |
@@ -153,9 +156,6 @@ weight: 7
 ### Imaging Protocols
 
 ![Page 572](/core_radiology/images/nuclear/page-572.png)
-![Page 573](/core_radiology/images/nuclear/page-573.png)
-![Page 574](/core_radiology/images/nuclear/page-574.png)
-
 #### Single-Day Tc-99m Sestamibi Protocol
 - Rest images first (8–10 mCi), then stress images (20–30 mCi at peak exercise or pharmacologic stress).
 - Image ~30 min post-injection to allow liver clearance.
@@ -167,8 +167,6 @@ weight: 7
 - N-13 ammonia preferred over Rb-82 for quantitative myocardial blood flow (higher extraction fraction).
 
 ### Image Interpretation
-
-![Page 575](/core_radiology/images/nuclear/page-575.png)
 
 #### Systematic Approach
 1. **Quality control**: Stress images should have higher signal-to-noise than rest (3× more tracer). Consider infiltration if not.
@@ -183,7 +181,7 @@ weight: 7
 
 ### Reconstruction Axes and Myocardial Segments
 
-![Page 576](/core_radiology/images/nuclear/page-576.png)
+![Page 573](/core_radiology/images/nuclear/page-573.png)
 
 #### Three Reconstruction Axes
 - **SA (Short Axis)**: "Donut" view from apex through base.
@@ -199,6 +197,9 @@ weight: 7
 
 ### Sample Nuclear Cardiology Cases
 
+![Page 574](/core_radiology/images/nuclear/page-574.png)
+
+
 
 #### Normal Study
 - Rest and stress images are identical; both normal.
@@ -213,7 +214,7 @@ weight: 7
 
 ## Thyroid Imaging (pages 577–580)
 
-![Page 577](/core_radiology/images/nuclear/page-577.png)
+![Page 575](/core_radiology/images/nuclear/page-575.png)
 
 ### Radiotracers
 
@@ -236,7 +237,7 @@ weight: 7
 
 ### Diagnostic Indications
 
-![Page 578](/core_radiology/images/nuclear/page-578.png)
+![Page 576](/core_radiology/images/nuclear/page-576.png)
 
 #### Ectopic Thyroid
 - **I-123 or Tc-99m** localize ectopic thyroid tissue.
@@ -261,13 +262,14 @@ weight: 7
 - Patchiness from infiltration by lymphocytes and lymphoid follicles.
 
 #### Subacute Thyroiditis
+
+![Page 577](/core_radiology/images/nuclear/page-577.png)
+
 - Painful swollen gland or silent hyperthyroidism.
 - **Low radiotracer uptake** and very low 24-hr uptake (~4.9%).
 - Self-limited; treat symptomatically (NSAIDs or steroids).
 
 ### Therapeutic Indications (I-131)
-
-![Page 579](/core_radiology/images/nuclear/page-579.png)
 
 #### Thyroid Carcinoma (Post-Thyroidectomy)
 - I-131 given ~1–2 months post-thyroidectomy to treat/image residual/metastatic disease.
@@ -293,7 +295,7 @@ weight: 7
 
 ## Parathyroid (page 580)
 
-![Page 580](/core_radiology/images/nuclear/page-580.png)
+![Page 578](/core_radiology/images/nuclear/page-578.png)
 
 ### Radiotracer: Tc-99m Sestamibi
 - Uptaken by both parathyroid and thyroid; thyroid activity decreases over time faster than parathyroid.
@@ -308,7 +310,7 @@ weight: 7
 
 ## Gastrointestinal Imaging (pages 581–585)
 
-![Page 581](/core_radiology/images/nuclear/page-581.png)
+![Page 579](/core_radiology/images/nuclear/page-579.png)
 
 ### Liver–Spleen Imaging (Tc-99m Sulfur Colloid)
 - Sulfur colloid taken up by **reticuloendothelial cells** (Kupffer cells in liver, splenic macrophages, bone marrow).
@@ -341,15 +343,14 @@ weight: 7
 
 ### Gastrointestinal Bleeding (Tc-99m Labeled RBCs)
 
-![Page 582](/core_radiology/images/nuclear/page-582.png)
-![Page 583](/core_radiology/images/nuclear/page-583.png)
-
+![Page 580](/core_radiology/images/nuclear/page-580.png)
 - **In vitro labeling**: 1–3 mL anticoagulated blood + stannous chloride + Tc-99m; ~95% labeling efficiency; takes >20 min.
 - Detects bleeding rates as low as **0.2 mL/min** (angiography: 1 mL/min).
 - Positive finding: activity changing shape/position over time due to peristalsis → pattern suggests small vs. large bowel source.
 - Alternative: Tc-99m sulfur colloid (rapid blood clearance, 2–3 min vascular half-life).
 
 ### Meckel Imaging (Tc-99m Pertechnetate)
+
 - Pertechnetate localizes to **gastric mucosa**.
 - **Meckel diverticulum**: Embryologic omphalomesenteric duct remnant; 10–60% contain ectopic gastric mucosa → bleeding.
 - Positive scan: focal increased activity in **right lower quadrant**.
@@ -357,9 +358,7 @@ weight: 7
 
 ### Hepatobiliary Imaging (HIDA)
 
-![Page 584](/core_radiology/images/nuclear/page-584.png)
-![Page 585](/core_radiology/images/nuclear/page-585.png)
-
+![Page 581](/core_radiology/images/nuclear/page-581.png)
 #### Radiotracers: Tc-99m IDA Agents
 - **Disofenin**: visualizes biliary system up to bilirubin 20 mg/dL; 90% hepatic uptake.
 - **Mebrofenin**: up to bilirubin 30 mg/dL; 98% hepatic uptake.
@@ -373,32 +372,41 @@ weight: 7
 - Morphine only if tracer seen in small bowel (patent CBD). If morphine contraindicated: image 4 hours total.
 
 #### Normal HIDA
+
 - Liver visible by 5 min; gallbladder by 15 min; small bowel by 30–60 min (patent CBD).
 
 #### Acute Cholecystitis
+
+![Page 582](/core_radiology/images/nuclear/page-582.png)
+
 - **Nonvisualization of gallbladder** after 90 min + morphine = 86–98% sensitive for acute cholecystitis.
 - **Rim sign**: increased hepatic activity around gallbladder fossa → hyperemia, possibly gangrenous cholecystitis.
 - False positives: recent meal, prolonged fasting, CCK given, pancreatitis, severe illness, chronic cholecystitis, TPN.
 - False negatives: acalculous cholecystitis with patent cystic duct, duodenal diverticulum.
 
 #### Chronic Cholecystitis
+
 - Long-standing inflammation → loss of normal gallbladder function.
 - Most have **normal HIDA scan** (no single pathognomonic pattern).
 - **Gallbladder ejection fraction (GBEF) <35%** after CCK suggests chronic cholecystitis (controversial).
 
 #### Biliary Leak
+
+![Page 583](/core_radiology/images/nuclear/page-583.png)
+
 - HIDA accurately detects biliary leaks.
 - Post-cholecystectomy patients: tracer pooling in gallbladder fossa or paracolic gutter.
 - Right lateral decubitus position promotes dependent pooling.
 
 #### Hepatic Dysfunction
+
 - Severe hepatic dysfunction → poor hepatic uptake, delayed blood pool clearance.
 - Hepatic mass (e.g., cholangiocarcinoma) → focal **photopenic defect**.
 
 
 ## Pulmonary Imaging (pages 586–591)
 
-![Page 586](/core_radiology/images/nuclear/page-586.png)
+![Page 584](/core_radiology/images/nuclear/page-584.png)
 
 ### Radiotracers
 
@@ -424,9 +432,7 @@ weight: 7
 
 ### V/Q Scanning in Pulmonary Embolism
 
-![Page 587](/core_radiology/images/nuclear/page-587.png)
-![Page 588](/core_radiology/images/nuclear/page-588.png)
-
+![Page 585](/core_radiology/images/nuclear/page-585.png)
 #### PE in Pregnancy
 - **Leading cause of death** in pregnancy in developed countries.
 - **CT pulmonary angiography**: maternal breast dose 10–70 mGy (>>ACR mammography 3 mGy/breast); fetal dose 0.1–0.66 mGy.
@@ -440,6 +446,11 @@ weight: 7
 ---
 
 ## Musculoskeletal Imaging (pages 589–591)
+
+![Page 586](/core_radiology/images/nuclear/page-586.png)
+![Page 587](/core_radiology/images/nuclear/page-587.png)
+![Page 588](/core_radiology/images/nuclear/page-588.png)
+
 
 ![Page 589](/core_radiology/images/nuclear/page-589.png)
 ![Page 590](/core_radiology/images/nuclear/page-590.png)

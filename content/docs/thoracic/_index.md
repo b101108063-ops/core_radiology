@@ -273,7 +273,7 @@ This chapter covers the following major topics in thoracic imaging:
 
 ## 肺葉塌陷方向 / Patterns of Lobar Atelectasis
 
-![Page 019](/core_radiology/images/thoracic/page-019.png)
+![Page 013](/core_radiology/images/thoracic/page-013.png)
 Each of the five pulmonary lobes collapses in a **predictable direction**, depending on which lobe is affected.
 
 ## 各肺葉塌陷方向 / Direction of Collapse by Lobe
@@ -306,7 +306,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 左上葉肺膨脹不全 / Left Upper Lobe Atelectasis
 
-![Page 022](/core_radiology/images/thoracic/page-022.png)
+![Page 014](/core_radiology/images/thoracic/page-014.png)
 ### Luftsichel Sign
 
 - **Luftsichel** (German: "air sickle") refers to a **crescent of air** seen on the frontal radiograph lateral to the **aortic arch**
@@ -327,7 +327,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 右上葉肺膨脹不全 / Right Upper Lobe Atelectasis
 
-![Page 023](/core_radiology/images/thoracic/page-023.png)
+![Page 014](/core_radiology/images/thoracic/page-014.png)
 ### Golden's S Sign (Reverse S Sign)
 
 - Seen in **right upper lobe collapse** caused by an obstructing mass
@@ -365,7 +365,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 下葉肺膨脹不全 / Lower Lobe Atelectasis
 
-![Page 025](/core_radiology/images/thoracic/page-025.png)
+![Page 015](/core_radiology/images/thoracic/page-015.png)
 ### 左下葉 / Left Lower Lobe (LLL) Atelectasis
 
 - Heart slightly **rotates** and the **left hilum is pulled down**
@@ -386,7 +386,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 影像特徵比較 / Comparison of Lower Lobe Collapse
 
-![Page 026](/core_radiology/images/thoracic/page-026.png)
+![Page 015](/core_radiology/images/thoracic/page-015.png)
 | Feature | Left Lower Lobe | Right Lower Lobe |
 |---|---|---|
 | **Frontal appearance** | Triangular retrocardiac opacity; flat waist sign | Vertically oriented opacity medial to right heart |
@@ -412,7 +412,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 右中葉肺膨脹不全 / Right Middle Lobe Atelectasis
 
-![Page 028](/core_radiology/images/thoracic/page-028.png)
+![Page 016](/core_radiology/images/thoracic/page-016.png)
 - **Findings can be subtle** on the frontal radiograph
 
 - **Silhouetting of the right heart border** by the collapsed medial segment of the middle lobe may be the **only clue** on frontal view
@@ -472,7 +472,7 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 
 ## 次級肺小葉 / Secondary Pulmonary Lobule (SPL)
 
-![Page 031](/core_radiology/images/thoracic/page-031.png)
+![Page 018](/core_radiology/images/thoracic/page-018.png)
 The **secondary pulmonary lobule (SPL)** is the **elemental structural and functional unit** of the lung.
 
 ### 解剖結構 / Anatomy
@@ -537,7 +537,7 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 
 ## 肺泡異常 / Abnormalities of the Secondary Pulmonary Lobule
 
-![Page 033](/core_radiology/images/thoracic/page-033.png)
+![Page 018](/core_radiology/images/thoracic/page-018.png)
 **Consolidation** and **ground glass opacification** are two very commonly seen patterns of lung disease caused by **abnormal alveoli** (either filling with fluid or incomplete aeration).
 
 ---
@@ -586,7 +586,7 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 
 ## 毛玻璃樣浸潤 / Ground Glass Opacification (GGO)
 
-![Page 035](/core_radiology/images/thoracic/page-035.png)
+![Page 019](/core_radiology/images/thoracic/page-019.png)
 **Ground glass opacification** is histologically due to:
 
 - **Partial filling** of alveoli (by blood, pus, water, or cells)
@@ -662,7 +662,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 中央型為主 / Central-Predominant Ground Glass
 
-![Page 038](/core_radiology/images/thoracic/page-038.png)
+![Page 020](/core_radiology/images/thoracic/page-020.png)
 **Differential Diagnosis:**
 
 | Entity | Key Features |
@@ -676,7 +676,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 周邊型為主 / Peripheral-Predominant Ground Glass or Consolidation
 
-![Page 039](/core_radiology/images/thoracic/page-039.png)
+![Page 020](/core_radiology/images/thoracic/page-020.png)
 **Differential Diagnosis:**
 
 | Entity | Key Features |
@@ -707,12 +707,12 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 > **Kerley B lines**：是小葉間隔增厚在X光下的表現，為肋膜下1-2cm長的水平線，代表間質液體或纖維化堆積。
 
-![Page 040](/core_radiology/images/thoracic/page-040.png)
+![Page 021](/core_radiology/images/thoracic/page-021.png)
 ---
 
 ## 光滑型間隔增厚 / Smooth Interlobular Septal Thickening
 
-![Page 041](/core_radiology/images/thoracic/page-041.png)
+![Page 021](/core_radiology/images/thoracic/page-021.png)
 **Mechanism**: Dilation of **pulmonary veins** causes smooth interlobular septal thickening.
 
 **Differential Diagnosis** (same as central ground glass):
@@ -728,7 +728,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 結節型/不規則型間隔增厚 / Nodular, Irregular, or Asymmetric Septal Thickening
 
-![Page 042](/core_radiology/images/thoracic/page-042.png)
+![Page 021](/core_radiology/images/thoracic/page-021.png)
 **Mechanism**: Processes that **infiltrate peripheral lymphatics**.
 
 | Entity | Key Features |
@@ -844,7 +844,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 > **影像學鑒別**：小葉中心性結節不直達肋膜面；淋巴管周圍性結節則沿支氣管血管束、葉間裂隙和肋膜分布。
 
-![Page 048](/core_radiology/images/thoracic/page-048.png)
+![Page 023](/core_radiology/images/thoracic/page-023.png)
 ---
 
 ## 小葉中心性結節 / Centrilobular Nodules
@@ -893,7 +893,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 淋巴管周圍結節 / Perilymphatic Nodules
 
-![Page 050](/core_radiology/images/thoracic/page-050.png)
+![Page 024](/core_radiology/images/thoracic/page-024.png)
 **Definition**: Nodules following the anatomic distribution of **pulmonary lymphatics**.
 
 ### 分布位置 / Three Anatomic Locations
@@ -935,7 +935,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 隨機分布結節 / Random Nodules
 
-![Page 052](/core_radiology/images/thoracic/page-052.png)
+![Page 025](/core_radiology/images/thoracic/page-025.png)
 **Random nodules** are distributed throughout the secondary pulmonary lobule via **hematogenous spread**, with an **angiocentric distribution**.
 
 ### 影像特徵 / Imaging Features
@@ -984,7 +984,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 樹芽徵結節 / Tree-in-Bud Nodules
 
-![Page 055](/core_radiology/images/thoracic/page-055.png)
+![Page 026](/core_radiology/images/thoracic/page-026.png)
 **Tree-in-bud nodules** are multiple small nodules connected to linear branching structures — resembling a **budding tree branch in springtime** on CT.
 
 ### 病理機制 / Pathophysiology
@@ -1038,7 +1038,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 **囊（Cyst）**：薄壁充氣空間，常見於淋巴管平滑肌瘤症（LAM）、肺孢子蟲肺炎（PCP）、類肉樣瘤病。
 
-![Page 057](/core_radiology/images/thoracic/page-057.png)
+![Page 027](/core_radiology/images/thoracic/page-027.png)
 ---
 
 ## 孤立性空洞結節/腫塊 / Solitary Cavitary Nodule or Mass
@@ -1078,7 +1078,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 囊性病變 / Cystic Lung Disease
 
-![Page 060](/core_radiology/images/thoracic/page-060.png)
+![Page 028](/core_radiology/images/thoracic/page-028.png)
 **Cyst**: air-containing lucency with a **thin, nearly imperceptible wall**.
 
 ### 多發囊性病變 / Multiple Cysts — Differential
@@ -1110,7 +1110,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 囊性肺部疾病 / Cystic Lung Diseases
 
-![Page 061](/core_radiology/images/thoracic/page-061.png)
+![Page 028](/core_radiology/images/thoracic/page-028.png)
 **Cyst**: an air-containing lucency with a **thin, nearly imperceptible wall**.
 
 ---
@@ -1169,7 +1169,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 > **HRCT特點**：IPF的典型表現為蜂窩狀結構（honeycombing）位於胸膜下和肺底部，伴隨牽引性支氣管擴張。
 
-![Page 065](/core_radiology/images/thoracic/page-065.png)
+![Page 029](/core_radiology/images/thoracic/page-029.png)
 ---
 
 ## 下葉為主纖維化 / Lower Lobe–Predominant Fibrosis
@@ -1344,7 +1344,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 > **影像追蹤**：肺炎併發症的發展可在48-72小時內快速演變，臨床表現穩定但影像惡化時需高度警覺。
 
-![Page 073](/core_radiology/images/thoracic/page-073.png)
+![Page 031](/core_radiology/images/thoracic/page-031.png)
 ---
 
 ## 肺膿腫 / Pulmonary Abscess
@@ -1421,7 +1421,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## Empyema Necessitans
 
-![Page 079](/core_radiology/images/thoracic/page-079.png)
+![Page 032](/core_radiology/images/thoracic/page-032.png)
 - **Extension of empyema to the chest wall**
 
 - Most commonly secondary to **tuberculosis**
@@ -1475,7 +1475,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 原發性結核 / Primary Tuberculosis
 
-![Page 082](/core_radiology/images/thoracic/page-082.png)
+![Page 032](/core_radiology/images/thoracic/page-032.png)
 **Primary TB** = first exposure to TB; may involve parenchyma, airways, and pleura; often causes **adenopathy**.
 
 ### Four Imaging Manifestations (any, none, or all may be present):
@@ -1513,7 +1513,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 原發性 vs 再活化性結核 / Primary vs. Reactivation TB
 
-![Page 084](/core_radiology/images/thoracic/page-084.png)
+![Page 033](/core_radiology/images/thoracic/page-033.png)
 | Feature | Primary TB | Reactivation TB |
 |---|---|---|
 | **Location** | Lower lobes, RML | Upper lobe (apical/posterior) |
@@ -1540,7 +1540,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 結核性淋巴結病 / Tuberculous Adenopathy
 
-![Page 086](/core_radiology/images/thoracic/page-086.png)
+![Page 033](/core_radiology/images/thoracic/page-033.png)
 - **Adenopathy is common in primary TB**, especially in children
 
 - Imaging: **central low-attenuation with peripheral enhancement** (caseous necrosis)
@@ -1652,6 +1652,8 @@ The **distribution** of ground glass opacification provides important diagnostic
 ## 非典型分枝桿菌 / Atypical Mycobacteria
 
 ### Mycobacterium avium-intracellulare (MAI)
+
+![Page 035](/core_radiology/images/thoracic/page-035.png)
 
 - **Lady Windermere syndrome**: elderly woman with cough, low-grade fever, and weight loss
 
@@ -1784,6 +1786,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Recurrent wheezing, low-grade fever, cough, sputum production (containing *Aspergillus* hyphae)
 
 ### Key CT Finding — Finger-in-Glove Sign
+![Page 038](/core_radiology/images/thoracic/page-038.png)
 
 - **Upper-lobe bronchiectasis + mucoid impaction** (high-attenuation or even calcified)
 
@@ -1830,6 +1833,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 > - In a patient with hemoptysis and a pre-existing cavity, always consider **aspergilloma**
 
 ## 半侵襲性（慢性壞死性）麴菌病 / Semi-Invasive (Chronic Necrotizing) Aspergillosis
+![Page 039](/core_radiology/images/thoracic/page-039.png)
 
 - **Necrotizing granulomatous inflammation** analogous to reactivation TB
 
@@ -1954,6 +1958,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 ---
 
 ## 不對稱性肺水腫 / Asymmetric Pulmonary Edema
+![Page 040](/core_radiology/images/thoracic/page-040.png)
 
 - **Classic example**: Isolated **right upper lobe** edema from **acute mitral regurgitation** (MI with papillary muscle rupture)
 
@@ -1974,6 +1979,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 ---
 
 ## 血管蒂寬度 / Vascular Pedicle Width
+![Page 041](/core_radiology/images/thoracic/page-041.png)
 
 | Feature | Description |
 |---|---|
@@ -2001,6 +2007,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Dialysis catheter** | **Right atrium** |
 
 ### PICC Malposition — Azygos Vein
+![Page 042](/core_radiology/images/thoracic/page-042.png)
 
 - ~1% of bedside-placed PICCs
 
@@ -2423,6 +2430,7 @@ SVC → Right atrium → Tricuspid valve → Right ventricle → Pulmonic valve 
 ---
 
 ## 淋巴管性癌轉移 / Lymphangitic Carcinomatosis
+![Page 048](/core_radiology/images/thoracic/page-048.png)
 
 **Lymphangitic carcinomatosis** = diffuse spread of neoplasm through **pulmonary lymphatics** — typically late-stage disease.
 
@@ -2621,6 +2629,7 @@ SVC → Right atrium → Tricuspid valve → Right ventricle → Pulmonic valve 
 > - **Adrenal masses** in lung cancer patients are metastases until proven otherwise — most are benign adrenal adenomas
 
 ## 肺血管疾病 / Pulmonary Vascular Disease
+![Page 052](/core_radiology/images/thoracic/page-052.png)
 
 ---
 
@@ -2782,6 +2791,7 @@ SVC → Right atrium → Tricuspid valve → Right ventricle → Pulmonic valve 
 > - **WHO Group 1** PAH (including PPH) is treated with prostacyclins, endothelin receptor antagonists, and PDE-5 inhibitors — not surgical
 
 ## 纖維化縱膈炎 / Fibrosing Mediastinitis — WHO Group 5
+![Page 055](/core_radiology/images/thoracic/page-055.png)
 
 | Feature | Description |
 |---|---|
@@ -4057,6 +4067,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 > - **Thymic carcinoid** with Cushing syndrome = look for MEN I/II association
 
 ## 其他胸腺病變 / Less Common Thymic Lesions
+![Page 079](/core_radiology/images/thoracic/page-079.png)
 
 | Entity | Key Features |
 |---|---|---|
@@ -4177,6 +4188,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 > - Always check for **continuity with the thyroid** in any superior mediastinal mass — goiter is the most common thyroid lesion extending into the mediastinum
 
 ## 肺動脈擴大 / Enlarged Pulmonary Artery
+![Page 082](/core_radiology/images/thoracic/page-082.png)
 
 - Enlarged PA can simulate a mass on CXR
 
@@ -4359,6 +4371,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 > - All causes of diffuse tracheal disease can present with similar narrowing patterns — clinical context is essential
 
 ## 韋格納肉芽腫症與結節病 / Wegener Granulomatosis and Sarcoidosis
+![Page 086](/core_radiology/images/thoracic/page-086.png)
 
 ### Wegener Granulomatosis — 氣管侵犯 / Tracheal Involvement
 

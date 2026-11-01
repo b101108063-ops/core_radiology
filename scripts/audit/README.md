@@ -66,6 +66,33 @@ python3 scripts/audit/match_heading_to_page.py thoracic
 兩個工具都會把結果寫成 JSON（`$CR_SOURCE_DIR/match_<chapter>.json`、
 `hdrmatch_<chapter>.json`），供人工覆核。
 
+## 影像對齊與覆蓋驗收
+
+```bash
+# 產生保序對齊候選；只寫 CSV，不直接修改正文
+python3 scripts/audit/align_images_to_pages.py
+
+# 盤點原書有圖、站台尚未引用的書頁
+python3 scripts/audit/audit_image_coverage.py
+
+# 產生缺頁補圖計畫；人工覆核 CSV 後再套用
+python3 scripts/audit/plan_missing_images.py
+python3 scripts/audit/apply_missing_images.py --dry-run
+
+# 人工覆核重指派 CSV 後再套用
+python3 scripts/audit/apply_reassign.py --dry-run
+```
+
+最終輸出：
+
+- `docs/audit/image_reassignment.csv`：保序對齊候選
+- `docs/audit/image_coverage_gaps.csv`：尚未覆蓋的真缺口
+- `docs/audit/verified_no_figure_pages.csv`：人工視覺確認無圖、須排除的 OCR 假陽性
+- `docs/audit/missing_image_insertions.csv`：補圖計畫
+
+`align_images_to_pages.py` 的 FAIL 表示人工錨點命中率不足，結果只能盤點，不能套用。
+兩個 apply 工具一律先跑 `--dry-run`，再檢查 diff、Hugo build 與缺檔。
+
 ## 重要限制
 
 文字比對只能產生**候選**書頁，不能取代人工視覺覆核 —— 圖說語意需逐張確認。

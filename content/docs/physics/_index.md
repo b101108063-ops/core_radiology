@@ -130,6 +130,7 @@ NSF 是一種高致死率的疾病，特徵為<span style="color:#60a5fa">**皮�
 <span style="color:#e2e8f0">**射線加權因子 (WR)**</span> 取決於游離線能傳遞（LET）。診斷用 X 光 WR=1，alpha 粒子則有較高的 LET。<span style="color:#e2e8f0">**組織加權因子 (WT)**</span> 從放射性敏感器官（如骨髓、大腸、肺、乳房）的 0.12，到敏感性較低器官（如骨、腦、皮膚）的 0.01 不等。
 
 ### 典型診斷影像的有效劑量 (Typical Effective Doses)
+![Page 861](/core_radiology/images/physics/page-861.png)
 
 | 檢查項目 | 有效劑量 (mSv) |
 |----------|----------------|
@@ -221,6 +222,7 @@ HVL 是測量光束品質的指標，定義為使 50% 入射能量衰減所需�
 使用高壓<span style="color:#60a5fa">**氙氣（Xe）**</span>（K-edge 35 keV）。主要用於測量輻射，而非成像。
 
 ### 光刺激磷光體偵測器 (Photostimulable Phosphor)
+![Page 857](/core_radiology/images/physics/page-857.png)
 
 使用<span style="color:#60a5fa">**氟化鋇鹵化物（BaFBr）**</span>，常用於電腦放射攝影（CR）。使用紅色雷射光讀取（發射藍光）。<span style="color:#34d399">**動態範圍 10,000:1**</span>（vs 傳統螢光屏-底片系統的 40:1），可在 0.1 µGy 至 1,000 µGy 的空氣克馬範圍內使用。
 
@@ -235,6 +237,7 @@ HVL 是測量光束品質的指標，定義為使 50% 入射能量衰減所需�
 ---
 
 ## 乳房攝影物理 (Mammography Physics)
+![Page 858](/core_radiology/images/physics/page-858.png)
 
 ### 接觸乳房攝影技術摘要 (Contact Mammography Technique Summary)
 
@@ -347,6 +350,7 @@ HU 是測量相對 CT 衰減的值：
 | 兒科腹部 | 20 mGy（16 cm phantom）|
 
 ### 劑量-長度乘積與有效劑量 (DLP and Effective Dose)
+![Page 865](/core_radiology/images/physics/page-865.png)
 
 DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（mGy×cm）。
 
@@ -395,6 +399,7 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 ---
 
 ## 輻射生物學 (Radiation Biology)
+![Page 863](/core_radiology/images/physics/page-863.png)
 
 ### DNA 損傷 (DNA Damage)
 
@@ -424,6 +429,7 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 使族群自發性突變率加倍所需的劑量約為 <span style="color:#34d399">**1 Gy**</span>。遺傳效應的風險約為 0.2% per Sv。
 
 ### 隨機效應與癌症 (Stochastic Effects and Cancer)
+![Page 864](/core_radiology/images/physics/page-864.png)
 
 <span style="color:#f87171">**隨機效應是隨機發生的，具有致癌性。**</span> 潛伏期可達數年。線性無閾模型（Linear no-threshold）被認為是固體腫瘤風險評估最準確的方法，潛伏期可達 25 年。
 
@@ -484,7 +490,7 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 - BW：接收頻寬，寬頻寬可加快採集但增加雜訊
 - B：磁場強度的固有函數
 
-![MRI physics - T1, T2 relaxation and pulse sequences](/core_radiology/images/physics/page-854.png)
+![MRI physics - T1, T2 relaxation and pulse sequences](/core_radiology/images/physics/page-866.png)
 
 **臨床描述：** 此圖說明 MRI 的 T1 與 T2 弛緩時間特性。上排為 T1 弛緩（縱向弛緩），下排為 T2 弛緩（橫向弛緩）。T1 對比依賴重複時間（TR），T2 對比依賴回波時間（TE）。短 TR 短 TE 產生 T1 加權影像，脂肪和亞急性出血因 T1 弛緩時間短，在 T1 加權影像上呈現高信號（亮）。
 
@@ -604,6 +610,7 @@ PRF 是探頭每秒輸出超聲波脈衝的次數。PRF 增加會導致回波接
 其中 Ri 為固有解析度，Rc 為準直器解析度。
 
 ### 品質控制 (Quality Control)
+![Page 872](/core_radiology/images/physics/page-872.png)
 
 | 儀器 | 測試項目 | 頻率 | 使用核種 |
 |------|---------|------|---------|
