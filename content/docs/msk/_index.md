@@ -4429,8 +4429,6 @@ weight: 5
 **中足部與後足部的常見骨折概覽** 中，**距骨頸骨折（talar neck fracture）**使用 **Hawkins 分類**；**跟骨骨折（calcaneal fractures）**則有多種分類，包括 **Essex−Lopresti 分類**與以 CT 為基礎的 **Sanders 分類**。**舟骨缺血性壞死**在兒童稱為 **Kohler 病**，在成人則稱為 **Müeller−Weiss 病**。 In the midfoot and hindfoot overview of common fractures, talar neck fractures are classified by Hawkins, calcaneal fractures have multiple classifications including Essex−Lopresti and the CT-based Sanders classification, and osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults.
 
 **重點摘要**
-- **Essex−Lopresti 分類**：跟骨骨折依 Essex−Lopresti 分類分為**不波及距下關節（subtalar joint，約 25%）**與**延伸進入距下關節（約 75%）**兩類。The Essex–Lopresti classification divides calcaneal fractures into those sparing the subtalar joint (25%) and fractures extending into the subtalar joint (75%).
-- **Sanders 分類**：Sanders 分類是依**冠狀位 CT 上粉碎骨片的數目**而定。The Sanders classification is based on the number of comminuted fragments as seen on coronal CT.
 - **舟骨缺血性壞死**：Kohler 病（兒童）通常為自限性且好發於男性；Mueller–Weiss 病（成人）病程較嚴重，且較常見於成年女性。Osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults; Kohler disease is typically self limited and occurs more commonly in boys, while Mueller–Weiss disease is more severe in course and occurs more commonly in adult women.
 - **Chopart 骨折-脫臼**：Chopart 關節由**距舟關節（talonavicular）**與**跟骰關節（calcaneocuboid）**構成；Chopart 骨折-脫臼通常由**高能量創傷**造成，常合併**跟骨、骰骨與舟骨**的骨折。The Chopart joint is formed by the talonavicular and calcaneocuboid joints; Chopart fracture-dislocation is typically caused by high-impact trauma, and associated fractures of the calcaneus, cuboid, and navicular bones are often present.
 

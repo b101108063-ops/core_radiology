@@ -759,10 +759,10 @@ Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者
 
 #### 鞍上病變的鑑別：性早熟與腦下垂體柄病變 / Precocious Puberty and Suprasellar Lesions
 
-面對**鞍上區塊狀病變**（suprasellar mass），「性早熟」（precocious puberty）與「腦下垂體柄增大且強化」是辨識**下視丘錯構瘤**（hypothalamic hamartoma）與 **Langerhans 細胞組織球增生症合併垂體炎**（Langerhans cell histiocytosis hypophysitis）的關鍵線索。Precocious puberty and an enhancing, enlarged pituitary stalk are the clues to hypothalamic hamartoma and to Langerhans cell histiocytosis hypophysitis in a suprasellar mass. 成人鞍上腫塊則須依「是否向上延伸」「蝶鞍是否擴大」「正常蝶鞍下是否呈強烈強化」等問題逐步導向正確病因。For a suprasellar mass in an adult, the workup proceeds through questions of superior extension, expansion of the sella, and intense enhancement despite a normal sella.
+面對**鞍上區塊狀病變**（suprasellar mass），「性早熟」（precocious puberty）合併**不強化、與灰質等訊號的腫塊**是辨識**下視丘錯構瘤**（hypothalamic hamartoma）的關鍵線索；「腦下垂體柄增大且強化」合併尿崩症則提示 **Langerhans 細胞組織球增生症合併垂體炎**（Langerhans cell histiocytosis hypophysitis）或其他垂體炎。In a suprasellar mass, precocious puberty with a nonenhancing, gray-matter-isointense mass suggests hypothalamic hamartoma; an enhancing enlarged pituitary stalk with diabetes insipidus suggests Langerhans cell histiocytosis hypophysitis or another form of hypophysitis. 成人鞍上腫塊則須依「是否向上延伸」「蝶鞍是否擴大」「正常蝶鞍下是否呈強烈強化」等問題逐步導向正確病因。For a suprasellar mass in an adult, the workup proceeds through questions of superior extension, expansion of the sella, and intense enhancement despite a normal sella.
 
 **重點摘要**
-- **性早熟與下視丘錯構瘤**：性早熟是鞍上病變最重要的臨床線索，合併腦下垂體柄增大強化時應考慮下視丘錯構瘤。Precocious puberty is a key clinical clue in a suprasellar mass; with an enhancing enlarged pituitary stalk it should raise the possibility of hypothalamic hamartoma.
+- **性早熟與下視丘錯構瘤**：性早熟合併不強化、與灰質等訊號的鞍上腫塊時，應考慮下視丘錯構瘤。Precocious puberty with a nonenhancing, gray-matter-isointense suprasellar mass suggests hypothalamic hamartoma.
 - **腦下垂體柄增大與尿崩症**：腦下垂體柄增大且強化合併尿崩症可見於淋巴球性垂體炎（圍產期）或肉芽腫性垂體炎（其他情況），Langerhans 細胞組織球增生症亦可侵犯垂體柄。An enhancing, enlarged pituitary stalk with diabetes insipidus may reflect lymphocytic hypophysitis if peripartum or granulomatous hypophysitis otherwise, and Langerhans cell histiocytosis hypophysitis also involves the stalk.
 - **腦下垂體巨腺瘤向上延伸**：鞍上腫塊向上延伸且蝶鞍擴大者，提示腦下垂體巨腺瘤向上生長。A pituitary mass extending superiorly with expansion of the sella indicates extension of a pituitary macroadenoma.
 - **腦膜瘤**：在正常蝶鞍下呈強烈強化，合併硬膜尾徵、鄰近骨肥厚與鄰近血管變窄，支持腦膜瘤的診斷。Intense enhancement with a normal sella, together with an enhancing dural tail, adjacent hyperostosis, and narrowing of adjacent vasculature, favors meningioma.
@@ -1371,8 +1371,8 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 **重點摘要**
 - **動脈瘤性出血與 AVM**：血腫旁有動脈瘤提示動脈瘤性出血；年輕患者的腦實質出血合併擴大的供應動脈與鄰近腦軟化提示 AVM。An aneurysm adjacent to the hematoma suggests aneurysmal hemorrhage, whereas parenchymal hemorrhage in a young patient with an enlarged feeding artery and adjacent encephalomalacia suggests AVM.
-- **硬膜動靜脈瘻（dAVF）**：出血位於海綿竇旁或後顱窩，合併擴大的腦膜動脈或皮質靜脈、對比影像上可見鄰近的硬腦膜動靜脈畸形，支持 dAVF。Hemorrhage adjacent to the cavernous sinus or in the posterior fossa with an enlarged meningeal artery or cortical vein and an adjacent DVA on post-contrast images suggests dAVF.
-- **海綿狀畸形**：T2* 上出現多發暗點為家族性變異的表現。Multiple dark spots on T2* (familial variant) suggest cavernous malformation.
+- **硬膜動靜脈瘻（dAVF）**：出血位於海綿竇旁或後顱窩，合併擴大的腦膜動脈或皮質靜脈，支持 dAVF。Hemorrhage adjacent to the cavernous sinus or in the posterior fossa with an enlarged meningeal artery or cortical vein suggests dAVF.
+- **海綿狀畸形**：對比增強影像可見鄰近的發育性靜脈異常（DVA）；T2* 上出現多發暗點為家族性變異的表現。An adjacent DVA on post-contrast images or multiple dark spots on T2* (familial variant) suggests cavernous malformation.
 - **靜脈血栓與出血性腫瘤**：旁矢狀或雙側丘腦出血須考慮靜脈血栓；多發強化病灶提示出血性腫瘤。Parasagittal or bilateral thalamic hemorrhage raises concern for venous thrombosis, while multiple enhancing lesions suggest a hemorrhagic neoplasm.
 - **其他鑑別**：年輕女性患者的丘腦出血、腦皮質靜脈或硬腦膜竇密度增加提示靜脈血栓；腦梗塞病史或溶血治療史提示出血性梗塞；多發深部白質 T2 延長合併系統性血管炎病史提示 CNS 血管炎；頸內動脈阻塞合併多發側支循環提示毛毛樣血管病（moyamoya）。Other clues include a young patient, especially female, with increased density in a cortical vein or dural sinus (venous thrombosis); history of infarct or thrombolytic therapy (hemorrhagic infarct); history of systemic vasculitis with multifocal deep white matter T2 prolongation (CNS vasculitis); and occlusion of the internal carotid arteries with multiple collateral vessels (moyamoya).
 
@@ -1711,7 +1711,7 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 - **定義**：中鼻甲下部球狀部分氣化即形成氣化鼻甲。Concha bullosa is formed when the inferior bulbous portion of the middle turbinate is pneumatized.
 - **臨床意義**：通常為偶然發現，較大者可造成鼻中隔偏移與鼻竇漏斗通道狹窄。It is usually incidental, but may cause septal deviation and narrowing of the infundibulum when large.
 - **慢性鼻竇炎**：鼻竇黏膜持續發炎至少 12 consecutive weeks 稱為慢性鼻竇炎，在美國每年影響超過 3,000 萬人，屬臨床診斷，影像主要保留給術前規劃或評估疑似的併發症。Chronic sinusitis is inflammation of the paranasal sinus mucosa that lasts for at least 12 consecutive weeks, affecting more than 30 million people annually in the US; it is a clinical diagnosis, with imaging reserved for presurgical planning or suspected complications.
-- **鼻竇炎的併發症**：感染直接蔓延可造成眼眶併發症（眶隔前蜂窩組織炎、眶蜂窩組織炎、眼靜脈血栓）、顱內併發症（海綿竇血栓、腦膜炎、硬膜外、硬膜下或腦實質內膿腫）與骨質併發症；額骨骨髓炎可造成帽狀腱膜下膿腫，即 Pott's puffy tumor。Direct spread of infection can cause orbital complications (preseptal cellulitis, orbital cellulitis, ophthalmic vein thrombosis), intracranial complications (cavernous sinus thrombosis, meningitis, epidural, subdural or intraparenchymal abscess) and bony complications, with frontal bone osteomyelitis producing a subgaleal abscess called Pott's puffy tumor.
+- **鼻竇炎的併發症**：感染直接蔓延可造成眼眶併發症（骨膜下膿瘍、眶蜂窩組織炎、眼靜脈血栓）、顱內併發症（海綿竇血栓、腦膜炎、硬膜外、硬膜下或腦實質內膿腫）與骨質併發症；額骨骨髓炎可造成帽狀腱膜下膿腫，即 Pott's puffy tumor。Direct spread of infection can cause orbital complications (subperiosteal abscess, orbital cellulitis, ophthalmic vein thrombosis), intracranial complications (cavernous sinus thrombosis, meningitis, epidural, subdural or intraparenchymal abscess) and bony complications, with frontal bone osteomyelitis producing a subgaleal abscess called Pott's puffy tumor.
 - **黏液滯留囊腫**：屬常見的偶然發現，代表小黏膜漿液性或黏液性腺體阻塞。A mucus retention cyst is a common incidental finding representing obstruction of the small mucosal serous or mucinous glands.
 ## Salivary Glands / 唾液腺
 

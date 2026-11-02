@@ -347,9 +347,7 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 
 **重點摘要**
 - **罕見的自體顯性遺傳疾病**：由多發真皮內油脂囊腫構成，屬罕見的體染色體顯性遺傳性疾患。Rare autosomal dominant disease: it consists of multiple intradermal oil cysts and is a rare autosomal dominant condition.
-- **影像表現**：乳房表面皮膚受累時，乳房攝影可見無數脂肪密度腫塊，這是本病在影像上的代表性表現。Imaging appearance: when the skin over the breasts is involved, mammography shows innumerable fat-density masses, the characteristic imaging finding of this entity.
-- **臨床提示**：此類脂肪密度腫塊是「多發性實性腫塊」的鑑別診斷之一，須與其他多發性乳房腫塊一併考量。Clinical note: such fat-density masses form part of the differential diagnosis of multiple solid masses of the breast and should be considered alongside other causes of multiple breast masses.
-- **皮下結節為基礎**：本病的病灶位於真皮內，因此與皮下脂肪性腫塊的分布一致，影像上呈現為脂肪密度。Subcutaneous nodular basis: the lesions lie within the dermis, consistent with the distribution of subcutaneous fat-containing masses, and therefore appear fat density on imaging.
+- **影像表現**：乳房表面皮膚受累時，乳房攝影可見無數脂肪密度腫塊。Imaging appearance: when the skin over the breasts is involved, mammography shows innumerable fat-density masses.
 
 ### 囊性乳腺病灶 / Cystic Breast Lesions
 

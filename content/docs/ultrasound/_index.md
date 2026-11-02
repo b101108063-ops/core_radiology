@@ -277,14 +277,14 @@ weight: 6
 
 #### 肝靜脈 D 波（D-wave） / Hepatic Vein D-Wave
 
-**D 波（D-wave）** 為肝靜脈（hepatic vein）都卜勒波形中的心室舒張波，在心室舒張期（ventricular diastole）血液回流右心房，但回流量比心室收縮期（S 波）少。當肝靜脈搏動性增加時，原書的比較表顯示 D 波在三尖瓣逆流與右心衰竭兩種情況下的表現不同。 The D-wave is the ventricular diastole component of the hepatic vein Doppler waveform, during which a smaller volume of blood returns to the right atrium than during ventricular systole; the source comparison table shows that the D-wave behaves differently in tricuspid regurgitation and in right-sided heart failure.
+**D 波（D-wave）** 為肝靜脈（hepatic vein）都卜勒波形中的心室舒張波，在心室舒張期（ventricular diastole）血液回流右心房，但回流量比心室收縮期（S 波）少。當肝靜脈搏動性增加時，原書的比較表顯示 **S 波**在三尖瓣逆流與右心衰竭兩種情況下的表現不同。 The D-wave is the ventricular diastole component of the hepatic vein Doppler waveform, during which a smaller volume of blood returns to the right atrium than during ventricular systole; the source comparison table shows that the S-wave behaves differently in tricuspid regurgitation and in right-sided heart failure.
 
 **重點摘要**
 - **D 波（D-wave）**：心室舒張期，較少量血液回流右心房。The D-wave is ventricular diastole, during which a smaller volume of blood returns to the right atrium.
-- **三尖瓣逆流（tricuspid regurgitation）**：D 波變短（short）。In tricuspid regurgitation, the D-wave is short.
-- **右心衰竭（right-sided CHF）**：D 波保留（preserved）。In right-sided heart failure, the D-wave is preserved.
+- **三尖瓣逆流（tricuspid regurgitation）**：S 波變短、減弱或反向。In tricuspid regurgitation, the S-wave is short, decreased, or reversed.
+- **右心衰竭（right-sided CHF）**：S 波保留。In right-sided heart failure, the S-wave is preserved.
 - **共同點為 A 波增強**：肝靜脈搏動性增加源自右側心臟異常，兩種情況皆因心房收收縮期逆流血流增加而使 A 波增強。Increased hepatic vein pulsatility is caused by a right-sided cardiac abnormality, with accentuation of the A-wave in both conditions.
-- **影像表現**：圖中以並列方式比較三尖瓣逆流與右心衰竭的肝靜脈波形，標示 accentuated A-wave，以及 short 與 preserved 的 D-wave。The figure compares hepatic vein waveforms in tricuspid regurgitation and right-sided CHF side by side, labeling the accentuated A-wave and the short versus preserved D-wave.
+- **影像表現**：圖中以並列方式比較三尖瓣逆流與右心衰竭的肝靜脈波形，標示 accentuated A-wave，以及 short 與 preserved 的 S-wave。The figure compares hepatic vein waveforms in tricuspid regurgitation and right-sided CHF side by side, labeling the accentuated A-wave and the short versus preserved S-wave.
 
 #### 肝靜脈 S 波（S-wave） / Hepatic Vein S-Wave
 
@@ -1161,17 +1161,6 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 
 ### Page 549 / 第二、三孕期胎頭測量 (Second and Third Trimester Head Measurements)
 
-#### 側腦室水滴狀擴大（Colpocephaly）與胼胝體發育不全 / Colpocephaly and Agenesis of the Corpus Callosum
-
-**側腦室水滴狀擴大（colpocephaly）** 是胼胝體（corpus callosum）發育不全的重要二級形態改變：側腦室呈水滴狀、枕角擴大，而腦室走向與大腦鐮刀（falx）平行。因為正常胼胝體在超聲上有時並不容易看到，所以胼胝體缺失往往必須依靠腦室系統的次級異常形態來診斷。 Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum; because the normal corpus callosum is not always visualized on ultrasound, the diagnosis often relies on secondary abnormal morphology of the ventricular system.
-
-**重點摘要**
-- **診斷上的困難與 CSP 缺失**：胼胝體缺失很難診斷，因為正常胼胝體在超聲上不一定看得到，常需依賴腦室系統的次級異常形態；透明隔腔（CSP）缺失與胼胝體發育不全相關。 Absence of the corpus callosum can be a difficult diagnosis to make; because the normal corpus callosum is not always visualized on ultrasound, it is often necessary to rely on secondary abnormal morphology of the ventricular system, and absence of the cavum septum pellucidum (CSP) is associated with agenesis of the corpus callosum.
-- **水滴狀側腦室形態**：側腦室呈異常水滴狀形態並伴隨枕角擴大，即 colpocephaly，與胼胝體發育不全相關，且常與腦室擴大（ventriculomegaly）同時出現。 Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum, and colpocephaly is often seen together with ventriculomegaly.
-- **額角分離與平行走向**：側腦室額角分離過寬，以及側腦室呈平行排列，兩者都提示胼胝體發育不全。 Widely separated ventricular frontal horns and parallel configuration of the lateral ventricles both suggest agenesis of the corpus callosum.
-- **Probst 束與中線囊腫**：Probst 束是正常構成胼胝體的軸突，胼胝體發育不全時不跨越中線，而沿大腦半球間裂平行走行並壓跡側腦室內側緣，連同扣帶回（cingulate gyrus）造成內側緣呈凹形；中線大腦半球間囊腫可存在，代表第三腦室向上疝出。 The medial borders of the lateral ventricles may be concave, due to protrusion of Probst bundles and the cingulate gyrus; in agenesis the Probst bundles do not cross the midline but pursue an aberrant course parallel to the interhemispheric fissure, indenting the medial margin of the lateral ventricles, and a midline interhemispheric cyst may represent superior herniation of the third ventricle.
-- **影像表現**：側腦室呈 colpocephalic 形態，枕角擴大呈水滴狀（以卡尺標示），側腦室內側緣呈凹形（以箭頭標示）代表 Probst 束的突出，腦室走向與大腦鐮刀平行。 The lateral ventricle has a colpocephalic configuration with a dilated teardrop-shaped occipital horn (calipers), a concave medial border (arrows) of the lateral ventricle representing protrusion of Probst bundles, and the ventricle oriented parallel to the falx.
-
 ![Page 549](/core_radiology/images/ultrasound/page-549.png)
 
 第二孕期與第三孕期的胎兒頭部測量是多項胎兒生長與發育評估的核心內容，其中**雙頂徑（Biparietal Diameter, BPD）** 是最常使用的測量參數之一。BPD的標準測量方式為從**靠近探頭側的顱骨外緣（Outer edge）** 到**遠離探頭側的顱骨內緣（Inner edge）** 的測量，簡稱為**外─內（Outer-to-Inner, OO）** 法或「從外到內」法。此測量方法與胎頭的形狀（無論是圓形還是橢圓形）無關，且能準確反映大腦發育空間的實際大小。測量BPD時，應選擇在丘腦（Thalamus）水平的中軸切面，並確保顯示透明隔腔（Cavum septum pellucidum, CSP）與丘腦結構。值得注意的是，BPD與頭圍（Head Circumference, HC）在生長評估中各有價值：當胎頭形狀異常（例如因頭顱骨的軟骨發育不良導致）時，頭圍較BPD更為可靠。
@@ -1309,6 +1298,17 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 - **背側囊（Dorsal Cyst）**：與 monoventricle 相通的大型囊性結構
 - **Trisomy 13（Patau 症候群）**：HPE 最常見的相關染色體異常，佔 HPE 病例 50–75%
 - **無腦畸形（Alobar HPE）**：HPE 最嚴重類型，單一腦室、背側囊與嚴重中線畸形
+
+#### 側腦室水滴狀擴大（Colpocephaly）與胼胝體發育不全 / Colpocephaly and Agenesis of the Corpus Callosum
+
+**側腦室水滴狀擴大（colpocephaly）** 是胼胝體（corpus callosum）發育不全的重要二級形態改變：側腦室呈水滴狀、枕角擴大，而腦室走向與大腦鐮刀（falx）平行。因為正常胼胝體在超聲上有時並不容易看到，所以胼胝體缺失往往必須依靠腦室系統的次級異常形態來診斷。 Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum; because the normal corpus callosum is not always visualized on ultrasound, the diagnosis often relies on secondary abnormal morphology of the ventricular system.
+
+**重點摘要**
+- **診斷上的困難與 CSP 缺失**：胼胝體缺失很難診斷，因為正常胼胝體在超聲上不一定看得到，常需依賴腦室系統的次級異常形態；透明隔腔（CSP）缺失與胼胝體發育不全相關。 Absence of the corpus callosum can be a difficult diagnosis to make; because the normal corpus callosum is not always visualized on ultrasound, it is often necessary to rely on secondary abnormal morphology of the ventricular system, and absence of the cavum septum pellucidum (CSP) is associated with agenesis of the corpus callosum.
+- **水滴狀側腦室形態**：側腦室呈異常水滴狀形態並伴隨枕角擴大，即 colpocephaly，與胼胝體發育不全相關，且常與腦室擴大（ventriculomegaly）同時出現。 Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum, and colpocephaly is often seen together with ventriculomegaly.
+- **額角分離與平行走向**：側腦室額角分離過寬，以及側腦室呈平行排列，兩者都提示胼胝體發育不全。 Widely separated ventricular frontal horns and parallel configuration of the lateral ventricles both suggest agenesis of the corpus callosum.
+- **Probst 束與中線囊腫**：Probst 束是正常構成胼胝體的軸突，胼胝體發育不全時不跨越中線，而沿大腦半球間裂平行走行並壓跡側腦室內側緣，連同扣帶回（cingulate gyrus）造成內側緣呈凹形；中線大腦半球間囊腫可存在，代表第三腦室向上疝出。 The medial borders of the lateral ventricles may be concave, due to protrusion of Probst bundles and the cingulate gyrus; in agenesis the Probst bundles do not cross the midline but pursue an aberrant course parallel to the interhemispheric fissure, indenting the medial margin of the lateral ventricles, and a midline interhemispheric cyst may represent superior herniation of the third ventricle.
+- **影像表現**：側腦室呈 colpocephalic 形態，枕角擴大呈水滴狀（以卡尺標示），側腦室內側緣呈凹形（以箭頭標示）代表 Probst 束的突出，腦室走向與大腦鐮刀平行。 The lateral ventricle has a colpocephalic configuration with a dilated teardrop-shaped occipital horn (calipers), a concave medial border (arrows) of the lateral ventricle representing protrusion of Probst bundles, and the ventricle oriented parallel to the falx.
 
 ---
 
