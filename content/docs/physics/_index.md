@@ -400,6 +400,17 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 
 ## 輻射生物學 (Radiation Biology)
 ![Page 863](/core_radiology/images/physics/page-863.png)
+#### 急性皮膚反應的劑量閾值 / Acute Skin Reaction Dose Thresholds
+
+**急性皮膚反應（acute skin reaction）** 與皮膚劑量（skin dose）密切相關：6 Gy 造成明顯紅斑（robust erythema），脫屑（desquamation）可在照射後 4 週開始，15 Gy 則造成濕性脫屑（moist desquamation）。 Acute skin reactions are dose-dependent: robust erythema is seen at 6 Gy, desquamation may begin 4 weeks after exposure, and 15 Gy produces moist desquamation.
+
+**重點摘要**
+- **紅斑與脫屑**：6 Gy 造成明顯紅斑（robust erythema）；脫屑可在照射後 4 週開始，15 Gy 造成濕性脫屑（moist desquamation）。Robust erythema at 6 Gy; desquamation may begin 4 weeks after exposure, and 15 Gy causes moist desquamation.
+- **脫毛**：脫毛（epilation）約在照射後 3 週發生，3 Gy 造成暫時性脫毛，7 Gy 造成永久性脫毛。Epilation occurs after about 3 weeks; 3 Gy causes temporary epilation and 7 Gy causes permanent epilation.
+- **血管損傷與晚期效應**：皮膚劑量 >20 Gy 時預期會有血管損傷；潰瘍與色素脫失是因真皮損傷所致的晚期效應。Vascular damage is expected for skin doses >20 Gy; ulceration and depigmentation are late effects due to dermal damage.
+- **生殖與遺傳效應**：輻射可造成男性或女性不孕，男性在 >0.15 Gy 後出現暫時性不孕，女性在 >3.5 Gy 後出現永久性不孕與提早絕經；倍數劑量（doubling dose）是使族群自發性突變率加倍所需的劑量，約為 1 Gy 給予族群中的每一位成員，個人遺傳效應的風險約為每 Sv 0.2%，例如性腺劑量 100 mSv 的遺傳效應風險 = 0.2% * 0.1 Sv = 0.02%。Sterility can be caused in males or females; males show temporary sterility after >0.15 Gy, while females develop permanent sterility and early menopause after >3.5 Gy; the doubling dose is the dose required to double the spontaneous mutation rate when applied to a population, approximately 1 Gy given to each member of the population, and the risk of hereditary effects (for an individual) is thought to be approximately 0.2% per Sv, so that the risk of a hereditary effect from a gonad dose of 100 mSv = 0.2% * 0.1 Sv = 0.02%.
+- **全身輻射致死劑量**：LD 50/X 表示在 X 天內殺死 50% 族群的致死劑量，例如 LD 50/60 會在 60 天內殺死 50% 的族群；3–4 Gy 為 LD 50/60（造血系統衰竭），10 Gy 為 LD 50/5（胃腸道黏膜剝落，其中小腸最敏感），100 Gy 為 LD 50/2（腦血管症候群）。Terminology: LD 50/X = lethal dose that kills 50% of the population in X days; for instance, an LD 50/60 will kill 50% of the population in 60 days; 3–4 Gy is LD 50/60 due to failure of the hematopoietic system, 10 Gy is LD 50/5 due to denuding of the GI tract lining (small bowel most sensitive), and 100 Gy is LD 50/2 due to cerebrovascular syndrome.
+
 
 ### DNA 損傷 (DNA Damage)
 
@@ -611,6 +622,18 @@ PRF 是探頭每秒輸出超聲波脈衝的次數。PRF 增加會導致回波接
 
 ### 品質控制 (Quality Control)
 ![Page 872](/core_radiology/images/physics/page-872.png)
+#### 時間 t 與核醫計算參數 / Elapsed Time and Nuclear Medicine Parameters
+
+時間 t（elapsed time）表示經過的時間，並用於隨時間變化的核醫計算。累積活度（cumulative activity）是隨時間發生的核衰變總數，也就是衰變曲線下的面積；其公式為 1.44 × f × A0 × TE。有效半衰期（effective half-life）同時考量放射性核種本身的物理半衰期與生物清除。 The symbol t denotes elapsed time and is used in time-dependent nuclear medicine calculations. Cumulative activity is the total number of nuclear decays over time, represented by the area under the decay curve, and is calculated as 1.44 × f × A0 × TE. Effective half-life accounts for both the intrinsic physical half-life of the radionuclide and biological clearance.
+
+**重點摘要**
+
+- **時間與累積活度**：t 代表經過的時間；累積活度是隨時間發生的核衰變總數，等於衰變曲線下的面積，公式為 1.44 × f × A0 × TE。The symbol t represents elapsed time; cumulative activity is the total number of nuclear decays over time, equals the area under the decay curve, and is calculated as 1.44 × f × A0 × TE.
+- **公式中的參數**：f 為攝取分率（fractional uptake），未明確說明時假定為 1；A0 為初始活度（initial activity），TE 為有效半衰期。The parameter f is fractional uptake and is assumed to be 1 unless explicitly stated otherwise; A0 is initial activity, and TE is effective half-life.
+- **有效半衰期**：有效半衰期是放射性核種在器官內的半衰期，同時考量物理半衰期與生物清除；其關係式為 1/TE = 1/TB + 1/T1/2，其中 TB 為生物半衰期，T1/2 為物理半衰期。Effective half-life is the half-life of a radionuclide within an organ and accounts for physical half-life and biological clearance; the relationship is 1/TE = 1/TB + 1/T1/2, where TB is biologic half-life and T1/2 is physical half-life.
+- **系統解析度**：系統解析度（system resolution）同時考量閃爍攝影機未裝準直儀時的固有解析度與準直儀解析度，公式為 R = √(Ri² + Rc²)，其中 Ri 為固有解析度，Rc 為準直儀解析度。System resolution accounts for the intrinsic resolution of the scintillation camera without a collimator and the collimator resolution; R = √(Ri² + Rc²), where Ri is intrinsic resolution and Rc is collimator resolution.
+- **品質控制**：劑量校正器（dose calibrator）的恆常性每日以半衰期 30 year 的 137Cs 測試，線性度每季以 99mTc 衰變測試，準確度每年以校準源測試；這些是劑量校正器而非影像系統的測試。影像系統（imaging system）的均勻度每日以 Co-57 測試。Dose calibrator constancy is tested daily with 137Cs, which has a 30 year half-life; linearity is tested quarterly with 99mTc decay, and accuracy is tested annually with a calibrated source; these test the dose calibrator, not the imaging system. Imaging-system uniformity is tested daily with Co-57.
+
 
 | 儀器 | 測試項目 | 頻率 | 使用核種 |
 |------|---------|------|---------|

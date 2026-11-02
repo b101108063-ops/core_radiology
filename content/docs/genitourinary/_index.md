@@ -2438,6 +2438,17 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 > - MRI 矢狀位和冠狀位可清晰顯示憩室與尿道的關係
 
 ![Page 198](/core_radiology/images/genitourinary/page-198.png)
+#### 前列腺分區解剖與 MRI / Prostate Zonal Anatomy and MRI
+
+**前列腺（prostate）** 在影像學上可於 MRI 分辨為兩個組成部分：周邊區（peripheral zone）與中央腺體（central gland）。所謂中央腺體，同時包含中央區（central zone）與過渡區（transition zone），因為兩者在 MRI 上無法區分。年輕男性的中央腺體主要由中央區組成；隨著良性前列腺增生（benign prostatic hyperplasia）發展，過渡區逐漸增大，使老年男性的中央腺體以過渡區為主。 From an imaging standpoint, there are two components of the prostate that can be resolved on MRI: the peripheral zone and the central gland, and the central gland refers to both the central zone and the transition zone, as they cannot be distinguished on MRI; in younger men the central gland is composed mostly of the central zone, while the transition zone enlarges as benign prostatic hyperplasia develops, so the central gland becomes predominantly composed of transition zone in older males.
+
+**重點摘要**
+- **前列腺癌的典型 MRI 表現**：T2 加權影像上，周邊區的高訊號背景中出現 T2 低訊號區域。The typical MRI appearance of prostate cancer is a T2 hypointense region within the T2 hyperintense peripheral zone.
+- **MRI 的定位與限制**：MRI 以 T2 加權序列可清楚描出前列腺分區解剖（中央腺體與周邊區），直腸內線圈可增強影像；但因成本高且敏感度與特異度低，MRI 不適合作為篩檢工具。MRI is able to clearly delineate the prostatic zonal anatomy with T2-weighted sequences, and imaging is enhanced with an endorectal coil; however, MRI is inappropriate for screening due to cost and low sensitivity and specificity.
+- **漏診因素**：部分癌症在 T2 加權影像上並非低訊號，中央區癌症在 T2 加權影像上難以偵測，若周邊區本身不是 T2 高訊號，腫瘤的顯影度也會下降。MRI may not detect all prostate cancer: some cancer is not hypointense on T2-weighted images, central zone cancers are difficult to detect on T2-weighted images, and cancer conspicuity is decreased if the peripheral zone is not T2 hyperintense.
+- **特異性與進階技術**：周邊區 T2 低訊號的鑑別診斷包括攝護腺炎（prostatitis）、出血（hemorrhage）及抗雄性激素治療（androgen-deprivation therapy）造成的退行性變化；磁波波譜分析（MRI spectroscopy）、動態對比增強（dynamic contrast-enhanced imaging）與擴散成像（diffusion imaging）等進階技術可提高特異性。MRI is also not specific: the differential diagnosis of a region of peripheral zone T2 hypointensity includes prostatitis, hemorrhage, and involutional changes from androgen-deprivation therapy; advanced MRI techniques such as MRI spectroscopy, dynamic contrast-enhanced imaging, and diffusion imaging may increase specificity.
+- **進階技術的典型表現**：波譜可見膽鹼（choline）升高與檸檬酸鹽（citrate）降低；動態對比增強顯示腫瘤相對周邊區提早強化；擴散成像則通常呈現受限擴散。MRI spectroscopy of prostate cancer may show elevated choline and depressed citrate peaks compared to normal prostate; dynamic contrast-enhanced MRI typically shows prostate cancer to have early enhancement relative to the peripheral zone; and prostate cancer typically shows restricted diffusion.
+
 
 ## 前列腺 MRI / MRI of the Prostate
 
@@ -2588,9 +2599,43 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ![Page 200](/core_radiology/images/genitourinary/page-200.png)
 ![Page 201](/core_radiology/images/genitourinary/page-201.png)
 ![Page 202](/core_radiology/images/genitourinary/page-202.png)
+
+#### 子宮平滑肌瘤（纖維瘤）/ Uterine Leiomyoma (Fibroids)
+
+**平滑肌瘤（leiomyoma）**，俗稱纖維瘤（fibroid），是極常見的良性平滑肌腫瘤，影響高達 40% 的育齡女性。纖維瘤常為多發，依位置可分為肌壁間（intramural，位於子宮肌層壁內）、黏膜下（submucosal，緊鄰子宮內膜黏膜之下）與漿膜下（subserosal，緊鄰子宮外側漿膜之下）三種。 A leiomyoma, commonly known as a fibroid, is an extremely common benign tumor of smooth muscle, which affects up to 40% of reproductive-age women; fibroids are often multiple and may be intramural (within the myometrial wall), submucosal (directly underneath the endometrial mucosa), or subserosal (directly underneath the outer uterine serosa).
+
+**重點摘要**
+- **影像表現**：小纖維瘤因平滑肌緊密而於 T2 加權影像呈低訊號，但囊狀變性或黏液樣變性可使 T2 訊號不均勻地升高；脂肪樣變性（carneous）或出血性變性則可在 T1 加權影像呈高訊號。Small leiomyomas are hypointense on T2-weighted images due to compact smooth muscle; however, cystic or myxoid degeneration may increase T2 signal heterogeneously; carneous or hemorrhagic degeneration may appear hyperintense on T1-weighted images.
+- **影像表現（圖）**：矢狀位 T2 加權（左圖）與對比增強矢狀位 T1 加權脂肪抑制 MRI（右圖）顯示多發纖維瘤，最大者為一顆優勢性肌壁間纖維瘤，另有其他較小的肌壁間纖維瘤，以及單顆黏膜下與漿膜下纖維瘤。Submucosal, subserosal, and intramural fibroids: sagittal T2-weighted (left image) and post-contrast sagittal T1-weighted fat suppressed MRI shows numerous fibroids, with the largest a dominant intramural fibroid, with other smaller intramural fibroids in addition to single submucosal and subserosal fibroids.
+- **惡性變化**：惡性平滑肌肉瘤（leiomyosarcoma）非常罕見，可從頭發生（de-novo）或由纖維瘤惡性變化而來；影像上除非出現明確惡性行為（例如侵犯鄰近構造或轉移），否則無法可靠區分平滑肌瘤與平滑肌肉瘤，在沒有明顯惡性影像所見時，外觀異常的纖維瘤極可能只是變性的良性纖維瘤。Malignant leiomyosarcoma is very rare and may arise de-novo or from malignant degeneration of a fibroid; imaging cannot reliably differentiate between leiomyoma and leiomyosarcoma unless clearly malignant behavior is identified such as invasion of adjacent structures or metastases; in the absence of obvious malignant imaging findings, an unusual-looking fibroid is overwhelmingly likely to represent a degenerating benign fibroid rather than a leiomyosarcoma.
+- **治療規劃與陷阱**：MRI 常在子宮動脈栓塞（uterine artery embolization, UAE）前用於治療規劃，但出血性或壞死性平滑肌瘤對 UAE 效果不佳，此類病例以手術肌瘤切除或子宮切除為優先；此外若存在卵巢動脈與子宮動脈的吻合（ovarian–uterine artery anastomosis），UAE 成功的機會也較低。MRI is often performed for treatment planning prior to uterine artery embolization; hemorrhagic or necrotic leiomyomas are not treated effectively by UAE, and surgical myomectomy or hysterectomy would be the preferred treatment in these cases; additionally, there is less chance of UAE success if an ovarian–uterine artery anastomosis is present.
+- **鑑別診斷**：子宮收縮（uterine contraction）可能模仿平滑肌瘤。A uterine contraction may mimic a leiomyoma.
 ![Page 203](/core_radiology/images/genitourinary/page-203.png)
 ![Page 204](/core_radiology/images/genitourinary/page-204.png)
 ![Page 205](/core_radiology/images/genitourinary/page-205.png)
+
+#### 隔膜子宮（Septate uterus） / Septate Uterus
+
+**隔膜子宮（septate uterus）** 與雙角子宮（bicornuate uterus）同為最常見的子宮異常，可用 MRI 加以區別。隔膜子宮的成因是融合的苗勒管（Müllerian ducts）之隔膜未完全吸收（incomplete resorption of the septum of fused Müllerian ducts）。 Septate uterus and bicornuate uterus are the most common uterine anomalies, which may be differentiated by MRI; a septate uterus is caused by incomplete resorption of the septum of fused Müllerian ducts.
+
+**重點摘要**
+- **定義**：隔膜子宮只有單一外部子宮底（fundus），但有一個纖維性或肌性隔膜將兩個子宮內膜腔分隔開來。A septate uterus has a single external fundus but a fibrous or muscular septation dividing two endometrial canals.
+- **不孕**：隔膜子宮女性的不孕比雙角子宮更常見。Infertility is more common in women with septate uterus compared to bicornuate uterus.
+- **治療**：子宮成形術（metroplasty，切除隔膜）在隔膜為纖維性時可經子宮鏡（hysteroscopically）進行，若隔膜為肌性則需經開腹途徑。Metroplasty (resection of the septum) can be performed hysteroscopically if the septum is fibrous, or via an open approach if the septum is muscular.
+- **與雙角子宮的鑑別**：相較於隔膜子宮，雙角子宮的子宮底向內凹陷 >15 mm，隔膜子宮則為連續而凸起的子宮底。In contrast to a septate uterus, the fundus of a bicornuate uterus pinches inwards >15 mm, whereas the septate uterus has a continuous convex fundus.
+- **影像表現**：子宮輸卵管造影（hysterosalpingogram，左圖）顯示共用的下段子宮內膜腔分成兩個獨立的子宮內膜腔（黃色箭頭），此 HSG 表現並不具特異性，可能代表隔膜子宮或雙角子宮；可見雙側腹腔內對比劑外溢，證明輸卵管通暢。軸位 T2 MRI（右圖）同樣顯示分開的子宮內膜腔，但外側肌層已融合，形成連續而凸起的子宮底。Septate uterus: hysterosalpingogram (left image) shows a common lower endometrial cavity that splits to form two separate endometrial cavities (yellow arrows); this appearance on HSG is nonspecific and may represent either a septate or bicornuate uterus; there is bilateral intraperitoneal spillage of contrast, confirming normal patent fallopian tubes; axial T2 MRI (right image) also shows the split endometrial canal; however, the outer myometrium has fused, yielding a continuous convex fundus.
+- **分類參考**：苗勒管異常的美國生殖醫學會（American Fertility Society）分類已於超音波章節討論。The American Fertility Society classification of Müllerian duct anomalies is discussed in the ultrasound section.
+
+#### 雙角子宮（Bicornuate uterus） / Bicornuate Uterus
+
+**雙角子宮（bicornuate uterus）** 與隔膜子宮（septate uterus）同為最常見的子宮異常，可用 MRI 加以區別。雙角子宮的成因是苗勒管（Müllerian ducts）未完全融合（incomplete fusion of the Müllerian ducts）。 A bicornuate uterus and a septate uterus are the most common uterine anomalies, which may be differentiated by MRI; a bicornuate uterus is due to incomplete fusion of the Müllerian ducts.
+
+**重點摘要**
+- **定義**：雙角子宮描述的是部分分裂的子宮，具有兩個獨立的子宮底（uterine fundi）；相較於隔膜子宮，雙角子宮的子宮底向內凹陷 >15 mm。A bicornuate uterus describes a partially split uterus with two separate uterine fundi; in contrast to a septate uterus, the fundus of a bicornuate uterus pinches inwards >15 mm.
+- **治療**：若需治療，子宮成形術（metroplasty）必須經腹膜外（transabdominally）進行，較子宮鏡下子宮成形術更具侵入性。If treated, metroplasty must be performed transabdominally, which is a more invasive procedure compared to hysteroscopic metroplasty.
+- **影像表現**：軸位（左圖）與冠狀位 T2 加權 MRI（右圖）顯示兩個獨立的子宮內膜腔（黃色箭頭），並有明確的外部子宮底裂隙（紅色箭頭）；另有兩個獨立的子宮頸（雙頸，bicollis；藍色箭頭），共用共同肌層。Bicornuate, bicollis uterus: axial (left image) and coronal T2-weighted MRI (right image) shows two separate endometrial canals (yellow arrows) with a definite external fundal cleft (red arrow); there are two separate cervices (bicollis; blue arrows), which share a common myometrium.
+- **與隔膜子宮的鑑別**：隔膜子宮只有單一外部子宮底，但由纖維性或肌性隔膜將兩個子宮內膜腔分隔；雙角子宮則有兩個獨立的子宮底。 A septate uterus has a single external fundus but a fibrous or muscular septation dividing two endometrial canals, whereas a bicornuate uterus has two separate uterine fundi.
+- **分類參考**：苗勒管異常的美國生殖醫學會（American Fertility Society）分類已於超音波章節討論。The American Fertility Society classification of Müllerian duct anomalies is discussed in the ultrasound section.
 ![Page 206](/core_radiology/images/genitourinary/page-206.png)
 ![Page 207](/core_radiology/images/genitourinary/page-207.png)
 ![Page 208](/core_radiology/images/genitourinary/page-208.png)

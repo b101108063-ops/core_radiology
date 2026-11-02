@@ -1364,6 +1364,17 @@ Coronary CT angiography Evidence for using coronary CT to evaluate for ischemic 
 ![Page 693](/core_radiology/images/cardiovascular/page-693.png)
 ![Page 694](/core_radiology/images/cardiovascular/page-694.png)
 ![Page 695](/core_radiology/images/cardiovascular/page-695.png)
+
+#### 兒茶酚胺誘發性心肌病（Catecholamine induced cardiomyopathy） / Catecholamine-Induced Cardiomyopathy
+
+**兒茶酚胺誘發性心肌病（catecholamine induced cardiomyopathy）** 又稱 Takotsubo 心肌病（takotsubo cardiomyopathy）或心碎症候群（broken heart syndrome），臨床上可模仿急性心肌梗塞（acute myocardial infarction）。典型發生於急性情緒壓力（acute emotional stress）情境下的年長女性，可表現為胸痛、心電圖異常與心肌酵素升高，而心導管檢查（cardiac catheterization）結果正常。 Catecholamine induced cardiomyopathy, also known as takotsubo cardiomyopathy and broken heart syndrome, can clinically mimic acute myocardial infarction; it typically affects older women in the setting of acute emotional stress and can present with chest pain, abnormal ECG, and elevation of cardiac enzymes, while cardiac catheterization is normal.
+
+**重點摘要**
+- **影像表現**：心臟 CT 的 3D 體積重建影像（去除心肌後）顯示左心室心尖部明顯氣球樣膨大（箭頭所示），而冠狀動脈正常。Imaging appearance: a 3D volume rendered image from a cardiac CT (with the myocardium removed) demonstrates marked ballooning of the left ventricular apex (arrows), and the coronary arteries are normal.
+- **心臟 MRI 或冠狀動脈 CT**：可見心尖部典型的心尖氣球樣膨大，心臟形狀類似日本章魚壺（takotsubo），故名 takotsubo；MRI 無異常延遲顯影（no abnormal delayed enhancement）。On cardiac MRI or coronary CT, there is a characteristic ballooning of the cardiac apex; the shape of the heart is similar to a Japanese octopus pot, hence the name takotsubo, and there is no abnormal delayed enhancement on MRI.
+- **臨床表現模仿急性心肌梗塞**：典型為胸痛、心電圖異常與心肌酵素升高，但心導管檢查正常。Clinical presentation mimics acute myocardial infarction: chest pain, abnormal ECG, and elevation of cardiac enzymes, with normal cardiac catheterization.
+- **典型族群**：多見於急性情緒壓力下的年長女性；原書提出男性亦可能罹患但通常未能存活，可能與雌激素（estrogen）的保護作用有關。Typical population: it mostly affects older women under acute emotional stress; the source proposes that men may also be affected but typically do not survive, possibly reflecting a protective effect of estrogen.
+- **多為自限性病程**：兒茶酚胺誘發性心肌病通常為自限性（self-limited）。It is typically self-limited: catecholamine induced cardiomyopathy is typically a self-limited condition.
 ![Page 696](/core_radiology/images/cardiovascular/page-696.png)
 ![Page 697](/core_radiology/images/cardiovascular/page-697.png)
 ![Page 698](/core_radiology/images/cardiovascular/page-698.png)

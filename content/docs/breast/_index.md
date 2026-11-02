@@ -336,6 +336,16 @@ BI-RADS 為超音箱上的腫塊描述提供標準化框架。評估包括：**�
 ### 多發性實性腫塊 / Multiple Solid Masses
 
 ![Page 637](/core_radiology/images/breast/page-637.png)
+#### 多發性皮脂囊腫症（Steatocystoma multiplex） / Steatocystoma Multiplex
+
+**多發性皮脂囊腫症（steatocystoma multiplex）** 是一種罕見的自體顯性遺傳疾病（autosomal dominant disease），由多發的真皮內油脂囊腫（multiple intradermal oil cysts）所組成。當覆蓋乳房的皮膚受累時，乳房攝影（mammography）可見無數的脂肪密度腫塊（fat-density masses）。 Steatocystoma multiplex is a rare, autosomal dominant disease of multiple intradermal oil cysts; when the skin over the breasts is involved, mammography shows innumerable fat-density masses.
+
+**重點摘要**
+- **罕見的自體顯性遺傳疾病**：由多發真皮內油脂囊腫構成，屬罕見的體染色體顯性遺傳性疾患。Rare autosomal dominant disease: it consists of multiple intradermal oil cysts and is a rare autosomal dominant condition.
+- **影像表現**：乳房表面皮膚受累時，乳房攝影可見無數脂肪密度腫塊，這是本病在影像上的代表性表現。Imaging appearance: when the skin over the breasts is involved, mammography shows innumerable fat-density masses, the characteristic imaging finding of this entity.
+- **臨床提示**：此類脂肪密度腫塊是「多發性實性腫塊」的鑑別診斷之一，須與其他多發性乳房腫塊一併考量。Clinical note: such fat-density masses form part of the differential diagnosis of multiple solid masses of the breast and should be considered alongside other causes of multiple breast masses.
+- **皮下結節為基礎**：本病的病灶位於真皮內，因此與皮下脂肪性腫塊的分布一致，影像上呈現為脂肪密度。Subcutaneous nodular basis: the lesions lie within the dermis, consistent with the distribution of subcutaneous fat-containing masses, and therefore appear fat density on imaging.
+
 
 **多發性導管內乳頭狀瘤（Multiple Intraductal Papillomas）** 好發於年輕患者，與單發性乳頭狀瘤相比，傾向於更多外周分布和雙側性，常導致血性乳頭分泌物。
 

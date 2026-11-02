@@ -67,6 +67,15 @@ weight: 2
 ### 肝臟感染 / Hepatic Infection
 
 ![Page 101](/core_radiology/images/gi/page-101.png)
+#### 肝包蟲病（Echinococcal disease） / Echinococcal Disease
+
+**肝包蟲病（Echinococcal disease）** 是由攝入棘球蚴蟲（Echinococcus granulosus）的蟲卵所引起；此蟲在地中海流域（Mediterranean basin）為地方性流行，並與養羊業相關。蟲卵在體內可發育為包蟲囊（hydatid cyst）。肝臟包蟲病在影像上以囊狀病灶為主，其典型表現為界線清楚的低密度腫塊，內含漂浮膜（floating membrane）或子囊（daughter cyst）。 Hepatic echinococcal disease is caused by ingestion of the eggs of Echinococcus granulosus, which is endemic in the Mediterranean basin and associated with sheep-raising; echinococcal eggs can develop into hydatid cysts, and on CT a hydatid cyst is a well-defined hypoattenuating mass featuring a characteristic floating membrane or an associated daughter cyst.
+
+**重點摘要**
+- **肝包蟲病的超音波與 CT**：超音波（左圖）顯示肝臟上段一個以低回聲為主的複雜腫塊，其中含有高回聲的起伏膜（紅色箭頭）；對比劑增強 CT（右圖）顯示液體密度的囊性腫塊（黃色箭頭），內含起伏膜（紅色箭頭）。Hepatic echinococcus: ultrasound (left image) shows a complex, primarily hypoechoic mass in the superior aspect of the liver containing a hyperechoic undulating membrane (red arrow); contrast-enhanced CT (right image) shows a fluid-attenuating cystic mass (yellow arrows) containing an undulating membrane (red arrow).
+- **包蟲囊的典型 CT 表現**：界線清楚的低衰減腫塊，內含具特徵性的漂浮膜或子囊，周邊可見鈣化。On CT, a hydatid cyst is a well-defined hypoattenuating mass featuring a characteristic floating membrane or an associated daughter cyst; peripheral calcification may be present.
+- **感染途徑與流行病學**：由攝入蟲卵所致，棘球蚴蟲在 Mediterranean 流域為地方性流行，並與養羊業相關。The disease results from ingestion of eggs; Echinococcus granulosus is endemic in the Mediterranean basin and associated with sheep-raising.
+
 
 病毒性肝炎（viral hepatitis）患者的 CT 常為正常表現，也可能出現膽囊壁增厚或門脈週圍水腫等非特異性發現。Patients with viral hepatitis often have a normal CT scan. 全身性黴菌感染（如念珠菌症 Candidiasis）可經門脈血流散播至肝臟與脾臟，CT 顯示多發微小低密度微膿腫。
 
@@ -92,6 +101,16 @@ weight: 2
 ### 肝細胞癌 / Hepatocellular Carcinoma
 
 ![Page 103](/core_radiology/images/gi/page-103.png)
+#### 纖維層板型肝細胞癌（Fibrolamellar HCC） / Fibrolamellar HCC
+
+**纖維層板型肝細胞癌（fibrolamellar HCC）** 是肝細胞癌（hepatocellular carcinoma, HCC）的一個亞型，好發於沒有肝硬化的年輕病人。腫瘤在診斷時通常已經很大，但預後比典型 HCC 好；與典型 HCC 不同的是，纖維層板型 HCC 的甲型胎兒蛋白（AFP）並不會升高。 Fibrolamellar carcinoma is a subtype of HCC that occurs in young patients without cirrhosis; the tumor tends to be large when diagnosed but has a better prognosis than typical HCC, and unlike in HCC, AFP is not elevated.
+
+**重點摘要**
+- **MRI 表現**：MRI 顯示大型、質地不均勻的腫塊；其經典特徵是中央纖維化瘢痕（central scar），於 T1 加權與 T2 加權影像皆呈低訊號，與肝細胞病灶結節性增生（FNH）具有 T2 高訊號、延遲強化的瘢痕不同。On MRI, fibrolamellar HCC is a large, heterogeneous mass; a fibrotic central scar is classic, which is hypointense on T1- and T2-weighted images (in contrast, focal nodular hyperplasia features a T2 hyperintense scar that enhances late).
+- **包膜凹陷**：約 10% 的病例可見肝包膜凹陷（capsular retraction）。Capsular retraction may be seen in 10% of cases.
+- **沒有真正的包膜**：與 HCC 不同，纖維層板型亞型沒有包膜，但可見由周邊受壓縮的正常肝組織形成的偽包膜（pseudocapsule）。Unlike HCC, the fibrolamellar subtype does not have a capsule, although there may be a pseudocapsule of peripherally compressed normal hepatic tissue.
+- **預後與腫瘤標記**：診斷時腫瘤往往已很大，但預後優於典型 HCC，且 AFP 不會升高。The tumor tends to be large when diagnosed, but has a better prognosis than typical HCC; unlike in HCC, AFP is not elevated.
+
 
 肝細胞癌（HCC）是肝臟最常見的原發性腫瘤，肝硬化是其主要風險因子；在肝硬化或慢性肝炎患者身上發現的肝臟富血供腫瘤，應優先考慮 HCC。HCC is the most common primary liver tumor; cirrhosis is the major risk factor. A hypervascular liver mass in a patient with cirrhosis is HCC until proven otherwise.
 
@@ -105,6 +124,15 @@ weight: 2
 ### 肝臟轉移 / Hepatic Metastases
 
 ![Page 104](/core_radiology/images/gi/page-104.png)
+
+#### 上皮樣血管內皮瘤（Epithelioid hemangioendothelioma） / Epithelioid Hemangioendothelioma
+
+**上皮樣血管內皮瘤（epithelioid hemangioendothelioma）** 是一種罕見的血管性惡性腫瘤，其特徵為造成多發球形、位於肝包膜下（subcapsular）的腫塊，這些腫塊可以互相融合成片。個別腫塊可呈現暈狀（halo）或靶徵（target appearance）。上皮樣血管內皮瘤也是肝包膜凹陷的成因之一。 Epithelioid hemangioendothelioma is a rare vascular malignancy that characteristically causes multiple spherical subcapsular masses that can become confluent; individual masses may have a halo or target appearance, and epithelioid hemangioendothelioma is one cause of capsular retraction.
+
+**重點摘要**
+- **肝包膜凹陷的定義**：肝包膜凹陷是原本呈凸形的外側肝臟輪廓出現局部凹陷。Capsular retraction is a focal concavity of the normally convex external liver contour.
+- **肝包膜凹陷的鑑別診斷**：轉移性腫瘤（較常見於治療後）、纖維層板型肝細胞癌（佔纖維層板型 HCC 病例的 10%）、肝細胞癌（有報告但少見）、上皮樣血管內皮瘤、肝內膽管癌（intrahepatic cholangiocarcinoma），以及融合性肝纖維化（肝硬化造成的楔形纖維化，最常見於左肝葉內節或右肝葉前節）。The differential of capsular retraction includes metastatic tumor (more commonly post-treatment), fibrolamellar hepatocellular carcinoma (10% of cases of fibrolamellar HCC), hepatocellular carcinoma (capsular retraction has been reported but is uncommon), epithelioid hemangioendothelioma, intrahepatic cholangiocarcinoma, and confluent hepatic fibrosis (wedge-shaped fibrosis seen in cirrhosis, most commonly the medial segment of the left hepatic lobe or the anterior segment of the right hepatic lobe).
+- **多發病灶的形態**：多發球形肝包膜下腫塊，可彼此融合成片，個別病灶可呈暈狀或靶徵。Multiple spherical subcapsular masses that can become confluent; individual masses may have a halo or target appearance.
 
 大多數肝臟轉移為低血管性（hypovascular），在門脈期（portal venous phase）最容易偵測，這與 HCC 在動脈期（late arterial phase）最佳顯現形成對比。Most metastases are hypovascular and best appreciated on portal venous phase, in contrast to hypervascular HCC seen on late arterial phase.
 
@@ -155,6 +183,16 @@ weight: 2
 ### 肝臟血管疾病 / Vascular Liver Disease
 
 ![Page 108](/core_radiology/images/gi/page-108.png)
+
+#### 心臟性肝病（Cardiac hepatopathy） / Cardiac Hepatopathy
+
+**心臟性肝病（cardiac hepatopathy）** 是心臟衰竭、縮限性心包炎（constrictive pericarditis）或右側心臟瓣膜病所造成的被動性肝充血（passive hepatic congestion），最終可能導致肝硬化。影像上的線索包括肝靜脈與下腔靜脈（IVC）擴大，以及對比劑由右心房逆流進入 IVC 與肝靜脈。肝臟通常肥大並呈斑駁狀強化（mottled enhancement），而且通常伴有腹水。 Cardiac hepatopathy is passive hepatic congestion from heart failure, constrictive pericarditis, or right-sided valvular disease, which ultimately may lead to cirrhosis; imaging clues are enlarged hepatic veins and IVC, with reflux of intravenous contrast from the right atrium into the IVC and hepatic veins; the liver is typically enlarged and demonstrates mottled enhancement, and ascites is usually present.
+
+**重點摘要**
+- **致病原因**：心臟衰竭、縮限性心包炎與右側心臟瓣膜病都可造成被動性肝充血，長期可演變為肝硬化。Passive hepatic congestion arises from heart failure, constrictive pericarditis, or right-sided valvular disease, and may ultimately lead to cirrhosis.
+- **影像線索**：肝靜脈與下腔靜脈擴大，並可見對比劑由右心房逆流進入 IVC 與肝靜脈。Enlarged hepatic veins and IVC, with reflux of intravenous contrast from the right atrium into the IVC and hepatic veins.
+- **肝臟外觀與腹水**：肝臟通常肥大、呈斑駁狀強化，且通常有腹水。The liver is typically enlarged and demonstrates mottled enhancement; ascites is usually present.
+- **先天性囊性肝病變**：膽管錯構瘤（biliary hamartoma，即 von Meyenburg complex）是偶發的小型肝臟囊性病灶，與膽道樹不相通，源於胚胎期正常膽管形成的失敗，其大小通常較單純囊腫更小、形狀更不規則；體染色體顯性多囊肝疾病（ADPLD）則見於 40% 的體染色體顯性多囊腎疾病（ADPKD）病人，即使疾病嚴重，肝衰竭仍很少見，影像上全肝可見無數不強化的單純囊腫。Congenital cystic liver disease: biliary hamartomas (von Meyenburg complexes) are incidental small cystic hepatic lesions that do not communicate with the biliary tree, caused by embryologic failure of normal bile duct formation, and they tend to be smaller and more irregularly shaped than simple cysts; 40% of patients with autosomal dominant polycystic kidney disease (ADPKD) have a similar disease process in the liver called ADPLD, hepatic failure is rare even in severe disease, and imaging shows innumerable nonenhancing simple cysts throughout the liver.
 
 Budd-Chiari 症候群是肝靜脈出口阻塞，可由血栓性或非血栓性病因引起，包括血液凝固異常狀態、妊娠、口服避孕藥、惡性腫瘤、感染與創傷。Budd-Chiari is hepatic venous outflow obstruction that can be thrombotic or non-thrombotic. 急性 Budd-Chiari 的臨床三聯症包括：肝腫大、腹水與腹痛。
 
@@ -327,6 +365,15 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 ### 環狀胰臟與胰膽管合流異常 / Annular Pancreas and Common Channel Syndrome
 
 ![Page 121](/core_radiology/images/gi/page-121.png)
+#### Schwachman–Diamond 症候群（Schwachman–Diamond syndrome） / Schwachman–Diamond Syndrome
+
+**Schwachman–Diamond 症候群** 是一種罕見的遺傳性疾病，其特徵為胰臟瀰漫性脂肪取代（diffuse fatty replacement of the pancreas），並造成胰臟外分泌不足（pancreatic exocrine insufficiency）、中性球減少（neutropenia）與骨發育不良（bone dysplasia）。它是兒童胰臟萎縮（pancreatic atrophy）的第二常見原因。 Schwachman–Diamond is a rare inherited disorder characterized by diffuse fatty replacement of the pancreas, resultant pancreatic exocrine insufficiency, neutropenia, and bone dysplasia, and it is the second-most common cause of childhood pancreatic atrophy.
+
+**重點摘要**
+- **疾病組成**：胰臟瀰漫性脂肪取代，造成胰臟外分泌不足，並伴隨中性球減少與骨發育不良。Diffuse fatty replacement of the pancreas with resultant pancreatic exocrine insufficiency, accompanied by neutropenia and bone dysplasia.
+- **臨床意義**：為兒童胰臟萎縮的第二常見原因。It is the second-most common cause of childhood pancreatic atrophy.
+- **其他造成胰臟脂肪萎縮的原因**：肥胖（obesity）與外源性類固醇（steroids）使用都可造成胰臟的脂肪萎縮。Both obesity and steroids can cause fatty atrophy of the pancreas.
+
 
 環狀胰臟（annular pancreas）是一種罕見的先天性異常，胰臟組織完全環繞十二指腸，是由於腹側胰芽旋轉不完全所導致。Annular pancreas is a rare congenital anomaly where a portion of the pancreas wraps completely around the duodenum, secondary to incomplete rotation of the ventral pancreatic bud.
 
@@ -377,6 +424,15 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 ### 槽狀胰臟炎 / Groove Pancreatitis
 
 ![Page 125](/core_radiology/images/gi/page-125.png)
+
+#### 多脾症候群（Polysplenia syndrome） / Polysplenia Syndrome
+
+**多脾症候群（polysplenia syndrome）** 是一系列解剖異常的統稱，其特徵為除了多個散在的脾臟組織灶（discrete foci of splenic tissue）之外，還有某程度的內臟異位（visceral heterotaxia）。多個脾臟可以位於右側或左側，但永遠與胃在同一側。多脾症候群通常與嚴重的先天性心臟異常相關。 Polysplenia syndrome is a spectrum of anatomic disorders characterized by some degree of visceral heterotaxia in addition to multiple discrete foci of splenic tissue; multiple spleens may be on the right or left, but are always on the same side as the stomach, and polysplenia is usually associated with severe congenital cardiac anomalies.
+
+**重點摘要**
+- **預後**：多數病人於幼年早期即死亡，但少數僅有輕微心臟缺損者，可能於成人期偶然被發現。Most patients die in early childhood, but a few may have only minor cardiac defects and may be incidentally discovered as adults.
+- **靜脈異常**：常伴隨下腔靜脈中斷（interruption of the IVC），並以奇靜脈（azygos）或半奇靜脈（hemiazygos）延續；較少見的關聯為前十二指腸門靜脈（preduodenal portal vein）。Polysplenia is associated with venous anomalies including interruption of the IVC with azygos or hemiazygos continuation; a less common association is a preduodenal portal vein.
+- **游走脾（wandering spleen）**：游走脾的脾臟本身正常，只是固定它的韌帶附著異常鬆弛或缺如；臨床上可表現為腹部腫塊，或因扭轉（torsion）而造成急性腹痛。A wandering spleen is a normal spleen with abnormal laxity or absence of its fixed ligamentous attachments; it may present clinically as an abdominal mass or may cause acute abdominal pain secondary to torsion.
 
 槽狀胰臟炎（groove pancreatitis）是位於胰頭、十二指腸與膽總管之間槽溝的局灶性胰臟炎，好發於年輕重度饮酒男性。Groove pancreatitis is an uncommon form of focal pancreatitis of the groove between the pancreatic head, duodenum, and common bile duct, usually affecting young men who are heavy drinkers.
 
@@ -455,6 +511,15 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 ### 脾臟其他病灶 / Miscellaneous Splenic Lesions
 
 ![Page 130](/core_radiology/images/gi/page-130.png)
+#### Gamna–Gandy 小體（Gamna–Gandy bodies） / Gamna-Gandy Bodies
+
+**Gamna–Gandy 小體（Gamna–Gandy bodies）** 是門脈高壓（portal hypertension）所造成的多個微小血鐵質（hemosiderin）沉積灶。影像上通常還可見其他門脈高壓與肝硬化的徵象，例如脾臟腫大（splenomegaly）、靜脈曲張（varices）、臍靜脈再通（recanalized umbilical vein）、腹水與肝表面呈結節狀。 Gamna–Gandy bodies are multiple tiny foci of hemosiderin deposition resulting from portal hypertension, and other signs of portal hypertension and cirrhosis are usually apparent on imaging, such as splenomegaly, varices, recanalized umbilical vein, ascites, and nodular liver contour.
+
+**重點摘要**
+- **影像表現**：對比劑增強 T1 加權 MRI 顯示脾臟內散在分布的數個低訊號灶，病人同時具有肝硬化的證據（肝表面結節狀、脾臟腫大與靜脈曲張）。Gamna–Gandy bodies: contrast-enhanced T1-weighted MRI shows numerous hypointense foci scattered throughout the spleen in a patient with evidence of cirrhosis (nodular liver contour, splenomegaly, and varices).
+- **訊號特性**：血鐵質沉積在所有序列上均呈低訊號；在同相位（in-phase）與異相位（out-of-phase）梯度回波序列中，同相位影像因回波時間（TE）較長而出現 blooming 效應（同相位影像訊號相對下降），這是去相位時間較長以及 T2* 效應被放大的結果。The hemosiderin deposits demonstrate low signal on all sequences; on in- and out-of-phase gradient-echo sequences, the longer TE of the in-phase images demonstrate blooming (relatively decreased signal on in-phase images), due to longer dephasing time and exaggeration of T2* effect.
+- **背景病變**：影像上通常已可見門脈高壓與肝硬化的其他徵象，包括脾臟腫大、靜脈曲張、臍靜脈再通、腹水及肝表面結節狀。Other signs of portal hypertension and cirrhosis are usually apparent on imaging, including splenomegaly, varices, recanalized umbilical vein, ascites, and nodular liver contour.
+
 
 脾臟梗塞（splenic infarct）最常見的原因在老年患者為栓塞（emboli），年輕患者為血栓形成（thrombosis，特別是血液疾病患者）。Splenic infarcts are most commonly due to emboli in older patients and thrombosis in younger patients with hematologic disease.
 
@@ -518,6 +583,15 @@ IPMN（內視鏡乳頭狀黏液性腫瘤）最常見於老年男性，又稱「�
 ### 良性食道腫瘤 / Benign Esophageal Masses
 
 ![Page 135](/core_radiology/images/gi/page-135.png)
+#### 纖維血管性息肉（Fibrovascular polyp） / Fibrovascular Polyp
+
+**纖維血管性息肉（fibrovascular polyp）** 是一個帶柄（pedunculated）的腫塊，由間質成分（mesenchymal elements）構成並含有相當比例的脂肪。與食道腺瘤（esophageal adenoma）不同，它沒有惡性潛能（malignant potential）。纖維血管性息肉通常發生在頸段食道，臨床表現可能十分戲劇化，例如反流出一團肉樣的腫塊。 A fibrovascular polyp is a pedunculated mass composed of mesenchymal elements with a significant fatty component; in contrast to an esophageal adenoma, there is no malignant potential; fibrovascular polyps usually occur in the cervical esophagus, and the clinical presentation can be dramatic, with regurgitation of a fleshy mass.
+
+**重點摘要**
+- **CT 診斷**：CT 通常即可診斷，顯示病灶內含有脂肪成分。CT is usually diagnostic, demonstrating an intra-lesional fatty component.
+- **位置與惡性潛能**：通常位於頸段食道；與食道腺瘤不同，並無惡性潛能。Fibrovascular polyps usually occur in the cervical esophagus; in contrast to an esophageal adenoma, there is no malignant potential.
+- **臨床表現**：臨床上可出現反流出一團肉樣腫塊的戲劇性表現。The clinical presentation can be dramatic, with regurgitation of a fleshy mass.
+
 
 間質細胞瘤（GIST, gastrointestinal stromal tumor）是最常見的黏膜下腫瘤（submucosal tumor），其他包括平滑肌瘤（leiomyoma）、脂肪瘤（lipoma）與血管瘤（hemangioma）。Benign mesenchymal tumors are the most common submucosal tumors and include GIST, leiomyoma, lipoma, and hemangioma.
 
@@ -570,6 +644,18 @@ Zenker 憩室（Zenker diverticulum）是因環咽肌（cricopharyngeus muscle�
 ### 胃黏膜皺襞增厚 / Thickened Gastric Folds
 
 ![Page 140](/core_radiology/images/gi/page-140.png)
+
+#### 佐林格－艾里森症候群（Zollinger–Ellison syndrome） / Zollinger–Ellison Syndrome
+
+**佐林格－艾里森症候群（Zollinger–Ellison syndrome, ZE）** 是胃泌素瘤（gastrinoma）造成的胃泌素（gastrin）過度製造；胃泌素瘤是胰臟胰島細胞腫瘤（pancreatic islet cell tumor），其惡性比例達 50%。ZE 的特徵為胃泌素濃度升高，且在給予分泌素（secretin）後胃泌素反而呈現矛盾性的上升（paradoxical increase）。 Zollinger–Ellison syndrome is gastrin over-production from a gastrinoma, which is a pancreatic islet cell tumor that has a 50% rate of malignancy; ZE features an elevated gastrin level and a paradoxical increase in gastrin after secretin administration.
+
+**重點摘要**
+- **惡性比例**：胃泌素瘤屬於胰臟胰島細胞腫瘤，惡性比例為 50%。Gastrinoma is a pancreatic islet cell tumor that has a 50% rate of malignancy.
+- **分泌素試驗**：胃泌素濃度升高，且給予分泌素後胃泌素呈現矛盾性的上升。ZE features elevated gastrin and a paradoxical increase in gastrin after secretin administration.
+- **合併多發性內分泌腫瘤第一型**：25% 的胃泌素瘤病人合併多發性內分泌腫瘤第一型（MEN-1）；MEN-1 由甲旁腺腺瘤、腦下垂體腺瘤與胰臟胰島細胞腫瘤所組成。Twenty-five percent of patients with gastrinoma have multiple endocrine neoplasia (MEN) type 1, consisting of parathyroid adenoma, pituitary adenoma, and pancreatic islet cell tumors.
+- **其他發炎性原因造成的胃黏膜皺襞增厚**：嗜酸性胃炎（eosinophilic gastritis，胃與小腸黏膜皺襞增厚，病人有過敏病史）、Menetrier 疾病（蛋白流失性腸病，通常侵犯胃近端，病理上以壁細胞被增生上皮細胞取代而導致胃酸缺乏為特徵，與胃癌的關聯仍有爭議），以及胃部克隆氏病（幾乎都伴隨小腸疾病，通常侵犯胃的下半部，最早的病理變化為形成阿弗他潰瘍）。Other inflammatory causes of thickened gastric folds include eosinophilic gastritis (thickened folds in the stomach and small bowel in a patient with a history of allergy), Menetrier disease (a protein-losing enteropathy usually affecting the proximal stomach, characterized by replacement of parietal cells with hyperplastic epithelial cells leading to achlorhydria, with a controversial association with gastric carcinoma), and gastric Crohn disease (almost always associated with small bowel disease, usually affecting the distal half of the stomach, with aphthous ulceration as the earliest pathologic change).
+- **非發炎性原因**：胃靜脈曲張（來自門脈高壓）、胃淋巴瘤與黏膜下癌（submucosal carcinoma）都是造成胃黏膜皺襞增厚的非發炎性原因。Gastric varices (from portal hypertension), gastric lymphoma, and submucosal carcinoma are non-inflammatory causes of thickened gastric folds.
+- **胃息肉的分類**：增生性息肉（hyperplastic polyp，又稱發炎性息肉）是胃腺體的囊狀擴張，常因慢性發炎而產生，幾乎都是良性，僅有極少數惡性轉變的報告；腺瘤性息肉（adenomatous polyp）則是具有惡性潛能的腫瘤性息肉，若大於 2 cm 轉變為腺癌的風險升高，通常以內視鏡切片與息肉切除治療；胃底腺體息肉症（fundic gland polyposis syndrome）則是家族性腺瘤性息肉症候群的變異型，也侵犯胃部。Gastric polyps: a hyperplastic polyp (inflammatory polyp) is cystic dilation of a gastric gland that develops in response to chronic inflammation and is almost always benign, with very rare cases of malignant transformation; an adenomatous polyp is a neoplastic polyp with malignant potential and an elevated risk of malignant transformation to adenocarcinoma if >2 cm in size, usually treated with endoscopic biopsy and polypectomy; fundic gland polyposis syndrome is a variant of familial adenomatous polyposis syndrome that also involves the stomach.
 
 胃黏膜皺襞增厚最常見的原因是發炎性胃炎（inflammatory gastritis），特徵性表現為黏膜皺襞的平滑性增厚。Thickened gastric folds are most commonly due to inflammatory gastritis, characteristically producing smooth fold thickening.
 
@@ -764,6 +850,34 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 ### 大腸息肉症候群 / Polyposis Syndromes
 
 ![Page 155](/core_radiology/images/gi/page-155.png)
+#### 普特－傑格斯症候群（Peutz–Jeghers syndrome） / Peutz–Jeghers Syndrome
+
+**普特－傑格斯症候群（Peutz–Jeghers syndrome）** 是一種體染色體顯性遺傳（autosomal dominant）的症候群，其特徵為多發性錯構瘤性（hamartomatous）帶柄息肉，通常位於小腸。這些息肉可作為引導點（lead points），引起腸套疊（intussusception）。典型的皮膚表現是唇部與牙齦周圍黏膜皮膚的藍色／棕色色素斑。 Peutz–Jeghers is an autosomal dominant syndrome that features multiple hamartomatous pedunculated polyps, usually in the small bowel; these polyps may act as lead points and cause intussusception, and characteristic skin manifestations include perioral mucocutaneous blue/brown pigmented spots on the lips and gums.
+
+**重點摘要**
+- **息肉特性**：多發性錯構瘤性帶柄息肉，通常位於小腸。Multiple hamartomatous pedunculated polyps, usually in the small bowel.
+- **併發症**：息肉可作為引導點而引起腸套疊。These polyps may act as lead points and cause intussusception.
+- **皮膚表現**：唇部與牙齦周圍黏膜皮膚的藍色／棕色色素斑。Characteristic skin manifestations include perioral mucocutaneous blue/brown pigmented spots on the lips and gums.
+- **相關腫瘤**：與婦科腫瘤以及胃、十二指腸與大腸的惡性腫瘤相關。Peutz–Jeghers is associated with gynecologic neoplasms as well as gastric, duodenal, and colonic malignancies.
+
+#### 考登症候群（Cowden syndrome） / Cowden Syndrome
+
+**考登症候群（Cowden syndrome）** 是一種體染色體顯性遺傳的症候群，表現為多發性錯構瘤性息肉（multiple hamartomatous polyps），最常見於皮膚與外部黏膜（external mucous membranes），但也可見於胃腸道。 Cowden syndrome is an autosomal dominant syndrome of multiple hamartomatous polyps most commonly found in the skin and external mucous membranes, but also in the gastrointestinal tract.
+
+**重點摘要**
+- **遺傳方式**：屬體染色體顯性遺傳的症候群。It is an autosomal dominant syndrome.
+- **息肉分布**：多發性錯構瘤性息肉最常見於皮膚與外部黏膜，但也可出現在胃腸道。Multiple hamartomatous polyps are most commonly found in the skin and external mucous membranes, but also in the gastrointestinal tract.
+- **腫瘤風險**：甲狀腺癌（通常為濾泡型，follicular）的風險增加，另與皮膚、口腔、乳房與子宮的惡性腫瘤相關。Cowden syndrome is associated with an increased risk of thyroid cancer (usually follicular), as well as skin, oral, breast, and uterine malignancies.
+
+#### 克朗克海特－加拿大症候群（Cronkhite–Canada syndrome） / Cronkhite–Canada Syndrome
+
+**克朗克海特－加拿大症候群（Cronkhite–Canada syndrome）** 是一種非遺傳性（non-inherited）疾病，也是本列表中唯一不是體染色體顯性遺傳的息肉症候群，其特徵為整個胃腸道出現錯構瘤性息肉（hamartomatous polyps）。 Cronkhite–Canada is a non-inherited disorder—the only polyposis syndrome in this list that is not autosomal dominant—consisting of hamartomatous polyps throughout the gastrointestinal tract.
+
+**重點摘要**
+- **遺傳方式**：屬非遺傳性疾病，是本列表中唯一非體染色體顯性遺傳的息肉症候群。It is a non-inherited disorder; the only polyposis syndrome in this list that is not autosomal dominant.
+- **息肉分布**：錯構瘤性息肉散布於整個胃腸道。Hamartomatous polyps throughout the gastrointestinal tract.
+- **皮膚表現**：異常皮膚色素沉著（abnormal skin pigmentation）、禿髮（alopecia）與甲畸形（onychodystrophy，即指甲的畸形變化）。Cutaneous manifestations include abnormal skin pigmentation, alopecia, and onychodystrophy (malformation of the nails).
+
 
 家族性腺瘤性息肉病（FAP）是一種自體顯性遺傳症候群，特点是結腸與程度较輕的小腸有無數premalignant腺瘤性息肉。Familial adenomatous polyposis (FAP) is an autosomal-dominant syndrome featuring innumerable premalignant adenomatous polyps in the colon.
 
@@ -790,6 +904,16 @@ Roux-en-Y 胃繞道術（RYGB）是最常見的減重手術之一，其正常術
 ### 憩室炎 / Diverticulitis
 
 ![Page 157](/core_radiology/images/gi/page-157.png)
+
+#### 脂肪垂炎（Epiploic appendagitis） / Epiploic Appendagitis
+
+**脂肪垂炎（epiploic appendagitis）** 是由懸掛於結腸的正常脂肪垂（fatty tag）扭轉（torsion）所引起的良性疾病，臨床上會模仿憩室炎（diverticulitis）。其影像表現具有病徵性（pathognomonic）：一個橢圓形、呈脂肪密度的病灶緊鄰正常的結腸壁，並伴隨輕微的脂肪間質滲出（fat stranding）。橫斷面中央的高密度點代表脂肪垂內已血栓形成的中央靜脈。 Epiploic appendagitis is a benign clinical mimic of diverticulitis caused by torsion of a normal fatty tag hanging from the colon; it has a pathognomonic imaging appearance of an oval fat-attenuation lesion abutting a normal colonic wall, with mild associated fat stranding, and a central hyperdense dot in cross-section represents the thrombosed central vein of the epiploic appendage.
+
+**重點摘要**
+- **病灶特徵**：橢圓形、呈脂肪密度的病灶緊鄰正常的結腸壁，並有輕微的脂肪間質滲出。An oval fat-attenuation lesion abutting a normal colonic wall, with mild associated fat stranding.
+- **中央高密度點**：橫斷面影像中央的高密度點代表脂肪垂內已血栓形成的中央靜脈。A central hyperdense dot in cross-section represents the thrombosed central vein of the epiploic appendage.
+- **治療方式**：以抗發炎藥物（anti-inflammatories）治療，而非抗生素或手術。Treatment is with anti-inflammatories, not antibiotics or surgery.
+- **臨床定位**：屬於憩室炎的良性臨床模仿者，成因為結腸正常脂肪垂的扭轉。A benign clinical mimic of diverticulitis, caused by torsion of a normal fatty tag hanging from the colon.
 
 憩室炎（diverticulitis）是結腸憩室的微穿孔與急性炎症，CT 是診斷、分流與評估嚴重程度及併發症的主要工具。Diverticulitis is microperforation and acute inflammation of a colonic diverticulum; CT is the primary modality for diagnosis and evaluation of severity.
 

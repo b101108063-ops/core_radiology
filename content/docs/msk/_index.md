@@ -112,6 +112,16 @@ weight: 5
 
 ![Page 357](/core_radiology/images/msk/page-357.png)
 
+#### 膝關節骨關節炎的三個間室與判讀原則 / Osteoarthritis of the Knee: Compartments and Rule of Thumb
+
+**膝關節骨關節炎（osteoarthritis of the knee）** 有三個關節間室：內側與外側脛股間室（tibiofemoral compartments），以及髕股間室（patellofemoral compartment）。膝關節 OA 的典型模式是**內側脛股間室的不對稱性侵犯**，但嚴重的骨關節炎可同時侵犯三個間室。 The knee has three joint compartments: the medial and lateral tibiofemoral compartments and the patellofemoral compartment. The typical pattern for OA of the knee is asymmetrical involvement of the medial tibiofemoral compartment, and severe osteoarthritis can involve all three compartments.
+
+**重點摘要**
+- **骨刺決定有無 OA**：適用於一般 OA，膝關節尤其如此——骨刺（osteophytes）決定 OA 是否存在，而關節間隙狹窄（joint space narrowing）的程度決定 OA 的嚴重程度。Osteophytes determine whether OA is present; the degree of joint space narrowing determines the severity of OA.
+- **站立負重影像最佳**：脛股軟骨間隙狹窄的程度最好在站立負重（standing weight-bearing）影像上判讀，必要時再加拍屈曲位站立影像。The degree of tibiofemoral cartilage space narrowing is best determined on standing weight-bearing views, often on standing films in flexion.
+- **雙側侵犯很典型**：雙膝同時出現 OA 侵犯是典型表現，影像上可見雙側對稱性的變化。 Bilateral involvement of the knees is typical.
+- **影像表現**：站立正面 X 光可見內側脛股間室嚴重軟骨間隙狹窄、軟骨下骨硬化與骨刺形成。Osteoarthritis: standing frontal radiograph of the knee shows severe cartilage space narrowing, sclerosis, and osteophytosis of the medial tibiofemoral compartment.
+
 ## 手部骨關節炎 / Osteoarthritis in the Hand
 
 ## 好發部位（依發生率排序）/ Sites of Involvement
@@ -507,6 +517,17 @@ weight: 5
 > 7. **RA vs. OA 髖關節**：軸向移位 vs. 上外側移位
 
 ![Page 361](/core_radiology/images/msk/page-361.png)
+
+#### 膝關節類風濕關節炎與續發性骨關節炎 / Rheumatoid Arthritis of the Knee with Secondary Osteoarthritis
+
+**膝關節類風濕關節炎（rheumatoid arthritis of the knee）** 可同時侵犯內側、外側脛股與髕股三個關節間隙；相對地，骨關節炎（OA）傾向先侵犯**內側脛股關節（medial tibiofemoral articulation）**。若同時出現骨刺與**對稱性**軟骨間隙狹窄，就應考慮**續發性骨關節炎（secondary osteoarthritis）**。與 RA 常侵犯的小關節不同，**侵蝕（erosions）**並不是膝關節 RA 的顯著表現。 All three joint spaces (medial and lateral tibiofemoral and patellofemoral) may be affected by RA in the knee; in contrast, OA tends to first affect the medial tibiofemoral articulation. If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered. Unlike the smaller joints affected by rheumatoid arthritis, erosions are not a prominent manifestation of rheumatoid arthritis of the knee.
+
+**重點摘要**
+- **影像表現（RA 合併續發性 OA）**：雙膝前後位負重 X 光可見內側與外側脛股關節的軟骨間隙狹窄，其中外側脛股軟骨間隙狹窄更為明顯（黃色箭頭）；外側明顯的骨刺（紅色箭頭）表示續發性骨關節炎。Rheumatoid arthritis with secondary osteoarthritis: frontal PA weight-bearing view of the knees shows cartilage space narrowing of medial and lateral tibiofemoral articulations bilaterally; the lateral tibiofemoral cartilage spaces are more markedly narrowed (yellow arrows), and prominent osteophytes laterally (red arrows) signify secondary osteoarthritis.
+- **OA 與 RA 的侵犯順序**：OA 先侵犯內側脛股關節，RA 則可同時侵犯三個關節間隙。OA tends to first affect the medial tibiofemoral articulation, whereas RA may involve all three joint spaces.
+- **對稱性狹窄合併骨刺 → 續發性 OA**：若見骨刺與對稱性軟骨間隙狹窄，應考慮續發性骨關節炎。If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered.
+- **頸椎侵犯比例**：類風濕關節炎侵犯頸椎的比例可高達 70%，且病況越嚴重、發病越久侵犯率越高；胸椎與腰椎幾乎不受侵犯。The cervical spine is involved in up to 70% of patients, with increased involvement in more severe and long-standing disease, while the thoracic and lumbar spine are almost never involved.
+- **寰樞椎半脫位的判定**：前寰樞椎半脫位若寰樞齒距（atlanto-dental interval, ADI）>2.5 mm（兒童 >5 mm）即為陽性。Anterior atlantoaxial subluxation is present if the atlanto-dental interval (ADI) is >2.5 mm (>5 mm in children).
 
 ## 膝關節類風濕關節炎 / Rheumatoid Arthritis in the Knee
 
@@ -991,6 +1012,17 @@ weight: 5
 > 6. **Milwaukee Shoulder**：HADD 關節內型 → 肩關節快速破壞
 
 ![Page 366](/core_radiology/images/msk/page-366.png)
+
+#### CPPD 的軟骨鈣化：腕關節與膝關節 / Chondrocalcinosis of the Triangular Fibrocartilage Complex
+
+**CPPD（焦磷酸鈣結晶沉積症）** 的標誌性 X 光表現是**軟骨鈣化（chondrocalcinosis）**，也就是透明軟骨（hyaline）或纖維軟骨（meniscal）的鈣化。腕關節的軟骨鈣化好發於**三角纖維軟骨複合體（triangular fibrocartilage complex, TFCC）**，疾病進展可導致**舟月進階塌陷（scapholunate advanced collapse, SLAC）腕**。 The hallmark radiographic finding of CPPD disease is chondrocalcinosis, which is calcification of hyaline (articular) or fibro- (meniscal) cartilage. In the wrist, chondrocalcinosis tends to affect the triangular fibrocartilage complex (TFCC), and advanced disease may lead to scapholunate advanced collapse (SLAC) wrist.
+
+**重點摘要**
+- **SLAC 腕的定義**：SLAC 腕是頭狀骨（capitate）向近端移位、介於分離的舟狀骨（scaphoid）與月狀骨（lunate）之間；也可見於 RA 或外傷。SLAC wrist is proximal migration of the capitate between the dissociated scaphoid and lunate, and may also be seen in RA or trauma.
+- **影像表現（腕）**：腕關節正面 X 光可見三角纖維軟骨複合體（TFCC）的軟骨鈣化（箭頭），這是軟骨鈣化最常見的部位。Frontal radiograph of the wrist demonstrates chondrocalcinosis of the triangular fibrocartilage complex (TFCC, arrow), a common site of chondrocalcinosis.
+- **膝關節先侵犯髕股間室**：膝關節以髕股間室最早受侵犯，但三個間室之後都可能受累；**髕股關節單獨的退行性變化高度提示 CPPD**，而明顯的**軟骨下囊腫（subchondral cysts）**也特別提示 CPPD。In the knee, the patellofemoral compartment is affected first, but all three compartments may become involved; isolated degenerative changes of the patellofemoral joint are highly suggestive of CPPD, and prominent subchondral cysts are also especially suggestive of CPPD.
+- **影像表現（膝）**：同一病人的膝關節正面 X 光可見半月板的軟骨鈣化。Frontal radiograph of the knee demonstrates chondrocalcinosis of the menisci in the same patient.
+- **手部第二、三掌指關節**：手部以第二與第三掌指關節（MCP）受侵犯為典型，從掌骨頭橈側產生特有的**鉤狀或懸垂狀骨刺（hook-like or drooping osteophytes）**；血鐵質沉積症（hemochromatosis）可呈類似外觀，但通常 MCP 受累更廣泛。In the hands, involvement of the second and third MCP joints is typical, producing characteristic hook-like or drooping osteophytes from the radial aspect of the metacarpal heads; a similar appearance can be seen in hemochromatosis, which typically features more extensive involvement of the MCPs.
 
 ## 軟骨鈣化症 (CPPD) / Calcium Pyrophosphate Dihydrate Deposition Disease (CPPD)
 
@@ -4196,6 +4228,16 @@ weight: 5
 > 5. **完全撕裂** = 肌腱連續性中斷 + 回縮
 
 ![Page 410](/core_radiology/images/msk/page-410.png)
+#### 第五蹠骨骨折分區與撕脫骨折 / Fifth Metatarsal Fracture Zones and Avulsion
+
+**第五蹠骨基部撕脫骨折（zone 1 avulsion fracture）** 是發生於第五蹠骨最近端基部的骨折，**腓骨短肌（peroneus brevis）**與**足底腱膜（plantar aponeurosis）的外側部分**即附著於第五蹠骨基部。此類骨折以保守治療為主，可使用行走靴（boot）。 Metatarsal base avulsion (zone 1) is a fracture at the most proximal base of the 5th metatarsal; the peroneus brevis and lateral aspect of the plantar aponeurosis attach at the 5th metatarsal base. Treatment is conservative, with a boot.
+
+**重點摘要**
+- **Jones 骨折（zone 2）**：Jones 骨折是**幹骺端—骨幹交界處（metaphyseal–diaphyseal junction）**的骨折，因該處血流減少，其預後比撕脫骨折差；治療方式不一，可能需要手術。Jones fracture (zone 2) is a fracture of the metaphyseal–diaphyseal junction; it carries a worse prognosis compared to an avulsion fracture due to reduced blood supply at the junction, and treatment is variable and may require surgery.
+- **蹠骨骨幹（zone 3）**：蹠骨骨幹（zone 3）是**疲勞性骨折（stress fracture）**的常見位置，治療可能需要手術。The metatarsal shaft (zone 3) is a common location for stress fracture, and treatment may be surgical.
+- **Freiberg 病**：Freiberg 病是**第二蹠骨頭的缺血性壞死**，由反覆性壓力或不合腳的鞋子（如高跟鞋）造成，通常好發於年輕女性。Freiberg’s infraction is avascular necrosis of the second metatarsal head, caused by repetitive stress or poorly fitting shoes (such as high-heels), and usually occurs in young women.
+- **三個分區**：zone 1 為基部撕脫骨折、zone 2 為 Jones 骨折、zone 3 為骨幹骨折。Zone 1 is an avulsion fracture, zone 2 is a Jones fracture, and zone 3 is a shaft fracture.
+
 
 ## 足部與踝關節 / Foot and Ankle
 
@@ -4381,6 +4423,16 @@ weight: 5
 > 5. **Müeller-Weiss 病** = 成人女性舟狀骨缺血性壞死（較嚴重）
 
 ![Page 413](/core_radiology/images/msk/page-413.png)
+
+#### 中足部與後足部骨折分類概覽 / Midfoot and Hindfoot Fracture Classifications
+
+**中足部與後足部的常見骨折概覽** 中，**距骨頸骨折（talar neck fracture）**使用 **Hawkins 分類**；**跟骨骨折（calcaneal fractures）**則有多種分類，包括 **Essex−Lopresti 分類**與以 CT 為基礎的 **Sanders 分類**。**舟骨缺血性壞死**在兒童稱為 **Kohler 病**，在成人則稱為 **Müeller−Weiss 病**。 In the midfoot and hindfoot overview of common fractures, talar neck fractures are classified by Hawkins, calcaneal fractures have multiple classifications including Essex−Lopresti and the CT-based Sanders classification, and osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults.
+
+**重點摘要**
+- **Essex−Lopresti 分類**：跟骨骨折依 Essex−Lopresti 分類分為**不波及距下關節（subtalar joint，約 25%）**與**延伸進入距下關節（約 75%）**兩類。The Essex–Lopresti classification divides calcaneal fractures into those sparing the subtalar joint (25%) and fractures extending into the subtalar joint (75%).
+- **Sanders 分類**：Sanders 分類是依**冠狀位 CT 上粉碎骨片的數目**而定。The Sanders classification is based on the number of comminuted fragments as seen on coronal CT.
+- **舟骨缺血性壞死**：Kohler 病（兒童）通常為自限性且好發於男性；Mueller–Weiss 病（成人）病程較嚴重，且較常見於成年女性。Osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults; Kohler disease is typically self limited and occurs more commonly in boys, while Mueller–Weiss disease is more severe in course and occurs more commonly in adult women.
+- **Chopart 骨折-脫臼**：Chopart 關節由**距舟關節（talonavicular）**與**跟骰關節（calcaneocuboid）**構成；Chopart 骨折-脫臼通常由**高能量創傷**造成，常合併**跟骨、骰骨與舟骨**的骨折。The Chopart joint is formed by the talonavicular and calcaneocuboid joints; Chopart fracture-dislocation is typically caused by high-impact trauma, and associated fractures of the calcaneus, cuboid, and navicular bones are often present.
 
 ## Chopart 骨折-脫臼 / Chopart Fracture-Dislocation
 
@@ -5457,6 +5509,16 @@ weight: 5
 > 5. **伸肌機制任何撕裂** → 膝關節伸直功能立即喪失
 
 ![Page 431](/core_radiology/images/msk/page-431.png)
+
+#### 脛骨粗隆骨軟骨發育不良（Osgood–Schlatter 病） / Osteochondrosis of the Tibial Tubercle
+
+**Osgood–Schlatter 病** 是**脛骨粗隆（tibial tubercle）的骨軟骨發育不良（osteochondrosis）**，一般認為由**反覆性微創傷（repetitive microtrauma）**造成，好發於**青少年**。X 光可見**脛骨粗隆增大並碎裂**及鄰近水腫；MRI 則顯示**遠端髕骨肌腱訊號增高**、脛骨粗隆內的**骨髓水腫**，以及 **Hoffa 脂肪墊水腫**。 Osgood–Schlatter disease is an osteochondrosis of the tibial tubercle, thought to be caused by repetitive microtrauma, and it occurs in adolescents. Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema, while MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
+
+**重點摘要**
+- **影像表現**：矢狀面液體敏感（左圖）與質子密度（右圖）MRI 顯示**增大且碎裂的脛骨粗隆（黃色箭頭）**，並有脛骨粗隆前方與 Hoffa 脂肪墊內的水腫（紅色箭頭）。Sagittal fluid-sensitive (left image) and proton density (right image) MRI shows an enlarged, fragmented tibial tubercle (yellow arrows), with associated edema anterior to the tibial tubercle and within Hoffa’s fat pad (red arrow).
+- **好發族群與病因**：好發於青少年，一般認為與反覆性微創傷有關。It occurs in adolescents and is thought to be caused by repetitive microtrauma.
+- **X 光**：X 光顯示脛骨粗隆增大、碎裂並有鄰近水腫。Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema.
+- **MRI**：MRI 顯示遠端髕骨肌腱訊號增高、脛骨粗隆內骨髓水腫與 Hoffa 脂肪墊水腫。MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
 
 ## 髕骨外側脫臼 / Lateral Patellar Dislocation
 
@@ -7544,8 +7606,50 @@ weight: 5
 ![Page 464](/core_radiology/images/msk/page-464.png)
 ![Page 465](/core_radiology/images/msk/page-465.png)
 ![Page 466](/core_radiology/images/msk/page-466.png)
+
+#### 槌狀指（Mallet finger） / Mallet Finger
+
+**槌狀指（mallett finger）** 在原書「手與腕常見骨折」的總覽圖中被歸類為**伸肌腱損傷（injury of extensor tendon）**。同一張總覽圖並列多項手部與腕部常見傷病：伸肌腱損傷造成的**鈕扣狀畸形（boutonniere deformity）**、與脫位相關的**指骨側板骨折（volar plate fracture）**、**尺側副韌帶損傷（ulnar collateral ligament injury）**所致的 gamekeeper’s thumb，以及 **Bennet 骨折**、**Rolando 骨折（粉碎型）**、**大多角骨骨折（trapezium fracture）**、**三角骨骨折（triquetral fracture）**、**舟狀骨骨折（scaphoid fracture）**、**舟月韌帶損傷（scapholunate ligament injury）**，與月狀骨缺血性壞死的 **Kienbock 病**。 In the book’s overview of common hand and wrist fractures, mallett finger is categorized as an injury of the extensor tendon; the same figure lists boutonniere deformity (extensor tendon injury), volar plate fracture (associated with dislocation), gamekeeper’s thumb (ulnar collateral ligament injury), Bennet fracture, Rolando fracture (comminuted), trapezium fracture, triquetral fracture (best seen on lateral), scaphoid fracture, scapholunate ligament injury, and Kienbock disease (avascular necrosis of the lunate).
+
+**重點摘要**
+- **影像表現（總覽圖）**：手與腕常見骨折總覽圖以標籤方式並列各傷病與其對應病變，其中 mallett finger 標示為伸肌腱損傷。The overview figure of common hand and wrist fractures labels each injury with its associated lesion, with mallett finger labeled as injury of the extensor tendon.
+- **對應病變**：槌狀指對應的病變為伸肌腱損傷（injury of extensor tendon）。The lesion corresponding to mallett finger is injury of the extensor tendon.
+- **同圖的其他伸肌腱病變**：鈕扣狀畸形（boutonniere deformity）同樣屬於伸肌腱損傷。Boutonniere deformity is also an extensor tendon injury.
+- **伴隨脫位的傷病**：指骨側板骨折與脫位相關。Volar plate fracture is associated with dislocation.
+- **其他並列項目**：圖中另列三角骨骨折（側位最清楚）、舟狀骨骨折、舟月韌帶損傷與 Kienbock 病（月狀骨缺血性壞死）。The figure also lists triquetral fracture (best seen on lateral), scaphoid fracture, scapholunate ligament injury, and Kienbock disease (avascular necrosis of the lunate).
+
+#### Gamekeeper’s thumb（尺側副韌帶損傷） / Gamekeeper’s Thumb
+
+**Gamekeeper’s thumb（又稱 skier’s thumb）** 在原書「手與腕常見骨折」的總覽圖中標示為**尺側副韌帶損傷（ulnar collateral ligament injury）**。同一張總覽圖還列出伸肌腱損傷造成的**槌狀指（mallett finger）**與**鈕扣狀畸形（boutonniere deformity）**、與脫位相關的**指骨側板骨折（volar plate fracture）**，以及 **Bennet 骨折**、**Rolando 骨折（粉碎型）**、**大多角骨骨折（trapezium fracture）**、**三角骨骨折（triquetral fracture，側位最清楚）**、**舟狀骨骨折（scaphoid fracture）**、**舟月韌帶損傷（scapholunate ligament injury）**，與月狀骨缺血性壞死的 **Kienbock 病**。 In the book’s overview of common hand and wrist fractures, gamekeeper’s thumb is labeled as ulnar collateral ligament injury; the same figure also lists mallett finger and boutonniere deformity (extensor tendon injury), volar plate fracture (associated with dislocation), Bennet fracture, Rolando fracture (comminuted), trapezium fracture, triquetral fracture (best seen on lateral), scaphoid fracture, scapholunate ligament injury, and Kienbock disease (avascular necrosis of the lunate).
+
+**重點摘要**
+- **影像表現（總覽圖）**：手與腕常見骨折總覽圖中，gamekeeper’s thumb 的對應病變標示為尺側副韌帶損傷。In the overview figure of common hand and wrist fractures, gamekeeper’s thumb is labeled with ulnar collateral ligament injury.
+- **對應病變**：gamekeeper’s thumb 對應尺側副韌帶損傷（ulnar collateral ligament injury）。The lesion corresponding to gamekeeper’s thumb is ulnar collateral ligament injury.
+- **同圖的其他韌帶與肌腱病變**：舟月韌帶損傷（scapholunate ligament injury）與伸肌腱損傷（injury of extensor tendon，見於槌狀指與鈕扣狀畸形）並列於同一張圖。Scapholunate ligament injury and injury of the extensor tendon (seen with mallett finger and boutonniere deformity) are listed on the same figure.
+- **骨折項目**：圖中另列 Bennet 骨折、Rolando 骨折（粉碎型）、大多角骨骨折、三角骨骨折（側位最清楚）與舟狀骨骨折。The figure also lists Bennet fracture, Rolando fracture (comminuted), trapezium fracture, triquetral fracture (best seen on lateral), and scaphoid fracture.
+- **Kienbock 病**：同一張圖並列 Kienbock 病，標示為月狀骨的缺血性壞死。Kienbock disease is also listed on the same figure, labeled as avascular necrosis of the lunate.
 ![Page 467](/core_radiology/images/msk/page-467.png)
+
+#### 腕骨解剖與排列 / Carpal Anatomy and Alignment
+
+**腕骨解剖與排列（carpal anatomy and alignment）** 總覽圖標示了各腕骨與其重要標記：**大多角骨（trapezium）**與其**鉤狀突（hook of trapezium）**、**小多角骨（trapezoid）**、**頭狀骨（capitate）**、**月狀骨（lunate）**、**舟狀骨（scaphoid）**、**三角骨（triquetrum）**、**豌豆骨（pisiform）**、**鉤狀骨（hamate）**，以及橈骨端的**舟骨凹（lunate fossa）**、**橈骨莖突（radial styloid）**、**尺骨莖突（ulnar styloid）**與尺骨、橈骨本身。同一頁也以影像對照呈現**月狀骨與周圍月狀骨脫位（lunate and perilunate dislocation）**的三種情形。 The carpal anatomy figure labels the individual carpal bones and landmarks: trapezium with its hook, trapezoid, capitate, lunate, scaphoid, triquetrum, pisiform, and hamate, along with the lunate fossa, radial styloid, ulnar styloid, radius, and ulna. The same page illustrates the three patterns of lunate and perilunate dislocation.
+
+**重點摘要**
+- **周圍月狀骨脫位（perilunate dislocation）**：月狀骨仍與橈骨對位，但頭狀骨未與月狀骨對位；脫位發生在月狀骨旁（peri-lunate）。In a perilunate dislocation, the lunate is aligned with the radius, but the capitate is not aligned with the lunate; the dislocation is next to the lunate (peri-lunate).
+- **月狀骨脫位（lunate dislocation）**：月狀骨向掌側（volarly）脫位，而頭狀骨仍大致與橈骨對位；脫位的是月狀骨本身。In a lunate dislocation, the lunate is dislocated volarly, but the capitate is still relatively aligned with the radius; the lunate itself is dislocated.
+- **影像表現**：影像以正常排列、周圍月狀骨脫位與月狀骨脫位三種情形並排對照。The figure compares normal alignment, perilunate dislocation, and lunate dislocation side by side.
+- **腕骨標記**：圖中標示大多角骨、鉤狀骨、小多角骨、豌豆骨、頭狀骨、三角骨、舟狀骨、月狀骨及橈尺骨的莖突與舟骨凹。The figure labels the trapezium, hamate, trapezoid, pisiform, capitate, triquetrum, scaphoid, lunate, and the styloid processes and lunate fossa of the radius and ulna.
 ![Page 468](/core_radiology/images/msk/page-468.png)
+
+#### Kienbock 病（月狀骨缺血性壞死） / Kienbock Disease
+
+**Kienbock 病** 是**月狀骨（lunate）的缺血性壞死（avascular necrosis）**。它與**尺骨負變異（negative ulnar variance）**相關，也就是**尺骨比橈骨短**，一般認為是**月狀骨所承受負荷增加**所造成。 Kienbock disease is avascular necrosis of the lunate. It is associated with negative ulnar variance (i.e., ulna shorter than the radius), and is thought to be caused by increased load on the lunate.
+
+**重點摘要**
+- **定義**：Kienbock 病為月狀骨的缺血性壞死。Kienbock disease is avascular necrosis of the lunate.
+- **相關發現**：與尺骨負變異相關，即尺骨比橈骨短。It is associated with negative ulnar variance (i.e., ulna shorter than the radius).
+- **病因**：一般認為是月狀骨承受負荷增加所致。It is thought to be caused by increased load on the lunate.
+- **影像表現**：在「手與腕常見骨折」的總覽圖中，Kienbock 病與月狀骨的缺血性壞死（AVN of the lunate）並列標示。In the overview of common hand and wrist fractures, Kienbock disease is listed together with avascular necrosis of the lunate (AVN of the lunate).
 ![Page 469](/core_radiology/images/msk/page-469.png)
 ![Page 470](/core_radiology/images/msk/page-470.png)
 ![Page 471](/core_radiology/images/msk/page-471.png)
