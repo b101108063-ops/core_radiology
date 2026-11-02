@@ -622,6 +622,16 @@ PRF 是探頭每秒輸出超聲波脈衝的次數。PRF 增加會導致回波接
 
 ### 品質控制 (Quality Control)
 ![Page 872](/core_radiology/images/physics/page-872.png)
+
+| 儀器 | 測試項目 | 頻率 | 使用核種 |
+|------|---------|------|---------|
+| 劑量校正器 | 穩定性（Constancy）| 每日 | ¹³⁷Cs（30年半衰期）|
+| 劑量校正器 | 線性度（Linearity）| 每季 | ⁹⁹ᵐTc 衰變 |
+| 劑量校正器 | 準確度（Accuracy）| 每年 | 標準源 |
+| 成像系統 | 均一性（Uniformity）| 每日 | ⁵⁷Co |
+
+---
+
 #### 時間 t 與核醫計算參數 / Elapsed Time and Nuclear Medicine Parameters
 
 時間 t（elapsed time）表示經過的時間，並用於隨時間變化的核醫計算。累積活度（cumulative activity）是隨時間發生的核衰變總數，也就是衰變曲線下的面積；其公式為 1.44 × f × A0 × TE。有效半衰期（effective half-life）同時考量放射性核種本身的物理半衰期與生物清除。 The symbol t denotes elapsed time and is used in time-dependent nuclear medicine calculations. Cumulative activity is the total number of nuclear decays over time, represented by the area under the decay curve, and is calculated as 1.44 × f × A0 × TE. Effective half-life accounts for both the intrinsic physical half-life of the radionuclide and biological clearance.
@@ -633,16 +643,6 @@ PRF 是探頭每秒輸出超聲波脈衝的次數。PRF 增加會導致回波接
 - **有效半衰期**：有效半衰期是放射性核種在器官內的半衰期，同時考量物理半衰期與生物清除；其關係式為 1/TE = 1/TB + 1/T1/2，其中 TB 為生物半衰期，T1/2 為物理半衰期。Effective half-life is the half-life of a radionuclide within an organ and accounts for physical half-life and biological clearance; the relationship is 1/TE = 1/TB + 1/T1/2, where TB is biologic half-life and T1/2 is physical half-life.
 - **系統解析度**：系統解析度（system resolution）同時考量閃爍攝影機未裝準直儀時的固有解析度與準直儀解析度，公式為 R = √(Ri² + Rc²)，其中 Ri 為固有解析度，Rc 為準直儀解析度。System resolution accounts for the intrinsic resolution of the scintillation camera without a collimator and the collimator resolution; R = √(Ri² + Rc²), where Ri is intrinsic resolution and Rc is collimator resolution.
 - **品質控制**：劑量校正器（dose calibrator）的恆常性每日以半衰期 30 year 的 137Cs 測試，線性度每季以 99mTc 衰變測試，準確度每年以校準源測試；這些是劑量校正器而非影像系統的測試。影像系統（imaging system）的均勻度每日以 Co-57 測試。Dose calibrator constancy is tested daily with 137Cs, which has a 30 year half-life; linearity is tested quarterly with 99mTc decay, and accuracy is tested annually with a calibrated source; these test the dose calibrator, not the imaging system. Imaging-system uniformity is tested daily with Co-57.
-
-
-| 儀器 | 測試項目 | 頻率 | 使用核種 |
-|------|---------|------|---------|
-| 劑量校正器 | 穩定性（Constancy）| 每日 | ¹³⁷Cs（30年半衰期）|
-| 劑量校正器 | 線性度（Linearity）| 每季 | ⁹⁹ᵐTc 衰變 |
-| 劑量校正器 | 準確度（Accuracy）| 每年 | 標準源 |
-| 成像系統 | 均一性（Uniformity）| 每日 | ⁵⁷Co |
-
----
 
 ## 參考文獻 (References)
 

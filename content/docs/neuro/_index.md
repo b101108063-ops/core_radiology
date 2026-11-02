@@ -362,6 +362,22 @@ GBM 為浸潤性疾病，通過白質路徑、CSF 與室管膜下扩散。穿過
 ### Gliomatosis Cerebri & Oligodendroglioma 膠質瘤病與寡樹突膠質細胞瘤 (Page 229)
 
 ![Page 228](/core_radiology/images/neuro/page-228.png)
+
+膠質瘤病（Gliomatosis cerebri）是一種瀰漫性浸潤性中級別（WHO II 或 III 級）星狀細胞瘤，可影響多個腦葉。診斷標準為至少兩個腦葉受侵犯，加上皮質外結構（如基底核、胼胝體、腦幹或小腦）受侵犯。典型影像為整個受侵犯腦部區域的瀰漫性 T2 延長，通常有 mass effect 但無強化。預後不良，可能惡化為 GBM。
+
+瀰漫性 T2 延長可見於多種疾病，免疫低下患者需考慮：淋巴瘤、進行性多病竈腦白質病（PML，由 JC 病毒引起的脫髓鞘）與 AIDS 腦病。
+
+寡樹突膠質細胞瘤（Oligodendroglioma）是 WHO 第二級腫瘤，好發於年輕至中年患者，以癲癇為主要表現。約 75% 有鈣化（calcification），CT 上可見低密度腫塊內的粗大鈣化。生長緩慢，周圍水腫輕微。
+
+Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成分的混合腫瘤；anaplastic oligodendroglioma（間變性寡樹突膠質細胞瘤）在影像上與 GBM 無法區分，預後差。
+
+**重點摘要**
+- **Gliomatosis cerebri**：瀰漫性侵犯至少兩個腦葉＋皮質外結構，預後差
+- **Oligodendroglioma**：WHO Grade II，好發年輕患者，癲癇為主，75% 有鈣化
+- **Calcification**：寡樹突膠質細胞瘤的典型特徵，CT 最適合偵測
+- **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
+
+
 #### 其他膠質瘤（Other gliomas） / Other Gliomas
 
 **Gliomatosis cerebri**（膠質瘤病）是一種瀰漫性浸潤性中級別（WHO II 或 III 級）星狀細胞瘤，可侵犯多個腦葉。Gliomatosis cerebri is a diffuse infiltrative mid-grade (WHO II or III) astrocytoma that affects multiple lobes. 其診斷標準為至少兩個腦葉受侵犯，加上基底核、胼胝體、腦幹或小腦等皮質外結構受侵犯。Diagnostic criteria include involvement of at least two lobes plus extra-cortical involvement of structures such as the basal ganglia, corpus callosum, brainstem, or cerebellum. 預後不良，並可能惡化為 GBM（多形性膠質母細胞瘤）。Gliomatosis has a poor prognosis and may degenerate into GBM.
@@ -383,25 +399,17 @@ GBM 為浸潤性疾病，通過白質路徑、CSF 與室管膜下扩散。穿過
 - **混合與間變性變異**：oligoastrocytoma 為同時含星狀細胞成分的混合腫瘤，雖可退化為 GBM 但預後優於純 GBM；anaplastic oligodendroglioma 在影像上與 GBM 無法區分且預後不良。Oligoastrocytoma is a mixed tumor with an astrocytic component and, although it can degenerate into GBM, prognosis is better than a pure GBM; anaplastic oligodendroglioma is indistinguishable from GBM on imaging and has a poor prognosis.
 - **影像表現**：非對比 CT 顯示左額葉低衰減值腫塊，內含粗大鈣化，缺少明顯水腫，提示生長緩慢性病變。Noncontrast CT demonstrates a hypoattenuating mass in the left frontal lobe containing coarse calcifications; the lack of significant edema suggests a slow-growing lesion.
 
-
-膠質瘤病（Gliomatosis cerebri）是一種瀰漫性浸潤性中級別（WHO II 或 III 級）星狀細胞瘤，可影響多個腦葉。診斷標準為至少兩個腦葉受侵犯，加上皮質外結構（如基底核、胼胝體、腦幹或小腦）受侵犯。典型影像為整個受侵犯腦部區域的瀰漫性 T2 延長，通常有 mass effect 但無強化。預後不良，可能惡化為 GBM。
-
-瀰漫性 T2 延長可見於多種疾病，免疫低下患者需考慮：淋巴瘤、進行性多病竈腦白質病（PML，由 JC 病毒引起的脫髓鞘）與 AIDS 腦病。
-
-寡樹突膠質細胞瘤（Oligodendroglioma）是 WHO 第二級腫瘤，好發於年輕至中年患者，以癲癇為主要表現。約 75% 有鈣化（calcification），CT 上可見低密度腫塊內的粗大鈣化。生長緩慢，周圍水腫輕微。
-
-Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成分的混合腫瘤；anaplastic oligodendroglioma（間變性寡樹突膠質細胞瘤）在影像上與 GBM 無法區分，預後差。
-
-**重點摘要**
-- **Gliomatosis cerebri**：瀰漫性侵犯至少兩個腦葉＋皮質外結構，預後差
-- **Oligodendroglioma**：WHO Grade II，好發年輕患者，癲癇為主，75% 有鈣化
-- **Calcification**：寡樹突膠質細胞瘤的典型特徵，CT 最適合偵測
-- **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
-
-
 ### Ring Enhancement (Intra-axial) / 軸內環狀強化 (Page 230)
 
 ![Page 229](/core_radiology/images/neuro/page-229.png)
+
+Ring enhancement (intra-axial) Patient 1: Axial post-contrast T1weighted image shows a bilobed ring-enhancing lesion in the right
+
+**重點摘要**
+- **Patient 2**：Axial post-contrast T1Patient 3: Axial post-contrast T1weighted image shows an irregular ring weighted image shows a ring
+
+---
+
 
 #### Lhermitte–Duclos 病變 / Lhermitte-Duclos Gangliocytoma
 
@@ -413,14 +421,6 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - **虎斑狀條紋**：小腦半球出現 corduroy 或 tiger-striped 條紋為其典型影像表現。Corduroy or tiger-striped striated lesion in the cerebellar hemisphere is the classical imaging finding.
 - **強化少見**：病灶通常不強化，是與其他小腦腫瘤鑑別的線索。Enhancement is rare, which helps distinguish it from other cerebellar masses.
 - **胚胎性腫瘤（PNET）**：胚胎性腫瘤是一系列 WHO 第四級、具侵襲性的兒童惡性腫瘤，稱為原始神經外胚層腫瘤（PNET），顱內 PNET 好發於後顱窩但也可位於小腦上。Embryonal tumors represent a spectrum of WHO grade IV, aggressive childhood malignancies known as primitive neuroectodermal tumors (PNET); intracranial PNET tumors are more commonly located in the posterior fossa but may occur supratentorially.
-
-Ring enhancement (intra-axial) Patient 1: Axial post-contrast T1weighted image shows a bilobed ring-enhancing lesion in the right
-
-**重點摘要**
-- **Patient 2**：Axial post-contrast T1Patient 3: Axial post-contrast T1weighted image shows an irregular ring weighted image shows a ring
-
----
-
 ### Pachymeningeal (dural) enhancement (extra-axial) / 硬膜強化（軸外）(Page 231)
 
 ![Page 230](/core_radiology/images/neuro/page-230.png)
@@ -608,17 +608,6 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 ### Medulloblastoma / 髓母細胞 (Page 240)
 
 ![Page 239](/core_radiology/images/neuro/page-239.png)
-#### 內耳道口（porus acousticus）與小腦橋角（CPA） / Porus Acousticus and CPA Anatomy
-
-**porus acousticus**（內耳道口）是前庭神經瘤（vestibular schwannoma）向內推擠並被撐寬的關鍵構造。The porus acousticus is the key structure that a vestibular schwannoma protrudes into and widens. 小腦橋角（cerebellopontine angle, CPA）是位於腦橋與小腦之間、岩骨顳骨後方的區域，其中重要構造包含第 5、7、8 對腦神經與前下小腦動脈（AICA）。The cerebellopontine angle (CPA) is the region between the pons and cerebellum and the posterior aspect of the petrous temporal bone; important structures include the 5th (trigeminal), 7th (facial), and 8th (vestibulocochlear) cranial nerves, and the anterior inferior cerebellar artery (AICA). 大多數 CPA 病灶為軸外且位於 CPA 腦池本身，部分可源自內聽道（IAC）或顳骨，罕見源自腦橋或小腦的軸內。Most lesions of the CPA are extra-axial and located in the CPA cistern itself, although some may arise in the internal auditory canal (IAC), temporal bone, or rarely intra-axially from the pons or cerebellum.
-
-**重點摘要**
-- **CPA 的位置與重要構造**：位於腦橋與小腦之間、岩骨後方，含第 5、7、8 對腦神經與 AICA。The CPA lies between the pons and cerebellum and posterior to the petrous temporal bone and contains cranial nerves 5, 7, and 8 and the AICA.
-- **多為軸外病變**：CPA 腫塊以軸外、位於 CPA 腦池內者居多，少數源自內聽道、顳骨，罕見為軸內。Most CPA masses are extra-axial within the CPA cistern, with some arising in the IAC or temporal bone and rarely intra-axially.
-- **前庭神經瘤的比例**：佔所有 CPA 腫塊超過 75%，為最常見的 CPA 腫塊，且好發於成人。Vestibular schwannoma represents greater than 75% of all CPA masses and CPA masses are more common in adults.
-- **冰淇淋圓錐徵**：T2 高訊號且明顯強化，「cone」穿出並撐寬 porus acousticus，「ice cream」則對小腦－腦橋交界處產生佔位效應。The characteristic ice cream cone appearance describes the cone protruding through and widening the porus acousticus and the ice cream exerting mass effect on the cerebellopontine junction.
-- **影像表現**：軸向 T2 加權（左圖）與 T1 對比 MRI 顯示左側小腦橋角不均勻強化腫塊，呈冰淇淋圓錐外觀，壓凹小腦－腦橋交界（黃箭頭）並向內聽道突出（紅箭頭），內耳道口（porus acousticus）輕度變寬（藍箭頭）。Axial T2-weighted and post-contrast T1-weighted MRI shows a heterogeneously enhancing left CPA mass with an ice cream cone appearance that indents the cerebellopontine junction (yellow arrow) and protrudes into the internal acoustic meatus (red arrow); the porus acousticus is slightly widened (blue arrows).
-
 
 軸向未增強CT顯示中線後顱窩高衰減值團塊（箭頭），第四腦室近乎完全閉塞並導致水腦。MRI可見明顯強化腫瘤完全填塞第四腦室，雙側內聽道內可見強化軟膜腫瘤播散。ADC map顯示腫瘤內部有些不均匀低訊號區域，代表高細胞密度。Medulloblastoma（髓母細胞瘤）是WHO IV級的小藍細胞腫瘤，為最常見的兒童腦瘤之一。臨床上典型位於小腦蚓部中線，CT因細胞密集而稍高衰減，T2加權像低訊號且ADC值低。低ADC值可作為與室管膜瘤及毛細胞型星狀膠質瘤鑑別的要點。軟膜轉移發生率高達33%，Sugar-coating（糖衣）為大腦表面 icing-like 強化。術前應進行全腦與脊椎影像評估。
 
@@ -629,6 +618,17 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - **Leptomeningeal dissemination（軟膜播散）**：術前需做全腦與脊椎MRI
 
 ---
+
+#### 內耳道口（porus acousticus）與小腦橋角（CPA） / Porus Acousticus and CPA Anatomy
+
+**porus acousticus**（內耳道口）是前庭神經瘤（vestibular schwannoma）向內推擠並被撐寬的關鍵構造。The porus acousticus is the key structure that a vestibular schwannoma protrudes into and widens. 小腦橋角（cerebellopontine angle, CPA）是位於腦橋與小腦之間、岩骨顳骨後方的區域，其中重要構造包含第 5、7、8 對腦神經與前下小腦動脈（AICA）。The cerebellopontine angle (CPA) is the region between the pons and cerebellum and the posterior aspect of the petrous temporal bone; important structures include the 5th (trigeminal), 7th (facial), and 8th (vestibulocochlear) cranial nerves, and the anterior inferior cerebellar artery (AICA). 大多數 CPA 病灶為軸外且位於 CPA 腦池本身，部分可源自內聽道（IAC）或顳骨，罕見源自腦橋或小腦的軸內。Most lesions of the CPA are extra-axial and located in the CPA cistern itself, although some may arise in the internal auditory canal (IAC), temporal bone, or rarely intra-axially from the pons or cerebellum.
+
+**重點摘要**
+- **CPA 的位置與重要構造**：位於腦橋與小腦之間、岩骨後方，含第 5、7、8 對腦神經與 AICA。The CPA lies between the pons and cerebellum and posterior to the petrous temporal bone and contains cranial nerves 5, 7, and 8 and the AICA.
+- **多為軸外病變**：CPA 腫塊以軸外、位於 CPA 腦池內者居多，少數源自內聽道、顳骨，罕見為軸內。Most CPA masses are extra-axial within the CPA cistern, with some arising in the IAC or temporal bone and rarely intra-axially.
+- **前庭神經瘤的比例**：佔所有 CPA 腫塊超過 75%，為最常見的 CPA 腫塊，且好發於成人。Vestibular schwannoma represents greater than 75% of all CPA masses and CPA masses are more common in adults.
+- **冰淇淋圓錐徵**：T2 高訊號且明顯強化，「cone」穿出並撐寬 porus acousticus，「ice cream」則對小腦－腦橋交界處產生佔位效應。The characteristic ice cream cone appearance describes the cone protruding through and widening the porus acousticus and the ice cream exerting mass effect on the cerebellopontine junction.
+- **影像表現**：軸向 T2 加權（左圖）與 T1 對比 MRI 顯示左側小腦橋角不均勻強化腫塊，呈冰淇淋圓錐外觀，壓凹小腦－腦橋交界（黃箭頭）並向內聽道突出（紅箭頭），內耳道口（porus acousticus）輕度變寬（藍箭頭）。Axial T2-weighted and post-contrast T1-weighted MRI shows a heterogeneously enhancing left CPA mass with an ice cream cone appearance that indents the cerebellopontine junction (yellow arrow) and protrudes into the internal acoustic meatus (red arrow); the porus acousticus is slightly widened (blue arrows).
 
 ### Cystic Mass with Mural Nodule / 囊腫合併壁結節腫 (Page 241)
 
@@ -746,17 +746,6 @@ Epidermoid cyst（膽脂瘤）是先天性外胚層上皮組織異位所致的�
 
 ![Page 248](/core_radiology/images/neuro/page-248.png)
 
-#### 鞍上病變的鑑別：性早熟與腦下垂體柄病變 / Precocious Puberty and Suprasellar Lesions
-
-面對**鞍上區塊狀病變**（suprasellar mass），「性早熟」（precocious puberty）與「腦下垂體柄增大且強化」是辨識**下視丘錯構瘤**（hypothalamic hamartoma）與 **Langerhans 細胞組織球增生症合併垂體炎**（Langerhans cell histiocytosis hypophysitis）的關鍵線索。Precocious puberty and an enhancing, enlarged pituitary stalk are the clues to hypothalamic hamartoma and to Langerhans cell histiocytosis hypophysitis in a suprasellar mass. 成人鞍上腫塊則須依「是否向上延伸」「蝶鞍是否擴大」「正常蝶鞍下是否呈強烈強化」等問題逐步導向正確病因。For a suprasellar mass in an adult, the workup proceeds through questions of superior extension, expansion of the sella, and intense enhancement despite a normal sella.
-
-**重點摘要**
-- **性早熟與下視丘錯構瘤**：性早熟是鞍上病變最重要的臨床線索，合併腦下垂體柄增大強化時應考慮下視丘錯構瘤。Precocious puberty is a key clinical clue in a suprasellar mass; with an enhancing enlarged pituitary stalk it should raise the possibility of hypothalamic hamartoma.
-- **腦下垂體柄增大與尿崩症**：腦下垂體柄增大且強化合併尿崩症可見於淋巴球性垂體炎（圍產期）或肉芽腫性垂體炎（其他情況），Langerhans 細胞組織球增生症亦可侵犯垂體柄。An enhancing, enlarged pituitary stalk with diabetes insipidus may reflect lymphocytic hypophysitis if peripartum or granulomatous hypophysitis otherwise, and Langerhans cell histiocytosis hypophysitis also involves the stalk.
-- **腦下垂體巨腺瘤向上延伸**：鞍上腫塊向上延伸且蝶鞍擴大者，提示腦下垂體巨腺瘤向上生長。A pituitary mass extending superiorly with expansion of the sella indicates extension of a pituitary macroadenoma.
-- **腦膜瘤**：在正常蝶鞍下呈強烈強化，合併硬膜尾徵、鄰近骨肥厚與鄰近血管變窄，支持腦膜瘤的診斷。Intense enhancement with a normal sella, together with an enhancing dural tail, adjacent hyperostosis, and narrowing of adjacent vasculature, favors meningioma.
-- **其他鑑別**：鈣化、強化且複雜囊性腫塊提示顱咽瘤；非強化囊腫且無鈣化提示 Rathke 裂囊腫；強化程度與血池相等且可見鈣化緣提示動脈瘤。A calcified, enhancing, complex cystic mass suggests craniopharyngioma; a nonenhancing cystic mass without calcification suggests Rathke's cleft cyst; enhancement equal to blood pool with a calcified rim suggests aneurysm.
-
 Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者因荷爾蒙過剩症狀就醫而非腫瘤壓迫症狀。多數微腺瘤相對於正常垂體為低強化，但ACTH分泌性腺瘤可能為高強化。Pituitary macroadenoma（腦下垂體巨腺瘤）為大於10mm的腺瘤，患者通常以視神經交叉壓迫（視力礙礙）而非內分泌症狀就診。骨性蝶鞍常見擴大，巨腺瘤可能包繞但不縮窄頸內動脈（與腦膜瘤或轉移瘤不同）。Lymphocytic hypophysitis（淋巴球性垂體炎）為自體免疫發炎疾病，常見於圍產期女性，表現為尿崩症、頭痛、視力礙礙及內分泌功能異常，MRI可見垂體柄增厚並明顯強化。Granulomatous hypophysitis（肉芽腫性垂體炎）病因包括結節病、Wegener肉芽腫癥、結核病及Langerhans細胞組織球增生癥。
 
 **重點摘要**
@@ -767,6 +756,17 @@ Pituitary microadenoma（腦下垂體微腺瘤）為小於10mm的腺瘤，患者
 
 ---
 
+
+#### 鞍上病變的鑑別：性早熟與腦下垂體柄病變 / Precocious Puberty and Suprasellar Lesions
+
+面對**鞍上區塊狀病變**（suprasellar mass），「性早熟」（precocious puberty）與「腦下垂體柄增大且強化」是辨識**下視丘錯構瘤**（hypothalamic hamartoma）與 **Langerhans 細胞組織球增生症合併垂體炎**（Langerhans cell histiocytosis hypophysitis）的關鍵線索。Precocious puberty and an enhancing, enlarged pituitary stalk are the clues to hypothalamic hamartoma and to Langerhans cell histiocytosis hypophysitis in a suprasellar mass. 成人鞍上腫塊則須依「是否向上延伸」「蝶鞍是否擴大」「正常蝶鞍下是否呈強烈強化」等問題逐步導向正確病因。For a suprasellar mass in an adult, the workup proceeds through questions of superior extension, expansion of the sella, and intense enhancement despite a normal sella.
+
+**重點摘要**
+- **性早熟與下視丘錯構瘤**：性早熟是鞍上病變最重要的臨床線索，合併腦下垂體柄增大強化時應考慮下視丘錯構瘤。Precocious puberty is a key clinical clue in a suprasellar mass; with an enhancing enlarged pituitary stalk it should raise the possibility of hypothalamic hamartoma.
+- **腦下垂體柄增大與尿崩症**：腦下垂體柄增大且強化合併尿崩症可見於淋巴球性垂體炎（圍產期）或肉芽腫性垂體炎（其他情況），Langerhans 細胞組織球增生症亦可侵犯垂體柄。An enhancing, enlarged pituitary stalk with diabetes insipidus may reflect lymphocytic hypophysitis if peripartum or granulomatous hypophysitis otherwise, and Langerhans cell histiocytosis hypophysitis also involves the stalk.
+- **腦下垂體巨腺瘤向上延伸**：鞍上腫塊向上延伸且蝶鞍擴大者，提示腦下垂體巨腺瘤向上生長。A pituitary mass extending superiorly with expansion of the sella indicates extension of a pituitary macroadenoma.
+- **腦膜瘤**：在正常蝶鞍下呈強烈強化，合併硬膜尾徵、鄰近骨肥厚與鄰近血管變窄，支持腦膜瘤的診斷。Intense enhancement with a normal sella, together with an enhancing dural tail, adjacent hyperostosis, and narrowing of adjacent vasculature, favors meningioma.
+- **其他鑑別**：鈣化、強化且複雜囊性腫塊提示顱咽瘤；非強化囊腫且無鈣化提示 Rathke 裂囊腫；強化程度與血池相等且可見鈣化緣提示動脈瘤。A calcified, enhancing, complex cystic mass suggests craniopharyngioma; a nonenhancing cystic mass without calcification suggests Rathke's cleft cyst; enhancement equal to blood pool with a calcified rim suggests aneurysm.
 ### Craniopharyngioma / 顱咽 (Page 250)
 
 ![Page 249](/core_radiology/images/neuro/page-249.png)
@@ -1267,6 +1267,16 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 ### Parenchymal Hematoma Stages on MRI / 腦實質血腫的MRI分期 (Page 276)
 
 ![Page 275](/core_radiology/images/neuro/page-275.png)
+
+MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分為五個階段，每個階段都有獨特的訊號特徵。超急性期（0-6小時）以細胞內氧合血紅蛋白為主，T1等訊號、T2略高訊號，周邊因脫氧而形成特徵性暗邊（dark rim）。急性期（6-72小時）細胞內去氧血紅蛋白使T2均勻低訊號。早期亞急性期（3天-1週）細胞內正鐵血紅蛋白造成T1高訊號，但T2仍低。晚期亞急性期（1週後）細胞裂解，正鐵血紅蛋白游離至細胞外，T1、T2均高訊號。慢性期（含鐵血黃素）則造成T2和梯度回波序列的長期低訊號。
+
+**重點摘要**
+- **超急性血腫（<6小時）**：T2周邊暗邊是關鍵特徵（English: Peripheral T2 hypointense rim is the key finding in hyperacute hematoma）
+- **急性期（6-72小時）**：T2均勻低訊號，T1等至輕度低訊號（English: Acute hematoma becomes hypointense on T2-weighted images throughout）
+- **亞急性期**：正鐵血紅蛋白造成T1高訊號，為出血診斷的重要線索（English: Methemoglobin causes T1 hyperintensity, an important clue to diagnosis）
+
+---
+
 #### 細胞內氧合血紅蛋白（超急性期） / Intracellular Oxyhemoglobin (Hyperacute Stage)
 
 **Intracellular oxyhemoglobin**（細胞內氧合血紅蛋白）代表腦實質血腫的**超急性期**，血塊內仍以氧合血紅蛋白為主。Intracellular oxyhemoglobin defines the hyperacute stage of a parenchymal hematoma, in which the clot still contains primarily oxyhemoglobin. 在 T2 加權影像上血腫呈輕度高訊號，但血塊周邊因**去氧**（deoxygenation）而形成特徵性的暗邊（dark rim）。On T2-weighted images the hematoma is slightly hyperintense, with a characteristic dark rim at the periphery of the clot representing deoxygenation. 血紅蛋白演變的每一階段在軸內空間都有相對固定的時間進程，使放射科醫師可依各階段在 T1 與 T2 加權影像上的獨特訊號特徵「判定出血的時間」。Each stage of this evolution adheres to a reasonably constant time course in the intra-axial space and allows the radiologist to date the hemorrhage based on the unique signal characteristics on T1- and T2-weighted images for each stage.
@@ -1287,16 +1297,6 @@ SAH分布可提示破裂動脈瘤位置：前縱裂出血提示前交通動脈�
 - **正鐵血紅蛋白的訊號**：正鐵血紅蛋白在 T1 與 T2 加權影像均呈高訊號，唯獨細胞內正鐵血紅蛋白在 T2 呈低訊號。Methemoglobin is bright on both T1- and T2-weighted images, except for intracellular methemoglobin, which is dark on T2-weighted images.
 - **非超急性期多為 T2 低訊號**：非超急性期出血在 T2 加權影像一般呈低訊號，例外是細胞外正鐵血紅蛋白呈 T2 高訊號。In general, non-hyperacute hemorrhage is dark on T2-weighted images, with the exception of extracellular methemoglobin, which is hyperintense on T2-weighted images.
 - **治療與軸外出血的例外**：治療以支持療法為主（血壓控制與凝血功能校正），大血腫有明顯佔位效應或腦疝風險時可手術清除，後顱窩出血大於 3 cm 一般建議手術治療；而軸外出血（如硬腦膜下血腫）通常不給予時間判定。Treatment of intraparenchymal hemorrhage is mainly supportive, including blood pressure control and normalization of coagulopathy, and a hemorrhage >3 cm in the posterior fossa is generally treated surgically; for extra-axial blood, timing is generally not given.
-
-
-MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分為五個階段，每個階段都有獨特的訊號特徵。超急性期（0-6小時）以細胞內氧合血紅蛋白為主，T1等訊號、T2略高訊號，周邊因脫氧而形成特徵性暗邊（dark rim）。急性期（6-72小時）細胞內去氧血紅蛋白使T2均勻低訊號。早期亞急性期（3天-1週）細胞內正鐵血紅蛋白造成T1高訊號，但T2仍低。晚期亞急性期（1週後）細胞裂解，正鐵血紅蛋白游離至細胞外，T1、T2均高訊號。慢性期（含鐵血黃素）則造成T2和梯度回波序列的長期低訊號。
-
-**重點摘要**
-- **超急性血腫（<6小時）**：T2周邊暗邊是關鍵特徵（English: Peripheral T2 hypointense rim is the key finding in hyperacute hematoma）
-- **急性期（6-72小時）**：T2均勻低訊號，T1等至輕度低訊號（English: Acute hematoma becomes hypointense on T2-weighted images throughout）
-- **亞急性期**：正鐵血紅蛋白造成T1高訊號，為出血診斷的重要線索（English: Methemoglobin causes T1 hyperintensity, an important clue to diagnosis）
-
----
 
 ### Causes of Intraparenchymal Hemorrhage / 腦實質內出血的原因 (Page 277)
 
@@ -1355,6 +1355,16 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 
 
 ![Page 280](/core_radiology/images/neuro/page-280.png)
+
+白質疾病的典型MRI表現為受影響白質區域的T2延長訊號。脫髓鞘疾病的關鍵影像特徵是：相對於病竈大小，佔位效應極輕微。多發性硬化症（MS）是最常見的慢性脫髓鞘疾病，好發於中年高加索女性，主要臨床表現包括復發-緩解型和進展型。典型MRI特徵包括垂直於腦室的Dawson手指狀病竈（Dawson fingers）和增強活性脫髓鞘斑塊。
+
+**重點摘要**
+- **脫髓鞘疾病關鍵特徵**：相對於病竈大小，佔位效應極輕微（English: Key imaging finding of demyelinating disease is minimal mass effect relative to lesion size）
+- **多發性硬化症（MS）**：白質T2延長，好發於中年高加索女性（English: MS is more common in middle-aged Caucasian females）
+- **復發-緩解型MS**：每次急性發作後可有部分或完全緩解（English: Relapsing-remitting MS shows partial or complete resolution of each acute attack）
+
+---
+
 #### 腦部類澱粉血管病（腦出血原因鑑別） / Amyloid Angiopathy in the Hemorrhage Differential
 
 **Amyloid angiopathy**（腦部類澱粉血管病）是葉狀（lobar）腦實質出血的典型病因，也是腦出血鑑別診斷的一環。Amyloid angiopathy is one of the differential diagnoses for lobar parenchymal hemorrhage. 面對原因未定的腦實質出血，須依「是否有廣泛的蜘蛛膜下腔出血」「血腫旁是否有動脈瘤」「年輕患者的腦實質出血」等線索逐步導向正確病因。For an undetermined parenchymal hemorrhage, the differential is worked through with clues such as extensive subarachnoid blood, an aneurysm adjacent to the hematoma, and parenchymal hemorrhage in a young patient. 這些線索把出血的原因分成動脈瘤性出血、AVM、dAVF、海綿狀畸形、靜脈血栓、出血性腫瘤、出血性梗塞、CNS 血管炎與毛毛樣血管病等類別。These clues sort the causes into aneurysmal hemorrhage, AVM, dAVF, cavernous malformation, venous thrombosis, hemorrhagic neoplasm, hemorrhagic infarct, CNS vasculitis, and moyamoya.
@@ -1365,16 +1375,6 @@ MRI根據血腫內血紅蛋白的化學狀態演變，可將腦實質血腫分�
 - **海綿狀畸形**：T2* 上出現多發暗點為家族性變異的表現。Multiple dark spots on T2* (familial variant) suggest cavernous malformation.
 - **靜脈血栓與出血性腫瘤**：旁矢狀或雙側丘腦出血須考慮靜脈血栓；多發強化病灶提示出血性腫瘤。Parasagittal or bilateral thalamic hemorrhage raises concern for venous thrombosis, while multiple enhancing lesions suggest a hemorrhagic neoplasm.
 - **其他鑑別**：年輕女性患者的丘腦出血、腦皮質靜脈或硬腦膜竇密度增加提示靜脈血栓；腦梗塞病史或溶血治療史提示出血性梗塞；多發深部白質 T2 延長合併系統性血管炎病史提示 CNS 血管炎；頸內動脈阻塞合併多發側支循環提示毛毛樣血管病（moyamoya）。Other clues include a young patient, especially female, with increased density in a cortical vein or dural sinus (venous thrombosis); history of infarct or thrombolytic therapy (hemorrhagic infarct); history of systemic vasculitis with multifocal deep white matter T2 prolongation (CNS vasculitis); and occlusion of the internal carotid arteries with multiple collateral vessels (moyamoya).
-
-
-白質疾病的典型MRI表現為受影響白質區域的T2延長訊號。脫髓鞘疾病的關鍵影像特徵是：相對於病竈大小，佔位效應極輕微。多發性硬化症（MS）是最常見的慢性脫髓鞘疾病，好發於中年高加索女性，主要臨床表現包括復發-緩解型和進展型。典型MRI特徵包括垂直於腦室的Dawson手指狀病竈（Dawson fingers）和增強活性脫髓鞘斑塊。
-
-**重點摘要**
-- **脫髓鞘疾病關鍵特徵**：相對於病竈大小，佔位效應極輕微（English: Key imaging finding of demyelinating disease is minimal mass effect relative to lesion size）
-- **多發性硬化症（MS）**：白質T2延長，好發於中年高加索女性（English: MS is more common in middle-aged Caucasian females）
-- **復發-緩解型MS**：每次急性發作後可有部分或完全緩解（English: Relapsing-remitting MS shows partial or complete resolution of each acute attack）
-
----
 
 ### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞 (Page 273)
 
@@ -1526,6 +1526,16 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 290](/core_radiology/images/neuro/page-290.png)
 
+中毒性與代謝性腦病變涵蓋肝臟疾病、低血糖、缺氧缺血性腦病變（HIE）、甲醇中毒和一中氧化碳中毒。肝臟疾病的典型MRI表現為T1加權影像上蒼白球和黑質的高訊號，因錳沉積所致。一氧化碳中毒典型導致蒼白球對稱性T2延長和受限擴散。HIE由循環或呼吸衰竭引起的全腦缺氧/缺氧導致，影像上灰質結構優先受累，預後不良時見基底節受累。
+
+**重點摘要**
+- **肝臟疾病**：T1蒼白球高訊號 = 錳沉積（English: T1 hyperintensity in globus pallidus in liver disease indicates manganese deposition）
+- **一中氧化碳中毒**：蒼白球對稱性T2延長和受限擴散（English: Carbon monoxide poisoning causes symmetric globus pallidus T2 prolongation and restricted diffusion）
+- **HIE預後指標**：基底節受累提示預後不良（English: Basal ganglia involvement in HIE portends a worse prognosis）
+
+---
+
+
 #### Creutzfeldt–Jakob 病（CJD） / Creutzfeldt-Jakob Disease (CJD) Imaging Signs
 
 **Creutzfeldt–Jakob disease**（CJD）是由朊病毒（prion）引起的罕見神經退化性疾病。Creutzfeldt-Jakob disease (CJD) is a rare neurodegenerative disease caused by a prion. 其典型 MRI 表現為**皮質帶狀徵**（cortical ribboning），即大腦皮質的帶狀 FLAIR 高訊號與受限擴散，並常伴隨基底核與丘腦受累，運動皮質則常相對保留。The typical MRI appearance of CJD is cortical ribboning, which describes ribbonlike FLAIR hyperintensity and restricted diffusion of the cerebral cortex; the basal ganglia and thalami are also involved, and there is often sparing of the motor cortex. 丘腦的兩種特徵性徵象為 pulvinar sign 與 hockey stick sign。The two characteristic thalamic signs are the pulvinar sign and the hockey stick sign.
@@ -1536,16 +1546,6 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 - **運動皮質相對保留**：常見運動皮質相對不受侵犯，是與其他皮質帶狀病變鑑別的線索。There is often relative sparing of the motor cortex.
 - **影像表現**：軸向 FLAIR（上排）與 DWI（下排）顯示大腦皮質、基底核與背內側丘腦訊號廣泛增高並受限擴散（與 ADC map 對照未附），運動皮質相對保留（紅箭頭），第一張 FLAIR 影像上可見丘腦的曲棍球棒徵（黃箭頭）。Axial FLAIR (top row) and DWI (bottom row) show diffusely increased FLAIR signal with restricted diffusion (when correlated to ADC maps, not shown) in the cerebral cortex, basal ganglia, and dorsomedial thalamus, with relative sparing of the motor cortex (red arrows); a hockey stick sign is visible in the thalami on the first FLAIR image (yellow arrows).
 - **曲棍球棒徵的形態**：FLAIR 影像上背內側丘腦的高訊號，其形態模擬曲棍球棒。On FLAIR the hyperintensity of the dorsomedial thalami mimics the shape of a hockey stick.
-
-中毒性與代謝性腦病變涵蓋肝臟疾病、低血糖、缺氧缺血性腦病變（HIE）、甲醇中毒和一中氧化碳中毒。肝臟疾病的典型MRI表現為T1加權影像上蒼白球和黑質的高訊號，因錳沉積所致。一氧化碳中毒典型導致蒼白球對稱性T2延長和受限擴散。HIE由循環或呼吸衰竭引起的全腦缺氧/缺氧導致，影像上灰質結構優先受累，預後不良時見基底節受累。
-
-**重點摘要**
-- **肝臟疾病**：T1蒼白球高訊號 = 錳沉積（English: T1 hyperintensity in globus pallidus in liver disease indicates manganese deposition）
-- **一中氧化碳中毒**：蒼白球對稱性T2延長和受限擴散（English: Carbon monoxide poisoning causes symmetric globus pallidus T2 prolongation and restricted diffusion）
-- **HIE預後指標**：基底節受累提示預後不良（English: Basal ganglia involvement in HIE portends a worse prognosis）
-
----
-
 ## Head & Neck Infections / 頭頸部感染
 ### Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (Page 292)
 
@@ -1668,6 +1668,16 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 ### Acute and Allergic Fungal Sinusitis / 急性與慢性過敏性真菌性鼻竇炎 (Page 301)
 
 ![Page 300](/core_radiology/images/neuro/page-300.png)
+
+慢性過敏性真菌性鼻竇炎是一種非侵入性疾病，由對真菌的過敏反應引起，多見於有氣喘病史的免疫功能正常患者。CT上竇腔擴張無氣，竇內容物呈混合衰減並有異質性曲線樣高密度。急性侵入性真菌性鼻竇炎好發於免疫抑制患者，病原以麯菌（Aspergillus）和接合菌（Zygomycetes）最常見，早期影像僅見黏膜增厚，後期可見局部侵犯、骨質破壞和顱內/眼眶蔓延。
+
+**重點摘要**
+- **慢性過敏性真菌性鼻竇炎**：免疫正常、氣喘患者，竇腔擴張伴混合衰減內容物（English: Chronic allergic fungal sinusitis occurs in immunocompetent patients with asthma; sinuses are expanded with mixed attenuation contents）
+- **急性侵入性真菌性鼻竇炎**：免疫抑制患者，麯菌最常見（English: Acute invasive fungal sinusitis occurs in immunosuppressed patients; Aspergillus is most common organism）
+- **抗、反轉術（Antrochoanal polyp）**：從上頜竇經竇口擴展至鼻咽（English: Antrochoanal polyp extends from maxillary sinus through ostium into nasopharynx）
+
+---
+
 #### 鼻甲與鼻道 / Turbinates and Meatuses
 
 **Turbinates**（鼻甲）是鼻腔內三對成對的骨性突起。The turbinates are three paired bony protuberances within the nasal cavity. 鼻甲與鼻道（meatuses）的相對位置決定了鼻竇的引流路徑，其中中鼻道是上頜竇、額竇與前篩竇經竇口鼻道復合體（OMU）引流的共同通道。The relative position of the turbinates and meatuses determines sinus drainage; the middle meatus is the air channel lateral to the middle turbinate and the common drainage pathway of the maxillary, frontal, and anterior ethmoid sinuses via the OMU. 慢性鼻竇炎被認為源於正常引流路徑阻塞，功能性內視鏡鼻竇手術（FESS）以解除阻塞為目標，因此術前必須報告可能導致手術併發症的解剖變異。Chronic sinusitis is thought to be caused by obstruction of the normal drainage pathways, and the goal of functional endoscopic sinus surgery (FESS) is to relieve the obstruction.
@@ -1679,19 +1689,19 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 - **術前必須報告的骨壁缺損**：紙樣板（lamina papyracea）缺損在影像上呈現眼球向內側膨出，篩狀板（cribriform plate）缺損則造成額葉向下膨出，手術醫師若不知情可能誤入。A dehiscent lamina papyracea appears as a medial bulging of the orbit, and a dehiscent cribriform plate may produce inferior bulging of the frontal lobe, which can be entered by mistake at endoscopic surgery.
 - **慢性鼻竇炎的成因**：正常引流路徑阻塞是慢性鼻竇炎的主要成因，FESS 的目標即為解除阻塞。Chronic sinusitis is thought to be caused by obstruction of the normal drainage pathways, and the goal of FESS is to relieve the obstruction.
 
-
-慢性過敏性真菌性鼻竇炎是一種非侵入性疾病，由對真菌的過敏反應引起，多見於有氣喘病史的免疫功能正常患者。CT上竇腔擴張無氣，竇內容物呈混合衰減並有異質性曲線樣高密度。急性侵入性真菌性鼻竇炎好發於免疫抑制患者，病原以麯菌（Aspergillus）和接合菌（Zygomycetes）最常見，早期影像僅見黏膜增厚，後期可見局部侵犯、骨質破壞和顱內/眼眶蔓延。
-
-**重點摘要**
-- **慢性過敏性真菌性鼻竇炎**：免疫正常、氣喘患者，竇腔擴張伴混合衰減內容物（English: Chronic allergic fungal sinusitis occurs in immunocompetent patients with asthma; sinuses are expanded with mixed attenuation contents）
-- **急性侵入性真菌性鼻竇炎**：免疫抑制患者，麯菌最常見（English: Acute invasive fungal sinusitis occurs in immunosuppressed patients; Aspergillus is most common organism）
-- **抗、反轉術（Antrochoanal polyp）**：從上頜竇經竇口擴展至鼻咽（English: Antrochoanal polyp extends from maxillary sinus through ostium into nasopharynx）
-
----
-
 ### Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 (Page 302)
 
 ![Page 301](/core_radiology/images/neuro/page-301.png)
+
+黏囊腫（mucocele）是竇口阻塞後竇腔擴張無氣的結果，內容物訊號隨慢性程度而異：隨時間進展，T1訊號增加，T2訊號降低（因脫水），晚期T2可極低模擬正常充氣竇。內翻性乳頭狀瘤（inverted papilloma）是鼻竇黏膜的良性上皮腫瘤，但10-20%與鱗狀細胞癌相關。典型CT可見骨質重塑，MRI增強掃描可見特徵性「大腦狀」強化模式（cerebriform pattern），即曲線樣、腦回狀強化。
+
+**重點摘要**
+- **黏囊腫**：竇口阻塞→竇腔擴張無氣；內容物訊號隨脫水程度變化（English: Mucocele results from sinus ostium obstruction; signal varies with desiccation degree）
+- **內翻性乳頭狀瘤**：10-20%與鱗狀細胞癌相關（English: Inverted papilloma is associated with squamous cell carcinoma in 10-20% of cases）
+- **大腦狀強化（cerebriform）**：內翻性乳頭狀瘤的特徵性MRI強化模式（English: Cerebriform enhancement pattern is characteristic of inverted papilloma on MRI）
+
+---
+
 
 #### 氣化鼻甲（Concha bullosa） / Concha Bullosa
 
@@ -1703,16 +1713,6 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 - **慢性鼻竇炎**：鼻竇黏膜持續發炎至少 12 consecutive weeks 稱為慢性鼻竇炎，在美國每年影響超過 3,000 萬人，屬臨床診斷，影像主要保留給術前規劃或評估疑似的併發症。Chronic sinusitis is inflammation of the paranasal sinus mucosa that lasts for at least 12 consecutive weeks, affecting more than 30 million people annually in the US; it is a clinical diagnosis, with imaging reserved for presurgical planning or suspected complications.
 - **鼻竇炎的併發症**：感染直接蔓延可造成眼眶併發症（眶隔前蜂窩組織炎、眶蜂窩組織炎、眼靜脈血栓）、顱內併發症（海綿竇血栓、腦膜炎、硬膜外、硬膜下或腦實質內膿腫）與骨質併發症；額骨骨髓炎可造成帽狀腱膜下膿腫，即 Pott's puffy tumor。Direct spread of infection can cause orbital complications (preseptal cellulitis, orbital cellulitis, ophthalmic vein thrombosis), intracranial complications (cavernous sinus thrombosis, meningitis, epidural, subdural or intraparenchymal abscess) and bony complications, with frontal bone osteomyelitis producing a subgaleal abscess called Pott's puffy tumor.
 - **黏液滯留囊腫**：屬常見的偶然發現，代表小黏膜漿液性或黏液性腺體阻塞。A mucus retention cyst is a common incidental finding representing obstruction of the small mucosal serous or mucinous glands.
-
-黏囊腫（mucocele）是竇口阻塞後竇腔擴張無氣的結果，內容物訊號隨慢性程度而異：隨時間進展，T1訊號增加，T2訊號降低（因脫水），晚期T2可極低模擬正常充氣竇。內翻性乳頭狀瘤（inverted papilloma）是鼻竇黏膜的良性上皮腫瘤，但10-20%與鱗狀細胞癌相關。典型CT可見骨質重塑，MRI增強掃描可見特徵性「大腦狀」強化模式（cerebriform pattern），即曲線樣、腦回狀強化。
-
-**重點摘要**
-- **黏囊腫**：竇口阻塞→竇腔擴張無氣；內容物訊號隨脫水程度變化（English: Mucocele results from sinus ostium obstruction; signal varies with desiccation degree）
-- **內翻性乳頭狀瘤**：10-20%與鱗狀細胞癌相關（English: Inverted papilloma is associated with squamous cell carcinoma in 10-20% of cases）
-- **大腦狀強化（cerebriform）**：內翻性乳頭狀瘤的特徵性MRI強化模式（English: Cerebriform enhancement pattern is characteristic of inverted papilloma on MRI）
-
----
-
 ## Salivary Glands / 唾液腺
 
 ![Page 303](/core_radiology/images/neuro/page-303.png)
@@ -1761,6 +1761,16 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 
 ![Page 306](/core_radiology/images/neuro/page-306.png)
 
+Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年女性好發。影像上可見唾液腺組織萎縮和脂肪置換，伴多發結節、異質強化、小的囊性竈和點狀鈣化。Sjögren症候群患者發生腮腺和頭頸部淋巴瘤的風險顯著增加，任何新出現的優勢性腮腺腫塊都應懷疑淋巴瘤。HIV淋巴上皮性病變表現為雙側多發囊性腫塊，腮腺是唯一含有固有淋巴組織的唾液腺。
+
+**重點摘要**
+- **Sjögren症候群**：唾液腺和淚腺自體免疫疾病，中年女性（English: Sjögren syndrome is autoimmune disorder affecting salivary and lacrimal glands, middle-aged females）
+- **淋巴瘤風險**：腮腺/頭頸部淋巴瘤風險增加（English: Markedly increased risk of parotid and head/neck lymphoma in Sjögren syndrome）
+- **HIV淋巴上皮性病變**：雙側多發囊性腮腺腫塊（English: HIV lymphoepithelial lesions present as multiple bilateral cystic parotid masses）
+
+---
+
+
 #### 唾液腺結石與阻塞性唾液腺炎 / Sialolithiasis and Obstructive Sialadenitis
 
 **唾液腺結石（sialolithiasis）** 是唾液腺導管內的結石病，可造成導管阻塞，進而引起唾液腺炎症，稱為**阻塞性唾液腺炎（obstructive sialadenitis）**。同頁原書另提及**類肉芽腫病（sarcoidosis）** 對腮腺的侵犯。 Sialolithiasis (stone disease of the salivary ducts) can cause obstruction of the duct and resultant inflammation of the salivary gland, referred to as obstructive sialadenitis. Sarcoidosis can involve the parotid gland.
@@ -1771,16 +1781,6 @@ Creutzfeldt-Jakob病（CJD）是由朊病毒（prion）引起的罕見神經退�
 - **形成原因**：下頜下腺的分泌物相對黏稠且呈鹼性，加上**下頜下腺導管呈上坡走向（uphill course）**，容易造成分泌滯留。The submandibular gland has relatively viscous and alkaline secretions, and the submandibular duct has an uphill course, which predisposes to stasis.
 - **類肉芽腫病與腮腺**：類肉芽腫病患者中最多 30% 可見腮腺侵犯，通常表現為**雙側無痛性腫大**。Involvement of the parotid gland is seen in up to 30% of patients with sarcoidosis, typically presenting as bilateral painless swelling.
 - **葡萄膜腮腺熱與熊貓徵**：**葡萄膜腮腺熱（uveoparotid fever）** 表現為雙側葡萄膜炎、腮腺增大與顏面神經麻痺，被視為類肉芽腫病的特徵性表現；**鎵-67 閼掃描（gallium-67 scintigraphy）** 可因淚腺與腮腺攝取增加而產生典型的**熊貓徵（panda sign）**。Uveoparotid fever presents with bilateral uveitis, parotid enlargement, and facial nerve palsy and is considered pathognomonic for sarcoidosis; gallium-67 scintigraphy produces the classic panda sign from increased uptake by the lacrimal and parotid glands.
-
-Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年女性好發。影像上可見唾液腺組織萎縮和脂肪置換，伴多發結節、異質強化、小的囊性竈和點狀鈣化。Sjögren症候群患者發生腮腺和頭頸部淋巴瘤的風險顯著增加，任何新出現的優勢性腮腺腫塊都應懷疑淋巴瘤。HIV淋巴上皮性病變表現為雙側多發囊性腫塊，腮腺是唯一含有固有淋巴組織的唾液腺。
-
-**重點摘要**
-- **Sjögren症候群**：唾液腺和淚腺自體免疫疾病，中年女性（English: Sjögren syndrome is autoimmune disorder affecting salivary and lacrimal glands, middle-aged females）
-- **淋巴瘤風險**：腮腺/頭頸部淋巴瘤風險增加（English: Markedly increased risk of parotid and head/neck lymphoma in Sjögren syndrome）
-- **HIV淋巴上皮性病變**：雙側多發囊性腮腺腫塊（English: HIV lymphoepithelial lesions present as multiple bilateral cystic parotid masses）
-
----
-
 ### Pterygopalatine Fossa Anatomy / 翼顎窩解剖 (Page 308)
 
 ![Page 307](/core_radiology/images/neuro/page-307.png)
@@ -1854,17 +1854,6 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 
 ![Page 312](/core_radiology/images/neuro/page-312.png)
-#### 阻塞性角化病（Keratosis obturans）與外耳道病變 / Keratosis Obturans and External Auditory Canal Lesions
-
-**阻塞性角化病（keratosis obturans）** 的特徵是**擴大的外耳道（external auditory canal, EAC）內有角化栓塞（keratin plugs）**，通常見於合併**鼻竇炎與支氣管擴張**的年輕患者，且多為**雙側**。同頁原書亦指出，**後天性膽脂瘤（cholesteatoma）** 較常見於中耳，但當外耳道出現軟組織腫塊、尤其合併骨質侵蝕時，仍須列入鑑別診斷。 Keratosis obturans is characterized by keratin plugs within an enlarged EAC, and is typically seen in young patients with sinusitis and bronchiectasis. It is usually bilateral. Acquired cholesteatomas occur more commonly in the middle ear, but should be considered in the differential of an EAC soft tissue mass, especially in the presence of bony erosion.
-
-**重點摘要**
-- **定義**：阻塞性角化病的特徵是擴大的外耳道內有角化栓塞堆積。Keratosis obturans is characterized by keratin plugs within an enlarged EAC.
-- **好發族群**：典型見於合併鼻竇炎與支氣管擴張的年輕患者。It is typically seen in young patients with sinusitis and bronchiectasis.
-- **多為雙側**：通常為雙側性病變。It is usually bilateral.
-- **影像表現**：CT 可見擴大的外耳道，其內有角化栓塞（軟組織樣物質）填塞。CT demonstrates an enlarged external auditory canal containing keratin plugs.
-- **與膽脂瘤的鑑別**：後天性膽脂瘤較常見於中耳，但外耳道軟組織腫塊合併骨質侵蝕時仍應列入鑑別診斷；外耳道最常見的惡性腫瘤為**鱗狀細胞癌（squamous cell carcinoma）**。Acquired cholesteatomas occur more commonly in the middle ear but should be considered in the differential of an EAC soft tissue mass with bony erosion; the most common malignancy of the external auditory canal is squamous cell carcinoma.
-
 
 外耳道（EAC）為纖維軟骨管，聲音經由此通道進入中耳。先天性EAC狹窄、發育不全與閉鎖相對常見，EAC與內耳有不同的胚胎起源，因此兩者同時異常並不常見。鎚骨與砧骨屬於第一鰓裂結構，在EAC閉鎖時通常也會異常。急性外耳炎俗稱「游泳耳」，好發於高濕度地區。EAC外生骨疣（衝浪者耳）則見於冷水游泳或衝浪者。壞死性外耳炎（惡性外耳炎）好發於老年糖尿病或免疫抑制患者，常見病原菌在糖尿病患為綠膿桿菌，免疫抑制者為麴菌。影像上可見以外耳為中心的大範圍強化，並伴隨骨質侵蝕。阻塞性角化病為角化栓塞塞住擴大的EAC，常見於有鼻竇炎與支氣管擴張的年輕患者，通常為雙側。膽脂瘤虽多見於中耳，但當EAC出現軟組織腫塊且合併骨質侵蝕時也需列入鑑別診斷。外耳道最常見的惡性腫瘤為鱗狀細胞癌。
 
@@ -1875,6 +1864,17 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 - **Cholesteatoma（膽脂瘤）**：外耳道軟組織腫塊合併骨侵蝕需考慮
 
 ---
+
+#### 阻塞性角化病（Keratosis obturans）與外耳道病變 / Keratosis Obturans and External Auditory Canal Lesions
+
+**阻塞性角化病（keratosis obturans）** 的特徵是**擴大的外耳道（external auditory canal, EAC）內有角化栓塞（keratin plugs）**，通常見於合併**鼻竇炎與支氣管擴張**的年輕患者，且多為**雙側**。同頁原書亦指出，**後天性膽脂瘤（cholesteatoma）** 較常見於中耳，但當外耳道出現軟組織腫塊、尤其合併骨質侵蝕時，仍須列入鑑別診斷。 Keratosis obturans is characterized by keratin plugs within an enlarged EAC, and is typically seen in young patients with sinusitis and bronchiectasis. It is usually bilateral. Acquired cholesteatomas occur more commonly in the middle ear, but should be considered in the differential of an EAC soft tissue mass, especially in the presence of bony erosion.
+
+**重點摘要**
+- **定義**：阻塞性角化病的特徵是擴大的外耳道內有角化栓塞堆積。Keratosis obturans is characterized by keratin plugs within an enlarged EAC.
+- **好發族群**：典型見於合併鼻竇炎與支氣管擴張的年輕患者。It is typically seen in young patients with sinusitis and bronchiectasis.
+- **多為雙側**：通常為雙側性病變。It is usually bilateral.
+- **影像表現**：CT 可見擴大的外耳道，其內有角化栓塞（軟組織樣物質）填塞。CT demonstrates an enlarged external auditory canal containing keratin plugs.
+- **與膽脂瘤的鑑別**：後天性膽脂瘤較常見於中耳，但外耳道軟組織腫塊合併骨質侵蝕時仍應列入鑑別診斷；外耳道最常見的惡性腫瘤為**鱗狀細胞癌（squamous cell carcinoma）**。Acquired cholesteatomas occur more commonly in the middle ear but should be considered in the differential of an EAC soft tissue mass with bony erosion; the most common malignancy of the external auditory canal is squamous cell carcinoma.
 
 ### 中耳 / 中耳與相鄰顏面神經（Middle Ear and Facial Nerve） (Page 314)
 
@@ -1919,16 +1919,6 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ![Page 316](/core_radiology/images/neuro/page-316.png)
 
-#### Michel 發育不全與內耳先天性畸形 / Michel Aplasia and Congenital Inner Ear Malformations
-
-**Michel 發育不全（Michel aplasia）** 是**整個內耳完全缺乏發育**的先天性異常，非常罕見。原書同頁並列的其他內耳病變，包括與先天性聽力損失相關的**前庭導水管擴大症候群（enlarged vestibular aqueduct syndrome）** 與**耳硬化症（otospongiosis）**，這些病變的內耳構造仍然存在，與 Michel 發育不全的整個內耳缺如截然不同。 Michel aplasia is a very rare complete lack of development of the entire inner ear. The same page lists enlarged vestibular aqueduct syndrome, associated with congenital hearing loss, and otospongiosis; in both, inner ear structures are present, in contrast to the complete absence of the inner ear in Michel aplasia.
-
-**重點摘要**
-- **定義**：Michel 發育不全為整個內耳（耳蝸、前庭與半規管）完全缺乏發育。Michel aplasia is a very rare complete lack of development of the entire inner ear.
-- **罕見程度**：屬於非常罕見的先天性內耳發育異常。It is a very rare congenital developmental abnormality of the inner ear.
-- **與前庭導水管擴大症候群的區別**：前庭導水管擴大症候群的內耳構造仍完整存在，僅前庭導水管擴大，並可造成進行性聽力損失。In enlarged vestibular aqueduct syndrome, inner ear structures remain present with enlargement of the vestibular aqueduct, and progressive hearing loss may result.
-- **與耳硬化症的區別**：耳硬化症為耳囊的原發性骨發育不良，好發於年輕與中年女性且 85% 為雙側，屬於已發育內耳的病變而非內耳缺如。Otospongiosis is a primary bone dysplasia of the otic capsule occurring most commonly in young and middle-aged women and is bilateral 85% of the time; it affects a normally developed inner ear rather than an absent one.
-
 內耳由耳囊（otic capsule）構成，為含有耳蝸、前庭與半規管等液體填充空間的骨性結構。耳囊是人體最緻密的骨頭。耳蝸讓我們聽見聲音，是一個兩圈半的螺旋結構，內含聽上皮毛細胞。前庭與半規管負責平衡，三個半規管在三度空間中相互垂直。前庭導水管連接上半規管與後半規管的共同腳至內耳道的蛛網膜下腔。柯氏發育不全（Mondini deformity）是最常見的先天性耳蝸發育不全，表現為正常的兩圈半旋轉發育不完全。前庭導水管擴大症候群與先天性聽力損失有關。耳硬化症（otospongiosis）好發於年輕與中年女性，85%為雙側性，分為窗性與窗後性兩種。
 
 **重點摘要**
@@ -1938,6 +1928,16 @@ Sjögren症候群是自體免疫疾病，影響大小唾液腺和淚腺，中年
 
 ---
 
+
+#### Michel 發育不全與內耳先天性畸形 / Michel Aplasia and Congenital Inner Ear Malformations
+
+**Michel 發育不全（Michel aplasia）** 是**整個內耳完全缺乏發育**的先天性異常，非常罕見。原書同頁並列的其他內耳病變，包括與先天性聽力損失相關的**前庭導水管擴大症候群（enlarged vestibular aqueduct syndrome）** 與**耳硬化症（otospongiosis）**，這些病變的內耳構造仍然存在，與 Michel 發育不全的整個內耳缺如截然不同。 Michel aplasia is a very rare complete lack of development of the entire inner ear. The same page lists enlarged vestibular aqueduct syndrome, associated with congenital hearing loss, and otospongiosis; in both, inner ear structures are present, in contrast to the complete absence of the inner ear in Michel aplasia.
+
+**重點摘要**
+- **定義**：Michel 發育不全為整個內耳（耳蝸、前庭與半規管）完全缺乏發育。Michel aplasia is a very rare complete lack of development of the entire inner ear.
+- **罕見程度**：屬於非常罕見的先天性內耳發育異常。It is a very rare congenital developmental abnormality of the inner ear.
+- **與前庭導水管擴大症候群的區別**：前庭導水管擴大症候群的內耳構造仍完整存在，僅前庭導水管擴大，並可造成進行性聽力損失。In enlarged vestibular aqueduct syndrome, inner ear structures remain present with enlargement of the vestibular aqueduct, and progressive hearing loss may result.
+- **與耳硬化症的區別**：耳硬化症為耳囊的原發性骨發育不良，好發於年輕與中年女性且 85% 為雙側，屬於已發育內耳的病變而非內耳缺如。Otospongiosis is a primary bone dysplasia of the otic capsule occurring most commonly in young and middle-aged women and is bilateral 85% of the time; it affects a normally developed inner ear rather than an absent one.
 ### 迷路炎與顳骨骨折 / 迷路炎與顳骨骨折（Labyrinthitis and Temporal Bone Fractures） (Page 318)
 
 ![Page 317](/core_radiology/images/neuro/page-317.png)

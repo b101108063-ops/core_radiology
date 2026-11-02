@@ -254,6 +254,16 @@ weight: 6
 
 ![Page 491](/core_radiology/images/ultrasound/page-491.png)
 
+急性胰臟炎（Acute Pancreatitis）最常見原因為酒精或膽結石，超聲波在評估疑似急性胰臟炎時用於檢查結石或膽道阻塞。急性胰臟炎時胰臟通常正常或輕微腫大、呈相對低迴聲。慢性胰臟炎（Chronic Pancreatitis）由反覆急性發作引起（最常見為酒精），典型超聲表現為腺體萎縮、瀰漫性鈣化以及胰管擴張且呈念珠狀。胰臟癌（Pancreatic Adenocarcinoma）為最常見的胰臟腫瘤，典型發生於胰臟頭部，常因導管阻塞而表現為雙導管徵（double duct sign，即胰管與膽總管同時擴張）。
+
+**重點摘要**
+- **急性胰臟炎**：酒精或膽結石引起，胰臟通常正常或輕微低迴聲
+- **慢性胰臟炎**：腺體萎縮、胰管鈣化、念珠狀胰管
+- **胰臟癌（Pancreatic Adenocarcinoma）**：胰臟頭部最常見，double duct sign
+
+---
+
+
 #### 肝靜脈 A 波（A-wave） / Hepatic Vein A-Wave
 
 **A 波（A-wave）** 為肝靜脈（hepatic vein）都卜勒波形中的心房收縮波，在心房收縮（atrial systole）時血液被逆流（retrograde，遠離心臟）灌入肝臟。在彩色都卜勒上，逆流血流方向為朝向探頭（towards transducer），順流（anterograde）則是進入心臟、遠離探頭。 The A-wave is the atrial systole component of the hepatic vein Doppler waveform, during which blood is forced retrograde (away from the heart) into the liver; on color Doppler, retrograde flow is directed towards the transducer while anterograde flow travels into the heart, away from the transducer.
@@ -286,16 +296,6 @@ weight: 6
 - **三尖瓣逆流（tricuspid regurgitation）**：心室收縮期血液由右心室流入右心房，使肝靜脈與下腔靜脈（IVC）回流減少，造成 S 波變短甚至逆轉。In tricuspid regurgitation, blood flows from the right ventricle into the right atrium during ventricular systole, allowing less blood to return to the right atrium from the hepatic veins and IVC during ventricular systole, resulting in a decreased or even retrograde S-wave.
 - **右心衰竭（right-sided heart failure）的差異**：高的 A 波源於右心房壓力升高；但與三尖瓣逆流不同，因三尖瓣功能仍正常，S 波維持正常。In right-sided heart failure, the tall A-wave is due to increased right atrial pressure; in contrast to tricuspid regurgitation, the S-wave is normal since the tricuspid valve remains competent.
 - **影像表現**：肝靜脈波形圖標示 S 波（心室收縮期）與 D 波（心室舒張期），並顯示朝向探頭的逆流與進入心臟、遠離探頭的順流。The hepatic vein waveform diagram labels the S-wave (ventricular systole) and the D-wave (ventricular diastole), with retrograde (towards transducer) and anterograde (into heart, away from transducer) flow.
-
-急性胰臟炎（Acute Pancreatitis）最常見原因為酒精或膽結石，超聲波在評估疑似急性胰臟炎時用於檢查結石或膽道阻塞。急性胰臟炎時胰臟通常正常或輕微腫大、呈相對低迴聲。慢性胰臟炎（Chronic Pancreatitis）由反覆急性發作引起（最常見為酒精），典型超聲表現為腺體萎縮、瀰漫性鈣化以及胰管擴張且呈念珠狀。胰臟癌（Pancreatic Adenocarcinoma）為最常見的胰臟腫瘤，典型發生於胰臟頭部，常因導管阻塞而表現為雙導管徵（double duct sign，即胰管與膽總管同時擴張）。
-
-**重點摘要**
-- **急性胰臟炎**：酒精或膽結石引起，胰臟通常正常或輕微低迴聲
-- **慢性胰臟炎**：腺體萎縮、胰管鈣化、念珠狀胰管
-- **胰臟癌（Pancreatic Adenocarcinoma）**：胰臟頭部最常見，double duct sign
-
----
-
 ### Page 492 / 胰臟囊性腫瘤與內分泌腫瘤 (Cystic Pancreatic Neoplasms and Pancreatic Endocrine Tumors)
 
 ![Page 492](/core_radiology/images/ultrasound/page-492.png)
@@ -574,6 +574,16 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 ### Page 511 / 深部靜脈血栓、腹主動脈瘤與血管超聲 (DVT, AAA, and Vascular Ultrasound)
 
 ![Page 511](/core_radiology/images/ultrasound/page-511.png)
+
+下肢靜脈系統解剖包括大隱靜脈與小隱靜脈（屬於淺層系統）以及深層靜脈系統（與動脈解剖對應）。正常股靜脈位於股總動脈內側，深靜脈血栓（DVT）的超聲診斷要件為靜脈不可壓迫且可能伴有腔內血栓。腹主動脈瘤（AAA）超聲為主要篩檢工具，直徑>5.5cm應考慮治療。血栓超聲檢查中，增強（augmentation）為正常小腿擠壓時波形改變，缺乏增強提示遠端靜脈阻塞；呼吸變異為患者吸氣時波形正常改變，缺乏提示近端靜脈阻塞。
+
+**重點摘要**
+- **DVT**：靜脈不可壓迫為核心發現
+- **AAA篩檢**：65-79歲有吸菸史男性，>5.5cm考慮治療
+- **呼吸變異**：吸氣時正常血流增加，缺乏提示近端阻塞
+
+---
+
 #### 內收肌裂孔（adductor hiatus）與下肢深靜脈解剖 / Adductor Hiatus and Lower Extremity Venous Anatomy
 
 **內收肌裂孔（adductor hiatus）** 是小腿三條深靜脈匯入膕靜脈（popliteal vein, PV）的解剖開口。脛前靜脈（外側）、腓靜脈（中間）與脛後靜脈（內側）在此匯合成膕靜脈，膕靜脈再延續為股靜脈。 The adductor hiatus is the opening where the three calf veins join to form the popliteal vein: the anterior tibial vein (lateral), the peroneal vein (middle), and the posterior tibial vein (medial); the popliteal vein then continues into the femoral vein.
@@ -584,16 +594,6 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **股總靜脈（CFV）**：於腹股溝韌帶高度起始，流入髂外靜脈，位置在股總動脈內側。The common femoral vein begins at the level of the inguinal ligament, drains into the external iliac vein, and lies medial to the common femoral artery; its tributaries include the deep femoral and femoral veins.
 - **避免使用「淺股靜脈」**：股靜脈舊稱淺股靜脈（superficial femoral vein），此名稱會錯誤暗示它屬於淺靜脈系統，應避免使用。The femoral vein was previously called the superficial femoral vein, but that term should be avoided because it wrongly implies that this vein is part of the superficial venous system.
 - **影像表現**：解剖示意圖標示內收肌裂孔，並標出前脛、腓、後脛三條靜脈由外側至內側的排列及其與膕靜脈的關係。The anatomic diagram labels the adductor hiatus and the anterior tibial, peroneal, and posterior tibial veins from lateral to medial, together with their relationship to the popliteal vein.
-
-
-下肢靜脈系統解剖包括大隱靜脈與小隱靜脈（屬於淺層系統）以及深層靜脈系統（與動脈解剖對應）。正常股靜脈位於股總動脈內側，深靜脈血栓（DVT）的超聲診斷要件為靜脈不可壓迫且可能伴有腔內血栓。腹主動脈瘤（AAA）超聲為主要篩檢工具，直徑>5.5cm應考慮治療。血栓超聲檢查中，增強（augmentation）為正常小腿擠壓時波形改變，缺乏增強提示遠端靜脈阻塞；呼吸變異為患者吸氣時波形正常改變，缺乏提示近端靜脈阻塞。
-
-**重點摘要**
-- **DVT**：靜脈不可壓迫為核心發現
-- **AAA篩檢**：65-79歲有吸菸史男性，>5.5cm考慮治療
-- **呼吸變異**：吸氣時正常血流增加，缺乏提示近端阻塞
-
----
 
 ### Page 512 / 子宮內膜與週期性變化 (Endometrium and Cyclical Changes)
 
@@ -651,6 +651,16 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ![Page 516](/core_radiology/images/ultrasound/page-516.png)
 
+約20度的宮底前傾為正常，膀胱充盈時前傾角度減小。子宫後傾（retroversion）經腹部掃描時宮底顯示可能不佳；子宫後彎（retroflexion）可導致宮底更嚴重的衰減。經腹部與經陰道掃描的矢狀面方向相差90度：經腹部掃描時患者仰臥，圖像上方為前側；經陰道掃描時則.flipped as if patient standing on head，意即掃描方向相反。宮頸為子宫最靠近膀胱的部分，在矢狀面上直接位於膀胱角度後方。
+
+**重點摘要**
+- **子宫前傾（anteflexion）**：正常約20度
+- **經陰道vs經腹部**：矢狀面方向相差90度
+- **宮頸**：矢狀面上位於膀胱角度後方
+
+---
+
+
 #### 真骨盆與假骨盆（True and false pelves） / True and False Pelves
 
 **真骨盆（true pelvis）與假骨盆（false pelvis）** 的分界是骨性標記終骨線（linea terminalis），它將真骨盆（下位）與假骨盆（上位）分開。正常情況下子宮與卵巢位於真骨盆內，而充盈的膀胱其頂端可伸入假骨盆，並成為進入真骨盆的超聲聲窗。 The linea terminalis is the bony landmark separating the true (inferior) pelvis from the false (superior) pelvis; normally the uterus and ovaries lie in the true pelvis, while the dome of a full bladder extends into the false pelvis and acts as a sonographic window into the true pelvis.
@@ -661,16 +671,6 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **充盈膀胱的影響**：充盈膀胱的頂端伸入假骨盆，將小腸推出真骨盆，並作為進入真骨盆的超聲聲窗（sonographic window）。The dome of a full bladder extends into the false pelvis, pushing small bowel out of the true pelvis; the bladder acts as a sonographic window into the true pelvis.
 - **與子宮前傾角度的關係**：約 20 度的子宮前傾（anteflexion）屬正常，膀胱充盈時前傾角度減小。About 20 degrees of uterine anteflexion is normal, and as the bladder fills, the degree of anteflexion decreases.
 - **後傾與後彎**：子宮後傾（retroversion）可能使經腹部掃描時宮底顯示不佳；子宮後彎（retroflexion）則可造成宮底更嚴重的聲音衰減。Retroversion of the uterus may cause poor visualization of the fundus transabdominally, and retroflexion of the uterus may cause even more severe sound attenuation of the uterine fundus.
-
-約20度的宮底前傾為正常，膀胱充盈時前傾角度減小。子宫後傾（retroversion）經腹部掃描時宮底顯示可能不佳；子宫後彎（retroflexion）可導致宮底更嚴重的衰減。經腹部與經陰道掃描的矢狀面方向相差90度：經腹部掃描時患者仰臥，圖像上方為前側；經陰道掃描時則.flipped as if patient standing on head，意即掃描方向相反。宮頸為子宫最靠近膀胱的部分，在矢狀面上直接位於膀胱角度後方。
-
-**重點摘要**
-- **子宫前傾（anteflexion）**：正常約20度
-- **經陰道vs經腹部**：矢狀面方向相差90度
-- **宮頸**：矢狀面上位於膀胱角度後方
-
----
-
 ### Page 518 / 子宮發育異常 (Congenital Uterine Malformations)
 
 ![Page 518](/core_radiology/images/ultrasound/page-518.png)
@@ -823,6 +823,17 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 
 ![Page 528](/core_radiology/images/ultrasound/page-528.png)
 
+妊娠囊（Gestational Sac）為早期妊娠最早的超聲發現，經陰道超聲在β-hCG>1,500時應可見到。平均囊直徑（MSD）為三個正交平面直徑的平均值：MSD 8mm時應可見到卵黃囊；MSD 16mm時應可見到胚胎。心跳几乎在胚胎可見時就一定存在；心跳率<90 bpm預後很差。經陰道超聲在β-hCG>1,500時應可見到妊娠囊，第5週時可見到。
+
+**重點摘要**
+- **妊娠囊（Gestational Sac）**：β-hCG>1,500時應可見
+- **卵黃囊（Yolk Sac）**：MSD 8mm時應可見
+- **心跳**：CRL 5mm時應可見；<90 bpm預後差
+- **MSD 16mm**：應可見胚胎
+
+---
+
+
 #### 胚胎心跳與心率（Heartbeat and heart rate） / Embryonic Heartbeat and Heart Rate
 
 **胚胎心跳（heartbeat）** 幾乎在胚胎大到足以被看見時就一定可以偵測到；能測得頭臀長（crown rump length, CRL）卻看不到心跳是少見的情況。若在可見的胚胎上找不到心跳，妊娠失敗的風險很高。 A heartbeat is almost always detected when the embryo is large enough to be seen, and it is unusual to see an embryo with a measurable crown rump length (CRL) without a heartbeat; if no heartbeat is seen in a visible embryo, the pregnancy has a high risk of failure.
@@ -842,17 +853,6 @@ Retzius間隙為恥骨聯合與膀胱之間的腹膜外潜在間隙，此區域�
 - **有 CRL 而無心跳並不常見**：能測量頭臀長（CRL）卻沒有心跳的胚胎是少見的情況。 It is unusual to see an embryo with a measurable crown rump length (CRL) without a heartbeat.
 - **CRL 5 mm 的傳統準則**：CRL 達 5 mm 時應該一定看得到心跳，缺乏心跳曾被認為可 100% 診斷失敗妊娠。 It has long been accepted that a heartbeat should always be seen with a CRL of 5 mm, and lack of a heartbeat was felt to be 100% diagnostic of a failed pregnancy.
 - **影像表現**：圖中為正常胚胎（測量值 3.7 mm）與卵黃囊，該胚胎心率正常，為 112 bpm。 The image shows a normal embryo (measuring 3.7 mm) with yolk sac, and this embryo had a normal heart rate of 112 bpm.
-
-妊娠囊（Gestational Sac）為早期妊娠最早的超聲發現，經陰道超聲在β-hCG>1,500時應可見到。平均囊直徑（MSD）為三個正交平面直徑的平均值：MSD 8mm時應可見到卵黃囊；MSD 16mm時應可見到胚胎。心跳几乎在胚胎可見時就一定存在；心跳率<90 bpm預後很差。經陰道超聲在β-hCG>1,500時應可見到妊娠囊，第5週時可見到。
-
-**重點摘要**
-- **妊娠囊（Gestational Sac）**：β-hCG>1,500時應可見
-- **卵黃囊（Yolk Sac）**：MSD 8mm時應可見
-- **心跳**：CRL 5mm時應可見；<90 bpm預後差
-- **MSD 16mm**：應可見胚胎
-
----
-
 ### Page 529 / 妊娠日期估算與預後 (Pregnancy Dating and Prognosis)
 
 ![Page 529](/core_radiology/images/ultrasound/page-529.png)
@@ -1137,17 +1137,6 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 ### Page 539 / 第一孕期胚胎評估 (First Trimester Embryo Evaluation)
 
 ![Page 539](/core_radiology/images/ultrasound/page-539.png)
-#### 頸項透明層（Nuchal translucency） / Nuchal Translucency Measurement
-
-**頸項透明層（nuchal translucency, NT）** 增厚與唐氏症（Down syndrome）及其他染色體異常的風險增加相關。在固定 5% 假陽性率下，單靠頸項透明層即可偵測約三分之二的 21 三體症（trisomy 21）病例；但必須正確量測才能得到準確數值。 Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities, and with a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21; the measurement must be performed properly to obtain an accurate value.
-
-**重點摘要**
-- **與染色體異常的關聯**：頸項透明層增厚與唐氏症及其他染色體異常的風險增加相關。 Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities.
-- **偵測率**：在固定 5% 假陽性率下，單靠頸項透明層可偵測約三分之二的 21 三體症病例。 With a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21.
-- **正常值上限**：11 weeks 時正常上限為 2.2 mm；14 weeks（CRL 79 mm）時正常上限為 2.8 mm。 At 11 weeks, the upper limit of normal is 2.2 mm; at 14 weeks (CRL 79 mm), the upper limit of normal is 2.8 mm.
-- **量測條件與影像表現**：應使用高對比的頸項設定（high-contrast nuchal setting），胎頭應填滿大部分螢幕，頸部保持中立位置，羊膜應可見，並在最寬處做內緣對內緣（inner−inner）量測；鼻骨應可見。 The measurement requires the high-contrast nuchal setting, the fetal head should fill most of the screen, the neck should be in neutral position, the amnion should be visible, the inner-to-inner measurement is taken at the widest point, and the nasal bone should be visible.
-- **與母體血清檢測合併**：頸項透明層與母體血清檢測（maternal serum testing）合併，用以計算 21 三體症的整體風險。 Nuchal translucency is combined with maternal serum testing to calculate an overall risk of trisomy 21.
-
 
 第一孕期（妊娠6-12週）的胚胎超聲評估因胚胎體積微小，無法進行完整結構掃描，但可針對少數關鍵解剖構造進行評估。**頭臀長（Crown-Rump Length, CRL）** 是6-12週孕期估算的首選測量參數，因為此時期胚胎無法進行頸部的屈伸活動，測量姿勢變異最小，CRL測量誤差約為正負3-5天，是臨床上最準確的孕期估算方法。超聲下可見胚胎的兩個重要原始腦部結構：**前腦（Prosencephalon）** 為未來發育成大腦半球與間腦的原始前側腦泡，在超聲冠狀切面上呈現為一個無回音性結構；**菱腦（Rhombencephalon）** 為後腦的原始結構，未來發育成小腦與腦橋，在超聲矢狀或軸狀切面上可見。後續（第10-12週之後），菱腦會向尾側移動至頸部位置，超聲追蹤此結構的位置變化有助於確認胚胎發育正常。
 
@@ -1158,6 +1147,17 @@ Di/Di雙胞胎（**Dichorionic/Diamniotic twins**）是指每個胎兒各自擁�
 - **第一孕期侷限性**：胚胎過小無法完整結構掃描，僅能評估CRL與主要原始解剖構造
 
 ---
+
+#### 頸項透明層（Nuchal translucency） / Nuchal Translucency Measurement
+
+**頸項透明層（nuchal translucency, NT）** 增厚與唐氏症（Down syndrome）及其他染色體異常的風險增加相關。在固定 5% 假陽性率下，單靠頸項透明層即可偵測約三分之二的 21 三體症（trisomy 21）病例；但必須正確量測才能得到準確數值。 Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities, and with a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21; the measurement must be performed properly to obtain an accurate value.
+
+**重點摘要**
+- **與染色體異常的關聯**：頸項透明層增厚與唐氏症及其他染色體異常的風險增加相關。 Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities.
+- **偵測率**：在固定 5% 假陽性率下，單靠頸項透明層可偵測約三分之二的 21 三體症病例。 With a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21.
+- **正常值上限**：11 weeks 時正常上限為 2.2 mm；14 weeks（CRL 79 mm）時正常上限為 2.8 mm。 At 11 weeks, the upper limit of normal is 2.2 mm; at 14 weeks (CRL 79 mm), the upper limit of normal is 2.8 mm.
+- **量測條件與影像表現**：應使用高對比的頸項設定（high-contrast nuchal setting），胎頭應填滿大部分螢幕，頸部保持中立位置，羊膜應可見，並在最寬處做內緣對內緣（inner−inner）量測；鼻骨應可見。 The measurement requires the high-contrast nuchal setting, the fetal head should fill most of the screen, the neck should be in neutral position, the amnion should be visible, the inner-to-inner measurement is taken at the widest point, and the nasal bone should be visible.
+- **與母體血清檢測合併**：頸項透明層與母體血清檢測（maternal serum testing）合併，用以計算 21 三體症的整體風險。 Nuchal translucency is combined with maternal serum testing to calculate an overall risk of trisomy 21.
 
 ### Page 549 / 第二、三孕期胎頭測量 (Second and Third Trimester Head Measurements)
 
