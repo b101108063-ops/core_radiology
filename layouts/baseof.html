@@ -81,11 +81,6 @@
 
 {{ define "header" }}
   {{ partial "docs/header" . }}
-  {{ if .Param "BookToC" | default true }}
-  <aside class="hidden">
-    {{ template "toc" . }}
-  </aside>
-  {{ end }}
 {{ end }}
 
 {{ define "footer" }}
