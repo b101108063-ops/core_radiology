@@ -1,0 +1,1117 @@
+/* ==========================================================================
+   Core Radiology — Radiology Atlas
+   設計語彙：深藍側欄 / 白底閱讀 / 青綠重點 / 圓角細框線
+   ========================================================================== */
+
+:root {
+  --atlas-navy: #142235;
+  --atlas-navy-soft: #1c2f47;
+  --atlas-navy-line: #26394f;
+  --atlas-bg: #ffffff;
+  --atlas-bg-soft: #f5f7fa;
+  --atlas-bg-mute: #eef2f6;
+  --atlas-accent: #0d9488;
+  --atlas-accent-dark: #0f766e;
+  --atlas-accent-soft: #e6f5f3;
+  --atlas-heading: #1e293b;
+  --atlas-body: #334155;
+  --atlas-muted: #64748b;
+  --atlas-border: #e2e8f0;
+  --atlas-border-strong: #cbd5e1;
+  --atlas-warn: #b45309;
+  --atlas-warn-soft: #fef3c7;
+  --atlas-danger: #b91c1c;
+  --atlas-danger-soft: #fee2e2;
+  --atlas-radius: 10px;
+  --atlas-radius-sm: 6px;
+  --atlas-sidebar-w: 288px;
+  --atlas-toc-w: 268px;
+  --atlas-shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.06);
+  --atlas-shadow-md: 0 6px 24px rgba(15, 23, 42, 0.09);
+  --atlas-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC",
+    "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", "Helvetica Neue",
+    Arial, sans-serif;
+  --atlas-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    "Liberation Mono", monospace;
+}
+
+/* ---------- Reset ---------- */
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--atlas-font);
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--atlas-body);
+  background: var(--atlas-bg);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+img { max-width: 100%; height: auto; }
+a { color: var(--atlas-accent-dark); text-decoration: none; }
+a:hover { text-decoration: underline; }
+button { font-family: inherit; font-size: inherit; cursor: pointer; }
+
+.atlas-skip {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: var(--atlas-navy);
+  color: #fff;
+  padding: 10px 16px;
+  z-index: 200;
+  border-radius: 0 0 var(--atlas-radius-sm) 0;
+}
+.atlas-skip:focus { left: 0; }
+
+/* ==========================================================================
+   Shell：左側欄 / 主內容 / 右側大綱
+   ========================================================================== */
+.atlas-shell {
+  display: grid;
+  grid-template-columns: var(--atlas-sidebar-w) minmax(0, 1fr) var(--atlas-toc-w);
+  align-items: start;
+  min-height: 100vh;
+}
+
+/* ---------- 左側欄 ---------- */
+.atlas-sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  background: var(--atlas-navy);
+  color: #cbd5e1;
+  border-right: 1px solid var(--atlas-navy-line);
+  z-index: 40;
+}
+.atlas-sidebar::-webkit-scrollbar { width: 8px; }
+.atlas-sidebar::-webkit-scrollbar-thumb {
+  background: #2b405c;
+  border-radius: 4px;
+}
+
+.atlas-brand {
+  display: block;
+  padding: 22px 22px 18px;
+  border-bottom: 1px solid var(--atlas-navy-line);
+  text-decoration: none;
+}
+.atlas-brand:hover { text-decoration: none; }
+.atlas-brand-mark {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.atlas-brand-logo {
+  width: 34px;
+  height: 34px;
+  flex: none;
+  border-radius: 8px;
+  background: var(--atlas-accent);
+  display: grid;
+  place-items: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+.atlas-brand-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #f1f5f9;
+  line-height: 1.25;
+}
+.atlas-brand-sub {
+  display: block;
+  font-size: 11px;
+  color: #8fa3bb;
+  letter-spacing: 0.02em;
+  margin-top: 2px;
+}
+
+/* 搜尋 */
+.atlas-search { padding: 16px 18px 12px; position: relative; }
+.atlas-search-field {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.atlas-search-field svg {
+  position: absolute;
+  left: 10px;
+  width: 15px;
+  height: 15px;
+  color: #7d93ad;
+  pointer-events: none;
+}
+.atlas-search input {
+  width: 100%;
+  padding: 8px 10px 8px 32px;
+  background: #0e1a2a;
+  border: 1px solid #27384f;
+  border-radius: var(--atlas-radius-sm);
+  color: #e2e8f0;
+  font-size: 13px;
+  outline: none;
+}
+.atlas-search input::placeholder { color: #7d93ad; }
+.atlas-search input:focus {
+  border-color: var(--atlas-accent);
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.18);
+}
+.atlas-search-hint {
+  font-size: 10.5px;
+  color: #6d8099;
+  margin-top: 6px;
+  padding-left: 2px;
+}
+.atlas-search-results {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  top: 100%;
+  background: #0e1a2a;
+  border: 1px solid #27384f;
+  border-radius: var(--atlas-radius-sm);
+  max-height: 60vh;
+  overflow-y: auto;
+  z-index: 60;
+  display: none;
+}
+.atlas-search-results.is-open { display: block; }
+.atlas-search-results li { border-bottom: 1px solid #1e2e42; }
+.atlas-search-results li:last-child { border-bottom: 0; }
+.atlas-search-results a {
+  display: block;
+  padding: 8px 11px;
+  color: #dbe4ee;
+  font-size: 12.5px;
+  line-height: 1.5;
+}
+.atlas-search-results a:hover {
+  background: #16263a;
+  text-decoration: none;
+}
+.atlas-search-results .r-title { display: block; font-weight: 600; }
+.atlas-search-results .r-section {
+  display: block;
+  font-size: 11px;
+  color: #7d93ad;
+  margin-top: 2px;
+}
+.atlas-search-results .r-hit {
+  display: block;
+  font-size: 11px;
+  color: #94a8bf;
+  margin-top: 3px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.atlas-search-results mark {
+  background: rgba(13, 148, 136, 0.35);
+  color: #d5f5f1;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.atlas-search-empty {
+  padding: 12px;
+  font-size: 12px;
+  color: #7d93ad;
+}
+
+/* 章節導覽 */
+.atlas-nav { padding: 4px 12px 40px; }
+.atlas-nav-label {
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6d8099;
+  padding: 14px 10px 8px;
+}
+.atlas-chapter { border-bottom: 1px solid rgba(38, 57, 79, 0.6); }
+.atlas-chapter:last-child { border-bottom: 0; }
+.atlas-chapter-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 10px;
+  background: none;
+  border: 0;
+  color: #cbd5e1;
+  text-align: left;
+  font-size: 13.5px;
+  line-height: 1.4;
+  border-radius: var(--atlas-radius-sm);
+}
+.atlas-chapter-btn:hover { background: rgba(255, 255, 255, 0.05); color: #fff; }
+.atlas-chapter-caret {
+  flex: none;
+  width: 14px;
+  height: 14px;
+  color: #6d8099;
+  transition: transform 0.18s ease;
+}
+.atlas-chapter.is-open .atlas-chapter-caret { transform: rotate(90deg); }
+.atlas-chapter-title { flex: 1; min-width: 0; }
+.atlas-chapter-zh {
+  display: block;
+  font-size: 11px;
+  color: #7d93ad;
+  margin-top: 1px;
+}
+.atlas-chapter-count {
+  flex: none;
+  font-size: 10.5px;
+  color: #6d8099;
+  font-variant-numeric: tabular-nums;
+}
+.atlas-chapter.is-active > .atlas-chapter-btn { color: #fff; font-weight: 600; }
+.atlas-chapter.is-active > .atlas-chapter-btn .atlas-chapter-caret { color: var(--atlas-accent); }
+.atlas-chapter-body {
+  display: none;
+  padding: 2px 0 10px 12px;
+  margin-left: 16px;
+  border-left: 1px solid #26394f;
+}
+.atlas-chapter.is-open .atlas-chapter-body { display: block; }
+.atlas-chapter-body a {
+  display: block;
+  padding: 5px 10px;
+  font-size: 12.5px;
+  color: #9fb2c8;
+  border-radius: var(--atlas-radius-sm);
+  line-height: 1.5;
+}
+.atlas-chapter-body a:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+  text-decoration: none;
+}
+.atlas-chapter-body a.is-current {
+  color: var(--atlas-accent);
+  background: rgba(13, 148, 136, 0.12);
+  font-weight: 600;
+}
+
+/* ---------- 主內容欄 ---------- */
+.atlas-main-col { min-width: 0; background: var(--atlas-bg); }
+.atlas-main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 34px 48px 80px;
+}
+
+/* 頂部行動條 */
+.atlas-topbar {
+  display: none;
+  position: sticky;
+  top: 0;
+  z-index: 45;
+  background: var(--atlas-navy);
+  color: #fff;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+}
+.atlas-topbar-title {
+  font-size: 14px;
+  font-weight: 600;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.atlas-icon-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--atlas-radius-sm);
+  border: 1px solid #2c425c;
+  background: #0f1c2d;
+  color: #cbd5e1;
+}
+.atlas-icon-btn svg { width: 18px; height: 18px; }
+.atlas-icon-btn:hover { background: #17293e; color: #fff; }
+
+/* 麵包屑 */
+.atlas-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: var(--atlas-muted);
+  margin-bottom: 14px;
+}
+.atlas-breadcrumb a { color: var(--atlas-muted); }
+.atlas-breadcrumb a:hover { color: var(--atlas-accent-dark); }
+.atlas-breadcrumb-sep { color: #b6c2d1; }
+.atlas-breadcrumb-current { color: var(--atlas-heading); font-weight: 600; }
+
+/* 標題區 */
+.atlas-article-head { margin-bottom: 26px; }
+.atlas-eyebrow {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--atlas-accent-dark);
+  background: var(--atlas-accent-soft);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin-bottom: 12px;
+}
+.atlas-title {
+  font-size: 31px;
+  line-height: 1.28;
+  color: var(--atlas-heading);
+  font-weight: 700;
+  margin: 0 0 12px;
+  letter-spacing: -0.01em;
+}
+.atlas-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  font-size: 12.5px;
+  color: var(--atlas-muted);
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--atlas-border);
+}
+.atlas-meta-item { display: inline-flex; align-items: center; gap: 6px; }
+.atlas-meta-item svg { width: 14px; height: 14px; color: #94a3b8; }
+
+/* Key Points 導覽卡 */
+.atlas-keynav {
+  background: var(--atlas-bg-soft);
+  border: 1px solid var(--atlas-border);
+  border-left: 3px solid var(--atlas-accent);
+  border-radius: var(--atlas-radius);
+  padding: 16px 20px;
+  margin: 22px 0 8px;
+}
+.atlas-keynav-title {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--atlas-accent-dark);
+  margin: 0 0 8px;
+}
+.atlas-keynav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 6px 18px;
+}
+.atlas-keynav li { font-size: 14px; }
+.atlas-keynav li::before {
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--atlas-accent);
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* ---------- 右側大綱 ---------- */
+.atlas-toc-col { min-width: 0; }
+.atlas-toc {
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+  padding: 34px 22px 60px 4px;
+  border-left: 1px solid var(--atlas-border);
+}
+.atlas-toc::-webkit-scrollbar { width: 6px; }
+.atlas-toc::-webkit-scrollbar-thumb { background: #dbe2ea; border-radius: 3px; }
+.atlas-toc-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--atlas-muted);
+  margin: 0 0 12px;
+}
+.atlas-progress {
+  margin-bottom: 18px;
+}
+.atlas-progress-track {
+  height: 4px;
+  border-radius: 999px;
+  background: var(--atlas-bg-mute);
+  overflow: hidden;
+}
+.atlas-progress-fill {
+  height: 100%;
+  width: 0;
+  border-radius: 999px;
+  background: var(--atlas-accent);
+  transition: width 0.1s linear;
+}
+.atlas-progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--atlas-muted);
+  margin-top: 6px;
+  font-variant-numeric: tabular-nums;
+}
+.atlas-toc-list,
+#TableOfContents ul { list-style: none; margin: 0; padding: 0; }
+.atlas-toc-list li,
+#TableOfContents li { margin: 0; }
+.atlas-toc-list a,
+#TableOfContents a {
+  display: block;
+  padding: 5px 10px;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: #5b6b80;
+  border-left: 2px solid var(--atlas-border);
+  border-radius: 0 var(--atlas-radius-sm) var(--atlas-radius-sm) 0;
+}
+.atlas-toc-list a:hover,
+#TableOfContents a:hover {
+  color: var(--atlas-heading);
+  background: var(--atlas-bg-soft);
+  text-decoration: none;
+}
+.atlas-toc-list .lvl-3 a,
+#TableOfContents ul ul a { padding-left: 22px; font-size: 12px; color: #77879b; }
+.atlas-toc-list a.is-active,
+#TableOfContents a.is-active {
+  color: var(--atlas-accent-dark);
+  border-left-color: var(--atlas-accent);
+  background: var(--atlas-accent-soft);
+  font-weight: 600;
+}
+
+/* ==========================================================================
+   內容排版
+   ========================================================================== */
+.atlas-content { font-size: 16px; }
+.atlas-content > *:first-child { margin-top: 0; }
+
+.atlas-content h2,
+.atlas-content h3,
+.atlas-content h4,
+.atlas-content h5 {
+  color: var(--atlas-heading);
+  font-weight: 700;
+  line-height: 1.35;
+  scroll-margin-top: 24px;
+  position: relative;
+}
+.atlas-content h2 {
+  font-size: 24px;
+  margin: 44px 0 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--atlas-border);
+}
+.atlas-content h3 { font-size: 19px; margin: 30px 0 10px; }
+.atlas-content h4 { font-size: 16.5px; margin: 22px 0 8px; color: #2b3a4d; }
+.atlas-content h5 { font-size: 15px; margin: 18px 0 6px; color: #40506a; }
+
+.atlas-content h2 a.anchor,
+.atlas-content h3 a.anchor,
+.atlas-content h4 a.anchor {
+  position: absolute;
+  left: -0.85em;
+  top: 0;
+  color: var(--atlas-accent);
+  opacity: 0;
+  font-weight: 400;
+  text-decoration: none;
+}
+.atlas-content h2:hover a.anchor,
+.atlas-content h3:hover a.anchor,
+.atlas-content h4:hover a.anchor { opacity: 1; }
+
+.atlas-content p { margin: 0 0 16px; }
+.atlas-content ul,
+.atlas-content ol { margin: 0 0 16px; padding-left: 24px; }
+.atlas-content li { margin: 5px 0; }
+.atlas-content li::marker { color: var(--atlas-accent); }
+.atlas-content strong { color: var(--atlas-heading); font-weight: 700; }
+
+.atlas-content hr {
+  border: 0;
+  border-top: 1px solid var(--atlas-border);
+  margin: 34px 0;
+}
+
+.atlas-content a { border-bottom: 1px solid rgba(13, 148, 136, 0.28); }
+.atlas-content a:hover { border-bottom-color: var(--atlas-accent); text-decoration: none; }
+
+/* 表格 */
+.atlas-table-wrap {
+  margin: 0 0 22px;
+  border: 1px solid var(--atlas-border);
+  border-radius: var(--atlas-radius);
+  overflow-x: auto;
+  background: var(--atlas-bg);
+}
+.atlas-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  min-width: 520px;
+}
+.atlas-content thead th {
+  background: var(--atlas-bg-soft);
+  color: var(--atlas-heading);
+  font-weight: 700;
+  text-align: left;
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--atlas-border);
+  white-space: nowrap;
+}
+.atlas-content tbody td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--atlas-border);
+  vertical-align: top;
+}
+.atlas-content tbody tr:last-child td { border-bottom: 0; }
+.atlas-content tbody tr:nth-child(even) { background: #fbfcfe; }
+
+/* 引用 / 教學卡 */
+.atlas-content blockquote {
+  margin: 0 0 20px;
+  padding: 14px 18px;
+  background: var(--atlas-bg-soft);
+  border-left: 3px solid var(--atlas-border-strong);
+  border-radius: 0 var(--atlas-radius) var(--atlas-radius) 0;
+  color: var(--atlas-body);
+}
+.atlas-content blockquote p:last-child { margin-bottom: 0; }
+.atlas-content blockquote.is-keypoints {
+  background: var(--atlas-accent-soft);
+  border-left-color: var(--atlas-accent);
+}
+.atlas-content blockquote.is-pearls {
+  background: #eef4ff;
+  border-left-color: #2563eb;
+}
+.atlas-content blockquote.is-pitfalls {
+  background: var(--atlas-warn-soft);
+  border-left-color: var(--atlas-warn);
+}
+.atlas-content blockquote.is-ddx {
+  background: #f5f3ff;
+  border-left-color: #7c3aed;
+}
+.atlas-content blockquote.is-findings {
+  background: #ecfdf5;
+  border-left-color: #059669;
+}
+.atlas-content blockquote.is-references {
+  background: #f8fafc;
+  border-left-color: #94a3b8;
+  font-size: 14px;
+}
+.atlas-block-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--atlas-accent-dark);
+  margin-bottom: 6px;
+}
+.atlas-content blockquote.is-pearls .atlas-block-label { color: #1d4ed8; }
+.atlas-content blockquote.is-pitfalls .atlas-block-label { color: var(--atlas-warn); }
+.atlas-content blockquote.is-ddx .atlas-block-label { color: #6d28d9; }
+.atlas-content blockquote.is-findings .atlas-block-label { color: #047857; }
+.atlas-content blockquote.is-references .atlas-block-label { color: #475569; }
+
+.atlas-content code {
+  font-family: var(--atlas-mono);
+  font-size: 0.88em;
+  background: var(--atlas-bg-mute);
+  color: #0f766e;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+.atlas-content pre {
+  background: #0f1a2a;
+  color: #e2e8f0;
+  padding: 14px 16px;
+  border-radius: var(--atlas-radius);
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.atlas-content pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+/* 圖片 */
+.atlas-figure {
+  margin: 0 0 26px;
+  border: 1px solid var(--atlas-border);
+  border-radius: var(--atlas-radius);
+  overflow: hidden;
+  background: var(--atlas-bg-soft);
+}
+.atlas-figure-frame {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: #0b1522;
+  width: 100%;
+  line-height: 0;
+  cursor: zoom-in;
+  position: relative;
+}
+.atlas-figure-frame img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-height: 78vh;
+  object-fit: contain;
+  background: #0b1522;
+}
+.atlas-figure-frame::after {
+  content: "點擊放大";
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background: rgba(11, 21, 34, 0.78);
+  color: #e2e8f0;
+  font-size: 11px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  letter-spacing: 0.04em;
+  opacity: 0;
+  transition: opacity 0.15s;
+  line-height: 1.6;
+}
+.atlas-figure-frame:hover::after { opacity: 1; }
+.atlas-figure figcaption {
+  padding: 9px 14px;
+  font-size: 12.5px;
+  color: var(--atlas-muted);
+  background: var(--atlas-bg);
+  border-top: 1px solid var(--atlas-border);
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+}
+.atlas-figure-caption-text { min-width: 0; }
+.atlas-figure-tools { display: flex; gap: 6px; flex: none; }
+.atlas-figure-tool {
+  border: 1px solid var(--atlas-border);
+  background: var(--atlas-bg-soft);
+  color: var(--atlas-muted);
+  border-radius: var(--atlas-radius-sm);
+  font-size: 11px;
+  padding: 3px 8px;
+}
+.atlas-figure-tool:hover { border-color: var(--atlas-accent); color: var(--atlas-accent-dark); }
+.atlas-figure-tool.is-armed { background: var(--atlas-accent-soft); color: var(--atlas-accent-dark); border-color: var(--atlas-accent); }
+
+/* ==========================================================================
+   Shortcode 教學元件
+   ========================================================================== */
+.atlas-card {
+  margin: 0 0 22px;
+  border: 1px solid var(--atlas-border);
+  border-radius: var(--atlas-radius);
+  background: var(--atlas-bg);
+  overflow: hidden;
+}
+.atlas-card-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--atlas-border);
+}
+.atlas-card-head svg { width: 15px; height: 15px; }
+.atlas-card-body { padding: 14px 18px; }
+.atlas-card-body > *:last-child { margin-bottom: 0; }
+.atlas-card-body ul,
+.atlas-card-body ol { margin-bottom: 0; }
+
+.atlas-card-keypoints { border-left: 3px solid var(--atlas-accent); }
+.atlas-card-keypoints .atlas-card-head { background: var(--atlas-accent-soft); color: var(--atlas-accent-dark); }
+.atlas-card-findings { border-left: 3px solid #059669; }
+.atlas-card-findings .atlas-card-head { background: #ecfdf5; color: #047857; }
+.atlas-card-pearls { border-left: 3px solid #2563eb; }
+.atlas-card-pearls .atlas-card-head { background: #eef4ff; color: #1d4ed8; }
+.atlas-card-pitfalls { border-left: 3px solid var(--atlas-warn); }
+.atlas-card-pitfalls .atlas-card-head { background: var(--atlas-warn-soft); color: var(--atlas-warn); }
+.atlas-card-ddx { border-left: 3px solid #7c3aed; }
+.atlas-card-ddx .atlas-card-head { background: #f5f3ff; color: #6d28d9; }
+.atlas-card-references { border-left: 3px solid #94a3b8; }
+.atlas-card-references .atlas-card-head { background: #f8fafc; color: #475569; }
+.atlas-card-references ol { font-size: 14px; }
+
+/* ==========================================================================
+   上/下一頁
+   ========================================================================== */
+.atlas-pagenav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid var(--atlas-border);
+}
+.atlas-pagenav-link {
+  display: block;
+  padding: 14px 18px;
+  border: 1px solid var(--atlas-border);
+  border-radius: var(--atlas-radius);
+  background: var(--atlas-bg);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.atlas-pagenav-link:hover {
+  border-color: var(--atlas-accent);
+  box-shadow: var(--atlas-shadow-sm);
+  text-decoration: none;
+}
+.atlas-pagenav-link.is-next { text-align: right; }
+.atlas-pagenav-dir {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--atlas-muted);
+  display: block;
+  margin-bottom: 4px;
+}
+.atlas-pagenav-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--atlas-heading);
+  line-height: 1.45;
+}
+.atlas-pagenav-empty { visibility: hidden; }
+
+/* ==========================================================================
+   影像檢視器（lightbox）
+   ========================================================================== */
+.atlas-viewer {
+  position: fixed;
+  inset: 0;
+  background: #0b121c;
+  z-index: 300;
+  display: none;
+  flex-direction: column;
+}
+.atlas-viewer.is-open { display: flex; }
+.atlas-viewer-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  background: #0f1a2a;
+  border-bottom: 1px solid #1e2e42;
+  color: #cbd5e1;
+  flex: none;
+}
+.atlas-viewer-caption {
+  flex: 1;
+  min-width: 0;
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.atlas-viewer-btn {
+  display: inline-grid;
+  place-items: center;
+  min-width: 34px;
+  height: 34px;
+  padding: 0 10px;
+  border-radius: var(--atlas-radius-sm);
+  border: 1px solid #27384f;
+  background: #16263a;
+  color: #cbd5e1;
+  font-size: 12px;
+}
+.atlas-viewer-btn:hover { background: #1d3149; color: #fff; }
+.atlas-viewer-btn.is-active { border-color: var(--atlas-accent); color: #7fd6cd; }
+.atlas-viewer-btn svg { width: 16px; height: 16px; }
+.atlas-viewer-btn-text { font-size: 12px; }
+
+.atlas-viewer-stage {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  gap: 2px;
+  background: #0b121c;
+}
+.atlas-viewer-pane {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+  overflow: hidden;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  touch-action: none;
+}
+.atlas-viewer-pane.is-visible { display: flex; }
+.atlas-viewer-pane img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  transform-origin: center center;
+  will-change: transform;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+.atlas-viewer-hint {
+  position: absolute;
+  left: 50%;
+  bottom: 14px;
+  transform: translateX(-50%);
+  background: rgba(15, 26, 42, 0.85);
+  color: #94a8bf;
+  font-size: 11.5px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  pointer-events: none;
+}
+.atlas-viewer-empty {
+  display: grid;
+  place-items: center;
+  flex: 1;
+  color: #64748b;
+  font-size: 13px;
+  text-align: center;
+  padding: 24px;
+}
+
+/* 對比選擇列 */
+.atlas-viewer-compare-tray {
+  flex: none;
+  border-top: 1px solid #1e2e42;
+  background: #0f1a2a;
+  padding: 10px 14px;
+  display: none;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.atlas-viewer-compare-tray.is-open { display: flex; }
+.atlas-viewer-compare-label { font-size: 11.5px; color: #94a8bf; }
+.atlas-viewer-thumbs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  max-width: 100%;
+  padding-bottom: 2px;
+}
+.atlas-viewer-thumb {
+  flex: none;
+  width: 54px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid #27384f;
+  overflow: hidden;
+  background: #0b121c;
+  padding: 0;
+}
+.atlas-viewer-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.atlas-viewer-thumb.is-active { border-color: var(--atlas-accent); }
+
+/* 目錄抽屜：基準狀態一律不顯示（hidden 屬性會被作者樣式覆蓋，改用 is-open 控制） */
+.atlas-toc-mobile {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 320;
+  background: rgba(11, 18, 28, 0.55);
+}
+.atlas-toc-mobile.is-open { display: block; }
+.atlas-toc-mobile[hidden] { display: none !important; }
+
+/* ==========================================================================
+   首頁
+   ========================================================================== */
+.atlas-home {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 34px 48px 80px;
+}
+.atlas-hero {
+  background: var(--atlas-navy);
+  border-radius: 14px;
+  padding: 38px 36px;
+  color: #e2e8f0;
+  margin-bottom: 30px;
+}
+.atlas-hero h1 {
+  color: #fff;
+  font-size: 30px;
+  margin: 0 0 10px;
+  line-height: 1.25;
+}
+.atlas-hero p { color: #b6c6da; margin: 0 0 20px; font-size: 15px; max-width: 60ch; }
+.atlas-hero-stats { display: flex; flex-wrap: wrap; gap: 26px; }
+.atlas-hero-stat b { display: block; color: #fff; font-size: 21px; line-height: 1.2; }
+.atlas-hero-stat span { font-size: 11.5px; color: #8fa3bb; letter-spacing: 0.05em; }
+
+.atlas-home h2 {
+  font-size: 19px;
+  color: var(--atlas-heading);
+  margin: 34px 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--atlas-border);
+}
+.atlas-chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(238px, 1fr));
+  gap: 14px;
+}
+.atlas-chapter-card {
+  display: block;
+  border: 1px solid var(--atlas-border);
+  border-radius: var(--atlas-radius);
+  padding: 16px 18px;
+  background: var(--atlas-bg);
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+.atlas-chapter-card:hover {
+  border-color: var(--atlas-accent);
+  box-shadow: var(--atlas-shadow-md);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.atlas-chapter-card-name {
+  font-size: 15.5px;
+  font-weight: 700;
+  color: var(--atlas-heading);
+  display: block;
+}
+.atlas-chapter-card-zh {
+  font-size: 12.5px;
+  color: var(--atlas-muted);
+  display: block;
+  margin-top: 2px;
+}
+.atlas-chapter-card-meta {
+  font-size: 11.5px;
+  color: var(--atlas-accent-dark);
+  display: block;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+/* ==========================================================================
+   響應式
+   ========================================================================== */
+@media (max-width: 1400px) {
+  :root { --atlas-sidebar-w: 262px; --atlas-toc-w: 240px; }
+  .atlas-main { padding: 30px 34px 70px; }
+}
+
+@media (max-width: 1180px) {
+  .atlas-shell { grid-template-columns: var(--atlas-sidebar-w) minmax(0, 1fr); }
+  .atlas-toc-col { display: none; }
+  .atlas-toc-mobile {
+    position: fixed;
+    inset: 0;
+    z-index: 320;
+    background: rgba(11, 18, 28, 0.55);
+    display: none;
+  }
+  .atlas-toc-mobile.is-open { display: block; }
+  .atlas-toc-mobile .atlas-toc {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: min(320px, 84vw);
+    max-height: none;
+    background: var(--atlas-bg);
+    padding: 22px 20px 40px;
+    border-left: 1px solid var(--atlas-border);
+  }
+}
+
+@media (max-width: 900px) {
+  .atlas-topbar { display: flex; }
+  .atlas-shell { grid-template-columns: minmax(0, 1fr); }
+  .atlas-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: min(300px, 84vw);
+    transform: translateX(-100%);
+    transition: transform 0.22s ease;
+    z-index: 60;
+    box-shadow: 0 0 40px rgba(2, 6, 12, 0.45);
+  }
+  body.atlas-sidebar-open .atlas-sidebar { transform: translateX(0); }
+  .atlas-sidebar-scrim {
+    position: fixed;
+    inset: 0;
+    background: rgba(8, 15, 25, 0.55);
+    z-index: 55;
+    display: none;
+  }
+  body.atlas-sidebar-open .atlas-sidebar-scrim { display: block; }
+  .atlas-main { padding: 22px 20px 64px; }
+  .atlas-home { padding: 22px 20px 64px; }
+  .atlas-title { font-size: 25px; }
+  .atlas-content { font-size: 15.5px; }
+  .atlas-content h2 { font-size: 20px; }
+  .atlas-content h3 { font-size: 17px; }
+  .atlas-hero { padding: 28px 22px; }
+  .atlas-hero h1 { font-size: 23px; }
+  .atlas-pagenav { grid-template-columns: 1fr; }
+  .atlas-figure-frame img { max-height: 56vh; }
+}
+
+@media (max-width: 560px) {
+  .atlas-keynav ul { grid-template-columns: 1fr; }
+  .atlas-chapter-grid { grid-template-columns: 1fr; }
+  .atlas-viewer-bar { flex-wrap: wrap; }
+  .atlas-viewer-caption { order: 10; flex-basis: 100%; }
+}
+
+/* 列印 */
+@media print {
+  .atlas-sidebar,
+  .atlas-toc-col,
+  .atlas-topbar,
+  .atlas-viewer,
+  .atlas-pagenav { display: none !important; }
+  .atlas-shell { display: block; }
+  .atlas-main { max-width: none; padding: 0; }
+  .atlas-content a { color: #1e293b; border: 0; }
+}

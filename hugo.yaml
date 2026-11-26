@@ -1,57 +1,87 @@
 baseURL: "https://b101108063-ops.github.io/core_radiology/"
 locale: "zh-TW"
 title: "Core Radiology - A Visual Approach to Diagnostic Imaging"
-theme: "hugo-book"
 enableEmoji: true
 hasCJKLanguage: true
 enableRobotsTXT: true
 disableFastRender: true
 
+# 自給自足版面：不依賴外部 theme，所有 layout / asset 皆在 repository 內。
+theme: []
+
+outputs:
+  home:
+    - HTML
+    - atlas-search
+
+outputFormats:
+  atlas-search:
+    mediaType: "application/json"
+    baseName: "atlas-search"
+    isPlainText: true
+    notAlternative: true
+    permalinkable: false
+
 markup:
   goldmark:
+    parser:
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: false
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 
 params:
-  BookSection: "docs"
-  disableBreadcrumb: false
-  disableChapterBreadcrumb: true
-  BookSearch: true
-  BookPublic: true
+  description: "Core Radiology 視覺化影像判讀教科書，涵蓋 12 個次專科的完整章節內容。"
   bookMenu:
     - name: "Thoracic"
+      zh: "胸腔"
       url: "/docs/thoracic/"
       weight: 1
     - name: "Gastrointestinal"
+      zh: "胃腸道"
       url: "/docs/gi/"
       weight: 2
     - name: "Genitourinary"
+      zh: "泌尿道"
       url: "/docs/genitourinary/"
       weight: 3
     - name: "Neuro"
+      zh: "神經"
       url: "/docs/neuro/"
       weight: 4
     - name: "MSK"
+      zh: "骨骼肌肉"
       url: "/docs/msk/"
       weight: 5
     - name: "Ultrasound"
+      zh: "超音波"
       url: "/docs/ultrasound/"
       weight: 6
     - name: "Nuclear"
+      zh: "核醫"
       url: "/docs/nuclear/"
       weight: 7
     - name: "Breast"
+      zh: "乳房"
       url: "/docs/breast/"
       weight: 8
     - name: "Cardiovascular"
+      zh: "心血管"
       url: "/docs/cardiovascular/"
       weight: 9
     - name: "Interventional"
+      zh: "介入放射"
       url: "/docs/interventional/"
       weight: 10
     - name: "Pediatric"
+      zh: "兒童"
       url: "/docs/pediatric/"
       weight: 11
     - name: "Physics"
+      zh: "影像物理"
       url: "/docs/physics/"
       weight: 12

@@ -1,0 +1,23 @@
+{{- /* render-table.html — 表格加上可水平捲動外框，避免行動版溢出 */ -}}
+<div class="atlas-table-wrap">
+  <table>
+    <thead>
+      {{- range .THead }}
+      <tr>
+        {{- range . }}
+        <th{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text | safeHTML }}</th>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </thead>
+    <tbody>
+      {{- range .TBody }}
+      <tr>
+        {{- range . }}
+        <td{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text | safeHTML }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>

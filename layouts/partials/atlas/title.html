@@ -1,0 +1,9 @@
+{{- /* title.html — 頁面標題（去除「Chapter N: 」前綴，保留中文與英文原名） */ -}}
+{{- $t := "" -}}
+{{- if .LinkTitle }}{{ $t = .LinkTitle }}
+{{- else if .Title }}{{ $t = .Title }}
+{{- else if and .IsSection .File }}{{ $t = path.Base .File.Dir | humanize | title }}
+{{- else if and .IsPage .File }}{{ $t = .File.BaseFileName | humanize | title }}
+{{- end -}}
+{{- $t = replaceRE "^Chapter\\s+\\d+\\s*[:：]\\s*" "" $t -}}
+{{- return $t -}}

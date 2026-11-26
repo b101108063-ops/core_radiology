@@ -1,0 +1,38 @@
+{{- /* viewer.html — 醫學影像檢視器 (lightbox) */ -}}
+<div class="atlas-viewer" id="atlas-viewer" role="dialog" aria-modal="true" aria-label="影像檢視器">
+  <div class="atlas-viewer-bar">
+    <button class="atlas-viewer-btn" type="button" data-viewer-action="close" aria-label="關閉檢視器">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+    <button class="atlas-viewer-btn" type="button" data-viewer-action="zoom-out" aria-label="縮小">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14"/></svg>
+    </button>
+    <span class="atlas-viewer-btn-text" id="atlas-viewer-zoom">100%</span>
+    <button class="atlas-viewer-btn" type="button" data-viewer-action="zoom-in" aria-label="放大">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+    </button>
+    <button class="atlas-viewer-btn" type="button" data-viewer-action="reset" aria-label="重設">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>
+    </button>
+    <button class="atlas-viewer-btn" type="button" data-viewer-action="compare" aria-label="開啟對比模式">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="4" width="8" height="16" rx="1"/><rect x="13" y="4" width="8" height="16" rx="1"/></svg>
+    </button>
+    <span class="atlas-viewer-caption" id="atlas-viewer-caption"></span>
+  </div>
+
+  <div class="atlas-viewer-stage" id="atlas-viewer-stage">
+    <div class="atlas-viewer-pane is-visible" id="atlas-viewer-pane-a">
+      <img id="atlas-viewer-img-a" alt="">
+      <span class="atlas-viewer-hint">滾輪縮放 · 拖曳平移 · 雙擊放大</span>
+    </div>
+    <div class="atlas-viewer-pane" id="atlas-viewer-pane-b">
+      <img id="atlas-viewer-img-b" alt="">
+    </div>
+  </div>
+
+  <div class="atlas-viewer-compare-tray" id="atlas-viewer-tray">
+    <span class="atlas-viewer-compare-label">選擇對比影像</span>
+    <div class="atlas-viewer-thumbs" id="atlas-viewer-thumbs"></div>
+    <button class="atlas-viewer-btn atlas-viewer-btn-text" type="button" data-viewer-action="compare-off">結束對比</button>
+  </div>
+</div>

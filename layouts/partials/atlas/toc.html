@@ -1,0 +1,24 @@
+{{- /* toc.html — 右側粘性目錄 + 閱讀進度
+     目錄只渲染一次；行動版抽屜於載入時由 JS 複製，避免重複輸出大型 TOC。 */ -}}
+{{- $toc := .TableOfContents -}}
+<aside class="atlas-toc-col">
+  <div class="atlas-toc" id="atlas-toc">
+    <p class="atlas-toc-title">On this page</p>
+    <div class="atlas-progress">
+      <div class="atlas-progress-track"><div class="atlas-progress-fill" id="atlas-progress-fill"></div></div>
+      <div class="atlas-progress-label"><span>閱讀進度</span><span id="atlas-progress-pct">0%</span></div>
+    </div>
+    {{ if $toc }}{{ $toc }}{{ end }}
+  </div>
+</aside>
+
+<div class="atlas-toc-mobile" id="atlas-toc-mobile" aria-hidden="true">
+  <div class="atlas-toc" id="atlas-toc-mobile-inner">
+    <p class="atlas-toc-title">On this page</p>
+    <div class="atlas-progress">
+      <div class="atlas-progress-track"><div class="atlas-progress-fill" id="atlas-progress-fill-m"></div></div>
+      <div class="atlas-progress-label"><span>閱讀進度</span><span id="atlas-progress-pct-m">0%</span></div>
+    </div>
+    <!-- toc-clone -->
+  </div>
+</div>

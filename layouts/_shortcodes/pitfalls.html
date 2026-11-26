@@ -1,0 +1,13 @@
+{{- /* pitfalls.html — Pitfalls 陷阱
+     用法：{{< pitfalls >}}…{{< /pitfalls >}} */ -}}
+{{- $title := .Get "title" | default "Pitfalls" -}}
+{{- $zh := .Get "zh" | default "常見陷阱" -}}
+<div class="atlas-card atlas-card-pitfalls">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 2 20h20z"/><path d="M12 9v5M12 17.5v.5"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

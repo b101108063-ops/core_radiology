@@ -1,0 +1,11 @@
+{{- /* topics-count.html — 取得章節的 H2 主題數量（快取）
+     錨點取自本站 render-heading.html 產生的 <h2 id="…">，與正文錨點完全一致。 */ -}}
+{{- $sec := . -}}
+{{- $re := `(?s)<h2 id="([^"]+)"[^>]*>(.*?)</h2>` -}}
+{{- $n := 0 -}}
+{{- range findRE $re $sec.Content -}}
+  {{- $text := index . 2 -}}
+  {{- $text = replaceRE `(?s)<[^>]+>` "" $text | plainify | htmlUnescape | strings.TrimSpace -}}
+  {{- if $text -}}{{- $n = add $n 1 -}}{{- end -}}
+{{- end -}}
+{{- return $n -}}

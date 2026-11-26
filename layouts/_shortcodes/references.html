@@ -1,0 +1,13 @@
+{{- /* references.html — References 參考文獻
+     用法：{{< references >}}1. Author…{{< /references >}} */ -}}
+{{- $title := .Get "title" | default "References" -}}
+{{- $zh := .Get "zh" | default "參考文獻" -}}
+<div class="atlas-card atlas-card-references">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5a1 1 0 0 1 1-1h11l4 4v11a1 1 0 0 1-1 1z"/><path d="M8 8h7M8 12h7M8 16h4"/></svg>
+    <span>{{ $title }}{{ with $zh }} · {{ . }}{{ end }}</span>
+  </div>
+  <div class="atlas-card-body">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

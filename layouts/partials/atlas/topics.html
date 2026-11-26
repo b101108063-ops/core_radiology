@@ -1,0 +1,13 @@
+{{- /* topics.html — 取得章節的 H2 主題清單（id + 標題）
+     使用 partialCached 依章節路徑快取，避免每頁重掃全部章節內容。
+     錨點取自本站 render-heading.html 產生的 <h2 id="…">，與正文錨點完全一致。 */ -}}
+{{- $sec := . -}}
+{{- $topics := slice -}}
+{{- $re := `(?s)<h2 id="([^"]+)"[^>]*>(.*?)</h2>` -}}
+{{- range findRE $re $sec.Content -}}
+  {{- $id := index . 1 -}}
+  {{- $text := index . 2 -}}
+  {{- $text = replaceRE `(?s)<[^>]+>` "" $text | plainify | htmlUnescape | strings.TrimSpace -}}
+  {{- if $text -}}{{- $topics = $topics | append (dict "id" $id "title" $text) -}}{{- end -}}
+{{- end -}}
+{{- return $topics -}}

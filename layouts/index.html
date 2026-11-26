@@ -1,68 +1,56 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="light">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Title }} - Core Radiology</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #333; }
-    .layout { display: flex; min-height: 100vh; }
-    .content-area { flex: 1; padding: 2rem; max-width: 900px; margin: 0 auto; }
-    .main-content { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    .hero { background: linear-gradient(135deg, #1a365d 0%, #2c5282 50%, #2b6cb0 100%); color: white; padding: 3rem 2rem; border-radius: 12px; margin-bottom: 2rem; text-align: center; }
-    .hero h1 { font-size: 2.2rem; margin-bottom: 0.5rem; color: white; }
-    .hero p { font-size: 1.1rem; opacity: 0.9; margin: 0; }
-    .hero .author { font-size: 0.9rem; opacity: 0.7; margin-top: 0.5rem; }
-    .chapter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0; }
-    .chapter-card { background: white; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem; text-decoration: none; color: #2d3748; transition: all 0.2s; }
-    .chapter-card:hover { border-color: #4299e1; box-shadow: 0 4px 12px rgba(66,153,225,0.3); transform: translateY(-2px); }
-    .chapter-card h3 { font-size: 1rem; margin-bottom: 0.25rem; color: #1a365d; }
-    .chapter-card p { font-size: 0.8rem; color: #718096; }
-    /* Sidebar */
-    .sidebar { width: 280px; min-width: 280px; background: #1a365d; color: white; padding: 1rem 0; height: 100vh; position: sticky; top: 0; overflow-y: auto; display: flex; flex-direction: column; }
-    .sidebar-header { padding: 0.5rem 1rem 1rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 0.5rem; }
-    .sidebar-site-title a { color: white; text-decoration: none; font-size: 1rem; font-weight: bold; }
-    .sidebar-chapter-title { color: rgba(255,255,255,0.6); font-size: 0.7rem; margin-top: 0.25rem; }
-    .sidebar-nav { flex: 1; overflow-y: auto; padding: 0 0.5rem; }
-    .chapter-list { list-style: none; }
-    .chapter-list li { margin-bottom: 0.25rem; }
-    .chapter-list a { display: block; padding: 0.5rem 0.75rem; color: rgba(255,255,255,0.85); text-decoration: none; border-radius: 6px; font-size: 0.85rem; transition: background 0.15s; }
-    .chapter-list a:hover { background: rgba(255,255,255,0.12); color: white; }
-    .chapter-list .ch-pages { color: rgba(255,255,255,0.4); font-size: 0.7rem; display: block; margin-top: 0.1rem; }
-    @media (max-width: 768px) { .sidebar { display: none; } .content-area { padding: 1rem; } }
-  </style>
-</head>
-<body>
-<div class="layout">
-  <nav class="sidebar" id="sidebar">
-    <div class="sidebar-header">
-      <p class="sidebar-site-title"><a href="/core_radiology/">Core Radiology</a></p>
-      <p class="sidebar-chapter-title">A Visual Approach to Diagnostic Imaging</p>
-    </div>
-    <div class="sidebar-nav">
-      <ul class="chapter-list">
-        <li><a href="/core_radiology/docs/thoracic/">Thoracic<span class="ch-pages">p.10-95 (86 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/genitourinary/">Genitourinary<span class="ch-pages">p.166-209 (44 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/gi/">GI<span class="ch-pages">p.96-165 (70 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/neuro/">Neuro<span class="ch-pages">p.210-354 (145 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/msk/">MSK<span class="ch-pages">p.355-472 (118 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/ultrasound/">Ultrasound<span class="ch-pages">p.473-561 (89 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/nuclear/">Nuclear<span class="ch-pages">p.562-600 (39 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/breast/">Breast<span class="ch-pages">p.601-666 (66 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/cardiovascular/">Cardiovascular<span class="ch-pages">p.667-703 (37 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/interventional/">Interventional<span class="ch-pages">p.703-749 (47 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/pediatric/">Pediatric<span class="ch-pages">p.750-846 (97 pages)</span></a></li>
-        <li><a href="/core_radiology/docs/physics/">Physics<span class="ch-pages">p.847-873 (27 pages)</span></a></li>
-      </ul>
-    </div>
-  </nav>
+{{- /* index.html — 首頁：章節導覽與全書統計 */ -}}
+{{ define "main" }}
+{{ $menu := .Site.Params.bookMenu | default slice }}
+{{ $totalPages := 0 }}
+{{ $totalWords := 0 }}
+{{ range .Site.Pages }}
+  {{ if and .IsSection (gt (len (.Plain | plainify)) 240) }}
+    {{ $totalPages = add $totalPages 1 }}
+    {{ $totalWords = add $totalWords (len (split (.Plain | plainify) " ")) }}
+  {{ end }}
+{{ end }}
 
-  <main class="content-area">
-    <article class="main-content">
-      {{ .Content }}
-    </article>
-  </main>
+<div class="atlas-hero">
+  <h1>Core Radiology</h1>
+  <p>A Visual Approach to Diagnostic Imaging — 以視覺化方式學習診斷放射學的完整章節內容，涵蓋 12 個次專科。</p>
+  <div class="atlas-hero-stats">
+    <div class="atlas-hero-stat"><b>{{ len $menu }}</b><span>Chapters 章節</span></div>
+    <div class="atlas-hero-stat"><b>{{ $totalPages }}</b><span>Topics 主題</span></div>
+    <div class="atlas-hero-stat"><b>865</b><span>Images 影像</span></div>
+    <div class="atlas-hero-stat"><b>ZH / EN</b><span>雙語內容</span></div>
+  </div>
 </div>
-</body>
-</html>
+
+<h2>章節 Chapters</h2>
+<div class="atlas-chapter-grid">
+  {{ range $menu }}
+    {{ $sec := $.Site.GetPage .url }}
+    {{ if $sec }}
+      {{ $n := 0 }}
+      {{ range $sec.Pages }}{{ if gt (len (.Plain | plainify)) 240 }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+      <a class="atlas-chapter-card" href="{{ $sec.RelPermalink }}">
+        <span class="atlas-chapter-card-name">{{ .name }}</span>
+        <span class="atlas-chapter-card-zh">{{ .zh }}</span>
+        <span class="atlas-chapter-card-meta">{{ $n }} 個主題 →</span>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+
+<h2>關於本書 About</h2>
+<div class="atlas-card">
+  <div class="atlas-card-head">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 16v-5M12 8v.5"/></svg>
+    <span>Core Radiology · 使用說明</span>
+  </div>
+  <div class="atlas-card-body">
+    <p><strong>Core Radiology</strong> 是一本以影像為主的診斷放射學教材，適合放射科住院醫師、醫學生及需要判讀影像的臨床醫師。</p>
+    <ul>
+      <li>每個章節頁面涵蓋完整主題，附高解析度原始影像與標註。</li>
+      <li>點擊任何影像可放大檢視，支援縮放、平移與雙圖對比。</li>
+      <li>右側目錄會隨閱讀位置自動高亮，頂部顯示閱讀進度。</li>
+      <li>左側欄可搜尋全書關鍵字，章節可摺疊以快速跳轉。</li>
+    </ul>
+  </div>
+</div>
+{{ end }}
