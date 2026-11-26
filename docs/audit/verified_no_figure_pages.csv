@@ -1,0 +1,13 @@
+chapter,book_page,image_file,verification,reason
+neuro,257,page-266.png,NO_FIGURE,"Visual review: headings and prose only; no figure on the rendered page"
+neuro,314,page-323.png,NO_FIGURE,"Visual review: orbit anatomy headings only; no figure"
+neuro,343,page-352.png,NO_FIGURE,"Visual review: contents-style topic list only; no figure"
+neuro,344,page-353.png,NO_FIGURE,"Visual review: contents-style topic list only; no figure"
+neuro,345,page-354.png,NO_FIGURE,"Visual review: contents-style topic list only; no figure"
+ultrasound,494,page-503.png,NO_FIGURE,"Visual review: section text only; no figure"
+ultrasound,497,page-506.png,NO_FIGURE,"Visual review: section text only; no figure"
+ultrasound,551,page-560.png,NO_FIGURE,"Visual review: contents summary only; no figure"
+ultrasound,552,page-561.png,NO_FIGURE,"Visual review: contents summary only; no figure"
+physics,847,page-856.png,NO_FIGURE,"Visual review: coefficient/grid/HVL prose only; no figure"
+physics,862,page-871.png,NO_FIGURE,"Visual review: decay prose and equations only; no figure"
+physics,864,page-873.png,NO_FIGURE,"Visual review: references page; no figure"

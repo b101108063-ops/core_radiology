@@ -1,0 +1,746 @@
+chapter,status,source_file,source_line,section,current_image,current_book_page,source_book_page,offset,current_page_heading,source_page_heading,candidate_count
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,63,肺部解剖 / Lung Anatomy,page-011.png,2,,,Introductory concepts,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,108,影像辨識要點 / Imaging Recognition,page-012.png,3,,,Overview of atelectasis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,151,影像學分類 / Radiologic Classification,page-013.png,4,,,Patterns of lobar atelectasis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,168,直接徵象 / Direct Signs,page-014.png,5,,,Left upper lobe atelectasis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,175,間接徵象 / Indirect Signs,page-015.png,6,,,Left lower lobe atelectasis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,198,機制分類 / Mechanisms of Atelectasis,page-016.png,7,,,Right middle lobe atelectasis,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,276,肺葉塌陷方向 / Patterns of Lobar Atelectasis,page-019.png,10,4,6,Ground glass opacification (GGO),Patterns of lobar atelectasis,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,281,各肺葉塌陷方向 / Direction of Collapse by Lobe,page-020.png,11,,,Diffuse but central-predominant ground glass,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,292,塌陷方向示意 / Collapse Patterns,page-021.png,12,,,Interlobular septal thickening – smooth,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,309,左上葉肺膨脹不全 / Left Upper Lobe Atelectasis,page-022.png,13,5,8,Crazy paving,Left upper lobe atelectasis,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,330,右上葉肺膨脹不全 / Right Upper Lobe Atelectasis,page-023.png,14,,,Approach to multiple nodules,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,368,下葉肺膨脹不全 / Lower Lobe Atelectasis,page-025.png,16,6,10,Random nodules,Left lower lobe atelectasis,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,389,影像特徵比較 / Comparison of Lower Lobe Collapse,page-026.png,17,,,Tree-in-bud nodules,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,415,右中葉肺膨脹不全 / Right Middle Lobe Atelectasis,page-028.png,19,7,12,Cystic lung diseases,Right middle lobe atelectasis,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,428,圓形肺膨脹不全 / Round Atelectasis,page-029.png,20,,,Fibrotic changes,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,475,次級肺小葉 / Secondary Pulmonary Lobule (SPL),page-031.png,22,,,Complications of pneumonia,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,502,與疾病分布的關係 / Relevance to Disease Distribution,page-032.png,23,,,Empyema necessitans,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,540,肺泡異常 / Abnormalities of the Secondary Pulmonary Lobule,page-033.png,24,9,15,Tuberculous adenopathy: Contrast-enhanced,Abnormalities of the secondary pulmonary lobule,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,547,肺實變 / Consolidation,page-034.png,25,,,Healed tuberculosis,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,589,毛玻璃樣浸潤 / Ground Glass Opacification (GGO),page-035.png,26,10,16,Atypical mycobacteria,Ground glass opacification (GGO),1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,630,分布特徵 / Distribution Patterns,page-036.png,27,,,Infections in the immunocompromised,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,658,毛玻璃分布 / Ground Glass Distribution Patterns,page-037.png,28,,,Cryptococcus neoformans,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,665,中央型為主 / Central-Predominant Ground Glass,page-038.png,29,11,18,Allergic bronchopulmonary aspergillosis (ABPA),Diffuse but central-predominant ground glass,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,679,周邊型為主 / Peripheral-Predominant Ground Glass or Consolidation,page-039.png,30,,,Semi-invasive (chronic necrotizing) aspergillosis,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,710,小葉間隔增厚 / Interlobular Septal Thickening,page-040.png,31,12,19,Pulmonary edema and ICU Imaging,Interlobular septal thickening – smooth,1
+thoracic,MATCHED,content/docs/thoracic/_index.md,715,光滑型間隔增厚 / Smooth Interlobular Septal Thickening,page-041.png,32,12,20,Vascular pedicle,Interlobular septal thickening – smooth,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,731,"結節型/不規則型間隔增厚 / Nodular, Irregular, or Asymmetric Septal Thickening",page-042.png,33,,,Central venous catheters,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,794,病理機制 / Pathophysiology,page-045.png,36,,,Squamous cell carcinoma (SCC),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,816,診斷要點 / Diagnostic Key Points,page-047.png,38,,,Radiologic presentation of lung cancer,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,847,肺部多發結節 / Approach to Multiple Pulmonary Nodules,page-048.png,39,,,Superior sulcus tumor,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,852,小葉中心性結節 / Centrilobular Nodules,page-049.png,40,,,Pleural effusion,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,896,淋巴管周圍結節 / Perilymphatic Nodules,page-050.png,41,15,26,N (nodes),Perilymphatic nodules,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,921,結節分布類型比較 / Comparison of Nodule Distributions,page-051.png,42,,,Example staging: Stage IIIA,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,938,隨機分布結節 / Random Nodules,page-052.png,43,16,27,Pulmonary vascular disease,Random nodules,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,959,粟粒型結節 / Miliary Pattern,page-053.png,44,,,General imaging of pulmonary hypertension,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,970,結節分布比較 / Comparison of Nodule Distributions,page-054.png,45,,,"Primary pulmonary hypertension (PPH) – WHO group 1, precapil",,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,987,樹芽徵結節 / Tree-in-Bud Nodules,page-055.png,46,17,29,"Fibrosing mediastinitis – WHO group 5, postcapillary",Tree-in-bud nodules,1
+thoracic,MATCHED,content/docs/thoracic/_index.md,1041,空洞性與囊性肺部疾病 / Cavitary and Cystic Lung Disease,page-057.png,48,18,30,Diffuse lung disease,Cavitary and cystic lung disease,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1046,孤立性空洞結節/腫塊 / Solitary Cavitary Nodule or Mass,page-058.png,49,,,Idiopathic pulmonary fibrosis (IPF),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1070,多發性空洞結節 / Multiple Cavitary Nodules,page-059.png,50,,,Nonspecific interstitial pneumonitis (NSIP),,0
+thoracic,AMBIGUOUS,content/docs/thoracic/_index.md,1081,囊性病變 / Cystic Lung Disease,page-060.png,51,,,Cryptogenic organizing pneumonia (COP),,2
+thoracic,AMBIGUOUS,content/docs/thoracic/_index.md,1113,囊性肺部疾病 / Cystic Lung Diseases,page-061.png,52,,,Respiratory bronchiolitis–interstitial lung disease (RB-ILD),,2
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1120,多發囊性病變 / Multiple Lung Cysts,page-062.png,53,,,Desquamative interstitial pneumonia (DIP),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1132,單發囊性病變 / Single Cyst,page-063.png,54,,,Lymphoid interstitial pneumonia (LIP),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1143,鑑別診斷要點 / Diagnostic Approach,page-064.png,55,,,Acute interstitial pneumonia (AIP),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1172,纖維化改變 / Fibrotic Lung Changes,page-065.png,56,,,Antigen and exposure-related lung disease,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1177,下葉為主纖維化 / Lower Lobe–Predominant Fibrosis,page-066.png,57,,,Eosinophilic lung disease,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1206,上葉為主纖維化 / Upper Lobe–Predominant Fibrosis,page-067.png,58,,,Microscopic polyangiitis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1215,診斷要點 / Diagnostic Key Points,page-068.png,59,,,Iatrogenic lung disease,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1269,肺炎的臨床分類 / Clinical Classification of Pneumonia,page-070.png,61,,,Nodules may occasionally be miliary.,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,1305,感染的影像學分類 / Radiographic Patterns of Infection,page-071.png,62,21,41,Pulmonary Langerhans cell histiocytosis (PLCH),Pulmonary infection,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1315,圓形肺炎 / Round Pneumonia,page-072.png,63,,,Miscellaneous diffuse pulmonary disease,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,1347,肺炎併發症 / Complications of Pneumonia,page-073.png,64,22,42,Lymphangioleiomyomatosis (LAM),Complications of pneumonia,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1352,肺膿腫 / Pulmonary Abscess,page-074.png,65,,,Mediastinum,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1363,肺壞疽 / Pulmonary Gangrene,page-075.png,66,,,"Lines, stripes, and interfaces",,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,1374,膿胸 / Empyema,page-076.png,67,23,44,Aortopulmonary (AP) window,Empyema necessitans,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1403,肺囊腫 / Pneumatocele,page-077.png,68,,,Radiographic localization of a mediastinal mass,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1414,氣管胸膜瘻 / Bronchopleural Fistula (BPF),page-078.png,69,,,Overview of prevascular anterior mediastinal masses,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,1424,Empyema Necessitans,page-079.png,70,23,47,Less common thymic lesions,Empyema necessitans,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1468,初次感染結局 / Initial Exposure Outcomes,page-081.png,72,,,Renal cell carcinoma.,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1478,原發性結核 / Primary Tuberculosis,page-082.png,73,,,Enlarged pulmonary artery (PA),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1503,再活化結核 / Reactivation (Post-Primary) TB,page-083.png,74,,,Extramedullary hematopoiesis,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1516,原發性 vs 再活化性結核 / Primary vs. Reactivation TB,page-084.png,75,,,Airways,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,1526,"免疫抑制患者的結核 / TB in Immunosuppressed Patients (e.g., HIV)",page-085.png,76,,,Tuberculosis,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,1543,結核性淋巴結病 / Tuberculous Adenopathy,page-086.png,77,24,53,Wegener granulomatosis,Tuberculous adenopathy: Contrast-enhanced,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4433,先天性結締組織疾病 / Congenital Connective Tissue Disorders,page-087.png,78,,,"Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women’s Hos",,0
+thoracic,AMBIGUOUS,content/docs/thoracic/_index.md,4480,肺氣腫 / Emphysema,page-088.png,79,,,Emphysema,,2
+thoracic,MATCHED,content/docs/thoracic/_index.md,4508,全小葉型肺氣腫 / Panacinar (Panlobular) Emphysema,page-089.png,80,80,0,Panacinar (panlobular) emphysema,Panacinar (panlobular) emphysema,1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4524,氣管鱗狀細胞癌 / Tracheal Squamous Cell Carcinoma (SCC),page-089.png,80,36,44,Panacinar (panlobular) emphysema,Squamous cell carcinoma (SCC),1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4534,腺樣囊性癌 / Adenoid Cystic Carcinoma (ACC),page-090.png,81,81,0,Adenoid cystic carcinoma (ACC),Adenoid cystic carcinoma (ACC),1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4548,氣管類癌 / Endobronchial Carcinoid,page-090.png,81,,,Adenoid cystic carcinoma (ACC),,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4578,氣管內轉移 / Endobronchial Metastasis,page-091.png,82,,,Mucoepidermoid carcinoma,,0
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4604,惡性胸膜腫瘤 / Pleural Malignancy,page-092.png,83,,,Pleura,,0
+thoracic,MATCHED,content/docs/thoracic/_index.md,4634,纖維性胸膜腫瘤 / Fibrous Tumor of the Pleura (FTP),page-093.png,84,84,0,Fibrous tumor of the pleura (FTP),Fibrous tumor of the pleura (FTP),1
+thoracic,MATCHED,content/docs/thoracic/_index.md,4674,乳糜胸 / Chylothorax,page-094.png,85,85,0,Chylothorax,Chylothorax,1
+thoracic,NO_MATCH,content/docs/thoracic/_index.md,4682,"參考文獻 / References, Resources, and Further Reading",page-095.png,86,,,Pulmonary vascular disease:,,0
+gi,AMBIGUOUS,content/docs/gi/_index.md,7,肝臟 / Liver,page-096.png,87,,,2 Gastrointestinal imaging,,5
+gi,NO_MATCH,content/docs/gi/_index.md,19,肝臟解剖 / Liver Anatomy,page-097.png,88,,,Liver,,0
+gi,NO_MATCH,content/docs/gi/_index.md,31,肝段記憶口訣 / Hepatic Segment Mnemonic,page-098.png,89,,,1 is 7.,,0
+gi,MATCHED,content/docs/gi/_index.md,43,肝臟代謝疾病 / Hepatic Metabolic Disorders,page-099.png,90,90,0,Hepatic metabolic disorders (diffuse liver disease),Hepatic metabolic disorders (diffuse liver disease),1
+gi,NO_MATCH,content/docs/gi/_index.md,56,鐵質過量與遺傳疾病 / Iron Overload and Inherited Disorders,page-100.png,91,,,Amyloid,,0
+gi,MATCHED,content/docs/gi/_index.md,69,肝臟感染 / Hepatic Infection,page-101.png,92,92,0,Hepatic infection,Hepatic infection,1
+gi,MATCHED,content/docs/gi/_index.md,81,肝硬化 / Cirrhosis,page-102.png,93,93,0,Cirrhosis,Cirrhosis,1
+gi,MATCHED,content/docs/gi/_index.md,94,肝細胞癌 / Hepatocellular Carcinoma,page-103.png,94,94,0,Hepatocellular carcinoma (HCC),Hepatocellular carcinoma (HCC),1
+gi,MATCHED,content/docs/gi/_index.md,107,肝臟轉移 / Hepatic Metastases,page-104.png,95,95,0,Hepatic metastases,Hepatic metastases,1
+gi,MATCHED,content/docs/gi/_index.md,120,良性肝臟病灶 / Benign Liver Masses,page-105.png,96,96,0,Benign liver masses,Benign liver masses,1
+gi,MATCHED,content/docs/gi/_index.md,132,肝血管瘤 / Hemangioma,page-106.png,97,97,0,Hemangioma,Hemangioma,1
+gi,MATCHED,content/docs/gi/_index.md,144,肝臟腺瘤 / Hepatic Adenoma,page-107.png,98,98,0,Hepatic adenoma,Hepatic adenoma,1
+gi,MATCHED,content/docs/gi/_index.md,157,肝臟血管疾病 / Vascular Liver Disease,page-108.png,99,99,0,Vascular liver disease,Vascular liver disease,1
+gi,MATCHED,content/docs/gi/_index.md,169,肝臟創傷 / Liver Trauma,page-109.png,100,100,0,Liver trauma,Liver trauma,1
+gi,NO_MATCH,content/docs/gi/_index.md,186,膽道影像學概論 / Introduction to Biliary Imaging,page-110.png,101,,,Choledochal cysts,,0
+gi,NO_MATCH,content/docs/gi/_index.md,201,膽道囊腫與 Caroli 病 / Choledochal Cysts and Caroli Disease,page-111.png,102,,,Type I choledochal cyst,,0
+gi,MATCHED,content/docs/gi/_index.md,214,膽囊感染與發炎 / Gallbladder Infection and Inflammation,page-112.png,103,103,0,Gallbladder infection and inflammation,Gallbladder infection and inflammation,1
+gi,MATCHED,content/docs/gi/_index.md,227,膽管感染與發炎 / Bile Duct Infection and Inflammation,page-113.png,104,104,0,Bile duct infection and inflammation,Bile duct infection and inflammation,1
+gi,NO_MATCH,content/docs/gi/_index.md,240,AIDS 膽管病變與復發性化膿性膽管炎 / AIDS Cholangiopathy and Recurrent Pyogenic Cholangitis,page-114.png,105,,,AIDS cholangitis (AIDS cholangiopathy),,0
+gi,NO_MATCH,content/docs/gi/_index.md,252,膽道腫瘤 / Biliary Neoplasia,page-115.png,106,,,Cholangiocarcinoma,,0
+gi,MATCHED,content/docs/gi/_index.md,267,胰臟腫瘤概論 / Overview of Pancreatic Neoplasms,page-116.png,107,108,-1,Pancreas,Solid pancreatic epithelial neoplasms,1
+gi,NO_MATCH,content/docs/gi/_index.md,280,胰管腺癌 / Pancreatic Adenocarcinoma,page-117.png,108,,,Solid pancreatic epithelial neoplasms,,0
+gi,NO_MATCH,content/docs/gi/_index.md,292,腺泡細胞癌與囊性胰臟腫瘤 / Acinar Cell Carcinoma and Cystic Pancreatic Tumors,page-118.png,109,,,Acinar cell carcinoma,,0
+gi,NO_MATCH,content/docs/gi/_index.md,304,內視鏡乳頭狀黏液性腫瘤與胰臟內分泌腫瘤 / IPMN and Pancreatic Endocrine Neoplasms,page-119.png,110,,,Intraductal papillary mucinous neoplasm (IPMN),,0
+gi,MATCHED,content/docs/gi/_index.md,317,先天性胰臟異常 / Congenital Pancreatic Anomalies,page-120.png,111,111,0,Congenital pancreatic anomalies,Congenital pancreatic anomalies,1
+gi,NO_MATCH,content/docs/gi/_index.md,329,環狀胰臟與胰膽管合流異常 / Annular Pancreas and Common Channel Syndrome,page-121.png,112,,,Annular pancreas,,0
+gi,MATCHED,content/docs/gi/_index.md,341,胰臟囊性病變 / Miscellaneous Pancreatic Lesions,page-122.png,113,113,0,Miscellaneous pancreatic lesions,Miscellaneous pancreatic lesions,1
+gi,MATCHED,content/docs/gi/_index.md,353,急性胰臟炎 / Acute Pancreatitis,page-123.png,114,114,0,Acute pancreatitis,Acute pancreatitis,1
+gi,NO_MATCH,content/docs/gi/_index.md,366,慢性胰臟炎與自體免疫性胰臟炎 / Chronic Pancreatitis and Autoimmune Pancreatitis,page-124.png,115,,,Chronic pancreatitis,,0
+gi,MATCHED,content/docs/gi/_index.md,379,槽狀胰臟炎 / Groove Pancreatitis,page-125.png,116,116,0,Groove pancreatitis,Groove pancreatitis,1
+gi,NO_MATCH,content/docs/gi/_index.md,394,先天性脾臟變異與異常 / Congenital Splenic Variations and Anomalies,page-126.png,117,,,Benign non-cystic splenic lesions,,0
+gi,MATCHED,content/docs/gi/_index.md,406,良性非囊性脾臟病灶 / Benign Non-cystic Splenic Lesions,page-126.png,117,117,0,Benign non-cystic splenic lesions,Benign non-cystic splenic lesions,1
+gi,AMBIGUOUS,content/docs/gi/_index.md,419,良性囊性脾臟病灶 / Benign Cystic Splenic Lesions,page-128.png,119,,,Inflammatory splenic lesions,,2
+gi,MATCHED,content/docs/gi/_index.md,432,發炎性脾臟病灶 / Inflammatory Splenic Lesions,page-128.png,119,119,0,Inflammatory splenic lesions,Inflammatory splenic lesions,1
+gi,MATCHED,content/docs/gi/_index.md,445,惡性脾臟病灶 / Malignant Splenic Lesions,page-129.png,120,120,0,Malignant splenic lesions,Malignant splenic lesions,1
+gi,MATCHED,content/docs/gi/_index.md,457,脾臟其他病灶 / Miscellaneous Splenic Lesions,page-130.png,121,121,0,Miscellaneous splenic lesions,Miscellaneous splenic lesions,1
+gi,MATCHED,content/docs/gi/_index.md,469,脾臟創傷 / Splenic Trauma,page-131.png,122,122,0,Splenic trauma,Splenic trauma,1
+gi,NO_MATCH,content/docs/gi/_index.md,483,食道解剖 / Esophageal Anatomy,page-133.png,124,,,Esophagitis,,0
+gi,MATCHED,content/docs/gi/_index.md,495,食道炎 / Esophagitis,page-133.png,124,124,0,Esophagitis,Esophagitis,1
+gi,MATCHED,content/docs/gi/_index.md,507,食道狹窄 / Esophageal Strictures,page-134.png,125,125,0,Esophageal strictures,Esophageal strictures,1
+gi,MATCHED,content/docs/gi/_index.md,520,良性食道腫瘤 / Benign Esophageal Masses,page-135.png,126,126,0,Benign esophageal masses,Benign esophageal masses,1
+gi,MATCHED,content/docs/gi/_index.md,533,惡性食道腫瘤 / Malignant Esophageal Masses,page-136.png,127,127,0,Malignant esophageal masses,Malignant esophageal masses,1
+gi,MATCHED,content/docs/gi/_index.md,545,食道運動功能障礙 / Esophageal Motility Disorders,page-137.png,128,128,0,Esophageal motility disorders,Esophageal motility disorders,1
+gi,NO_MATCH,content/docs/gi/_index.md,557,食道憩室與其他病變 / Esophageal Diverticula and Other Conditions,page-139.png,130,,,Aberrant right subclavian artery,,0
+gi,NO_MATCH,content/docs/gi/_index.md,572,胃黏膜皺襞增厚 / Thickened Gastric Folds,page-140.png,131,,,Stomach,,0
+gi,NO_MATCH,content/docs/gi/_index.md,585,良性胃部腫瘤 / Benign Gastric Masses,page-141.png,132,,,Hamartomatous polyp,,0
+gi,MATCHED,content/docs/gi/_index.md,598,惡性胃部腫瘤 / Malignant Gastric Masses,page-142.png,133,133,0,Malignant gastric masses,Malignant gastric masses,1
+gi,MATCHED,content/docs/gi/_index.md,610,胃繞道手術概述 / Overview of Gastric Bypass Surgery,page-143.png,134,134,0,Overview of gastric bypass surgery,Overview of gastric bypass surgery,1
+gi,MATCHED,content/docs/gi/_index.md,622,胃繞道手術併發症 / Complications of Roux-en-Y Surgery,page-144.png,135,135,0,Complications of Roux-en-Y surgery,Complications of Roux-en-Y surgery,1
+gi,NO_MATCH,content/docs/gi/_index.md,637,小腸解剖與阻塞 / Small Bowel Anatomy and Obstruction,page-145.png,136,,,Small bowel,,0
+gi,NO_MATCH,content/docs/gi/_index.md,649,小腸糞便徵象與封閉性阻塞 / Small Bowel Feces Sign and Closed Loop Obstruction,page-146.png,137,,,The small bowel feces sign is often seen,,0
+gi,MATCHED,content/docs/gi/_index.md,662,嵌頓性腹外疝氣 / Obstruction Due to External Hernia,page-147.png,138,138,0,Obstruction due to external hernia,Obstruction due to external hernia,1
+gi,NO_MATCH,content/docs/gi/_index.md,674,腫瘤性與發炎性阻塞 / Obstruction Due to Neoplasm and Crohn Disease,page-148.png,139,,,Obstruction due to neoplasm,,0
+gi,NO_MATCH,content/docs/gi/_index.md,687,腸炎與克隆氏症 / Enteritis and Crohn Disease,page-149.png,140,,,Enteritis,,0
+gi,NO_MATCH,content/docs/gi/_index.md,700,克隆氏症併發症 / Complications of Crohn Disease,page-150.png,141,,,"Case courtesy Michael Callahan, MD, Boston Children’s Hospit",,0
+gi,NO_MATCH,content/docs/gi/_index.md,713,硬皮症與乳糜瀉 / Scleroderma and Celiac Disease,page-151.png,142,,,Scleroderma,,0
+gi,NO_MATCH,content/docs/gi/_index.md,725,"感染性腸炎、輻射性腸炎與 Whipple 病 / Infectious Enteritis, Radiation Enteritis, and Whipple Disease",page-152.png,143,,,Infectious enteritis,,0
+gi,NO_MATCH,content/docs/gi/_index.md,740,結腸炎概論與缺血性結腸炎 / Overview of Colitis and Ischemic Colitis,page-153.png,144,,,Large bowel,,0
+gi,MATCHED,content/docs/gi/_index.md,753,潰痬性結腸炎 / Ulcerative Colitis,page-154.png,145,145,0,Ulcerative colitis (UC),Ulcerative colitis (UC),1
+gi,MATCHED,content/docs/gi/_index.md,766,大腸息肉症候群 / Polyposis Syndromes,page-155.png,146,146,0,Polyposis syndromes affecting the bowel,Polyposis syndromes affecting the bowel,1
+gi,NO_MATCH,content/docs/gi/_index.md,779,急性闌尾炎 / Appendicitis,page-156.png,147,,,Acute bowel,,0
+gi,MATCHED,content/docs/gi/_index.md,792,憩室炎 / Diverticulitis,page-157.png,148,148,0,Diverticulitis,Diverticulitis,1
+gi,NO_MATCH,content/docs/gi/_index.md,807,腸繫膜與腹膜解剖 / Mesenteric and Peritoneal Anatomy,page-158.png,149,,,Mesentery and peritoneum,,0
+gi,NO_MATCH,content/docs/gi/_index.md,819,腹膜液體流動與朦朧腸繫膜 / Peritoneal Fluid Flow and Misty Mesentery,page-159.png,150,,,Flow of peritoneal fluid,,0
+gi,MATCHED,content/docs/gi/_index.md,831,腸繫膜腫瘤 / Mesenteric Masses,page-160.png,151,151,0,Mesenteric masses,Mesenteric masses,1
+gi,MATCHED,content/docs/gi/_index.md,844,腹膜疾病 / Peritoneal Disease,page-161.png,152,150,2,Sclerosing mesenteritis,Flow of peritoneal fluid,1
+gi,MATCHED,content/docs/gi/_index.md,857,腹膜假黏液瘤 / Pseudomyxoma Peritonei,page-162.png,153,153,0,Pseudomyxoma peritonei,Pseudomyxoma peritonei,1
+gi,NO_MATCH,content/docs/gi/_index.md,872,參考文獻（一）/ References,page-163.png,154,,,"References, resources, and further reading",,0
+gi,NO_MATCH,content/docs/gi/_index.md,885,參考文獻（二）/ References,page-164.png,155,,,"45, 447-60, viii(2007).",,0
+gi,NO_MATCH,content/docs/gi/_index.md,898,參考文獻（三）/ References,page-165.png,156,,,1483-92(2008).,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,48,腎臟影像檢查方法 / Imaging Approaches,page-167.png,158,,,Retroperitoneum,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,85,重要解剖標誌 / Key Anatomical Landmarks,page-168.png,159,,,Retroperitoneal disease,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,264,皮質功能過剩 / Adrenal Hyperfunction,page-170.png,161,,,Adrenal hypofunction,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,354,碰撞瘤（Collision Tumor）,page-171.png,162,,,CT Imaging: Adrenal washout CT,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,595,診斷要點 / Diagnostic Key Points,page-174.png,165,,,Adrenal cortical carcinoma,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,746,病因 / Etiology,page-175.png,166,,,Kidneys,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,822,腎臟腫塊活檢適應症 / Indications for Renal Mass Biopsy,page-176.png,167,,,Solid renal masses,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1045,非腫瘤性實性腎臟腫塊 / Non-neoplastic Solid Renal Masses,page-179.png,170,,,Renal pseudotumors,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1103,"結節性硬化症（Tuberous Sclerosis, TS）",page-180.png,171,,,Approach to a cystic renal mass,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1203,高密度囊腫 / Hyperdense Cyst,page-181.png,172,,,Bosniak classification of cystic renal masses,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1394,局灶性腎盂腎炎 / Focal Pyelonephritis,page-183.png,174,,,Renal contusion (typically focal).,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1538,診斷要點 / Diagnostic Key Points,page-184.png,175,,,Xanthogranulomatous pyelonephritis,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1628,診斷要點 / Diagnostic Key Points,page-185.png,176,,,Nephrolithiasis and ureterolithiasis,,0
+genitourinary,MATCHED,content/docs/genitourinary/_index.md,1705,皮質腎鈣化 / Cortical Nephrocalcinosis,page-186.png,177,178,-1,Renal imaging patterns,Cortical nephrocalcinosis,1
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1756,膀胱相關綜合徵 / Relevant Syndromes,page-187.png,178,,,Cortical nephrocalcinosis,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1816,診斷要點 / Diagnostic Key Points,page-188.png,179,,,Extracalyceal contrast medium,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,1865,CT 描述要點 / CT Description,page-189.png,180,,,Ureter,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2024,輸尿管充盈缺損的鑑別診斷 / Differential Diagnosis of Ureteral Filling Defect,page-191.png,182,,,Structural ureteral lesions,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2096,診斷要點 / Diagnostic Key Points,page-192.png,183,,,Bladder,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2146,膀胱腺癌 / Bladder Adenocarcinoma,page-193.png,184,,,Bladder trauma,,0
+genitourinary,MATCHED,content/docs/genitourinary/_index.md,2203,腹膜內膀胱破裂 / Intraperitoneal Bladder Rupture,page-194.png,185,185,0,Intraperitoneal bladder rupture,Intraperitoneal bladder rupture,1
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2262,腹膜內 vs. 腹膜外膀胱破裂的鑑別 / Differentiation,page-195.png,186,,,Urethra,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2310,臨床相關部位 / Clinical Correlation,page-196.png,187,,,Imaging of the male urethra,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2379,影像學要點 / Diagnostic Key Points,page-197.png,188,,,Female urethra,,0
+genitourinary,AMBIGUOUS,content/docs/genitourinary/_index.md,2512,進階 MRI 技術,page-199.png,190,,,T1: Tumor apparent by biopsy only.,,4
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2588,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-200.png,191,,,The presence of regional lymph nodes is N1.,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2589,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-201.png,192,,,MRI of the uterus and adnexa,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2590,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-202.png,193,,,Leiomyoma (fibroid),,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2591,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-203.png,194,,,Malignant uterine disease,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2592,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-204.png,195,,,MRI of the cervix,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2593,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-205.png,196,,,Congenital uterine anomalies,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2594,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-206.png,197,,,MRI of the adnexa,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2595,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-207.png,198,,,Ovarian cancer,,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2596,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-208.png,199,,,"References, resources, and further reading",,0
+genitourinary,NO_MATCH,content/docs/genitourinary/_index.md,2597,分期示例：T2a 前列腺癌 / Staging Example: T2a Prostate Cancer,page-209.png,200,,,Ureter and bladder:,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,10,Neuroimaging 神經影像學 (Page 211),page-210.png,201,,,4 Neuroimaging,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,24,Ventricular Anatomy 腦室解剖學 (Page 212),page-211.png,202,,,Introduction,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,38,CSF Dynamics & Cerebral Edema 腦脊髓液動力學與腦水腫 (Page 213),page-212.png,203,,,Cerebrospinal fluid (CSF),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,54,Herniation 腦疝脫 (Page 214),page-213.png,204,,,Herniation,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,74,Hydrocephalus & Cisterns 水腦症與腦池 (Page 215),page-214.png,205,,,Cerebellar tonsillar herniation,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,96,"MRI in Neuroradiology: T1, T2, FLAIR 神經影像 MRI 基礎 (Page 216)",page-215.png,206,,,MRI in neuroradiology,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,116,"DWI, ADC & Proton Density MRI 擴散權重影像與表觀擴散係數 (Page 217)",page-216.png,207,,,Conventional spin-echo proton density (PD),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,138,"GRE, MR Spectroscopy & Perfusion GRE、磁振頻譜與灌流 (Page 218)",page-217.png,208,,,Gradient recall echo (GRE),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,156,Blood-Brain Barrier & Enhancement Patterns 血腦屏礙與強化模式 (Page 219),page-218.png,209,,,Patterns of enhancement in the brain,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,176,Gyriform & Nodular Subcortical Enhancement 腦迴強化與結節狀皮質下強化 (Page 220),page-219.png,210,,,Gyriform enhancement (intra-axial),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,198,Ring Enhancement 環狀強化 (Page 221),page-220.png,211,,,Ring enhancement (intra-axial),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,218,Pachymeningeal (Dural) Enhancement 硬膜強化 (Page 222),page-221.png,212,,,Pachymeningeal (dural) enhancement (extra-axial),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,260,Approach to Brain Tumors: Complications & Location 腦腫瘤評估方法 (Page 224),page-223.png,214,,,Brain tumors,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,280,Intra-axial vs Extra-axial Masses & Location 軸內外病變鑑別與位置判讀 (Page 225),page-224.png,215,,,Where specifically is the lesion located?,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,302,Glial Cells Overview & Signal Characteristics 膠質細胞概覽與訊號特徵 (Page 226),page-225.png,216,,,Metastatic melanoma (melanin is hyperintense on T1-weighted ,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,324,Grade I Astrocytoma & JPA 第一級星狀細胞瘤 (Page 227),page-226.png,217,,,Grade I astrocytoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,344,Anaplastic Astrocytoma & Glioblastoma 間變性星狀細胞瘤與膠質母細胞瘤 (Page 228),page-227.png,218,,,Anaplastic astrocytoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,364,Gliomatosis Cerebri & Oligodendroglioma 膠質瘤病與寡樹突膠質細胞瘤 (Page 229),page-228.png,219,,,Other gliomas,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,383,Ring Enhancement (Intra-axial) / 軸內環狀強化 (Page 230),page-229.png,220,,,Ependymoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,394,Pachymeningeal (dural) enhancement (extra-axial) / 硬膜強化（軸外）(Page 231),page-230.png,221,,,Medulloblastoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,417,Pachymeningeal (dural) enhancement (extra-axial) / 硬膜強化（軸外）(Page 231),page-231.png,222,,,Tumors with a cyst and an enhancing nodule,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,439,Pachymeningeal (dural) enhancement (extra-axial) / 硬膜強化（軸外）(Page 231),page-232.png,223,,,Ganglioglioma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,450,Intra-axial Mass Imaging Findings / 軸內病灶影像特徵 (Page 234),page-233.png,224,,,Choroid plexus papilloma/carcinoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,476,Intra-axial Mass Imaging Findings / 軸內病灶影像特徵 (Page 234),page-234.png,225,,,Subependymal giant cell astrocytoma (SEGA),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,498,Intra-axial Mass Imaging Findings / 軸內病灶影像特徵 (Page 234),page-236.png,227,,,Involvement of the frontal lobes and basal ganglia is most c,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,525,Grade I Astrocytoma Imaging / 第一級星狀細胞瘤影像 (Page 235),page-235.png,226,,,CNS lymphoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,542,Grade I Astrocytoma Imaging / 第一級星狀細胞瘤影像 (Page 235),page-237.png,228,,,Dural neoplasms,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,564,Ependymoma / 室管膜 (Page 239),page-238.png,229,,,Posterior fossa masses: Differential diagnosis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,578,Medulloblastoma / 髓母細胞 (Page 240),page-239.png,230,,,Cerebellopontine angle (CPA) mass,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,592,Cystic Mass with Mural Nodule / 囊腫合併壁結節腫 (Page 241),page-240.png,231,,,Meningioma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,606,Central Neurocytoma / 中樞神經細胞 (Page 242),page-241.png,232,,,Epidermoid cyst,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,620,CNS Lymphoma / 中樞神經系統淋巴 (Page 243),page-242.png,233,,,CN VI abducens nerve,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,634,Meningioma and Dural Metastasis / 腦膜瘤與硬膜轉 (Page 244),page-243.png,234,,,Intrinsic pituitary mass,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,648,Posterior Fossa Differential / 後顱窩腫瘤鑑別診 (Page 245),page-244.png,235,,,Suprasellar mass,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,662,CPA Mass / 橋小腦角腫 (Page 246),page-245.png,236,,,Rathke’s cleft cyst,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,676,Epidermoid and Intra-axial CPA / 膽脂瘤與軸內CPA侵 (Page 247),page-246.png,237,,,Astrocytoma (optic pathway glioma),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,690,Sella and Suprasellar Anatomy / 蝶鞍與鞍上區域解 (Page 248),page-247.png,238,,,Hypothalamic hamartoma (hamartoma of the tuber cinereum),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,704,Pituitary Adenoma / 腦下垂體腺 (Page 249),page-248.png,239,,,Suprasellar mass in a child,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,718,Craniopharyngioma / 顱咽 (Page 250),page-249.png,240,,,Intrinsic pineal mass,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,732,Parasellar Meningioma / 鞍旁腦膜 (Page 251),page-250.png,241,,,"Treatment is radiotherapy, with excellent prognosis.",,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,746,Hypothalamic Hamartoma / 下視丘錯構 (Page 252),page-251.png,242,,,Metastases,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,760,Pineal Region Anatomy / 松果體區解 (Page 253),page-252.png,243,,,Cerebral trauma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,774,Pineal Germinoma and Cysts / 松果體生殖細胞瘤與囊 (Page 254),page-253.png,244,,,Intra-axial injury,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,788,Pineocytoma and Pineoblastoma / 松果體細胞瘤與松果體母細胞 (Page 255),page-254.png,245,,,Facial fractures,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,802,Pineal Metastases and Extra-pineal Masses / 松果體轉移與松果體外腫 (Page 256),page-255.png,246,,,Cortical anatomy,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,881,Circle of Willis Details / Willis環結構 (Page 257),page-256.png,247,,,Vascular anatomy,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,895,Neurovascular Anatomy Summary / 神經血管解剖總結 (Page 258),page-257.png,248,,,Critical small arteries arising from the circle of Willis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,909,Vascular Lesions and Pathology / 血管病竈與病理 (Page 259),page-258.png,249,,,Middle cerebral artery (MCA),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,923,Perfusion and Advanced Imaging / 灌注與進階影像 (Page 260),page-259.png,250,,,Anterior cerebral artery (ACA),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,937,Neuroimaging Summary / 神經影像學總結 (Page 261),page-260.png,251,,,Arterial territories,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,950,Willis環細小穿通動脈 (Critical Small Arteries of the Circle of Willis) (Page 262),page-261.png,252,,,Stroke,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,964,大腦中動脈分節解剖 (Middle Cerebral Artery Segmental Anatomy) (Page 263),page-262.png,253,,,Acute stroke: Noncontrast CT imaging,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,978,前大腦動脈及持久性頸基底吻合 (Anterior Cerebral Artery and Persistent Carotid-Basilar Connections) (Page 264),page-263.png,254,,,Acute stroke: MR imaging,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,991,動脈供應領域 (Arterial Territories) (Page 265),page-264.png,255,,,Evolution of infarction,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1084,海綿狀畸形與發育性靜脈異常 (Cavernous Malformation and Developmental Venous Anomaly) (Page 267),page-266.png,257,,,Vascular malformations,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1098,毛細血管擴張與表層鐵質沉著症 (Capillary Telangiectasia and Superficial Siderosis) (Page 268),page-267.png,258,,,Low-flow lesions (lesions without shunting),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1125,SAH分布與Fisher分級 (SAH Distribution and Fisher Grade) (Page 270),page-269.png,260,,,Subarachnoid hemorrhage and aneurysms,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1139,可逆性腦血管收縮症候群與動脈瘤形態學 (RCVS and Aneurysm Morphology) (Page 271),page-270.png,261,,,Distribution of subarachnoid hemorrhage,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1167,靜脈血栓形成 (Cerebral Venous Thrombosis) (Page 274),page-273.png,264,,,Cerebral venous disease,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1178,RCVS and Aneurysm Morphology / 可逆性腦血管收縮症候群與動脈瘤形態學 (Page 271),page-271.png,262,,,Perimesencephalic subarachnoid hemorrhage,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1186,靜脈性疾病診斷與治療 (Venous Disease Diagnosis and Treatment) (Page 275),page-274.png,265,,,Venous disease,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1212,Parenchymal Hematoma Stages on MRI / 腦實質血腫的MRI分期 (Page 276),page-275.png,266,,,Intraparenchymal hemorrhage,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1225,Causes of Intraparenchymal Hemorrhage / 腦實質內出血的原因 (Page 277),page-276.png,267,,,Specific stages of parenchymal hematoma on MR,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1238,Intracranial Hemorrhage Etiologies / 顱內出血病因鑑別 (Page 278),page-277.png,268,,,Causes of intraparenchymal hemorrhage,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1251,Hemorrhage Summary and Moyamoya / 出血病因總結與 Moyamoya 病 (Page 279),page-278.png,269,,,Aneurysmal hemorrhage,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1264,Hemorrhage Etiology Flowchart / 腦出血病因鑑別流程圖 (Page 280),page-279.png,270,,,Cavernous malformation (cavernoma),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1279,白質疾病與脫髓鞘 / White Matter & Demyelination (Page 281),page-280.png,271,,,Summary of hemorrhage etiology,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1301,White Matter Disease: Differential Diagnosis / 白質疾病：鑑別診斷 (Page 284),page-284.png,275,,,Vasculitis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1306,White Matter Disease: Advanced MRI Findings / 白質疾病：進階MRI表現 (Page 283),page-283.png,274,,,Concentric (Balo) sclerosis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1311,White Matter Disease: Clinical Presentation / 白質疾病：臨床表現 (Page 282),page-282.png,273,,,Dawson fingers in multiple,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1316,White Matter Disease: Additional Patterns / 白質疾病：其他影像模式 (Page 281),page-281.png,272,,,White matter disease,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1362,Cerebral Infections - Pyogenic Abscess / 腦部感染 - 化膿性腦膿腫 (Page 286),page-285.png,276,,,Subacute sclerosing panencephalitis (SSPE),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1375,"Tuberculoma, Lyme, Fungal Infections / 結核瘤、萊姆病與真菌感染 (Page 287)",page-286.png,277,,,Cerebral infection,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1388,Neurocysticercosis and Toxoplasmosis / 神經囊蟲病與弓漿蟲病 (Page 288),page-287.png,278,,,Tuberculoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1401,Herpes Encephalitis and HIV Encephalopathy / 皰疹病毒腦炎與HIV腦病變 (Page 289),page-288.png,279,,,Toxoplasmosis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1414,Creutzfeldt-Jakob Disease and Metabolic Disorders / CJD與中毒代謝性疾病 (Page 290),page-289.png,280,,,Viral infection,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1442,Neck Infections - Retropharyngeal Space / 頸部感染 - 咽後間隙 (Page 292),page-291.png,282,,,Toxic/metabolic,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1455,Retropharyngeal Abscess and Complications / 咽後膿腫及其併發症 (Page 293),page-292.png,283,,,Neck infection,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1481,Branchial Cleft Cysts / 鰓裂囊腫 (Page 295),page-294.png,285,,,Cystic lesions of the neck,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1494,Masticator/Submandibular Abscess and Lymphatic Malformations / 咀嚼肌/下頜下膿腫與淋巴管畸形 (Page 296),page-295.png,286,,,Cystic metastasis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1520,Laryngeal Diseases / 喉部疾病 (Page 298),page-297.png,288,,,Larynx,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1546,Chronic Sinusitis and Complications / 慢性鼻竇炎及其併發症 (Page 300),page-299.png,290,,,Paranasal sinuses,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1559,Acute and Allergic Fungal Sinusitis / 急性與慢性過敏性真菌性鼻竇炎 (Page 301),page-300.png,291,,,Turbinates and meatuses,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1572,Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 (Page 302),page-301.png,292,,,Named air cells,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1598,Pleomorphic Adenoma and Warthin Tumor / 多形性腺瘤與Warthin瘤 (Page 305),page-304.png,295,,,Salivary glands,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1605,Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 (Page 302),page-302.png,293,,,Chronic allergic fungal sinusitis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1616,Malignant Parotid Tumors / 惡性唾液腺腫瘤 (Page 306),page-305.png,296,,,Benign parotid neoplasm,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1629,Sjögren Syndrome and HIV Lymphoepithelial Lesions / 乾燥症候群與HIV淋巴上皮性病變 (Page 307),page-306.png,297,,,Malignant parotid neoplasm,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1642,Pterygopalatine Fossa Anatomy / 翼顎窩解剖 (Page 308),page-307.png,298,,,Sjögren syndrome,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1655,Juvenile Nasopharyngeal Angiofibroma / 青少年鼻咽血管纖維瘤 (Page 309),page-308.png,299,,,Anterior skull base and pterygopalatine fossa,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1693,Temporal Bone Pathology / 顳骨疾病 (Page 312),page-311.png,302,,,Temporal bone,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1699,Juvenile Nasopharyngeal Angiofibroma / 青少年鼻咽血管纖維瘤 (Page 309),page-309.png,300,,,Osseous anatomy of the anterior skull base,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1712,顳骨與顱底 / Temporal Bone and Skull Base (Page 313),page-312.png,303,,,External ear and external auditory canal (EAC),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1726,中耳 / 中耳與相鄰顏面神經（Middle Ear and Facial Nerve） (Page 314),page-313.png,304,,,Glomus tympanicum,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1739,膽脂瘤 / 膽脂瘤（Cholesteatoma） (Page 315),page-314.png,305,,,Cholesteatoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1752,膽脂瘤影像 / 膽脂瘤MRI特徵（Cholesteatoma MRI） (Page 316),page-315.png,306,,,Diffusion was restricted when correlated with,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1765,內耳 / 內耳解剖學（Inner Ear Anatomy） (Page 317),page-316.png,307,,,Inner ear,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1778,迷路炎與顳骨骨折 / 迷路炎與顳骨骨折（Labyrinthitis and Temporal Bone Fractures） (Page 318),page-317.png,308,,,Labyrinthitis,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1791,岩部 / 岩部病變（Petrous Apex） (Page 319),page-318.png,309,,,Petrous apex,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1804,岩部病變鑑別診斷 / 岩部病變鑑別診斷（Differential of Petrous Apex Lesions） (Page 320),page-319.png,310,,,Chondrosarcoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1817,斜坡 / 斜坡病變（Clivus） (Page 321),page-320.png,311,,,Clivus,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1830,類副神經節瘤 / 類副神經節瘤（Paragangliomas） (Page 322),page-321.png,312,,,Paragangliomas (glomus tumors),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1843,類副神經節瘤各類型 / 其他類副神經節瘤類型（Other Paraganglioma Types） (Page 323),page-322.png,313,,,Glomus jugulotympanicum,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1870,眼眶感染 / 眼眶感染（Orbital Infection） (Page 324),page-323.png,314,,,Orbits,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1884,眼眶腫瘤 / 眼眶腫瘤（Orbital Masses） (Page 325),page-324.png,315,,,Orbital infection,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1897,眼眶淋巴管瘤與其他 / 眼眶其他腫瘤（Other Orbital Tumors） (Page 326),page-325.png,316,,,"Orbital masses (intra and extracoral), excluding optic nerve",,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1910,眼眶假瘤與甲狀腺 / 甲狀腺眼眶病變與眼眶假瘤（Thyroid Ophthalmopathy and Pseudotumor） (Page 327),page-326.png,317,,,Lymphangioma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1923,視神經鞘腫瘤 / 視神經鞘腫瘤（Optic Nerve Sheath Tumors） (Page 328),page-327.png,318,,,Extraocular muscle disorders (conal),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1936,視神經炎 / 視神經炎（Optic Neuritis） (Page 329),page-328.png,319,,,Optic nerve/sheath disorders (intraconal),,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1949,眼球腫瘤 / 眼球腫瘤（Globe Tumors） (Page 330),page-329.png,320,,,Optic nerve meningioma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1962,先天性眼球病變 / 先天性眼球與眼眶病變（Congenital Globe and Orbital Lesions） (Page 331),page-330.png,321,,,Globe,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,1991,頸動脈間隙 / 頸動脈間隙（Carotid Space） (Page 333),page-332.png,323,,,Fascial spaces of the suprahyoid neck,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2004,咽旁間隙與椎前間隙 / 咽旁間隙與椎前間隙（Parapharyngeal and Perivertebral Spaces） (Page 334),page-333.png,324,,,Carotid space,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2029,Spine: Normal Variants / 脊椎：正常變異 (Page 341),page-341.png,332,,,Myxopapillary ependymoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2034,Spine: Trauma Imaging / 脊椎：創傷影像 (Page 340),page-340.png,331,,,"Nerve-sheath tumor (schwannoma, neurofibroma)",,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2039,Spine: Pediatric Spine / 脊椎：兒童脊椎 (Page 339),page-339.png,330,,,Ependymoma,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2044,Spine: Post-treatment Changes / 脊椎：治療後變化 (Page 338),page-338.png,329,,,Intramedullary lesions,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2049,Spine: Inflammatory Conditions / 脊椎：發炎性疾病 (Page 337),page-337.png,328,,,Spine tumors,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2054,Spine: Congenital Anomalies / 脊椎：先天性異常 (Page 336),page-336.png,327,,,Cervical lymph node levels,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2059,Spine: Additional Imaging Planes / 脊椎：額外成像平面 (Page 335),page-335.png,326,,,Cervical lymph nodes,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2067,脊椎腫瘤定位 / 脊椎病竈定位（Spine Lesion Localization） (Page 343),page-342.png,333,,,Extradural lesions,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2071,Spine: Post-operative Imaging / 脊椎：術後影像 (Page 351),page-351.png,342,,,"References, resources, and further reading",,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2076,Spine Tumor: Multiplicity and Recurrence / 脊椎腫瘤：多發性與復發 (Page 350),page-350.png,341,,,Diastematomyelia,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2081,Spine Tumor: Benign Lesions / 脊椎腫瘤：良性病變 (Page 349),page-349.png,340,,,Vascular,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2086,Spine Tumor: Primary Malignancy / 脊椎腫瘤：原發性惡性腫瘤 (Page 348),page-348.png,339,,,Infection,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2091,Spine Tumor: Metastases / 脊椎腫瘤：轉移性 (Page 347),page-347.png,338,,,Facet arthropathy,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2096,Spine Tumor: Intramedullary / 脊椎腫瘤：脊髓內 (Page 346),page-346.png,337,,,General degenerative changes,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2101,Spine Tumor: Intradural Extramedullary / 脊椎腫瘤：脊髓外硬膜內 (Page 345),page-345.png,336,,,CSF,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2106,Spine Tumor: Extradural / 脊椎腫瘤：硬膜外 (Page 344),page-344.png,335,,,Degenerative disease,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2111,Spine Tumor Localization / 脊椎腫瘤定位 (Page 343),page-343.png,334,,,Primary osseous vertebral body tumors of middle-aged and old,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2125,髓內病竈 / 髓內病竈（Intramedullary Lesions） (Page 353),page-352.png,343,,,Intraparenchymal hemorrhage:,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2138,室管膜瘤與血管母細胞瘤 / 室管膜瘤與血管母細胞瘤（Ependymoma and Hemangioblastoma） (Page 354),page-353.png,344,,,Paranasal sinuses:,,0
+neuro,NO_MATCH,content/docs/neuro/_index.md,2151,髓外膜內病竈 / 髓外膜內病竈（Intradural-Extramedullary Lesions） (Page 355),page-354.png,345,,,Orbit:,,0
+msk,NO_MATCH,content/docs/msk/_index.md,33,Chapter 5 目錄 / Table of Contents,page-356.png,347,,,Basics of bones and joints,,0
+msk,NO_MATCH,content/docs/msk/_index.md,208,檢查選擇 / Imaging Choice,page-358.png,349,,,Osteoarthritis in the hip,,0
+msk,NO_MATCH,content/docs/msk/_index.md,331,解剖要點 / Anatomical Note,page-359.png,350,,,Osteoarthritis in the sacroiliac (SI) joint,,0
+msk,NO_MATCH,content/docs/msk/_index.md,509,Protrusio Deformity（髖臼突出畸形）,page-361.png,352,,,Rheumatoid arthritis in the knee,,0
+msk,NO_MATCH,content/docs/msk/_index.md,609,肘關節類風濕關節炎 / Rheumatoid Arthritis in the Elbow,page-362.png,353,,,Seronegative spondyloarthropathies,,0
+msk,NO_MATCH,content/docs/msk/_index.md,753,嚴重併發症 / Serious Complications,page-364.png,355,,,Psoriatic arthritis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,866,脊椎侵犯 / Spinal Involvement,page-365.png,356,,,Connective tissue disorders affecting the joints,,0
+msk,NO_MATCH,content/docs/msk/_index.md,993,Milwaukee Shoulder（關節內型）,page-366.png,357,,,Calcium pyrophosphate dihydrate deposition disease (CPPD),,0
+msk,NO_MATCH,content/docs/msk/_index.md,1073,手部 (Hands),page-367.png,358,,,Gout,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1176,手部特徵性表現 / Characteristic Hand Findings,page-368.png,359,,,Amyloid arthropathy,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1538,B — 骨質增生 (Bone Creation),page-372.png,363,,,Bony ankylosis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1607,手部：掌指關節 (MCP) 與 PIP,page-373.png,364,,,Wrist: CMC,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1665,S — 軟組織腫脹 (Soft-tissue Swelling),page-374.png,365,,,Bone tumors and tumor-like lesions: approach,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1732,極高度侵襲性：Codman 三角 (Codman Triangle),page-375.png,366,,,Pattern of bone destruction: Margin analysis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1801,病變位於骨內的位置 / Location Within Bone,page-376.png,367,,,Bone lesions organized by cell of origin,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1856,良性：骨膜增生性骨病 (Melorheostosis),page-377.png,368,,,Benign: Osteoid osteoma,,0
+msk,NO_MATCH,content/docs/msk/_index.md,1992,主要亞型 / Major Subtypes,page-379.png,370,,,Patients tend to be younger than 20 years old.,,0
+msk,MATCHED,content/docs/msk/_index.md,2056,骨肉瘤轉移 / Metastasis,page-380.png,371,383,-12,Cartilage-forming (chondro-) lesions,Osseous metastasis,1
+msk,NO_MATCH,content/docs/msk/_index.md,2220,家族性骨軟骨瘤病 / Familial Osteochondromatosis (Multiple Hereditary Exostoses),page-383.png,374,,,Benign: Chondroblastoma,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2312,骨軟骨瘤惡性變的軟骨帽厚度 / Cartilage Cap Thickness,page-384.png,375,,,Lesions of fibrous origin,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2381,骨內 MFH 影像特徵 / Intracortical MFH,page-385.png,376,,,Fibrous dysplasia,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2482,Mazabraud 症候群,page-387.png,378,,,Lesions of vascular origin,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2527,惡性：骨血管肉瘤 / Malignant: Angiosarcoma of Bone,page-388.png,379,,,Lesions of hematopoietic origin,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2628,侵襲性溶骨性病變的兒童鑑別診斷 / Differential Diagnosis in Children,page-389.png,380,,,Malignant: Multiple myeloma (MM)/Plasmacytoma,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2692,單一性漿細胞瘤 / Solitary Plasmacytoma,page-390.png,381,,,Malignant: Lymphoma,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2764,惡性：脊索瘤 / Malignant: Chordoma,page-391.png,382,,,Lesions of unknown cell origin,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2845,惡性：釉質質瘤 / Malignant: Adamantinoma,page-392.png,383,,,Osseous metastasis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2922,重要臨床提醒 / Critical Clinical Note,page-393.png,384,,,Brown tumor,,0
+msk,NO_MATCH,content/docs/msk/_index.md,2994,年齡相關的好發模式 / Age-Specific Patterns,page-394.png,385,,,Musculoskeletal infection,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3119,感染途徑 / Pathway,page-396.png,387,,,Subacute osteomyelitis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3187,特殊病原菌 / Specific Organisms,page-397.png,388,,,Specific locations,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3267,白血球掃描 (WBC Scan) / WBC Scintigraphy,page-398.png,389,,,Soft-tissue infections,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3327,特殊族群 / Special Populations,page-399.png,390,,,Necrotizing fasciitis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3405,局灶性骨質減少的病因 / Focal Osteopenia Etiologies,page-400.png,391,,,Vitamin-deficiency bone disease,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3491,各部位特徵 / Location-Specific Features,page-401.png,392,,,Hyperparathyroidism (Recklinghausen disease of bone),,0
+msk,NO_MATCH,content/docs/msk/_index.md,3557,併發症 / Complications,page-402.png,393,,,Renal osteodystrophy,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3642,甲狀腺功能亢進 / Hyperthyroidism,page-403.png,394,,,Idiopathic bone disease,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3735,併發症 / Complications,page-404.png,395,,,Hereditary hyperphosphatasia (juvenile Paget),,0
+msk,NO_MATCH,content/docs/msk/_index.md,3812,H 形椎體的鑑別診斷 / Differential Diagnosis of H-shaped Vertebral Bodies,page-405.png,396,,,Hematologic bone disease,,0
+msk,NO_MATCH,content/docs/msk/_index.md,3876,鐮刀型紅血球骨髓擴張 / Sickle Cell Marrow Expansion,page-406.png,397,,,Thalassemia,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4029,象牙質（瀰漫性硬化）椎體的鑑別 / Ivory (Diffusely Sclerotic) Vertebral Body,page-408.png,399,,,Basics of trauma,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4093,描述要點 / Key Description Points,page-409.png,400,,,Basics of MR,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4198,完全撕裂 / Complete Tear,page-410.png,401,,,Foot and ankle,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4250,Freiberg 病（Freiberg's Infraction）,page-411.png,402,,,Metatarsal stress fracture,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4322,Lisfranc 關節對線評估要點 / Alignment Evaluation,page-412.png,403,,,Lisfranc ligament,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4383,常見骨折概覽 / Overview of Common Fractures,page-413.png,404,,,Navicular osteonecrosis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4468,跟骨 Stress Fracture / Calcaneal Stress Fracture,page-414.png,405,,,Calcaneal fracture,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4529,距骨血供與預後總結 / Blood Supply Summary,page-415.png,406,,,Osteochondral lesion of the talus,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4591,跟舟聯合影像徵象 / Calcaneonavicular Coalition Imaging Signs,page-416.png,407,,,Ankle tendon anatomy,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4654,外側韌帶複合體 / Lateral Ankle Ligaments,page-417.png,408,,,Medial ankle ligaments,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4715,附骨隧道內容物（由前向後）/ Tarsal Tunnel Contents (Anterior to Posterior),page-418.png,409,,,Ankle fractures,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4777,Pilon 骨折 / Pilon Fracture,page-419.png,410,,,Achilles tendon injury,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4837,Kager's 脂肪墊軟組織增加的鑑別診斷 / Differential of Increased Soft Tissue in Kager's Fat Pad,page-420.png,411,,,Knee and knee MRI,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4904,脛骨平台骨折 / Tibial Plateau Fracture,page-421.png,412,,,Menisci,,0
+msk,NO_MATCH,content/docs/msk/_index.md,4961,正常半月板 MRI 表現 / Normal Meniscus on MRI,page-422.png,413,,,Myxoid degeneration versus tear,,0
+msk,AMBIGUOUS,content/docs/msk/_index.md,5015,相關發現 / Associated Findings,page-423.png,414,,,Vertical/longitudinal tear,,2
+msk,NO_MATCH,content/docs/msk/_index.md,5062,特殊徵象 / Special Signs,page-424.png,415,,,Radial/transverse tear,,0
+msk,NO_MATCH,content/docs/msk/_index.md,5192,相關損傷 / Associated Injuries,page-427.png,418,,,"Cases courtesy Nehal Shah, MD, Brigham and Women’s Hospital.",,0
+msk,NO_MATCH,content/docs/msk/_index.md,5291,PCL 損傷特徵 / PCL Injury Characteristics,page-429.png,420,,,Medial collateral ligament (MCL),,0
+msk,NO_MATCH,content/docs/msk/_index.md,5459,髕骨肌腱退化 (Jumper's Knee) / Patellar Tendinosis (Jumper's Knee),page-431.png,422,,,Lateral patellar dislocation,,0
+msk,NO_MATCH,content/docs/msk/_index.md,5596,不穩定型病灶 / Unstable Lesion,page-433.png,424,,,Synovium,,0
+msk,MATCHED,content/docs/msk/_index.md,5654,樹枝狀脂肪瘤 / Lipoma Arborescens,page-434.png,425,425,0,Lipoma arborescens,Lipoma arborescens,1
+msk,NO_MATCH,content/docs/msk/_index.md,5716,"軟骨、唇緣與韌帶 / Cartilage, Labrum, and Ligaments",page-435.png,426,,,Cross-sectional anatomy of the hip musculature,,0
+msk,MATCHED,content/docs/msk/_index.md,5849,囊外骨折特徵 / Extracapsular Fracture Features,page-437.png,428,429,-1,Femoral head fracture-dislocation (intracapsular),Intertrochanteric fracture (extracapsular),1
+msk,NO_MATCH,content/docs/msk/_index.md,5913,Garden 分類記憶 / Garden Classification Memory Aid,page-438.png,429,,,Intertrochanteric fracture (extracapsular),,0
+msk,NO_MATCH,content/docs/msk/_index.md,5982,分類系統 / Classification Systems,page-439.png,430,,,Hip MRI technique,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6074,其他 Stress 骨折位置 / Additional Stress Fracture Sites,page-440.png,431,,,Avascular necrosis (AVN),,0
+msk,NO_MATCH,content/docs/msk/_index.md,6158,AVN 報告要素 / Complete AVN Description Should Include,page-441.png,432,,,Transient bone marrow edema (TBME),,0
+msk,NO_MATCH,content/docs/msk/_index.md,6297,混合型撞擊症 / Mixed-type Impingement,page-443.png,434,,,Pincer-type impingement,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6360,脊椎滑脫症 / Spondylolysis,page-444.png,435,,,Cervical spine,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6408,脊髓腔評估 / Spinal Canal Assessment,page-445.png,436,,,Overview of named cervical spine fractures,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6472,Hangman's 骨折 / Hangman's Fracture,page-446.png,437,,,Burst fracture,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6555,Grisel 症候群 / Grisel Syndrome,page-447.png,438,,,Shoulder and shoulder MRI,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6630,Bankart 病灶 / Bankart Lesion,page-448.png,439,,,Posterior glenohumeral dislocation,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6678,下側盂肱關節脫位（Luxatio Erecta）/ Inferior Glenohumeral Dislocation (Luxatio Erecta),page-449.png,440,,,Dislocations and associated sequela,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6722,MRI/關節造影表現 / MR Arthrogram Findings,page-450.png,441,,,Shoulder bursae,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6771,夾擊症侯群分類 / Classification,page-451.png,442,,,Acromial shape and orientation,,0
+msk,NO_MATCH,content/docs/msk/_index.md,6964,PAINT 病灶 / PAINT Lesion,page-454.png,445,,,Full-thickness rotator cuff tear,,0
+msk,NO_MATCH,content/docs/msk/_index.md,7037,Goutallier 分類 / Goutallier Classification,page-455.png,446,,,Adhesive capsulitis,,0
+msk,NO_MATCH,content/docs/msk/_index.md,7103,二頭肌長頭附著 / Long Head Biceps Tendon Attachment,page-456.png,447,,,Biceps tendon,,0
+msk,NO_MATCH,content/docs/msk/_index.md,7165,橫韌帶 / Transverse Humeral Ligament,page-457.png,448,,,Biceps tendon dislocation,,0
+msk,NO_MATCH,content/docs/msk/_index.md,7371,BHAGL (Bony HAGL),page-460.png,451,,,Summary of anterior-inferior instability lesions,,0
+msk,NO_MATCH,content/docs/msk/_index.md,7473,SLAP 分型 / SLAP Classification,page-462.png,453,,,Glenoid labral articular disruption (GLAD),,0
+msk,MATCHED,content/docs/msk/_index.md,7543,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-463.png,454,454,0,Suprascapular nerve entrapment at the spinoglenoid notch,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7544,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-464.png,455,454,1,Elbow and forearm,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7545,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-465.png,456,454,2,Monteggia fracture-dislocation,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7546,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-466.png,457,454,3,Wrist and hand,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7547,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-467.png,458,454,4,Wrist,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7548,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-468.png,459,454,5,Scapholunate ligament injury,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7549,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-469.png,460,454,6,Fingers and hand trauma,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7550,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-470.png,461,454,7,Bennett fracture,Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7551,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-471.png,462,454,8,"References, resources, and further reading",Suprascapular nerve entrapment at the spinoglenoid notch,1
+msk,MATCHED,content/docs/msk/_index.md,7552,肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch,page-472.png,463,454,9,52-64(2008).,Suprascapular nerve entrapment at the spinoglenoid notch,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,10,Page 473 / 超聲波簡介與膽囊膽管總覽 (Ultrasound Introduction and Gallbladder Overview),page-473.png,464,,,6 Ultrasound,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,28,Page 474 / 膽囊與膽管 (Gallbladder and Bile Ducts),page-474.png,465,465,0,Gallbladder and bile ducts,Gallbladder and bile ducts,1
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,41,Page 475 / 急性結石性膽囊炎 (Acute Calculous Cholecystitis),page-475.png,466,466,0,Acute calculous cholecystitis,Acute calculous cholecystitis,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,54,"Page 476 / 膽囊鈣化、膽囊癌與增生性疾病 (Porcelain Gallbladder, Courvoisier Gallbladder, Hyperplastic Cholecystoses)",page-476.png,467,,,Porcelain gallbladder,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,68,Page 477 / 膽囊瘜肉與膽囊癌 (Gallbladder Polyps and Gallbladder Cancer),page-477.png,468,,,Gallbladder polyps,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,83,Page 478 / 膽囊常見影像模式 (Gallbladder: Common Imaging Patterns),page-478.png,469,469,0,Gallbladder: Common imaging patterns,Gallbladder: Common imaging patterns,1
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,96,Page 479 / 膽管疾病 (Bile Ducts),page-479.png,470,,,Bile ducts,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,109,Page 480 / 膽管擴張與膽管癌 (Biliary Ductal Dilation and Cholangiocarcinoma),page-480.png,471,,,Cholangiocarcinoma,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,122,Page 481 / 肝臟：瀰漫性肝病與感染 (Liver: Diffuse Metabolic Disease and Infections),page-481.png,472,,,Cirrhosis,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,135,"Page 482 / 阿米巴性膿瘻、包蟲囊腫與肝臟良性腫瘤 (Amebic Abscess, Echinococcal Cyst, and Benign Hepatic Neoplasms)",page-482.png,473,,,Amebic abscess,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,148,Page 483 / 肝臟良性腫瘤與囊性病灶 (Benign Hepatic Neoplasms and Cystic Masses),page-483.png,474,,,Focal nodular hyperplasia (FNH),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,161,Page 484 / 肝臟轉移與惡性腫瘤 (Hepatic Metastases and Malignancy),page-484.png,475,,,Hepatic malignancy,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,174,Page 485 / 肝細胞癌與肝臟淋巴瘤 (Hepatocellular Carcinoma and Hepatic Lymphoma),page-485.png,476,,,Hepatocellular carcinoma (HCC),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,187,Page 486 / 肝臟都卜勒：肝門靜脈解剖與高壓 (Hepatic Doppler: Portal Vein Anatomy and Hypertension),page-486.png,477,,,Hepatic doppler,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,200,Page 487 / 門靜脈高壓的次級發現與臍靜脈再通 (Secondary Findings of Portal Hypertension and Recanalized Umbilical Vein),page-487.png,478,,,LPV,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,213,Page 488 / 經頸靜脈肝內門體分流（TIPS）與分流狹窄 (TIPS and TIPS Stenosis),page-488.png,479,,,Transjugular intrahepatic portosystemic shunt (TIPS),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,226,Page 489 / 門靜脈血栓與門靜脈氣體 (Portal Vein Thrombosis and Portal Venous Gas),page-489.png,480,,,RPV,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,241,Page 490 / 肝靜脈都卜勒波形 (Hepatic Vein Waveforms),page-490.png,481,,,"On color Doppler, flow within the thrombus suggests tumor th",,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,255,Page 491 / 胰臟：胰臟炎與腫瘤 (Pancreas: Pancreatitis and Neoplasms),page-491.png,482,,,Hepatic veins,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,268,Page 492 / 胰臟囊性腫瘤與內分泌腫瘤 (Cystic Pancreatic Neoplasms and Pancreatic Endocrine Tumors),page-492.png,483,,,Decreased hepatic vein pulsatility,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,283,Page 494 / 脾臟：疾病影像模式 (Spleen: Patterns of Disease),page-494.png,485,485,0,Spleen,Spleen,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,298,"Page 494 / 腎臟：結石、阻塞與腎積水 (Kidneys: Stones, Obstruction, and Hydronephrosis)",page-494.png,485,,,Spleen,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,311,Page 495 / 腎臟：實質性腫塊 (Kidneys: Solid Renal Masses),page-495.png,486,,,Kidneys,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,324,Page 496 / 腎臟囊腫與囊性腎細胞癌 (Renal Cysts and Cystic Renal Cell Carcinoma),page-496.png,487,,,Higher resistive indices correlate with higher resistance.,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,337,Page 497 / 自體顯性多囊腎與移植腎成像 (ADPKD and Renal Transplant Imaging),page-497.png,488,,,Renal cell carcinoma (RCC),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,350,Page 498 / 移植腎併發症與腎臟影像模式 (Renal Transplant Complications and Imaging Patterns),page-498.png,489,,,Renal sinus cyst,,0
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,366,Page 499 / 陰囊與睪丸 (Scrotum and Testicle),page-499.png,490,,,Xanthogranulomatous pyelonephritis,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,379,Page 500 / 非精細胞性生殖細胞腫瘤與睪丸轉移 (NSGCT and Testicular Metastases),page-500.png,491,,,Autosomal recessive polycystic kidney disease (ARPKD),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,392,Page 501 / 睪丸外團塊與陰囊囊腫 (Extratesticular Masses and Scrotal Cystic Lesions),page-501.png,492,,,Renal: Specific imaging patterns,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,405,Page 502 / 睪丸扭轉與創傷 (Testicular Torsion and Trauma),page-502.png,493,,,Scrotum and testicle,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,418,Page 503 / 陰囊感染與附睪炎 (Scrotal Infection: Epididymitis),page-503.png,494,,,Malignant germ cell tumors: Nonseminomatous germ cell tumors,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,433,Page 504 / 血管超聲原理 (Vascular Ultrasound: General Principles),page-504.png,495,,,Sarcoidosis,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,446,Page 505 / 頸部血管：頸總動脈與內頸動脈 (Carotid Artery: CCA and ICA),page-505.png,496,,,Epididymal cysts and spermatocele,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,460,Page 506 / 頸部狹窄血流動力學與腎動脈 (Carotid Stenosis Hemodynamics and Renal Artery),page-506.png,497,,,Vascular disease of the testis,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,473,Page 507 / 深部靜脈血栓與腹主動脈瘤 (DVT and Abdominal Aortic Aneurysm),page-507.png,498,,,Scrotal infection,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,488,Page 508 / 甲狀腺與副甲狀腺 (Thyroid and Parathyroid),page-508.png,499,,,Vascular ultrasound,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,501,Page 509 / 甲狀腺結節與甲狀腺癌 (Thyroid Nodule and Thyroid Cancer),page-509.png,500,,,Carotid artery,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,516,Page 510 / 子宮解剖與位置變異 (Uterine Anatomy and Variant Positions),page-510.png,501,,,Waveform analysis,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,529,"Page 511 / 深部靜脈血栓、腹主動脈瘤與血管超聲 (DVT, AAA, and Vascular Ultrasound)",page-511.png,502,,,Fibromuscular dysplasia (FMD),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,542,Page 512 / 子宮內膜與週期性變化 (Endometrium and Cyclical Changes),page-512.png,503,,,Venous compression,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,555,Page 513 / 甲狀腺與副甲狀腺疾病 (Thyroid and Parathyroid Disease),page-513.png,504,,,Aortic dissection,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,568,Page 514 / 子宮內膜病變 (Endometrial Pathology),page-514.png,505,,,Subacute thyroiditis (de Quervain thyroiditis),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,581,Page 515 / 甲狀腺癌與副甲狀腺腺瘤 (Thyroid Cancer and Parathyroid Adenoma),page-515.png,506,,,Malignant adenopathy,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,594,Page 516 / 子宮位置變異與掃描方向 (Uterine Variant Positions and Scanning Orientation),page-516.png,507,,,Uterus,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,607,Page 518 / 子宮發育異常 (Congenital Uterine Malformations),page-518.png,509,509,0,Congenital uterine malformations,Congenital uterine malformations,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,620,Page 518 / 子宮內膜厚度與週期性變化 (Endometrial Thickness and Cyclical Changes),page-518.png,509,,,Congenital uterine malformations,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,633,"Page 519 / 子宮內膜瘜肉、tamoxifen與內膜癌 (Endometrial Polyp, Tamoxifen, and Endometrial Cancer)",page-519.png,510,,,Cyclical endometrial thickness,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,646,"Page 520 / 子宮內膜異位、子宮腺肌症與肌瘤 (Endometriosis, Adenomyosis, and Leiomyoma)",page-520.png,511,,,Endometrial polyp,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,659,"Page 521 / 子宮內積液、感染與IUD (Endometrial Fluid, Infections, and IUD)",page-521.png,512,,,Ectopic endometrium,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,674,Page 522 / 卵巢與輸卵管的解剖與生理 (Ovarian and Fallopian Tube Anatomy and Physiology),page-522.png,513,,,Miscellaneous uterine disease,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,687,Page 524 / 卵巢囊腫 (Ovarian Cysts),page-524.png,515,515,0,Ovarian cysts,Ovarian cysts,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,700,Page 524 / 卵巢囊腫與多囊性卵巢 (Ovarian Cysts and Polycystic Ovarian Syndrome),page-524.png,515,,,Ovarian cysts,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,713,Page 525 / 卵巢與輸卵管的囊性與血管疾病 (Adnexal Cystic and Vascular Disease),page-525.png,516,,,Ovarian hyperstimulation syndrome (OHSS),,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,726,Page 526 / 卵巢囊腫蒂扭轉與卵巢腫瘤 (Ovarian Torsion and Neoplasms),page-526.png,517,,,Peritoneal inclusion cyst,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,739,Page 527 / 卵巢癌 (Ovarian Cancer),page-527.png,518,,,Ovarian neoplasm,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,754,Page 528 / 第一孕期超聲 (First Trimester Pregnancy),page-528.png,519,519,0,First trimester pregnancy,First trimester pregnancy,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,768,Page 529 / 妊娠日期估算與預後 (Pregnancy Dating and Prognosis),page-529.png,520,,,"If the CRL is ≤4 mm, ≤90 bpm is considered slow and ≥100 is ",,0
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,781,Page 530 / 宮外孕概述 (Ectopic Pregnancy Overview),page-530.png,521,,,Early pregnancy prognosis,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,793,"Page 531 / 婦科疾病：其他 uterine 疾病、子宮內膜液體與感染 (Miscellaneous Uterine Disease, Endometrial Fluid, and Uterine Infecti",page-531.png,522,,,Ectopic pregnancy,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,807,Page 532 / 卵巢與附屬器官：解剖學與生理學 (Ovaries and Adnexa: Anatomy and Physiology),page-532.png,523,,,Ectopic location,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,822,Page 533 / 卵巢囊腫：生理性囊腫與 SRU 共識 (Ovarian Cysts: Physiologic Cysts and SRU Consensus),page-533.png,524,,,Imaging findings of ectopic pregnancy,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,837,Page 534 / 囊腫出血與卵巢過度刺激症候群 (Hemorrhagic Cyst and Ovarian Hyperstimulation Syndrome),page-534.png,525,,,Miscellaneous first trimester disorders,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,854,Page 526 / 腹膜包涵囊腫 (Peritoneal Inclusion Cyst),page-526.png,517,517,0,Peritoneal inclusion cyst,Peritoneal inclusion cyst,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,869,Page 536 / 卵巢腫瘤：皮樣囊腫（成熟畸胎瘤）[Ovarian Neoplasm: Dermoid Cyst (Mature Cystic Teratoma)],page-536.png,527,,,Monozygotic (“identical”) twins,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,884,Page 537 / 第一孕期超聲：妊娠囊與早期徵象 (First Trimester: Gestational Sac and Early Signs),page-537.png,528,,,Di/di (dichorionic/diamniotic) twins,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,899,Page 538 / 妊娠失敗標準 (Pregnancy Failure Criteria),page-538.png,529,,,Acardiac twins,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,915,Page 539 / 早期妊娠預後與隨訪 (Early Pregnancy Prognosis and Follow-up),page-539.png,530,,,Evaluation of the first trimester embryo,,0
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,936,Page 540 / 宮外孕概述 (Ectopic Pregnancy Overview),page-540.png,531,,,Second and third trimesters,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,951,Page 541 / 早期妊娠與產科─異位妊娠位置 (Ectopic Pregnancy Locations),page-541.png,532,,,Amniotic fluid index (AFI),,0
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,965,Page 542 / 異位妊娠的超聲表現 (Imaging Findings of Ectopic Pregnancy),page-542.png,533,,,Placenta,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,979,Page 543 / 早期妊娠與產科─妊娠滋養層疾病 (Gestational Trophoblastic Disease),page-543.png,534,,,Placenta previa and other abnormalities of placental positio,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,993,Page 535 / 多胞胎與胎盤類型 (Multiple Gestations and Placentation),page-535.png,526,526,0,Multiple gestations and placentation,Multiple gestations and placentation,1
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1007,"Page 536 / 單卵雙胞胎 (Monozygotic / ""Identical"" Twins)",page-536.png,527,527,0,Monozygotic (“identical”) twins,Monozygotic (“identical”) twins,1
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1021,Page 537 / 雙絨毛膜─雙羊膜雙胞胎 (Di/Di Dichorionic-Diamniotic Twins),page-537.png,528,528,0,Di/di (dichorionic/diamniotic) twins,Di/di (dichorionic/diamniotic) twins,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1035,Page 547 / 無心畸胎序列症（TRAP） (Acardiac Twins / TRAP Sequence),page-547.png,538,,,Fetal brain and spine,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1049,Page 539 / 第一孕期胚胎評估 (First Trimester Embryo Evaluation),page-539.png,530,530,0,Evaluation of the first trimester embryo,Evaluation of the first trimester embryo,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1063,Page 549 / 第二、三孕期胎頭測量 (Second and Third Trimester Head Measurements),page-549.png,540,,,Holoprosencephaly,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1077,Page 541 / 羊水指數（AFI） (Amniotic Fluid Index),page-541.png,532,532,0,Amniotic fluid index (AFI),Amniotic fluid index (AFI),1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1089,Page 551 / 胎盤胚胎學與單一臍动脉 (Placental Embryology and Single Umbilical Artery),page-551.png,542,,,Fetal thorax,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1102,Page 543 / 前置胎盤 (Placenta Previa),page-543.png,534,534,0,Placenta previa and other abnormalities of placental positio,Placenta previa and other abnormalities of placental positio,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1115,Page 553 / 胎盤植入譜系疾病 (Placenta Accreta Spectrum),page-553.png,544,,,Fetal manifestations of meconium,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1130,Page 545 / 胎兒水腫 (Fetal Hydrops),page-545.png,536,536,0,Fetal hydrops,Fetal hydrops,1
+ultrasound,AMBIGUOUS,content/docs/ultrasound/_index.md,1145,Page 555 / 羊水概述 (Amniotic Fluid Overview),page-555.png,546,,,Posterior urethral valves,,2
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1160,Page 556 / 胎兒腦部：腦室擴大 (Fetal Brain: Ventriculomegaly),page-556.png,547,,,Fetal musculoskeletal imaging,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1175,Page 557 / 腦膨出與囊狀水瘤 (Cephalocele and Cystic Hygroma),page-557.png,548,,,Trisomies and syndromes,,0
+ultrasound,MATCHED,content/docs/ultrasound/_index.md,1190,Page 549 / 全前腦畸形 (Holoprosencephaly),page-549.png,540,540,0,Holoprosencephaly,Holoprosencephaly,1
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1205,Page 559 / 透明隔缺損與胼胝體發育不全 (CSP Absence and Agenesis of Corpus Callosum),page-559.png,550,,,"References, resources, and further reading",,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1221,Page 560 / 胎兒胸腔與先天性橫膈膜疝氣 (Fetal Thorax and CDH),page-560.png,551,,,Scrotum and testicle:,,0
+ultrasound,NO_MATCH,content/docs/ultrasound/_index.md,1236,Page 561 / 喉氣管閉鎖與食道閉鎖 (Laryngeal Atresia and Esophageal Atresia),page-561.png,552,,,Multiple gestations:,,0
+nuclear,AMBIGUOUS,content/docs/nuclear/_index.md,10,正子斷層與電腦斷層 (PET-CT),page-562.png,553,,,7 Nuclear imaging,,2
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,16,Technical Considerations (pages 563–564),page-563.png,554,,,PET-CT,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,17,Technical Considerations (pages 563–564),page-564.png,555,,,CT correlation,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,51,Oncologic Indications (pages 565–567),page-565.png,556,,,Oncologic indications of PET-CT,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,52,Oncologic Indications (pages 565–567),page-566.png,557,,,Colon cancer,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,53,Oncologic Indications (pages 565–567),page-567.png,558,,,Thyroid cancer,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,98,Nuclear Cardiology (pages 568–576),page-568.png,559,,,Esophageal cancer,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,102,Clinical Overview — Perfusion Imaging,page-569.png,560,,,Nuclear cardiology,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,123,Clinical Applications,page-570.png,561,,,Viability imaging overview,,0
+nuclear,MATCHED,content/docs/nuclear/_index.md,134,Viability Imaging,page-571.png,562,561,1,Nitrogen-13 ammonia,Viability imaging overview,1
+nuclear,MATCHED,content/docs/nuclear/_index.md,155,Imaging Protocols,page-572.png,563,563,0,Imaging protocols,Imaging protocols,1
+nuclear,MATCHED,content/docs/nuclear/_index.md,156,Imaging Protocols,page-573.png,564,563,1,Reconstruction axes and vascular territories,Imaging protocols,1
+nuclear,MATCHED,content/docs/nuclear/_index.md,157,Imaging Protocols,page-574.png,565,563,2,Sample nuclear cardiology cases,Imaging protocols,1
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,171,Image Interpretation,page-575.png,566,,,Thyroid,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,186,Reconstruction Axes and Myocardial Segments,page-576.png,567,,,Thyroid nodule,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,216,Thyroid Imaging (pages 577–580),page-577.png,568,,,Subacute thyroiditis,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,239,Diagnostic Indications,page-578.png,569,,,Treatment of multinodular goiter,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,270,Therapeutic Indications (I-131),page-579.png,570,,,Gastrointestinal,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,296,Parathyroid (page 580),page-580.png,571,,,Intrapancreatic spleen,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,311,Gastrointestinal Imaging (pages 581–585),page-581.png,572,,,Meckel imaging,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,344,Gastrointestinal Bleeding (Tc-99m Labeled RBCs),page-582.png,573,,,Acute cholecystitis,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,345,Gastrointestinal Bleeding (Tc-99m Labeled RBCs),page-583.png,574,,,Biliary leak,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,360,Hepatobiliary Imaging (HIDA),page-584.png,575,,,Pulmonary,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,361,Hepatobiliary Imaging (HIDA),page-585.png,576,,,Diagnosis of pulmonary embolism with PIOPED II,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,401,Pulmonary Imaging (pages 586–591),page-586.png,577,,,PE and is intermediate probability.,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,427,V/Q Scanning in Pulmonary Embolism,page-587.png,578,,,Superscan,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,428,V/Q Scanning in Pulmonary Embolism,page-588.png,579,,,Primary bone tumors,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,444,Musculoskeletal Imaging (pages 589–591),page-589.png,580,,,Insufficiency fracture,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,445,Musculoskeletal Imaging (pages 589–591),page-590.png,581,,,Paget disease: Anterior,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,468,Kidneys and Cerebrovascular (pages 591–600),page-591.png,582,,,Kidneys,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,469,Kidneys and Cerebrovascular (pages 591–600),page-592.png,583,,,Angiotensin-converting enzyme (ACE) inhibitor renogram,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,470,Kidneys and Cerebrovascular (pages 591–600),page-593.png,584,,,Diuretic renogram,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,471,Kidneys and Cerebrovascular (pages 591–600),page-594.png,585,,,MIBG versus pentetreotide (octreotide),,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,472,Kidneys and Cerebrovascular (pages 591–600),page-595.png,586,,,Indium-111 oxine leukocytes (WBCs),,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,473,Kidneys and Cerebrovascular (pages 591–600),page-596.png,587,,,Extra-adrenal pheochromocytoma,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,474,Kidneys and Cerebrovascular (pages 591–600),page-597.png,588,,,Cerebrovascular,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,475,Kidneys and Cerebrovascular (pages 591–600),page-598.png,589,,,Brain tumor recurrence versus radiation necrosis,,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,476,Kidneys and Cerebrovascular (pages 591–600),page-599.png,590,,,"References, resources, and further reading",,0
+nuclear,NO_MATCH,content/docs/nuclear/_index.md,477,Kidneys and Cerebrovascular (pages 591–600),page-600.png,591,,,Pulmonary Nuclear Imaging:,,0
+breast,NO_MATCH,content/docs/breast/_index.md,14,章節目錄 / Chapter Contents (Page 601),page-601.png,592,,,8 Breast imaging,,0
+breast,NO_MATCH,content/docs/breast/_index.md,35,乳癌關鍵事實 / Breast Cancer Key Facts,page-602.png,593,,,Breast cancer,,0
+breast,MATCHED,content/docs/breast/_index.md,43,乳癌危險因子 / Breast Cancer Risk Factors,page-603.png,594,594,0,Risk factors for developing breast cancer,Risk factors for developing breast cancer,1
+breast,NO_MATCH,content/docs/breast/_index.md,51,發炎性乳癌與帕哲忒氏病 / Inflammatory Carcinoma and Paget Disease,page-604.png,595,,,Inflammatory carcinoma,,0
+breast,NO_MATCH,content/docs/breast/_index.md,63,纖維囊性病與發炎性疾病 / Fibrocystic Change and Infectious Disease,page-605.png,596,,,Benign breast disease,,0
+breast,NO_MATCH,content/docs/breast/_index.md,71,糖尿病性乳腺病變與蒙道爾氏病 / Diabetic Mastopathy and Mondor Disease,page-606.png,597,,,Diabetic mastopathy,,0
+breast,MATCHED,content/docs/breast/_index.md,83,篩檢攝影標準體位 / Routine Screening Mammographic Views,page-607.png,598,598,0,Routine screening mammographic views,Routine screening mammographic views,1
+breast,MATCHED,content/docs/breast/_index.md,91,線上與離線篩檢 / Online and Offline Screening,page-608.png,599,599,0,Online and offline screening,Online and offline screening,1
+breast,NO_MATCH,content/docs/breast/_index.md,99,診斷性乳房攝影適應症 / Indications for Diagnostic Mammography,page-609.png,600,,,Compare each side,,0
+breast,MATCHED,content/docs/breast/_index.md,107,BI-RADS 評估類別 / BI-RADS Assessment Categories,page-610.png,601,601,0,BI-RADS assessment categories,BI-RADS assessment categories,1
+breast,MATCHED,content/docs/breast/_index.md,115,纖維腺體密度 / Fibroglandular Density,page-611.png,602,602,0,Fibroglandular density,Fibroglandular density,1
+breast,NO_MATCH,content/docs/breast/_index.md,123,皮膚增厚與 BI-RADS 腫塊 lexicon / Skin Thickening and Mass Definition,page-612.png,603,,,Skin thickening: Malignant causes,,0
+breast,NO_MATCH,content/docs/breast/_index.md,131,腫塊密度與形狀 / Mass Density and Shape,page-613.png,604,,,Describe the density,,0
+breast,NO_MATCH,content/docs/breast/_index.md,139,腫塊相關特徵 / Associated Features of Masses,page-614.png,605,,,Look for associated features,,0
+breast,MATCHED,content/docs/breast/_index.md,147,BI-RADS 乳房攝影腫塊 lexicon / BI-RADS Mammographic Mass Lexicon,page-615.png,606,606,0,BI-RADS: Mammographic mass lexicon,BI-RADS: Mammographic mass lexicon,1
+breast,MATCHED,content/docs/breast/_index.md,158,乳房攝影鈣化概述 / Overview of Mammographic Calcifications,page-616.png,607,607,0,Overview of mammographic calcifications,Overview of mammographic calcifications,1
+breast,NO_MATCH,content/docs/breast/_index.md,166,良性鈣化：爆米花型與大桿狀 / Benign Calcifications: Popcorn and Large Rod-like,page-617.png,608,,,Coarse or “popcorn” calcifications,,0
+breast,NO_MATCH,content/docs/breast/_index.md,174,縫線鈣化與營養不良性鈣化 / Sutural and Dystrophic Calcifications,page-618.png,609,,,Sutural calcifications,,0
+breast,NO_MATCH,content/docs/breast/_index.md,182,不確定性鈣化 / Indeterminate Calcifications,page-619.png,610,,,Intermediate concern calcifications (BI-RADS 4),,0
+breast,NO_MATCH,content/docs/breast/_index.md,190,高可疑性鈣化 / High-Suspicion Calcifications,page-620.png,611,,,Higher probability of malignancy calcifications (BI-RADS 4 o,,0
+breast,NO_MATCH,content/docs/breast/_index.md,198,鈣化分布 / Distribution of Calcifications,page-621.png,612,,,Distribution of calcium,,0
+breast,MATCHED,content/docs/breast/_index.md,206,BI-RADS 鈣化 lexicon / BI-RADS Calcification Lexicon,page-622.png,613,613,0,BI-RADS: Mammographic calcification lexicon,BI-RADS: Mammographic calcification lexicon,1
+breast,NO_MATCH,content/docs/breast/_index.md,218,定點加壓與特殊體位 / Spot Compression and Special Views,page-623.png,614,,,Mammographic workup and problem solving,,0
+breast,MATCHED,content/docs/breast/_index.md,226,病灶三角定位 / Triangulation,page-624.png,615,615,0,Triangulation,Triangulation,1
+breast,NO_MATCH,content/docs/breast/_index.md,234,可觸及腫塊與 BI-RADS 3 / Palpable Mass and BI-RADS 3,page-625.png,616,,,Palpable mass,,0
+breast,NO_MATCH,content/docs/breast/_index.md,246,乳房區域解剖 / Zonal Anatomy,page-626.png,617,,,Breast ultrasound,,0
+breast,NO_MATCH,content/docs/breast/_index.md,254,乳腺區與脂肪顯像 / Mammary Zone and Fat Imaging,page-627.png,618,,,Mammary zone,,0
+breast,MATCHED,content/docs/breast/_index.md,262,超音波腫塊 lexicon / Ultrasound Mass Lexicon,page-628.png,619,621,-2,BI-RADS lexicon to describe ultrasound masses,BI-RADS: Ultrasound mass lexicon,1
+breast,MATCHED,content/docs/breast/_index.md,270,後方聲學特徵 / Posterior Acoustic Features,page-629.png,620,620,0,Posterior acoustic features,Posterior acoustic features,1
+breast,MATCHED,content/docs/breast/_index.md,278,BI-RADS 超音波腫塊 lexicon / BI-RADS Ultrasound Mass Lexicon,page-630.png,621,621,0,BI-RADS: Ultrasound mass lexicon,BI-RADS: Ultrasound mass lexicon,1
+breast,NO_MATCH,content/docs/breast/_index.md,290,脂肪性腫塊 / Fatty Masses,page-631.png,622,,,Breast masses,,0
+breast,NO_MATCH,content/docs/breast/_index.md,298,脂肪包含性腫塊：錯構瘤 / Fat-Containing Masses: Hamartoma,page-632.png,623,,,Fat-containing circumscribed masses,,0
+breast,NO_MATCH,content/docs/breast/_index.md,306,乳腺囊腫與乳房內淋巴結 / Galactocele and Intramammary Lymph Node,page-633.png,624,,,Intramammary lymph node,,0
+breast,NO_MATCH,content/docs/breast/_index.md,314,纖維腺瘤 / Fibroadenoma,page-634.png,625,,,Solid masses,,0
+breast,NO_MATCH,content/docs/breast/_index.md,322,導管內乳頭狀瘤與原位癌 / Intraductal Papilloma and DCIS,page-635.png,626,,,Intraductal papilloma/papillary carcinoma,,0
+breast,MATCHED,content/docs/breast/_index.md,330,巨大固態腫塊 / Large Solid Masses,page-636.png,627,627,0,"Large solid masses, greater than 3 cm","Large solid masses, greater than 3 cm",1
+breast,MATCHED,content/docs/breast/_index.md,338,多發性實性腫塊 / Multiple Solid Masses,page-637.png,628,628,0,Multiple solid masses,Multiple solid masses,1
+breast,MATCHED,content/docs/breast/_index.md,346,囊性乳腺病灶 / Cystic Breast Lesions,page-638.png,629,629,0,Cystic breast lesions,Cystic breast lesions,1
+breast,MATCHED,content/docs/breast/_index.md,354,複雜性腫塊 / Complex Mass,page-639.png,630,630,0,Complex mass,Complex mass,1
+breast,NO_MATCH,content/docs/breast/_index.md,362,放射狀腫塊：侵襲性導管癌 / Spiculated Masses: Invasive Ductal Carcinoma,page-640.png,631,,,Spiculated masses,,0
+breast,MATCHED,content/docs/breast/_index.md,370,放射狀疤痕 / Radial Scar,page-641.png,632,632,0,Radial scar (complex sclerosing lesion),Radial scar (complex sclerosing lesion),1
+breast,MATCHED,content/docs/breast/_index.md,378,良性乳腺纖維化 / Benign Breast Fibrosis,page-642.png,633,633,0,Benign breast fibrosis (sclerosing adenosis and fibrous mast,Benign breast fibrosis (sclerosing adenosis and fibrous mast,1
+breast,MATCHED,content/docs/breast/_index.md,386,其他乳腺惡性腫瘤 / Other Malignant Disease of the Breast,page-643.png,634,634,0,Other malignant disease of the breast,Other malignant disease of the breast,1
+breast,MATCHED,content/docs/breast/_index.md,398,不對稱性 / Asymmetry,page-645.png,636,637,-1,The asymmetries and architectural distortion,Focal asymmetry,1
+breast,NO_MATCH,content/docs/breast/_index.md,406,局部不對稱與結構扭曲 / Focal Asymmetry and Architectural Distortion,page-646.png,637,,,Focal asymmetry,,0
+breast,NO_MATCH,content/docs/breast/_index.md,414,正常變異：胸骨肌 / Normal Variants: Sternalis Muscle,page-647.png,638,,,Normal variants,,0
+breast,AMBIGUOUS,content/docs/breast/_index.md,426,乳房 MRI 導論 / Introduction to Breast MRI,page-648.png,639,,,Breast MRI,,2
+breast,MATCHED,content/docs/breast/_index.md,434,造影動力學 / Enhancement Kinetics,page-649.png,640,640,0,Enhancement kinetics,Enhancement kinetics,1
+breast,NO_MATCH,content/docs/breast/_index.md,442,MRI 腫塊：形狀與邊緣 / MRI Masses: Shape and Margin,page-650.png,641,,,MRI masses,,0
+breast,NO_MATCH,content/docs/breast/_index.md,450,MRI 腫塊 lexicon 總結 / Summary of MRI Mass Lexicon,page-651.png,642,,,Summary of MRI masses,,0
+breast,AMBIGUOUS,content/docs/breast/_index.md,458,非腫塊樣增強 / Non-Masslike Enhancement (NMLE),page-652.png,643,,,Non-masslike enhancement (NMLE),,2
+breast,NO_MATCH,content/docs/breast/_index.md,466,NMLE lexicon 總結與 MRI 判讀 / Summary of NMLE Lexicon and MRI Interpretation,page-653.png,644,,,Summary of NMLE,,0
+breast,MATCHED,content/docs/breast/_index.md,474,乳房 MRI 適應症 / Indications for Breast MRI,page-654.png,645,645,0,Indications for breast MRI,Indications for breast MRI,1
+breast,NO_MATCH,content/docs/breast/_index.md,482,殘留病灶與復發偵測 / Residual Disease and Recurrence Detection,page-655.png,646,,,Assessment of residual disease,,0
+breast,MATCHED,content/docs/breast/_index.md,494,矽膠植入物評估 / Evaluation of Silicone Implants,page-656.png,647,647,0,Evaluation of silicone implants,Evaluation of silicone implants,1
+breast,AMBIGUOUS,content/docs/breast/_index.md,502,植入物破裂 / Implant Rupture,page-657.png,648,,,Saline implant rupture,,2
+breast,MATCHED,content/docs/breast/_index.md,510,囊外矽膠植入物破裂 / Extracapsular Silicone Implant Rupture,page-658.png,649,649,0,Extracapsular silicone implant rupture,Extracapsular silicone implant rupture,1
+breast,MATCHED,content/docs/breast/_index.md,518,縮胸整形術 / Reduction Mammoplasty,page-659.png,650,650,0,Reduction mammoplasty,Reduction mammoplasty,1
+breast,NO_MATCH,content/docs/breast/_index.md,530,男性女乳症與男性乳癌 / Gynecomastia and Male Breast Cancer,page-660.png,651,,,Male breast disease,,0
+breast,MATCHED,content/docs/breast/_index.md,542,乳房介入處置概述 / Overview of Breast Interventions,page-661.png,652,652,0,Breast interventions,Breast interventions,1
+breast,NO_MATCH,content/docs/breast/_index.md,550,超音波導引切片與囊腫抽吸 / Ultrasound-Guided Biopsy and Cyst Aspiration,page-662.png,653,,,Ultrasound-guided cyst aspiration,,0
+breast,NO_MATCH,content/docs/breast/_index.md,558,立體定位切片與真空輔助切片 / Stereotactic Biopsy and Vacuum-Assisted Biopsy,page-663.png,654,,,MR-guided biopsy,,0
+breast,MATCHED,content/docs/breast/_index.md,566,乳房攝影導引鋼線定位 / Mammographic-Guided Wire Localization,page-664.png,655,655,0,Mammographic-guided wire localization,Mammographic-guided wire localization,1
+breast,NO_MATCH,content/docs/breast/_index.md,574,參考文獻 / References (Pages 665-666),page-665.png,656,,,"References, resources, and further reading",,0
+breast,NO_MATCH,content/docs/breast/_index.md,610,參考文獻 / References (Pages 665-666),page-666.png,657,,,"America, 45(5), 765-71, v(2007).",,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,452,破裂預後 / Prognosis of Rupture,page-668.png,659,,,Aortic anatomy,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,489,Type II 內漏：側支血流持續灌注 / Type II Endoleak: Persistent Collateral Flow,page-669.png,660,,,Aberrant right subclavian,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,546,內漏分型總結 / Endoleak Classification Summary,page-670.png,661,,,Acute aortic syndrome,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,592,慢性期影像特徵 / Chronic Phase Imaging Features,page-671.png,662,,,Classification of aortic dissection,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,639,重要提醒 / Important Note,page-672.png,663,,,Intramural hematoma (IMH),,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,686,假性縮窄 / Pseudocoarctation,page-673.png,664,,,Penetrating atherosclerotic ulcer (PAU),,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,766,檢查前準備 / Pre-Procedure,page-674.png,665,,,Traumatic aortic injury,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,806,冠狀动脉起源異常 / Anomalous Coronary Artery Origin,page-675.png,666,,,Aortic aneurysms and miscellaneous disorders,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,851,右冠狀动脉 / Right Coronary Artery (RCA),page-676.png,667,,,Abdominal aortic aneurysm,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,916,良性冠狀动脉異常 / Benign Coronary Artery Anomaly,page-677.png,668,,,Abdominal aortic aneurysms - Endoleaks,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,975,罕見變異：ARCAPA,page-678.png,669,,,Type III endoleak: Device failure causing leakage,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1052,正常心肌信號 / Normal Myocardium,page-679.png,670,,,Miscellaneous aortic disorders,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1102,心肌中層增強 / Mid-Myocardial Delayed Enhancement,page-680.png,671,,,Takayasu arteritis,,0
+cardiovascular,MATCHED,content/docs/cardiovascular/_index.md,1151,非缺血性 / Nonischemic,page-681.png,672,686,-14,Aortic coarctation,Nonischemic myocardial disease,1
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1234,左心室擴大 / Left Ventricular Enlargement,page-682.png,673,,,Coronary CT angiography,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1272,側面觀（Lateral View）,page-683.png,674,,,Coronary artery anatomy,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1355,心內膜炎 / Endocarditis,page-684.png,675,,,Left main coronary artery (LMCA),,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1356,心內膜炎 / Endocarditis,page-685.png,676,,,Determination of dominance,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1357,心內膜炎 / Endocarditis,page-686.png,677,,,Malignant coronary artery anomaly,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1358,心內膜炎 / Endocarditis,page-687.png,678,,,Myocardial bridging,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1359,心內膜炎 / Endocarditis,page-688.png,679,,,Transmural delayed enhancement,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1360,心內膜炎 / Endocarditis,page-689.png,680,,,Epicardial/subepicardial delayed enhancement,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1361,心內膜炎 / Endocarditis,page-690.png,681,,,Plain film imaging of heart disease,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1362,心內膜炎 / Endocarditis,page-691.png,682,,,Left atrial enlargement,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1363,心內膜炎 / Endocarditis,page-692.png,683,,,Imaging and complications of myocardial infarction,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1364,心內膜炎 / Endocarditis,page-693.png,684,,,Imaging of prosthetic valves,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1365,心內膜炎 / Endocarditis,page-694.png,685,,,Mitral regurgitation,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1366,心內膜炎 / Endocarditis,page-695.png,686,,,Nonischemic myocardial disease,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1367,心內膜炎 / Endocarditis,page-696.png,687,,,Myocardial noncompaction,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1368,心內膜炎 / Endocarditis,page-697.png,688,,,Restrictive cardiomyopathy,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1369,心內膜炎 / Endocarditis,page-698.png,689,,,Lipomatous hypertrophy of the interatrial septum,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1370,心內膜炎 / Endocarditis,page-699.png,690,,,Pericardial calcification,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1371,心內膜炎 / Endocarditis,page-700.png,691,,,Congenital absence of the pericardium,,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1372,心內膜炎 / Endocarditis,page-701.png,692,,,"References, resources, and further reading",,0
+cardiovascular,NO_MATCH,content/docs/cardiovascular/_index.md,1373,心內膜炎 / Endocarditis,page-702.png,693,,,Miscellaneous:,,0
+interventional,NO_MATCH,content/docs/interventional/_index.md,36,通用注意事項：空氣栓塞、注射速率、PTA 與支架,page-706.png,697,,,General considerations,,0
+interventional,NO_MATCH,content/docs/interventional/_index.md,121,腹腔主要血管吻合途徑與 Buhler 弧,page-717.png,708,,,Abdominal anastomotic pathways,,0
+interventional,NO_MATCH,content/docs/interventional/_index.md,128,SMA 與 IMA 吻合網：Drummond 邊緣動脈與 Riolan 弧,page-718.png,709,,,SMA  IMA anastomoses,,0
+interventional,NO_MATCH,content/docs/interventional/_index.md,181,正中弧狀韌帶症候群（MALS）,page-725.png,716,,,"Arterial, venous, and visceral abdomino-pelvic compression s",,0
+interventional,MATCHED,content/docs/interventional/_index.md,188,腸系膜上動脈症候群（SMA Syndrome）,page-726.png,717,717,0,Superior mesenteric artery (SMA) syndrome,Superior mesenteric artery (SMA) syndrome,1
+interventional,NO_MATCH,content/docs/interventional/_index.md,195,門靜脈高壓與門脈壓力差（HVPG）測定,page-727.png,718,,,Portal hypertension,,0
+interventional,MATCHED,content/docs/interventional/_index.md,202,經頸靜脈肝內門體分流術（TIPS）步驟,page-728.png,719,719,0,TIPS: Step by step,TIPS: Step by step,1
+interventional,NO_MATCH,content/docs/interventional/_index.md,227,經皮穿肝膽道造影（PTC）與技術,page-731.png,722,,,Cholangiography,,0
+interventional,MATCHED,content/docs/interventional/_index.md,248,經皮腎造廔術（PCN）與經皮胃造廔術,page-734.png,725,725,0,Percutaneous nephrostomy (PCN),Percutaneous nephrostomy (PCN),1
+interventional,NO_MATCH,content/docs/interventional/_index.md,266,下肢靜脈解剖與 Leriche 症候群,page-736.png,727,,,Venous anatomy of the leg,,0
+interventional,MATCHED,content/docs/interventional/_index.md,287,子宮動脈栓塞術（UAE）與顆粒選擇,page-739.png,730,730,0,Uterine artery embolization (UAE),Uterine artery embolization (UAE),1
+interventional,MATCHED,content/docs/interventional/_index.md,319,胸廓出口症候群（TOS）分類與解剖,page-743.png,734,734,0,Thoracic outlet syndromes (TOS),Thoracic outlet syndromes (TOS),1
+interventional,MATCHED,content/docs/interventional/_index.md,326,Paget-Schroetter 症候群（鎖骨下靜脈血栓）,page-744.png,735,735,0,Paget-Schroetter syndrome (subclavian vein compression),Paget-Schroetter syndrome (subclavian vein compression),1
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,32,章節目次 / Chapter Contents,page-751.png,742,,,Pediatric airway,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,65,側位頸部X光可見病理部位 / Sites of Pathology on Lateral Neck Radiograph,page-752.png,743,,,Pediatric upper airway obstruction,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,179,診斷要點 / Diagnostic Key Points,page-753.png,744,,,Stridor – tracheal narrowing,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,503,正常解剖 / Normal Anatomy,page-756.png,747,,,Double aortic arch,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,576,診斷要點 / Diagnostic Key Points,page-757.png,748,,,The aortic branching pattern is normal.,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,918,RDS 與 BPD 比較 / RDS vs BPD Comparison,page-761.png,752,,,Meconium aspiration syndrome,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1004,併發症 / Complications,page-762.png,753,,,Congenital structural thoracic disease,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1081,各疾病簡述 / Brief Description of Each Entity,page-763.png,754,,,Congenital lobar emphysema (CLE),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1171,診斷要點 / Diagnostic Key Points,page-764.png,755,,,Type I: One or more large cysts >2 cm. Most common form.,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1284,CPAM vs 肺隔離症比較 / CPAM vs Sequestration,page-765.png,756,,,Scimitar syndrome,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1360,診斷要點 / Diagnostic Key Points,page-766.png,757,,,Bronchiolitis obliterans syndrome (BOS) = constrictive bronc,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1682,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-770.png,761,,,Acyanotic congenital heart disease,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1799,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-771.png,762,,,Acyanotic: pulmonary edema (increased pulmonary venous flow),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,1940,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-772.png,763,,,Acyanotic: Shunt vascularity,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2081,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-773.png,764,,,Patent ductus arteriosus (PDA),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2200,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-774.png,765,,,Cyanotic: Decreased pulmonary vascularity with cardiomegaly,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2327,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-775.png,766,,,Cyanotic: Decreased pulmonary vascularity without cardiomega,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2468,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-776.png,767,,,Tricuspid atresia,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2605,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-777.png,768,,,Single (“tingle”) ventricle,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2730,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-778.png,769,,,Miscellaneous,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2875,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-779.png,770,,,Pediatric gastrointestinal,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,2970,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-780.png,771,,,Hypertrophic pyloric stenosis (HPS),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3119,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-781.png,772,,,Malrotation and midgut volvulus,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3252,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-782.png,773,,,Normal upper GI: Spot image,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3351,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-783.png,774,,,Intussusception,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3472,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-784.png,775,,,Congenital gastroesophageal disorders,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3615,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-785.png,776,,,Neonatal bowel obstruction: Overview,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3704,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-786.png,777,,,Congenital proximal bowel obstruction,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3801,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-787.png,778,,,Jejunal atresia and stenosis.,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3908,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-788.png,779,,,Meconium ileus,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,3995,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-789.png,780,,,780,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4074,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-790.png,781,,,Hirschsprung disease,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4179,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-791.png,782,,,Childhood bowel obstruction,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4256,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-792.png,783,,,Anorectal malformations,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4377,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-793.png,784,,,Neonatal cholestatic jaundice,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4488,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-794.png,785,,,Pediatric hepatobiliary neoplasia and masses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4575,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-795.png,786,,,Choledochal cyst/Caroli disease,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4678,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-796.png,787,,,Infantile hemangioma/hemangioendothelioma,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4757,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-797.png,788,,,Hepatoblastoma,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4866,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-798.png,789,,,Miscellaneous,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,4991,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-799.png,790,,,Spectrum of meconium,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5080,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-800.png,791,,,Pediatric genitourinary,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5207,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-801.png,792,,,Duplex collecting system,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5308,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-802.png,793,,,Ureteropelvic junction (UPJ) obstruction,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5429,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-803.png,794,,,Cystic renal lesions,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5536,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-804.png,795,,,Autosomal dominant polycystic kidney disease (ADPKD),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5605,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-805.png,796,,,Horseshoe kidney: Approximately 2x incidence of Wilms tumor.,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5742,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-806.png,797,,,Benign solid renal masses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5859,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-807.png,798,,,Confusing names,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,5936,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-808.png,799,,,Adrenal mass lesions,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6017,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-809.png,800,,,"Stage I: Tumor limited to organ of origin (e.g., adrenal).",,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6116,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-810.png,801,,,Cystic pelvic masses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6247,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-811.png,802,,,Pediatric musculoskeletal,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6382,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-812.png,803,,,803,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6491,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-813.png,804,,,Pediatric elbow,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6592,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-814.png,805,,,Anterior humeral line,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6663,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-815.png,806,,,Toddler’s fracture,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6748,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-816.png,807,,,Pelvic apophyseal avulsion injuries,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,6887,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-817.png,808,,,Child abuse,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7030,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-818.png,809,,,Skeletal dysplasias,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7141,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-819.png,810,,,Osteogenesis imperfecta (OI),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7242,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-820.png,811,,,Stippled epiphyses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7357,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-821.png,812,,,Child with limp,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7432,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-822.png,813,,,Slipped capital femoral epiphysis (SCFE),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7499,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-823.png,814,,,Legg–Calvé–Perthes (LCP),,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7568,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-824.png,815,,,Aggressive bone neoplasms,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7649,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-825.png,816,,,Lytic bone lesions,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7776,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-826.png,817,,,Osteomyelitis,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7869,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-827.png,818,,,Spinal osteomyelitis/discitis,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,7996,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-828.png,819,,,Leukemia,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8117,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-829.png,820,,,Torch infections,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8226,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-830.png,821,,,Malalignment,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8333,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-831.png,822,,,Osteochondroses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8494,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-832.png,823,,,Miscellaneous,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8595,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-833.png,824,,,Periosteal reaction in an infant or child,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8738,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-834.png,825,,,Pediatric neuroimaging,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8873,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-835.png,826,,,Lissencephaly,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,8944,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-836.png,827,,,Gray matter heterotopia,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9057,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-837.png,828,,,Schizencephaly,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9132,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-838.png,829,,,Holoprosencephaly,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9205,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-839.png,830,,,Posterior fossa malformations,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9306,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-840.png,831,,,Chiari II,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9459,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-841.png,832,,,Phakomatoses,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9554,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-842.png,833,,,Posterior vertebral body scalloping.,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9633,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-843.png,834,,,Sturge Weber,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9714,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-844.png,835,,,Tuberous sclerosis,,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9859,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-845.png,836,,,"References, resources, and further reading",,0
+pediatric,NO_MATCH,content/docs/pediatric/_index.md,9958,非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease,page-846.png,837,,,Pediatric Genitourinary:,,0
+physics,NO_MATCH,content/docs/physics/_index.md,18,非過敏性急性對比劑反應 (Non-Allergic-Type Acute Contrast Reactions),page-847.png,838,,,12 Physics of imaging,,0
+physics,NO_MATCH,content/docs/physics/_index.md,24,非過敏性急性對比劑反應 (Non-Allergic-Type Acute Contrast Reactions),page-848.png,839,,,Treatment of contrast media reaction,,0
+physics,NO_MATCH,content/docs/physics/_index.md,90,立即不良反應 (Immediate Adverse Reactions),page-849.png,840,,,Iodinated contrast,,0
+physics,NO_MATCH,content/docs/physics/_index.md,110,孕婦與哺乳 (Pregnancy and Breast-Feeding),page-850.png,841,,,Contrast-induced nephropathy (CIN),,0
+physics,NO_MATCH,content/docs/physics/_index.md,169,kV 對輸出與影像的影響 (Effect of kV on Tube Output),page-851.png,842,,,Iodinated contrast and pregnancy,,0
+physics,NO_MATCH,content/docs/physics/_index.md,283,放大乳房攝影 (Magnification Mammography),page-852.png,843,,,Nephrogenic systemic fibrosis (NSF),,0
+physics,NO_MATCH,content/docs/physics/_index.md,337,"Hounsfield 單位 (Hounsfield Units, HU)",page-853.png,844,,,Physics quick review,,0
+physics,NO_MATCH,content/docs/physics/_index.md,487,"信噪比 (Signal to Noise Ratio, SNR)",page-854.png,845,,,General radiography,,0
+physics,NO_MATCH,content/docs/physics/_index.md,586,衰變類型 (Types of Decay),page-855.png,846,,,All of these interactions       interactions.,,0
