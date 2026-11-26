@@ -1,11 +1,7 @@
 ---
-
 title: "Chapter 11: Pediatric Imaging"
-
 weight: 11
-
 description: 兒童影像學、超音波、X光、CT、MRI
-
 ---
 
 <!-- page: 750 -->
@@ -14,6 +10,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 ## 兒科影像學 / Pediatric Imaging {#兒科影像學--pediatric-imaging}
 
 ## 章節目次 / Chapter Contents {#章節目次--chapter-contents}
+
+![章節目次（印刷頁 742）](/core_radiology/images/pediatric/page-751.png)
 
 | 項目 / Topic | 頁碼 / Page |
 |---|---|
@@ -29,7 +27,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 751 -->
 
-![章節目次（印刷頁 742）](/core_radiology/images/pediatric/page-751.png)
 ## 兒科氣道 / Pediatric Airway {#兒科氣道--pediatric-airway}
 
 ## 正常解剖 / Normal Anatomy {#正常解剖--normal-anatomy}
@@ -43,6 +40,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 氣道 / Airway | 連續通暢，無狹窄 |
 
 ### 側位頸部X光可見病理部位 / Sites of Pathology on Lateral Neck Radiograph {#側位頸部x光可見病理部位--sites-of-pathology-on-lateral-neck-radiograph}
+
+![側位頸部X光可見病理部位（印刷頁 743）](/core_radiology/images/pediatric/page-752.png)
 
 | 病變 / Lesion | 影像學表現 / Imaging Finding |
 |---|---|
@@ -62,7 +61,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 752 -->
 
-![側位頸部X光可見病理部位（印刷頁 743）](/core_radiology/images/pediatric/page-752.png)
 ## 兒科上氣道阻塞 / Pediatric Upper Airway Obstruction {#兒科上氣道阻塞--pediatric-upper-airway-obstruction}
 
 ## 總論 / Overview {#總論--overview}
@@ -161,6 +159,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 診斷要點 / Diagnostic Key Points {#診斷要點--diagnostic-key-points-1}
 
+![診斷要點（印刷頁 744）](/core_radiology/images/pediatric/page-753.png)
+
 - **CT 增強掃描**：破壞性腫瘤，明顯強化
 
 - **MRI fat-suppressed T1**：評估顱內侵犯
@@ -175,7 +175,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 753 -->
 
-![診斷要點（印刷頁 744）](/core_radiology/images/pediatric/page-753.png)
 ## 喘鳴與氣道狹窄 / Stridor and Tracheal Narrowing {#喘鳴與氣道狹窄--stridor-and-tracheal-narrowing}
 
 ---
@@ -297,6 +296,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-2}
 
+![鑑別診斷（印刷頁 745）](/core_radiology/images/pediatric/page-754.png)
+
 - 咽後蜂窩組織炎（Retropharyngeal cellulitis）
 
 - 淋巴瘤（Lymphoma）
@@ -313,7 +314,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 754 -->
 
-![鑑別診斷（印刷頁 745）](/core_radiology/images/pediatric/page-754.png)
 ## 兒科氣道疾病（續） / Pediatric Airway Diseases (Continued) {#兒科氣道疾病續--pediatric-airway-diseases-continued}
 
 ---
@@ -449,6 +449,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 臨床要點 / Clinical Key Points {#臨床要點--clinical-key-points-2}
 
+![臨床要點（印刷頁 746）](/core_radiology/images/pediatric/page-755.png)
+
 - **氣道橫截面積減少 >50%** 提示氣管軟化症
 
 - 正常人用力呼氣也可達到此閾值，需結合臨床
@@ -457,7 +459,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 755 -->
 
-![臨床要點（印刷頁 746）](/core_radiology/images/pediatric/page-755.png)
 ## 血管環與血管吊帶 / Vascular Rings and Sling {#血管環與血管吊帶--vascular-rings-and-sling}
 
 ## 總論 / Overview {#總論--overview-1}
@@ -487,6 +488,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 正常解剖 / Normal Anatomy {#正常解剖--normal-anatomy-1}
 
+![正常解剖（印刷頁 747）](/core_radiology/images/pediatric/page-756.png)
+
 | 結構 / Structure | 位置 / Location |
 |---|---|
 | 氣管 / Trachea | 前方 |
@@ -499,7 +502,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 756 -->
 
-![正常解剖（印刷頁 747）](/core_radiology/images/pediatric/page-756.png)
 ## 雙主動脈弓 / Double Aortic Arch {#雙主動脈弓--double-aortic-arch}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-12}
@@ -560,6 +562,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 診斷要點 / Diagnostic Key Points {#診斷要點--diagnostic-key-points-11}
 
+![診斷要點（印刷頁 748）](/core_radiology/images/pediatric/page-757.png)
+
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 正位像 / Frontal view | 右弓使氣管向左偏移 |
@@ -572,7 +576,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 757 -->
 
-![診斷要點（印刷頁 748）](/core_radiology/images/pediatric/page-757.png)
 ## 肺動脈吊帶 / Pulmonary Artery Sling {#肺動脈吊帶--pulmonary-artery-sling}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-14}
@@ -645,6 +648,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 臨床要點 / Clinical Key Points {#臨床要點--clinical-key-points-3}
 
+![臨床要點（印刷頁 749）](/core_radiology/images/pediatric/page-758.png)
+
 - **不是血管環**
 
 - 此病因是否具有臨床意義仍有爭議
@@ -665,7 +670,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 758 -->
 
-![臨床要點（印刷頁 749）](/core_radiology/images/pediatric/page-758.png)
 ## 血管環與血管吊帶——影像學總結 / Vascular Rings and Sling — Imaging Summary {#血管環與血管吊帶影像學總結--vascular-rings-and-sling--imaging-summary}
 
 ## 後方食道壓跡的鑑別診斷 / Differential Diagnosis of Posterior Esophageal Impression {#後方食道壓跡的鑑別診斷--differential-diagnosis-of-posterior-esophageal-impression}
@@ -702,6 +706,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 關鍵點 / Key Point {#關鍵點--key-point-1}
 
+![關鍵點（印刷頁 750）](/core_radiology/images/pediatric/page-759.png)
+
 - **肺動脈吊帶是唯一在正常（左）主動脈弓下造成喘鳴的先天性血管異常**
 
 - 侧位食道造影：食道前方壓迹 + 氣管後方壓迹
@@ -724,7 +730,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 759 -->
 
-![關鍵點（印刷頁 750）](/core_radiology/images/pediatric/page-759.png)
 ## 兒科胸部 / Pediatric Chest {#兒科胸部--pediatric-chest}
 
 ## 新生兒醫源性呼吸窘迫 / Medical Respiratory Distress in the Newborn {#新生兒醫源性呼吸窘迫--medical-respiratory-distress-in-the-newborn}
@@ -790,6 +795,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-4}
 
+![鑑別診斷（印刷頁 751）](/core_radiology/images/pediatric/page-760.png)
+
 | 疾病 / Entity | 區別要點 / Key Differences |
 |---|---|
 | 新生兒肺炎 / Neonatal pneumonia | 臨床與X光均難分辨 |
@@ -806,7 +813,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 760 -->
 
-![鑑別診斷（印刷頁 751）](/core_radiology/images/pediatric/page-760.png)
 ## 呼吸窘迫症候群 / Respiratory Distress Syndrome (RDS) {#呼吸窘迫症候群--respiratory-distress-syndrome-rds}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-18}
@@ -902,6 +908,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## RDS 與 BPD 比較 / RDS vs BPD Comparison {#rds-與-bpd-比較--rds-vs-bpd-comparison}
 
+![RDS 與 BPD 比較（印刷頁 752）](/core_radiology/images/pediatric/page-761.png)
+
 | 特徵 / Feature | RDS | BPD |
 |---|---|---|
 | 發生時間 / Timing | 出生後即發 | 出生後 >28 天或 36 週糾正月齡 |
@@ -914,7 +922,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 761 -->
 
-![RDS 與 BPD 比較（印刷頁 752）](/core_radiology/images/pediatric/page-761.png)
 ## 胎便吸入症候群 / Meconium Aspiration Syndrome {#胎便吸入症候群--meconium-aspiration-syndrome}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-21}
@@ -990,6 +997,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 併發症 / Complications {#併發症--complications}
 
+![併發症（印刷頁 753）](/core_radiology/images/pediatric/page-762.png)
+
 - **感染後囊腫（Post-infectious pneumatocele）**：尤其常見於 S. aureus
 
 > **臨床要點**
@@ -1000,7 +1009,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 762 -->
 
-![併發症（印刷頁 753）](/core_radiology/images/pediatric/page-762.png)
 ## 先天性結構性胸廓疾病 / Congenital Structural Thoracic Disease {#先天性結構性胸廓疾病--congenital-structural-thoracic-disease}
 
 ---
@@ -1060,6 +1068,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 各疾病簡述 / Brief Description of Each Entity {#各疾病簡述--brief-description-of-each-entity}
 
+![各疾病簡述（印刷頁 754）](/core_radiology/images/pediatric/page-763.png)
+
 | 疾病 / Entity | 說明 / Description |
 |---|---|
 | **先天性大葉性肺氣腫 / CLE** | 肺發育異常，無相關血管異常 |
@@ -1077,7 +1087,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 763 -->
 
-![各疾病簡述（印刷頁 754）](/core_radiology/images/pediatric/page-763.png)
 ## 先天性大葉性肺氣腫 / Congenital Lobar Emphysema (CLE) {#先天性大葉性肺氣腫--congenital-lobar-emphysema-cle}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-24}
@@ -1153,6 +1162,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 診斷要點 / Diagnostic Key Points {#診斷要點--diagnostic-key-points-22}
 
+![診斷要點（印刷頁 755）](/core_radiology/images/pediatric/page-764.png)
+
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 胸部X光 / Chest radiograph | 局部肺部過度透光 + 空氣滯留 |
@@ -1167,7 +1178,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 764 -->
 
-![診斷要點（印刷頁 755）](/core_radiology/images/pediatric/page-764.png)
 ## 先天性肺部呼吸道畸形 / Congenital Pulmonary Airway Malformation (CPAM) {#先天性肺部呼吸道畸形--congenital-pulmonary-airway-malformation-cpam}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-26}
@@ -1266,6 +1276,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## CPAM vs 肺隔離症比較 / CPAM vs Sequestration {#cpam-vs-肺隔離症比較--cpam-vs-sequestration}
 
+![CPAM vs 肺隔離症比較（印刷頁 756）](/core_radiology/images/pediatric/page-765.png)
+
 | 特徵 / Feature | CPAM | 肺隔離症 / Sequestration |
 |---|---|---|
 | 血液供應 / Blood supply | 肺循環 / Pulmonary | **體循環 / Systemic** |
@@ -1280,7 +1292,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 765 -->
 
-![CPAM vs 肺隔離症比較（印刷頁 756）](/core_radiology/images/pediatric/page-765.png)
 ## 彎刀症候群 / Scimitar Syndrome {#彎刀症候群--scimitar-syndrome}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-28}
@@ -1342,6 +1353,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 診斷要點 / Diagnostic Key Points {#診斷要點--diagnostic-key-points-26}
 
+![診斷要點（印刷頁 757）](/core_radiology/images/pediatric/page-766.png)
+
 | 檢查 / Study | 發現 / Finding |
 |---|---|
 | 胸部X光 / Chest radiograph | 肺部過度充氣（橫膈變平） |
@@ -1356,7 +1369,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 766 -->
 
-![診斷要點（印刷頁 757）](/core_radiology/images/pediatric/page-766.png)
 ## 閉塞性細支氣管炎症候群 / Bronchiolitis Obliterans Syndrome (BOS) {#閉塞性細支氣管炎症候群--bronchiolitis-obliterans-syndrome-bos}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-30}
@@ -1444,6 +1456,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-8}
 
+![鑑別診斷（印刷頁 758）](/core_radiology/images/pediatric/page-767.png)
+
 | 疾病 / Entity | COP/BOOP | BOS（閉塞性細支氣管炎）|
 |---|---|---|
 | 病因 / Etiology | 多樣 | 移植後或感染後常見 |
@@ -1457,7 +1471,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 767 -->
 
-![鑑別診斷（印刷頁 758）](/core_radiology/images/pediatric/page-767.png)
 ## 支氣管擴張症 / Bronchiectasis {#支氣管擴張症--bronchiectasis}
 
 ## 疾病概述 / Disease Overview {#疾病概述--disease-overview-33}
@@ -1489,37 +1502,37 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 單側肺部過度透光
 
-    │
+│
 
-    ├── 急性呼吸急促？
+├── 急性呼吸急促？
 
-    │       │
+│       │
 
-    │       ├── 臥位片上患側肺持續擴張 → 異物吸入
+│       ├── 臥位片上患側肺持續擴張 → 異物吸入
 
-    │       │
+│       │
 
-    │       └── 可見胸膜線 → 氣胸
+│       └── 可見胸膜線 → 氣胸
 
-    │
+│
 
-    ├── 有閉塞性細支氣管炎病史？→ Swyer-James-MacLeod
+├── 有閉塞性細支氣管炎病史？→ Swyer-James-MacLeod
 
-    │
+│
 
-    ├── 主要影響上、中葉？→ 先天性大葉性肺氣腫（CLE）
+├── 主要影響上、中葉？→ 先天性大葉性肺氣腫（CLE）
 
-    │
+│
 
-    ├── 反覆感染史？→ CPAM（大囊型）
+├── 反覆感染史？→ CPAM（大囊型）
 
-    │
+│
 
-    └── 體檢或側位X光見胸壁異常？+ 手/手臂異常史？
+└── 體檢或側位X光見胸壁異常？+ 手/手臂異常史？
 
-            │
+│
 
-            └── Poland 症候群
+└── Poland 症候群
 
 ```
 
@@ -1543,6 +1556,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 臨床特徵 / Clinical Features {#臨床特徵--clinical-features-22}
 
+![臨床特徵（印刷頁 759）](/core_radiology/images/pediatric/page-768.png)
+
 - 胸壁輪廓異常
 
 - 可能影響美觀與功能
@@ -1559,7 +1574,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 768 -->
 
-![臨床特徵（印刷頁 759）](/core_radiology/images/pediatric/page-768.png)
 ## 兒科縱隔腫塊 / Pediatric Mediastinal Masses {#兒科縱隔腫塊--pediatric-mediastinal-masses}
 
 ## 解剖分區與常見腫塊 / Compartmentalization and Common Masses {#解剖分區與常見腫塊--compartmentalization-and-common-masses}
@@ -1590,6 +1604,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-9}
 
+![鑑別診斷（印刷頁 760）](/core_radiology/images/pediatric/page-769.png)
+
 | 徵象 / Sign | 區別 / Differentiation |
 |---|---|
 | Spinnaker sail sign | 雙側胸腺被空氣抬起 |
@@ -1603,7 +1619,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 769 -->
 
-![鑑別診斷（印刷頁 760）](/core_radiology/images/pediatric/page-769.png)
 ## 兒科心臟 / Pediatric Cardiac {#兒科心臟--pediatric-cardiac}
 
 ## 先天性心臟病的平片評估 / Plain Film Evaluation of Congenital Heart Disease {#先天性心臟病的平片評估--plain-film-evaluation-of-congenital-heart-disease}
@@ -1662,6 +1677,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ## 非先心病的類似表現 / Conditions Mimicking Congenital Heart Disease {#非先心病的類似表現--conditions-mimicking-congenital-heart-disease}
 
+![非先心病的類似表現（印刷頁 761）](/core_radiology/images/pediatric/page-770.png)
+
 | 疾病 / Condition | 說明 / Description |
 |---|---|
 | 心內膜腫瘤 / Intracardiac tumor（如橫紋肌瘤） | 心臟擴大 |
@@ -1678,7 +1695,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 770 -->
 
-![非先心病的類似表現（印刷頁 761）](/core_radiology/images/pediatric/page-770.png)
 ## 先天性心臟病之放射學鑑別診斷概論 / Overview of Radiographic Differential Diagnosis for Congenital Heart Disease {#先天性心臟病之放射學鑑別診斷概論--overview-of-radiographic-differential-diagnosis-for-congenital-heart-disease}
 
 ### 無發紺型先天性心臟病 / Acyanotic Congenital Heart Disease {#無發紺型先天性心臟病--acyanotic-congenital-heart-disease}
@@ -1694,7 +1710,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 #### 肺動脈血流量增加（分流型血管） / Increased Pulmonary Arterial Flow (Shunt Vascularity) {#肺動脈血流量增加分流型血管--increased-pulmonary-arterial-flow-shunt-vascularity}
 
-通常在兒童期而非新生兒期表現。常見原因：
+- 通常在兒童期而非新生兒期表現
+- 常見原因：
 
 | 病變 / Lesion | 說明 / Notes |
 |---|---|
@@ -1712,6 +1729,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 | 增加（但變異）/ Increased (variable) | 正常 / Normal | 「T」型病變 / “T” lesions（不含法樂氏四重症）：大血管轉位（Transposition of the great arteries）、共同動脈幹（Truncus arteriosus）、三尖瓣閉鎖（Tricuspid atresia）、全肺靜脈回流異常（Total Anomalous Pulmonary Venous Return, TAPVR）、單心室（Single ventricle，“Tingle”）及其變異，包括左心室雙出口與右心室雙出口 |
 
 ### 正常解剖標示 / Normal Anatomy {#正常解剖標示--normal-anatomy}
+
+![正常解剖標示（印刷頁 762）](/core_radiology/images/pediatric/page-771.png)
 
 | 縮寫 / Abbreviation | 結構 / Structure |
 |---|---|
@@ -1742,7 +1761,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 771 -->
 
-![正常解剖標示（印刷頁 762）](/core_radiology/images/pediatric/page-771.png)
 ## 無發紺型：肺水腫（肺靜脈血流量增加） / Acyanotic: Pulmonary Edema (Increased Pulmonary Venous Flow) {#無發紺型肺水腫肺靜脈血流量增加--acyanotic-pulmonary-edema-increased-pulmonary-venous-flow}
 
 ### 左心發育不全 / Hypoplastic Left Heart (HLH) {#左心發育不全--hypoplastic-left-heart-hlh}
@@ -1751,7 +1769,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 生存取決於動脈導管保持通暢（patent ductus arteriosus），藉由右至左分流來供應體循環。
 
-出生後立即，動脈導管仍保持開通且肺動脈阻力仍高，血液持續流向體循環。然而數日後，動脈導管開始關閉、肺動脈阻力下降，導致心因性休克（cardiogenic shock），若未接受手術處理即會發生。
+- 出生後立即，動脈導管仍保持開通且肺動脈阻力仍高，血液持續流向體循環
+- 然而數日後，動脈導管開始關閉、肺動脈阻力下降，導致心因性休克（cardiogenic shock），若未接受手術處理即會發生
 
 #### 影像表現 / Imaging {#影像表現--imaging}
 
@@ -1776,6 +1795,8 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ### 主動脈縮窄 / Aortic Coarctation {#主動脈縮窄--aortic-coarctation}
 
+![主動脈縮窄（印刷頁 763）](/core_radiology/images/pediatric/page-772.png)
+
 主動脈縮窄可因左心室阻塞而在嬰兒期造成 CHF，導致心臟增大與肺靜脈血流量增加。
 
 > **臨床要點**：HLH 的新生兒胸部 X 光初期可完全正常，必須依靠臨床表現（早期關閉動脈導管後的心因性休克）來警覺，而非仰賴 X 光。
@@ -1796,14 +1817,16 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 772 -->
 
-![主動脈縮窄（印刷頁 763）](/core_radiology/images/pediatric/page-772.png)
 ## 無發紺型：分流型血管 / Acyanotic: Shunt Vascularity {#無發紺型分流型血管--acyanotic-shunt-vascularity}
 
-分流病變（shunt lesions）在新生兒期表現罕見，因肺血管阻力高而左至右分流有限。長期分流會造成逐漸的容量負荷過重，產生典型的「分流型」血管表現（肺動脈非常明顯、清晰，**不伴**肺水腫的模糊感）以及心臟增大。
+- 分流病變（shunt lesions）在新生兒期表現罕見，因肺血管阻力高而左至右分流有限
+- 長期分流會造成逐漸的容量負荷過重，產生典型的「分流型」血管表現（肺動脈非常明顯、清晰，**不伴**肺水腫的模糊感）以及心臟增大
 
 ### 房間隔缺損 / Atrial Septal Defect (ASD) {#房間隔缺損--atrial-septal-defect-asd}
 
-房間隔缺損是常見的心內左至右分流，但在嬰兒或幼兒極少被診斷。ASD 通常在兒童後期或成年早期才表現，女性約為男性的兩倍。多數為孤立性異常，但罕見地可合併於某些症候群，例如 Holt–Oram 症候群（ASD 合併上肢骨畸形，包括拇指缺如或發育不全）。
+- 房間隔缺損是常見的心內左至右分流，但在嬰兒或幼兒極少被診斷
+- ASD 通常在兒童後期或成年早期才表現，女性約為男性的兩倍
+- 多數為孤立性異常，但罕見地可合併於某些症候群，例如 Holt–Oram 症候群（ASD 合併上肢骨畸形，包括拇指缺如或發育不全）
 
 #### ASD 類型 / Types of ASD {#asd-類型--types-of-asd}
 
@@ -1822,9 +1845,12 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ### 室間隔缺損 / Ventricular Septal Defect (VSD) {#室間隔缺損--ventricular-septal-defect-vsd}
 
-室間隔缺損通常比 ASD 更早被診斷，許多兒童在出生後第一個月後、隨著肺血管阻力下降而就診。VSD 可發生於膜部（70%）或肌部心室間隔。
+- 室間隔缺損通常比 ASD 更早被診斷，許多兒童在出生後第一個月後、隨著肺血管阻力下降而就診
+- VSD 可發生於膜部（70%）或肌部心室間隔
 
 #### 影像與病理 / Imaging and Pathophysiology {#影像與病理--imaging-and-pathophysiology-1}
+
+![影像與病理（印刷頁 764）](/core_radiology/images/pediatric/page-773.png)
 
 - VSD 主要造成左心擴張。左至右分流發生於收縮期，造成左心容量負荷過重，導致左心房與左心室擴張。
 - 影像表現依缺損大小而異：典型的分流型血管表現與心臟增大通常需數年才發展完成，但出生後不久即可能出現輕度心臟增大與肺血流量增加。
@@ -1847,7 +1873,6 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 773 -->
 
-![影像與病理（印刷頁 764）](/core_radiology/images/pediatric/page-773.png)
 ## 動脈導管未閉 / Patent Ductus Arteriosus (PDA) {#動脈導管未閉--patent-ductus-arteriosus-pda}
 
 ### 基礎與病因 / Background and Etiology {#基礎與病因--background-and-etiology}
@@ -1869,12 +1894,15 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 ### 內膜墊缺損（房室管缺損） / Endocardial Cushion Defect (ECD), Also Called AV Canal Defect {#內膜墊缺損房室管缺損--endocardial-cushion-defect-ecd-also-called-av-canal-defect}
 
-內膜墊缺損又稱房室管缺損（AV canal defect），涵蓋一類異常的譜系，包括原發孔型 ASD、VSD，以及二尖瓣或三尖瓣的異常。內膜墊缺損與 21 三體（trisomy 21）高度相關。
+- 內膜墊缺損又稱房室管缺損（AV canal defect），涵蓋一類異常的譜系，包括原發孔型 ASD、VSD，以及二尖瓣或三尖瓣的異常
+- 內膜墊缺損與 21 三體（trisomy 21）高度相關
 
 - 圖示說明：胎齡 32 週產前超音波的心臟四腔室切面，顯示心房間隔完全缺如，以及心室間隔上部的大缺陷。
 - 個案提供：Beryl Benacerraf 醫師，Diagnostic Ultrasound Associates, Boston。
 
 #### 原始心內膜墊在胎兒發育中形成的構造 / Structures Formed by the Primitive Endocardial Cushion {#原始心內膜墊在胎兒發育中形成的構造--structures-formed-by-the-primitive-endocardial-cushion}
+
+![原始心內膜墊在胎兒發育中形成的構造（印刷頁 765）](/core_radiology/images/pediatric/page-774.png)
 
 | 構造 / Structure |
 |---|
@@ -1899,12 +1927,12 @@ description: 兒童影像學、超音波、X光、CT、MRI
 
 <!-- page: 774 -->
 
-![原始心內膜墊在胎兒發育中形成的構造（印刷頁 765）](/core_radiology/images/pediatric/page-774.png)
 ## 發紺型：肺血管量減少合併心臟增大 / Cyanotic: Decreased Pulmonary Vascularity with Cardiomegaly {#發紺型肺血管量減少合併心臟增大--cyanotic-decreased-pulmonary-vascularity-with-cardiomegaly}
 
 ### Ebstein 畸形 / Ebstein Anomaly {#ebstein-畸形--ebstein-anomaly}
 
-Ebstein 畸形是三尖瓣（tricuspid valve）的嚴重畸形，其特徵為隔瓣與後下瓣（septal and posteroinferior leaflets）向心尖方向移位，結果造成肺動脈瓣（pulmonic valve）與右心室流出道（right ventricular outflow tract）的阻塞。三尖瓣呈發育不良（dysplastic），並造成右心室的形態學「心房化」（morphologic “atrialization” of the RV）。
+- Ebstein 畸形是三尖瓣（tricuspid valve）的嚴重畸形，其特徵為隔瓣與後下瓣（septal and posteroinferior leaflets）向心尖方向移位，結果造成肺動脈瓣（pulmonic valve）與右心室流出道（right ventricular outflow tract）的阻塞
+- 三尖瓣呈發育不良（dysplastic），並造成右心室的形態學「心房化」（morphologic “atrialization” of the RV）
 
 - 房間隔缺損（Atrial Septal Defect, ASD）**一定存在**。
 - 影像典型表現為**巨大心臟**，伴隨**右心房（right atrium, RA） 大幅增大**與**肺血管量減少**。
@@ -1913,6 +1941,8 @@ Ebstein 畸形是三尖瓣（tricuspid valve）的嚴重畸形，其特徵為隔
 > **影像例**：Ebstein 畸形的新生兒正位胸部 X 光顯示**心臟 大幅增大**。雖然增大的心臟遮蔽了大部分肺部，但在仍可見的周邊幾乎沒有血管陰影。影像中可見已置入的**氣管內管（endotracheal tube）**與**臍動脈導管（umbilical artery catheter）**。
 
 ### 肺動脈瓣閉鎖伴完整室間隔 / Pulmonary Atresia with Intact Ventricular Septum {#肺動脈瓣閉鎖伴完整室間隔--pulmonary-atresia-with-intact-ventricular-septum}
+
+![肺動脈瓣閉鎖伴完整室間隔（印刷頁 766）](/core_radiology/images/pediatric/page-775.png)
 
 肺動脈瓣閉鎖伴完整室間隔在 X 光影像上**與 Ebstein 畸形表現完全相同**：右心房 大幅增大，且肺血流量減少。
 
@@ -1932,7 +1962,6 @@ Ebstein 畸形是三尖瓣（tricuspid valve）的嚴重畸形，其特徵為隔
 
 <!-- page: 775 -->
 
-![肺動脈瓣閉鎖伴完整室間隔（印刷頁 766）](/core_radiology/images/pediatric/page-775.png)
 ## 發紺型：肺血管量減少但無心臟增大 / Cyanotic: Decreased Pulmonary Vascularity without Cardiomegaly {#發紺型肺血管量減少但無心臟增大--cyanotic-decreased-pulmonary-vascularity-without-cardiomegaly}
 
 ### 法樂氏四重症 / Tetralogy of Fallot (ToF) {#法樂氏四重症--tetralogy-of-fallot-tof}
@@ -1968,7 +1997,10 @@ ToF 是兒童與成人最常見的發紺型心臟病，與以下疾病相關：
 
 #### 大血管轉位 / Transposition of the Great Arteries (TGA) {#大血管轉位--transposition-of-the-great-arteries-tga}
 
-在大血管轉位（TGA）中，右心室將血液泵入主動脈、左心室將血液泵入肺動脈。TGA 是**新生兒發紺型心臟病最常見的原因**。
+![大血管轉位（印刷頁 767）](/core_radiology/images/pediatric/page-776.png)
+
+- 在大血管轉位（TGA）中，右心室將血液泵入主動脈、左心室將血液泵入肺動脈
+- TGA 是**新生兒發紺型心臟病最常見的原因**
 
 由於心房與心室的配對正確，但心室卻泵入錯誤的大血管，此型態稱為**房室一致（atrioventricular concordance）而心室大動脈不一致（ventriculoarterial discordance）**。
 
@@ -1994,14 +2026,17 @@ TGA 的「嚴格型」（strict form）與生命不相容：**必須存在混合
 
 <!-- page: 776 -->
 
-![大血管轉位（印刷頁 767）](/core_radiology/images/pediatric/page-776.png)
 ## 產前超音波診斷大血管轉位 / Prenatal Ultrasound Diagnosis of TGA {#產前超音波診斷大血管轉位--prenatal-ultrasound-diagnosis-of-tga}
 
-產前超音波診斷 TGA 必須評估大血管的**短軸或長軸**。TGA 在**四腔室心（four-chamber view）**通常無法察覺。超音波診斷的表現為：**主動脈位於心臟前方**，且**大血管自心臟平行發出**（而非正常方式交叉）。
+- 產前超音波診斷 TGA 必須評估大血管的**短軸或長軸**
+- TGA 在**四腔室心（four-chamber view）**通常無法察覺
+- 超音波診斷的表現為：**主動脈位於心臟前方**，且**大血管自心臟平行發出**（而非正常方式交叉）
 
 TGA 的經典 X 光表現為「**蛋上繩（egg-on-a-string）**」外觀，呈現**縱隔腰（mediastinal waist）狹窄**（由大血管排列與壓力下的胸腺退化共同造成）、**缺乏主肺動脈隆凸（main pulmonary artery bulge）**，以及**主動脈與肺動脈平行走行**。
 
-雖然文獻有描述，「蛋上繩」外觀實際上**並不常見**。TGA 更典型的 X 光表現為**縱隔略窄 + 肺血管量增加**；不過影像面貌會隨共存分流（shunt）的性質而變化。**約 5% 可見右側主動脈弓。**
+- 雖然文獻有描述，「蛋上繩」外觀實際上**並不常見**
+- TGA 更典型的 X 光表現為**縱隔略窄 + 肺血管量增加**；不過影像面貌會隨共存分流（shunt）的性質而變化
+- **約 5% 可見右側主動脈弓。**
 
 **外科治療**為**動脈轉位術（arterial switch / Jatene procedure）**：交換主動脈與肺動脈，並將冠狀動脈移植至新主動脈（neo-aorta）。
 
@@ -2016,7 +2051,8 @@ TGA 的經典 X 光表現為「**蛋上繩（egg-on-a-string）**」外觀，呈
 
 ### 共同動脈幹 / Truncus Arteriosus {#共同動脈幹--truncus-arteriosus}
 
-在共同動脈幹中，**單一大動脈自心臟基底部發出**，同時供應體循環、肺循環與冠狀動脈循環。該單一大動脈通常**跨騎於 VSD 之上**。
+- 在共同動脈幹中，**單一大動脈自心臟基底部發出**，同時供應體循環、肺循環與冠狀動脈循環
+- 該單一大動脈通常**跨騎於 VSD 之上**
 
 共同動脈幹是**最常見具有右側主動脈弓的先天性心臟病類型（21–36% 的病例）**。
 
@@ -2024,7 +2060,10 @@ TGA 的經典 X 光表現為「**蛋上繩（egg-on-a-string）**」外觀，呈
 
 ### 全肺靜脈回流異常 / Total Anomalous Pulmonary Venous Return (TAPVR) {#全肺靜脈回流異常--total-anomalous-pulmonary-venous-return-tapvr}
 
-在全肺靜脈回流異常（TAPVR）中，**所有肺靜脈均異常連接至體循環靜脈系統**，而非引流至左心房。此病**必須存在心房間的右至左交通**，使血液得以到達左心，典型者為 **ASD**。
+![全肺靜脈回流異常（印刷頁 768）](/core_radiology/images/pediatric/page-777.png)
+
+- 在全肺靜脈回流異常（TAPVR）中，**所有肺靜脈均異常連接至體循環靜脈系統**，而非引流至左心房
+- 此病**必須存在心房間的右至左交通**，使血液得以到達左心，典型者為 **ASD**
 
 TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
@@ -2035,7 +2074,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 | **心房下型 / Infracardiac** | 20% | 異常引流**經食道裂孔（esophageal hiatus）穿過橫膈**，再流入**肝下腔靜脈、肝靜脈或門脈系統** | — |
 | **混合型 / Mixed** | 20% | 以上類型的組合 | — |
 
-臨床與 X 光表現取決於**肺靜脈阻塞的程度**與**混合程度**。阻塞性 TAPVR 的典型 X 光表現為**心臟大小正常 + 嬰兒出現肺水腫**。
+- 臨床與 X 光表現取決於**肺靜脈阻塞的程度**與**混合程度**
+- 阻塞性 TAPVR 的典型 X 光表現為**心臟大小正常 + 嬰兒出現肺水腫**
 
 > **臨床要點**：TAPVR 的分類比例為 50% / 20% / 20% / 20%；**心房上型**的「雪人徵」僅見於**沒有肺靜脈阻塞的較大患者**，幼嬰若已出現肺靜脈阻塞，X 光反而只呈現肺水腫。
 
@@ -2057,7 +2097,6 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 777 -->
 
-![全肺靜脈回流異常（印刷頁 768）](/core_radiology/images/pediatric/page-777.png)
 ## 先天性心臟病總結 / Summary of Congenital Heart Disease {#先天性心臟病總結--summary-of-congenital-heart-disease}
 
 先天性心臟病的判讀可依序循三條軸線：**是否有肺水腫 → 是否發紺 → 肺血管量與心臟大小 → 分流型態**。
@@ -2078,7 +2117,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 ### 無發紺型：分流血管量 / Acyanotic with Shunt Vascularity {#無發紺型分流血管量--acyanotic-with-shunt-vascularity}
 
-上述病變**皆可有心臟增大（cardiomegaly）**。造成分流血管量的病變：
+- 上述病變**皆可有心臟增大（cardiomegaly）**
+- 造成分流血管量的病變：
 
 | 病變 / Lesion | 註記 / Notes |
 |---|---|
@@ -2113,6 +2153,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 ### 縮寫對照 / Abbreviations {#縮寫對照--abbreviations}
 
+![縮寫對照（印刷頁 769）](/core_radiology/images/pediatric/page-778.png)
+
 | 縮寫 / Abbreviation | 全名 / Expansion |
 |---|---|
 | ASD | 房間隔缺損 / Atrial septal defect |
@@ -2138,14 +2180,14 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 778 -->
 
-![縮寫對照（印刷頁 769）](/core_radiology/images/pediatric/page-778.png)
-## 其他 Miscellaneous {#其他-miscellaneous}
+## 其他 / Miscellaneous {#其他--miscellaneous}
 
 ### 主動脈縮窄 / Aortic Coarctation {#主動脈縮窄--aortic-coarctation-1}
 
 主動脈縮窄是**動脈導管區域的主動脈先天性局限性狹窄**，可分為**動脈導管前型（preductal，位於動脈導管近端，見右圖）**、**動脈導管周型（periductal）**與**動脈導管後型（postductal）**。
 
-**動脈導管前型**可因左心室阻塞而在嬰兒造成**充血性心臟衰竭（CHF）**。相對地，**鄰導管型（juxtaductal）或導管後型**則較晚發病，於**青少年或成年早期**表現為**上肢高血壓**。
+- **動脈導管前型**可因左心室阻塞而在嬰兒造成**充血性心臟衰竭（CHF）**
+- 相對地，**鄰導管型（juxtaductal）或導管後型**則較晚發病，於**青少年或成年早期**表現為**上肢高血壓**
 
 主動脈縮窄與**二尖瓣型主動脈瓣（bicuspid aortic valve）**相關，該瓣膜可能逐漸狹窄，並造成**狹窄後主動脈擴張**（位於縮窄處的近端）。
 
@@ -2155,22 +2197,27 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 主動脈縮窄與**透納氏症候群（Turner syndrome, XO）**相關。
 
-在嬰兒，主動脈縮窄可造成**無發紺型 CHF**。在成人，經典的 X 光表現為**左上縱隔的「3 字徵（3 sign）」**，代表縮窄之主動脈的輪廓。雖然**肋骨壓跡（rib notching）**被描述為經典表現，但**實際上很少見**。
+- 在嬰兒，主動脈縮窄可造成**無發紺型 CHF**
+- 在成人，經典的 X 光表現為**左上縱隔的「3 字徵（3 sign）」**，代表縮窄之主動脈的輪廓
+- 雖然**肋骨壓跡（rib notching）**被描述為經典表現，但**實際上很少見**
 
 ### 心臟腫塊 / Cardiac Masses {#心臟腫塊--cardiac-masses}
 
 #### 橫紋肌肉瘤 / Rhabdomyoma {#橫紋肌肉瘤--rhabdomyoma}
 
-橫紋肌肉瘤（rhabdomyoma）是**最常見的心臟腫瘤**，主要影響**1 歲以下、罹患結節性硬化症（tuberous sclerosis）的嬰兒**。橫紋肌肉瘤是**可在子宮內診斷之結節性硬化症的最早徵兆**。
+- 橫紋肌肉瘤（rhabdomyoma）是**最常見的心臟腫瘤**，主要影響**1 歲以下、罹患結節性硬化症（tuberous sclerosis）的嬰兒**
+- 橫紋肌肉瘤是**可在子宮內診斷之結節性硬化症的最早徵兆**
 
 - 臨床表現變異多樣，包括**心律不整（arrhythmia）**與**阻塞（obstruction）**。
 - 最常見的 X 光表現為**心臟增大（cardiomegaly）**；**肺血管量則不一致**。
 
 #### 畸胎瘤 / Teratoma {#畸胎瘤--teratoma}
 
-心臟或心包畸胎瘤（teratoma）是**產前檢查中偵測到的第二常見心臟腫瘤**。常見位置是**附著於肺動脈與主動脈的根部**。
+- 心臟或心包畸胎瘤（teratoma）是**產前檢查中偵測到的第二常見心臟腫瘤**
+- 常見位置是**附著於肺動脈與主動脈的根部**
 
-畸胎瘤源自心包時可造成**胸腔積液（pleural effusion）**。**心包畸胎瘤是圍產期大量心包積液的主要成因之一**，並有造成**心臟壓塞（tamponade）**的風險。
+- 畸胎瘤源自心包時可造成**胸腔積液（pleural effusion）**
+- **心包畸胎瘤是圍產期大量心包積液的主要成因之一**，並有造成**心臟壓塞（tamponade）**的風險
 
 #### 纖維瘤 / Fibroma {#纖維瘤--fibroma}
 
@@ -2181,6 +2228,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 - **心臟增大是最常見的影像表現**。
 
 #### 血管瘤 / Hemangioma {#血管瘤--hemangioma}
+
+![血管瘤（印刷頁 770）](/core_radiology/images/pediatric/page-779.png)
 
 與畸胎瘤類似，**新生兒心臟血管瘤（hemangioma）**同樣與**大量心包積液**相關。
 
@@ -2202,18 +2251,21 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 779 -->
 
-![血管瘤（印刷頁 770）](/core_radiology/images/pediatric/page-779.png)
 ## 兒科胃腸道 / Pediatric Gastrointestinal {#兒科胃腸道--pediatric-gastrointestinal}
 
 ### 胃腸道急症 / GI Emergencies {#胃腸道急症--gi-emergencies}
 
 #### 壞死性腸（小腸）結腸炎 / Necrotizing Enterocolitis (NEC) {#壞死性腸小腸結腸炎--necrotizing-enterocolitis-nec}
 
-壞死性腸結腸炎（NEC）影響**早產兒**，被認為與**感染**及**餵食相關的缺血**共同作用有關。**死亡率可高達 30%**。
+![壞死性腸（小腸）結腸炎（印刷頁 771）](/core_radiology/images/pediatric/page-780.png)
+
+- 壞死性腸結腸炎（NEC）影響**早產兒**，被認為與**感染**及**餵食相關的缺血**共同作用有關
+- **死亡率可高達 30%**
 
 雖然 NEC 典型發生於早產嬰兒，但**足月嬰兒**也可能罹患，例如合併**先天性心臟病**、接受**免疫抑制治療**或置有**臍靜脈導管（umbilical venous catheter）**者。
 
-**初期 X 光表現**包括**腸壁增厚**與**某段腸管在連續（serial）檢查中持續固定性擴張（fixed distension）**。NEC 最常侵犯**右下象限的迴腸與右結腸**。
+- **初期 X 光表現**包括**腸壁增厚**與**某段腸管在連續（serial）檢查中持續固定性擴張（fixed distension）**
+- NEC 最常侵犯**右下象限的迴腸與右結腸**
 
 **疾病後期**可出現**腸壁積氣（pneumatosis）**、**門靜脈氣體（portal venous gas）**，或因**腸穿孔**造成的**氣腹（pneumoperitoneum）**。
 
@@ -2225,7 +2277,9 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 >
 > 病例由 Michael Hanley, MD, University of Virginia Health System 提供。
 
-**氣腹的辨識技巧**：在仰臥位（supine）X 光上氣腹可能難以察覺。**應在肝臟上自右向左畫一條假想線——若肝臟變得較黑（more lucent），即應考慮氣腹**。**足球徵（football sign）**代表氣體沿**鐮狀韌帶（falciform ligament）**輪廓分布。
+- **氣腹的辨識技巧**：在仰臥位（supine）X 光上氣腹可能難以察覺
+- **應在肝臟上自右向左畫一條假想線——若肝臟變得較黑（more lucent），即應考慮氣腹**
+- **足球徵（football sign）**代表氣體沿**鐮狀韌帶（falciform ligament）**輪廓分布
 
 **治療**：
 
@@ -2251,10 +2305,10 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 780 -->
 
-![壞死性腸（小腸）結腸炎（印刷頁 771）](/core_radiology/images/pediatric/page-780.png)
 ## 肥厚性幽門狹窄 / Hypertrophic Pyloric Stenosis (HPS) {#肥厚性幽門狹窄--hypertrophic-pyloric-stenosis-hps}
 
-肥厚性幽門狹窄（HPS）是**幽門黏膜的肥厚**，典型造成**第一胎男嬰**（女嬰發生率僅為男性的三分之一）在**2–12 週齡**出現**逐漸加劇的、噴射性、非膽汁性嘔吐**。HPS 是**嬰兒嘔吐中需要外科治療的最常見原因**。
+- 肥厚性幽門狹窄（HPS）是**幽門黏膜的肥厚**，典型造成**第一胎男嬰**（女嬰發生率僅為男性的三分之一）在**2–12 週齡**出現**逐漸加劇的、噴射性、非膽汁性嘔吐**
+- HPS 是**嬰兒嘔吐中需要外科治療的最常見原因**
 
 雖然 HPS 有**遺傳關聯**，但**多數病例為散發性且屬原發性（sporadic and idiopathic）**。
 
@@ -2277,15 +2331,23 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 **治療**為**幽門肌切開術（pyloroplasty）**，等待手術期間需**靜脈補充液體與電解質**。
 
-**主要的鑑別診斷**是**幽門痙攣（pylorospasm）**，建議**密切臨床追蹤**。**看見胃內容物通過幽門**提示幽門痙攣，且幽門痙攣一般呈現**外觀正常的幽門**。
+- **主要的鑑別診斷**是**幽門痙攣（pylorospasm）**，建議**密切臨床追蹤**
+- **看見胃內容物通過幽門**提示幽門痙攣，且幽門痙攣一般呈現**外觀正常的幽門**
 
 ### 闌尾炎 / Appendicitis {#闌尾炎--appendicitis}
 
-闌尾炎是**兒童接受腹部手術最常見的原因**。**腹痛**通常存在，但**兒童的臨床表現可能不典型**，診斷頗具挑戰。**闌尾炎在嬰兒相當罕見。**
+![闌尾炎（印刷頁 772）](/core_radiology/images/pediatric/page-781.png)
 
-**超音波是兒童疑似闌尾炎的首選檢查**。典型的影像表現為**右下象限可見腫脹（> 6 mm）、不可壓迫、盲端盲管狀的構造**。亦可見**高回音的闌尾結石（appendicolith）**與**周圍腸繫膜脂肪回音增高（increased echogenicity of mesenteric fat）**。
+- 闌尾炎是**兒童接受腹部手術最常見的原因**
+- **腹痛**通常存在，但**兒童的臨床表現可能不典型**，診斷頗具挑戰
+- **闌尾炎在嬰兒相當罕見。**
 
-**CT 可作為解決問題的檢查（problem-solving modality）**，例如**臨床高度懷疑闌尾炎但超音波未能顯示闌尾**時。**兒童闌尾炎的 CT 表現與成人完全相同**，詳見胃腸道影像學章節。
+- **超音波是兒童疑似闌尾炎的首選檢查**
+- 典型的影像表現為**右下象限可見腫脹（> 6 mm）、不可壓迫、盲端盲管狀的構造**
+- 亦可見**高回音的闌尾結石（appendicolith）**與**周圍腸繫膜脂肪回音增高（increased echogenicity of mesenteric fat）**
+
+- **CT 可作為解決問題的檢查（problem-solving modality）**，例如**臨床高度懷疑闌尾炎但超音波未能顯示闌尾**時
+- **兒童闌尾炎的 CT 表現與成人完全相同**，詳見胃腸道影像學章節
 
 > **臨床要點**：**HPS 與幽門痙攣的鑑別關鍵是「是否看見胃內容物通過幽門」**——看見則支持幽門痙攣（且幽門外觀正常）；HPS 則為壁厚 ≥ 4 mm、幽門管長度 ≥ 16 mm 且無食物通過。
 
@@ -2309,16 +2371,19 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 781 -->
 
-![闌尾炎（印刷頁 772）](/core_radiology/images/pediatric/page-781.png)
 ## 腸旋轉不良與中腸扭轉 / Malrotation and Midgut Volvulus {#腸旋轉不良與中腸扭轉--malrotation-and-midgut-volvulus}
+
+![腸旋轉不良與中腸扭轉（印刷頁 773）](/core_radiology/images/pediatric/page-782.png)
 
 腸旋轉不良（malrotation）是**胚胎發育過程中腸道未能正常旋轉**，因腸繫膜固定異常而**易發生扭轉（volvulus）**。
 
-**扭轉是真正的外科急症**；若延誤診斷，因腸缺血造成的**死亡率很高**。多數扭轉嬰兒以**新生兒膽汁性嘔吐**表現。
+- **扭轉是真正的外科急症**；若延誤診斷，因腸缺血造成的**死亡率很高**
+- 多數扭轉嬰兒以**新生兒膽汁性嘔吐**表現
 
 **儘管膽汁性嘔吐可能由多種疾病引起**（包括非阻塞性腸胃炎），但**仍必須以緊急上消化道造影排除「腸旋轉不良合併扭轉」**。
 
-**可能存在腸旋轉不良但無扭轉**，且**無扭轉時的症狀可能含糊或不具特異性**，包括**餵食耐受不良（feeding intolerance）**、**週期性嘔吐（cyclic vomiting）**與**吸收不良（malabsorption）**。因此，遇到有腹部症狀的兒童，**務必考慮腸旋轉不良**。
+- **可能存在腸旋轉不良但無扭轉**，且**無扭轉時的症狀可能含糊或不具特異性**，包括**餵食耐受不良（feeding intolerance）**、**週期性嘔吐（cyclic vomiting）**與**吸收不良（malabsorption）**
+- 因此，遇到有腹部症狀的兒童，**務必考慮腸旋轉不良**
 
 | 病程 / Course | 比例 / Proportion |
 |---|---|
@@ -2355,8 +2420,9 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 782 -->
 
-![腸旋轉不良與中腸扭轉（印刷頁 773）](/core_radiology/images/pediatric/page-782.png)
 ## 上消化道造影的解剖判讀與中腸扭轉 / Upper GI Anatomy and Midgut Volvulus {#上消化道造影的解剖判讀與中腸扭轉--upper-gi-anatomy-and-midgut-volvulus}
+
+![上消化道造影的解剖判讀與中腸扭轉（印刷頁 774）](/core_radiology/images/pediatric/page-783.png)
 
 **每次上消化道造影最重要必須呈現的解剖構造，是十二指腸的「C 形彎（C-sweep）」與十二指腸空腸交界處（duodeno-jejunal junction, DJJ）的位置。**
 
@@ -2368,11 +2434,15 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 在**側位（lateral view）**，正常十二指腸先**向後進入腹膜後**，在腹膜後**向下行**，再**向前跨越脊椎**（仍位於腹膜後），最後**向上行**於腹膜腔內與空腸相接於 DJJ。
 
-**腹部 X 光**上，中腸扭轉最常表現為**多段擴張的腸管環**。較少見的是中腸扭轉因**十二指腸阻塞**造成**雙泡徵（double bubble sign）**。然而在腸旋轉不良合併嘔吐的情況下，**平片也可能完全正常**。
+- **腹部 X 光**上，中腸扭轉最常表現為**多段擴張的腸管環**
+- 較少見的是中腸扭轉因**十二指腸阻塞**造成**雙泡徵（double bubble sign）**
+- 然而在腸旋轉不良合併嘔吐的情況下，**平片也可能完全正常**
 
 **中腸扭轉的上消化道經典表現**是**扭轉腸管呈螺旋狀（corkscrew）外觀**。
 
-在**沒有中腸扭轉**的情況下，**腸旋轉不良的診斷可能相當困難**。DJJ 是一個**可動的構造**，在上消化道檢查中可能被推壓移動；**即使是資深的兒科放射科醫師也偶爾會有意見分歧**。提示腸旋轉不良的線索包括：
+- 在**沒有中腸扭轉**的情況下，**腸旋轉不良的診斷可能相當困難**
+- DJJ 是一個**可動的構造**，在上消化道檢查中可能被推壓移動；**即使是資深的兒科放射科醫師也偶爾會有意見分歧**
+- 提示腸旋轉不良的線索包括：
 
 - DJJ **位於十二指腸球部的下方**。
 - DJJ **位於左側 pedicle 的右方**。
@@ -2412,10 +2482,12 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 783 -->
 
-![上消化道造影的解剖判讀與中腸扭轉（印刷頁 774）](/core_radiology/images/pediatric/page-783.png)
 ## 腸套疊 / Intussusception {#腸套疊--intussusception}
 
-腸套疊是由**兩段套疊的腸管互相套入**所造成。**最常見的位置是迴結腸型（ileocolic）**，即**迴腸套入結腸**。
+![腸套疊（印刷頁 775）](/core_radiology/images/pediatric/page-784.png)
+
+- 腸套疊是由**兩段套疊的腸管互相套入**所造成
+- **最常見的位置是迴結腸型（ileocolic）**，即**迴腸套入結腸**
 
 腸套疊相當常見，典型表現為**陣發性絞痛（colicky abdominal pain）**、**「覆盆子果凍樣便」（“currant jelly stool”）**與**可觸及的右下象限腹部腫塊**。
 
@@ -2439,7 +2511,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 **血便合併超音波上厚壁腸管**的鑑別診斷包括**腸套疊**、**結腸炎（colitis）**，以及**罕見得多的腸壁血腫（intramural hematoma）**（例如因**外傷**或**Henoch–Schönlein 紫斑症**所致）。
 
-**第一線治療**是**空氣或對比劑灌腸復位**。選擇空氣或對比劑因機構而異，但**一般認為空氣灌腸較安全**。
+- **第一線治療**是**空氣或對比劑灌腸復位**
+- 選擇空氣或對比劑因機構而異，但**一般認為空氣灌腸較安全**
 
 **復位技術要點**：
 
@@ -2450,7 +2523,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 - **空氣應加壓至最高 120 mm Hg**（在患兒哭鬧暫停時測量；哭鬧中測量會人為偏高）。
 - **成功復位**會顯示**空氣湧入小腸**。
 
-**「3 的規則」（rule of 3's）**適用於**水壓復位（hydrostatic reduction）**：**最多可進行 3 次，每次最多 3 分鐘**。若失敗，**病患必須接受手術**。
+- **「3 的規則」（rule of 3's）**適用於**水壓復位（hydrostatic reduction）**：**最多可進行 3 次，每次最多 3 分鐘**
+- 若失敗，**病患必須接受手術**
 
 **氣動復位（pneumatic reduction）的禁忌症**包括**游離氣體（free air）**、**腹膜炎徵象（peritoneal signs）**與**敗血性休克（septic shock）**。
 
@@ -2474,12 +2548,12 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 784 -->
 
-![腸套疊（印刷頁 775）](/core_radiology/images/pediatric/page-784.png)
 ## 先天性胃食管異常 / Congenital Gastroesophageal Disorders {#先天性胃食管異常--congenital-gastroesophageal-disorders}
 
 ### 食管閉鎖與食管氣管瘻 / Esophageal Atresia and Tracheoesophageal Fistula (TEF) {#食管閉鎖與食管氣管瘻--esophageal-atresia-and-tracheoesophageal-fistula-tef}
 
-**食管閉鎖（esophageal atresia）**是由於**胚胎發育時原始氣管與食管分離錯誤**所造成的**盲端封閉食管**。在胚胎發育過程中，**氣管與食管起初是同一個構造**。
+- **食管閉鎖（esophageal atresia）**是由於**胚胎發育時原始氣管與食管分離錯誤**所造成的**盲端封閉食管**
+- 在胚胎發育過程中，**氣管與食管起初是同一個構造**
 
 **食管閉鎖幾乎總是合併食管氣管瘻（TEF）**。
 
@@ -2510,6 +2584,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 ### 胃竇閉鎖 / Gastric Atresia {#胃竇閉鎖--gastric-atresia}
 
+![胃竇閉鎖（印刷頁 776）](/core_radiology/images/pediatric/page-785.png)
+
 **胃竇閉鎖**是**遠端胃的先天性阻塞**。
 
 - 胃竇閉鎖造成**非膽汁性嘔吐**。與**肥厚性幽門狹窄**不同，**其嘔吐不會逐漸加劇**。
@@ -2536,10 +2612,12 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 785 -->
 
-![胃竇閉鎖（印刷頁 776）](/core_radiology/images/pediatric/page-785.png)
 ## 新生兒腸阻塞：概觀 / Neonatal Bowel Obstruction: Overview {#新生兒腸阻塞概觀--neonatal-bowel-obstruction-overview}
 
-發生於**出生後 24–48 小時內的新生兒腸阻塞**，與兒童或成人的腸阻塞是**完全不同的疾病實體**，其**檢查流程與病因皆不相同**。與成人不同之處在於：**CT 在新生兒腸阻塞的檢查中完全不扮演角色**。
+![新生兒腸阻塞：概觀（印刷頁 777）](/core_radiology/images/pediatric/page-786.png)
+
+- 發生於**出生後 24–48 小時內的新生兒腸阻塞**，與兒童或成人的腸阻塞是**完全不同的疾病實體**，其**檢查流程與病因皆不相同**
+- 與成人不同之處在於：**CT 在新生兒腸阻塞的檢查中完全不扮演角色**
 
 在新生兒，**無法**依腸管環的**位置或大小**來區分**小腸與大腸**。
 
@@ -2552,7 +2630,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 若**初始 X 光無法提供確定診斷**，**近端阻塞的影像檢查首選通常是上消化道造影**；**必須排除中腸扭轉**。
 
-具有**典型臨床與影像表現（十二指腸閉鎖）的病患可僅憑 X 光診斷**。例如，**已知患有唐氏症（Down syndrome）且 X 光呈雙泡徵（double bubble）的嬰兒，即可診斷為十二指腸閉鎖**。
+- 具有**典型臨床與影像表現（十二指腸閉鎖）的病患可僅憑 X 光診斷**
+- 例如，**已知患有唐氏症（Down syndrome）且 X 光呈雙泡徵（double bubble）的嬰兒，即可診斷為十二指腸閉鎖**
 
 在初始 X 光之後，**遠端阻塞的影像檢查首選是對比灌腸（contrast enema）**，其**兼具診斷與治療功能**。
 
@@ -2580,10 +2659,10 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 786 -->
 
-![新生兒腸阻塞：概觀（印刷頁 777）](/core_radiology/images/pediatric/page-786.png)
 ## 先天性近端腸阻塞 / Congenital Proximal Bowel Obstruction {#先天性近端腸阻塞--congenital-proximal-bowel-obstruction}
 
-所有先天性近端腸阻塞的成因都需要外科處理。上消化道造影（upper GI series）的主要目的，是區分中腸扭轉（midgut volvulus，需要緊急手術）與閉鎖（atresia）——後者只需非緊急性修補。
+- 所有先天性近端腸阻塞的成因都需要外科處理
+- 上消化道造影（upper GI series）的主要目的，是區分中腸扭轉（midgut volvulus，需要緊急手術）與閉鎖（atresia）——後者只需非緊急性修補
 
 ### 腸旋轉與中腸扭轉 / Malrotation and Midgut Volvulus {#腸旋轉與中腸扭轉--malrotation-and-midgut-volvulus}
 
@@ -2591,24 +2670,31 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 ### 十二指腸閉鎖、狹窄與瓣膜 / Duodenal Atresia, Stenosis, and Web {#十二指腸閉鎖狹窄與瓣膜--duodenal-atresia-stenosis-and-web}
 
-**十二指腸閉鎖（Duodenal Atresia）**：腹部 X 光（左圖）呈現典型的「雙氣泡徵」（double bubble sign），可見胃擴張（黃色箭頭）與十二指腸球部擴張（紅色箭頭）。上消化道造影（右圖）顯示十二指腸明顯擴張（紅色箭頭），且造影劑未進入空腸。
+![十二指腸閉鎖、狹窄與瓣膜（印刷頁 778）](/core_radiology/images/pediatric/page-787.png)
+
+- **十二指腸閉鎖（Duodenal Atresia）**：腹部 X 光（左圖）呈現典型的「雙氣泡徵」（double bubble sign），可見胃擴張（黃色箭頭）與十二指腸球部擴張（紅色箭頭）
+- 上消化道造影（右圖）顯示十二指腸明顯擴張（紅色箭頭），且造影劑未進入空腸
 
 影像由 Boston Children's Hospital 的 Michael Callahan 醫師與 Carlo Buonomo 醫師提供。
 
-在胚胎發育過程中，十二指腸最初形成為一條實心管。若未再通（recanalization），就會造成一整系列的疾病，從十二指腸閉鎖（最嚴重；完全未再通）到十二指腸狹窄（最輕微；部分再通）。
+- 在胚胎發育過程中，十二指腸最初形成為一條實心管
+- 若未再通（recanalization），就會造成一整系列的疾病，從十二指腸閉鎖（最嚴重；完全未再通）到十二指腸狹窄（最輕微；部分再通）
 
 程度較輕的變異為十二指腸瓣膜（duodenal web），液體仍可通過，但當嬰兒開始吃固形食物時，食物會卡在瓣膜上，形成「風袋畸形」（windsock deformity）。
 
-即使是完全閉鎖，也不代表遠端腸道一定沒有氣體。在罕見的先天性膽總管二叉（bifid common bile duct）情況下，腸氣可經由 Vater 壺腹進入遠端腸道。
+- 即使是完全閉鎖，也不代表遠端腸道一定沒有氣體
+- 在罕見的先天性膽總管二叉（bifid common bile duct）情況下，腸氣可經由 Vater 壺腹進入遠端腸道
 
-約 50% 的十二指腸異常案例合併其他異常，最常見者為唐氏症（Down syndrome）；30% 的十二指腸閉鎖嬰兒患有唐氏症。其他相關異常包括：
+- 約 50% 的十二指腸異常案例合併其他異常，最常見者為唐氏症（Down syndrome）；30% 的十二指腸閉鎖嬰兒患有唐氏症
+- 其他相關異常包括：
 
 - VACTERL 聯合症。
 - 分流型血管心臟病變（ASD、VSD、PDA 與心內膜墊缺損）。
 - 腸旋轉不良（malrotation）。
 - 環狀胰（annular pancreas）：約 20% 的十二指腸閉鎖嬰兒可見。
 
-十二指腸閉鎖的典型 X 光表現為「雙氣泡徵」，由胃與近端十二指腸同時擴張造成，且無遠端腸氣。呈現雙氣泡徵且無遠端腸氣的患者，可推定為十二指腸閉鎖。
+- 十二指腸閉鎖的典型 X 光表現為「雙氣泡徵」，由胃與近端十二指腸同時擴張造成，且無遠端腸氣
+- 呈現雙氣泡徵且無遠端腸氣的患者，可推定為十二指腸閉鎖
 
 若在雙氣泡徵之外仍有遠端腸氣，鑑別診斷包括中腸扭轉、環狀胰（胰臟環繞十二指腸），以及程度較輕的十二指腸閉鎖變異，包括十二指腸狹窄與瓣膜。
 
@@ -2630,12 +2716,12 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 787 -->
 
-![十二指腸閉鎖、狹窄與瓣膜（印刷頁 778）](/core_radiology/images/pediatric/page-787.png)
 ## 空腸閉鎖與狹窄；先天性低位／遠端腸阻塞 / Jejunal Atresia and Stenosis; Congenital Low / Distal Bowel Obstruction {#空腸閉鎖與狹窄先天性低位遠端腸阻塞--jejunal-atresia-and-stenosis-congenital-low--distal-bowel-obstruction}
 
 ### 空腸閉鎖與狹窄 / Jejunal Atresia and Stenosis {#空腸閉鎖與狹窄--jejunal-atresia-and-stenosis}
 
-與十二指腸閉鎖不同，空腸閉鎖（jejunal atresia）最常由宮內血管損傷（in-utero vascular insult）造成。空腸閉鎖比狹窄（stenosis）更常見。
+- 與十二指腸閉鎖不同，空腸閉鎖（jejunal atresia）最常由宮內血管損傷（in-utero vascular insult）造成
+- 空腸閉鎖比狹窄（stenosis）更常見
 
 「三氣泡徵」（triple bubble）被描述為代表近端空腸閉鎖，在 X 光上可表現為胃、十二指腸與近端空腸擴張。
 
@@ -2643,11 +2729,16 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 執行造影灌腸（contrast enema）的目的，是將低位／遠端腸阻塞的「外科性」成因（遠端閉鎖與 Hirschsprung 疾病）與「內科性」成因（胎便性腸梗阻 meconium ileus 與功能性未成熟 functional immaturity）區分開來。
 
-執行造影灌腸時，使用等張或輕度高張的水溶性造影劑，例如 17% 的 cysto-Conray II 溶液（400 mosm）。高滲透壓造影劑可能造成液體轉移，導致病人狀況不穩。
+- 執行造影灌腸時，使用等張或輕度高張的水溶性造影劑，例如 17% 的 cysto-Conray II 溶液（400 mosm）
+- 高滲透壓造影劑可能造成液體轉移，導致病人狀況不穩
 
 ### 微小結腸（microcolon）的鑑別診斷 / Differential Diagnosis of Microcolon {#微小結腸microcolon的鑑別診斷--differential-diagnosis-of-microcolon}
 
-微小結腸（microcolon）是異常細小的結腸（通常直徑 <1 cm），為廢用（disuse）所致。形成微小結腸必須有相對遠端的阻塞，因為近端腸道分泌的腸液（succus entericus）會防止微小結腸發生。微小結腸最常見的兩個成因是胎便性腸梗阻與迴腸閉鎖。
+![微小結腸（microcolon）的鑑別診斷（印刷頁 779）](/core_radiology/images/pediatric/page-788.png)
+
+- 微小結腸（microcolon）是異常細小的結腸（通常直徑 <1 cm），為廢用（disuse）所致
+- 形成微小結腸必須有相對遠端的阻塞，因為近端腸道分泌的腸液（succus entericus）會防止微小結腸發生
+- 微小結腸最常見的兩個成因是胎便性腸梗阻與迴腸閉鎖
 
 | 病因 / Cause | 造影灌腸表現 / Contrast Enema Appearance |
 |---|---|
@@ -2656,7 +2747,8 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 | 全結腸型 Hirschsprung 病 / Total colonic Hirschsprung | 全結腸型 Hirschsprung 罕見；較常見的節段型侵犯不會造成微小結腸 |
 | 巨膀胱－微小結腸－腸低蠕動綜合徵 / Megacystic-microcolon-hypoperistalsis syndrome | 列為微小結腸的成因之一 |
 
-胎便性腸梗阻可伴隨腹腔與陰囊鈣化。相較之下，小左結腸症候群（small left colon syndrome，亦具迷惑性地稱為胎便栓塞症候群 meconium plug syndrome；後文另述）**不會**造成微小結腸。
+- 胎便性腸梗阻可伴隨腹腔與陰囊鈣化
+- 相較之下，小左結腸症候群（small left colon syndrome，亦具迷惑性地稱為胎便栓塞症候群 meconium plug syndrome；後文另述）**不會**造成微小結腸
 
 空腸閉鎖**不會**造成微小結腸，因為其產生的腸液量足以供養結腸。
 
@@ -2676,16 +2768,17 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 788 -->
 
-![微小結腸（microcolon）的鑑別診斷（印刷頁 779）](/core_radiology/images/pediatric/page-788.png)
 ## 胎便性腸梗阻與迴腸／結腸閉鎖 / Meconium Ileus and Ileal / Colonic Atresia {#胎便性腸梗阻與迴腸結腸閉鎖--meconium-ileus-and-ileal--colonic-atresia}
 
 ### 胎便性腸梗阻 / Meconium Ileus {#胎便性腸梗阻--meconium-ileus}
 
-**胎便性腸梗阻（Meconium Ileus）**：新生兒腹部 X 光（左圖）呈現低位／遠端小腸阻塞，可見胃擴張以及多條擴張腸襻延伸至骨盆。造影灌腸（右圖）顯示極細小的結腸（微小結腸 microcolon；紅色箭頭），遠端迴腸內有多發圓形充盈缺損（黃色箭頭），代表黏稠的胎便。
+- **胎便性腸梗阻（Meconium Ileus）**：新生兒腹部 X 光（左圖）呈現低位／遠端小腸阻塞，可見胃擴張以及多條擴張腸襻延伸至骨盆
+- 造影灌腸（右圖）顯示極細小的結腸（微小結腸 microcolon；紅色箭頭），遠端迴腸內有多發圓形充盈缺損（黃色箭頭），代表黏稠的胎便
 
 影像由 Boston Children's Hospital 的 Michael Callahan 醫師與 Carlo Buonomo 醫師提供。
 
-胎便性腸梗阻因遠端迴腸與結腸內黏稠的胎便而造成腸阻塞。可能併發穿孔，導致胎便性腹膜炎（meconium peritonitis），並可造成腹腔與陰囊鈣化。
+- 胎便性腸梗阻因遠端迴腸與結腸內黏稠的胎便而造成腸阻塞
+- 可能併發穿孔，導致胎便性腹膜炎（meconium peritonitis），並可造成腹腔與陰囊鈣化
 
 胎便性腸梗阻是囊性纖維化（cystic fibrosis）最早期的表現：幾乎 100% 的胎便性腸梗阻嬰兒患有囊性纖維化，而約 10% 的囊性纖維化嬰兒有胎便性腸梗阻。
 
@@ -2693,11 +2786,16 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 造影灌腸顯示微小結腸（胎便性腸梗阻是所有微小結腸中最小者），以及擴張的迴腸內含多發圓形充盈缺損，代表黏稠胎便。
 
-胎便性腸梗阻同時以治療性水溶性 Gastrografin 灌腸進行診斷與治療，其作用為稀釋黏稠的胎便。通常需要多次嘗試才能完全清除胎便，審慎地逐漸提高造影劑滲透壓可能有幫助。少數無效的病例可能需要手術治療。
+- 胎便性腸梗阻同時以治療性水溶性 Gastrografin 灌腸進行診斷與治療，其作用為稀釋黏稠的胎便
+- 通常需要多次嘗試才能完全清除胎便，審慎地逐漸提高造影劑滲透壓可能有幫助
+- 少數無效的病例可能需要手術治療
 
 ### 迴腸閉鎖／結腸閉鎖 / Ileal Atresia / Colonic Atresia {#迴腸閉鎖結腸閉鎖--ileal-atresia--colonic-atresia}
 
-迴腸或結腸的閉鎖，其特徵是在閉鎖節段**遠端**出現微小結腸。結腸閉鎖罕見。
+![迴腸閉鎖／結腸閉鎖（印刷頁 780）](/core_radiology/images/pediatric/page-789.png)
+
+- 迴腸或結腸的閉鎖，其特徵是在閉鎖節段**遠端**出現微小結腸
+- 結腸閉鎖罕見
 
 與胎便性腸梗阻不同，迴腸與結腸閉鎖在阻塞處呈現**突然截斷**，且腸道內沒有充盈缺損。
 
@@ -2715,10 +2813,13 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 789 -->
 
-![迴腸閉鎖／結腸閉鎖（印刷頁 780）](/core_radiology/images/pediatric/page-789.png)
 ## 小左結腸症候群／結腸功能性未成熟／胎便栓塞症候群 / Small Left Colon / Functional Immaturity of the Colon (FIC) / Meconium Plug Syndrome {#小左結腸症候群結腸功能性未成熟胎便栓塞症候群--small-left-colon--functional-immaturity-of-the-colon-fic--meconium-plug-syndrome}
 
-**小左結腸（Small Left Colon）**：腹部平片（左圖）顯示多條擴張腸襻，提示遠端阻塞型態。造影灌腸（右圖）顯示左側結腸管徑中度縮減，並在脾曲處（箭頭）出現突然的管徑轉變。直腸管徑正常。
+![小左結腸症候群／結腸功能性未成熟／胎便栓塞症候群（印刷頁 781）](/core_radiology/images/pediatric/page-790.png)
+
+- **小左結腸（Small Left Colon）**：腹部平片（左圖）顯示多條擴張腸襻，提示遠端阻塞型態
+- 造影灌腸（右圖）顯示左側結腸管徑中度縮減，並在脾曲處（箭頭）出現突然的管徑轉變
+- 直腸管徑正常
 
 影像由 University of Virginia Health System 的 Michael Hanley 醫師提供。
 
@@ -2726,15 +2827,20 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 小左結腸由結腸神經節細胞的暫時性功能未成熟所造成，導致出生後遠端結腸蠕動異常。
 
-小左結腸較常見於早產新生兒、母親因（先）子癇症接受硫酸鎂治療的新生兒，以及糖尿病母親所生的嬰兒。小左結腸嬰兒幾乎都是其他方面完全正常者。
+- 小左結腸較常見於早產新生兒、母親因（先）子癇症接受硫酸鎂治療的新生兒，以及糖尿病母親所生的嬰兒
+- 小左結腸嬰兒幾乎都是其他方面完全正常者
 
-與胎便性腸梗阻不同，小左結腸**不是**微小結腸的成因。雖然名稱令人混淆（「胎便栓塞症候群」），小左結腸與囊性纖維化／胎便性腸梗阻並無關聯。
+- 與胎便性腸梗阻不同，小左結腸**不是**微小結腸的成因
+- 雖然名稱令人混淆（「胎便栓塞症候群」），小左結腸與囊性纖維化／胎便性腸梗阻並無關聯
 
-腹部 X 光的影像表現為遠端阻塞型態。造影灌腸顯示小左結腸，通常在脾曲處可見明確的管徑轉變。小左結腸內可能出現代表胎便栓塞的充盈缺損。
+- 腹部 X 光的影像表現為遠端阻塞型態
+- 造影灌腸顯示小左結腸，通常在脾曲處可見明確的管徑轉變
+- 小左結腸內可能出現代表胎便栓塞的充盈缺損
 
 與胎便性腸梗阻類似，水溶性灌腸既可診斷也可治療，小左結腸多以保守療法即可緩解。
 
-主要的鑑別考量是 Hirschsprung 疾病，其轉變點亦位於脾曲。相較於小左結腸，Hirschsprung 疾病的直腸不會可擴張（不可屈曲），且灌腸治療後也不會緩解。
+- 主要的鑑別考量是 Hirschsprung 疾病，其轉變點亦位於脾曲
+- 相較於小左結腸，Hirschsprung 疾病的直腸不會可擴張（不可屈曲），且灌腸治療後也不會緩解
 
 > **臨床要點**：小左結腸與 Hirschsprung 疾病的鑑別要點有兩點——直腸是否可擴張、以及灌腸治療後是否緩解。
 
@@ -2756,34 +2862,44 @@ TAPVR 的分類依據異常靜脈引流相對於心臟的位置：
 
 <!-- page: 790 -->
 
-![小左結腸症候群／結腸功能性未成熟／胎便栓塞症候群（印刷頁 781）](/core_radiology/images/pediatric/page-790.png)
 ## Hirschsprung 疾病 / Hirschsprung Disease {#hirschsprung-疾病--hirschsprung-disease}
 
 **Hirschsprung 疾病**：造影灌腸的正位（左圖）與側位（右圖）局部攝影顯示直腸變窄，其直徑小於乙狀結腸。
 
 影像由 Boston Children's Hospital 的 Michael Callahan 醫師與 Carlo Buonomo 醫師提供。
 
-Hirschsprung 疾病為遠端腸段無神經節症（aganglionosis），造成受累腸段無法放鬆。病因是迷走神經脊突細胞（vagal neural crest cells）正常由頭側向尾側（近端至遠端）向遠端腸壁的遷移受阻。因此肛門必定受累，且受累腸段為連續、由遠端向近端延伸。Hirschsprung 疾病的嚴重程度從僅內肛門括約肌受累（超短節段型）到整段結腸受累（極罕見，約佔 1–3%，且通常與遺傳有關）。
+- Hirschsprung 疾病為遠端腸段無神經節症（aganglionosis），造成受累腸段無法放鬆
+- 病因是迷走神經脊突細胞（vagal neural crest cells）正常由頭側向尾側（近端至遠端）向遠端腸壁的遷移受阻
+- 因此肛門必定受累，且受累腸段為連續、由遠端向近端延伸
+- Hirschsprung 疾病的嚴重程度從僅內肛門括約肌受累（超短節段型）到整段結腸受累（極罕見，約佔 1–3%，且通常與遺傳有關）
 
-多達三分之一的 Hirschsprung 病例會發展出一種類似壞死性腸腸炎（necrotizing enterocolitis）的腸炎型態，其中毒性巨結腸（toxic megacolon）為其暴發型。因此，在出現腸阻塞與腸炎的新生兒，必須考慮 Hirschsprung 疾病。
+- 多達三分之一的 Hirschsprung 病例會發展出一種類似壞死性腸腸炎（necrotizing enterocolitis）的腸炎型態，其中毒性巨結腸（toxic megacolon）為其暴發型
+- 因此，在出現腸阻塞與腸炎的新生兒，必須考慮 Hirschsprung 疾病
 
-有多種先天性異常與 Hirschsprung 疾病相關。5% 有第 21 號染色體三體（trisomy 21），但與唐氏症的關聯度遠低於十二指腸閉鎖。
+- 有多種先天性異常與 Hirschsprung 疾病相關
+- 5% 有第 21 號染色體三體（trisomy 21），但與唐氏症的關聯度遠低於十二指腸閉鎖
 
-Hirschsprung 疾病的 X 光表現為遠端腸阻塞型態。造影灌腸通常在痙攣、狹窄的遠端結腸與擴張的近端結腸交界處呈現**錐狀轉變區**（cone-shaped transition zone），以側位影像看得最清楚。
+- Hirschsprung 疾病的 X 光表現為遠端腸阻塞型態
+- 造影灌腸通常在痙攣、狹窄的遠端結腸與擴張的近端結腸交界處呈現**錐狀轉變區**（cone-shaped transition zone），以側位影像看得最清楚
 
-正常情況下直腸直徑大於乙狀結腸。當 Hirschsprung 侵犯直腸時，直腸處於痙攣狀態而乙狀結腸擴張，造成直腸：乙狀結腸比例異常地小於 1（即直腸比乙狀結腸小）。
+- 正常情況下直腸直徑大於乙狀結腸
+- 當 Hirschsprung 侵犯直腸時，直腸處於痙攣狀態而乙狀結腸擴張，造成直腸：乙狀結腸比例異常地小於 1（即直腸比乙狀結腸小）
 
 在超短節段型受累的新生兒，初始的造影灌腸可能完全正常。
 
 相較於結腸功能性未成熟，Hirschsprung 疾病的轉變區是**漸細（tapered）**而非突然轉變。
 
-確定的診斷依靠腸壁的吸引式活檢（suction biopsy）。治療以手術為主。
+- 確定的診斷依靠腸壁的吸引式活檢（suction biopsy）
+- 治療以手術為主
 
 ### 巨膀胱－微小結腸－腸低蠕動綜合徵 / Megacystis-Microcolon-Intestinal Hypoperistalsis Syndrome {#巨膀胱微小結腸腸低蠕動綜合徵--megacystis-microcolon-intestinal-hypoperistalsis-syndrome}
 
-巨膀胱－微小結腸－腸低蠕動綜合徵是罕見的先天性膀胱與腸道平滑肌功能喪失，造成腸蠕動消失、微小結腸，以及擴張但無阻塞的尿膀胱。通常是致命的。
+- 巨膀胱－微小結腸－腸低蠕動綜合徵是罕見的先天性膀胱與腸道平滑肌功能喪失，造成腸蠕動消失、微小結腸，以及擴張但無阻塞的尿膀胱
+- 通常是致命的
 
 ### 腸旋轉不良 / Malrotation {#腸旋轉不良--malrotation}
+
+![腸旋轉不良（印刷頁 782）](/core_radiology/images/pediatric/page-791.png)
 
 雖然不常見，腸旋轉不良的 Ladd 束帶（Ladd bands）也可能造成遠端阻塞。
 
@@ -2809,12 +2925,13 @@ Hirschsprung 疾病的 X 光表現為遠端腸阻塞型態。造影灌腸通常�
 
 <!-- page: 791 -->
 
-![腸旋轉不良（印刷頁 782）](/core_radiology/images/pediatric/page-791.png)
 ## 兒童期腸阻塞 / Childhood Bowel Obstruction {#兒童期腸阻塞--childhood-bowel-obstruction}
 
-兒童期腸阻塞的病因與影像表現與成人重疊。成人腸阻塞最常由**腸粘連（adhesions）**與**疝（hernia）**造成，兩者在兒童也可能引起阻塞。
+- 兒童期腸阻塞的病因與影像表現與成人重疊
+- 成人腸阻塞最常由**腸粘連（adhesions）**與**疝（hernia）**造成，兩者在兒童也可能引起阻塞
 
-兒童期腸阻塞最常見的成因可用首字母縮寫 **AAIIMM** 記憶：闌尾炎（appendicitis）、腸粘連（adhesions）、內／腹股溝疝（internal/inguinal hernia）、腸套疊（intussusception）、Meckel 憩室（Meckel's）、腸旋轉不良（malrotation）。兒童期腸阻塞多數需要外科治療。
+- 兒童期腸阻塞最常見的成因可用首字母縮寫 **AAIIMM** 記憶：闌尾炎（appendicitis）、腸粘連（adhesions）、內／腹股溝疝（internal/inguinal hernia）、腸套疊（intussusception）、Meckel 憩室（Meckel's）、腸旋轉不良（malrotation）
+- 兒童期腸阻塞多數需要外科治療
 
 ### 闌尾炎 / Appendicitis {#闌尾炎--appendicitis-1}
 
@@ -2822,17 +2939,23 @@ Hirschsprung 疾病的 X 光表現為遠端腸阻塞型態。造影灌腸通常�
 
 ### 腹股溝疝 / Inguinal Hernia {#腹股溝疝--inguinal-hernia}
 
-**腹股溝疝（Inguinal hernia）**：正位 X 光（左圖）顯示多條擴張腸襻，左側半陰囊區域（箭頭）可見不透明影增加的跡象。陰囊橫切超音波（右上圖）顯示左側半陰囊內有多條腸襻（箭頭）。左側睪丸的矢狀面超音波（右下圖）顯示睪丸本身正常（卡尺），但被陰囊內的腸襻推移而移位。
+- **腹股溝疝（Inguinal hernia）**：正位 X 光（左圖）顯示多條擴張腸襻，左側半陰囊區域（箭頭）可見不透明影增加的跡象
+- 陰囊橫切超音波（右上圖）顯示左側半陰囊內有多條腸襻（箭頭）
+- 左側睪丸的矢狀面超音波（右下圖）顯示睪丸本身正常（卡尺），但被陰囊內的腸襻推移而移位
 
 影像由 Boston Children's Hospital 的 Michael Callahan 醫師提供。
 
 **間接腹股溝疝（Indirect inguinal hernia）** 是因為腹膜鞘突（processus vaginalis）未閉合，經由腹股溝環維持與陰囊的腹膜交通。
 
-造成阻塞的腹股溝疝，其影像表現為腹股溝管或陰囊內可見腸道。不可回納的疝（irreducible hernia）有腸管嵌頓的風險。
+- 造成阻塞的腹股溝疝，其影像表現為腹股溝管或陰囊內可見腸道
+- 不可回納的疝（irreducible hernia）有腸管嵌頓的風險
 
 ### Crohn 疾病 / Crohn Disease {#crohn-疾病--crohn-disease}
 
-Crohn 疾病可能是腸阻塞的成因。新診斷的 Crohn 疾病中，最多 30% 表現於小兒族群。
+![Crohn 疾病（印刷頁 783）](/core_radiology/images/pediatric/page-792.png)
+
+- Crohn 疾病可能是腸阻塞的成因
+- 新診斷的 Crohn 疾病中，最多 30% 表現於小兒族群
 
 > **臨床要點**：兒童腸阻塞的常見病因可用 **AAIIMM** 助記：闌尾炎、腸粘連、內／腹股溝疝、腸套疊、Meckel 憩室、腸旋轉不良。
 
@@ -2850,10 +2973,11 @@ Crohn 疾病可能是腸阻塞的成因。新診斷的 Crohn 疾病中，最多 
 
 <!-- page: 792 -->
 
-![Crohn 疾病（印刷頁 783）](/core_radiology/images/pediatric/page-792.png)
 ## 肛門直腸畸形 / Anorectal Malformations {#肛門直腸畸形--anorectal-malformations}
 
 ### 肛門閉鎖 / Imperforate Anus {#肛門閉鎖--imperforate-anus}
+
+![肛門閉鎖（印刷頁 784）](/core_radiology/images/pediatric/page-793.png)
 
 肛門閉鎖（imperforate anus）是臨床診斷，但放射學檢查有助於評估阻塞的高度；以**恥骨直腸肌吊帶（puborectalis sling）**為界，分為高位與低位。
 
@@ -2866,7 +2990,9 @@ Crohn 疾病可能是腸阻塞的成因。新診斷的 Crohn 疾病中，最多 
 
 高位病灶（恥骨直腸肌吊帶以上）與泌尿生殖－直腸瘻管、腰骶異常或 VACTERL 聯合症相關，需要較複雜的治療。
 
-男性可能存在直腸與後尿道或膀胱之間的瘻管。女性可能存在直腸陰道瘻管（rectovaginal fistula）。兩性皆先做結腸造口術（colostomy），之後再進行確定性修補。
+- 男性可能存在直腸與後尿道或膀胱之間的瘻管
+- 女性可能存在直腸陰道瘻管（rectovaginal fistula）
+- 兩性皆先做結腸造口術（colostomy），之後再進行確定性修補
 
 低位病灶（恥骨直腸肌吊帶以下）與會陰瘻管（perineal fistula）相關，採單階段會陰肛門成形術（perineal anoplasty）治療。
 
@@ -2893,7 +3019,6 @@ Crohn 疾病可能是腸阻塞的成因。新診斷的 Crohn 疾病中，最多 
 
 <!-- page: 793 -->
 
-![肛門閉鎖（印刷頁 784）](/core_radiology/images/pediatric/page-793.png)
 ## 新生兒膽汁淤積性黃疸 / Neonatal Cholestatic Jaundice {#新生兒膽汁淤積性黃疸--neonatal-cholestatic-jaundice}
 
 ### 病理性新生兒黃疸的處理流程 / Approach to Pathologic Neonatal Jaundice {#病理性新生兒黃疸的處理流程--approach-to-pathologic-neonatal-jaundice}
@@ -2902,7 +3027,8 @@ Crohn 疾病可能是腸阻塞的成因。新診斷的 Crohn 疾病中，最多 
 
 結合型高膽紅素血症的病因非常多，包括膽道閉鎖（biliary atresia）、Alagille 症候群、膽酸合成缺陷、代謝疾病、α1-抗胰蛋白酶缺乏症（alpha-1-antitrypsin deficiency）與感染性病因。
 
-影像檢查的目標，是區分**膽道閉鎖**（約佔新生兒結合型高膽紅素血症的 25%）與「**新生兒肝炎**（neonatal hepatitis）」——後者其實是所有其他病因的統稱。**99mTc-HIDA 肝膽顯像（hepatobiliary scintigraphy）**是區分這兩者的首選檢查。
+- 影像檢查的目標，是區分**膽道閉鎖**（約佔新生兒結合型高膽紅素血症的 25%）與「**新生兒肝炎**（neonatal hepatitis）」——後者其實是所有其他病因的統稱
+- **99mTc-HIDA 肝膽顯像（hepatobiliary scintigraphy）**是區分這兩者的首選檢查
 
 患者可先給予 5 天的苯巴比妥（phenobarbital）以刺激肝細胞活性，再進行肝膽顯像（各醫療機構做法不同）。
 
@@ -2912,15 +3038,25 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 ### 膽道閉鎖 / Biliary Atresia {#膽道閉鎖--biliary-atresia}
 
-膽道閉鎖的特徵是累及肝內與肝外膽管的**閉塞性膽管病（obliterative cholangiopathy）**，造成阻塞型（結合型）黃疸。若未治療，膽道閉鎖會導致進行性肝硬化並在幼年早期死亡。
+- 膽道閉鎖的特徵是累及肝內與肝外膽管的**閉塞性膽管病（obliterative cholangiopathy）**，造成阻塞型（結合型）黃疸
+- 若未治療，膽道閉鎖會導致進行性肝硬化並在幼年早期死亡
 
-肝膽顯像顯示肝臟的示蹤劑攝取與清除正常，但**沒有排入小腸**。超音波無法區分膽道閉鎖與新生兒肝炎。超音波上未見膽囊提示膽道閉鎖，但仍有 20% 的病例可見膽囊。
+- 肝膽顯像顯示肝臟的示蹤劑攝取與清除正常，但**沒有排入小腸**
+- 超音波無法區分膽道閉鎖與新生兒肝炎
+- 超音波上未見膽囊提示膽道閉鎖，但仍有 20% 的病例可見膽囊
 
-膽道閉鎖的治療是 **Kasai 門脈空腸造口術（portoenterostomy）**，屬姑息性手術。整個肝外膽道樹被切除，並將空腸 Roux 環（jejunal Roux loop）與肝包膜的切面吻合。80% 手術成功的兒童可存活 10 年，屆時需要肝臟移植。
+- 膽道閉鎖的治療是 **Kasai 門脈空腸造口術（portoenterostomy）**，屬姑息性手術
+- 整個肝外膽道樹被切除，並將空腸 Roux 環（jejunal Roux loop）與肝包膜的切面吻合
+- 80% 手術成功的兒童可存活 10 年，屆時需要肝臟移植
 
 ### 新生兒肝炎 / Neonatal Hepatitis {#新生兒肝炎--neonatal-hepatitis}
 
-**新生兒肝炎（Neonatal hepatitis）**：60 分鐘延遲相 HIDA 顯像（左圖）顯示肝臟有攝取，但血池活度偏高。膀胱與尿布中可見攝取，但腸道無攝取。24 小時延遲影像（中圖）同樣未見腸道攝取，但肝臟持續異常攝取，提示肝炎。數週後追蹤檢查（右圖）顯示肝臟攝取正常且可見小腸排泄，確認新生兒肝炎已緩解。
+![新生兒肝炎（印刷頁 785）](/core_radiology/images/pediatric/page-794.png)
+
+- **新生兒肝炎（Neonatal hepatitis）**：60 分鐘延遲相 HIDA 顯像（左圖）顯示肝臟有攝取，但血池活度偏高
+- 膀胱與尿布中可見攝取，但腸道無攝取
+- 24 小時延遲影像（中圖）同樣未見腸道攝取，但肝臟持續異常攝取，提示肝炎
+- 數週後追蹤檢查（右圖）顯示肝臟攝取正常且可見小腸排泄，確認新生兒肝炎已緩解
 
 影像由 University of Virginia Health System 的 Michael Hanley 醫師提供。
 
@@ -2946,10 +3082,10 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 <!-- page: 794 -->
 
-![新生兒肝炎（印刷頁 785）](/core_radiology/images/pediatric/page-794.png)
 ## 小兒肝膽腫瘤與腫塊 / Pediatric Hepatobiliary Neoplasia and Masses {#小兒肝膽腫瘤與腫塊--pediatric-hepatobiliary-neoplasia-and-masses}
 
-原發性小兒肝臟腫瘤在病理上可分為**上皮性**（源自肝細胞）與**間質性**（mesenchymal），兩類各自又可分為良性與惡性。在神經母細胞瘤（neuroblastoma）、Wilms 腫瘤（Wilms tumor）、肉瘤（sarcoma）與 Burkitt 淋巴瘤的背景下，可見肝臟轉移。
+- 原發性小兒肝臟腫瘤在病理上可分為**上皮性**（源自肝細胞）與**間質性**（mesenchymal），兩類各自又可分為良性與惡性
+- 在神經母細胞瘤（neuroblastoma）、Wilms 腫瘤（Wilms tumor）、肉瘤（sarcoma）與 Burkitt 淋巴瘤的背景下，可見肝臟轉移
 
 通常可以依影像外觀（囊性或實性）、患者年齡與腫瘤標記（AFP 與內皮生長因子）來縮小鑑別診斷範圍。
 
@@ -2959,17 +3095,26 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 #### 間質性錯構瘤 / Mesenchymal Hamartoma {#間質性錯構瘤--mesenchymal-hamartoma}
 
-**間質性錯構瘤（Mesenchymal hamartoma）**：冠狀位（左圖）與矢狀位對比增強 CT 顯示一個來自肝右葉的巨大不均質腫塊。被推擠的肝實質在腫塊周圍形成**爪徵（claw sign）**（黃色箭頭）。腫塊內有囊狀空間（紅色箭頭）與門靜脈碎片；然而腫塊整體外觀以實性為主，可能是因為有大量小到 CT 分辨率以下的微小囊泡。
+![間質性錯構瘤（印刷頁 786）](/core_radiology/images/pediatric/page-795.png)
+
+- **間質性錯構瘤（Mesenchymal hamartoma）**：冠狀位（左圖）與矢狀位對比增強 CT 顯示一個來自肝右葉的巨大不均質腫塊
+- 被推擠的肝實質在腫塊周圍形成**爪徵（claw sign）**（黃色箭頭）
+- 腫塊內有囊狀空間（紅色箭頭）與門靜脈碎片；然而腫塊整體外觀以實性為主，可能是因為有大量小到 CT 分辨率以下的微小囊泡
 
 影像由 University of Virginia Health System 的 Michael Hanley 醫師提供。
 
-間質性錯構瘤是良性、多囊性、錯構瘤性的病變，內含發育異常的膽管、門靜脈碎片，且常見**髓外造血**（extramedullary hematopoiesis）。它被視為發育異常（developmental anomaly）而非真正的腫瘤。
+- 間質性錯構瘤是良性、多囊性、錯構瘤性的病變，內含發育異常的膽管、門靜脈碎片，且常見**髓外造血**（extramedullary hematopoiesis）
+- 它被視為發育異常（developmental anomaly）而非真正的腫瘤
 
 多數兒童在新生兒期即以腹部腫塊增大而就診，80% 在 2 歲前確診。
 
 與肝母細胞瘤（hepatoblastoma）不同，其腫瘤標記並未升高。
 
-間質性錯構瘤的影像通常呈現大型多囊性腹部腫塊。囊泡大小不一，可含有碎屑，並可被厚薄不等的間隔（septae）分隔。出血與鈣化罕見。有時囊泡極小，使腫塊外觀呈實性。腫塊大時可推移血管。
+- 間質性錯構瘤的影像通常呈現大型多囊性腹部腫塊
+- 囊泡大小不一，可含有碎屑，並可被厚薄不等的間隔（septae）分隔
+- 出血與鈣化罕見
+- 有時囊泡極小，使腫塊外觀呈實性
+- 腫塊大時可推移血管
 
 手術切除幾乎總是可以治癒。
 
@@ -2989,12 +3134,12 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 <!-- page: 795 -->
 
-![間質性錯構瘤（印刷頁 786）](/core_radiology/images/pediatric/page-795.png)
 ## 總膽管囊腫、Caroli 疾病與肝膽實性腫塊 / Choledochal Cyst, Caroli Disease, and Solid Liver / Biliary Masses {#總膽管囊腫caroli-疾病與肝膽實性腫塊--choledochal-cyst-caroli-disease-and-solid-liver--biliary-masses}
 
 ### 總膽管囊腫／Caroli 疾病 / Choledochal Cyst / Caroli Disease {#總膽管囊腫caroli-疾病--choledochal-cyst--caroli-disease}
 
-總膽管囊腫（choledochal cyst，包含 Caroli 疾病）代表膽管的囊狀或梭形擴張，可以是節段性或瀰漫性。總膽管囊腫的 Todani 分類已在胃腸道影像章節進一步討論。
+- 總膽管囊腫（choledochal cyst，包含 Caroli 疾病）代表膽管的囊狀或梭形擴張，可以是節段性或瀰漫性
+- 總膽管囊腫的 Todani 分類已在胃腸道影像章節進一步討論
 
 ### 膽囊積水 / Gallbladder Hydrops {#膽囊積水--gallbladder-hydrops}
 
@@ -3003,6 +3148,8 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 ### 肝／膽道實性腫塊 / Solid Liver / Biliary Masses {#肝膽道實性腫塊--solid-liver--biliary-masses}
 
 #### 小兒放射學中「血管瘤」一詞的用語 / Terminology of "Hemangioma" in Pediatric Radiology {#小兒放射學中血管瘤一詞的用語--terminology-of-hemangioma-in-pediatric-radiology}
+
+![小兒放射學中「血管瘤」一詞的用語（印刷頁 787）](/core_radiology/images/pediatric/page-796.png)
 
 | 分類 / Classification | 內容 / Contents |
 |---|---|
@@ -3013,13 +3160,17 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 小兒血管異常可分為**血管性腫瘤**（vascular neoplasms）與**血管性畸形**（vascular malformations）：前者以新的細胞生長為特徵，後者則是血管排列紊亂而無細胞生長。
 
-小兒血管異常也可依生理學分為高流量與低流量病變。高流量血管畸形包括動靜脈畸形（AVM）與動靜脈瘻管（AVF）；低流量血管畸形包括靜脈畸形與淋巴管畸形。
+- 小兒血管異常也可依生理學分為高流量與低流量病變
+- 高流量血管畸形包括動靜脈畸形（AVM）與動靜脈瘻管（AVF）；低流量血管畸形包括靜脈畸形與淋巴管畸形
 
-「血管瘤」（hemangioma）一詞是常見的困惑來源。特別是「肝血管瘤」（hepatic hemangioma）一詞，常被用來形容多種彼此無關的血管病變，包括嬰兒型血管瘤、可能具惡性的血管內皮瘤（hemangioendothelioma），以及良性的靜脈畸形。
+- 「血管瘤」（hemangioma）一詞是常見的困惑來源
+- 特別是「肝血管瘤」（hepatic hemangioma）一詞，常被用來形容多種彼此無關的血管病變，包括嬰兒型血管瘤、可能具惡性的血管內皮瘤（hemangioendothelioma），以及良性的靜脈畸形
 
-依上述分類，成人常見的肝臟「血管瘤」其實是**靜脈畸形**。同樣地，Maffucci 症候群的軟組織「血管瘤」也屬於靜脈畸形。
+- 依上述分類，成人常見的肝臟「血管瘤」其實是**靜脈畸形**
+- 同樣地，Maffucci 症候群的軟組織「血管瘤」也屬於靜脈畸形
 
-嬰兒型血管瘤與血管內皮瘤（下一頁討論）屬於**高流量血管性腫瘤**。血管內皮瘤具有轉移的潛能。
+- 嬰兒型血管瘤與血管內皮瘤（下一頁討論）屬於**高流量血管性腫瘤**
+- 血管內皮瘤具有轉移的潛能
 
 > **臨床要點**：「肝血管瘤」是籠統用語，可能指嬰兒型血管瘤、具惡性潛能的血管內皮瘤，或良性靜脈畸形——治療與預後差異很大，必須先分類清楚。
 
@@ -3041,30 +3192,40 @@ HIDA 顯影劑會被主動運送進入肝細胞，並分泌（而非結合）至
 
 <!-- page: 796 -->
 
-![小兒放射學中「血管瘤」一詞的用語（印刷頁 787）](/core_radiology/images/pediatric/page-796.png)
 ## 嬰兒型血管瘤／血管內皮瘤 / Infantile Hemangioma / Hemangioendothelioma {#嬰兒型血管瘤血管內皮瘤--infantile-hemangioma--hemangioendothelioma}
+
+![嬰兒型血管瘤／血管內皮瘤（印刷頁 788）](/core_radiology/images/pediatric/page-797.png)
 
 肝臟的灰階超音波（左圖）與能量杜卜勒（power Doppler）超音波（右圖）顯示肝右葉有一個高血流量腫塊（箭頭），內含多發擴張的血管腔隙。
 
-T2 加權 MRI 顯示右肝為 T2 高訊號、以實性為主的腫塊（箭頭）。T1 加權脂肪抑制 MRI 顯示腫塊相較於肝臟以 T1 低訊號為主。
+- T2 加權 MRI 顯示右肝為 T2 高訊號、以實性為主的腫塊（箭頭）
+- T1 加權脂肪抑制 MRI 顯示腫塊相較於肝臟以 T1 低訊號為主
 
 對比增強的早期 T1 加權脂肪抑制 MRI 顯示腫瘤**周邊**明顯強化。
 
 對比增強的晚期 T1 加權脂肪抑制 MRI 顯示腫瘤**中央**無對比劑填充，與腫瘤壞死相符。
 
-嬰兒型血管瘤。影像由 University of Virginia Health System 的 Michael Hanley 醫師提供。
+- 嬰兒型血管瘤
+- 影像由 University of Virginia Health System 的 Michael Hanley 醫師提供
 
-嬰兒型血管瘤與血管內皮瘤是相關的血管性腫瘤，也是最常見的肝臟血管性腫塊，至多 25% 可造成充血性心臟衰竭（CHF）。腫瘤標記並未升高。
+- 嬰兒型血管瘤與血管內皮瘤是相關的血管性腫瘤，也是最常見的肝臟血管性腫塊，至多 25% 可造成充血性心臟衰竭（CHF）
+- 腫瘤標記並未升高
 
-嬰兒型血管瘤為良性。血管內皮瘤雖然通常也是良性，但有轉移的潛能。本書以「嬰兒型血管瘤」一詞涵蓋這兩種病變。
+- 嬰兒型血管瘤為良性
+- 血管內皮瘤雖然通常也是良性，但有轉移的潛能
+- 本書以「嬰兒型血管瘤」一詞涵蓋這兩種病變
 
 嬰兒型血管瘤與 **Kasabach–Merritt 症候群**相關，此症候群由血管性腫瘤、溶血性貧血與消耗性凝血病組成。
 
-嬰兒型血管瘤可為單灶性、多灶性或瀰漫性。病變血流量高、T2 高訊號，傾向於周邊強化並延遲填充。可有鈣化、中央壞死與出血。
+- 嬰兒型血管瘤可為單灶性、多灶性或瀰漫性
+- 病變血流量高、T2 高訊號，傾向於周邊強化並延遲填充
+- 可有鈣化、中央壞死與出血
 
 血管攝影（可在栓塞前執行）典型表現為腹腔動脈幹（celiac artery）擴大，且腹腔軸以遠端的主動脈管徑變細。
 
-與皮膚的嬰兒型血管瘤相似，大多數肝臟嬰兒型血管瘤會在生命第一年自發性退化，尤其 GLUT-1 陽性者。β 阻斷劑普萘洛爾（propranolol）可加速退化。造成 CHF 的病變可能需要手術。
+- 與皮膚的嬰兒型血管瘤相似，大多數肝臟嬰兒型血管瘤會在生命第一年自發性退化，尤其 GLUT-1 陽性者
+- β 阻斷劑普萘洛爾（propranolol）可加速退化
+- 造成 CHF 的病變可能需要手術
 
 > **臨床要點**：肝臟嬰兒型血管瘤典型表現為周邊強化、中央壞死（晚期相對比劑不填充）；會自行退化，必要時以普萘洛爾加速。
 
@@ -3084,16 +3245,17 @@ T2 加權 MRI 顯示右肝為 T2 高訊號、以實性為主的腫塊（箭頭�
 
 <!-- page: 797 -->
 
-![嬰兒型血管瘤／血管內皮瘤（印刷頁 788）](/core_radiology/images/pediatric/page-797.png)
 ## 肝母細胞瘤、肝細胞癌、未分化胚胎性肉瘤與肝臟轉移 / Hepatoblastoma, Hepatocellular Carcinoma, Undifferentiated Embryonal Sarcoma, and Metastases {#肝母細胞瘤肝細胞癌未分化胚胎性肉瘤與肝臟轉移--hepatoblastoma-hepatocellular-carcinoma-undifferentiated-embryonal-sarcoma-and-metastases}
 
 ### 肝母細胞瘤 / Hepatoblastoma {#肝母細胞瘤--hepatoblastoma}
 
-**肝母細胞瘤（Hepatoblastoma）**：對比增強軸位 CT 顯示一個不均質腫塊，混合了強化區與壞死區，完全取代肝實質。有一個低衰減（hypoattenuating）病灶沿下腔靜脈（IVC）擴展（箭頭），代表腫瘤栓。
+- **肝母細胞瘤（Hepatoblastoma）**：對比增強軸位 CT 顯示一個不均質腫塊，混合了強化區與壞死區，完全取代肝實質
+- 有一個低衰減（hypoattenuating）病灶沿下腔靜脈（IVC）擴展（箭頭），代表腫瘤栓
 
 肝母細胞瘤是惡性的胚胎性腫瘤，為幼年早期最常見的肝臟腫瘤，也是小兒腹部惡性腫瘤中第三常見者（僅次於神經母細胞瘤與 Wilms 腫瘤）。
 
-肝母細胞瘤的患兒年齡略大於嬰兒型血管瘤與間質性錯構瘤的患者。少於 10% 的病例發生於新生兒期。
+- 肝母細胞瘤的患兒年齡略大於嬰兒型血管瘤與間質性錯構瘤的患者
+- 少於 10% 的病例發生於新生兒期
 
 肝母細胞瘤與數種基因異常與症候群相關，包括：
 
@@ -3115,7 +3277,8 @@ T2 加權 MRI 顯示右肝為 T2 高訊號、以實性為主的腫塊（箭頭�
 
 AFP（甲型胎兒蛋白）升高，與肝母細胞瘤相似。
 
-影像表現與成人 HCC 相同，呈現不均質肝臟腫塊，表現為動脈早期強化與快速廓清（washout）。與肝母細胞瘤相似，HCC 也常見靜脈侵犯。
+- 影像表現與成人 HCC 相同，呈現不均質肝臟腫塊，表現為動脈早期強化與快速廓清（washout）
+- 與肝母細胞瘤相似，HCC 也常見靜脈侵犯
 
 ### 未分化胚胎性肉瘤（惡性間質瘤） / Undifferentiated Embryonal Sarcoma (Malignant Mesenchymoma) {#未分化胚胎性肉瘤惡性間質瘤--undifferentiated-embryonal-sarcoma-malignant-mesenchymoma}
 
@@ -3124,6 +3287,8 @@ AFP（甲型胎兒蛋白）升高，與肝母細胞瘤相似。
 與肝母細胞瘤及 HCC 不同，AFP 為陰性。
 
 ### 轉移性疾病 / Metastatic Disease {#轉移性疾病--metastatic-disease}
+
+![轉移性疾病（印刷頁 789）](/core_radiology/images/pediatric/page-798.png)
 
 Wilms 腫瘤與神經母細胞瘤是常見的小兒腫瘤，都有轉移至肝臟的傾向。
 
@@ -3145,12 +3310,12 @@ Wilms 腫瘤與神經母細胞瘤是常見的小兒腫瘤，都有轉移至肝�
 
 <!-- page: 798 -->
 
-![轉移性疾病（印刷頁 789）](/core_radiology/images/pediatric/page-798.png)
 ## 雜項 / Miscellaneous {#雜項--miscellaneous}
 
 ### Meckel 憩室 / Meckel Diverticulum {#meckel-憩室--meckel-diverticulum}
 
-Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）的殘留。在幼兒，最常見的表現是胃腸道出血（若 Meckel 憩室內含異位胃黏膜）；較少見的是 Meckel 憩室作為「引導點」（lead point）造成腸套疊（intussusception）。
+- Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）的殘留
+- 在幼兒，最常見的表現是胃腸道出血（若 Meckel 憩室內含異位胃黏膜）；較少見的是 Meckel 憩室作為「引導點」（lead point）造成腸套疊（intussusception）
 
 在成人，Meckel 憩室最常見的併發症為小腸阻塞，其次為 Meckel 憩室炎（Meckel diverticulitis）。
 
@@ -3158,7 +3323,10 @@ Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）�
 
 ### 胚胎學背景 / Embryologic Background {#胚胎學背景--embryologic-background}
 
-臍腸管（omphalomesenteric duct）經由臍部將胎兒腸道與卵黃囊相連。此管未完全退化會造成一系列異常，範圍由臍腸瘻（umbilico-ileal fistula，臍部有糞便排出）至 Meckel 憩室不等。Meckel 憩室是臍腸管殘留所致異常中遠為最常見者（約 95%）。Meckel 憩室位於遠段迴腸的對腸繫膜緣（antimesenteric aspect）。
+- 臍腸管（omphalomesenteric duct）經由臍部將胎兒腸道與卵黃囊相連
+- 此管未完全退化會造成一系列異常，範圍由臍腸瘻（umbilico-ileal fistula，臍部有糞便排出）至 Meckel 憩室不等
+- Meckel 憩室是臍腸管殘留所致異常中遠為最常見者（約 95%）
+- Meckel 憩室位於遠段迴腸的對腸繫膜緣（antimesenteric aspect）
 
 ### 「2 的法則」/ The “Rule of 2s” {#2-的法則-the-rule-of-2s}
 
@@ -3166,9 +3334,13 @@ Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）�
 
 ### 診斷 / Diagnosis {#診斷--diagnosis}
 
-造成直腸出血的 Meckel 憩室可用 Tc-99m-pertechnetate 掃描診斷。僅當 Meckel 憩室含異位胃黏膜時掃描才呈陽性；但這些正是最容易出血的 Meckel 憩室。
+![診斷（印刷頁 790）](/core_radiology/images/pediatric/page-799.png)
 
-約 50% 的 Meckel 憩室含異位胃黏膜（較少見為胰臟黏膜）。在 pertechnetate 掃描上，異位黏膜的攝取動力學與胃黏膜相同。
+- 造成直腸出血的 Meckel 憩室可用 Tc-99m-pertechnetate 掃描診斷
+- 僅當 Meckel 憩室含異位胃黏膜時掃描才呈陽性；但這些正是最容易出血的 Meckel 憩室
+
+- 約 50% 的 Meckel 憩室含異位胃黏膜（較少見為胰臟黏膜）
+- 在 pertechnetate 掃描上，異位黏膜的攝取動力學與胃黏膜相同
 
 > **臨床要點**：Meckel 憩室在成人最常以小腸阻塞表現、在幼兒則以消化道出血表現；pertechnetate 掃描只有在憩室含異位胃黏膜時才會陽性。
 
@@ -3190,7 +3362,6 @@ Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）�
 
 <!-- page: 799 -->
 
-![診斷（印刷頁 790）](/core_radiology/images/pediatric/page-799.png)
 ## 胎便相關病變 / Spectrum of Meconium {#胎便相關病變--spectrum-of-meconium}
 
 ### 胎便吸入 / Meconium Aspiration {#胎便吸入--meconium-aspiration}
@@ -3199,15 +3370,18 @@ Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）�
 
 ### 胎便性腸阻塞（微小結腸） / Meconium Ileus {#胎便性腸阻塞微小結腸--meconium-ileus}
 
-胎便性腸阻塞（meconium ileus）是囊腫性纖維化（cystic fibrosis）最早的表現，且僅見於囊腫性纖維化患者。它會造成微小結腸（microcolon）。
+- 胎便性腸阻塞（meconium ileus）是囊腫性纖維化（cystic fibrosis）最早的表現，且僅見於囊腫性纖維化患者
+- 它會造成微小結腸（microcolon）
 
 ### 胎便栓塞症候群 / Meconium Plug Syndrome {#胎便栓塞症候群--meconium-plug-syndrome}
 
-胎便栓塞症候群（meconium plug syndrome，小左結腸症候群）為新生兒遠端腸阻塞的自限性原因。與胎便性腸阻塞不同，胎便栓塞症候群與囊腫性纖維化無關，也不造成微小結腸。
+- 胎便栓塞症候群（meconium plug syndrome，小左結腸症候群）為新生兒遠端腸阻塞的自限性原因
+- 與胎便性腸阻塞不同，胎便栓塞症候群與囊腫性纖維化無關，也不造成微小結腸
 
 ### 胎便性腸阻塞等同症候群 / Meconium Ileus–Equivalent Syndrome {#胎便性腸阻塞等同症候群--meconium-ileusequivalent-syndrome}
 
-胎便性腸阻塞等同症候群（meconium ileus–equivalent syndrome）可為先前未診斷之囊腫性纖維化的表現症狀，通常見於青少年或年輕成人。臨床上表現為反覆腹痛與慢性便秘。
+- 胎便性腸阻塞等同症候群（meconium ileus–equivalent syndrome）可為先前未診斷之囊腫性纖維化的表現症狀，通常見於青少年或年輕成人
+- 臨床上表現為反覆腹痛與慢性便秘
 
 ### 胎便性腹膜炎 / Meconium Peritonitis {#胎便性腹膜炎--meconium-peritonitis}
 
@@ -3216,6 +3390,8 @@ Meckel 憩室（Meckel diverticulum）是臍腸管（omphalomesenteric duct）�
 胎便性腹膜炎：正位 X 光顯示彌漫性粗大鈣化，貼附於腹膜表面（箭頭），位於右上與左上象限。
 
 ### 腹部鈣化 / Abdominal Calcification {#腹部鈣化--abdominal-calcification}
+
+![腹部鈣化（印刷頁 791）](/core_radiology/images/pediatric/page-800.png)
 
 X 光所見的腹部鈣化是潛在疾病的重要線索，包括：
 
@@ -3244,18 +3420,21 @@ X 光所見的腹部鈣化是潛在疾病的重要線索，包括：
 
 <!-- page: 800 -->
 
-![腹部鈣化（印刷頁 791）](/core_radiology/images/pediatric/page-800.png)
 ## 小兒泌尿生殖系統：腎積水與輸尿管擴張 / Pediatric Genitourinary: Hydronephrosis and Hydroureter {#小兒泌尿生殖系統腎積水與輸尿管擴張--pediatric-genitourinary-hydronephrosis-and-hydroureter}
 
 ### 膀胱輸尿管逆流 / Vesicoureteral Reflux (VUR) {#膀胱輸尿管逆流--vesicoureteral-reflux-vur}
 
-膀胱輸尿管逆流（vesicoureteral reflux, VUR）是尿液自膀胱逆流進入輸尿管的異常反流，會使患者易罹患急性腎盂腎炎（acute pyelonephritis）、腎臟疤痕（renal scarring）與不可逆的腎功能喪失。VUR 可為原發性（因遠端輸尿管膀胱內段異常短小）或繼發性（因遠端阻塞，例如後尿道瓣膜或神經性膀胱所致）。
+- 膀胱輸尿管逆流（vesicoureteral reflux, VUR）是尿液自膀胱逆流進入輸尿管的異常反流，會使患者易罹患急性腎盂腎炎（acute pyelonephritis）、腎臟疤痕（renal scarring）與不可逆的腎功能喪失
+- VUR 可為原發性（因遠端輸尿管膀胱內段異常短小）或繼發性（因遠端阻塞，例如後尿道瓣膜或神經性膀胱所致）
 
-發燒性泌尿道感染（UTI）兒童的典型影像檢查仍有爭議，可能包含腎臟超音波與排尿性膀胱尿道攝影（voiding cystourethrogram, VCUG）。腎臟超音波對偵測逆流並不敏感，雖然有些醫院仍以超音波作為篩檢工具。近期研究顯示，約 5% 的 UTI 且超音波正常的兒童其實有 VUR。
+- 發燒性泌尿道感染（UTI）兒童的典型影像檢查仍有爭議，可能包含腎臟超音波與排尿性膀胱尿道攝影（voiding cystourethrogram, VCUG）
+- 腎臟超音波對偵測逆流並不敏感，雖然有些醫院仍以超音波作為篩檢工具
+- 近期研究顯示，約 5% 的 UTI 且超音波正常的兒童其實有 VUR
 
 已診斷逆流患兒的兄弟姊妹通常以超音波篩檢：最多 45% 可能有逆流，其中大多為無症狀。
 
-VUR 任何治療的目標都是預防腎盂腎炎及其造成的腎臟疤痕，後者可導致不可逆的腎功能喪失。治療可為醫學（預防性抗生素）或手術，取決於分級。
+- VUR 任何治療的目標都是預防腎盂腎炎及其造成的腎臟疤痕，後者可導致不可逆的腎功能喪失
+- 治療可為醫學（預防性抗生素）或手術，取決於分級
 
 | 分級 / Grade | VCUG 表現 / VCUG Appearance |
 |---|---|
@@ -3267,13 +3446,19 @@ VUR 任何治療的目標都是預防腎盂腎炎及其造成的腎臟疤痕，�
 
 雙側第 IV 級逆流：VCUG 的透視攝影影像顯示中度腎盂與輸尿管擴張。
 
-VCUG 常被偏好作為評估逆流的第一線檢查，因為它可提供上尿路的解剖細節，也能評估尿道。在男孩，部分後尿道瓣膜可能是 UTI 的原因。
+- VCUG 常被偏好作為評估逆流的第一線檢查，因為它可提供上尿路的解剖細節，也能評估尿道
+- 在男孩，部分後尿道瓣膜可能是 UTI 的原因
 
 ### 核醫檢查 / Nuclear Studies {#核醫檢查--nuclear-studies}
 
+![核醫檢查（印刷頁 792）](/core_radiology/images/pediatric/page-801.png)
+
 兩種核醫檢查常用於逆流的評估與追蹤：
 
-**放射性核素膀胱造影（radionuclide cystogram, RNC）**：經導管將約 1 mCi 的 Tc-99m-pertechnetate 注入膀胱。RNC 是評估逆流最敏感的檢查。RNC 常用於 VCUG 確立解剖後的逆流追蹤。RNC 分級為三級：
+- **放射性核素膀胱造影（radionuclide cystogram, RNC）**：經導管將約 1 mCi 的 Tc-99m-pertechnetate 注入膀胱
+- RNC 是評估逆流最敏感的檢查
+- RNC 常用於 VCUG 確立解剖後的逆流追蹤
+- RNC 分級為三級：
 
 | RNC 分級 / Grade | 對應 VCUG / VCUG Equivalent |
 |---|---|
@@ -3301,16 +3486,19 @@ VCUG 常被偏好作為評估逆流的第一線檢查，因為它可提供上尿
 
 <!-- page: 801 -->
 
-![核醫檢查（印刷頁 792）](/core_radiology/images/pediatric/page-801.png)
 ## 重複集尿系統 / Duplex Collecting System {#重複集尿系統--duplex-collecting-system}
 
 ### 影像表現 / Imaging {#影像表現--imaging-1}
 
-兩位重複集尿系統患者：靜脈腎盂攝影（左圖）顯示右側重複集尿系統，上極腎盂輕度變鈍（黃色箭頭）。另一患者，冠狀位（右上圖）與軸位（右下）對比增強的腎盂期 CT 顯示受阻的右側上極有嚴重腎積水（紅色箭頭）。擴張且未顯影的上極輸尿管（藍色箭頭）向內側走向顯影的正常管徑下極輸尿管（綠色箭頭）。
+- 兩位重複集尿系統患者：靜脈腎盂攝影（左圖）顯示右側重複集尿系統，上極腎盂輕度變鈍（黃色箭頭）
+- 另一患者，冠狀位（右上圖）與軸位（右下）對比增強的腎盂期 CT 顯示受阻的右側上極有嚴重腎積水（紅色箭頭）
+- 擴張且未顯影的上極輸尿管（藍色箭頭）向內側走向顯影的正常管徑下極輸尿管（綠色箭頭）
 
 ### 定義與臨床意義 / Definition and Clinical Significance {#定義與臨床意義--definition-and-clinical-significance}
 
-重複集尿系統包含兩套各自獨立的腎盂腎杯系統與兩條輸尿管。若兩條輸尿管融合，重複系統可能沒有臨床意義。然而，若兩條輸尿管分別插入膀胱，則阻塞（上極 moiety）與逆流（下極 moiety）的風險增加，即 Weigert–Meyer 法則（Weigert–Meyer rule）所述。
+- 重複集尿系統包含兩套各自獨立的腎盂腎杯系統與兩條輸尿管
+- 若兩條輸尿管融合，重複系統可能沒有臨床意義
+- 然而，若兩條輸尿管分別插入膀胱，則阻塞（上極 moiety）與逆流（下極 moiety）的風險增加，即 Weigert–Meyer 法則（Weigert–Meyer rule）所述
 
 ### Weigert–Meyer 法則 / The Weigert–Meyer Rule {#weigertmeyer-法則--the-weigertmeyer-rule}
 
@@ -3323,7 +3511,10 @@ VCUG 常被偏好作為評估逆流的第一線檢查，因為它可提供上尿
 
 ### 掉垂百合徵 / Drooping Lily Sign {#掉垂百合徵--drooping-lily-sign}
 
-雖然受阻的上極系統之腎積水在超音波上本應明顯，但完全阻塞的系統在 VCUG 上可能完全看不見，因為顯影劑無法逆流進入受阻的輸尿管。VCUG 上的「掉垂百合徵」（drooping lily sign）是指看不見的受阻上極 moiety 壓迫了下極 moiety 集尿系統內逆流的顯影劑。
+![掉垂百合徵（印刷頁 793）](/core_radiology/images/pediatric/page-802.png)
+
+- 雖然受阻的上極系統之腎積水在超音波上本應明顯，但完全阻塞的系統在 VCUG 上可能完全看不見，因為顯影劑無法逆流進入受阻的輸尿管
+- VCUG 上的「掉垂百合徵」（drooping lily sign）是指看不見的受阻上極 moiety 壓迫了下極 moiety 集尿系統內逆流的顯影劑
 
 掉垂百合徵的鑑別診斷為腎下垂（renal ptosis），後者應可見正常數目的腎杯；相對地，掉垂百合徵的受阻上極其腎杯數目較少。
 
@@ -3341,38 +3532,45 @@ VCUG 常被偏好作為評估逆流的第一線檢查，因為它可提供上尿
 
 <!-- page: 802 -->
 
-![掉垂百合徵（印刷頁 793）](/core_radiology/images/pediatric/page-802.png)
 ## 阻塞部位 / Levels of Obstruction {#阻塞部位--levels-of-obstruction}
 
 ### 腎盂輸尿管交界處阻塞 / Ureteropelvic Junction (UPJ) Obstruction {#腎盂輸尿管交界處阻塞--ureteropelvic-junction-upj-obstruction}
 
-腎盂輸尿管交界處阻塞（ureteropelvic junction, UPJ obstruction）是兒童單側腎積水最常見的原因。UPJ 阻塞可能由變異腎動脈壓迫輸尿管、輸尿管蠕動缺失節段（aperistaltic segment）造成，也可能為特發性（idiopathic）。
+- 腎盂輸尿管交界處阻塞（ureteropelvic junction, UPJ obstruction）是兒童單側腎積水最常見的原因
+- UPJ 阻塞可能由變異腎動脈壓迫輸尿管、輸尿管蠕動缺失節段（aperistaltic segment）造成，也可能為特發性（idiopathic）
 
 ### 後尿道瓣膜（膀胱出口阻塞） / Posterior Urethral Valves (Bladder Outlet Obstruction) {#後尿道瓣膜膀胱出口阻塞--posterior-urethral-valves-bladder-outlet-obstruction}
 
 後尿道瓣膜（posterior urethral valves）是先天性膀胱出口阻塞最常見的原因，由後（前列腺）尿道內的阻塞性瓣膜造成。
 
-超音波顯示後（前列腺）尿道擴張、膀胱擴張且呈小梁狀（trabeculated），並有腎積水。擴張的後尿道與擴張的膀胱在超音波上形成特有的「鎖匙孔」（keyhole）外觀。
+- 超音波顯示後（前列腺）尿道擴張、膀胱擴張且呈小梁狀（trabeculated），並有腎積水
+- 擴張的後尿道與擴張的膀胱在超音波上形成特有的「鎖匙孔」（keyhole）外觀
 
 主要的鑑別考量為梅干腹症候群（prune belly syndrome），後者顯示的是整條輸尿管擴張，而非僅前列腺段擴張。
 
 ### 梅干腹症候群 / Prune Belly Syndrome {#梅干腹症候群--prune-belly-syndrome}
 
-梅干腹症候群（prune belly syndrome）是先天性肌肉疾病，影響腹壁肌肉與整個泌尿集合系統的平滑肌。梅干腹可合併隱睪（cryptorchidism）。
+- 梅干腹症候群（prune belly syndrome）是先天性肌肉疾病，影響腹壁肌肉與整個泌尿集合系統的平滑肌
+- 梅干腹可合併隱睪（cryptorchidism）
 
-肌肉缺陷導致整個集合系統（含膀胱與兩側輸尿管）擴張。與後尿道瓣膜不同，後者的整條尿道都會擴張。
+- 肌肉缺陷導致整個集合系統（含膀胱與兩側輸尿管）擴張
+- 與後尿道瓣膜不同，後者的整條尿道都會擴張
 
 ### 輸尿管膨出（UVJ 阻塞） / Ureterocele (UVJ Obstruction) {#輸尿管膨出uvj-阻塞--ureterocele-uvj-obstruction}
 
 輸尿管膨出（ureterocele）是遠端輸尿管在膀胱壁內的局限性擴張，輸尿管在膀胱壁黏膜層與肌肉層之間向內摺疊。
 
-異位輸尿管膨出幾乎總是與重複系統中上極輸尿管的異位插入相伴隨。單純輸尿管膨出則見於正位（正常）插入的輸尿管。
+- 異位輸尿管膨出幾乎總是與重複系統中上極輸尿管的異位插入相伴隨
+- 單純輸尿管膨出則見於正位（正常）插入的輸尿管
 
-異位輸尿管膨出的典型超音波表現是膀胱壁內的囊性病灶，通常合併重複系統中受阻上極 moiety 的輸尿管擴張與腎積水。異位輸尿管膨出幾乎總是位於下極輸尿管插入處的下方與內側。
+- 異位輸尿管膨出的典型超音波表現是膀胱壁內的囊性病灶，通常合併重複系統中受阻上極 moiety 的輸尿管擴張與腎積水
+- 異位輸尿管膨出幾乎總是位於下極輸尿管插入處的下方與內側
 
 VCUG 上典型的輸尿管膨出呈現為圓形充盈缺損（rounded filling defect）。
 
 ### 阻塞部位總覽 / Summary of Levels of Obstruction {#阻塞部位總覽--summary-of-levels-of-obstruction}
+
+![阻塞部位總覽（印刷頁 794）](/core_radiology/images/pediatric/page-803.png)
 
 泌尿生殖系統示意圖顯示造成腎積水或輸尿管擴張的各種病因之解剖位置：
 
@@ -3400,7 +3598,6 @@ VCUG 上典型的輸尿管膨出呈現為圓形充盈缺損（rounded filling de
 
 <!-- page: 803 -->
 
-![阻塞部位總覽（印刷頁 794）](/core_radiology/images/pediatric/page-803.png)
 ## 囊性腎臟病變 / Cystic Renal Lesions {#囊性腎臟病變--cystic-renal-lesions}
 
 ### 腎積水 / Hydronephrosis {#腎積水--hydronephrosis}
@@ -3409,21 +3606,26 @@ VCUG 上典型的輸尿管膨出呈現為圓形充盈缺損（rounded filling de
 
 ### 多囊性發育不良腎 / Multicystic Dysplastic Kidney (MCDK) {#多囊性發育不良腎--multicystic-dysplastic-kidney-mcdk}
 
-多囊性發育不良腎（multicystic dysplastic kidney, MCDK）：腎臟的兩張縱向超音波顯示多個彼此不相連的獨立囊性構造。主要的鑑別考量是腎積水，後者的囊狀空腔會呈現連續性。
+- 多囊性發育不良腎（multicystic dysplastic kidney, MCDK）：腎臟的兩張縱向超音波顯示多個彼此不相連的獨立囊性構造
+- 主要的鑑別考量是腎積水，後者的囊狀空腔會呈現連續性
 
 MCDK 是新生兒最常見的囊性腎腫塊，特徵為進行性腎臟發育不良，被認為是胎兒尿路阻塞的結果。
 
 MCDK 通常為單側，但 20–30% 可能為雙側異常。
 
-MCDK 的自然病程為逐漸性退化（involution）。許多成人的孤立腎（solitary kidney）可能先前曾有未被診斷而已退化的 MCDK。
+- MCDK 的自然病程為逐漸性退化（involution）
+- 許多成人的孤立腎（solitary kidney）可能先前曾有未被診斷而已退化的 MCDK
 
-MCDK 的 Wilms 腫瘤風險仍有爭議。雖有 MCDK 與 Wilms 腫瘤相關的報告，但並無強有力證據支持此一關聯。
+- MCDK 的 Wilms 腫瘤風險仍有爭議
+- 雖有 MCDK 與 Wilms 腫瘤相關的報告，但並無強有力證據支持此一關聯
 
-MCDK 的影像表現為取代腎實質的多囊性「腫塊」。各囊性成分彼此不相通，這與腎積水不同。
+- MCDK 的影像表現為取代腎實質的多囊性「腫塊」
+- 各囊性成分彼此不相通，這與腎積水不同
 
 ### 單純性腎囊腫 / Simple Renal Cyst {#單純性腎囊腫--simple-renal-cyst}
 
-孤立性的單純性腎囊腫（simple renal cyst）在兒童罕見。當出現時，腎囊腫較可能為症候群性（syndromic），與結節性硬化症（tuberous sclerosis）或 von Hippel–Lindau 症（VHL）相關。
+- 孤立性的單純性腎囊腫（simple renal cyst）在兒童罕見
+- 當出現時，腎囊腫較可能為症候群性（syndromic），與結節性硬化症（tuberous sclerosis）或 von Hippel–Lindau 症（VHL）相關
 
 **結節性硬化症 / Tuberous Sclerosis**：除了腎囊腫，患者還可有：
 
@@ -3440,9 +3642,14 @@ MCDK 的影像表現為取代腎實質的多囊性「腫塊」。各囊性成分
 
 ### 多房性囊性腎瘤 / Multilocular Cystic Nephroma {#多房性囊性腎瘤--multilocular-cystic-nephroma}
 
-多房性囊性腎瘤（multilocular cystic nephroma）是良性、多分隔的囊性腫瘤。其年齡分布呈雙峰性（bimodal），見於 3 個月至 2 歲的幼小男童，以及中年女性。
+![多房性囊性腎瘤（印刷頁 795）](/core_radiology/images/pediatric/page-804.png)
 
-多房性囊性腎瘤為具增強分隔的多分隔囊性腎腫塊。其外觀可能模仿囊性 Wilms 腫瘤。一項具特徵性的影像發現是其傾向疝入腎盂，造成腎積水。
+- 多房性囊性腎瘤（multilocular cystic nephroma）是良性、多分隔的囊性腫瘤
+- 其年齡分布呈雙峰性（bimodal），見於 3 個月至 2 歲的幼小男童，以及中年女性
+
+- 多房性囊性腎瘤為具增強分隔的多分隔囊性腎腫塊
+- 其外觀可能模仿囊性 Wilms 腫瘤
+- 一項具特徵性的影像發現是其傾向疝入腎盂，造成腎積水
 
 > **臨床要點**：新生兒囊性腎腫塊中，關鍵鑑別在「囊腔是否相通」——相通者為腎積水，不相通者為 MCDK；MCDK 的囊性成分彼此不通是與腎積水最重要的區別。
 
@@ -3462,26 +3669,33 @@ MCDK 的影像表現為取代腎實質的多囊性「腫塊」。各囊性成分
 
 <!-- page: 804 -->
 
-![多房性囊性腎瘤（印刷頁 795）](/core_radiology/images/pediatric/page-804.png)
 ## 腎臟囊腫性疾病與惡性實質腎腫塊 / Cystic Renal Diseases and Malignant Solid Renal Masses {#腎臟囊腫性疾病與惡性實質腎腫塊--cystic-renal-diseases-and-malignant-solid-renal-masses}
 
 ### 體染色體顯性多囊腎病 / Autosomal Dominant Polycystic Kidney Disease (ADPKD) {#體染色體顯性多囊腎病--autosomal-dominant-polycystic-kidney-disease-adpkd}
 
-體染色體顯性多囊腎病（ADPKD）通常於成人期表現，但約 50% 在生命第一個十年內即發育出部分囊腫。ADPKD 與肝臟囊腫相關，較少與胰臟囊腫相關。
+- 體染色體顯性多囊腎病（ADPKD）通常於成人期表現，但約 50% 在生命第一個十年內即發育出部分囊腫
+- ADPKD 與肝臟囊腫相關，較少與胰臟囊腫相關
 
 ### 體染色體隱性多囊腎病 / Autosomal Recessive Polycystic Kidney Disease (ARPKD) {#體染色體隱性多囊腎病--autosomal-recessive-polycystic-kidney-disease-arpkd}
 
-體染色體隱性多囊腎病（ARPKD）的特徵是嬰兒期因集尿小管廣泛擴張而形成的微小囊腫。這些囊腫通常太小，影像上無法分辨，因此在超音波上呈現特有的雙側腎臟增大、回音增強（echogenic）的表現。
+- 體染色體隱性多囊腎病（ARPKD）的特徵是嬰兒期因集尿小管廣泛擴張而形成的微小囊腫
+- 這些囊腫通常太小，影像上無法分辨，因此在超音波上呈現特有的雙側腎臟增大、回音增強（echogenic）的表現
 
-較早的發病預後較差，胎兒期診斷常造成嚴重羊水過少（oligohydramnios）與肺發育不全（pulmonary hypoplasia）。ARPKD 與肝纖維化相關，尤其在 ARPKD 於兒童後期才表現時。
+- 較早的發病預後較差，胎兒期診斷常造成嚴重羊水過少（oligohydramnios）與肺發育不全（pulmonary hypoplasia）
+- ARPKD 與肝纖維化相關，尤其在 ARPKD 於兒童後期才表現時
 
 ### 惡性實質腎腫塊 / Malignant Solid Renal Masses {#惡性實質腎腫塊--malignant-solid-renal-masses}
 
 #### Wilms 腫瘤 / Wilms Tumor {#wilms-腫瘤--wilms-tumor}
 
-腎臟的矢狀位超音波顯示腎實質幾乎完全被一個大的、不均質的腫塊取代（箭頭）。胸部軸位 CT 顯示右肺下葉結節，疑似轉移。
+![Wilms 腫瘤（印刷頁 796）](/core_radiology/images/pediatric/page-805.png)
 
-對比增強的腎臟軸位 CT 顯示左腎幾乎完全被一個優勢腫塊取代（黃色箭頭），其中含有中央壞死灶。腫塊延伸進入並擴張左腎靜脈（紅色箭頭）與下腔靜脈（藍色箭頭）。鑑於存在肺轉移，此為第四期（Stage IV）Wilms 腫瘤。
+- 腎臟的矢狀位超音波顯示腎實質幾乎完全被一個大的、不均質的腫塊取代（箭頭）
+- 胸部軸位 CT 顯示右肺下葉結節，疑似轉移
+
+- 對比增強的腎臟軸位 CT 顯示左腎幾乎完全被一個優勢腫塊取代（黃色箭頭），其中含有中央壞死灶
+- 腫塊延伸進入並擴張左腎靜脈（紅色箭頭）與下腔靜脈（藍色箭頭）
+- 鑑於存在肺轉移，此為第四期（Stage IV）Wilms 腫瘤
 
 > **臨床要點**：ADPKD 與 ARPKD 影像表現截然不同——ADPKD 是成人大囊腫，ARPKD 是嬰兒期集尿小管擴張造成的微小囊腫（超音波呈雙側腎增大回音增強），且 ARPKD 與肝纖維化相關。
 
@@ -3497,12 +3711,12 @@ MCDK 的影像表現為取代腎實質的多囊性「腫塊」。各囊性成分
 
 <!-- page: 805 -->
 
-![Wilms 腫瘤（印刷頁 796）](/core_radiology/images/pediatric/page-805.png)
 ## Wilms 腫瘤與其他腎臟腫瘤 / Wilms Tumor and Other Renal Neoplasms {#wilms-腫瘤與其他腎臟腫瘤--wilms-tumor-and-other-renal-neoplasms}
 
 ### Wilms 腫瘤 / Wilms Tumor {#wilms-腫瘤--wilms-tumor-1}
 
-Wilms 腫瘤是兒童最常見的腎臟腫瘤，通常影響 3 至 5 歲的兒童。Wilms 腫瘤源自持續存在的後腎胚芽（persistent metanephric blastema）。
+- Wilms 腫瘤是兒童最常見的腎臟腫瘤，通常影響 3 至 5 歲的兒童
+- Wilms 腫瘤源自持續存在的後腎胚芽（persistent metanephric blastema）
 
 Wilms 腫瘤風險增加的族群以超音波定期篩檢至學齡期，包括：
 
@@ -3513,7 +3727,11 @@ Wilms 腫瘤風險增加的族群以超音波定期篩檢至學齡期，包括�
 
 ### 影像表現 / Imaging Appearance {#影像表現--imaging-appearance}
 
-Wilms 腫瘤典型的影像表現是不均質的實性腎腫塊。「爪徵」（claw sign）表示源自腎實質。腫瘤的靜脈侵犯見於 5–10%。可有鈣化存在。囊性變異型可能模仿良性的多房性囊性腎瘤。
+- Wilms 腫瘤典型的影像表現是不均質的實性腎腫塊
+- 「爪徵」（claw sign）表示源自腎實質
+- 腫瘤的靜脈侵犯見於 5–10%
+- 可有鈣化存在
+- 囊性變異型可能模仿良性的多房性囊性腎瘤
 
 肝轉移與肺轉移各約見於 10%，骨轉移（典型為溶骨性）約見於 5% 的病例。
 
@@ -3531,13 +3749,16 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 ### 腎細胞癌 / Renal Cell Carcinoma (RCC) {#腎細胞癌--renal-cell-carcinoma-rcc}
 
-雖然在成人遠為常見，腎細胞癌（RCC）確實會發生於較年長的兒童與青少年。整體而言，所有 RCC 中不到 1% 發生於兒童，通常是在 von Hippel–Lindau 症候群的背景下。
+- 雖然在成人遠為常見，腎細胞癌（RCC）確實會發生於較年長的兒童與青少年
+- 整體而言，所有 RCC 中不到 1% 發生於兒童，通常是在 von Hippel–Lindau 症候群的背景下
 
 腎髓質癌（renal medullary carcinoma）是腎細胞癌中特別具侵襲性的變異，影響具有鐮刀型血球性狀（sickle cell trait）的患者。
 
 ### 橫紋肌樣瘤 / Rhabdoid Tumor {#橫紋肌樣瘤--rhabdoid-tumor}
 
-橫紋肌樣瘤（rhabdoid tumor）是罕見而侵襲性的惡性腫瘤，可發生於腦或腎臟。影像顯示邊界不清、具侵襲性的腎腫塊。腎臟與中樞神經系統的病灶可同時出現。
+- 橫紋肌樣瘤（rhabdoid tumor）是罕見而侵襲性的惡性腫瘤，可發生於腦或腎臟
+- 影像顯示邊界不清、具侵襲性的腎腫塊
+- 腎臟與中樞神經系統的病灶可同時出現
 
 ### 透明細胞肉瘤 / Clear Cell Sarcoma {#透明細胞肉瘤--clear-cell-sarcoma}
 
@@ -3545,9 +3766,12 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 ### 腎臟轉移 / Renal Metastases {#腎臟轉移--renal-metastases}
 
+![腎臟轉移（印刷頁 797）](/core_radiology/images/pediatric/page-806.png)
+
 兒童中最常見轉移至腎臟的原發性惡性腫瘤是神經母細胞瘤（neuroblastoma）、白血病（leukemia）與淋巴瘤（lymphoma）。
 
-白血病在影像上的特徵為浸潤性、瀰漫性且雙側性。淋巴瘤有多種影像表現，包括多發腫塊或瀰漫性浸潤。
+- 白血病在影像上的特徵為浸潤性、瀰漫性且雙側性
+- 淋巴瘤有多種影像表現，包括多發腫塊或瀰漫性浸潤
 
 > **臨床要點**：腎臟多發實性腫塊的鑑別方向可用「是否浸潤性、雙側性」切入——白血病典型呈瀰漫浸潤且雙側，淋巴瘤可呈多發腫塊；神經母細胞瘤則是最常見轉移至腎臟的腫瘤。
 
@@ -3569,7 +3793,6 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 <!-- page: 806 -->
 
-![腎臟轉移（印刷頁 797）](/core_radiology/images/pediatric/page-806.png)
 ## 良性實質腎腫塊 / Benign Solid Renal Masses {#良性實質腎腫塊--benign-solid-renal-masses}
 
 ### 間葉性腎母細胞瘤 / Mesoblastic Nephroma {#間葉性腎母細胞瘤--mesoblastic-nephroma}
@@ -3586,19 +3809,27 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 ### 腎母細胞瘤病 / Nephroblastomatosis {#腎母細胞瘤病--nephroblastomatosis}
 
-腎母細胞瘤病（nephroblastomatosis）：右腎的矢狀位超音波（左圖）顯示腎臟明顯分葉狀增大，腎皮質回音減低。軸位對比增強 CT 顯示雙側腎增大及多發分葉狀、相對低密度的圓形結節與腫塊（箭頭）。
+- 腎母細胞瘤病（nephroblastomatosis）：右腎的矢狀位超音波（左圖）顯示腎臟明顯分葉狀增大，腎皮質回音減低
+- 軸位對比增強 CT 顯示雙側腎增大及多發分葉狀、相對低密度的圓形結節與腫塊（箭頭）
 
-腎母細胞瘤病是後腎胚芽的持續存在。當後腎胚芽持續存在超過妊娠 36 週時，稱為腎原性殘餘（nephrogenic rest）。
+- 腎母細胞瘤病是後腎胚芽的持續存在
+- 當後腎胚芽持續存在超過妊娠 36 週時，稱為腎原性殘餘（nephrogenic rest）
 
-影像上，腎母細胞瘤病可表現為界線分明、均質、不增強的腎腫塊。腎母細胞瘤病常為多灶性、融合性（confluent）且雙側性。
+- 影像上，腎母細胞瘤病可表現為界線分明、均質、不增強的腎腫塊
+- 腎母細胞瘤病常為多灶性、融合性（confluent）且雙側性
 
-腎母細胞瘤病是 Wilms 腫瘤的前驅病變，因此需頻繁篩檢。篩檢中的警訊包括快速生長、不均質與增強。
+- 腎母細胞瘤病是 Wilms 腫瘤的前驅病變，因此需頻繁篩檢
+- 篩檢中的警訊包括快速生長、不均質與增強
 
 ### 血管平滑肌脂肪瘤 / Angiomyolipoma (AML) {#血管平滑肌脂肪瘤--angiomyolipoma-aml}
 
-血管平滑肌脂肪瘤（angiomyolipoma, AML）是良性腎腫瘤，含血管（angio）、肌肉（myo）與脂肪（lipoma）三種成分。多發性 AML 與結節性硬化症相關。
+![血管平滑肌脂肪瘤（印刷頁 798）](/core_radiology/images/pediatric/page-807.png)
 
-多數 AML 含有巨觀脂肪，可在 CT 或 MRI 上見到。大於 4 cm 的 AML 有出血風險。
+- 血管平滑肌脂肪瘤（angiomyolipoma, AML）是良性腎腫瘤，含血管（angio）、肌肉（myo）與脂肪（lipoma）三種成分
+- 多發性 AML 與結節性硬化症相關
+
+- 多數 AML 含有巨觀脂肪，可在 CT 或 MRI 上見到
+- 大於 4 cm 的 AML 有出血風險
 
 > **臨床要點**：影像上無法區分間葉性腎母細胞瘤與 Wilms 腫瘤，但年齡是線索——間葉性腎母細胞瘤好發於 ≤1 歲嬰兒，Wilms 腫瘤則多見於 3–5 歲。
 
@@ -3614,12 +3845,12 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 <!-- page: 807 -->
 
-![血管平滑肌脂肪瘤（印刷頁 798）](/core_radiology/images/pediatric/page-807.png)
 ## 容易混淆的名稱 / Confusing Names {#容易混淆的名稱--confusing-names}
 
 ### 後腎胚芽 / Metanephric Blastema {#後腎胚芽--metanephric-blastema}
 
-後腎胚芽（metanephric blastema）是形成泌尿生殖系統的兩種胚胎組織之一。後腎胚芽發育為腎實質，而輸尿管芽（ureteric bud）則形成集合系統。
+- 後腎胚芽（metanephric blastema）是形成泌尿生殖系統的兩種胚胎組織之一
+- 後腎胚芽發育為腎實質，而輸尿管芽（ureteric bud）則形成集合系統
 
 若後腎胚芽在胚胎發育後仍持續存在，可導致：
 
@@ -3634,6 +3865,8 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 多房性囊性腎瘤是囊性腎腫塊，呈雙峰年齡分布，見於幼小男童與中年女性。
 
 ### 多發腎腫塊的鑑別診斷 / Differential Diagnosis of Multiple Renal Masses {#多發腎腫塊的鑑別診斷--differential-diagnosis-of-multiple-renal-masses}
+
+![多發腎腫塊的鑑別診斷（印刷頁 799）](/core_radiology/images/pediatric/page-808.png)
 
 多發實性腎腫塊的鑑別方向：
 
@@ -3660,10 +3893,11 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 <!-- page: 808 -->
 
-![多發腎腫塊的鑑別診斷（印刷頁 799）](/core_radiology/images/pediatric/page-808.png)
 ## 腎上腺腫塊 / Adrenal Mass Lesions {#腎上腺腫塊--adrenal-mass-lesions}
 
 ### 神經母細胞瘤 / Neuroblastoma {#神經母細胞瘤--neuroblastoma}
+
+![神經母細胞瘤（印刷頁 800）](/core_radiology/images/pediatric/page-809.png)
 
 胸部 X 光顯示右側膈旁輪廓細微異常（箭頭），但不與心臟形成心影（silhouette）接觸，提示後縱隔腫塊。
 
@@ -3673,15 +3907,19 @@ Wilms 腫瘤的分期使用 National Wilms Tumor Study（NWTS）系統，結合�
 
 I-123 MIBG 掃描的後平面影像顯示右側脊旁區域有顯著示蹤劑攝取（箭頭）。
 
-神經母細胞瘤（neuroblastoma）是原始神經嵴細胞的惡性腫瘤，源自交感神經鏈，最常見於腎上腺。診斷時平均年齡為 2 歲。
+- 神經母細胞瘤（neuroblastoma）是原始神經嵴細胞的惡性腫瘤，源自交感神經鏈，最常見於腎上腺
+- 診斷時平均年齡為 2 歲
 
-腎上腺神經母細胞瘤典型的 CT 表現為腎上腺上方的腫塊，其中約 50% 可見鈣化。神經母細胞瘤傾向包埋（encase）血管，而 Wilms 腫瘤則以推移血管（displace vessels）著名。
+- 腎上腺神經母細胞瘤典型的 CT 表現為腎上腺上方的腫塊，其中約 50% 可見鈣化
+- 神經母細胞瘤傾向包埋（encase）血管，而 Wilms 腫瘤則以推移血管（displace vessels）著名
 
-MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反映細胞密度高。
+- MRI 上，神經母細胞瘤常侵入神經孔與椎管
+- 擴散常受限，反映細胞密度高
 
 神經母細胞瘤在 I-123 MIBG 閃爍攝影上呈陽性。
 
-75% 的患者可找到轉移，常累及骨髓（典型為浸潤性與溶骨性）。轉移性神經母細胞瘤的典型表現為源自骨髓的顱內硬膜下腫塊。
+- 75% 的患者可找到轉移，常累及骨髓（典型為浸潤性與溶骨性）
+- 轉移性神經母細胞瘤的典型表現為源自骨髓的顱內硬膜下腫塊
 
 > **臨床要點**：腎上腺腫塊若在 MRI 上侵犯椎管、擴散受限且 MIBG 陽性，提示神經母細胞瘤；與之相反，Wilms 腫瘤推移血管而神經母細胞瘤包埋血管。
 
@@ -3701,7 +3939,6 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 <!-- page: 809 -->
 
-![神經母細胞瘤（印刷頁 800）](/core_radiology/images/pediatric/page-809.png)
 ## 神經母細胞瘤分期與其他腎上腺病變 / Neuroblastoma Staging and Other Adrenal Lesions {#神經母細胞瘤分期與其他腎上腺病變--neuroblastoma-staging-and-other-adrenal-lesions}
 
 ### 神經母細胞瘤分期 / Neuroblastoma Staging {#神經母細胞瘤分期--neuroblastoma-staging}
@@ -3718,17 +3955,24 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 ### 神經節神經瘤與神經節神經母細胞瘤 / Ganglioneuroma and Ganglioneuroblastoma {#神經節神經瘤與神經節神經母細胞瘤--ganglioneuroma-and-ganglioneuroblastoma}
 
-神經節神經瘤（ganglioneuroma）是良性的神經源性腫瘤，在影像上與神經母細胞瘤相似。神經節神經母細胞瘤（ganglioneuroblastoma）的生物學行為介於良性的神經節神經瘤與惡性的神經母細胞瘤之間。
+- 神經節神經瘤（ganglioneuroma）是良性的神經源性腫瘤，在影像上與神經母細胞瘤相似
+- 神經節神經母細胞瘤（ganglioneuroblastoma）的生物學行為介於良性的神經節神經瘤與惡性的神經母細胞瘤之間
 
-與神經母細胞瘤不同，神經節神經瘤影響的兒童略大（患者最常見年齡為 6 歲），且僅 50% 的神經節神經瘤在 I-123 MIBG 閃爍攝影上呈陽性。MRI 上典型可見神經母細胞瘤的擴散受限，但神經節神經瘤則無此現象。
+- 與神經母細胞瘤不同，神經節神經瘤影響的兒童略大（患者最常見年齡為 6 歲），且僅 50% 的神經節神經瘤在 I-123 MIBG 閃爍攝影上呈陽性
+- MRI 上典型可見神經母細胞瘤的擴散受限，但神經節神經瘤則無此現象
 
 ### 腎上腺出血（新生兒） / Adrenal Hemorrhage (in Neonates) {#腎上腺出血新生兒--adrenal-hemorrhage-in-neonates}
 
-腎上腺出血通常以超音波診斷，呈現低回音（hypoechoic）、無血管性的腎上腺上方腫塊。出血在初次超音波上可能與神經母細胞瘤相似，但追蹤掃描可見其退化（involution）。舊的出血可能鈣化。
+- 腎上腺出血通常以超音波診斷，呈現低回音（hypoechoic）、無血管性的腎上腺上方腫塊
+- 出血在初次超音波上可能與神經母細胞瘤相似，但追蹤掃描可見其退化（involution）
+- 舊的出血可能鈣化
 
 ### 腎上腺皮質癌 / Adrenal Cortical Carcinoma {#腎上腺皮質癌--adrenal-cortical-carcinoma}
 
-腎上腺皮質癌（adrenal cortical carcinoma）是極罕見的疾病，盛行率約為每年每百萬人 1–2 例。發生於兒童時，可與 Beckwith–Wiedemann 症候群及 Li–Fraumeni 症候群相關。
+![腎上腺皮質癌（印刷頁 801）](/core_radiology/images/pediatric/page-810.png)
+
+- 腎上腺皮質癌（adrenal cortical carcinoma）是極罕見的疾病，盛行率約為每年每百萬人 1–2 例
+- 發生於兒童時，可與 Beckwith–Wiedemann 症候群及 Li–Fraumeni 症候群相關
 
 腎上腺皮質癌呈雙峰年齡分布，見於 5 歲以下的兒童，以及 40–50 歲的成人。
 
@@ -3754,7 +3998,6 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 <!-- page: 810 -->
 
-![腎上腺皮質癌（印刷頁 801）](/core_radiology/images/pediatric/page-810.png)
 ## 小兒盆腔腫塊：囊性與實性 / Pediatric Pelvic Masses: Cystic and Solid {#小兒盆腔腫塊囊性與實性--pediatric-pelvic-masses-cystic-and-solid}
 
 ### 囊性盆腔腫塊 / Cystic Pelvic Masses {#囊性盆腔腫塊--cystic-pelvic-masses}
@@ -3765,7 +4008,9 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### 臍尿管異常 / Urachal Anomaly {#臍尿管異常--urachal-anomaly}
 
-臍尿管異常源自胚胎期尿囊（allantois）未完全閉塞。臍尿管是尿囊的殘留構造，將膀胱與臍帶相連。若臍尿管異常未切除，有發生**腺癌（adenocarcinoma）**的風險。
+- 臍尿管異常源自胚胎期尿囊（allantois）未完全閉塞
+- 臍尿管是尿囊的殘留構造，將膀胱與臍帶相連
+- 若臍尿管異常未切除，有發生**腺癌（adenocarcinoma）**的風險
 
 | 類型 / Type | 說明 / Description |
 |---|---|
@@ -3776,7 +4021,8 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### 直腸重複囊腫 / Rectal Duplication Cyst {#直腸重複囊腫--rectal-duplication-cyst}
 
-直腸重複囊腫是罕見的胃腸道重複囊腫（gastrointestinal duplication cyst）類型，通常發生於直腸後空間（retrorectal space）。因具有惡性潛能，通常予以切除。
+- 直腸重複囊腫是罕見的胃腸道重複囊腫（gastrointestinal duplication cyst）類型，通常發生於直腸後空間（retrorectal space）
+- 因具有惡性潛能，通常予以切除
 
 #### 陰道與子宮擴張 / Hydrometrocolpos and Hematometrocolpos {#陰道與子宮擴張--hydrometrocolpos-and-hematometrocolpos}
 
@@ -3794,7 +4040,8 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### 苗勒氏管囊腫 / Müllerian Duct Cyst {#苗勒氏管囊腫--müllerian-duct-cyst}
 
-苗勒氏管囊腫由苗勒氏管（Müllerian ducts）不完全退化所致。正常男性其苗勒氏管會退化；殘存的苗勒氏管可形成苗勒氏管囊腫。
+- 苗勒氏管囊腫由苗勒氏管（Müllerian ducts）不完全退化所致
+- 正常男性其苗勒氏管會退化；殘存的苗勒氏管可形成苗勒氏管囊腫
 
 ### 僅見於女性 / Girls Only {#僅見於女性--girls-only}
 
@@ -3802,7 +4049,8 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### 前列腺小囊 / Prostatic Utricle {#前列腺小囊--prostatic-utricle}
 
-前列腺小囊是正常的中線構造，為苗勒氏管末端的殘留，源自後尿道靠近精丘（verumontanum，即後尿道近精囊插入處的隆起）的部位。當合併**尿道下裂（hypospadia，尿道開口於陰莖腹側）**時，前列腺小囊可變得非常大。
+- 前列腺小囊是正常的中線構造，為苗勒氏管末端的殘留，源自後尿道靠近精丘（verumontanum，即後尿道近精囊插入處的隆起）的部位
+- 當合併**尿道下裂（hypospadia，尿道開口於陰莖腹側）**時，前列腺小囊可變得非常大
 
 ### 僅見於男性 / Boys Only {#僅見於男性--boys-only}
 
@@ -3812,11 +4060,16 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### 橫紋肌肉瘤 / Rhabdomyosarcoma {#橫紋肌肉瘤--rhabdomyosarcoma}
 
-橫紋肌肉瘤是兒童最常見的肉瘤（sarcoma），在盆腔與頭頸部的發生率相當（兩者合計約佔病例的 80%）。影像特徵為特有的分葉狀、葡萄串（bunch of grapes）外觀。
+- 橫紋肌肉瘤是兒童最常見的肉瘤（sarcoma），在盆腔與頭頸部的發生率相當（兩者合計約佔病例的 80%）
+- 影像特徵為特有的分葉狀、葡萄串（bunch of grapes）外觀
 
 #### 骶尾畸胎瘤 / Sacrococcygeal Teratoma {#骶尾畸胎瘤--sacrococcygeal-teratoma}
 
-骶尾畸胎瘤通常在產前影像即已明顯。若出生後才發現，其典型臨床表現為從臀部中線延伸而出的、有皮膚覆蓋的腫塊。骶尾畸胎瘤的影像表現不均勻，含有囊性、實性與脂肪成分。
+![骶尾畸胎瘤（印刷頁 802）](/core_radiology/images/pediatric/page-811.png)
+
+- 骶尾畸胎瘤通常在產前影像即已明顯
+- 若出生後才發現，其典型臨床表現為從臀部中線延伸而出的、有皮膚覆蓋的腫塊
+- 骶尾畸胎瘤的影像表現不均勻，含有囊性、實性與脂肪成分
 
 > **臨床要點**：小兒盆腔囊性腫塊先問性別，再依列表逐項排除——臍尿管異常（任何性別）、苗勒氏管囊腫與前列腺小囊（性別相關），直腸重複囊腫與卵巢皮樣囊腫則屬罕見但需切除者。
 
@@ -3838,20 +4091,22 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 <!-- page: 811 -->
 
-![骶尾畸胎瘤（印刷頁 802）](/core_radiology/images/pediatric/page-811.png)
 ## 小兒骨骼肌肉系統：生長板與骨折 / Pediatric Musculoskeletal: Physis and Fractures {#小兒骨骼肌肉系統生長板與骨折--pediatric-musculoskeletal-physis-and-fractures}
 
 ### 生長板的生理 / Physiology of the Physis {#生長板的生理--physiology-of-the-physis}
 
 生長板（physis，即 growth plate）由四個組織學上分層排列的軟骨區（zones of cartilage）構成。
 
-最接近骨幹端的區域為**暫時性鈣化區（zone of provisional calcification）**，由軟骨細胞（chondrocytes）組成；這些細胞在為基質做好鈣化準備後便發生細胞凋亡（apoptosis）。隨後新骨沿著這些軟骨細胞所形成的支架生成，造成**縱向生長（longitudinal growth）**。
+- 最接近骨幹端的區域為**暫時性鈣化區（zone of provisional calcification）**，由軟骨細胞（chondrocytes）組成；這些細胞在為基質做好鈣化準備後便發生細胞凋亡（apoptosis）
+- 隨後新骨沿著這些軟骨細胞所形成的支架生成，造成**縱向生長（longitudinal growth）**
 
 ### 兒童骨折 / Fractures in Children {#兒童骨折--fractures-in-children}
 
-未融合的生長板是發育中骨骼最脆弱的部位。在成人可能僅造成韌帶扭傷的傷害，在兒童則可能造成生長板骨折（physeal fracture）。
+- 未融合的生長板是發育中骨骼最脆弱的部位
+- 在成人可能僅造成韌帶扭傷的傷害，在兒童則可能造成生長板骨折（physeal fracture）
 
-**Salter–Harris 分類（SH 系統）**依據生長板與鄰近骨骺（epiphysis）、骨幹（metaphysis）的受累情形來分類生長板骨折。一般而言，**分類愈高，發生生長障礙的機會愈大**。
+- **Salter–Harris 分類（SH 系統）**依據生長板與鄰近骨骺（epiphysis）、骨幹（metaphysis）的受累情形來分類生長板骨折
+- 一般而言，**分類愈高，發生生長障礙的機會愈大**
 
 | 分類 / Type | 骨折範圍 / Extent | 影像表現 / Radiographic Appearance |
 |---|---|---|
@@ -3863,11 +4118,15 @@ MRI 上，神經母細胞瘤常侵入神經孔與椎管。擴散常受限，反�
 
 #### Type I：僅限生長板 / Injury Limited to the Physis {#type-i僅限生長板--injury-limited-to-the-physis}
 
-若骨骺未移位，SH I 損傷在 X 光上常呈隱匿。生長板可能呈**不對稱性增寬（asymmetrically widened）**。若未見生長板增寬，可依骨骺周圍的**軟組織腫脹**提示 SH I 損傷的診斷。
+- 若骨骺未移位，SH I 損傷在 X 光上常呈隱匿
+- 生長板可能呈**不對稱性增寬（asymmetrically widened）**
+- 若未見生長板增寬，可依骨骺周圍的**軟組織腫脹**提示 SH I 損傷的診斷
 
 例子：**股骨頭骨骺滑脫（slipped capital femoral epiphysis）**與**體操手腕（gymnast’s wrist）**——後者為腕部反覆慢性壓力造成的生長板增寬，可模仿佝僂病（rickets）。
 
 #### Type II：骨折延伸至骨幹 / Fracture Extends to Metaphysis {#type-ii骨折延伸至骨幹--fracture-extends-to-metaphysis}
+
+![Type II：骨折延伸至骨幹（印刷頁 803）](/core_radiology/images/pediatric/page-812.png)
 
 Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phalanx）尺側基底部無移位性骨折（箭頭），並延伸至生長板。
 
@@ -3887,7 +4146,6 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 812 -->
 
-![Type II：骨折延伸至骨幹（印刷頁 803）](/core_radiology/images/pediatric/page-812.png)
 ## Salter–Harris 分類（續）：Type III–V / Salter-Harris Classification (continued): Types III–V {#salterharris-分類續type-iiiv--salter-harris-classification-continued-types-iiiv}
 
 ### Type III：骨折延伸至骨骺 / Fracture Extends to Epiphysis {#type-iii骨折延伸至骨骺--fracture-extends-to-epiphysis}
@@ -3906,6 +4164,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 ### Type V：生長板壓碎 / Physis Is Crushed {#type-v生長板壓碎--physis-is-crushed}
 
 #### 記憶口訣 / Mnemonic {#記憶口訣--mnemonic}
+
+![記憶口訣（印刷頁 804）](/core_radiology/images/pediatric/page-813.png)
 
 **SALTR**
 
@@ -3927,7 +4187,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 | T | Through（貫穿） |
 | C | Crushed（壓碎） |
 
-冠狀位踝部 CT 顯示骨骺的複合性損傷，含垂直成分及骨骺碎片向外側移位。通過生長板層次的軸位 CT 顯示兩條互相垂直的水平骨骺骨折。
+- 冠狀位踝部 CT 顯示骨骺的複合性損傷，含垂直成分及骨骺碎片向外側移位
+- 通過生長板層次的軸位 CT 顯示兩條互相垂直的水平骨骺骨折
 
 > **臨床要點**：三平面骨折與 Tillaux 骨折都屬 Salter–Harris 系統中「多重平面」的類型，解讀時須在矢狀位、冠狀位與軸位都仔細檢視，避免低估骨折範圍。
 
@@ -3945,10 +4206,10 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 813 -->
 
-![記憶口訣（印刷頁 804）](/core_radiology/images/pediatric/page-813.png)
 ## 小兒肘部：骨化中心與 CRITOE / Pediatric Elbow: Ossification Centers and CRITOE {#小兒肘部骨化中心與-critoe--pediatric-elbow-ossification-centers-and-critoe}
 
-小兒肘部共有**六個獨立的骨化中心（ossification centers）**，各自在不同發育階段出現，因此評估小兒肘部相當具有挑戰性。不過，軟骨性骨化中心**總是依固定順序骨化**，可用口訣 **CRITOE** 記憶：
+- 小兒肘部共有**六個獨立的骨化中心（ossification centers）**，各自在不同發育階段出現，因此評估小兒肘部相當具有挑戰性
+- 不過，軟骨性骨化中心**總是依固定順序骨化**，可用口訣 **CRITOE** 記憶：
 
 | 字母 / Letter | 骨化中心 / Ossification Center | 說明 / Notes |
 |---|---|---|
@@ -3970,6 +4231,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 ### 判讀小兒肘部影像的實用原則 / Practical Approach {#判讀小兒肘部影像的實用原則--practical-approach}
 
+![判讀小兒肘部影像的實用原則（印刷頁 805）](/core_radiology/images/pediatric/page-814.png)
+
 在正面（AP）與側面（lateral）影像上，須依序辨識上述六個骨化中心的位置與形態，並注意其與肱骨（humerus）、橈骨（radius）、尺骨（ulna）的對位關係；彎曲的側位影像（flexed lateral view）可同時顯示肱骨小頭（C）、橈骨頭（R）、鷹嘴（O）與內上髁（I）的相對位置。
 
 > **臨床要點**：小兒肘部 X 光難判讀的根本原因是六個骨化中心陸續出現；CRITOE 的順序與「哪些骨化中心與哪些關節面相接、哪些是韌帶附著處」是判讀時最有價值的線索。
@@ -3986,14 +4249,14 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 814 -->
 
-![判讀小兒肘部影像的實用原則（印刷頁 805）](/core_radiology/images/pediatric/page-814.png)
 ## 小兒肘部：脂肪墊、對位線與骨折 / Pediatric Elbow: Fat Pads, Alignment Lines, and Fractures {#小兒肘部脂肪墊對位線與骨折--pediatric-elbow-fat-pads-alignment-lines-and-fractures}
 
 ### 脂肪墊徵象 / Fat Pad Signs {#脂肪墊徵象--fat-pad-signs}
 
 **肘關節積液（elbow effusion）**以**前方與／或後方脂肪墊移位**為證據（**後方更敏感**），即使 X 光上看不見骨折，此徵象對骨折仍具有**病理性特徵（pathognomonic）**。
 
-肘部側位 X 光顯示**後方脂肪墊徵（posterior fat pad sign）**，提示肘關節積液（黃色箭頭）。肱骨後方的骨性隆起（紅色箭頭）代表**髁上骨折（supracondylar fracture）**。
+- 肘部側位 X 光顯示**後方脂肪墊徵（posterior fat pad sign）**，提示肘關節積液（黃色箭頭）
+- 肱骨後方的骨性隆起（紅色箭頭）代表**髁上骨折（supracondylar fracture）**
 
 ### 對位線的評估 / Alignment {#對位線的評估--alignment}
 
@@ -4004,9 +4267,12 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 | 前方肱骨線 / Anterior humeral line | 沿肱骨前方皮質繪製 | 側位影像上應通過已骨化肱骨小頭的中點 | 髁上骨折 / Supracondylar fracture |
 | 橈肱骨線 / Radiocapitellar line | 沿橈骨幹繪製 | 所有影像角度都應通過肱骨小頭 | 肘關節脫位 / Elbow dislocation |
 
-前方肱骨線沿肱骨前方皮質繪製，在側位影像上應與肱骨小頭中央相交。橈肱骨線沿橈骨中段繪製，在所有角度都應與肱骨小頭相交。
+- 前方肱骨線沿肱骨前方皮質繪製，在側位影像上應與肱骨小頭中央相交
+- 橈肱骨線沿橈骨中段繪製，在所有角度都應與肱骨小頭相交
 
 ### 常見骨折 / Common Fractures {#常見骨折--common-fractures}
+
+![常見骨折（印刷頁 806）](/core_radiology/images/pediatric/page-815.png)
 
 | 骨折 / Fracture | 說明 / Notes |
 |---|---|
@@ -4030,25 +4296,29 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 815 -->
 
-![常見骨折（印刷頁 806）](/core_radiology/images/pediatric/page-815.png)
 ## 小兒常見骨折：幼兒脛骨骨折與弓形骨折 / Common Pediatric Fractures: Toddler’s and Buckle Fractures {#小兒常見骨折幼兒脛骨骨折與弓形骨折--common-pediatric-fractures-toddlers-and-buckle-fractures}
 
 ### 幼兒骨折（Toddler’s fracture） / Toddler’s Fracture {#幼兒骨折toddlers-fracture--toddlers-fracture}
 
 幼兒骨折是因旋轉力作用於下肢所造成、貫穿脛骨骨幹與骨骺交界處（metadiaphysis）的**無移位螺旋骨折（nondisplaced spiral fracture）**。
 
-幼兒骨折在臨床上可能**難以診斷**。X 光可見一條穿過遠端脛骨的**髮絲狀螺旋透亮線（hairline spiral lucency）**。
+- 幼兒骨折在臨床上可能**難以診斷**
+- X 光可見一條穿過遠端脛骨的**髮絲狀螺旋透亮線（hairline spiral lucency）**
 
 - 立方骨（cuboid）與跟骨（calcaneus）的無移位骨折外觀可能相似，有時僅有一條**微弱的硬化帶（faint sclerotic band）**是骨折的唯一徵象。
 - 幼兒骨折：下肢正面 X 光顯示穿過遠端脛骨的螺旋透亮線（黃色箭頭），並有延伸至骨骺的硬化成分（紅色箭頭）。
 
 ### 橈骨弓形骨折（Radial buckle fracture） / Distal Radial Buckle Fracture {#橈骨弓形骨折radial-buckle-fracture--distal-radial-buckle-fracture}
 
+![橈骨弓形骨折（Radial buckle fracture）（印刷頁 807）](/core_radiology/images/pediatric/page-816.png)
+
 遠端橈骨弓形骨折：腕部正面 X 光顯示遠端橈骨皮質有細微的不規則與成角（箭頭），代表成角的弓形骨折。
 
 弓形骨折（buckle fracture）是**小兒骨骼特有**的傷型，代表皮質**彎曲皺折（buckling）**而非真正的骨折斷裂。
 
-弓形骨折在影像上可能十分細微，有時僅靠**仔細檢視皮質**才能發現。正常皮質應平滑到可以讓一顆虛擬的彈珠（virtual marble）沿著皮質滾下而不彈跳離開。任何兒童的**局部皮質不規則**都應懷疑弓形骨折。
+- 弓形骨折在影像上可能十分細微，有時僅靠**仔細檢視皮質**才能發現
+- 正常皮質應平滑到可以讓一顆虛擬的彈珠（virtual marble）沿著皮質滾下而不彈跳離開
+- 任何兒童的**局部皮質不規則**都應懷疑弓形骨折
 
 > **臨床要點**：幼兒脛骨骨折與跟骨／立方骨骨折外觀相似，且 X 光可完全陰性；「皮質是否像能讓彈珠滾過一樣平滑」是判斷弓形骨折的實用準繩。
 
@@ -4064,14 +4334,15 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 816 -->
 
-![橈骨弓形骨折（Radial buckle fracture）（印刷頁 807）](/core_radiology/images/pediatric/page-816.png)
 ## 骨盆骨突撕脫傷 / Pelvic Apophyseal Avulsion Injuries {#骨盆骨突撕脫傷--pelvic-apophyseal-avulsion-injuries}
 
 ### 骨突的定義 / What Is an Apophysis {#骨突的定義--what-is-an-apophysis}
 
 **骨突（apophysis）**是一種**不參與縱向生長**的生長板。
 
-骨盆共有**五個骨突**，另有**兩個股骨近端骨突**；它們在青春期出現，至第三個十年融合。骨突是肌腱單位（myotendinous unit）中最脆弱的一環。骨盆骨突在骨骼發育中關閉得**相對較晚**，因此容易發生撕脫。
+- 骨盆共有**五個骨突**，另有**兩個股骨近端骨突**；它們在青春期出現，至第三個十年融合
+- 骨突是肌腱單位（myotendinous unit）中最脆弱的一環
+- 骨盆骨突在骨骼發育中關閉得**相對較晚**，因此容易發生撕脫
 
 ### 撕脫傷的臨床與影像表現 / Clinical and Imaging Features {#撕脫傷的臨床與影像表現--clinical-and-imaging-features}
 
@@ -4082,7 +4353,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 | 急性 / Acute | 可見被撕脫的骨碎片 |
 | 亞急性 / Subacute | 外觀較複雜；取材處（donor site）因修補反應可出現混合性溶骨與硬化變化 |
 
-撕脫傷可能**相當細微**，因為它們相當於 **Salter–Harris I 型**的骨折。被撕脫的骨突骨化中心本身外觀正常，且**移位極少或完全沒有移位**。
+- 撕脫傷可能**相當細微**，因為它們相當於 **Salter–Harris I 型**的骨折
+- 被撕脫的骨突骨化中心本身外觀正常，且**移位極少或完全沒有移位**
 
 ### 骨盆骨突與其附著肌肉 / Pelvic Apophyses and Attached Muscles {#骨盆骨突與其附著肌肉--pelvic-apophyses-and-attached-muscles}
 
@@ -4102,6 +4374,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 - **小轉子**：髂腰肌的附著處。
 
 ### 特殊情況 / Special Note {#特殊情況--special-note}
+
+![特殊情況（印刷頁 808）](/core_radiology/images/pediatric/page-817.png)
 
 雖然在運動中的青少年可因髂腰肌止點撕脫而發生**小轉子撕脫**，但在成人，**小轉子骨折須懷疑病理性骨折（pathologic fracture）**。
 
@@ -4125,18 +4399,19 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 817 -->
 
-![特殊情況（印刷頁 808）](/core_radiology/images/pediatric/page-817.png)
 ## 兒童虐待：影像學檢查 / Child Abuse: Imaging Evaluation {#兒童虐待影像學檢查--child-abuse-imaging-evaluation}
 
 ### 檢查概況 / Overview of Imaging for Child Abuse {#檢查概況--overview-of-imaging-for-child-abuse}
 
-若臨床上或 X 光上對兒童虐待（child abuse）有疑慮，應執行**完整的骨骼攝影檢查（complete skeletal survey）**，使用**高解析度骨骼技術**（適用於 2 歲以下兒童），包括**所有長骨的正位影像、含斜位的肋骨影像、頭顱、骨盆、手／足，以及整段脊椎**。影像須由放射科醫師在**患童仍在影像室時**即時判讀。
+- 若臨床上或 X 光上對兒童虐待（child abuse）有疑慮，應執行**完整的骨骼攝影檢查（complete skeletal survey）**，使用**高解析度骨骼技術**（適用於 2 歲以下兒童），包括**所有長骨的正位影像、含斜位的肋骨影像、頭顱、骨盆、手／足，以及整段脊椎**
+- 影像須由放射科醫師在**患童仍在影像室時**即時判讀
 
 **骨骼閃爍掃描（bone scintigraphy）**對**後方肋骨骨折**較敏感，但其**輻射劑量高於**一般 X 光、**對頭顱骨折不敏感**，且**無法評估骨折形態以判斷年齡**。
 
 #### 以骨痂估計骨折年齡 / Dating Fractures by Callus {#以骨痂估計骨折年齡--dating-fractures-by-callus}
 
-骨折年齡依據**骨痂（callus）形成**來估計。一般而言：
+- 骨折年齡依據**骨痂（callus）形成**來估計
+- 一般而言：
 
 - **無骨痂**：骨折**小於兩週**。
 - **有骨痂**：骨折**至少一週**。
@@ -4145,7 +4420,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 ### 高度特異性的骨折 / Highly Specific Fractures {#高度特異性的骨折--highly-specific-fractures}
 
-下列骨折對兒童虐待**高度特異**，但**並非最常見的骨折**，也**不一定每次都看得到**。若見到其中任何一項，都必須立即提出對兒童虐待的關切。
+- 下列骨折對兒童虐待**高度特異**，但**並非最常見的骨折**，也**不一定每次都看得到**
+- 若見到其中任何一項，都必須立即提出對兒童虐待的關切
 
 - **典型幹骺端病變（classic metaphyseal lesion）**：又稱幹骺端轉角骨折（metaphyseal corner fracture）或**桶柄骨折（bucket handle fracture）**。是貫穿遠端幹骺端周邊海綿狀骨的環周性骨折，最常見於**膝部或踝部周圍**。典型幹骺端病變被認為源於**劇烈搖晃（violent shaking）**。
   - 典型幹骺端病變**癒合很快（10 天內）且不形成骨痂**，因此**及早攝影是診斷的關鍵**。
@@ -4166,6 +4442,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 - **複雜性顱骨骨折**。
 
 ### 非特異但常見的骨折 / Nonspecific but Frequently Seen {#非特異但常見的骨折--nonspecific-but-frequently-seen}
+
+![非特異但常見的骨折（印刷頁 809）](/core_radiology/images/pediatric/page-818.png)
 
 下列骨折在兒童虐待與意外外傷兩種情境都常見，單獨出現時**不具特異性**：
 
@@ -4192,12 +4470,12 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 818 -->
 
-![非特異但常見的骨折（印刷頁 809）](/core_radiology/images/pediatric/page-818.png)
 ## 骨骼發育不全（骨骼異形） / Skeletal Dysplasias {#骨骼發育不全骨骼異形--skeletal-dysplasias}
 
 ### 概論 / Overview of Skeletal Dysplasias {#概論--overview-of-skeletal-dysplasias}
 
-**骨骼發育不全（bone dysplasias）**的特徵是**骨頭正常生長受到妨礙**，因而產生異常的骨架。這種障礙可以表現為生長**減慢**、**加快**，或使骨頭**以異常方式生長**。
+- **骨骼發育不全（bone dysplasias）**的特徵是**骨頭正常生長受到妨礙**，因而產生異常的骨架
+- 這種障礙可以表現為生長**減慢**、**加快**，或使骨頭**以異常方式生長**
 
 #### 肢體異常生長的專用名詞 / Terms for Abnormal Limb Growth {#肢體異常生長的專用名詞--terms-for-abnormal-limb-growth}
 
@@ -4211,7 +4489,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 ### 軟骨發育不全 / Achondroplasia {#軟骨發育不全--achondroplasia}
 
-**軟骨發育不全（achondroplasia）**是**侏儒症（dwarfism）**最常見的原因。受影響者的**智力正常**。
+- **軟骨發育不全（achondroplasia）**是**侏儒症（dwarfism）**最常見的原因
+- 受影響者的**智力正常**
 
 主要 X 光表現集中在**腰骶椎與骨盆**：
 
@@ -4227,6 +4506,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 - 軟骨發育不全：腹部 X 光顯示下段腰椎椎間距離變窄（黃色雙箭頭）、墓碑狀髂骨翼（紅色箭頭）與平坦的髂臼（藍色箭頭）。此患兒另置有鼻胃管。
 
 ### 致死性骨骼發育不全：胎兒型軟骨發育不全 / Thanatophoric Dysplasia (Lethal) {#致死性骨骼發育不全胎兒型軟骨發育不全--thanatophoric-dysplasia-lethal}
+
+![致死性骨骼發育不全：胎兒型軟骨發育不全（印刷頁 810）](/core_radiology/images/pediatric/page-819.png)
 
 **致死性胎兒型軟骨發育不全（thanatophoric dysplasia）**是最常見的致死性骨骼發育不全，屬**體染色體顯性遺傳**。
 
@@ -4251,14 +4532,15 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 819 -->
 
-![致死性骨骼發育不全：胎兒型軟骨發育不全（印刷頁 810）](/core_radiology/images/pediatric/page-819.png)
 ## 骨生成不全、成骨不全與相關骨骼疾病 / Osteogenesis Imperfecta and Related Skeletal Disorders {#骨生成不全成骨不全與相關骨骼疾病--osteogenesis-imperfecta-and-related-skeletal-disorders}
 
 ### 骨生成不全症 / Osteogenesis Imperfecta (OI) {#骨生成不全症--osteogenesis-imperfecta-oi}
 
-**骨生成不全症（osteogenesis imperfecta, OI）**是一群因**第一型膠原（type I collagen）異常**所致的疾病，表現型譜多樣。其中 **OI 第二型為致死型**。
+- **骨生成不全症（osteogenesis imperfecta, OI）**是一群因**第一型膠原（type I collagen）異常**所致的疾病，表現型譜多樣
+- 其中 **OI 第二型為致死型**
 
-主要 X 光表現包括**多發性骨折**，好發於**肋骨**（造成特有的**手風琴狀肋骨，accordion ribs**）、**椎體**與**長骨**。其他表現包括：
+- 主要 X 光表現包括**多發性骨折**，好發於**肋骨**（造成特有的**手風琴狀肋骨，accordion ribs**）、**椎體**與**長骨**
+- 其他表現包括：
 
 - **長骨彎曲（Bowed long bones）**。
 - **骨質稀疏（osteopenia）**。
@@ -4286,7 +4568,10 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 ### 鎖骨顱骨發育不全 / Cleidocranial Dysostosis {#鎖骨顱骨發育不全--cleidocranial-dysostosis}
 
-**鎖骨顱骨發育不全（cleidocranial dysostosis）**是一種主要表現為**鎖骨異常**的骨骼發育不全。受影響患者**智力正常**，但**身高通常較矮**。
+![鎖骨顱骨發育不全（印刷頁 811）](/core_radiology/images/pediatric/page-820.png)
+
+- **鎖骨顱骨發育不全（cleidocranial dysostosis）**是一種主要表現為**鎖骨異常**的骨骼發育不全
+- 受影響患者**智力正常**，但**身高通常較矮**
 
 關鍵 X 光表現是**鎖骨完全或部分缺如**。
 
@@ -4320,7 +4605,6 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 820 -->
 
-![鎖骨顱骨發育不全（印刷頁 811）](/core_radiology/images/pediatric/page-820.png)
 ## 骨骼發育不全續：點狀骨骺、內生軟骨瘤與黏多醣症 / Skeletal Dysplasias: Stippled Epiphyses, Enchondromatoses, and Mucopolysaccharidoses {#骨骼發育不全續點狀骨骺內生軟骨瘤與黏多醣症--skeletal-dysplasias-stippled-epiphyses-enchondromatoses-and-mucopolysaccharidoses}
 
 ### 點狀骨骺 / Stippled Epiphyses {#點狀骨骺--stippled-epiphyses}
@@ -4334,7 +4618,8 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 ### 內生軟骨瘤症 / Enchondromatoses {#內生軟骨瘤症--enchondromatoses}
 
-**內生軟骨瘤症（enchondromatoses）**的特徵是**多發性骨內良性軟骨腫瘤，呈不對稱分布**。這些症候群**惡性轉化為軟骨肉瘤（chondrosarcoma）的風險升高**（**Maffucci > Ollier**）。
+- **內生軟骨瘤症（enchondromatoses）**的特徵是**多發性骨內良性軟骨腫瘤，呈不對稱分布**
+- 這些症候群**惡性轉化為軟骨肉瘤（chondrosarcoma）的風險升高**（**Maffucci > Ollier**）
 
 | 疾病 / Condition | 定義 / Definition |
 |---|---|
@@ -4353,9 +4638,13 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 #### 概論 / Overview of Mucopolysaccharidoses {#概論--overview-of-mucopolysaccharidoses}
 
-**黏多醣症（mucopolysaccharidoses, MPS）**是一群**溶小體儲積症（lysosomal storage disorders）**，包括 **Hurler 症、Morquio 症與 Hunter 症**。這些疾病共有許多共同的 X 光表現，通常在**臨床與生化**上加以區分。
+![概論（印刷頁 812）](/core_radiology/images/pediatric/page-821.png)
 
-主要 X 光表現包括**椎體前方呈鳥喙狀（anterior vertebral body beaking）**、**肋骨增粗**與**骨端不成比例增粗（undertubulated bones）**。其他表現包括：
+- **黏多醣症（mucopolysaccharidoses, MPS）**是一群**溶小體儲積症（lysosomal storage disorders）**，包括 **Hurler 症、Morquio 症與 Hunter 症**
+- 這些疾病共有許多共同的 X 光表現，通常在**臨床與生化**上加以區分
+
+- 主要 X 光表現包括**椎體前方呈鳥喙狀（anterior vertebral body beaking）**、**肋骨增粗**與**骨端不成比例增粗（undertubulated bones）**
+- 其他表現包括：
 
 - **腕部 Madelung 畸形**（近端腕骨呈楔狀，橈骨朝尺骨方向移位）。
 - **顱蓋增厚伴 J 形蝶鞍（J-shaped sella）**。
@@ -4385,7 +4674,6 @@ Salter–Harris II 骨折：手部 X 光顯示第三近端指骨（proximal phal
 
 <!-- page: 821 -->
 
-![概論（印刷頁 812）](/core_radiology/images/pediatric/page-821.png)
 ## 跛行患童與化膿性髖關節炎 / Child with Limp and Septic Hip Arthritis {#跛行患童與化膿性髖關節炎--child-with-limp-and-septic-hip-arthritis}
 
 ### 跛行的評估 / Evaluating a Limp {#跛行的評估--evaluating-a-limp}
@@ -4413,7 +4701,10 @@ X 光對評估積液**既不敏感也不可靠**，但可見：
 
 #### 超音波 / Ultrasound {#超音波--ultrasound}
 
-**超音波是首選影像檢查（imaging modality of choice）**，且**應左右兩側比較對稱性**。積液內部若出現回音（internal echoes），**並無臨床意義**。
+![超音波（印刷頁 813）](/core_radiology/images/pediatric/page-822.png)
+
+- **超音波是首選影像檢查（imaging modality of choice）**，且**應左右兩側比較對稱性**
+- 積液內部若出現回音（internal echoes），**並無臨床意義**
 
 - 同一患童的雙側髖部超音波顯示左側髖關節（右側圖；箭頭）的**無回音液體量**較正常的右側增加。此患童最後診斷為**無菌性毒性滑膜炎**，但其 X 光與超音波表現與化膿性關節炎**完全相同**。
 
@@ -4437,10 +4728,10 @@ X 光對評估積液**既不敏感也不可靠**，但可見：
 
 <!-- page: 822 -->
 
-![超音波（印刷頁 813）](/core_radiology/images/pediatric/page-822.png)
 ## 股骨頭滑脫 / Slipped Capital Femoral Epiphysis (SCFE) {#股骨頭滑脫--slipped-capital-femoral-epiphysis-scfe}
 
-股骨頭滑脫（Slipped Capital Femoral Epiphysis, SCFE）是股骨近端骨骺的 Salter I 型骨折（骨骺自幹骺端移位），見於肥胖的青春期前期兒童（受影響的兒童大多介於 10 至 16 歲之間）。SCFE 通常影響的年齡略大於 Legg–Calvé–Perthes 疾病（Legg–Calvé–Perthes disease, LCP），後者將於下一頁討論。
+- 股骨頭滑脫（Slipped Capital Femoral Epiphysis, SCFE）是股骨近端骨骺的 Salter I 型骨折（骨骺自幹骺端移位），見於肥胖的青春期前期兒童（受影響的兒童大多介於 10 至 16 歲之間）
+- SCFE 通常影響的年齡略大於 Legg–Calvé–Perthes 疾病（Legg–Calvé–Perthes disease, LCP），後者將於下一頁討論
 
 ### 初始影像表現 / Initial Findings {#初始影像表現--initial-findings}
 
@@ -4449,9 +4740,12 @@ X 光對評估積液**既不敏感也不可靠**，但可見：
 - 近端股骨生長板不對稱性變寬
 - Klein 線（Klein's line）與股骨頭不相交
 
-Klein 線是沿股骨頸外側緣所畫的直線，正常情況下應與股骨頭相交（如下方正常的右髖關節所示）。SCFE 的影像線索之一即是 Klein 線與股骨頭不相交。
+- Klein 線是沿股骨頸外側緣所畫的直線，正常情況下應與股骨頭相交（如下方正常的右髖關節所示）
+- SCFE 的影像線索之一即是 Klein 線與股骨頭不相交
 
-早期左側 SCFE：左側生長板僅輕微變寬（箭頭），尚無骨骺位移。Klein 線的排列僅有極輕微的不對稱（黃色虛線）。這些表現非常細微。
+- 早期左側 SCFE：左側生長板僅輕微變寬（箭頭），尚無骨骺位移
+- Klein 線的排列僅有極輕微的不對稱（黃色虛線）
+- 這些表現非常細微
 
 ### 投照方位 / Projection {#投照方位--projection}
 
@@ -4460,7 +4754,10 @@ Klein 線是沿股骨頸外側緣所畫的直線，正常情況下應與股骨�
 
 ### 對側髖關節 / Contralateral Hip {#對側髖關節--contralateral-hip}
 
-對側髖關節務必仔細評估。SCFE 可為雙側，但通常不對稱。
+![對側髖關節（印刷頁 814）](/core_radiology/images/pediatric/page-823.png)
+
+- 對側髖關節務必仔細評估
+- SCFE 可為雙側，但通常不對稱
 
 > **臨床要點**：SCFE 的正位片早期表現極 subtle，Klein 線未與股骨頭相交是最重要的線索；但生長板變寬與位移請以蛙式側位片判讀，且務必檢查對側髖關節。
 
@@ -4478,16 +4775,20 @@ Klein 線是沿股骨頸外側緣所畫的直線，正常情況下應與股骨�
 
 <!-- page: 823 -->
 
-![對側髖關節（印刷頁 814）](/core_radiology/images/pediatric/page-823.png)
 ## Legg–Calvé–Perthes 疾病 / Legg–Calvé–Perthes (LCP) Disease {#leggcalvéperthes-疾病--leggcalvéperthes-lcp-disease}
 
-Legg–Calvé–Perthes 疾病（Legg–Calvé–Perthes disease, LCP）是股骨頭骨化中心的缺血性壞死（avascular necrosis）。LCP 病因不明（etiology unknown），通常發生於 4 至 8 歲的兒童。
+- Legg–Calvé–Perthes 疾病（Legg–Calvé–Perthes disease, LCP）是股骨頭骨化中心的缺血性壞死（avascular necrosis）
+- LCP 病因不明（etiology unknown），通常發生於 4 至 8 歲的兒童
 
-LCP 通常為單側。若為雙側，應追查全身性病因，例如鐮刀型血球貧血（sickle cell disease）或類固醇使用。
+- LCP 通常為單側
+- 若為雙側，應追查全身性病因，例如鐮刀型血球貧血（sickle cell disease）或類固醇使用
 
 ### 影像表現與分期 / Imaging Findings {#影像表現與分期--imaging-findings}
 
-影像表現取決於分期與病程長短（chronicity）。早期 LCP 可能極 subtle，初次診斷常需合併使用多種影像模態。
+![影像表現與分期（印刷頁 815）](/core_radiology/images/pediatric/page-824.png)
+
+- 影像表現取決於分期與病程長短（chronicity）
+- 早期 LCP 可能極 subtle，初次診斷常需合併使用多種影像模態
 
 | 分期 / Stage | X 光表現 / Radiographic Findings | 骨骼掃描 / Bone Scan |
 |---|---|---|
@@ -4496,7 +4797,8 @@ LCP 通常為單側。若為雙側，應追查全身性病因，例如鐮刀型�
 
 早期 LCP 可在 X 光上僅見股骨頭細微的硬化；同一患者的 Tc-99m MDP 前位平面骨骼掃描可見右側股骨骨骺骨化中心呈光學稀疏缺陷（箭頭）。
 
-晚期 LCP 則出現缺血性壞死的續發徵象：股骨頭變平、變形，並伴隨續發性骨關節炎變化；骨骼掃描通常因修補反應而呈攝取增加。追蹤的略傾斜正位片可見右側股骨頭硬化與不規則加劇，並出現新的碎裂（箭頭）。
+- 晚期 LCP 則出現缺血性壞死的續發徵象：股骨頭變平、變形，並伴隨續發性骨關節炎變化；骨骼掃描通常因修補反應而呈攝取增加
+- 追蹤的略傾斜正位片可見右側股骨頭硬化與不規則加劇，並出現新的碎裂（箭頭）
 
 > **臨床要點**：LCP 早期 X 光常僅有細微硬化，骨骼掃描可協助診斷；晚期則以股骨頭變平變形與續發骨關節炎為主。
 
@@ -4512,12 +4814,12 @@ LCP 通常為單側。若為雙側，應追查全身性病因，例如鐮刀型�
 
 <!-- page: 824 -->
 
-![影像表現與分期（印刷頁 815）](/core_radiology/images/pediatric/page-824.png)
 ## 侵襲性骨腫瘤 / Aggressive Bone Neoplasms {#侵襲性骨腫瘤--aggressive-bone-neoplasms}
 
 ### 骨肉瘤 / Osteosarcoma {#骨肉瘤--osteosarcoma}
 
-典型型骨肉瘤（Conventional Osteosarcoma）：脛骨與腓骨的正位（左圖）與斜位（右圖）X 光可見遠端脛骨硬化性病灶（箭頭），伴隨雲霧狀骨化（cloud-like ossification）延伸至軟組織。此表現屬高度侵襲性腫塊。
+- 典型型骨肉瘤（Conventional Osteosarcoma）：脛骨與腓骨的正位（左圖）與斜位（右圖）X 光可見遠端脛骨硬化性病灶（箭頭），伴隨雲霧狀骨化（cloud-like ossification）延伸至軟組織
+- 此表現屬高度侵襲性腫塊
 
 **影像特徵**
 
@@ -4528,6 +4830,8 @@ LCP 通常為單側。若為雙側，應追查全身性病因，例如鐮刀型�
 - 骨肉瘤於肌肉骨骼影像章節另有詳細討論。
 
 ### 尤文氏肉瘤 / Ewing Sarcoma {#尤文氏肉瘤--ewing-sarcoma}
+
+![尤文氏肉瘤（印刷頁 816）](/core_radiology/images/pediatric/page-825.png)
 
 - 尤文氏肉瘤（Ewing sarcoma）是第二常見的兒科原發性骨腫瘤。
 - 它是一種具神經外胚層分化（neuroectodermal differentiation）的侵襲性小圓藍細胞腫瘤（small round blue cell tumor）。
@@ -4555,14 +4859,14 @@ LCP 通常為單側。若為雙側，應追查全身性病因，例如鐮刀型�
 
 <!-- page: 825 -->
 
-![尤文氏肉瘤（印刷頁 816）](/core_radiology/images/pediatric/page-825.png)
 ## 溶骨性骨病灶 / Lytic Bone Lesions {#溶骨性骨病灶--lytic-bone-lesions}
 
 ### 骨質型 Langerhans 細胞組織球症 / Osseous Langerhans Cell Histiocytosis (LCH) {#骨質型-langerhans-細胞組織球症--osseous-langerhans-cell-histiocytosis-lch}
 
 Langerhans 細胞組織球症（Langerhans Cell Histiocytosis, LCH）是 Langerhans 細胞的異常增殖，臨床表現多樣，從孤立的溶骨性骨病灶到暴發性的全身性疾病皆可見。
 
-Langerhans 細胞是樹突細胞（dendritic cells，即組織球細胞），正常情況下存在於表皮與淋巴結，在其中扮演抗原呈現細胞（antigen-presenting cells）的角色。組織病理學上，電子顯微鏡可在組織球細胞內見到 Birbeck 小體（Birbeck bodies）。
+- Langerhans 細胞是樹突細胞（dendritic cells，即組織球細胞），正常情況下存在於表皮與淋巴結，在其中扮演抗原呈現細胞（antigen-presenting cells）的角色
+- 組織病理學上，電子顯微鏡可在組織球細胞內見到 Birbeck 小體（Birbeck bodies）
 
 ### 臨床亞型 / Clinical Subtypes {#臨床亞型--clinical-subtypes}
 
@@ -4577,7 +4881,10 @@ Langerhans 細胞是樹突細胞（dendritic cells，即組織球細胞），正
 
 ### 嗜酸性肉芽腫的臨床與影像 / Eosinophilic Granuloma {#嗜酸性肉芽腫的臨床與影像--eosinophilic-granuloma}
 
-嗜酸性肉芽腫型 LCH 較為常見，臨床上可表現為疼痛、壓痛與發燒，常模仿骨髓炎（osteomyelitis）。典型受影響年齡為 5 至 15 歲。
+![嗜酸性肉芽腫的臨床與影像（印刷頁 817）](/core_radiology/images/pediatric/page-826.png)
+
+- 嗜酸性肉芽腫型 LCH 較為常見，臨床上可表現為疼痛、壓痛與發燒，常模仿骨髓炎（osteomyelitis）
+- 典型受影響年齡為 5 至 15 歲
 
 受累骨的外觀取決於所侵犯的骨：
 
@@ -4609,12 +4916,13 @@ Langerhans 細胞是樹突細胞（dendritic cells，即組織球細胞），正
 
 <!-- page: 826 -->
 
-![嗜酸性肉芽腫的臨床與影像（印刷頁 817）](/core_radiology/images/pediatric/page-826.png)
 ## 骨髓炎 / Osteomyelitis {#骨髓炎--osteomyelitis}
 
 ### 影像案例 / Imaging Case {#影像案例--imaging-case}
 
-骨髓炎：膝關節正位與側位 X 光（左上格）可見近端脛骨內側幹骺端的不規則透亮區（箭頭）。雙膝冠狀面液體敏感 T2 加權 MRI 顯示近端左側脛骨幹骺端廣泛骨髓水腫，跨越生長板延伸至骨骺（箭頭）並延入軟組織；右膝外觀正常。前後位 Tc-99m MDP 骨骼掃描（左下格）顯示近端左側脛骨攝取增加（箭頭），且三個時相（血管期與血池期未顯示）皆為陽性。
+- 骨髓炎：膝關節正位與側位 X 光（左上格）可見近端脛骨內側幹骺端的不規則透亮區（箭頭）
+- 雙膝冠狀面液體敏感 T2 加權 MRI 顯示近端左側脛骨幹骺端廣泛骨髓水腫，跨越生長板延伸至骨骺（箭頭）並延入軟組織；右膝外觀正常
+- 前後位 Tc-99m MDP 骨骼掃描（左下格）顯示近端左側脛骨攝取增加（箭頭），且三個時相（血管期與血池期未顯示）皆為陽性
 
 ### 傳播途徑 / Spread of Infection {#傳播途徑--spread-of-infection}
 
@@ -4625,9 +4933,16 @@ Langerhans 細胞是樹突細胞（dendritic cells，即組織球細胞），正
 
 ### 影像表現隨解剖進展 / Imaging Progression {#影像表現隨解剖進展--imaging-progression}
 
-X 光、MRI 與閃爍掃描的影像表現隨感染的解剖進展而變化。初期血源性感染位於髓內，之後經由皮質向外擴散並掀起骨膜。兒童的骨膜僅鬆散附著於骨面，因此化膿性感染能顯著掀起骨膜，造成明顯的骨膜反應。
+![影像表現隨解剖進展（印刷頁 818）](/core_radiology/images/pediatric/page-827.png)
 
-一般需 10–15 天，X 光上才會出現可辨識的表現。最初可能是因充血（hyperemia）造成的局部骨質疏鬆（osteopenia）；之後則可出現透亮、常呈侵襲外觀的髓內病灶，侵蝕穿過皮質並引發骨膜反應。MRI 與閃爍掃描對早期骨髓炎的偵測敏感度高得多。骨髓炎於肌肉骨骼影像章節另有討論。
+- X 光、MRI 與閃爍掃描的影像表現隨感染的解剖進展而變化
+- 初期血源性感染位於髓內，之後經由皮質向外擴散並掀起骨膜
+- 兒童的骨膜僅鬆散附著於骨面，因此化膿性感染能顯著掀起骨膜，造成明顯的骨膜反應
+
+- 一般需 10–15 天，X 光上才會出現可辨識的表現
+- 最初可能是因充血（hyperemia）造成的局部骨質疏鬆（osteopenia）；之後則可出現透亮、常呈侵襲外觀的髓內病灶，侵蝕穿過皮質並引發骨膜反應
+- MRI 與閃爍掃描對早期骨髓炎的偵測敏感度高得多
+- 骨髓炎於肌肉骨骼影像章節另有討論
 
 > **臨床要點**：兒童骨髓炎最常為血源性並以幹骺端為起始點；X 光需 10–15 天才顯現，早期應靠 MRI 與骨骼掃描。
 
@@ -4645,7 +4960,6 @@ X 光、MRI 與閃爍掃描的影像表現隨感染的解剖進展而變化。�
 
 <!-- page: 827 -->
 
-![影像表現隨解剖進展（印刷頁 818）](/core_radiology/images/pediatric/page-827.png)
 ## 脊椎骨髓炎／椎間盤炎 / Spinal Osteomyelitis and Discitis {#脊椎骨髓炎椎間盤炎--spinal-osteomyelitis-and-discitis}
 
 ### 椎間盤炎 / Discitis {#椎間盤炎--discitis}
@@ -4666,6 +4980,8 @@ X 光、MRI 與閃爍掃描的影像表現隨感染的解剖進展而變化。�
 - MRI 顯示椎間盤間隙變窄，並伴隨兩個相鄰椎體的骨髓水腫；受累椎體可見強化，且強化與水腫可延伸至軟組織與硬膜外腔。
 
 ### 慢性復發性多發性骨髓炎 / Chronic Recurrent Multifocal Osteomyelitis (CRMO) {#慢性復發性多發性骨髓炎--chronic-recurrent-multifocal-osteomyelitis-crmo}
+
+![慢性復發性多發性骨髓炎（印刷頁 819）](/core_radiology/images/pediatric/page-828.png)
 
 CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎，好發於下肢長骨。
 
@@ -4699,16 +5015,17 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 <!-- page: 828 -->
 
-![慢性復發性多發性骨髓炎（印刷頁 819）](/core_radiology/images/pediatric/page-828.png)
 ## 白血病 / Leukemia {#白血病--leukemia}
 
 白血病是最常見的兒科惡性腫瘤，超過 50% 的患者可見骨質改變。
 
 ### 影像表現 / Imaging Findings {#影像表現--imaging-findings}
 
-影像表現變異很大。白血病最具鑑別性的 X 光特徵之一是幹骺端透亮帶（metaphyseal lucent band）。
+- 影像表現變異很大
+- 白血病最具鑑別性的 X 光特徵之一是幹骺端透亮帶（metaphyseal lucent band）
 
-透亮帶的成因仍有爭議，認為可能與幼兒的營養不良或維生素缺乏有關。幹骺端透亮帶的鑑別診斷包括：
+- 透亮帶的成因仍有爭議，認為可能與幼兒的營養不良或維生素缺乏有關
+- 幹骺端透亮帶的鑑別診斷包括：
 
 | 鑑別診斷 / Differential Diagnosis |
 |---|
@@ -4725,7 +5042,10 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 #### 佝僂病 / Rickets {#佝僂病--rickets}
 
-佝僂病是維生素 D 不足或維生素 D 代謝異常所致的代謝性骨病。其特徵為在預備鈣化帶（zone of provisional calcification）異常鈣化，導致生長板發育異常。
+![佝僂病（印刷頁 820）](/core_radiology/images/pediatric/page-829.png)
+
+- 佝僂病是維生素 D 不足或維生素 D 代謝異常所致的代謝性骨病
+- 其特徵為在預備鈣化帶（zone of provisional calcification）異常鈣化，導致生長板發育異常
 
 - X 光顯示長骨幹骺端膨大、邊緣不平（fraying）與杯狀變（cupping），常伴隨鄰近幹骺端骨膜新骨形成。
 - 其他表現包括腿部彎曲（bowing）、骨質疏鬆與骨折。
@@ -4755,12 +5075,12 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 <!-- page: 829 -->
 
-![佝僂病（印刷頁 820）](/core_radiology/images/pediatric/page-829.png)
 ## TORCH 感染與兒童關節炎 / Torch Infections and Childhood Arthritis {#torch-感染與兒童關節炎--torch-infections-and-childhood-arthritis}
 
 ### 梅毒 / Syphilis {#梅毒--syphilis}
 
-梅毒由螺旋體（spirochete）梅毒螺旋體（Treponema pallidum）引起。梅毒可經胎盤在子宮內傳播，造成先天性梅毒性骨髓炎（congenital syphilitic osteomyelitis）。
+- 梅毒由螺旋體（spirochete）梅毒螺旋體（Treponema pallidum）引起
+- 梅毒可經胎盤在子宮內傳播，造成先天性梅毒性骨髓炎（congenital syphilitic osteomyelitis）
 
 - **Wimberger 徵**為近端脛骨幹骺端內側面的破壞性侵蝕。Wimberger 徵不可與壞血病的 Wimberger ring sign 混淆，後者指的是骨化中心密度增加。
 - 梅毒是兒童對稱性骨膜反應的許多病因之一。
@@ -4770,6 +5090,8 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 ### 兒童關節炎 / Childhood Arthritis {#兒童關節炎--childhood-arthritis}
 
 #### 幼年型特發性關節炎 / Juvenile Idiopathic Arthritis (JIA) {#幼年型特發性關節炎--juvenile-idiopathic-arthritis-jia}
+
+![幼年型特發性關節炎（印刷頁 821）](/core_radiology/images/pediatric/page-830.png)
 
 幼年型特發性關節炎（Juvenile Idiopathic Arthritis, JIA），亦稱幼年型類風濕性關節炎（juvenile rheumatoid arthritis, JRA）與幼年型慢性關節炎（juvenile chronic arthritis, JCA），是兒童最常見的慢性關節病（chronic arthropathy）。
 
@@ -4799,12 +5121,13 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 <!-- page: 830 -->
 
-![幼年型特發性關節炎（印刷頁 821）](/core_radiology/images/pediatric/page-830.png)
 ## 骨骼排列異常 / Malalignment {#骨骼排列異常--malalignment}
 
 ### 發育性髖關節發育不良 / Developmental Dysplasia of the Hip (DDH) {#發育性髖關節發育不良--developmental-dysplasia-of-the-hip-ddh}
 
-發育性髖關節發育不良（Developmental Dysplasia of the Hip, DDH）是股骨頭與髕臼（acetabulum）關係的異常發育。髕臼角度過淺造成股骨頭未被髕臼覆蓋。臀位產（breech birth）時 DDH 發生率較高，因此所有臀位產嬰兒通常都接受超音波篩檢。
+- 發育性髖關節發育不良（Developmental Dysplasia of the Hip, DDH）是股骨頭與髕臼（acetabulum）關係的異常發育
+- 髕臼角度過淺造成股骨頭未被髕臼覆蓋
+- 臀位產（breech birth）時 DDH 發生率較高，因此所有臀位產嬰兒通常都接受超音波篩檢
 
 超音波檢查於出生後數週進行；之所以延後檢查，是因為圍產期母體荷爾矇會影響新生兒韌帶鬆弛。
 
@@ -4818,7 +5141,10 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 #### X 光判讀 / Radiography {#x-光判讀--radiography}
 
-股骨頭骨化後（通常 6 個月以後）進行 X 光檢查。骨盆正位片上，已骨化的股骨頭正常應位於 Hilgenreiner 線與 Perkins 線交會所形成的內下象限。
+![X 光判讀（印刷頁 822）](/core_radiology/images/pediatric/page-831.png)
+
+- 股骨頭骨化後（通常 6 個月以後）進行 X 光檢查
+- 骨盆正位片上，已骨化的股骨頭正常應位於 Hilgenreiner 線與 Perkins 線交會所形成的內下象限
 
 | 參考線 / Reference Line | 定義 / Definition |
 |---|---|
@@ -4839,10 +5165,12 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 <!-- page: 831 -->
 
-![X 光判讀（印刷頁 822）](/core_radiology/images/pediatric/page-831.png)
 ## 骨軟骨症 / Osteochondroses {#骨軟骨症--osteochondroses}
 
-骨軟骨症（osteochondroses）是一群異質性的疾病，過去曾認為由缺血性壞死（avascular necrosis, AVN）所啟動。目前的觀點認為其中大多數是外傷後的繼發性變化。雖然許多與缺血性壞死相關，但 AVN 一般不被認為是起始因素。多數疾病在男性較常見。
+- 骨軟骨症（osteochondroses）是一群異質性的疾病，過去曾認為由缺血性壞死（avascular necrosis, AVN）所啟動
+- 目前的觀點認為其中大多數是外傷後的繼發性變化
+- 雖然許多與缺血性壞死相關，但 AVN 一般不被認為是起始因素
+- 多數疾病在男性較常見
 
 ### 骨軟骨症一覽 / Overview of Osteochondroses {#骨軟骨症一覽--overview-of-osteochondroses}
 
@@ -4869,7 +5197,10 @@ CRMO 是一種非化膿性（nonpyogenic）發炎性疾病，可模仿骨髓炎�
 
 ### Sever 疾病 / Sever Disease {#sever-疾病--sever-disease}
 
-Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因之一。跟骨骨突的硬化（sclerosis）並非特異性，在無症狀兒童也可見；但骨突碎裂程度較高時可能與疼痛相關。
+![Sever 疾病（印刷頁 823）](/core_radiology/images/pediatric/page-832.png)
+
+- Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因之一
+- 跟骨骨突的硬化（sclerosis）並非特異性，在無症狀兒童也可見；但骨突碎裂程度較高時可能與疼痛相關
 
 > **臨床要點**：骨軟骨症多為外傷後的繼發性變化而非缺血性壞死所致；Blount 疾病按年齡分嬰兒型（雙側、與提早步行及肥胖有關）與青少年型（單側、>6 歲）。
 
@@ -4887,24 +5218,27 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 <!-- page: 832 -->
 
-![Sever 疾病（印刷頁 823）](/core_radiology/images/pediatric/page-832.png)
-## 其他 / Miscellaneous {#其他--miscellaneous}
+## 其他 / Miscellaneous {#其他--miscellaneous-1}
 
 ### 斜頸 / Torticollis {#斜頸--torticollis}
 
-斜頸由先天性纖維瘤病（fibromatosis coli，即胸鎖乳突肌特發性肥大）所致，造成頸部無法完全伸直。通常以物理治療（physical therapy）即可緩解。
+- 斜頸由先天性纖維瘤病（fibromatosis coli，即胸鎖乳突肌特發性肥大）所致，造成頸部無法完全伸直
+- 通常以物理治療（physical therapy）即可緩解
 
 影像案例：雙側頸部超音波顯示左側胸鎖乳突肌呈梭形肥大（箭頭），右側正常。
 
 ### 跗骨聯合 / Tarsal Coalition {#跗骨聯合--tarsal-coalition}
 
-跗骨聯合是跗部原本分離的兩塊骨異常相連。聯合有三種類型：纖維性（fibrous）、軟骨性（cartilaginous）與骨性（osseous）。
+- 跗骨聯合是跗部原本分離的兩塊骨異常相連
+- 聯合有三種類型：纖維性（fibrous）、軟骨性（cartilaginous）與骨性（osseous）
 
 - 最常見的兩種聯合（合計占所有跗骨聯合的 90%）為距骨跟骨聯合（talocalcaneal）與跟骨舟骨聯合（calcaneonavicular）。
 - 臨床上，跗骨聯合在聯合開始骨化時表現為兒童足痛。
 - 跗骨聯合於肌肉骨骼影像章節另有討論。
 
 ### 腕骨聯合 / Carpal Coalition {#腕骨聯合--carpal-coalition}
+
+![腕骨聯合（印刷頁 824）](/core_radiology/images/pediatric/page-833.png)
 
 腕骨聯合是腕骨之間的異常相連。
 
@@ -4929,14 +5263,16 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 <!-- page: 833 -->
 
-![腕骨聯合（印刷頁 824）](/core_radiology/images/pediatric/page-833.png)
 ## 嬰兒與兒童的骨膜反應 / Periosteal Reaction in an Infant or Child {#嬰兒與兒童的骨膜反應--periosteal-reaction-in-an-infant-or-child}
 
-骨膜（periosteum）是覆蓋骨表面（軟骨覆蓋處除外）的薄膜，參與骨質生成與重塑。骨膜受到刺激——可由外傷、感染、發炎、腫瘤或代謝障礙引起——即可產生骨膜反應。
+- 骨膜（periosteum）是覆蓋骨表面（軟骨覆蓋處除外）的薄膜，參與骨質生成與重塑
+- 骨膜受到刺激——可由外傷、感染、發炎、腫瘤或代謝障礙引起——即可產生骨膜反應
 
-「骨膜反應」（periosteal reaction）、「骨膜炎」（periostitis）與「骨膜新骨形成」（periosteal new bone formation）這幾個名詞常被當作同義詞使用。骨膜反應其實只是損傷後的非特異性反應，結果為骨膜新骨生成。
+- 「骨膜反應」（periosteal reaction）、「骨膜炎」（periostitis）與「骨膜新骨形成」（periosteal new bone formation）這幾個名詞常被當作同義詞使用
+- 骨膜反應其實只是損傷後的非特異性反應，結果為骨膜新骨生成
 
-骨膜反應也可與腫瘤或感染相關，在這些疾病中通常呈侵襲性外觀。侵襲性骨膜反應的形態學於肌肉骨骼影像章節討論。
+- 骨膜反應也可與腫瘤或感染相關，在這些疾病中通常呈侵襲性外觀
+- 侵襲性骨膜反應的形態學於肌肉骨骼影像章節討論
 
 ### 生理性骨膜反應 / Physiologic Periosteal Reaction {#生理性骨膜反應--physiologic-periosteal-reaction}
 
@@ -4955,9 +5291,13 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 #### 前列腺素治療 / Prostaglandin Therapy {#前列腺素治療--prostaglandin-therapy}
 
-因先天性心臟病接受前列腺素治療（以維持導管通暢）的新生兒，可能出現骨膜反應。前列腺素被認為會減少破骨細胞的骨吸收。
+![前列腺素治療（印刷頁 825）](/core_radiology/images/pediatric/page-834.png)
 
-影像案例：沿股骨幹的對稱性骨膜反應（箭頭）。此名嬰兒正因先天性心臟病接受前列腺素治療。
+- 因先天性心臟病接受前列腺素治療（以維持導管通暢）的新生兒，可能出現骨膜反應
+- 前列腺素被認為會減少破骨細胞的骨吸收
+
+- 影像案例：沿股骨幹的對稱性骨膜反應（箭頭）
+- 此名嬰兒正因先天性心臟病接受前列腺素治療
 
 > **臨床要點**：嬰兒骨膜反應的鑑別包含生理性（1–4 個月、平滑菲薄、限於長骨內外側）、前列腺素治療（對稱性）與感染、腫瘤等侵襲性反應。
 
@@ -4975,7 +5315,6 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 <!-- page: 834 -->
 
-![前列腺素治療（印刷頁 825）](/core_radiology/images/pediatric/page-834.png)
 ## 小兒神經影像學概論：髓鞘化與皮質發育 / Pediatric Neuroimaging: Myelination and Cortical Development {#小兒神經影像學概論髓鞘化與皮質發育--pediatric-neuroimaging-myelination-and-cortical-development}
 
 ### 正常發育 / Normal Development {#正常發育--normal-development}
@@ -4984,7 +5323,8 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 足月新生兒出生時即可在數個構造看到髓鞘化，包括：內囊後肢（posterior limb of internal capsule）、小腦腳（middle cerebellar peduncle）、丘腦腹外側部（ventrolateral thalami）、腦幹背側（dorsal brainstem），以及中央前回區（perirolandic regions）。
 
-髓鞘化在 T1 加權影像上最為明顯。T1 加權影像上髓鞘呈高訊號（bright）；T2 加權影像上髓鞘呈低訊號（dark）。
+- 髓鞘化在 T1 加權影像上最為明顯
+- T1 加權影像上髓鞘呈高訊號（bright）；T2 加權影像上髓鞘呈低訊號（dark）
 
 髓鞘化一般於 2 歲時達到成熟型態，但額葉仍持續髓鞘化至青春期。
 
@@ -4998,15 +5338,20 @@ Sever 疾病是跟骨骨突炎（而非骨軟骨症），為足跟痛的原因�
 
 #### 多小腦回畸形 / Polymicrogyria {#多小腦回畸形--polymicrogyria}
 
+![多小腦回畸形（印刷頁 826）](/core_radiology/images/pediatric/page-835.png)
+
 多小腦回畸形（polymicrogyria）是皮質發育畸形，其特徵為正常六層皮質結構的紊亂，導致腦溝異常淺、且數目異常地多。
 
 多小腦回畸形被認為是由神經元遷移晚期或皮質層狀組織早期受干擾所造成。
 
-病因可能包括宮內感染（尤其是巨細胞病毒感染，CMV）、宮內缺血，或基因因素。臨床表現包括發育遲緩、四肢癱瘓，或難治性癲癇。
+- 病因可能包括宮內感染（尤其是巨細胞病毒感染，CMV）、宮內缺血，或基因因素
+- 臨床表現包括發育遲緩、四肢癱瘓，或難治性癲癇
 
-MR 影像上，腦溝呈厚、隆起、小且不規則。多小腦回皮質與白質的交界不規則，且較正常者界限較不清楚。
+- MR 影像上，腦溝呈厚、隆起、小且不規則
+- 多小腦回皮質與白質的交界不規則，且較正常者界限較不清楚
 
-T2 加權 MRI 顯示雙側大腦外側裂（perisylvian）多小腦回（箭頭指向大腦外側裂多小腦回）與雙側額葉多小腦回。受影響區域的異常皮質與白質交界呈不規則。
+- T2 加權 MRI 顯示雙側大腦外側裂（perisylvian）多小腦回（箭頭指向大腦外側裂多小腦回）與雙側額葉多小腦回
+- 受影響區域的異常皮質與白質交界呈不規則
 
 雙側大腦外側裂多小腦回是最常見的分布型。
 
@@ -5030,16 +5375,19 @@ T2 加權 MRI 顯示雙側大腦外側裂（perisylvian）多小腦回（箭頭�
 
 <!-- page: 835 -->
 
-![多小腦回畸形（印刷頁 826）](/core_radiology/images/pediatric/page-835.png)
 ## 平腦畸形 / Lissencephaly {#平腦畸形--lissencephaly}
 
-平腦畸形（lissencephaly）的特徵為皮質腦回缺失或減少，造成平滑且增厚的皮質表面。皮質並非正常的六層結構，而是排列成四層原始層（four primitive layers）。平腦畸形被認為是由於一條神經元帶（band of neurons）的遷移停滯——這些神經元未完成向外遷移至淺表皮質。
+- 平腦畸形（lissencephaly）的特徵為皮質腦回缺失或減少，造成平滑且增厚的皮質表面
+- 皮質並非正常的六層結構，而是排列成四層原始層（four primitive layers）
+- 平腦畸形被認為是由於一條神經元帶（band of neurons）的遷移停滯——這些神經元未完成向外遷移至淺表皮質
 
 平腦畸形可由巨細胞病毒感染（CMV）引起，此時常可見鈣化。
 
 臨床上，平腦畸形患者幾乎普遍有癲癇。
 
-平腦畸形可分為第 I 型（典型型，classical）與第 II 型（鵝卵石型，cobblestone）。兩者在遺傳學與胚胎學上截然不同。鵝卵石型平腦畸形與小腦及眼部畸形，以及肌營養不良症（Walker–Warburg syndrome）相關。
+- 平腦畸形可分為第 I 型（典型型，classical）與第 II 型（鵝卵石型，cobblestone）
+- 兩者在遺傳學與胚胎學上截然不同
+- 鵝卵石型平腦畸形與小腦及眼部畸形，以及肌營養不良症（Walker–Warburg syndrome）相關
 
 ### 第 I 型（典型型）平腦畸形 / Type I (Classical) Lissencephaly {#第-i-型典型型平腦畸形--type-i-classical-lissencephaly}
 
@@ -5048,6 +5396,8 @@ T2 加權 MRI 顯示雙側大腦外側裂（perisylvian）多小腦回（箭頭�
 T1 加權（左圖）與 T2 加權（右圖）MR 影像顯示典型（第 I 型）平腦畸形，皮質完全平滑，大腦半球呈沙漏形或 8 字形配置。
 
 ### 第 II 型（鵝卵石型）平腦畸形 / Type II (Cobblestone) Lissencephaly {#第-ii-型鵝卵石型平腦畸形--type-ii-cobblestone-lissencephaly}
+
+![第 II 型（鵝卵石型）平腦畸形（印刷頁 827）](/core_radiology/images/pediatric/page-836.png)
 
 第 II 型（鵝卵石型）平腦畸形的特徵為細微波浪狀的皮質。
 
@@ -5075,7 +5425,6 @@ T1 加權（左圖）與 T2 加權（右圖）MR 影像顯示鵝卵石（第 II 
 
 <!-- page: 836 -->
 
-![第 II 型（鵝卵石型）平腦畸形（印刷頁 827）](/core_radiology/images/pediatric/page-836.png)
 ## 灰質異位症與胼胝體發育異常 / Gray Matter Heterotopia and Corpus Callosum Agenesis {#灰質異位症與胼胝體發育異常--gray-matter-heterotopia-and-corpus-callosum-agenesis}
 
 ### 灰質異位症 / Gray Matter Heterotopia {#灰質異位症--gray-matter-heterotopia}
@@ -5090,17 +5439,27 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 ### 胼胝體發育不全／發育缺陷 / Agenesis / Hypogenesis of Corpus Callosum {#胼胝體發育不全發育缺陷--agenesis--hypogenesis-of-corpus-callosum}
 
-胼胝體缺失（agenesis of the corpus callosum）是相對常見的先天性異常。胼胝體缺失最常見的臨床表現為難治性癲癇（refractile seizures）及／或發育遲緩（developmental delay）。
+![胼胝體發育不全／發育缺陷（印刷頁 828）](/core_radiology/images/pediatric/page-837.png)
 
-胼胝體完全缺失會造成側腦室形態的次發異常。側腦室枕角的擴張稱為 colpocephaly，可由後方白質體積減少所致。側腦室常呈平行走向，且彼此間距明顯增大。側腦室內側的壓跡由 Probst 束（Probst bundles）造成——這些是正常情況下構成胼胝體的軸突，卻因異常走向而平行於半球間裂。第三腦室可能擴大並呈高位（high-riding）。
+- 胼胝體缺失（agenesis of the corpus callosum）是相對常見的先天性異常
+- 胼胝體缺失最常見的臨床表現為難治性癲癇（refractile seizures）及／或發育遲緩（developmental delay）
 
-胼胝體由前方的膝部（genu）向後方的壓部（splenium）依序發育。胼胝體發育缺陷（hypogenesis）可有多種程度，其中最常見者為壓部（splenium）缺失。
+- 胼胝體完全缺失會造成側腦室形態的次發異常
+- 側腦室枕角的擴張稱為 colpocephaly，可由後方白質體積減少所致
+- 側腦室常呈平行走向，且彼此間距明顯增大
+- 側腦室內側的壓跡由 Probst 束（Probst bundles）造成——這些是正常情況下構成胼胝體的軸突，卻因異常走向而平行於半球間裂
+- 第三腦室可能擴大並呈高位（high-riding）
+
+- 胼胝體由前方的膝部（genu）向後方的壓部（splenium）依序發育
+- 胼胝體發育缺陷（hypogenesis）可有多種程度，其中最常見者為壓部（splenium）缺失
 
 先天性胼胝體異常常合併其他中線異常，包括中線脂肪瘤（midline lipoma）或半球間囊腫（interhemispheric cyst）。
 
 四疊體板脂肪瘤（Quadrigeminal plate lipoma）：軸位 T1 加權 MRI 顯示左側四疊體板的高訊號脂肪瘤（箭頭）。
 
-矢狀位 T1 加權 MRI 顯示胼胝體後部體（紅箭頭）與壓部明顯變薄。第三腦室擴大且呈高位。脂肪瘤（黃箭頭）再次確認。
+- 矢狀位 T1 加權 MRI 顯示胼胝體後部體（紅箭頭）與壓部明顯變薄
+- 第三腦室擴大且呈高位
+- 脂肪瘤（黃箭頭）再次確認
 
 > **臨床要點**：胼胝體缺失的典型影像組合為平行排列、間距增大的側腦室（colpocephaly）、Probst 束造成的內側壓跡，以及擴大而高位的第三腦室。
 
@@ -5122,8 +5481,9 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 <!-- page: 837 -->
 
-![胼胝體發育不全／發育缺陷（印刷頁 828）](/core_radiology/images/pediatric/page-837.png)
 ## 裂腦畸形 / Schizencephaly {#裂腦畸形--schizencephaly}
+
+![裂腦畸形（印刷頁 829）](/core_radiology/images/pediatric/page-838.png)
 
 裂腦畸形（schizencephaly）是一種畸形，其特徵為大腦半球有全層厚度的裂隙，裂隙由發育不良的灰質（通常來自多小腦回畸形）襯裡，形成腦室與軸外蛛網膜下腔之間的異常交通。
 
@@ -5133,9 +5493,11 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 裂腦畸形與隔視神經發育不良（septo-optic dysplasia）相關，後者的特徵為透明隔缺失（agenesis of the septum pellucidum）與視神經發育不全（optic nerve hypoplasia）。
 
-裂腦畸形的特徵性影像表現是由灰質襯裡、充滿腦脊髓液的皮質裂隙。最常見的是額葉受累。
+- 裂腦畸形的特徵性影像表現是由灰質襯裡、充滿腦脊髓液的皮質裂隙
+- 最常見的是額葉受累
 
-尚有其他數種疾病可造成皮質中斷或裂隙，但只有裂腦畸形性裂隙是由灰質襯裡。其他皮質裂隙包括：
+- 尚有其他數種疾病可造成皮質中斷或裂隙，但只有裂腦畸形性裂隙是由灰質襯裡
+- 其他皮質裂隙包括：
 
 | 疾病 / Entity | 說明 / Description |
 |---|---|
@@ -5143,7 +5505,8 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 | 腦軟化 / Encephalomalacia | — |
 | 手術切除腔 / Surgical resection cavity | — |
 
-開放唇型裂腦畸形：軸位（左圖）與冠狀位 T2 加權影像顯示左側顳頂葉皮質的裂隙（箭頭），由皮質表面延伸至左側側腦室。裂隙由外觀似發育不良的灰質襯裡。
+- 開放唇型裂腦畸形：軸位（左圖）與冠狀位 T2 加權影像顯示左側顳頂葉皮質的裂隙（箭頭），由皮質表面延伸至左側側腦室
+- 裂隙由外觀似發育不良的灰質襯裡
 
 > **臨床要點**：判斷皮質裂隙是否為裂腦畸形，唯一可靠的線索是「灰質襯裡」；其他裂隙（孔洞腦、腦軟化、手術腔）皆無此特徵。
 
@@ -5163,12 +5526,12 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 <!-- page: 838 -->
 
-![裂腦畸形（印刷頁 829）](/core_radiology/images/pediatric/page-838.png)
 ## 腦前葉發育不全 / Holoprosencephaly {#腦前葉發育不全--holoprosencephaly}
 
 腦前葉發育不全（holoprosencephaly）是一種複雜的先天性畸形，前腦未分化為兩個大腦半球。
 
-腦前葉發育不全與中線顱顏面異常相關，包括單一中央門齒（single central incisor）。常說「腦預測臉」（the brain predicts the face）。
+- 腦前葉發育不全與中線顱顏面異常相關，包括單一中央門齒（single central incisor）
+- 常說「腦預測臉」（the brain predicts the face）
 
 腦前葉發育不全與前動脈（anterior cerebral artery, ACA）的奇數型（azygos）配置相關（單一 ACA）。
 
@@ -5176,19 +5539,28 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 ### 無葉型 / Alobar {#無葉型--alobar}
 
-無葉型腦前葉發育不全是最嚴重的形式，特徵為大腦半球完全未分離。單一大型單腦室（monoventricle）幾乎總是與一個大型背側囊腫相通。
+- 無葉型腦前葉發育不全是最嚴重的形式，特徵為大腦半球完全未分離
+- 單一大型單腦室（monoventricle）幾乎總是與一個大型背側囊腫相通
 
-矢狀位 T1 加權（左圖）與軸位 T2 加權 MR 影像顯示嚴重的無葉型腦前葉發育不全。額葉皮質橫跨中線連續。中線單腦室與一個佔優勢的背側囊腫相通。
+- 矢狀位 T1 加權（左圖）與軸位 T2 加權 MR 影像顯示嚴重的無葉型腦前葉發育不全
+- 額葉皮質橫跨中線連續
+- 中線單腦室與一個佔優勢的背側囊腫相通
 
 ### 半葉型 / Semilobar {#半葉型--semilobar}
 
-半葉型腦前葉發育不全的特徵是後方大腦半球至少有一定程度的分離。與無葉型相似，前方半球亦未能分離。
+- 半葉型腦前葉發育不全的特徵是後方大腦半球至少有一定程度的分離
+- 與無葉型相似，前方半球亦未能分離
 
-軸位與冠狀位 T2 加權 MRI（左圖與中圖）及矢狀位 T1 加權 MRI（右圖）顯示半葉型腦前葉發育不全。後方大腦皮質部分分離，額葉則完全融合。存在大型中線後方半球間囊腫。
+- 軸位與冠狀位 T2 加權 MRI（左圖與中圖）及矢狀位 T1 加權 MRI（右圖）顯示半葉型腦前葉發育不全
+- 後方大腦皮質部分分離，額葉則完全融合
+- 存在大型中線後方半球間囊腫
 
 ### 葉型 / Lobar {#葉型--lobar}
 
-葉型腦前葉發育不全是最輕的形式，僅最吻側的額葉新皮質未分離。受影響區域前方的胼胝體缺失，但後方胼胝體（壓部與後部體）存在。
+![葉型（印刷頁 830）](/core_radiology/images/pediatric/page-839.png)
+
+- 葉型腦前葉發育不全是最輕的形式，僅最吻側的額葉新皮質未分離
+- 受影響區域前方的胼胝體缺失，但後方胼胝體（壓部與後部體）存在
 
 > **臨床要點**：面中線異常（尤其單一中央門齒）應即時警覺腦前葉發育不全，並以「腦預測臉」的原則追查腦部畸形。
 
@@ -5210,30 +5582,39 @@ T2 加權 MRI 顯示廣泛的雙側腦室周圍結節狀異位（箭頭），以
 
 <!-- page: 839 -->
 
-![葉型（印刷頁 830）](/core_radiology/images/pediatric/page-839.png)
 ## 後顱窩畸形：Chiari I 畸形 / Posterior Fossa Malformations: Chiari I Malformation {#後顱窩畸形chiari-i-畸形--posterior-fossa-malformations-chiari-i-malformation}
 
 ### Chiari I 畸形 / Chiari I Malformation {#chiari-i-畸形--chiari-i-malformation}
 
 Chiari I 畸形是小腦扁桃體向下移位、超過枕骨大孔（foramen magnum）。
 
-Chiari I 的臨床表現差異極大，從原本正常者偶爾出現用力時頭痛，到嚴重的脊髓病變（myelopathy）與腦幹受損。在嬰兒，Chiari I 可能伴隨睡眠呼吸中止與餵食問題。
+- Chiari I 的臨床表現差異極大，從原本正常者偶爾出現用力時頭痛，到嚴重的脊髓病變（myelopathy）與腦幹受損
+- 在嬰兒，Chiari I 可能伴隨睡眠呼吸中止與餵食問題
 
 Chiari I 最常見的併發症是頸部脊髓空洞症（syringomyelia），較少見者為水腦症（hydrocephalus）。
 
-脊髓空洞症又稱脊髓空洞水腦症（syringohydromyelia）或 syrinx，指脊髓內的液體。脊髓空洞症最常代表脊髓中央管的擴張；中央管正常自第四腦室的 obex 延伸至終絲（filum terminale）。與 Chiari I 相關的脊髓空洞症為中央管梭狀（fusiform）擴張，通常不與第四腦室相通。其他形式的脊髓空洞症（通常與水腦症相關）則可經中央管與第四腦室相通。
+- 脊髓空洞症又稱脊髓空洞水腦症（syringohydromyelia）或 syrinx，指脊髓內的液體
+- 脊髓空洞症最常代表脊髓中央管的擴張；中央管正常自第四腦室的 obex 延伸至終絲（filum terminale）
+- 與 Chiari I 相關的脊髓空洞症為中央管梭狀（fusiform）擴張，通常不與第四腦室相通
+- 其他形式的脊髓空洞症（通常與水腦症相關）則可經中央管與第四腦室相通
 
 #### 診斷標準的爭議 / Diagnostic Criteria {#診斷標準的爭議--diagnostic-criteria}
 
-Chiari I 的臨床診斷與影像診斷標準都有爭議。小腦扁桃體下移在無症狀個體中相當常見。此外，Chiari I 的臨床症狀不具特異性，包括頭痛與不適，並非一定能歸因於扁桃體下移。
+![診斷標準的爭議（印刷頁 831）](/core_radiology/images/pediatric/page-840.png)
+
+- Chiari I 的臨床診斷與影像診斷標準都有爭議
+- 小腦扁桃體下移在無症狀個體中相當常見
+- 此外，Chiari I 的臨床症狀不具特異性，包括頭痛與不適，並非一定能歸因於扁桃體下移
 
 經典診斷標準是任一側小腦扁桃體疝出 5 mm，或兩側扁桃體各疝出 3 mm；但可提高診斷把握的相關所見包括：扁桃體尖變（pointing of the cerebellar tonsils）、後顱窩擁擠（crowding of the posterior fossa），以及頸部脊髓空洞症或水腦症等併發症。
 
 若唯一所見僅為扁桃體下移，一般較傾向使用「邊界性扁桃體移位」（borderline tonsillar ectopia）一詞。
 
-邊界性扁桃體移位：矢狀位 T1 加權 MRI 顯示小腦扁桃體向下延伸至枕骨大孔以下（黃箭頭）。未見水腦症或頸椎脊髓空洞症。
+- 邊界性扁桃體移位：矢狀位 T1 加權 MRI 顯示小腦扁桃體向下延伸至枕骨大孔以下（黃箭頭）
+- 未見水腦症或頸椎脊髓空洞症
 
-另一患者的 Chiari I：矢狀位 T2 加權 MRI 顯示小腦扁桃體向下延伸（黃箭頭）。有脊髓空洞症（紅箭頭）存在時，可更有把握診斷 Chiari I。
+- 另一患者的 Chiari I：矢狀位 T2 加權 MRI 顯示小腦扁桃體向下延伸（黃箭頭）
+- 有脊髓空洞症（紅箭頭）存在時，可更有把握診斷 Chiari I
 
 > **臨床要點**：扁桃體下移 5 mm 本身不等於 Chiari I——應尋找「邊界性扁桃體移位」的佐證，如扁桃體尖變、後顱窩擁擠、頸部脊髓空洞症或水腦症。
 
@@ -5255,7 +5636,6 @@ Chiari I 的臨床診斷與影像診斷標準都有爭議。小腦扁桃體下�
 
 <!-- page: 840 -->
 
-![診斷標準的爭議（印刷頁 831）](/core_radiology/images/pediatric/page-840.png)
 ## Chiari II 畸形與 Dandy Walker 複合體 / Chiari II Malformation and Dandy Walker Complex {#chiari-ii-畸形與-dandy-walker-複合體--chiari-ii-malformation-and-dandy-walker-complex}
 
 ### Chiari II 畸形 / Chiari II {#chiari-ii-畸形--chiari-ii}
@@ -5274,17 +5654,22 @@ Chiari II 的主要異常是小腦蚓部（vermis）、小腦扁桃體與延腦�
 
 ### Dandy Walker 複合體 / Dandy Walker Complex {#dandy-walker-複合體--dandy-walker-complex}
 
-Dandy Walker 複合體的特徵是後顱窩增大，通常伴隨大型後顱窩囊腫。Dandy Walker 的各變異型是一系列嚴重程度不同的疾病之連續譜。
+![Dandy Walker 複合體（印刷頁 832）](/core_radiology/images/pediatric/page-841.png)
+
+- Dandy Walker 複合體的特徵是後顱窩增大，通常伴隨大型後顱窩囊腫
+- Dandy Walker 的各變異型是一系列嚴重程度不同的疾病之連續譜
 
 發育中的第四腦室在子宮內受到傷害，會造成第四腦室出口阻塞、第四腦室呈囊狀擴張（並與小腦後囊腫相通），並造成下方蚓部發育不全（inferior vermian hypoplasia）。
 
 多數患者有水腦症。
 
-第四腦室與後顱窩囊腫使小腦幕（tentorium）向上移位，造成橫竇與 lambdoid 縫的倒置（torcular–lambdoid inversion）。橫竇與直竇的匯合處（torcular herophili）被向上推至 lambdoid 縫之上。
+- 第四腦室與後顱窩囊腫使小腦幕（tentorium）向上移位，造成橫竇與 lambdoid 縫的倒置（torcular–lambdoid inversion）
+- 橫竇與直竇的匯合處（torcular herophili）被向上推至 lambdoid 縫之上
 
 矢狀位 T2 加權胎兒 MRI 顯示腰椎脊髓脊膜膨出（箭頭）與明顯的水腦症。
 
-T2 加權軸位 MRI 顯示擴大的第四腦室與大型小腦後囊腫相通，使小腦幕向上移位。並有水腦症，顳角與第三腦室擴張。
+- T2 加權軸位 MRI 顯示擴大的第四腦室與大型小腦後囊腫相通，使小腦幕向上移位
+- 並有水腦症，顳角與第三腦室擴張
 
 > **臨床要點**：Chiari II 幾乎必然合併腰椎脊髓脊膜膨出與水腦症，與僅為扁桃體下移的 Chiari I 有本質差異。
 
@@ -5310,7 +5695,6 @@ T2 加權軸位 MRI 顯示擴大的第四腦室與大型小腦後囊腫相通，
 
 <!-- page: 841 -->
 
-![Dandy Walker 複合體（印刷頁 832）](/core_radiology/images/pediatric/page-841.png)
 ## 神經纖維腫瘤病 1 型 / Neurofibromatosis Type 1 (NF1) {#神經纖維腫瘤病-1-型--neurofibromatosis-type-1-nf1}
 
 ### NF1 與 von Recklinghausen 疾病 / NF1 and von Recklinghausen Disease {#nf1-與-von-recklinghausen-疾病--nf1-and-von-recklinghausen-disease}
@@ -5319,17 +5703,24 @@ T2 加權軸位 MRI 顯示擴大的第四腦室與大型小腦後囊腫相通，
 
 50% 的病例為體染色體顯性遺傳，50% 為散發性；致病原因是第 17 號染色體的缺陷。
 
-在兒童，T2 加權影像上幾乎普遍可見「亮點」（bright spots）或「不明亮物」（unidentified bright objects），被認為是由髓鞘空泡化（myelin vacuolization）造成。這些亮點最常見於 4–12 歲兒童，於成人則較不明顯。
+- 在兒童，T2 加權影像上幾乎普遍可見「亮點」（bright spots）或「不明亮物」（unidentified bright objects），被認為是由髓鞘空泡化（myelin vacuolization）造成
+- 這些亮點最常見於 4–12 歲兒童，於成人則較不明顯
 
-神經纖維瘤（neurofibromas）是 WHO 分級 I 的神經鞘腫瘤。皮膚與皮下神經比更近端的周邊神經更常受累。叢狀（plexiform）亞型更具侵襲性，由網狀的梭形腫塊構成，約有 5% 報告惡性轉化。
+- 神經纖維瘤（neurofibromas）是 WHO 分級 I 的神經鞘腫瘤
+- 皮膚與皮下神經比更近端的周邊神經更常受累
+- 叢狀（plexiform）亞型更具侵襲性，由網狀的梭形腫塊構成，約有 5% 報告惡性轉化
 
 與神經鞘瘤（schwannomas）一樣，神經纖維瘤可能源自許旺細胞（Schwann cell）。
 
-靶徵（target sign）可見於神經纖維瘤或神經鞘瘤，反映中央 T2 低訊號，被認為與纖維膠原核心（fibrocollagenous core）有關。靶徵提示病變為良性。
+- 靶徵（target sign）可見於神經纖維瘤或神經鞘瘤，反映中央 T2 低訊號，被認為與纖維膠原核心（fibrocollagenous core）有關
+- 靶徵提示病變為良性
 
-與神經鞘瘤不同，神經纖維瘤無包膜，且侵犯神經的整個橫截面。因此若切除神經纖維瘤，必須犧牲其母神經。
+- 與神經鞘瘤不同，神經纖維瘤無包膜，且侵犯神經的整個橫截面
+- 因此若切除神經纖維瘤，必須犧牲其母神經
 
 ### NF1 的腦部腫瘤 / Brain Neoplasms in NF1 {#nf1-的腦部腫瘤--brain-neoplasms-in-nf1}
+
+![NF1 的腦部腫瘤（印刷頁 833）](/core_radiology/images/pediatric/page-842.png)
 
 NF1 與多種腦腫瘤相關：
 
@@ -5363,7 +5754,6 @@ NF1 與多種腦腫瘤相關：
 
 <!-- page: 842 -->
 
-![NF1 的腦部腫瘤（印刷頁 833）](/core_radiology/images/pediatric/page-842.png)
 ## NF1 的骨骼與眼部表現，以及神經纖維腫瘤病 2 型 / NF1 Bone and Eye Manifestations, and Neurofibromatosis Type 2 {#nf1-的骨骼與眼部表現以及神經纖維腫瘤病-2-型--nf1-bone-and-eye-manifestations-and-neurofibromatosis-type-2}
 
 ### NF1 的骨骼表現 / Bone Manifestations of NF1 {#nf1-的骨骼表現--bone-manifestations-of-nf1}
@@ -5393,13 +5783,19 @@ NF1 亦與多種顱外腫瘤相關：
 
 ### 神經纖維腫瘤病 2 型（NF2） / Neurofibromatosis Type 2 {#神經纖維腫瘤病-2-型nf2--neurofibromatosis-type-2}
 
-神經纖維腫瘤病第 2 型（NF2）是體染色體顯性的神經皮膚症，與 NF1 完全無關。儘管名稱如此，NF2 並不含神經纖維瘤。NF2 由第 22 號染色體缺陷引起，發生率約比 NF1 少十倍。
+![神經纖維腫瘤病 2 型（NF2）（印刷頁 834）](/core_radiology/images/pediatric/page-843.png)
+
+- 神經纖維腫瘤病第 2 型（NF2）是體染色體顯性的神經皮膚症，與 NF1 完全無關
+- 儘管名稱如此，NF2 並不含神經纖維瘤
+- NF2 由第 22 號染色體缺陷引起，發生率約比 NF1 少十倍
 
 NF2 的特徵是 MISME 記憶法（mnemonic）：Multiple Inherited Schwannomas、Meningiomas、and Ependymomas（多發遺傳性神經鞘瘤、腦膜瘤與室管膜瘤）。
 
-NF2 典型的臨床表現是由雙側前庭神經鞘瘤（vestibular schwannomas）造成的聽力喪失。雙側前庭神經鞘瘤的存在即為 NF2 的診斷依據。
+- NF2 典型的臨床表現是由雙側前庭神經鞘瘤（vestibular schwannomas）造成的聽力喪失
+- 雙側前庭神經鞘瘤的存在即為 NF2 的診斷依據
 
-神經纖維腫瘤病 2 型的腦膜瘤病與雙側前庭神經鞘瘤：多張軸位對比 T1 加權影像顯示雙側多發強化之軸外、硬膜基底腫塊，代表腦膜瘤。並可見雙側強化的第 VIII 對腦神經鞘瘤（箭頭）。
+- 神經纖維腫瘤病 2 型的腦膜瘤病與雙側前庭神經鞘瘤：多張軸位對比 T1 加權影像顯示雙側多發強化之軸外、硬膜基底腫塊，代表腦膜瘤
+- 並可見雙側強化的第 VIII 對腦神經鞘瘤（箭頭）
 
 > **臨床要點**：NF2 幾乎不含神經纖維瘤——「NF2 有神經纖維瘤」是常見誤解；其診斷核心是雙側前庭神經鞘瘤。
 
@@ -5421,20 +5817,25 @@ NF2 典型的臨床表現是由雙側前庭神經鞘瘤（vestibular schwannomas
 
 <!-- page: 843 -->
 
-![神經纖維腫瘤病 2 型（NF2）（印刷頁 834）](/core_radiology/images/pediatric/page-843.png)
 ## Sturge Weber 症候群 / Sturge Weber Syndrome {#sturge-weber-症候群--sturge-weber-syndrome}
+
+![Sturge Weber 症候群（印刷頁 835）](/core_radiology/images/pediatric/page-844.png)
 
 Sturge Weber 是一種神經皮膚症，其特徵為顏面葡萄酒色斑（port-wine stain，即微血管畸形）、眼部異常，以及正常皮質靜脈發育的失敗。
 
 葡萄酒色斑典型上侵犯前額與上眼瞼，對應三叉神經眼支（V1）所支配的區域。
 
-Sturge Weber 是一種血管性疾病，被認為是由原始胚胎頭部靜脈叢回歸失敗所造成。此發育異常導致軟腦膜血管瘤病（leptomeningeal venous angiomatosis）的形成，其特徵為擴張的微血管與小靜脈。
+- Sturge Weber 是一種血管性疾病，被認為是由原始胚胎頭部靜脈叢回歸失敗所造成
+- 此發育異常導致軟腦膜血管瘤病（leptomeningeal venous angiomatosis）的形成，其特徵為擴張的微血管與小靜脈
 
 其根本血管異常最終導致慢性缺血、皮質萎縮與皮質鈣化。
 
-臨床上患者可能有某種程度的發育遲緩與癲癇；然而多達 50% 的患者智商可屬正常。癲癇與發育遲緩傾向同時出現。
+- 臨床上患者可能有某種程度的發育遲緩與癲癇；然而多達 50% 的患者智商可屬正常
+- 癲癇與發育遲緩傾向同時出現
 
-特徵性影像所見為皮質萎縮與皮質下實質鈣化，以 CT 顯示最佳。對比增強 MRI 顯示受軟腦膜血管瘤病侵犯區域的軟腦膜增強。脈絡叢典型上因代償性肥大而增大，被認為與血流量增加有關。
+- 特徵性影像所見為皮質萎縮與皮質下實質鈣化，以 CT 顯示最佳
+- 對比增強 MRI 顯示受軟腦膜血管瘤病侵犯區域的軟腦膜增強
+- 脈絡叢典型上因代償性肥大而增大，被認為與血流量增加有關
 
 非對比 CT 顯示一 32 個月大的幼童有皮質下鈣化與腦萎縮。
 
@@ -5458,7 +5859,6 @@ Sturge Weber 是一種血管性疾病，被認為是由原始胚胎頭部靜脈�
 
 <!-- page: 844 -->
 
-![Sturge Weber 症候群（印刷頁 835）](/core_radiology/images/pediatric/page-844.png)
 ## 結節性硬化症、中腦畸形與腦腫瘤 / Tuberous Sclerosis, Midbrain Malformations, and Brain Tumors {#結節性硬化症中腦畸形與腦腫瘤--tuberous-sclerosis-midbrain-malformations-and-brain-tumors}
 
 ### 結節性硬化症 / Tuberous Sclerosis {#結節性硬化症--tuberous-sclerosis}
@@ -5489,15 +5889,20 @@ Sturge Weber 是一種血管性疾病，被認為是由原始胚胎頭部靜脈�
 
 數種疾病可見中腦的「臼齒」（molar tooth）配置，包括 Joubert 症候群及其相關疾病（JSRD）。
 
-JSRD 的臨床表現為肌張力低下（hypotonia）合併發育遲緩與共濟失調（ataxia）的兒童。這些疾病常與眼部異常相關。
+- JSRD 的臨床表現為肌張力低下（hypotonia）合併發育遲緩與共濟失調（ataxia）的兒童
+- 這些疾病常與眼部異常相關
 
-Joubert 症候群的主要異常被認為是小腦蚓部的發育不全或發育缺陷（aplasia or hypoplasia of the cerebellar vermis）。常可見發育不良的小腦組織。
+- Joubert 症候群的主要異常被認為是小腦蚓部的發育不全或發育缺陷（aplasia or hypoplasia of the cerebellar vermis）
+- 常可見發育不良的小腦組織
 
 與 Dandy Walker 複合體不同，水腦症與大型後顱窩囊腫並不常見。
 
-軸位 T2 加權 MRI 顯示 Joubert 症候群患者的典型中腦「臼齒」配置（箭頭）。此患者另有一小型後顱窩囊腫。
+- 軸位 T2 加權 MRI 顯示 Joubert 症候群患者的典型中腦「臼齒」配置（箭頭）
+- 此患者另有一小型後顱窩囊腫
 
 ### 腦腫瘤 / Brain Tumors {#腦腫瘤--brain-tumors}
+
+![腦腫瘤（印刷頁 836）](/core_radiology/images/pediatric/page-845.png)
 
 腦腫瘤於神經影像學一節中討論。
 
@@ -5519,7 +5924,6 @@ Joubert 症候群的主要異常被認為是小腦蚓部的發育不全或發育
 
 <!-- page: 845 -->
 
-![腦腫瘤（印刷頁 836）](/core_radiology/images/pediatric/page-845.png)
 ## 參考文獻、資源與延伸閱讀（總目錄 1） / References, Resources, and Further Reading {#參考文獻資源與延伸閱讀總目錄-1--references-resources-and-further-reading}
 
 ### 一般參考文獻 / General References {#一般參考文獻--general-references}
@@ -5558,6 +5962,8 @@ Joubert 症候群的主要異常被認為是小腦蚓部的發育不全或發育
 
 ### 兒科胃腸 / Pediatric Gastrointestinal {#兒科胃腸--pediatric-gastrointestinal}
 
+![兒科胃腸（印刷頁 837）](/core_radiology/images/pediatric/page-846.png)
+
 - Applegate, K.E. Evidence-based diagnosis of malrotation and volvulus. *Pediatric Radiology* 39, 161-3 (2009).
 - Etensel, B. et al. Atresia of the colon. *Journal of Pediatric Surgery* 40, 1258-68 (2005).
 - Gosche, J.R. et al. Midgut Abnormalities. *Surgical Clinics of North America* 86, 285-99 (2006).
@@ -5570,7 +5976,6 @@ Joubert 症候群的主要異常被認為是小腦蚓部的發育不全或發育
 
 <!-- page: 846 -->
 
-![兒科胃腸（印刷頁 837）](/core_radiology/images/pediatric/page-846.png)
 ## 參考文獻、資源與延伸閱讀（總目錄 2） / References, Resources, and Further Reading {#參考文獻資源與延伸閱讀總目錄-2--references-resources-and-further-reading}
 
 ### 兒科胃腸（續） / Pediatric Gastrointestinal (continued) {#兒科胃腸續--pediatric-gastrointestinal-continued}

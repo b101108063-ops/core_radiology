@@ -1,11 +1,7 @@
 ---
-
 title: "Chapter 1: Thoracic Imaging"
-
 weight: 1
-
 description: 肺臟、縱膈、氣道、胸膜、X光判讀
-
 ---
 ![胸腔影像學章節總覽（印刷頁 1）](/core_radiology/images/thoracic/page-010.png)
 

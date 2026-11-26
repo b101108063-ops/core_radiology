@@ -1,6 +1,7 @@
 ---
-title: "Cardiovascular Imaging"
+title: "Chapter 9: Cardiovascular Imaging"
 weight: 9
+description: 主動脈、冠狀動脈、心臟 CT/MRI
 ---
 ![頁面（印刷頁 658）](/core_radiology/images/cardiovascular/page-667.png)
 
@@ -787,7 +788,7 @@ weight: 9
 
 ### 冠狀動脈解剖 / Coronary Artery Anatomy {#冠狀動脈解剖--coronary-artery-anatomy}
 
-### 主動脈竇 Coronary Sinuses {#主動脈竇-coronary-sinuses}
+### 主動脈竇 / Coronary Sinuses {#主動脈竇--coronary-sinuses}
 
 | 竇名 | 位置 | 冠狀動脈起源 |
 |------|------|-------------|
