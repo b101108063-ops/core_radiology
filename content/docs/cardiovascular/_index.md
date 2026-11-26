@@ -2,7 +2,7 @@
 title: "Cardiovascular Imaging"
 weight: 9
 ---
-![Page 658](/core_radiology/images/cardiovascular/page-667.png)
+![頁面（印刷頁 658）](/core_radiology/images/cardiovascular/page-667.png)
 
 本章涵蓋主動脈解剖與急性主動脈症候群、冠狀動脈 CT、心臟 MRI、胸部 X 光心臟判讀、非缺血性心肌疾病及心包疾病，並整理重要影像徵象、測量標準與臨床處置原則。
 
@@ -25,7 +25,7 @@ weight: 9
 
 ## 主動脈解剖 / Aortic Anatomy {#主動脈解剖--aortic-anatomy}
 
-![Page 659](/core_radiology/images/cardiovascular/page-668.png)
+![主動脈解剖（印刷頁 659）](/core_radiology/images/cardiovascular/page-668.png)
 
 ### 主動脈弓及變異 / Aortic Arch and Variants {#主動脈弓及變異--aortic-arch-and-variants}
 
@@ -51,9 +51,9 @@ weight: 9
 > - 此變異在黑人族群中更常見
 > - 影像報告中應清楚描述分支型態以供外科手術規劃參考
 
-## 主動脈弓變異（續）/ Aortic Arch Variants (Continued) {#主動脈弓變異續-aortic-arch-variants-continued}
+## 主動脈弓變異（續） / Aortic Arch Variants (Continued) {#主動脈弓變異續--aortic-arch-variants-continued}
 
-![Page 660](/core_radiology/images/cardiovascular/page-669.png)
+![主動脈弓變異（續）（印刷頁 660）](/core_radiology/images/cardiovascular/page-669.png)
 
 ### 迷行右鎖骨下動脈 / Aberrant Right Subclavian Artery {#迷行右鎖骨下動脈--aberrant-right-subclavian-artery}
 
@@ -103,7 +103,7 @@ weight: 9
 
 ## 急性主動脈症候群 / Acute Aortic Syndrome {#急性主動脈症候群--acute-aortic-syndrome}
 
-![Page 661](/core_radiology/images/cardiovascular/page-670.png)
+![急性主動脈症候群（印刷頁 661）](/core_radiology/images/cardiovascular/page-670.png)
 
 ### 概述 / Overview {#概述--overview}
 
@@ -170,7 +170,7 @@ weight: 9
 
 ## 主動脈剝離分型 / Classification of Aortic Dissection {#主動脈剝離分型--classification-of-aortic-dissection}
 
-![Page 662](/core_radiology/images/cardiovascular/page-671.png)
+![主動脈剝離分型（印刷頁 662）](/core_radiology/images/cardiovascular/page-671.png)
 
 ### Stanford 分型系統 / Stanford Classification System {#stanford-分型系統--stanford-classification-system}
 
@@ -210,7 +210,7 @@ weight: 9
 
 ## 壁內血腫 / Intramural Hematoma (IMH) {#壁內血腫--intramural-hematoma-imh}
 
-![Page 663](/core_radiology/images/cardiovascular/page-672.png)
+![壁內血腫（印刷頁 663）](/core_radiology/images/cardiovascular/page-672.png)
 
 **壁內血腫（Intramural Hematoma, IMH）** 是主動脈剝離的一種變異型，血液堆積於中膜內，但無內膜瓣與主動脈腔相連。
 
@@ -263,7 +263,7 @@ weight: 9
 
 ## 穿透性粥樣硬化潰瘍 / Penetrating Atherosclerotic Ulcer (PAU) {#穿透性粥樣硬化潰瘍--penetrating-atherosclerotic-ulcer-pau}
 
-![Page 664](/core_radiology/images/cardiovascular/page-673.png)
+![穿透性粥樣硬化潰瘍（印刷頁 664）](/core_radiology/images/cardiovascular/page-673.png)
 
 **穿透性粥樣硬化潰瘍（Penetrating Atherosclerotic Ulcer, PAU）** 是指粥樣硬化斑塊穿透內膜，血液進入中膜形成的病變。
 
@@ -310,7 +310,7 @@ weight: 9
 
 ## 主動脈創傷 / Traumatic Aortic Injury {#主動脈創傷--traumatic-aortic-injury}
 
-![Page 665](/core_radiology/images/cardiovascular/page-674.png)
+![主動脈創傷（印刷頁 665）](/core_radiology/images/cardiovascular/page-674.png)
 
 **創傷性主動脈損傷（Traumatic Aortic Injury）** 是因減速傷害導致主動脈創傷性病變。
 
@@ -360,7 +360,7 @@ weight: 9
 
 ## 胸主動脈瘤 / Thoracic Aortic Aneurysm (TAA) {#胸主動脈瘤--thoracic-aortic-aneurysm-taa}
 
-![Page 666](/core_radiology/images/cardiovascular/page-675.png)
+![胸主動脈瘤（印刷頁 666）](/core_radiology/images/cardiovascular/page-675.png)
 
 **胸主動脈瘤（Thoracic Aortic Aneurysm, TAA）** 是指胸主動脈局部病理性擴大。
 
@@ -409,7 +409,7 @@ weight: 9
 
 ## 腹主動脈瘤 / Abdominal Aortic Aneurysm (AAA) {#腹主動脈瘤--abdominal-aortic-aneurysm-aaa}
 
-![Page 667](/core_radiology/images/cardiovascular/page-676.png)
+![腹主動脈瘤（印刷頁 667）](/core_radiology/images/cardiovascular/page-676.png)
 
 **腹主動脈瘤（Abdominal Aortic Aneurysm, AAA）** 是指腹主動脈局部病理性擴大，直徑 ≥3 cm。
 
@@ -467,10 +467,9 @@ weight: 9
 > - 破裂性 AAA 死亡率高，及早篩檢高風險人群至關重要
 > - 血管內修復適合高手術風險患者，但常需再次介入治療
 
-
 ## 腹主動脈瘤 - 內漏 / AAA - Endoleaks {#腹主動脈瘤---內漏--aaa---endoleaks}
 
-![Page 668](/core_radiology/images/cardiovascular/page-677.png)
+![腹主動脈瘤 - 內漏（印刷頁 668）](/core_radiology/images/cardiovascular/page-677.png)
 
 **內漏（Endoleak）** 是指在血管內修復術（EVAR）後，支架 graft 排除的動脈瘤囊內仍有持續血流灌注。
 
@@ -503,10 +502,9 @@ weight: 9
 > - EVAR 術後需定期影像追蹤（CT 或超音波）以早期發現內漏
 > - 內漏不及時處理可能導致動脈瘤囊持續增大及破裂
 
+## 腹主動脈瘤內漏（三） / AAA Endoleaks (Continued) {#腹主動脈瘤內漏三--aaa-endoleaks-continued}
 
-## 腹主動脈瘤內漏（三）/ AAA Endoleaks (Continued) {#腹主動脈瘤內漏三-aaa-endoleaks-continued}
-
-![Page 669](/core_radiology/images/cardiovascular/page-678.png)
+![腹主動脈瘤內漏（三）（印刷頁 669）](/core_radiology/images/cardiovascular/page-678.png)
 
 ### Type III 內漏：器械故障 / Type III Endoleak: Device Failure {#type-iii-內漏器械故障--type-iii-endoleak-device-failure}
 
@@ -537,7 +535,7 @@ weight: 9
 | 特點 | 通常為暫時性，見於程序進行中 |
 | 預後 | 停用抗凝血製劑後約一個月內自行緩解 |
 | 現代 graft | 現代 graft 已少見 |
-### Type V 內漏（Endotension）/ Type V Endoleak (Endotension) {#type-v-內漏endotension-type-v-endoleak-endotension}
+### Type V 內漏（Endotension） / Type V Endoleak (Endotension) {#type-v-內漏endotension--type-v-endoleak-endotension}
 
 | 項目 | 說明 |
 |------|------|
@@ -559,10 +557,9 @@ weight: 9
 > - **Type V 內漏**為排除性診斷，臨床上需排除其他類型內漏
 > - EVAR 術後需終身影像監測以早期發現各類內漏
 
-
 ## 主動脈炎 / Aortitis {#主動脈炎--aortitis}
 
-![Page 670](/core_radiology/images/cardiovascular/page-679.png)
+![主動脈炎（印刷頁 670）](/core_radiology/images/cardiovascular/page-679.png)
 
 **主動脈炎（Aortitis）** 是主動脈壁的炎症反應，可分為感染性或非感染性（自體免疫性）。
 
@@ -604,10 +601,9 @@ weight: 9
 > - 主動脈炎與壁內血腫的鑑別要點在於增厚型態（環形 vs. 偏心弧形）
 > - 慢性期可出現長段狹窄或動脈瘤，需長期追蹤
 
-
 ## Takayasu 動脈炎 / Takayasu Arteritis {#takayasu-動脈炎--takayasu-arteritis}
 
-![Page 671](/core_radiology/images/cardiovascular/page-680.png)
+![Takayasu 動脈炎（印刷頁 671）](/core_radiology/images/cardiovascular/page-680.png)
 
 **Takayasu 動脈炎（Takayasu Arteritis）**，又稱「無脈搏病（pulseless disease）」，是一種特發性炎症性大血管血管炎。
 
@@ -650,10 +646,9 @@ weight: 9
 > - 與巨細胞動脈炎的鑑別主要依靠年齡（<50 歲傾向 Takayasu）
 > - 治療前需確認炎症已消退（ESR 正常化），以避免治療後併發症
 
-
 ## 主動脈縮窄 / Aortic Coarctation {#主動脈縮窄--aortic-coarctation}
 
-![Page 672](/core_radiology/images/cardiovascular/page-681.png)
+![主動脈縮窄（印刷頁 672）](/core_radiology/images/cardiovascular/page-681.png)
 
 **主動脈縮窄（Aortic Coarctation）** 是指近端降主動脈的先天性局灶性狹窄。
 
@@ -696,10 +691,9 @@ weight: 9
 > - 相位對比 MRI 可評估縮窄的血流動力學顯著性
 > - 假性縮窄外觀類似但無血流動力學影響，側支循環是否存在是關鍵鑑別點
 
-
 ## 冠狀動脈 CT 血管造影 / Coronary CT Angiography (CCTA) {#冠狀動脈-ct-血管造影--coronary-ct-angiography-ccta}
 
-![Page 673](/core_radiology/images/cardiovascular/page-682.png)
+![冠狀動脈 CT 血管造影（印刷頁 673）](/core_radiology/images/cardiovascular/page-682.png)
 
 ### 臨床應用證據 / Evidence for Clinical Use {#臨床應用證據--evidence-for-clinical-use}
 
@@ -775,10 +769,9 @@ weight: 9
 > - 雙源 CT 的時間解析度顯著提升（~75 ms），可更好地「凍結」心臟運動
 > - 檢查前需控制心率以優化影像品質
 
+## 冠狀動脈 CT 血管造影（續） / CCTA (Continued) {#冠狀動脈-ct-血管造影續--ccta-continued}
 
-## 冠狀動脈 CT 血管造影（續）/ CCTA (Continued) {#冠狀動脈-ct-血管造影續-ccta-continued}
-
-![Page 674](/core_radiology/images/cardiovascular/page-683.png)
+![冠狀動脈 CT 血管造影（續）（印刷頁 674）](/core_radiology/images/cardiovascular/page-683.png)
 
 ### 檢查前準備 / Pre-Procedure Preparation {#檢查前準備--pre-procedure-preparation}
 
@@ -814,10 +807,9 @@ weight: 9
 > - 口服 β-受體阻斷劑控制心率效果優於靜脈注射
 > - 冠狀動脈最常見於竇 Valsalva 起源
 
+## 冠狀動脈解剖（續） / Coronary Artery Anatomy (Continued) {#冠狀動脈解剖續--coronary-artery-anatomy-continued}
 
-## 冠狀動脈解剖（續）/ Coronary Artery Anatomy (Continued) {#冠狀動脈解剖續-coronary-artery-anatomy-continued}
-
-![Page 675](/core_radiology/images/cardiovascular/page-684.png)
+![冠狀動脈解剖（續）（印刷頁 675）](/core_radiology/images/cardiovascular/page-684.png)
 
 ### 左主冠狀動脈 / Left Main Coronary Artery (LMCA) {#左主冠狀動脈--left-main-coronary-artery-lmca}
 
@@ -858,10 +850,9 @@ weight: 9
 > - RCA 與 LCx 行徑對稱，在約 85% 的人中 RCA 為 dominant artery
 > - Dominance 取決於誰供應 PDA、PLA 及 AVN
 
-
 ## 冠狀動脈顯性判定及結構異常 / Dominance & Structural Anomalies {#冠狀動脈顯性判定及結構異常--dominance--structural-anomalies}
 
-![Page 676](/core_radiology/images/cardiovascular/page-685.png)
+![冠狀動脈顯性判定及結構異常（印刷頁 676）](/core_radiology/images/cardiovascular/page-685.png)
 
 ### 顯性判定 / Determination of Dominance {#顯性判定--determination-of-dominance}
 
@@ -874,7 +865,7 @@ weight: 9
 
 ### 冠狀動脈起源異常 / Anomalies of Coronary Artery Origin {#冠狀動脈起源異常--anomalies-of-coronary-artery-origin}
 
-### 惡性異常（Malignant Anomalies） {#惡性異常malignant-anomalies}
+### 惡性異常 / Malignant Anomalies {#惡性異常--malignant-anomalies}
 
 | 異常類型 | 說明 |
 |---------|------|
@@ -883,7 +874,7 @@ weight: 9
 | 左主冠狀動脈起源於右冠狀竇 | 惡性 |
 | LCx 或 LAD 起源於右冠狀竇 | 惡性 |
 | 任何冠狀動脈起源於無冠狀竇 | 惡性 |
-### 潛在惡性異常（Potentially Malignant） {#潛在惡性異常potentially-malignant}
+### 潛在惡性異常 / Potentially Malignant {#潛在惡性異常--potentially-malignant}
 
 - 起源於對側冠狀竇，取決於其行徑
 
@@ -922,10 +913,9 @@ weight: 9
 > - MDCT（含 CCTA）是評估冠狀動脈解剖異常的最佳工具
 > - 壁內行徑治療方式包括去頂術，是較新且保留竇的手術方式
 
-
 ## 惡性冠狀動脈異常 / Malignant Coronary Artery Anomalies {#惡性冠狀動脈異常--malignant-coronary-artery-anomalies}
 
-![Page 677](/core_radiology/images/cardiovascular/page-686.png)
+![惡性冠狀動脈異常（印刷頁 677）](/core_radiology/images/cardiovascular/page-686.png)
 
 **惡性冠狀動脈異常（Malignant Coronary Artery Anomaly）** 指冠狀動脈起源或行徑異常，導致猝死風險增加。
 
@@ -980,10 +970,9 @@ weight: 9
 > - ARCAPA 較少見，治療原則與 ALCAPA 相似
 > - 早期診斷對改善預後至關重要
 
-
 ## 心肌橋樑及心臟 MRI / Myocardial Bridging & Cardiac MRI {#心肌橋樑及心臟-mri--myocardial-bridging--cardiac-mri}
 
-![Page 678](/core_radiology/images/cardiovascular/page-687.png)
+![心肌橋樑及心臟 MRI（印刷頁 678）](/core_radiology/images/cardiovascular/page-687.png)
 
 ### 心肌橋樑 / Myocardial Bridging {#心肌橋樑--myocardial-bridging}
 
@@ -1056,10 +1045,9 @@ weight: 9
 > - 缺血性延遲增強**必定從心內膜開始**，這是與非缺血性病變的關鍵鑑別點
 > - 延遲增強模式有助於區分缺血性與非缺血性心肌病變
 
+## 延遲增強 MRI（續） / Delayed Enhancement MRI (Continued) {#延遲增強-mri續--delayed-enhancement-mri-continued}
 
-## 延遲增強 MRI（續）/ Delayed Enhancement MRI (Continued) {#延遲增強-mri續-delayed-enhancement-mri-continued}
-
-![Page 679](/core_radiology/images/cardiovascular/page-688.png)
+![延遲增強 MRI（續）（印刷頁 679）](/core_radiology/images/cardiovascular/page-688.png)
 
 ### 透壁性延遲增強 / Transmural Delayed Enhancement {#透壁性延遲增強--transmural-delayed-enhancement}
 
@@ -1105,12 +1093,11 @@ weight: 9
 > - DCM 最常見的非缺血性心肌病，MRI 有心肌中層增強及心腔擴大
 > - HCM 嚴重者可導致猝死，MRI 有助評估
 
+## 非缺血性延遲增強（續） / Nonischemic Delayed Enhancement (Continued) {#非缺血性延遲增強續--nonischemic-delayed-enhancement-continued}
 
-## 非缺血性延遲增強（續）/ Nonischemic Delayed Enhancement (Continued) {#非缺血性延遲增強續-nonischemic-delayed-enhancement-continued}
+![非缺血性延遲增強（續）（印刷頁 680）](/core_radiology/images/cardiovascular/page-689.png)
 
-![Page 680](/core_radiology/images/cardiovascular/page-689.png)
-
-### 心外膜下延遲增強 / Epicardial/Subepicardial Delayed Enhancement {#心外膜下延遲增強--epicardialsubepicardial-delayed-enhancement}
+### 心外膜下延遲增強 / Epicardial / Subepicardial Delayed Enhancement {#心外膜下延遲增強--epicardial--subepicardial-delayed-enhancement}
 
 ### 相關疾病 / Related Diseases {#相關疾病--related-diseases}
 
@@ -1153,10 +1140,9 @@ weight: 9
 > - 延遲增強模式是區分缺血性與非缺血性心肌病變的關鍵工具
 > - 系統性評估增強模式對正確診斷至關重要
 
-
 ## 心臟疾病 X 光片影像 / Plain Film Imaging of Heart Disease {#心臟疾病-x-光片影像--plain-film-imaging-of-heart-disease}
 
-![Page 681](/core_radiology/images/cardiovascular/page-690.png)
+![心臟疾病 X 光片影像（印刷頁 681）](/core_radiology/images/cardiovascular/page-690.png)
 
 ### 系統性評估方法 / Systematic Approach {#系統性評估方法--systematic-approach}
 
@@ -1235,10 +1221,9 @@ weight: 9
 > - 肥厚型心肌病的心臟輪廓可正常，這點很重要
 > - 系統性評估胸片是辨別心臟病病因的關鍵第一步
 
-
 ## 左心房擴大 / Left Atrial Enlargement {#左心房擴大--left-atrial-enlargement}
 
-![Page 682](/core_radiology/images/cardiovascular/page-691.png)
+![左心房擴大（印刷頁 682）](/core_radiology/images/cardiovascular/page-691.png)
 
 ### 解剖位置 / Anatomic Position {#解剖位置--anatomic-position}
 
@@ -1252,13 +1237,13 @@ weight: 9
 | **二尖瓣狹窄（Mitral stenosis）** | 心臟大小正常 | 阻塞性病變 |
 ### X 光徵象 / Radiographic Signs {#x-光徵象--radiographic-signs}
 
-### 正面觀（Frontal View） {#正面觀frontal-view}
+### 正面觀 / Frontal View {#正面觀--frontal-view}
 
 | 徵象 | 說明 |
 |------|------|
 | **氣管分歧部撐開（Carina splaying）** | 擴大的左心房撐開氣管分歧部 |
 | **雙重密度徵（Double density sign）** | 擴大的左心房邊緣投影於右心房上方 |
-### 側面觀（Lateral View） {#側面觀lateral-view}
+### 側面觀 / Lateral View {#側面觀--lateral-view}
 
 | 徵象 | 說明 |
 |------|------|
@@ -1272,10 +1257,9 @@ weight: 9
 > - 氣管分歧部撐開是左心房顯著擴大的標誌
 > - 二尖瓣狹窄時心臟大小正常但左心房擴大；逆流時心臟通常擴大
 
-
 ## 心肌梗塞的影像及併發症 / Imaging and Complications of Myocardial Infarction {#心肌梗塞的影像及併發症--imaging-and-complications-of-myocardial-infarction}
 
-![Page 683](/core_radiology/images/cardiovascular/page-692.png)
+![心肌梗塞的影像及併發症（印刷頁 683）](/core_radiology/images/cardiovascular/page-692.png)
 
 ### 心肌梗塞 X 光評估 / Plain Film Evaluation of MI {#心肌梗塞-x-光評估--plain-film-evaluation-of-mi}
 
@@ -1310,7 +1294,7 @@ weight: 9
 | 運動異常 | 運動障礙（Dyskinesia）|
 | 破裂風險 | 罕見 |
 | 治療 | 內科治療 |
-### 假性瘤（假性心室瘤）/ False Aneurysm (Pseudoaneurysm) {#假性瘤假性心室瘤-false-aneurysm-pseudoaneurysm}
+### 假性瘤（假性心室瘤） / False Aneurysm (Pseudoaneurysm) {#假性瘤假性心室瘤--false-aneurysm-pseudoaneurysm}
 
 | 項目 | 說明 |
 |------|------|
@@ -1354,10 +1338,9 @@ weight: 9
 > - 乳頭肌斷裂可導致急性肺水腫（尤其孤立性右上葉）
 > - 心內膜炎的 CT 評估可補充超音波，檢測大於 1 cm 的贅生物
 
-
 ## 人工瓣膜影像 / Imaging of Prosthetic Valves {#人工瓣膜影像--imaging-of-prosthetic-valves}
 
-![Page 684](/core_radiology/images/cardiovascular/page-693.png)
+![人工瓣膜影像（印刷頁 684）](/core_radiology/images/cardiovascular/page-693.png)
 
 ### 瓣膜位置關係 / Valve Position Relationships {#瓣膜位置關係--valve-position-relationships}
 
@@ -1402,7 +1385,7 @@ weight: 9
 
 ## 二尖瓣返流 / Mitral Regurgitation {#二尖瓣返流--mitral-regurgitation}
 
-![Page 685](/core_radiology/images/cardiovascular/page-694.png)
+![二尖瓣返流（印刷頁 685）](/core_radiology/images/cardiovascular/page-694.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-9}
 
@@ -1522,9 +1505,9 @@ weight: 9
 
 ---
 
-## 兒茶酚胺誘發性心肌病（Takotsubo 心肌病）/ Catecholamine-Induced (Takotsubo) Cardiomyopathy {#兒茶酚胺誘發性心肌病takotsubo-心肌病-catecholamine-induced-takotsubo-cardiomyopathy}
+## 兒茶酚胺誘發性心肌病（Takotsubo 心肌病） / Catecholamine-Induced (Takotsubo) Cardiomyopathy {#兒茶酚胺誘發性心肌病takotsubo-心肌病--catecholamine-induced-takotsubo-cardiomyopathy}
 
-![Page 686](/core_radiology/images/cardiovascular/page-695.png)
+![兒茶酚胺誘發性心肌病（Takotsubo 心肌病）（印刷頁 686）](/core_radiology/images/cardiovascular/page-695.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-15}
 
@@ -1599,7 +1582,7 @@ weight: 9
 
 ## 心肌緻密化不全 / Myocardial Noncompaction {#心肌緻密化不全--myocardial-noncompaction}
 
-![Page 687](/core_radiology/images/cardiovascular/page-696.png)
+![心肌緻密化不全（印刷頁 687）](/core_radiology/images/cardiovascular/page-696.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-17}
 
@@ -1672,7 +1655,7 @@ weight: 9
 
 ## 限制型心肌病 / Restrictive Cardiomyopathy {#限制型心肌病--restrictive-cardiomyopathy}
 
-![Page 688](/core_radiology/images/cardiovascular/page-697.png)
+![限制型心肌病（印刷頁 688）](/core_radiology/images/cardiovascular/page-697.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-19}
 
@@ -1748,7 +1731,7 @@ weight: 9
 
 ## 特發性擴張型心肌病的延遲強化 / Delayed Enhancement in Idiopathic DCM {#特發性擴張型心肌病的延遲強化--delayed-enhancement-in-idiopathic-dcm}
 
-![Page 689](/core_radiology/images/cardiovascular/page-698.png)
+![特發性擴張型心肌病的延遲強化（印刷頁 689）](/core_radiology/images/cardiovascular/page-698.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-21}
 
@@ -1800,7 +1783,7 @@ weight: 9
 
 ### 心包積液 / Pericardial Effusion {#心包積液--pericardial-effusion}
 
-![Page 690](/core_radiology/images/cardiovascular/page-699.png)
+![心包積液（印刷頁 690）](/core_radiology/images/cardiovascular/page-699.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-24}
 
@@ -1854,7 +1837,7 @@ weight: 9
 
 ## 先天性心包缺如 / Congenital Absence of the Pericardium {#先天性心包缺如--congenital-absence-of-the-pericardium}
 
-![Page 691](/core_radiology/images/cardiovascular/page-700.png)
+![先天性心包缺如（印刷頁 691）](/core_radiology/images/cardiovascular/page-700.png)
 
 ### 臨床特點 / Clinical Features {#臨床特點--clinical-features-26}
 
@@ -1894,7 +1877,7 @@ weight: 9
 
 ## 參考文獻 / References, Resources, and Further Reading {#參考文獻--references-resources-and-further-reading}
 
-![Page 692](/core_radiology/images/cardiovascular/page-701.png)
+![參考文獻（印刷頁 692）](/core_radiology/images/cardiovascular/page-701.png)
 
 ### 綜合參考 / General References {#綜合參考--general-references}
 
@@ -1940,9 +1923,9 @@ weight: 9
 
 ---
 
-## 參考文獻（續）/ References, Resources, and Further Reading (Continued) {#參考文獻續-references-resources-and-further-reading-continued}
+## 參考文獻（續） / References, Resources, and Further Reading (Continued) {#參考文獻續--references-resources-and-further-reading-continued}
 
-![Page 693](/core_radiology/images/cardiovascular/page-702.png)
+![參考文獻（續）（印刷頁 693）](/core_radiology/images/cardiovascular/page-702.png)
 
 ### 心臟miscellaneous / Miscellaneous {#心臟miscellaneous--miscellaneous}
 
