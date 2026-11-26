@@ -1,11 +1,7 @@
 ---
-
 title: "Chapter 1: Thoracic Imaging"
-
 weight: 1
-
 description: 肺臟、縱膈、氣道、胸膜、X光判讀
-
 ---
 ![胸腔影像學章節總覽（印刷頁 1）](/core_radiology/images/thoracic/page-010.png)
 
@@ -703,7 +699,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 結節型/不規則型間隔增厚 / Nodular, Irregular, or Asymmetric Septal Thickening {#結節型不規則型間隔增厚--nodular-irregular-or-asymmetric-septal-thickening}
+## 結節型 / 不規則型間隔增厚 / Nodular, Irregular, or Asymmetric Septal Thickening {#結節型--不規則型間隔增厚--nodular-irregular-or-asymmetric-septal-thickening}
 
 **Mechanism**: Processes that **infiltrate peripheral lymphatics**.
 
@@ -1004,7 +1000,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 孤立性空洞結節/腫塊 / Solitary Cavitary Nodule or Mass {#孤立性空洞結節腫塊--solitary-cavitary-nodule-or-mass}
+## 孤立性空洞結節 / 腫塊 / Solitary Cavitary Nodule or Mass {#孤立性空洞結節--腫塊--solitary-cavitary-nodule-or-mass}
 
 **Cavitary lesion**: thick, irregular wall, often with a solid mural component.
 
@@ -1490,7 +1486,6 @@ The **distribution** of ground glass opacification provides important diagnostic
 ### Mycobacterium avium-intracellulare (MAI) {#mycobacterium-avium-intracellulare-mai}
 ![Mycobacterium avium-intracellulare (MAI)（印刷頁 26）](/core_radiology/images/thoracic/page-035.png)
 
-
 - **Lady Windermere syndrome**: elderly woman with cough, low-grade fever, and weight loss
 
 - Classic imaging: **bronchiectasis + tree-in-bud nodules** in the **right middle lobe or lingula**
@@ -1634,7 +1629,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 寄生性麴菌病（黴瘤）/ Saprophytic Aspergillosis — Aspergilloma (Mycetoma) {#寄生性麴菌病黴瘤-saprophytic-aspergillosis--aspergilloma-mycetoma}
+## 寄生性麴菌病（黴瘤） / Saprophytic Aspergillosis — Aspergilloma (Mycetoma) {#寄生性麴菌病黴瘤--saprophytic-aspergillosis--aspergilloma-mycetoma}
 
 **Aspergilloma** = conglomeration of *Aspergillus* hyphae and cellular debris within a **preexisting pulmonary cavity**.
 
@@ -1855,7 +1850,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 肺動脈導管 / Pulmonary Artery Catheter (Swan-Ganz) {#肺動脈导管--pulmonary-artery-catheter-swan-ganz}
+## 肺動脈導管 / Pulmonary Artery Catheter (Swan-Ganz) {#肺動脈導管--pulmonary-artery-catheter-swan-ganz}
 
 | Feature | Description |
 |---|---|
@@ -2156,7 +2151,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 孤立性肺結節/腫塊 / Solitary Pulmonary Nodule or Mass {#孤立性肺結節腫塊--solitary-pulmonary-nodule-or-mass}
+## 孤立性肺結節 / 腫塊 / Solitary Pulmonary Nodule or Mass {#孤立性肺結節--腫塊--solitary-pulmonary-nodule-or-mass}
 
 | Feature | Description |
 |---|---|
@@ -2395,7 +2390,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 案例二：Stage IV (M1a — Contralateral Nodule) {#案例二stage-iv-m1a--contralateral-nodule}
+## 案例二：Stage IV / M1a — Contralateral Nodule {#案例二stage-iv--m1a--contralateral-nodule}
 
 **T2M1a = Stage IV**
 
@@ -2408,7 +2403,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 案例三：Stage IV (M1b — Adrenal Metastases) {#案例三stage-iv-m1b--adrenal-metastases}
+## 案例三：Stage IV / M1b — Adrenal Metastases {#案例三stage-iv--m1b--adrenal-metastases}
 
 **T2N1M1b = Stage IV**
 
@@ -3245,7 +3240,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ---
 
-## 過敏性肉芽腫性血管炎（Churg-Strauss）/ Churg-Strauss Syndrome {#過敏性肉芽腫性血管炎churg-strauss-churg-strauss-syndrome}
+## 過敏性肉芽腫性血管炎（Churg-Strauss） / Churg-Strauss Syndrome {#過敏性肉芽腫性血管炎churg-strauss--churg-strauss-syndrome}
 
 | Feature | Description |
 |---|---|
@@ -3736,7 +3731,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 
 > - The **azygoesophageal recess** is a key landmark — distortion suggests esophageal or mediastinal pathology
 
-## 縱膈線條（續）/ Mediastinal Lines and Stripes (Continued) {#縱膈線條續-mediastinal-lines-and-stripes-continued}
+## 縱膈線條（續） / Mediastinal Lines and Stripes (Continued) {#縱膈線條續--mediastinal-lines-and-stripes-continued}
 ![縱膈線條（續）/ Mediastinal Lines and Stripes (Continued)（印刷頁 67）](/core_radiology/images/thoracic/page-076.png)
 
 ### 主肺動脈窗 / Aortopulmonary (AP) Window {#主肺動脈窗--aortopulmonary-ap-window}
@@ -3847,7 +3842,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 
 > - Use the **paratracheal stripes** as your first-line screening tool for middle mediastinal masses on every frontal CXR
 
-## 前縱膈腫塊 — 前部（前上縱膈）/ Anterior Mediastinal Mass — Prevascular (Superior Anterior) {#前縱膈腫塊--前部前上縱膈-anterior-mediastinal-mass--prevascular-superior-anterior}
+## 前縱膈腫塊 — 前部（前上縱膈） / Anterior Mediastinal Mass — Prevascular (Superior Anterior) {#前縱膈腫塊--前部前上縱膈--anterior-mediastinal-mass--prevascular-superior-anterior}
 ![前縱膈腫塊 — 前部（前上縱膈）/ Anterior Mediastinal Mass — Prevascular (Superior Anterior)（印刷頁 69）](/core_radiology/images/thoracic/page-078.png)
 
 ### 前縱膈腫塊鑑別 / Differential for Prevascular Anterior Mediastinal Mass {#前縱膈腫塊鑑別--differential-for-prevascular-anterior-mediastinal-mass}
@@ -4001,7 +3996,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 
 ---
 
-## 前縱膈腫塊 — 心前區（下前縱膈）/ Anterior Mediastinal Mass — Precardiac {#前縱膈腫塊--心前區下前縱膈-anterior-mediastinal-mass--precardiac}
+## 前縱膈腫塊 — 心前區（下前縱膈） / Anterior Mediastinal Mass — Precardiac {#前縱膈腫塊--心前區下前縱膈--anterior-mediastinal-mass--precardiac}
 
 | Entity | Key Features |
 |---|---|
@@ -4076,7 +4071,7 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 
 > - **Lateral meningocele** with neurofibromatosis = think NF1
 
-## 後縱膈病變（續）/ Posterior Mediastinal Lesions (Continued) {#後縱膈病變續-posterior-mediastinal-lesions-continued}
+## 後縱膈病變（續） / Posterior Mediastinal Lesions (Continued) {#後縱膈病變續--posterior-mediastinal-lesions-continued}
 
 | Entity | Key Features |
 |---|---|
@@ -4641,7 +4636,6 @@ Mucus plugging → bacterial colonization → inflammatory response
 - Wang, Z.J. et al. Malignant Pleural Mesothelioma: Evaluation with CT, MR Imaging, and PET. *Radiographics* 24, 105 (2004).
 
 ---
-
 
 ---
 

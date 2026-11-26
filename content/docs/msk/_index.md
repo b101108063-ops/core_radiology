@@ -1,10 +1,14 @@
 ---
-title: "Musculoskeletal Imaging"
+title: "Chapter 5: Musculoskeletal Imaging"
 weight: 5
+description: 關節炎、骨腫瘤、創傷、運動傷害
 ---
-![Page 346](/core_radiology/images/msk/page-355.png)
+![頁面（印刷頁 346）](/core_radiology/images/msk/page-355.png)
 
 ## Chapter 5 目錄 / Table of Contents {#chapter-5-目錄--table-of-contents}
+
+![Chapter 5 目錄（印刷頁 347）](/core_radiology/images/msk/page-356.png)
+
 | 章節 | 標題 | 頁碼 |
 |------|------|------|
 | 5 | **肌肉骨骼影像 / Musculoskeletal Imaging** | |
@@ -28,8 +32,6 @@ weight: 5
 | | 腕關節與手部 / Wrist and Hand | 457 |
 
 ---
-
-![Page 347](/core_radiology/images/msk/page-356.png)
 
 ## 骨骼與關節基礎 / Basics of Bones and Joints {#骨骼與關節基礎--basics-of-bones-and-joints}
 ### 長骨解剖 / Anatomy of a Long Bone {#長骨解剖--anatomy-of-a-long-bone}
@@ -88,6 +90,9 @@ weight: 5
 | **無關節周圍骨質疏鬆** | 與發炎性關節炎鑑別要點 |
 
 ### 鑑別診斷要點 / Differential Diagnosis {#鑑別診斷要點--differential-diagnosis}
+
+![鑑別診斷要點（印刷頁 348）](/core_radiology/images/msk/page-357.png)
+
 - 軟骨下囊性變廣泛時需考慮 **CPPD（軟骨鈣化症）**
 
 > **臨床要點**
@@ -98,19 +103,23 @@ weight: 5
 
 > 3. 年輕患者或非典型位置（肩、肘、踝）出現 OA 時，應排查外傷史或潛在關節炎
 
-![Page 348](/core_radiology/images/msk/page-357.png)
-
 ## 膝關節骨關節炎的三個間室與判讀原則 / Osteoarthritis of the Knee: Compartments and Rule of Thumb {#膝關節骨關節炎的三個間室與判讀原則--osteoarthritis-of-the-knee-compartments-and-rule-of-thumb}
-**膝關節骨關節炎（osteoarthritis of the knee）** 有三個關節間室：內側與外側脛股間室（tibiofemoral compartments），以及髕股間室（patellofemoral compartment）。膝關節 OA 的典型模式是**內側脛股間室的不對稱性侵犯**，但嚴重的骨關節炎可同時侵犯三個間室。 The knee has three joint compartments: the medial and lateral tibiofemoral compartments and the patellofemoral compartment. The typical pattern for OA of the knee is asymmetrical involvement of the medial tibiofemoral compartment, and severe osteoarthritis can involve all three compartments.
+- **膝關節骨關節炎（osteoarthritis of the knee）** 有三個關節間室：內側與外側脛股間室（tibiofemoral compartments），以及髕股間室（patellofemoral compartment）
+- 膝關節 OA 的典型模式是**內側脛股間室的不對稱性侵犯**，但嚴重的骨關節炎可同時侵犯三個間室
+- The knee has three joint compartments: the medial and lateral tibiofemoral compartments and the patellofemoral compartment. The typical pattern for OA of the knee is asymmetrical involvement of the medial tibiofemoral compartment, and severe osteoarthritis can involve all three compartments.
 
-**重點摘要**
-- **骨刺決定有無 OA**：適用於一般 OA，膝關節尤其如此——骨刺（osteophytes）決定 OA 是否存在，而關節間隙狹窄（joint space narrowing）的程度決定 OA 的嚴重程度。Osteophytes determine whether OA is present; the degree of joint space narrowing determines the severity of OA.
-- **站立負重影像最佳**：脛股軟骨間隙狹窄的程度最好在站立負重（standing weight-bearing）影像上判讀，必要時再加拍屈曲位站立影像。The degree of tibiofemoral cartilage space narrowing is best determined on standing weight-bearing views, often on standing films in flexion.
-- **雙側侵犯很典型**：雙膝同時出現 OA 侵犯是典型表現，影像上可見雙側對稱性的變化。 Bilateral involvement of the knees is typical.
-- **影像表現**：站立正面 X 光可見內側脛股間室嚴重軟骨間隙狹窄、軟骨下骨硬化與骨刺形成。Osteoarthritis: standing frontal radiograph of the knee shows severe cartilage space narrowing, sclerosis, and osteophytosis of the medial tibiofemoral compartment.
+> **臨床要點**
+
+> - **骨刺決定有無 OA**：適用於一般 OA，膝關節尤其如此——骨刺（osteophytes）決定 OA 是否存在，而關節間隙狹窄（joint space narrowing）的程度決定 OA 的嚴重程度。Osteophytes determine whether OA is present; the degree of joint space narrowing determines the severity of OA.
+
+> - **站立負重影像最佳**：脛股軟骨間隙狹窄的程度最好在站立負重（standing weight-bearing）影像上判讀，必要時再加拍屈曲位站立影像。The degree of tibiofemoral cartilage space narrowing is best determined on standing weight-bearing views, often on standing films in flexion.
+
+> - **雙側侵犯很典型**：雙膝同時出現 OA 侵犯是典型表現，影像上可見雙側對稱性的變化。 Bilateral involvement of the knees is typical.
+
+> - **影像表現**：站立正面 X 光可見內側脛股間室嚴重軟骨間隙狹窄、軟骨下骨硬化與骨刺形成。Osteoarthritis: standing frontal radiograph of the knee shows severe cartilage space narrowing, sclerosis, and osteophytosis of the medial tibiofemoral compartment.
 
 ### 手部骨關節炎 / Osteoarthritis in the Hand {#手部骨關節炎--osteoarthritis-in-the-hand}
-### 好發部位（依發生率排序）/ Sites of Involvement {#好發部位依發生率排序-sites-of-involvement}
+### 好發部位（依發生率排序） / Sites of Involvement {#好發部位依發生率排序--sites-of-involvement}
 | 部位 | 說明 |
 |------|------|
 | **DIP（遠端指間關節）** | 最常見；第二 DIP 為手部 OA 最常見位置 |
@@ -174,6 +183,9 @@ weight: 5
 > **骨刺決定是否存在 OA；關節間隙狹窄程度決定 OA 嚴重程度**
 
 ### 檢查選擇 / Imaging Choice {#檢查選擇--imaging-choice}
+
+![檢查選擇（印刷頁 349）](/core_radiology/images/msk/page-358.png)
+
 - **站立負重 X 光**（屈膝位）：最佳顯示脛股間室軟骨空間狹窄
 
 - 雙側膝關節同時侵犯為典型表現
@@ -187,8 +199,6 @@ weight: 5
 > 3. **膝關節 OA**：內側脛股間室最常見；站立負重片最準確
 
 > 4. **Hallux Rigidus**：MTP 背側骨刺導致僵硬拇指
-
-![Page 349](/core_radiology/images/msk/page-358.png)
 
 ## 髖關節骨關節炎 / Osteoarthritis in the Hip {#髖關節骨關節炎--osteoarthritis-in-the-hip}
 ### X 光特徵 / Radiographic Features {#x-光特徵--radiographic-features-1}
@@ -280,6 +290,9 @@ weight: 5
 
 ### 骶髂關節骨關節炎 / Osteoarthritis in the Sacroiliac (SI) Joint {#骶髂關節骨關節炎--osteoarthritis-in-the-sacroiliac-si-joint}
 ### 解剖要點 / Anatomical Note {#解剖要點--anatomical-note}
+
+![解剖要點（印刷頁 350）](/core_radiology/images/msk/page-359.png)
+
 - 骶髂關節**僅下1/2**為滑膜關節
 
 - 上1/2為韌帶結合關節 (Syndesmosis)
@@ -297,8 +310,6 @@ weight: 5
 > 4. **真空現象**：椎間盤內氣體 = 退化性病變特異性；非 Kümmel 病
 
 > 5. **DISH**：前緣橋接骨刺 ≥ 4 椎體 + 椎間隙及骶髂關節正常
-
-![Page 350](/core_radiology/images/msk/page-359.png)
 
 ## 侵蝕性骨關節炎 / Erosive Osteoarthritis {#侵蝕性骨關節炎--erosive-osteoarthritis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-1}
@@ -351,6 +362,9 @@ weight: 5
 - 為 RA **最早侵蝕部位**
 
 ### RA vs. OA——手部鑑別診斷 {#ra-vs-oa手部鑑別診斷}
+
+![RA vs. OA——手部鑑別診斷（印刷頁 351）](/core_radiology/images/msk/page-360.png)
+
 | 特徵 | 類風濕關節炎 (RA) | 骨關節炎 (OA) |
 |------|------------------|--------------|
 | MCP 侵犯 | **典型** | 少見 |
@@ -369,8 +383,6 @@ weight: 5
 > 3. **Bare Area**：關節囊內裸露骨區 = RA 最早侵蝕部位
 
 > 4. 足部 X 光為 RA 常規檢查（早期可能僅足部受侵犯）
-
-![Page 351](/core_radiology/images/msk/page-360.png)
 
 ## 手部與腕關節類風濕關節炎 / Rheumatoid Arthritis in the Hand and Wrist {#手部與腕關節類風濕關節炎--rheumatoid-arthritis-in-the-hand-and-wrist}
 ### 常見侵犯關節 / Common Joints Involved {#常見侵犯關節--common-joints-involved}
@@ -428,6 +440,9 @@ weight: 5
 | **OA** | 上外側移位 |
 
 ### Protrusio Deformity（髖臼突出畸形） {#protrusio-deformity髖臼突出畸形}
+
+![Protrusio Deformity（髖臼突出畸形）（印刷頁 352）](/core_radiology/images/msk/page-361.png)
+
 - 定義：股骨頭向內超過**髂坐線 (Ilioischial Line)**
 
 | 性別 | 診斷標準 |
@@ -453,17 +468,23 @@ weight: 5
 
 > 7. **RA vs. OA 髖關節**：軸向移位 vs. 上外側移位
 
-![Page 352](/core_radiology/images/msk/page-361.png)
-
 ## 膝關節類風濕關節炎與續發性骨關節炎 / Rheumatoid Arthritis of the Knee with Secondary Osteoarthritis {#膝關節類風濕關節炎與續發性骨關節炎--rheumatoid-arthritis-of-the-knee-with-secondary-osteoarthritis}
-**膝關節類風濕關節炎（rheumatoid arthritis of the knee）** 可同時侵犯內側、外側脛股與髕股三個關節間隙；相對地，骨關節炎（OA）傾向先侵犯**內側脛股關節（medial tibiofemoral articulation）**。若同時出現骨刺與**對稱性**軟骨間隙狹窄，就應考慮**續發性骨關節炎（secondary osteoarthritis）**。與 RA 常侵犯的小關節不同，**侵蝕（erosions）**並不是膝關節 RA 的顯著表現。 All three joint spaces (medial and lateral tibiofemoral and patellofemoral) may be affected by RA in the knee; in contrast, OA tends to first affect the medial tibiofemoral articulation. If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered. Unlike the smaller joints affected by rheumatoid arthritis, erosions are not a prominent manifestation of rheumatoid arthritis of the knee.
+- **膝關節類風濕關節炎（rheumatoid arthritis of the knee）** 可同時侵犯內側、外側脛股與髕股三個關節間隙；相對地，骨關節炎（OA）傾向先侵犯**內側脛股關節（medial tibiofemoral articulation）**
+- 若同時出現骨刺與**對稱性**軟骨間隙狹窄，就應考慮**續發性骨關節炎（secondary osteoarthritis）**
+- 與 RA 常侵犯的小關節不同，**侵蝕（erosions）**並不是膝關節 RA 的顯著表現
+- All three joint spaces (medial and lateral tibiofemoral and patellofemoral) may be affected by RA in the knee; in contrast, OA tends to first affect the medial tibiofemoral articulation. If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered. Unlike the smaller joints affected by rheumatoid arthritis, erosions are not a prominent manifestation of rheumatoid arthritis of the knee.
 
-**重點摘要**
-- **影像表現（RA 合併續發性 OA）**：雙膝前後位負重 X 光可見內側與外側脛股關節的軟骨間隙狹窄，其中外側脛股軟骨間隙狹窄更為明顯（黃色箭頭）；外側明顯的骨刺（紅色箭頭）表示續發性骨關節炎。Rheumatoid arthritis with secondary osteoarthritis: frontal PA weight-bearing view of the knees shows cartilage space narrowing of medial and lateral tibiofemoral articulations bilaterally; the lateral tibiofemoral cartilage spaces are more markedly narrowed (yellow arrows), and prominent osteophytes laterally (red arrows) signify secondary osteoarthritis.
-- **OA 與 RA 的侵犯順序**：OA 先侵犯內側脛股關節，RA 則可同時侵犯三個關節間隙。OA tends to first affect the medial tibiofemoral articulation, whereas RA may involve all three joint spaces.
-- **對稱性狹窄合併骨刺 → 續發性 OA**：若見骨刺與對稱性軟骨間隙狹窄，應考慮續發性骨關節炎。If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered.
-- **頸椎侵犯比例**：類風濕關節炎侵犯頸椎的比例可高達 70%，且病況越嚴重、發病越久侵犯率越高；胸椎與腰椎幾乎不受侵犯。The cervical spine is involved in up to 70% of patients, with increased involvement in more severe and long-standing disease, while the thoracic and lumbar spine are almost never involved.
-- **寰樞椎半脫位的判定**：前寰樞椎半脫位若寰樞齒距（atlanto-dental interval, ADI）>2.5 mm（兒童 >5 mm）即為陽性。Anterior atlantoaxial subluxation is present if the atlanto-dental interval (ADI) is >2.5 mm (>5 mm in children).
+> **臨床要點**
+
+> - **影像表現（RA 合併續發性 OA）**：雙膝前後位負重 X 光可見內側與外側脛股關節的軟骨間隙狹窄，其中外側脛股軟骨間隙狹窄更為明顯（黃色箭頭）；外側明顯的骨刺（紅色箭頭）表示續發性骨關節炎。Rheumatoid arthritis with secondary osteoarthritis: frontal PA weight-bearing view of the knees shows cartilage space narrowing of medial and lateral tibiofemoral articulations bilaterally; the lateral tibiofemoral cartilage spaces are more markedly narrowed (yellow arrows), and prominent osteophytes laterally (red arrows) signify secondary osteoarthritis.
+
+> - **OA 與 RA 的侵犯順序**：OA 先侵犯內側脛股關節，RA 則可同時侵犯三個關節間隙。OA tends to first affect the medial tibiofemoral articulation, whereas RA may involve all three joint spaces.
+
+> - **對稱性狹窄合併骨刺 → 續發性 OA**：若見骨刺與對稱性軟骨間隙狹窄，應考慮續發性骨關節炎。If osteophytes and symmetrical cartilage space narrowing are present, then secondary osteoarthritis should be considered.
+
+> - **頸椎侵犯比例**：類風濕關節炎侵犯頸椎的比例可高達 70%，且病況越嚴重、發病越久侵犯率越高；胸椎與腰椎幾乎不受侵犯。The cervical spine is involved in up to 70% of patients, with increased involvement in more severe and long-standing disease, while the thoracic and lumbar spine are almost never involved.
+
+> - **寰樞椎半脫位的判定**：前寰樞椎半脫位若寰樞齒距（atlanto-dental interval, ADI）>2.5 mm（兒童 >5 mm）即為陽性。Anterior atlantoaxial subluxation is present if the atlanto-dental interval (ADI) is >2.5 mm (>5 mm in children).
 
 ### 膝關節類風濕關節炎 / Rheumatoid Arthritis in the Knee {#膝關節類風濕關節炎--rheumatoid-arthritis-in-the-knee}
 ### 侵犯模式 / Pattern of Involvement {#侵犯模式--pattern-of-involvement}
@@ -498,7 +519,7 @@ weight: 5
 | **齒突侵蝕** | 齒突侵蝕為特徵性表現 |
 | 無骨質增生 | 與 OA 鑑別要點 |
 
-### 寰樞椎半脫位 (Atlantoaxial Subluxation) {#寰樞椎半脫位-atlantoaxial-subluxation}
+### 寰樞椎半脫位 / Atlantoaxial Subluxation {#寰樞椎半脫位--atlantoaxial-subluxation}
 #### 定義 / Definition {#定義--definition}
 - 齒突-寰椎間距 (ADI)：前齒突後緣至 C1 前環後緣的距離
 
@@ -536,6 +557,9 @@ weight: 5
 ---
 
 ### 肘關節類風濕關節炎 / Rheumatoid Arthritis in the Elbow {#肘關節類風濕關節炎--rheumatoid-arthritis-in-the-elbow}
+
+![肘關節類風濕關節炎（印刷頁 353）](/core_radiology/images/msk/page-362.png)
+
 - 約 **1/3** 的 RA 患者侵犯肘關節
 
 > **臨床要點**
@@ -549,8 +573,6 @@ weight: 5
 > 4. **垂直半脫位**：齒突向上突入枕骨大孔 → 壓迫中腦
 
 > 5. **肩關節 RA**：高騎肱骨 + 鎖骨遠端筆尖樣侵蝕
-
-![Page 353](/core_radiology/images/msk/page-362.png)
 
 ## 血清陰性脊椎關節病 / Seronegative Spondyloarthropathies {#血清陰性脊椎關節病--seronegative-spondyloarthropathies}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-3}
@@ -611,6 +633,9 @@ weight: 5
 - 與 Crohn 病骶髂關節炎可同時存在
 
 ### IBD 影像特徵 / Imaging Features {#ibd-影像特徵--imaging-features}
+
+![IBD 影像特徵（印刷頁 354）](/core_radiology/images/msk/page-363.png)
+
 | 檢查 | 表現 |
 |------|------|
 | **CT** | 骶髂關節對稱性硬化 + 侵蝕（髂骨面） |
@@ -627,8 +652,6 @@ weight: 5
 > 4. **單側骶髂關節炎**：需優先排除感染性關節炎
 
 > 5. **骶髂關節炎首先侵犯髂骨面**
-
-![Page 354](/core_radiology/images/msk/page-363.png)
 
 ## 僵直性脊椎炎 / Ankylosing Spondylitis (AS) {#僵直性脊椎炎--ankylosing-spondylitis-as}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-4}
@@ -660,6 +683,9 @@ weight: 5
 | **Andersson 病灶** | 完全強直脊椎中的假關節（骨折不癒合） |
 
 ### 嚴重併發症 / Serious Complications {#嚴重併發症--serious-complications}
+
+![嚴重併發症（印刷頁 355）](/core_radiology/images/msk/page-364.png)
+
 - 完全強直的脊椎即使受到**輕微創傷**也極易骨折
 
 - 外傷後疼痛 → 需 **CT** 評估（即使輕微創傷）
@@ -675,8 +701,6 @@ weight: 5
 > 4. **Andersson 病灶**：強直脊椎中的假關節
 
 > 5. 完全強直脊椎輕微創傷即可骨折 → CT 為首選檢查
-
-![Page 355](/core_radiology/images/msk/page-364.png)
 
 ## 乾癬性關節炎 / Psoriatic Arthritis {#乾癬性關節炎--psoriatic-arthritis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-5}
@@ -758,6 +782,9 @@ weight: 5
 - 侵蝕 + 骨幹骨膜炎
 
 ### 脊椎侵犯 / Spinal Involvement {#脊椎侵犯--spinal-involvement-1}
+
+![脊椎侵犯（印刷頁 356）](/core_radiology/images/msk/page-365.png)
+
 - 粗大骨橋形成
 
 - 與乾癬性關節炎難以鑑別
@@ -776,8 +803,6 @@ weight: 5
 
 > 6. 反應性關節炎 = 感染後關節炎（腹瀉/尿道炎/宮頸炎）
 
-![Page 356](/core_radiology/images/msk/page-365.png)
-
 ## 結締組織疾病 / Connective Tissue Disorders Affecting the Joints {#結締組織疾病--connective-tissue-disorders-affecting-the-joints}
 ### 全身性紅斑狼瘡 (SLE) / Systemic Lupus Erythematosus (SLE) {#全身性紅斑狼瘡-sle--systemic-lupus-erythematosus-sle}
 #### 疾病概述 / Disease Overview {#疾病概述--disease-overview-7}
@@ -789,7 +814,7 @@ weight: 5
 | **MCP 和 PIP 可復位性半脫位** | SLE 的關鍵 X 光徵象 |
 | PA 位時手部受壓對準正常 | 半脫位在**Nørgaard 位（ball-catcher）**或**斜位**時才顯現 |
 
-#### Nørgaard 位 (Ballcatcher's View) {#nørgaard-位-ballcatchers-view}
+#### Nørgaard 位 / Ballcatcher's View {#nørgaard-位--ballcatchers-view}
 - 又稱：Ball-catcher 或 "You're in good hands with Allstate" 位
 
 - 手不受限於 X 光板上 → 半脫位得以顯現
@@ -835,7 +860,7 @@ weight: 5
 
 ---
 
-### 多發性肌炎/皮肌炎 / Polymyositis and Dermatomyositis {#多發性肌炎皮肌炎--polymyositis-and-dermatomyositis}
+### 多發性肌炎 / 皮肌炎 / Polymyositis and Dermatomyositis {#多發性肌炎--皮肌炎--polymyositis-and-dermatomyositis}
 #### 疾病概述 / Disease Overview {#疾病概述--disease-overview-10}
 - 特發性肌肉炎症（多發性肌炎）或肌肉+皮膚炎症（皮肌炎）
 
@@ -866,6 +891,9 @@ weight: 5
 | **頸椎：椎前肌（Longus Coli）** | 可致頸痛、吞嚥困難、發燒、椎前積液；可類似椎前膿腫 |
 
 #### Milwaukee Shoulder（關節內型） {#milwaukee-shoulder關節內型}
+
+![Milwaukee Shoulder（關節內型）（印刷頁 357）](/core_radiology/images/msk/page-366.png)
+
 - 肩關節內型
 
 - 導致旋轉袖和盂肱關節**快速破壞**
@@ -884,17 +912,22 @@ weight: 5
 
 > 6. **Milwaukee Shoulder**：HADD 關節內型 → 肩關節快速破壞
 
-![Page 357](/core_radiology/images/msk/page-366.png)
-
 ## CPPD 的軟骨鈣化：腕關節與膝關節 / Chondrocalcinosis of the Triangular Fibrocartilage Complex {#cppd-的軟骨鈣化腕關節與膝關節--chondrocalcinosis-of-the-triangular-fibrocartilage-complex}
-**CPPD（焦磷酸鈣結晶沉積症）** 的標誌性 X 光表現是**軟骨鈣化（chondrocalcinosis）**，也就是透明軟骨（hyaline）或纖維軟骨（meniscal）的鈣化。腕關節的軟骨鈣化好發於**三角纖維軟骨複合體（triangular fibrocartilage complex, TFCC）**，疾病進展可導致**舟月進階塌陷（scapholunate advanced collapse, SLAC）腕**。 The hallmark radiographic finding of CPPD disease is chondrocalcinosis, which is calcification of hyaline (articular) or fibro- (meniscal) cartilage. In the wrist, chondrocalcinosis tends to affect the triangular fibrocartilage complex (TFCC), and advanced disease may lead to scapholunate advanced collapse (SLAC) wrist.
+- **CPPD（焦磷酸鈣結晶沉積症）** 的標誌性 X 光表現是**軟骨鈣化（chondrocalcinosis）**，也就是透明軟骨（hyaline）或纖維軟骨（meniscal）的鈣化
+- 腕關節的軟骨鈣化好發於**三角纖維軟骨複合體（triangular fibrocartilage complex, TFCC）**，疾病進展可導致**舟月進階塌陷（scapholunate advanced collapse, SLAC）腕**
+- The hallmark radiographic finding of CPPD disease is chondrocalcinosis, which is calcification of hyaline (articular) or fibro- (meniscal) cartilage. In the wrist, chondrocalcinosis tends to affect the triangular fibrocartilage complex (TFCC), and advanced disease may lead to scapholunate advanced collapse (SLAC) wrist.
 
-**重點摘要**
-- **SLAC 腕的定義**：SLAC 腕是頭狀骨（capitate）向近端移位、介於分離的舟狀骨（scaphoid）與月狀骨（lunate）之間；也可見於 RA 或外傷。SLAC wrist is proximal migration of the capitate between the dissociated scaphoid and lunate, and may also be seen in RA or trauma.
-- **影像表現（腕）**：腕關節正面 X 光可見三角纖維軟骨複合體（TFCC）的軟骨鈣化（箭頭），這是軟骨鈣化最常見的部位。Frontal radiograph of the wrist demonstrates chondrocalcinosis of the triangular fibrocartilage complex (TFCC, arrow), a common site of chondrocalcinosis.
-- **膝關節先侵犯髕股間室**：膝關節以髕股間室最早受侵犯，但三個間室之後都可能受累；**髕股關節單獨的退行性變化高度提示 CPPD**，而明顯的**軟骨下囊腫（subchondral cysts）**也特別提示 CPPD。In the knee, the patellofemoral compartment is affected first, but all three compartments may become involved; isolated degenerative changes of the patellofemoral joint are highly suggestive of CPPD, and prominent subchondral cysts are also especially suggestive of CPPD.
-- **影像表現（膝）**：同一病人的膝關節正面 X 光可見半月板的軟骨鈣化。Frontal radiograph of the knee demonstrates chondrocalcinosis of the menisci in the same patient.
-- **手部第二、三掌指關節**：手部以第二與第三掌指關節（MCP）受侵犯為典型，從掌骨頭橈側產生特有的**鉤狀或懸垂狀骨刺（hook-like or drooping osteophytes）**；血鐵質沉積症（hemochromatosis）可呈類似外觀，但通常 MCP 受累更廣泛。In the hands, involvement of the second and third MCP joints is typical, producing characteristic hook-like or drooping osteophytes from the radial aspect of the metacarpal heads; a similar appearance can be seen in hemochromatosis, which typically features more extensive involvement of the MCPs.
+> **臨床要點**
+
+> - **SLAC 腕的定義**：SLAC 腕是頭狀骨（capitate）向近端移位、介於分離的舟狀骨（scaphoid）與月狀骨（lunate）之間；也可見於 RA 或外傷。SLAC wrist is proximal migration of the capitate between the dissociated scaphoid and lunate, and may also be seen in RA or trauma.
+
+> - **影像表現（腕）**：腕關節正面 X 光可見三角纖維軟骨複合體（TFCC）的軟骨鈣化（箭頭），這是軟骨鈣化最常見的部位。Frontal radiograph of the wrist demonstrates chondrocalcinosis of the triangular fibrocartilage complex (TFCC, arrow), a common site of chondrocalcinosis.
+
+> - **膝關節先侵犯髕股間室**：膝關節以髕股間室最早受侵犯，但三個間室之後都可能受累；**髕股關節單獨的退行性變化高度提示 CPPD**，而明顯的**軟骨下囊腫（subchondral cysts）**也特別提示 CPPD。In the knee, the patellofemoral compartment is affected first, but all three compartments may become involved; isolated degenerative changes of the patellofemoral joint are highly suggestive of CPPD, and prominent subchondral cysts are also especially suggestive of CPPD.
+
+> - **影像表現（膝）**：同一病人的膝關節正面 X 光可見半月板的軟骨鈣化。Frontal radiograph of the knee demonstrates chondrocalcinosis of the menisci in the same patient.
+
+> - **手部第二、三掌指關節**：手部以第二與第三掌指關節（MCP）受侵犯為典型，從掌骨頭橈側產生特有的**鉤狀或懸垂狀骨刺（hook-like or drooping osteophytes）**；血鐵質沉積症（hemochromatosis）可呈類似外觀，但通常 MCP 受累更廣泛。In the hands, involvement of the second and third MCP joints is typical, producing characteristic hook-like or drooping osteophytes from the radial aspect of the metacarpal heads; a similar appearance can be seen in hemochromatosis, which typically features more extensive involvement of the MCPs.
 
 ### 軟骨鈣化症 (CPPD) / Calcium Pyrophosphate Dihydrate Deposition Disease (CPPD) {#軟骨鈣化症-cppd--calcium-pyrophosphate-dihydrate-deposition-disease-cppd}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-12}
@@ -929,14 +962,14 @@ weight: 5
 | X 光敏感度 | 膝、腕、骨盆（恥骨聯合）X 光對軟骨鈣化幾乎 100% 敏感 |
 
 ### CPPD 各關節侵犯 / Joint-Specific Findings {#cppd-各關節侵犯--joint-specific-findings}
-#### 腕關節 (Wrist) {#腕關節-wrist}
+#### 腕關節 / Wrist {#腕關節--wrist-1}
 | 特點 | 說明 |
 |------|------|
 | 典型侵犯部位 | **三角纖維軟骨複合體 (TFCC)** |
 | 晚期併發症 | **SLAC 腕 (Scapholunate Advanced Collapse)**：豆狀骨與舟狀骨分離 + 頭狀骨近端遷移 |
 | SLAC 腕原因 | RA、外傷亦可導致 |
 
-#### 膝關節 (Knee) {#膝關節-knee}
+#### 膝關節 / Knee {#膝關節--knee}
 | 特點 | 說明 |
 |------|------|
 | 首先侵犯 | 髕股間室 |
@@ -944,7 +977,10 @@ weight: 5
 | **孤立性髕股間室退化** | 高度提示 CPPD |
 | **軟骨下囊性變明顯** | 高度提示 CPPD |
 
-#### 手部 (Hands) {#手部-hands}
+#### 手部 / Hands {#手部--hands}
+
+![手部（印刷頁 358）](/core_radiology/images/msk/page-367.png)
+
 | 特點 | 說明 |
 |------|------|
 | 典型侵犯部位 | **第二、三 MCP 關節** |
@@ -964,8 +1000,6 @@ weight: 5
 > 5. **SLAC 腕**：CPPD 晚期併發症（豆狀骨/舟狀骨分離 + 頭狀骨近端移位）
 
 > 6. **鉤狀掌骨頭骨刺**：手部 CPPD 特徵（第二、三 MCP）
-
-![Page 358](/core_radiology/images/msk/page-367.png)
 
 ## 痛風 / Gout {#痛風--gout}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-13}
@@ -1041,6 +1075,9 @@ weight: 5
 | **晚期** | 繼發性骨關節炎；軟骨間隙狹窄 |
 
 ### 手部特徵性表現 / Characteristic Hand Findings {#手部特徵性表現--characteristic-hand-findings}
+
+![手部特徵性表現（印刷頁 359）](/core_radiology/images/msk/page-368.png)
+
 | 表現 | 說明 |
 |------|------|
 | 掌骨頭鳥嘴狀骨刺 | |
@@ -1055,8 +1092,6 @@ weight: 5
 > 3. **Acromegaly**：**早期關節間隙增寬**（唯一軟骨增生的關節病）；指骨末端擴大
 
 > 4. **CPPD vs. 血色素沉著症**：前者通常僅第二、三 MCP；後者侵犯所有 MCP
-
-![Page 359](/core_radiology/images/msk/page-368.png)
 
 ## 類澱粉關節病 / Amyloid Arthropathy {#類澱粉關節病--amyloid-arthropathy}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-16}
@@ -1159,6 +1194,9 @@ weight: 5
 | MRI | 因不同階段血製品而呈複雜表現 |
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis}
+
+![鑑別診斷（印刷頁 360）](/core_radiology/images/msk/page-369.png)
+
 - 幼年型特發性關節炎 (JIA) 同樣可引起關節充血
 
 - 膝關節：髁間切跡增寬
@@ -1178,8 +1216,6 @@ weight: 5
 > 4. **血友病**：橈骨頭增大（肘）+ 髕骨方化（膝）+ 髁間切跡增寬
 
 > 5. **血友病假腫瘤**：反覆出血導致扇形骨質壓跡 + 軟組織腫塊
-
-![Page 360](/core_radiology/images/msk/page-369.png)
 
 ## 幼年型特發性關節炎 (JIA) / Juvenile Idiopathic Arthritis (JIA) {#幼年型特發性關節炎-jia--juvenile-idiopathic-arthritis-jia}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-20}
@@ -1207,19 +1243,19 @@ weight: 5
 | 關節改變 | 骨骼成熟提前 + 骺板融合 |
 
 ### 各關節表現 / Joint-Specific Findings {#各關節表現--joint-specific-findings}
-#### 手部 (Hand) {#手部-hand}
+#### 手部 / Hand {#手部--hand}
 | 表現 | 說明 |
 |------|------|
 | **第五掌骨縮短 (Brachydactyly)** | 骺板過早融合 |
 
-#### 膝關節 (Knee) {#膝關節-knee-1}
+#### 膝關節 / Knee {#膝關節--knee-1}
 | 表現 | 說明 |
 |------|------|
 | **髁間切跡增寬** | 特徵性表現 |
 | 干骺端展開 (Metaphyseal Flaring) | |
 | 軟骨間隙均勻狹窄 | |
 
-#### 肘關節 (Elbow) {#肘關節-elbow}
+#### 肘關節 / Elbow {#肘關節--elbow}
 | 表現 | 說明 |
 |------|------|
 | **橈骨頭增大** | 特徵性表現 |
@@ -1227,14 +1263,14 @@ weight: 5
 | 軟骨間隙均勻狹窄 | |
 | 與血友病相似 | |
 
-#### 髖關節 (Hip) {#髖關節-hip}
+#### 髖關節 / Hip {#髖關節--hip}
 | 表現 | 說明 |
 |------|------|
 | 對稱性軟骨間隙狹窄 | |
 | **髖臼突出畸形 (Protrusio Deformity)** | |
 | **股骨幹變細 (Gracile Appearance)** | |
 
-#### 強直 (Ankylosis) {#強直-ankylosis}
+#### 強直 / Ankylosis {#強直--ankylosis}
 | 部位 | 說明 |
 |------|------|
 | 腕關節 | 常見 |
@@ -1242,6 +1278,9 @@ weight: 5
 | JIA 強直遠比成人 RA 常見 | |
 
 ### 兒童頸椎強直鑑別診斷 / Differential Diagnosis {#兒童頸椎強直鑑別診斷--differential-diagnosis}
+
+![兒童頸椎強直鑑別診斷（印刷頁 361）](/core_radiology/images/msk/page-370.png)
+
 | 疾病 | 說明 |
 |------|------|
 | **JIA** | 頸椎強直 |
@@ -1258,8 +1297,6 @@ weight: 5
 > 4. **Still 病**：全身性 JIA；< 5 歲；發燒 + 皮疹 + 心包炎
 
 > 5. **JIA vs. 血友病**：兩者均呈現髁間切跡增寬和橈骨頭增大（相似）
-
-![Page 361](/core_radiology/images/msk/page-370.png)
 
 ## 神經病變性關節病 (夏科氏關節) / Neuropathic Arthropathy (Charcot Joint) {#神經病變性關節病-夏科氏關節--neuropathic-arthropathy-charcot-joint}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-21}
@@ -1299,6 +1336,9 @@ weight: 5
 - 高度提示：**脊髓空洞症**（建議做頸椎 MRI 確診）
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-1}
+
+![鑑別診斷（印刷頁 362）](/core_radiology/images/msk/page-371.png)
+
 - 嚴重退化性關節炎（但無神經病變、無碎片）
 
 - 感染性關節炎（骨質破壞但無明顯骨質增生）
@@ -1316,8 +1356,6 @@ weight: 5
 > 4. **肩關節萎縮型神經病變**：高度提示脊髓空洞症
 
 > 5. **肥厚型 vs 萎縮型**：生長速度決定表現型（慢＝肥厚，快＝萎縮）
-
-![Page 362](/core_radiology/images/msk/page-371.png)
 
 ## 結節病 / Sarcoidosis {#結節病--sarcoidosis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-22}
@@ -1337,14 +1375,14 @@ weight: 5
 ---
 
 ### 手部關節炎評估：ABCDEs 法則 / Evaluation of the Hands for Arthritis: ABCDEs {#手部關節炎評估abcdes-法則--evaluation-of-the-hands-for-arthritis-abcdes}
-### A — 對線 (Alignment) {#a--對線-alignment}
+### A — 對線 / Alignment {#a--對線--alignment}
 | 發現 | 疾病關聯 |
 |------|---------|
 | **不可復位的半脫臼** | **類風濕關節炎 (RA)** |
 | **可復位的半脫臼** | **系統性紅斑狼瘡 (SLE)** 或 **Jaccoud 關節病**（SLE 無侵蝕性病變） |
 | **關節脫臼** | 晚期類風濕關節炎 |
 
-### B — 骨質密度 (Bone Mineral Density) {#b--骨質密度-bone-mineral-density}
+### B — 骨質密度 / Bone Mineral Density {#b--骨質密度--bone-mineral-density}
 | 評估方式 | 正常標準 |
 |---------|---------|
 | 第二掌骨骨幹皮質厚度 | 至少占骨幹總寬度的 **1/3** |
@@ -1354,7 +1392,10 @@ weight: 5
 | **瀰漫性骨質疏鬆** | 晚期類風濕關節炎 |
 | **關節周骨質疏鬆** | 類風濕關節炎早期或任何發炎性關節病早期 |
 
-### B — 骨質增生 (Bone Creation) {#b--骨質增生-bone-creation}
+### B — 骨質增生 / Bone Creation {#b--骨質增生--bone-creation}
+
+![B — 骨質增生（印刷頁 363）](/core_radiology/images/msk/page-372.png)
+
 | 骨質增生類型 | 說明 |
 |------------|------|
 | **骨刺 (Osteophyte)** | 軟骨退化後關節邊緣的軟骨內骨化；**退化性關節炎的標誌**，亦可見於 CPPD、血色素沉著症 |
@@ -1372,32 +1413,30 @@ weight: 5
 
 > 5. **手部骨質疏鬆**：區分發炎性與非發炎性關節病的重要參考
 
-![Page 363](/core_radiology/images/msk/page-372.png)
-
-## 關節炎評估（續）/ Arthritis Evaluation (Continued) {#關節炎評估續-arthritis-evaluation-continued}
-### C — 鈣化 (Calcification) {#c--鈣化-calcification}
+## 關節炎評估（續） / Arthritis Evaluation (Continued) {#關節炎評估續--arthritis-evaluation-continued}
+### C — 鈣化 / Calcification {#c--鈣化--calcification}
 | 晶體沉積疾病 | 關節炎類型 |
 |-------------|-----------|
 | **CPPD（軟骨鈣化症）** | 軟骨鈣化 (Chondrocalcinosis) |
 | **羥磷灰石沉積症 (HADD)** | 肌腱鈣化 (Calcific Tendinitis) |
 | **尿酸鈉單水合物（痛風）** | 軟組織鈣化（痛風石內尿酸結晶促成鈣質沉積） |
 
-#### 軟骨鈣化 (Chondrocalcinosis) {#軟骨鈣化-chondrocalcinosis}
+#### 軟骨鈣化 / Chondrocalcinosis {#軟骨鈣化--chondrocalcinosis}
 - 成因：軟骨內**焦磷酸鈣 (CPPD) 結晶沉積**
 
 - 可為特發性，或與**甲狀旁腺功能亢進**、**血色素沉著症**相關
 
-#### 肌腱鈣化 (Calcification of Tendons) {#肌腱鈣化-calcification-of-tendons}
+#### 肌腱鈣化 / Calcification of Tendons {#肌腱鈣化--calcification-of-tendons}
 - 主因為**羥磷灰石結晶沉積**（又稱鈣化性肌腱炎）
 
 - CPPD 亦可見肌腱鈣化
 
-#### 軟組織鈣化 (Soft-tissue Calcification) {#軟組織鈣化-soft-tissue-calcification}
+#### 軟組織鈣化 / Soft-tissue Calcification {#軟組織鈣化--soft-tissue-calcification}
 - 痛風石內尿酸結晶可促進鈣質沉積
 
 - 其他原因：**硬皮病、皮肌炎/多發性肌炎、系統性紅斑狼瘡**
 
-### C — 軟骨間隙 (Cartilage Spaces) {#c--軟骨間隙-cartilage-spaces}
+### C — 軟骨間隙 / Cartilage Spaces {#c--軟骨間隙--cartilage-spaces}
 | 軟骨間隙表現 | 疾病關聯 |
 |-------------|---------|
 | **軟骨間隙保留** | 痛風（通常軟骨間隙完整，局部變窄可能由痛風石造成） |
@@ -1405,8 +1444,8 @@ weight: 5
 | **對稱性狹窄** | 發炎性關節病（類風濕關節炎） |
 | **軟骨間隙增寬** | **肢端肥大症**（疾病早期可見，繼發性退化前出現） |
 
-### D — 分布 (Distribution) {#d--分布-distribution}
-#### 手部：遠端指間關節 (DIP) 與近端指間關節 (PIP) {#手部遠端指間關節-dip-與近端指間關節-pip}
+### D — 分布 / Distribution {#d--分布--distribution}
+#### 手部：遠端指間關節 (DIP) 與近端指間關節 / PIP {#手部遠端指間關節-dip-與近端指間關節--pip}
 | 情況 | 疾病 |
 |------|------|
 | **有骨刺、無侵蝕** | 退化性關節炎 |
@@ -1414,6 +1453,9 @@ weight: 5
 | **無骨刺、有侵蝕** | 乾癬性關節炎 |
 
 #### 手部：掌指關節 (MCP) 與 PIP {#手部掌指關節-mcp-與-pip}
+
+![手部：掌指關節 (MCP) 與 PIP（印刷頁 364）](/core_radiology/images/msk/page-373.png)
+
 | 情況 | 疾病 |
 |------|------|
 | **無新生骨形成** | 類風濕關節炎 |
@@ -1432,11 +1474,9 @@ weight: 5
 
 > 5. **MCP 骨刺 → 優先考慮 CPPD 或血色素沉著症**
 
-![Page 364](/core_radiology/images/msk/page-373.png)
-
-## 關節炎評估（續）/ Arthritis Evaluation (Continued) {#關節炎評估續-arthritis-evaluation-continued-1}
-### D — 分布（續）(Distribution) {#d--分布續distribution}
-#### 腕關節：腕掌關節 (CMC) {#腕關節腕掌關節-cmc}
+## 關節炎評估（續） / Arthritis Evaluation (Continued) {#關節炎評估續--arthritis-evaluation-continued-1}
+### D — 分布（續） / Distribution {#d--分布續--distribution}
+#### 腕關節：腕掌關節 / CMC {#腕關節腕掌關節--cmc}
 | CMC 關節表現 | 疾病 |
 |-------------|------|
 | **骨刺、無侵蝕** | 退化性關節炎 |
@@ -1449,7 +1489,7 @@ weight: 5
 | 瀰漫性侵犯 | **發炎性關節病** |
 | 外傷後退化 | 可發生於腕關節任何部位 |
 
-### E — 侵蝕 (Erosions) {#e--侵蝕-erosions}
+### E — 侵蝕 / Erosions {#e--侵蝕--erosions}
 - 侵蝕最早出現於**骨骼「裸露區」(Bare Area)**：即關節邊緣、軟骨附著處內側
 
 - 病程進展：侵蝕可進一步擴展至整個關節，嚴重時可導致**關節完全破壞**
@@ -1461,7 +1501,10 @@ weight: 5
 | **海鷗狀侵蝕 (Gullwing Erosion)** | **侵蝕性退化性關節炎** |
 | **皮質懸垂邊緣 (Overhanging Margin)** | **痛風**（慢性痛風石侵蝕後皮質重塑） |
 
-### S — 軟組織腫脹 (Soft-tissue Swelling) {#s--軟組織腫脹-soft-tissue-swelling}
+### S — 軟組織腫脹 / Soft-tissue Swelling {#s--軟組織腫脹--soft-tissue-swelling}
+
+![S — 軟組織腫脹（印刷頁 365）](/core_radiology/images/msk/page-374.png)
+
 | 軟組織腫脹類型 | 臨床意義 |
 |---------------|---------|
 | **關節周對稱性腫脹** | 類風濕關節炎特徵（關節積液 X 光表現），亦可見於任何發炎性關節病 |
@@ -1484,8 +1527,6 @@ weight: 5
 
 > 5. **Heberden 結節 = DIP 退化；Bouchard 結節 = PIP 退化**
 
-![Page 365](/core_radiology/images/msk/page-374.png)
-
 ## 骨腫瘤與腫瘤樣病變：診斷方法 / Bone Tumors and Tumor-like Lesions: Approach {#骨腫瘤與腫瘤樣病變診斷方法--bone-tumors-and-tumor-like-lesions-approach}
 ### 骨膜反應的形態學分析 / Morphology of Periosteal Reaction {#骨膜反應的形態學分析--morphology-of-periosteal-reaction}
 - 骨膜反應的**形態**可推斷病灶的**生長速度**與**侵襲性**
@@ -1501,28 +1542,31 @@ weight: 5
 - 骨膜覆蓋除關節面外的幾乎整塊骨骼
 
 ### 各類骨膜反應詳細說明 / Detailed Periosteal Reaction Types {#各類骨膜反應詳細說明--detailed-periosteal-reaction-types}
-#### 非侵襲性：實性骨膜反應 (Solid Periosteal Reaction) {#非侵襲性實性骨膜反應-solid-periosteal-reaction}
+#### 非侵襲性：實性骨膜反應 / Solid Periosteal Reaction {#非侵襲性實性骨膜反應--solid-periosteal-reaction}
 - **慢速生長過程**（如骨樣骨瘤）刺激骨膜細胞平穩、持續地生成骨質
 
 - X 光表現：**光滑、連續的骨膜新生**
 
 - 常見疾病：骨樣骨瘤、骨囊腫（靜止期）
 
-#### 侵襲性：層狀骨膜反應 (Lamellated Periosteal Reaction) {#侵襲性層狀骨膜反應-lamellated-periosteal-reaction}
+#### 侵襲性：層狀骨膜反應 / Lamellated Periosteal Reaction {#侵襲性層狀骨膜反應--lamellated-periosteal-reaction}
 - **不規則生長**（時停時進）的病灶造成層狀外觀
 
 - X 光表現：**洋蔥皮樣/洋蔥皮狀**多層骨膜新生
 
 - 意義：生長速度足以干擾正常骨膜骨質形成，但尚能產生部分骨質
 
-#### 高度侵襲性：日光放射狀骨膜反應 (Sunburst Periosteal Reaction) {#高度侵襲性日光放射狀骨膜反應-sunburst-periosteal-reaction}
+#### 高度侵襲性：日光放射狀骨膜反應 / Sunburst Periosteal Reaction {#高度侵襲性日光放射狀骨膜反應--sunburst-periosteal-reaction}
 - **極快速生長**的病灶將骨膜細胞向外推動
 
 - 每個骨膜細胞在移動過程中留下一條骨質軌跡
 
 - X 光表現：**如毛髮豎立或光芒四射**（頭髮狀/日光狀）
 
-#### 極高度侵襲性：Codman 三角 (Codman Triangle) {#極高度侵襲性codman-三角-codman-triangle}
+#### 極高度侵襲性：Codman 三角 / Codman Triangle {#極高度侵襲性codman-三角--codman-triangle}
+
+![極高度侵襲性：Codman 三角（印刷頁 366）](/core_radiology/images/msk/page-375.png)
+
 - 病灶生長**極為快速**，骨膜僅能在周邊產生少量可見鈣化
 
 - X 光表現：**Codman 三角**（病灶邊緣被抬起之骨膜形成三角形骨質）
@@ -1542,8 +1586,6 @@ weight: 5
 > 5. **Codman 三角 + 軟組織腫塊**：強烈提示侵襲性病灶，需結合年齡、位置、基質與臨床資料鑑別
 
 > 6. 評估骨病變時，**骨膜反應形態比位置更能提示侵襲性**
-
-![Page 366](/core_radiology/images/msk/page-375.png)
 
 ## 骨質破壞型態：邊緣分析 / Bone Destruction Patterns: Margin Analysis {#骨質破壞型態邊緣分析--bone-destruction-patterns-margin-analysis}
 ### 邊緣分析原則 / Margin Analysis Principles {#邊緣分析原則--margin-analysis-principles}
@@ -1586,6 +1628,9 @@ weight: 5
 | **< 20 歲** | 嗜酸性肉芽腫、感染、或**尤文氏肉瘤** |
 
 ### 病變位於骨內的位置 / Location Within Bone {#病變位於骨內的位置--location-within-bone}
+
+![病變位於骨內的位置（印刷頁 367）](/core_radiology/images/msk/page-376.png)
+
 | 位置 | 常見病變 |
 |------|---------|
 | **偏心性 (Eccentric)** | 巨細胞瘤、軟骨母細胞瘤、動脈瘤樣骨囊腫、 non-ossifying fibroma、軟骨黏液樣纖維瘤 |
@@ -1604,8 +1649,6 @@ weight: 5
 > 5. **鎖骨遠端吸收 + 棕色瘤**：高度提示**甲狀旁腺功能亢進**
 
 > 6. **年輕人侵襲性溶骨性病變**：嗜酸性肉芽腫 > 感染 > 尤文氏肉瘤
-
-![Page 367](/core_radiology/images/msk/page-376.png)
 
 ## 骨腫瘤與腫瘤樣病變：按細胞來源分類 / Bone Lesions Organized by Cell of Origin {#骨腫瘤與腫瘤樣病變按細胞來源分類--bone-lesions-organized-by-cell-of-origin}
 ### 成骨性病變 (Bone Forming / Osteo- Lesions) {#成骨性病變-bone-forming--osteo--lesions}
@@ -1632,7 +1675,10 @@ weight: 5
 | 好發位置 | 顱骨皮質或額竇/篩竇 |
 | 相關症候群 | **Gardner 症候群**（自體顯性）：多發性骨瘤 + 腸道息肉 + 軟組織desmoid腫瘤 |
 
-#### 良性：骨膜增生性骨病 (Melorheostosis) {#良性骨膜增生性骨病-melorheostosis}
+#### 良性：骨膜增生性骨病 / Melorheostosis {#良性骨膜增生性骨病--melorheostosis}
+
+![良性：骨膜增生性骨病（印刷頁 368）](/core_radiology/images/msk/page-377.png)
+
 | 特徵 | 說明 |
 |------|------|
 | 別名 | 又拼作 melorrheostosis |
@@ -1653,8 +1699,6 @@ weight: 5
 > 4. **Gardner 症候群**：骨瘤 + 腸道息肉 + Desmoid 腫瘤（有大腸癌風險）
 
 > 5. **Melorheostosis** = 單一皮節分布 + 蠟燭流痕狀皮質增厚 + 骨掃描高度攝取
-
-![Page 368](/core_radiology/images/msk/page-377.png)
 
 ## 良性：骨樣骨瘤 / Benign: Osteoid Osteoma {#良性骨樣骨瘤--benign-osteoid-osteoma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-23}
@@ -1689,6 +1733,9 @@ weight: 5
 - 外科刮除術 (Curettage) 或切除術
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-2}
+
+![鑑別診斷（印刷頁 369）](/core_radiology/images/msk/page-378.png)
+
 - 骨皮質膿瘍（感染性）
 
 - 應力性骨折
@@ -1708,8 +1755,6 @@ weight: 5
 > 5. **脊柱後柱病灶 + 疼痛性脊柱側彎**：需排除骨樣骨瘤
 
 > 6. **射頻燒灼術**：微創治療首選（取代傳統開放手術）
-
-![Page 369](/core_radiology/images/msk/page-378.png)
 
 ## 良性：骨母細胞瘤 / Benign: Osteoblastoma {#良性骨母細胞瘤--benign-osteoblastoma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-24}
@@ -1755,6 +1800,9 @@ weight: 5
 | 軟組織腫塊 | 常伴隨 |
 
 ### 主要亞型 / Major Subtypes {#主要亞型--major-subtypes}
+
+![主要亞型（印刷頁 370）](/core_radiology/images/msk/page-379.png)
+
 | 亞型 | 占比 | 年齡/好發 | 特徵 |
 |------|------|-----------|------|
 | **傳統型（髓內型）** | 75% | 青少年/年輕成人；膝關節附近（股骨/脛骨骨幹端） | 骨髓腔內骨質基質 + 皮質破壞 + 侵襲性骨膜反應 + 軟組織腫塊 |
@@ -1774,9 +1822,7 @@ weight: 5
 
 > 5. **疼痛不被阿斯匹靈緩解**：骨母細胞瘤與骨樣骨瘤的臨床鑑別點
 
-![Page 370](/core_radiology/images/msk/page-379.png)
-
-## 骨肉瘤亞型（續）/ Osteosarcoma Subtypes (Continued) {#骨肉瘤亞型續-osteosarcoma-subtypes-continued}
+## 骨肉瘤亞型（續） / Osteosarcoma Subtypes (Continued) {#骨肉瘤亞型續--osteosarcoma-subtypes-continued}
 ### 血管擴張型骨肉瘤 / Telangiectatic Osteosarcoma {#血管擴張型骨肉瘤--telangiectatic-osteosarcoma}
 | 特徵 | 說明 |
 |------|------|
@@ -1814,6 +1860,9 @@ weight: 5
 | **Conventional** | 傳統預後 |
 
 ### 骨肉瘤轉移 / Metastasis {#骨肉瘤轉移--metastasis}
+
+![骨肉瘤轉移（印刷頁 371）](/core_radiology/images/msk/page-380.png)
+
 - 骨肉瘤最常轉移至**肺部**
 
 - 肺轉移灶通常**鈣化**（因腫瘤產生骨質基質）
@@ -1832,10 +1881,8 @@ weight: 5
 
 > 6. **影像策略**：懷疑 Telangiectatic 型時，MRI 的實性結節成分為關鍵鑑別點
 
-![Page 371](/core_radiology/images/msk/page-380.png)
-
 ## 軟骨形成性病變 / Cartilage-Forming (Chondro-) Lesions {#軟骨形成性病變--cartilage-forming-chondro--lesions}
-### 良性：滑膜軟骨瘤病/骨軟骨瘤病 / Benign: Synovial Chondromatosis / Osteochondromatosis {#良性滑膜軟骨瘤病骨軟骨瘤病--benign-synovial-chondromatosis--osteochondromatosis}
+### 良性：滑膜軟骨瘤病 / 骨軟骨瘤病 / Benign: Synovial Chondromatosis / Osteochondromatosis {#良性滑膜軟骨瘤病--骨軟骨瘤病--benign-synovial-chondromatosis--osteochondromatosis}
 | 特徵 | 說明 |
 |------|------|
 | 性質 | **非腫瘤性滑膜化生**，關節內形成分葉狀軟骨結節（可骨化或否） |
@@ -1852,6 +1899,9 @@ weight: 5
 | **CT** | 確認礦化型態最佳工具 |
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-4}
+
+![鑑別診斷（印刷頁 372）](/core_radiology/images/msk/page-381.png)
+
 | 病變 | 鑑別點 |
 |------|--------|
 | **退化性關節炎游離體** | 數量少、大小形狀多變；滑膜軟骨瘤病：數量多、大小均勻 |
@@ -1868,8 +1918,6 @@ weight: 5
 > 4. **MRI 侷限**：多發關節內低信號灶為非特異性，需結合 X 光確診
 
 > 5. **罕見惡性變**：可由滑膜軟骨瘤病惡化為軟骨肉瘤
-
-![Page 372](/core_radiology/images/msk/page-381.png)
 
 ## 良性：內生軟骨瘤 / Benign: Enchondroma {#良性內生軟骨瘤--benign-enchondroma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-26}
@@ -1905,6 +1953,9 @@ weight: 5
 | **皮質增厚** | 需排除惡性變 |
 
 ### 治療 / Treatment {#治療--treatment-1}
+
+![治療（印刷頁 373）](/core_radiology/images/msk/page-382.png)
+
 - **刮除術 (Curettage)**：主要治療方式
 
 > **臨床要點**
@@ -1919,16 +1970,14 @@ weight: 5
 
 > 5. **Ollier 與 Maffucci 症候群**：多發性內生軟骨瘤，惡性變風險升高
 
-![Page 373](/core_radiology/images/msk/page-382.png)
-
 ## 症候群：軟骨發育不全症候群 / Syndromes: Familial Enchondromatoses {#症候群軟骨發育不全症候群--syndromes-familial-enchondromatoses}
-### Ollier 症候群 {#ollier-症候群}
+### 症候群 / Ollier {#症候群--ollier}
 | 項目 | 說明 |
 |------|------|
 | 特徵 | **多發性內生軟骨瘤**（無靜脈畸形） |
 | 惡性變風險 | 升高（軟骨肉瘤） |
 
-### Maffucci 症候群 {#maffucci-症候群}
+### 症候群 / Maffucci {#症候群--maffucci}
 | 項目 | 說明 |
 |------|------|
 | 特徵 | **多發性內生軟骨瘤 + 靜脈畸形**（靜脈畸形產生靜脈石/phleboliths） |
@@ -1959,6 +2008,9 @@ weight: 5
 | **軟骨帽厚度 > 2 cm (MRI)** | 高度暗示已惡性變為軟骨肉瘤 |
 
 ### 家族性骨軟骨瘤病 / Familial Osteochondromatosis (Multiple Hereditary Exostoses) {#家族性骨軟骨瘤病--familial-osteochondromatosis-multiple-hereditary-exostoses}
+
+![家族性骨軟骨瘤病（印刷頁 374）](/core_radiology/images/msk/page-383.png)
+
 | 項目 | 說明 |
 |------|------|
 | 遺傳方式 | 自體顯性遺傳性骨質發育不良 |
@@ -1976,8 +2028,6 @@ weight: 5
 > 4. **Ollier = 內生軟骨瘤 alone；Maffucci = 內生軟骨瘤 + 靜脈石**
 
 > 5. **無骨折的疼痛 = 骨軟骨瘤惡性變的紅旗**
-
-![Page 374](/core_radiology/images/msk/page-383.png)
 
 ## 良性：軟骨母細胞瘤 / Benign: Chondroblastoma {#良性軟骨母細胞瘤--benign-chondroblastoma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-28}
@@ -2041,6 +2091,9 @@ weight: 5
 | 組織學 | 可含有纖維肉瘤或骨肉瘤成分 |
 
 ### 骨軟骨瘤惡性變的軟骨帽厚度 / Cartilage Cap Thickness {#骨軟骨瘤惡性變的軟骨帽厚度--cartilage-cap-thickness}
+
+![骨軟骨瘤惡性變的軟骨帽厚度（印刷頁 375）](/core_radiology/images/msk/page-384.png)
+
 | 厚度 | 意義 |
 |------|------|
 | **> 2 cm (MRI)** | 高度暗示已惡性變為軟骨肉瘤 |
@@ -2056,8 +2109,6 @@ weight: 5
 > 4. **去分化型** = 軟骨肉瘤 + 纖維肉瘤/骨肉瘤成分 = 高度侵襲性
 
 > 5. **骨軟骨瘤軟骨帽 > 2 cm** = 惡性變軟骨肉瘤的強烈暗示
-
-![Page 375](/core_radiology/images/msk/page-384.png)
 
 ## 纖維來源病變 / Lesions of Fibrous Origin {#纖維來源病變--lesions-of-fibrous-origin}
 ### 良性：非骨化性纖維瘤 / 纖維皮質缺損 / Benign: Nonossifying Fibroma (NOF) / Fibrous Cortical Defect (FCD) {#良性非骨化性纖維瘤--纖維皮質缺損--benign-nonossifying-fibroma-nof--fibrous-cortical-defect-fcd}
@@ -2101,6 +2152,9 @@ weight: 5
 | 骨內病變 | 少見；呈**侵襲性溶骨性病變** |
 
 ### 骨內 MFH 影像特徵 / Intraosseous MFH Imaging Features {#骨內-mfh-影像特徵--intraosseous-mfh-imaging-features}
+
+![骨內 MFH 影像特徵（印刷頁 376）](/core_radiology/images/msk/page-385.png)
+
 | 特徵 | 說明 |
 |------|------|
 | 表現 | 侵襲性溶骨性病變 |
@@ -2117,8 +2171,6 @@ weight: 5
 > 4. **骨內 MFH** = 侵襲性溶骨性病變（需與其他骨腫瘤鑑別）
 
 > 5. **未分化多形性肉瘤 (UPS)** = MFH 的現代官方名稱
-
-![Page 376](/core_radiology/images/msk/page-385.png)
 
 ## 纖維結構不良 / Fibrous Dysplasia {#纖維結構不良--fibrous-dysplasia}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-32}
@@ -2149,6 +2201,9 @@ weight: 5
 | 液體レベル | 囊性變時可見（年輕成人髖臼上方囊性病灶的鑑別診斷之一） |
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-7}
+
+![鑑別診斷（印刷頁 377）](/core_radiology/images/msk/page-386.png)
+
 | 病變 | 鑑別要點 |
 |------|---------|
 | 動脈瘤樣骨囊腫 (ABC) | 長骨中心性病灶的鑑別 |
@@ -2167,9 +2222,7 @@ weight: 5
 
 > 5. **骨盆囊性病灶**：年輕成人需考慮囊性纖維結構不良 vs 單純性骨囊腫
 
-![Page 377](/core_radiology/images/msk/page-386.png)
-
-## 纖維結構不良（續）/ Fibrous Dysplasia (Continued) {#纖維結構不良續-fibrous-dysplasia-continued}
+## 纖維結構不良（續） / Fibrous Dysplasia (Continued) {#纖維結構不良續--fibrous-dysplasia-continued}
 ### 顱底纖維結構不良 / Skull Base Fibrous Dysplasia {#顱底纖維結構不良--skull-base-fibrous-dysplasia}
 | 特徵 | 說明 |
 |------|------|
@@ -2186,12 +2239,15 @@ weight: 5
 ---
 
 ### 症候群 / Syndromes {#症候群--syndromes}
-### McCune-Albright 症候群 {#mccune-albright-症候群}
+### 症候群 / McCune-Albright {#症候群--mccune-albright}
 | 組成 | 說明 |
 |------|------|
 | 三聯徵 | **多骨型纖維結構不良** + **性早熟 (Precocious Puberty)** + **皮膚牛奶咖啡斑 (Café au Lait Spots)** |
 
-### Mazabraud 症候群 {#mazabraud-症候群}
+### 症候群 / Mazabraud {#症候群--mazabraud}
+
+![症候群（印刷頁 378）](/core_radiology/images/msk/page-387.png)
+
 | 組成 | 說明 |
 |------|------|
 | 組成 | **纖維結構不良** + **肌肉內黏液瘤 (Intramuscular Myxomas)** |
@@ -2206,8 +2262,6 @@ weight: 5
 > 3. **Mazabraud 症候群** = FD + 肌肉內黏液瘤（同一身體區域）
 
 > 4. **CT > MRI** 用於顱底纖維結構不良的確診（MRI 信號可誤導）
-
-![Page 378](/core_radiology/images/msk/page-387.png)
 
 ## 血管來源病變 / Lesions of Vascular Origin {#血管來源病變--lesions-of-vascular-origin}
 ### 良性：血管瘤 / Benign: Hemangioma {#良性血管瘤--benign-hemangioma}
@@ -2231,6 +2285,9 @@ weight: 5
 - 反應性導致骨小樑增厚
 
 ### 惡性：骨血管肉瘤 / Malignant: Angiosarcoma of Bone {#惡性骨血管肉瘤--malignant-angiosarcoma-of-bone}
+
+![惡性：骨血管肉瘤（印刷頁 379）](/core_radiology/images/msk/page-388.png)
+
 | 特徵 | 說明 |
 |------|------|
 | 行為 | 具侵襲性，外觀與行為皆呈現高度惡性 |
@@ -2246,10 +2303,8 @@ weight: 5
 
 > 4. **血管肉瘤** = 侵襲性骨腫瘤 + 肺部轉移
 
-![Page 379](/core_radiology/images/msk/page-388.png)
-
 ## 造血細胞來源病變 / Lesions of Hematopoietic Origin {#造血細胞來源病變--lesions-of-hematopoietic-origin}
-### 良性：巨細胞瘤（破骨細胞瘤）/ Benign: Giant Cell Tumor (Osteoclastoma) {#良性巨細胞瘤破骨細胞瘤-benign-giant-cell-tumor-osteoclastoma}
+### 良性：巨細胞瘤（破骨細胞瘤） / Benign: Giant Cell Tumor (Osteoclastoma) {#良性巨細胞瘤破骨細胞瘤--benign-giant-cell-tumor-osteoclastoma}
 #### 疾病概述 / Disease Overview {#疾病概述--disease-overview-34}
 | 項目 | 說明 |
 |------|------|
@@ -2276,7 +2331,7 @@ weight: 5
 
 ---
 
-### 良性：嗜酸性肉芽腫（朗格漢斯細胞組織球增生症）/ Benign: Eosinophilic Granuloma (Langerhans Cell Histiocytosis, LCH) {#良性嗜酸性肉芽腫朗格漢斯細胞組織球增生症-benign-eosinophilic-granuloma-langerhans-cell-histiocytosis-lch}
+### 良性：嗜酸性肉芽腫（朗格漢斯細胞組織球增生症） / Benign: Eosinophilic Granuloma (Langerhans Cell Histiocytosis, LCH) {#良性嗜酸性肉芽腫朗格漢斯細胞組織球增生症--benign-eosinophilic-granuloma-langerhans-cell-histiocytosis-lch}
 #### 疾病概述 / Disease Overview {#疾病概述--disease-overview-35}
 | 項目 | 說明 |
 |------|------|
@@ -2314,6 +2369,9 @@ weight: 5
 | 常伴隨 | **軟組織腫塊** |
 
 #### 侵襲性溶骨性病變的兒童鑑別診斷 / Differential Diagnosis in Children {#侵襲性溶骨性病變的兒童鑑別診斷--differential-diagnosis-in-children}
+
+![侵襲性溶骨性病變的兒童鑑別診斷（印刷頁 380）](/core_radiology/images/msk/page-389.png)
+
 | 病變 |
 |------|
 | 骨髓炎 (Osteomyelitis) |
@@ -2332,8 +2390,6 @@ weight: 5
 > 4. **尤文氏肉瘤** = 兒童 + 穿鑿狀破壞 + 侵襲性骨膜反應 + 軟組織腫塊
 
 > 5. **尤文氏肉瘤發燒** = 與骨髓炎臨床表現重疊，鑑別困難
-
-![Page 380](/core_radiology/images/msk/page-389.png)
 
 ## 惡性：多發性骨髓瘤 / 漿細胞瘤 / Malignant: Multiple Myeloma (MM) / Plasmacytoma {#惡性多發性骨髓瘤--漿細胞瘤--malignant-multiple-myeloma-mm--plasmacytoma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-37}
@@ -2357,12 +2413,12 @@ weight: 5
 | 骨掃描 | **通常為陰性** | 通常為陽性 |
 
 ### 變異型 / Variants {#變異型--variants}
-#### 硬化性骨髓瘤 (Sclerosing Myelomatosis) {#硬化性骨髓瘤-sclerosing-myelomatosis}
+#### 硬化性骨髓瘤 / Sclerosing Myelomatosis {#硬化性骨髓瘤--sclerosing-myelomatosis}
 | 組成 | 說明 |
 |------|------|
 | 關聯 | **POEMS 症候群** |
 
-#### POEMS 症候群 {#poems-症候群}
+#### 症候群 / POEMS {#症候群--poems}
 | 字母 | 組成 |
 |------|------|
 | **P** | 多發性神經病變 (Polyneuropathy) |
@@ -2372,6 +2428,9 @@ weight: 5
 | **S** | 皮膚病變 (Skin Changes)（多毛症、色素沉著） |
 
 ### 單一性漿細胞瘤 / Solitary Plasmacytoma {#單一性漿細胞瘤--solitary-plasmacytoma}
+
+![單一性漿細胞瘤（印刷頁 381）](/core_radiology/images/msk/page-390.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 單一腫瘤 |
@@ -2389,8 +2448,6 @@ weight: 5
 
 > 5. **單一性漿細胞瘤**：5 年內大多數會進展為全身性骨髓瘤
 
-![Page 381](/core_radiology/images/msk/page-390.png)
-
 ## 惡性：淋巴瘤 / Malignant: Lymphoma {#惡性淋巴瘤--malignant-lymphoma}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-38}
 | 項目 | 說明 |
@@ -2403,7 +2460,7 @@ weight: 5
 
 ### 脂肪來源病變 / Fat (Lipo-) Lesions {#脂肪來源病變--fat-lipo--lesions}
 ### 良性：脂肪瘤 / Benign: Lipoma {#良性脂肪瘤--benign-lipoma}
-#### 骨內脂肪瘤 (Intraosseous Lipoma) {#骨內脂肪瘤-intraosseous-lipoma}
+#### 骨內脂肪瘤 / Intraosseous Lipoma {#骨內脂肪瘤--intraosseous-lipoma}
 | 項目 | 說明 |
 |------|------|
 | 發病率 | 不常見的良性腫瘤 |
@@ -2411,7 +2468,7 @@ weight: 5
 | 影像特徵 | 取決於脂肪、鈣化、纖維組織及周邊硬化的程度；常見**中央或環狀鈣化** |
 | X 光鑑別 | 跟骨內囊腫樣病灶：骨內脂肪瘤 vs 單純性骨囊腫 vs 動脈瘤樣骨囊腫 |
 
-#### 軟組織脂肪瘤 (Soft-tissue Lipoma) {#軟組織脂肪瘤-soft-tissue-lipoma}
+#### 軟組織脂肪瘤 / Soft-tissue Lipoma {#軟組織脂肪瘤--soft-tissue-lipoma}
 | 項目 | 說明 |
 |------|------|
 | 發病率 | **最常見的軟組織腫瘤** |
@@ -2432,6 +2489,9 @@ weight: 5
 
 ### 脊索來源病變 / Notochordal Lesions {#脊索來源病變--notochordal-lesions}
 ### 惡性：脊索瘤 / Malignant: Chordoma {#惡性脊索瘤--malignant-chordoma}
+
+![惡性：脊索瘤（印刷頁 382）](/core_radiology/images/msk/page-391.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 起源於**脊索殘餘**的惡性病變 |
@@ -2450,8 +2510,6 @@ weight: 5
 > 4. **分化良好脂肪肉瘤** = > 10 cm + 粗分隔 + < 75% 脂肪
 
 > 5. **脊索瘤** = 軸向中線 + 蝶枕/C2/薦尾 + 扇貝狀邊緣 + 壞死性鈣化
-
-![Page 382](/core_radiology/images/msk/page-391.png)
 
 ## 細胞來源不明病變 / Lesions of Unknown Cell Origin {#細胞來源不明病變--lesions-of-unknown-cell-origin}
 ### 良性：單純性骨囊腫 (SBC) / 單房性骨囊腫 (UBC) / Benign: Simple Bone Cyst (SBC) / Unicameral Bone Cyst (UBC) {#良性單純性骨囊腫-sbc--單房性骨囊腫-ubc--benign-simple-bone-cyst-sbc--unicameral-bone-cyst-ubc}
@@ -2502,6 +2560,9 @@ weight: 5
 ---
 
 ### 惡性：釉質瘤 / Malignant: Adamantinoma {#惡性釉質瘤--malignant-adamantinoma}
+
+![惡性：釉質瘤（印刷頁 383）](/core_radiology/images/msk/page-392.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 非常罕見的**低度惡性**腫瘤 |
@@ -2520,8 +2581,6 @@ weight: 5
 > 4. **液體層次** = 非特異性，可見於 ABC、SBC、巨細胞瘤、血管擴張型骨肉瘤
 
 > 5. **Adamantinoma** = 脛骨 + 肥皂泡樣 + 低度惡性（與纖維結構不良鑑別困難）
-
-![Page 383](/core_radiology/images/msk/page-392.png)
 
 ## 骨骼轉移 / Osseous Metastasis {#骨骼轉移--osseous-metastasis}
 ### 流行病學 / Epidemiology {#流行病學--epidemiology-1}
@@ -2572,6 +2631,9 @@ weight: 5
 | **> 6 個月** | 通常開始縮小 |
 
 #### 重要臨床提醒 / Critical Clinical Note {#重要臨床提醒--critical-clinical-note}
+
+![重要臨床提醒（印刷頁 384）](/core_radiology/images/msk/page-393.png)
+
 - **疑似骨化性肌炎時不應進行切片**：組織學可能類似肉瘤，導致不必要的手術
 
 > **臨床要點**
@@ -2587,8 +2649,6 @@ weight: 5
 > 5. **骨化性肌炎疑似時禁止切片**：組織學可能誤判為肉瘤
 
 > 6. **肺癌** = 最常見純溶骨性轉移；**前列腺癌** = 最常見成骨性轉移
-
-![Page 384](/core_radiology/images/msk/page-393.png)
 
 ## 棕色瘤 / Brown Tumor {#棕色瘤--brown-tumor}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-42}
@@ -2634,6 +2694,9 @@ weight: 5
 | **病程** | 急性 / 慢性 |
 
 ### 年齡相關的好發模式 / Age-Specific Patterns {#年齡相關的好發模式--age-specific-patterns}
+
+![年齡相關的好發模式（印刷頁 385）](/core_radiology/images/msk/page-394.png)
+
 | 年齡 | 常見病原及途徑 |
 |------|--------------|
 | **成人** | 通常由**連續蔓延或直接接種**引起（糖尿病足感染、開放性骨折、術後感染）；通常為**多菌種感染** |
@@ -2650,8 +2713,6 @@ weight: 5
 > 4. **骨髓炎** = 成人多為多菌種糖尿病足感染；兒童多為血源性葡萄球菌
 
 > 5. **棕色瘤切片需警慎**：組織學上與巨細胞瘤難以區分
-
-![Page 385](/core_radiology/images/msk/page-394.png)
 
 ## 骨髓炎術語 / Terminology of Osteomyelitis {#骨髓炎術語--terminology-of-osteomyelitis}
 | 術語 | 定義 |
@@ -2682,6 +2743,9 @@ weight: 5
 | **成人** | 骺板已閉合，但血源性骨幹端感染不常見 |
 
 ### 解剖圖解 {#解剖圖解}
+
+![解剖圖解（印刷頁 386）](/core_radiology/images/msk/page-395.png)
+
 | 年齡 | 示意 |
 |------|------|
 | **嬰兒** | 血管**跨過**骺板 → 感染可達骨骺與關節 |
@@ -2700,9 +2764,7 @@ weight: 5
 
 > 5. **骨膜下骨質吸收** = 甲狀旁腺功能亢進；**骨膜炎** = 骨膜感染
 
-![Page 386](/core_radiology/images/msk/page-395.png)
-
-## 血源性骨髓炎（續）/ Hematogenous Osteomyelitis (Continued) {#血源性骨髓炎續-hematogenous-osteomyelitis-continued}
+## 血源性骨髓炎（續） / Hematogenous Osteomyelitis (Continued) {#血源性骨髓炎續--hematogenous-osteomyelitis-continued}
 ### 致病菌與感染途徑 / Pathogens and Routes {#致病菌與感染途徑--pathogens-and-routes}
 | 項目 | 說明 |
 |------|------|
@@ -2749,6 +2811,9 @@ weight: 5
 | 成人最常見原因 | **糖尿病足潰瘍**蔓延至骨骼（神經病變導致創傷未被察覺 + 血管儲備受損） |
 
 ### 感染途徑 / Pathway {#感染途徑--pathway}
+
+![感染途徑（印刷頁 387）](/core_radiology/images/msk/page-396.png)
+
 軟組織感染 → 骨膜與皮質穿透 → 骨髓腔侵犯
 
 > **臨床要點**
@@ -2761,10 +2826,8 @@ weight: 5
 
 > 4. **層狀骨膜反應**可模擬尤文氏肉瘤（需結合臨床與切片）
 
-![Page 387](/core_radiology/images/msk/page-396.png)
-
 ## 糖尿病足骨髓炎的鑑別診斷 / Differential Diagnosis of Diabetic Foot Osteomyelitis {#糖尿病足骨髓炎的鑑別診斷--differential-diagnosis-of-diabetic-foot-osteomyelitis}
-### 糖尿病足骨髓炎 vs 神經病變性關節病 (Charcot Joint) {#糖尿病足骨髓炎-vs-神經病變性關節病-charcot-joint}
+### 糖尿病足骨髓炎 vs 神經病變性關節病 / Charcot Joint {#糖尿病足骨髓炎-vs-神經病變性關節病--charcot-joint}
 | 特徵 | 糖尿病足骨髓炎 | 神經病變性關節病 |
 |------|---------------|-----------------|
 | **好發部位** | 依潰爛位置而定 | 中足 (Midfoot) |
@@ -2802,6 +2865,9 @@ weight: 5
 ---
 
 ### 特殊病原菌 / Specific Organisms {#特殊病原菌--specific-organisms}
+
+![特殊病原菌（印刷頁 388）](/core_radiology/images/msk/page-397.png)
+
 | 病原菌 | 特徵性臨床情況 |
 |--------|---------------|
 | **金黃色葡萄球菌 (S. aureus)** | 血源性骨髓炎**最常見原因** |
@@ -2820,8 +2886,6 @@ weight: 5
 > 4. **鐮刀型紅血球疾病 + 骨髓炎** → 考慮沙門氏菌（非葡萄球菌）
 
 > 5. **Pott 病** = 結核性脊椎炎
-
-![Page 388](/core_radiology/images/msk/page-397.png)
 
 ## 特定解剖位置的骨髓炎 / Osteomyelitis at Specific Locations {#特定解剖位置的骨髓炎--osteomyelitis-at-specific-locations}
 ### 手部與手指 / Hand and Fingers {#手部與手指--hand-and-fingers}
@@ -2873,6 +2937,9 @@ weight: 5
 | 對比劑 (Gd) | 有助於顯示液體聚集與壞死骨（死骨不強化）|
 
 ### 白血球掃描 (WBC Scan) / WBC Scintigraphy {#白血球掃描-wbc-scan--wbc-scintigraphy}
+
+![白血球掃描 (WBC Scan)（印刷頁 389）](/core_radiology/images/msk/page-398.png)
+
 | 項目 | 說明 |
 |------|------|
 | 原理 | 骨髓被感染取代時，白血球與硫膠體掃描呈**不一致**所見（感染區：WBC 攝取增加 + 硫膠體減少）|
@@ -2891,9 +2958,7 @@ weight: 5
 
 > 5. **MRI 陰性**可幾乎排除骨髓炎（高陰性預測值）
 
-![Page 389](/core_radiology/images/msk/page-398.png)
-
-## 骨髓炎影像學（續）/ Imaging Osteomyelitis (Continued) {#骨髓炎影像學續-imaging-osteomyelitis-continued}
+## 骨髓炎影像學（續） / Imaging Osteomyelitis (Continued) {#骨髓炎影像學續--imaging-osteomyelitis-continued}
 ### WBC 掃描與硫膠體掃描的聯合應用 / Combined WBC and Sulfur Colloid Scintigraphy {#wbc-掃描與硫膠體掃描的聯合應用--combined-wbc-and-sulfur-colloid-scintigraphy}
 | 掃描類型 | 感染骨髓 | 健康骨髓 |
 |---------|---------|---------|
@@ -2902,7 +2967,7 @@ weight: 5
 
 - **不一致的結果** = 骨髓感染的高度特異性指標
 
-### 各檢查的敏感度/特異度總結 / Sensitivity/Specificity Summary {#各檢查的敏感度特異度總結--sensitivityspecificity-summary}
+### 各檢查的敏感度 / 特異度總結 / Sensitivity / Specificity Summary {#各檢查的敏感度--特異度總結--sensitivity--specificity-summary}
 | 檢查 | 敏感度 | 特異度 |
 |------|--------|--------|
 | X 光 | 低（需 10-14 天）| 中 |
@@ -2929,6 +2994,9 @@ weight: 5
 | 後果 | 若未治療，可導致快速關節破壞，最終**關節強直 (Ankylosis)** |
 
 #### 特殊族群 / Special Populations {#特殊族群--special-populations}
+
+![特殊族群（印刷頁 390）](/core_radiology/images/msk/page-399.png)
+
 | 族群 | 常見感染部位 |
 |------|------------|
 | **靜脈藥物濫用者** | 薦腸關節 (Sacroiliac Joint) 及**胸鎖關節 (AC Joint)** |
@@ -2942,8 +3010,6 @@ weight: 5
 > 3. **未治療的化膿性關節炎**：快速關節破壞 → 關節強直
 
 > 4. **靜脈藥癮者**：薦腸關節及胸鎖關節為好發部位
-
-![Page 390](/core_radiology/images/msk/page-399.png)
 
 ## 壞死性筋膜炎 / Necrotizing Fasciitis {#壞死性筋膜炎--necrotizing-fasciitis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-47}
@@ -2965,7 +3031,7 @@ weight: 5
 | 參考標準 | Z 分數為與年齡匹配女性的標準差（不用於診斷骨質疏鬆）|
 
 ### 骨質疏鬆的病因分類 / Etiologic Classification {#骨質疏鬆的病因分類--etiologic-classification}
-#### 維生素/營養缺乏 / Vitamin or Nutritional Deficiencies {#維生素營養缺乏--vitamin-or-nutritional-deficiencies}
+#### 維生素 / 營養缺乏 / Vitamin or Nutritional Deficiencies {#維生素--營養缺乏--vitamin-or-nutritional-deficiencies}
 | 病因 | 表現 |
 |------|------|
 | **軟骨病 (Osteomalacia)** | Looser zone（假骨折線）|
@@ -2992,6 +3058,9 @@ weight: 5
 | **貧血**（鐮刀型、地中海型）| 骨髓擴張導致骨質疏鬆 |
 
 ### 局灶性骨質減少的病因 / Focal Osteopenia Etiologies {#局灶性骨質減少的病因--focal-osteopenia-etiologies}
+
+![局灶性骨質減少的病因（印刷頁 391）](/core_radiology/images/msk/page-400.png)
+
 | 病因 |
 |------|
 | 固定不動/廢用 (Immobility/Disuse) |
@@ -3009,8 +3078,6 @@ weight: 5
 > 4. **甲狀旁腺功能亢進 + 類固醇** = 骨質疏鬆的常見內分泌原因
 
 > 5. **局灶性骨質疏鬆**：廢用、RSD、暫時性髖關節骨質疏鬆
-
-![Page 391](/core_radiology/images/msk/page-400.png)
 
 ## 維生素缺乏性骨病 / Vitamin-Deficiency Bone Disease {#維生素缺乏性骨病--vitamin-deficiency-bone-disease}
 ### 壞血病 / Scurvy {#壞血病--scurvy}
@@ -3065,6 +3132,9 @@ weight: 5
 | 若發生於骨骼成熟後 | 骨骼無法延長，改為遠端/周邊增大及增寬 |
 
 #### 各部位特徵 / Location-Specific Features {#各部位特徵--location-specific-features}
+
+![各部位特徵（印刷頁 392）](/core_radiology/images/msk/page-401.png)
+
 | 部位 | 表現 |
 |------|------|
 | **頭部** | 額竇增大、顱骨增厚、下頜增大 |
@@ -3083,9 +3153,7 @@ weight: 5
 
 > 5. **維生素 D 缺乏** → 骨質基質礦化不良 → 軟骨病
 
-![Page 392](/core_radiology/images/msk/page-401.png)
-
-## 甲狀旁腺功能亢進（骨的雷克林豪森氏病）/ Hyperparathyroidism (Recklinghausen Disease of Bone) {#甲狀旁腺功能亢進骨的雷克林豪森氏病-hyperparathyroidism-recklinghausen-disease-of-bone}
+## 甲狀旁腺功能亢進（骨的雷克林豪森氏病） / Hyperparathyroidism (Recklinghausen Disease of Bone) {#甲狀旁腺功能亢進骨的雷克林豪森氏病--hyperparathyroidism-recklinghausen-disease-of-bone}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-51}
 | 項目 | 說明 |
 |------|------|
@@ -3125,6 +3193,9 @@ weight: 5
 | 血磷（原發性）| **降低** |
 
 ### 併發症 / Complications {#併發症--complications-1}
+
+![併發症（印刷頁 393）](/core_radiology/images/msk/page-402.png)
+
 | 併發症 | 說明 |
 |--------|------|
 | 功能不全性骨折 | 骨質脆弱 |
@@ -3141,8 +3212,6 @@ weight: 5
 > 4. **原發性**：高血鈣 + 低血磷；**續發性**：腎衰竭相關
 
 > 5. **CPPD 沉積**：原發性甲狀旁腺功能亢進更常見
-
-![Page 393](/core_radiology/images/msk/page-402.png)
 
 ## 腎性骨營養不良 / Renal Osteodystrophy {#腎性骨營養不良--renal-osteodystrophy}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-52}
@@ -3167,7 +3236,7 @@ weight: 5
 
 ---
 
-### 甲狀腺/甲狀旁腺相關疾病 / Thyroid/Parathyroid Related Disorders {#甲狀腺甲狀旁腺相關疾病--thyroidparathyroid-related-disorders}
+### 甲狀腺 / 甲狀旁腺相關疾病 / Thyroid / Parathyroid Related Disorders {#甲狀腺--甲狀旁腺相關疾病--thyroid--parathyroid-related-disorders}
 ### 甲狀腺功能低下 / Hypothyroidism {#甲狀腺功能低下--hypothyroidism}
 | 項目 | 說明 |
 |------|------|
@@ -3200,6 +3269,9 @@ weight: 5
 ---
 
 ### 甲狀腺功能亢進 / Hyperthyroidism {#甲狀腺功能亢進--hyperthyroidism}
+
+![甲狀腺功能亢進（印刷頁 394）](/core_radiology/images/msk/page-403.png)
+
 | 項目 | 說明 |
 |------|------|
 | 對兒童影響 | 骨骼成熟加速 |
@@ -3216,8 +3288,6 @@ weight: 5
 > 4. **甲狀腺性杵狀指** = 已治療的甲狀腺功能亢進 + 骨膜反應
 
 > 5. **甲狀旁腺功能低下** = 術後或自發性 → 皮下鈣化、基底核鈣化
-
-![Page 394](/core_radiology/images/msk/page-403.png)
 
 ## 特發性骨病 / Idiopathic Bone Disease {#特發性骨病--idiopathic-bone-disease}
 ### 佩吉氏病 / Paget Disease {#佩吉氏病--paget-disease}
@@ -3259,19 +3329,19 @@ weight: 5
 | 俗稱 | 正常骨骼的「漫畫版」(Caricature of Normal Bone) |
 
 ### 各部位特徵性表現 / Location-Specific Findings {#各部位特徵性表現--location-specific-findings-1}
-#### 顱骨 (Skull) {#顱骨-skull}
+#### 顱骨 / Skull {#顱骨--skull}
 | 階段 | 表現 |
 |------|------|
 | **溶骨期 (Phase I)** | 地圖樣溶骨區 = **局限性骨質疏鬆 (Osteoporosis Circumscripta)** |
 | **混合期 (Phase II)** | **棉絮顱骨 (Cotton Wool Skull)**：像用棉花棒沾顏料塗抹的結果 |
 
-#### 椎體 (Vertebral Bodies) {#椎體-vertebral-bodies}
+#### 椎體 / Vertebral Bodies {#椎體--vertebral-bodies}
 | 階段 | 表現 |
 |------|------|
 | **混合期** | **椎框椎體 (Picture Frame Vertebral Body)**：椎體周邊密度增加（與腎性骨營養不良的 Rugger Jersey 不同） |
 | 硬化期 | **象牙椎 (Ivory Vertebral Body)**：彌漫性硬化 |
 
-#### 骨盆 (Pelvis) {#骨盆-pelvis}
+#### 骨盆 / Pelvis {#骨盆--pelvis}
 | 發現 | 說明 |
 |------|------|
 | 不對稱粗大骨小樑增厚 |  特徵 |
@@ -3279,6 +3349,9 @@ weight: 5
 | **髖臼前突 (Acetabular Protrusio)** | 可能發生 |
 
 ### 併發症 / Complications {#併發症--complications-2}
+
+![併發症（印刷頁 395）](/core_radiology/images/msk/page-404.png)
+
 | 併發症 | 說明 |
 |--------|------|
 | 病理性骨折 | 常見 |
@@ -3298,9 +3371,7 @@ weight: 5
 
 > 5. **骨肉瘤** = 佩吉氏病最常見的惡性變併發症
 
-![Page 395](/core_radiology/images/msk/page-404.png)
-
-## 佩吉氏病（續）/ Paget Disease (Continued) {#佩吉氏病續-paget-disease-continued}
+## 佩吉氏病（續） / Paget Disease (Continued) {#佩吉氏病續--paget-disease-continued}
 ### 長骨佩吉氏病 / Long Bones {#長骨佩吉氏病--long-bones}
 | 階段 | 表現 |
 |------|------|
@@ -3309,7 +3380,7 @@ weight: 5
 
 ---
 
-### 遺傳性高磷酸酯酶血症（幼年型佩吉氏病）/ Hereditary Hyperphosphatasia (Juvenile Paget Disease) {#遺傳性高磷酸酯酶血症幼年型佩吉氏病-hereditary-hyperphosphatasia-juvenile-paget-disease}
+### 遺傳性高磷酸酯酶血症（幼年型佩吉氏病） / Hereditary Hyperphosphatasia (Juvenile Paget Disease) {#遺傳性高磷酸酯酶血症幼年型佩吉氏病--hereditary-hyperphosphatasia-juvenile-paget-disease}
 | 項目 | 說明 |
 |------|------|
 | 遺傳方式 | 自體隱性遺傳 |
@@ -3320,7 +3391,7 @@ weight: 5
 
 ---
 
-### 骨質石化病（大理石骨病）/ Osteopetrosis {#骨質石化病大理石骨病-osteopetrosis}
+### 骨質石化病（大理石骨病） / Osteopetrosis {#骨質石化病大理石骨病--osteopetrosis}
 | 項目 | 說明 |
 |------|------|
 | 發病機制 | 蝕骨細胞的碳酸酐酶極度缺乏 → 骨質無法被吸收 |
@@ -3349,6 +3420,9 @@ weight: 5
 | **H 形椎體** | 終板缺血性壞死所致 |
 
 ### H 形椎體的鑑別診斷 / Differential Diagnosis of H-shaped Vertebral Bodies {#h-形椎體的鑑別診斷--differential-diagnosis-of-h-shaped-vertebral-bodies}
+
+![H 形椎體的鑑別診斷（印刷頁 396）](/core_radiology/images/msk/page-405.png)
+
 | 疾病 | H 形椎體 | 脾臟大小 |
 |------|---------|---------|
 | **高雪氏症** | 有 | 脾腫大 (Splenomegaly) |
@@ -3365,8 +3439,6 @@ weight: 5
 > 4. **高雪氏症**：Erlenmeyer Flask 畸形 + H 形椎體 + 脾腫大
 
 > 5. **H 形椎體**：高雪氏症 vs 鐮刀型紅血球疾病（脾臟大小是關鍵鑑別點）
-
-![Page 396](/core_radiology/images/msk/page-405.png)
 
 ## 造血系統骨病 / Hematologic Bone Disease {#造血系統骨病--hematologic-bone-disease}
 ### 鐮刀型紅血球疾病 / Sickle Cell Disease {#鐮刀型紅血球疾病--sickle-cell-disease}
@@ -3404,6 +3476,9 @@ weight: 5
 | 最常見病原 | **沙門氏菌**（而非金黃色葡萄球菌）|
 
 ### 鐮刀型紅血球骨髓擴張 / Sickle Cell Marrow Expansion {#鐮刀型紅血球骨髓擴張--sickle-cell-marrow-expansion}
+
+![鐮刀型紅血球骨髓擴張（印刷頁 397）](/core_radiology/images/msk/page-406.png)
+
 | 部位 | X 光/MRI 表現 |
 |------|-------------|
 | MRI T1 | 瀰漫性低信號（反映瀰漫性紅（細胞性）骨髓）|
@@ -3421,8 +3496,6 @@ weight: 5
 > 4. **Dactylitis** = 幼童鐮刀型紅血球疾病的手足症候群（寒冷誘發）
 
 > 5. **T1 瀰漫性低信號** = 骨髓擴張（紅骨髓取代黃骨髓）
-
-![Page 397](/core_radiology/images/msk/page-406.png)
 
 ## 地中海貧血 / Thalassemia {#地中海貧血--thalassemia}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-56}
@@ -3461,6 +3534,9 @@ weight: 5
 
 ### 肥大細胞增多症 / Mastocytosis {#肥大細胞增多症--mastocytosis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-58}
+
+![疾病概述（印刷頁 398）](/core_radiology/images/msk/page-407.png)
+
 | 項目 | 說明 |
 |------|------|
 | 病因 | 肥大細胞異常增生 |
@@ -3477,8 +3553,6 @@ weight: 5
 > 4. **骨髓纖維化** = 老年人 + 脾腫大 + 骨骼瀰漫性硬化
 
 > 5. **Erlenmeyer Flask 畸形** = 地中海貧血/高雪氏症（骨髓擴張使長骨塑形異常）
-
-![Page 398](/core_radiology/images/msk/page-407.png)
 
 ## 常見骨病變的鑑別診斷 / Differential Diagnosis of Common Bone Lesions {#常見骨病變的鑑別診斷--differential-diagnosis-of-common-bone-lesions}
 ---
@@ -3525,7 +3599,7 @@ weight: 5
 | 地面玻璃樣基質？ | 纖維結構不良 |
 | 膨脹性或溶骨性肋骨病變？ | 記憶口訣：**FAMEB** |
 
-#### FAMEB 口訣 {#fameb-口訣}
+#### 口訣 / FAMEB {#口訣--fameb}
 | 字母 | 病變 |
 |------|------|
 | **F** | 纖維結構不良 (Fibrous Dysplasia) |
@@ -3537,6 +3611,9 @@ weight: 5
 ---
 
 ### 象牙質（瀰漫性硬化）椎體的鑑別 / Ivory (Diffusely Sclerotic) Vertebral Body {#象牙質瀰漫性硬化椎體的鑑別--ivory-diffusely-sclerotic-vertebral-body}
+
+![象牙質（瀰漫性硬化）椎體的鑑別（印刷頁 399）](/core_radiology/images/msk/page-408.png)
+
 | 病史 | 病變 |
 |------|------|
 | **前列腺癌或乳腺癌病史** | **成骨性轉移** |
@@ -3559,26 +3636,24 @@ weight: 5
 
 > 5. **FAMEB** = 肋骨膨脹性病變的鑑別口訣
 
-![Page 399](/core_radiology/images/msk/page-408.png)
-
 ## 創傷學基礎 / Basics of Trauma {#創傷學基礎--basics-of-trauma}
 ### 骨折 / Fractures {#骨折--fractures}
 ### 術語 / Terminology {#術語--terminology}
-#### 骨折方向 (Fracture Direction) {#骨折方向-fracture-direction}
+#### 骨折方向 / Fracture Direction {#骨折方向--fracture-direction}
 | 類型 |
 |------|
 | 橫向 (Transverse) |
 | 斜向 (Oblique) |
 | 螺旋形 (Spiral) |
 
-#### 遠端片段位置 (Position of Distal Fragment) {#遠端片段位置-position-of-distal-fragment}
+#### 遠端片段位置 / Position of Distal Fragment {#遠端片段位置--position-of-distal-fragment}
 | 位置類型 | 說明 |
 |---------|------|
 | **移位 (Displaced)** | 骨折片段分開 |
 | **短縮 (Foreshortened)** | 骨折端重疊 |
 | **分離 (Distracted)** | 骨折端拉開 |
 
-#### 遠端片段的角度 (Angulation of Distal Fragment) {#遠端片段的角度-angulation-of-distal-fragment}
+#### 遠端片段的角度 / Angulation of Distal Fragment {#遠端片段的角度--angulation-of-distal-fragment}
 | 角度方向 | 說明 |
 |---------|------|
 | **遠端內翻 (Apex Medial Angulation)** | 遠端片段內翻（圖中：遠端片段外側）|
@@ -3591,6 +3666,9 @@ weight: 5
 | **分節性骨折 (Segmental)** | 有一段游離骨塊（片段）|
 
 ### 描述要點 / Key Description Points {#描述要點--key-description-points}
+
+![描述要點（印刷頁 400）](/core_radiology/images/msk/page-409.png)
+
 描述長骨骨折時，應涵蓋：
 
 1. **骨折位置**（近端、骨幹中段、遠端）
@@ -3615,9 +3693,7 @@ weight: 5
 
 > 5. **短縮 vs 分離**：短縮 = 重疊；分離 = 拉開（影響復位方式）
 
-![Page 400](/core_radiology/images/msk/page-409.png)
-
-## 疲勞/應力性骨折 / Stress Fracture {#疲勞應力性骨折--stress-fracture}
+## 疲勞 / 應力性骨折 / Stress Fracture {#疲勞--應力性骨折--stress-fracture}
 ### 疾病分類 / Classification {#疾病分類--classification}
 | 類型 | 定義 |
 |------|------|
@@ -3666,13 +3742,13 @@ weight: 5
 
 ---
 
-### 黏液樣變性（肌腱退化）/ Myxoid Degeneration (Tendinosis) {#黏液樣變性肌腱退化-myxoid-degeneration-tendinosis}
+### 黏液樣變性（肌腱退化） / Myxoid Degeneration (Tendinosis) {#黏液樣變性肌腱退化--myxoid-degeneration-tendinosis}
 | 項目 | 說明 |
 |------|------|
 | 病因 | 老化或過度使用 |
 | 命名 | 與「肌腱炎 (Tendinitis)」同義；**不應使用「肌腱炎」**，因並非真正的發炎 |
 
-#### MRI 表現 {#mri-表現}
+#### 表現 / MRI {#表現--mri}
 | 發現 | 說明 |
 |------|------|
 | 信號 | 肌腱內部中等信號（介於肌肉與液體之間）|
@@ -3690,6 +3766,9 @@ weight: 5
 ---
 
 ### 完全撕裂 / Complete Tear {#完全撕裂--complete-tear}
+
+![完全撕裂（印刷頁 401）](/core_radiology/images/msk/page-410.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 肌腱完全性中斷 |
@@ -3707,16 +3786,20 @@ weight: 5
 
 > 5. **完全撕裂** = 肌腱連續性中斷 + 回縮
 
-![Page 401](/core_radiology/images/msk/page-410.png)
 ## 第五蹠骨骨折分區與撕脫骨折 / Fifth Metatarsal Fracture Zones and Avulsion {#第五蹠骨骨折分區與撕脫骨折--fifth-metatarsal-fracture-zones-and-avulsion}
-**第五蹠骨基部撕脫骨折（zone 1 avulsion fracture）** 是發生於第五蹠骨最近端基部的骨折，**腓骨短肌（peroneus brevis）**與**足底腱膜（plantar aponeurosis）的外側部分**即附著於第五蹠骨基部。此類骨折以保守治療為主，可使用行走靴（boot）。 Metatarsal base avulsion (zone 1) is a fracture at the most proximal base of the 5th metatarsal; the peroneus brevis and lateral aspect of the plantar aponeurosis attach at the 5th metatarsal base. Treatment is conservative, with a boot.
+- **第五蹠骨基部撕脫骨折（zone 1 avulsion fracture）** 是發生於第五蹠骨最近端基部的骨折，**腓骨短肌（peroneus brevis）**與**足底腱膜（plantar aponeurosis）的外側部分**即附著於第五蹠骨基部
+- 此類骨折以保守治療為主，可使用行走靴（boot）
+- Metatarsal base avulsion (zone 1) is a fracture at the most proximal base of the 5th metatarsal; the peroneus brevis and lateral aspect of the plantar aponeurosis attach at the 5th metatarsal base. Treatment is conservative, with a boot.
 
-**重點摘要**
-- **Jones 骨折（zone 2）**：Jones 骨折是**幹骺端—骨幹交界處（metaphyseal–diaphyseal junction）**的骨折，因該處血流減少，其預後比撕脫骨折差；治療方式不一，可能需要手術。Jones fracture (zone 2) is a fracture of the metaphyseal–diaphyseal junction; it carries a worse prognosis compared to an avulsion fracture due to reduced blood supply at the junction, and treatment is variable and may require surgery.
-- **蹠骨骨幹（zone 3）**：蹠骨骨幹（zone 3）是**疲勞性骨折（stress fracture）**的常見位置，治療可能需要手術。The metatarsal shaft (zone 3) is a common location for stress fracture, and treatment may be surgical.
-- **Freiberg 病**：Freiberg 病是**第二蹠骨頭的缺血性壞死**，由反覆性壓力或不合腳的鞋子（如高跟鞋）造成，通常好發於年輕女性。Freiberg’s infraction is avascular necrosis of the second metatarsal head, caused by repetitive stress or poorly fitting shoes (such as high-heels), and usually occurs in young women.
-- **三個分區**：zone 1 為基部撕脫骨折、zone 2 為 Jones 骨折、zone 3 為骨幹骨折。Zone 1 is an avulsion fracture, zone 2 is a Jones fracture, and zone 3 is a shaft fracture.
+> **臨床要點**
 
+> - **Jones 骨折（zone 2）**：Jones 骨折是**幹骺端—骨幹交界處（metaphyseal–diaphyseal junction）**的骨折，因該處血流減少，其預後比撕脫骨折差；治療方式不一，可能需要手術。Jones fracture (zone 2) is a fracture of the metaphyseal–diaphyseal junction; it carries a worse prognosis compared to an avulsion fracture due to reduced blood supply at the junction, and treatment is variable and may require surgery.
+
+> - **蹠骨骨幹（zone 3）**：蹠骨骨幹（zone 3）是**疲勞性骨折（stress fracture）**的常見位置，治療可能需要手術。The metatarsal shaft (zone 3) is a common location for stress fracture, and treatment may be surgical.
+
+> - **Freiberg 病**：Freiberg 病是**第二蹠骨頭的缺血性壞死**，由反覆性壓力或不合腳的鞋子（如高跟鞋）造成，通常好發於年輕女性。Freiberg’s infraction is avascular necrosis of the second metatarsal head, caused by repetitive stress or poorly fitting shoes (such as high-heels), and usually occurs in young women.
+
+> - **三個分區**：zone 1 為基部撕脫骨折、zone 2 為 Jones 骨折、zone 3 為骨幹骨折。Zone 1 is an avulsion fracture, zone 2 is a Jones fracture, and zone 3 is a shaft fracture.
 
 ### 足部與踝關節 / Foot and Ankle {#足部與踝關節--foot-and-ankle}
 ### 前足 / Forefoot {#前足--forefoot}
@@ -3738,12 +3821,15 @@ weight: 5
 | **Zone 2 (Jones Fracture)** | 骨幹端-骨幹交界處 | 血供較差，預後較差；治療多樣，可能需要手術 |
 | **Zone 3 (Shaft)** | 骨幹 | Stress fracture 常見位置；可能需要手術 |
 
-#### Jones 骨折預後差的原因 {#jones-骨折預後差的原因}
+#### 骨折預後差的原因 / Jones {#骨折預後差的原因--jones}
 - 骨幹端-骨幹交界處血供相對較差
 
 ---
 
-### Freiberg 病（Freiberg's Infraction） {#freiberg-病freibergs-infraction}
+### Freiberg 病 / Freiberg's Infraction {#freiberg-病--freibergs-infraction}
+
+![Freiberg 病（印刷頁 402）](/core_radiology/images/msk/page-411.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 第二蹠骨頭的**缺血性壞死** |
@@ -3762,9 +3848,7 @@ weight: 5
 
 > 5. **拇趾遠節趾骨骨折** = 最常見的趾骨骨折
 
-![Page 402](/core_radiology/images/msk/page-411.png)
-
-## 前足（續）/ Forefoot (Continued) {#前足續-forefoot-continued}
+## 前足（續） / Forefoot (Continued) {#前足續--forefoot-continued}
 ### 蹠骨 Stress Fracture / Metatarsal Stress Fracture {#蹠骨-stress-fracture--metatarsal-stress-fracture}
 | 項目 | 說明 |
 |------|------|
@@ -3806,6 +3890,9 @@ weight: 5
 | 未治療後果 | 致殘性退化性關節炎 + 縱弓變平 |
 
 ### Lisfranc 關節對線評估要點 / Alignment Evaluation {#lisfranc-關節對線評估要點--alignment-evaluation}
+
+![Lisfranc 關節對線評估要點（印刷頁 403）](/core_radiology/images/msk/page-412.png)
+
 | 標誌 | 位置關係 |
 |------|---------|
 | 第一蹠骨底部外側 vs 內側楔骨外側 | 應對線 |
@@ -3826,9 +3913,7 @@ weight: 5
 
 > 5. **種子骨骨折** = Turf Toe 的一部分（MTP 關節過度伸展損傷）
 
-![Page 403](/core_radiology/images/msk/page-412.png)
-
-## Lisfranc 骨折-脫臼（續）/ Lisfranc Fracture-Dislocation (Continued) {#lisfranc-骨折-脫臼續-lisfranc-fracture-dislocation-continued}
+## Lisfranc 骨折-脫臼（續） / Lisfranc Fracture-Dislocation (Continued) {#lisfranc-骨折-脫臼續--lisfranc-fracture-dislocation-continued}
 ### Lisfranc 損傷分類 / Classification {#lisfranc-損傷分類--classification}
 | 類型 | 脫臼方向 |
 |------|---------|
@@ -3862,6 +3947,9 @@ weight: 5
 
 ### 中足與後足創傷 / Midfoot and Hindfoot Trauma {#中足與後足創傷--midfoot-and-hindfoot-trauma}
 ### 常見骨折概覽 / Overview of Common Fractures {#常見骨折概覽--overview-of-common-fractures}
+
+![常見骨折概覽（印刷頁 404）](/core_radiology/images/msk/page-413.png)
+
 | 部位 | 骨折類型 |
 |------|---------|
 | **距骨頸骨折** | 分類：Hawkins 分類 |
@@ -3880,14 +3968,16 @@ weight: 5
 
 > 5. **Müeller-Weiss 病** = 成人女性舟狀骨缺血性壞死（較嚴重）
 
-![Page 404](/core_radiology/images/msk/page-413.png)
-
 ## 中足部與後足部骨折分類概覽 / Midfoot and Hindfoot Fracture Classifications {#中足部與後足部骨折分類概覽--midfoot-and-hindfoot-fracture-classifications}
-**中足部與後足部的常見骨折概覽** 中，**距骨頸骨折（talar neck fracture）**使用 **Hawkins 分類**；**跟骨骨折（calcaneal fractures）**則有多種分類，包括 **Essex−Lopresti 分類**與以 CT 為基礎的 **Sanders 分類**。**舟骨缺血性壞死**在兒童稱為 **Kohler 病**，在成人則稱為 **Müeller−Weiss 病**。 In the midfoot and hindfoot overview of common fractures, talar neck fractures are classified by Hawkins, calcaneal fractures have multiple classifications including Essex−Lopresti and the CT-based Sanders classification, and osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults.
+- **中足部與後足部的常見骨折概覽** 中，**距骨頸骨折（talar neck fracture）**使用 **Hawkins 分類**；**跟骨骨折（calcaneal fractures）**則有多種分類，包括 **Essex−Lopresti 分類**與以 CT 為基礎的 **Sanders 分類**
+- **舟骨缺血性壞死**在兒童稱為 **Kohler 病**，在成人則稱為 **Müeller−Weiss 病**
+- In the midfoot and hindfoot overview of common fractures, talar neck fractures are classified by Hawkins, calcaneal fractures have multiple classifications including Essex−Lopresti and the CT-based Sanders classification, and osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults.
 
-**重點摘要**
-- **舟骨缺血性壞死**：Kohler 病（兒童）通常為自限性且好發於男性；Mueller–Weiss 病（成人）病程較嚴重，且較常見於成年女性。Osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults; Kohler disease is typically self limited and occurs more commonly in boys, while Mueller–Weiss disease is more severe in course and occurs more commonly in adult women.
-- **Chopart 骨折-脫臼**：Chopart 關節由**距舟關節（talonavicular）**與**跟骰關節（calcaneocuboid）**構成；Chopart 骨折-脫臼通常由**高能量創傷**造成，常合併**跟骨、骰骨與舟骨**的骨折。The Chopart joint is formed by the talonavicular and calcaneocuboid joints; Chopart fracture-dislocation is typically caused by high-impact trauma, and associated fractures of the calcaneus, cuboid, and navicular bones are often present.
+> **臨床要點**
+
+> - **舟骨缺血性壞死**：Kohler 病（兒童）通常為自限性且好發於男性；Mueller–Weiss 病（成人）病程較嚴重，且較常見於成年女性。Osteonecrosis of the navicular is called Kohler disease in childhood and Mueller–Weiss disease in adults; Kohler disease is typically self limited and occurs more commonly in boys, while Mueller–Weiss disease is more severe in course and occurs more commonly in adult women.
+
+> - **Chopart 骨折-脫臼**：Chopart 關節由**距舟關節（talonavicular）**與**跟骰關節（calcaneocuboid）**構成；Chopart 骨折-脫臼通常由**高能量創傷**造成，常合併**跟骨、骰骨與舟骨**的骨折。The Chopart joint is formed by the talonavicular and calcaneocuboid joints; Chopart fracture-dislocation is typically caused by high-impact trauma, and associated fractures of the calcaneus, cuboid, and navicular bones are often present.
 
 ### Chopart 骨折-脫臼 / Chopart Fracture-Dislocation {#chopart-骨折-脫臼--chopart-fracture-dislocation}
 ### 解剖基礎 / Anatomy {#解剖基礎--anatomy}
@@ -3926,7 +4016,7 @@ weight: 5
 |---------|--------|--------|
 | 由兩條線形成：跟骨後結節上極 → 後關節面上極；前突上極 → 後關節面上極 | **20-40°** | **< 20° 即可診斷跟骨骨折** |
 
-#### Boehler 角示意圖要點 {#boehler-角示意圖要點}
+#### 角示意圖要點 / Boehler {#角示意圖要點--boehler}
 | 組成線 | 連接點 |
 |--------|--------|
 | 第一條線 | 跟骨後結節上極 → 後關節面下極 |
@@ -3945,6 +4035,9 @@ weight: 5
 ---
 
 ### 跟骨 Stress Fracture / Calcaneal Stress Fracture {#跟骨-stress-fracture--calcaneal-stress-fracture}
+
+![跟骨 Stress Fracture（印刷頁 405）](/core_radiology/images/msk/page-414.png)
+
 | 表現 | 說明 |
 |------|------|
 | X 光 | 跟骨內蓬鬆狀硬化帶，皮質完整 |
@@ -3961,8 +4054,6 @@ weight: 5
 > 4. **跟骨 Stress Fracture** = 蓬鬆狀硬化帶 + 皮質完整 + Boehler 角正常
 
 > 5. **情人骨折 (Lover's Fracture)** = 高處墜落導致的跟骨骨折
-
-![Page 405](/core_radiology/images/msk/page-414.png)
 
 ## 距骨骨折 / Talar Fracture {#距骨骨折--talar-fracture}
 ### 解剖分類 / Anatomic Classification {#解剖分類--anatomic-classification}
@@ -3999,6 +4090,9 @@ weight: 5
 | 缺失意義 | 提示**缺血性壞死** |
 
 ### 距骨血供與預後總結 / Blood Supply Summary {#距骨血供與預後總結--blood-supply-summary}
+
+![距骨血供與預後總結（印刷頁 406）](/core_radiology/images/msk/page-415.png)
+
 | 發現 | 意義 |
 |------|------|
 | **Hawkins 徵象存在** | 血供完整 = 預後良好 |
@@ -4015,8 +4109,6 @@ weight: 5
 > 4. **距骨體從踝穴脫出** = III/IV 型損傷 → 極高缺血性壞死風險
 
 > 5. **距骨骨折** = 最常見的骨折位置是**頸部**
-
-![Page 406](/core_radiology/images/msk/page-415.png)
 
 ## 距骨軟骨病變 / Osteochondral Lesion of the Talus {#距骨軟骨病變--osteochondral-lesion-of-the-talus}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-60}
@@ -4054,6 +4146,9 @@ weight: 5
 | **距骨鳥嘴徵 (Talar Beak Sign)** | 側位 X 光上：距骨前上角的三角形鳥嘴狀骨質增生 |
 
 ### 跟舟聯合影像徵象 / Calcaneonavicular Coalition Imaging Signs {#跟舟聯合影像徵象--calcaneonavicular-coalition-imaging-signs}
+
+![跟舟聯合影像徵象（印刷頁 407）](/core_radiology/images/msk/page-416.png)
+
 | 徵象 | 說明 |
 |------|------|
 | **食蟻獸徵象 (Anteater Sign)** | 側位 X 光：跟骨前突細長延伸，看起來像食蟻獸的鼻子 |
@@ -4070,10 +4165,8 @@ weight: 5
 
 > 5. **CT** = 確認附骨聯合的最佳工具（纖維性聯合可由硬化與軟骨下囊性變確診）
 
-![Page 407](/core_radiology/images/msk/page-416.png)
-
 ## 踝關節肌腱解剖 / Ankle Tendon Anatomy {#踝關節肌腱解剖--ankle-tendon-anatomy}
-### 前側伸肌腱群（內踝至外踝）/ Anterior Extensor Tendons {#前側伸肌腱群內踝至外踝-anterior-extensor-tendons}
+### 前側伸肌腱群（內踝至外踝） / Anterior Extensor Tendons {#前側伸肌腱群內踝至外踝--anterior-extensor-tendons}
 | 排序（由內至外）| 肌腱 | 簡稱 |
 |----------------|------|------|
 | 脛骨前肌 | Tibialis Anterior | Tom |
@@ -4109,6 +4202,9 @@ weight: 5
 
 ### 踝關節韌帶 / Ankle Ligaments {#踝關節韌帶--ankle-ligaments}
 #### 外側韌帶複合體 / Lateral Ankle Ligaments {#外側韌帶複合體--lateral-ankle-ligaments}
+
+![外側韌帶複合體（印刷頁 408）](/core_radiology/images/msk/page-417.png)
+
 | 韌帶 | 說明 |
 |------|------|
 | **ATFL (前距腓韌帶)** | 最常見損傷的韌帶 |
@@ -4127,10 +4223,8 @@ weight: 5
 
 > 5. **踝關節扭傷** = 所有關節損傷中最常見
 
-![Page 408](/core_radiology/images/msk/page-417.png)
-
 ## 內踝韌帶與肌腱 / Medial Ankle Ligaments and Tendons {#內踝韌帶與肌腱--medial-ankle-ligaments-and-tendons}
-### 內側韌帶複合體：三角韌帶 (Deltoid Ligament Complex) {#內側韌帶複合體三角韌帶-deltoid-ligament-complex}
+### 內側韌帶複合體：三角韌帶 / Deltoid Ligament Complex {#內側韌帶複合體三角韌帶--deltoid-ligament-complex}
 | 組成 | 說明 |
 |------|------|
 | **後脛距韌帶 (Posterior Tibiotalar)** | 三角韌帶深層 |
@@ -4138,7 +4232,7 @@ weight: 5
 | **脛舟韌帶 (Tibionavicular)** | 三角韌帶淺層 |
 | **前脛距韌帶 (Anterior Tibiotalar)** | 三角韌帶淺層 |
 
-### 彈力韌帶複合體 (Spring Ligament Complex) {#彈力韌帶複合體-spring-ligament-complex}
+### 彈力韌帶複合體 / Spring Ligament Complex {#彈力韌帶複合體--spring-ligament-complex}
 | 組成 | 說明 |
 |------|------|
 | 舟狀骨韌帶 (Calcaneonavicular Ligaments) | MRI 上通常無法個別解析 |
@@ -4161,7 +4255,10 @@ weight: 5
 
 ---
 
-### 附骨隧道內容物（由前向後）/ Tarsal Tunnel Contents (Anterior to Posterior) {#附骨隧道內容物由前向後-tarsal-tunnel-contents-anterior-to-posterior}
+### 附骨隧道內容物（由前向後） / Tarsal Tunnel Contents (Anterior to Posterior) {#附骨隧道內容物由前向後--tarsal-tunnel-contents-anterior-to-posterior}
+
+![附骨隧道內容物（由前向後）（印刷頁 409）](/core_radiology/images/msk/page-418.png)
+
 | 排序 | 內容 |
 |------|------|
 | Tom | **Posterior Tibial tendon** |
@@ -4182,8 +4279,6 @@ weight: 5
 > 4. **附骨隧道 (Tarsal Tunnel)** = 後內踝的屈肌腱/血管/神經通道
 
 > 5. **趾長屈肌** = 附著於第二至五趾；**拇長屈肌** = 行走於籽骨之間
-
-![Page 409](/core_radiology/images/msk/page-418.png)
 
 ## 踝關節骨折 / Ankle Fractures {#踝關節骨折--ankle-fractures}
 ### Danis-Weber 分類 / Danis-Weber Classification {#danis-weber-分類--danis-weber-classification}
@@ -4220,6 +4315,9 @@ weight: 5
 ---
 
 ### Pilon 骨折 / Pilon Fracture {#pilon-骨折--pilon-fracture}
+
+![Pilon 骨折（印刷頁 410）](/core_radiology/images/msk/page-419.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 遠端脛骨垂直方向的**粉碎性骨折**，導致脛骨穹頂 (Tibial Plafond) 破壞 |
@@ -4239,9 +4337,7 @@ weight: 5
 
 > 6. **Pilon 骨折** = 軸向負荷 → 遠端脛骨粉碎性垂直骨折
 
-![Page 410](/core_radiology/images/msk/page-419.png)
-
-## Pilon 骨折（續）/ Pilon Fracture (Continued) {#pilon-骨折續-pilon-fracture-continued}
+## Pilon 骨折（續） / Pilon Fracture (Continued) {#pilon-骨折續--pilon-fracture-continued}
 | 項目 | 說明 |
 |------|------|
 | X 光特徵 | 遠端脛骨**粉碎性斜行/垂直骨折** + 踝穴破壞 + 脛骨穹頂中斷 |
@@ -4254,7 +4350,7 @@ weight: 5
 |------|------|
 | 發病率 | **最常見的踝關節肌腱損傷** |
 
-### 阿基里斯肌腱退化 (Achilles Tendinosis) {#阿基里斯肌腱退化-achilles-tendinosis}
+### 阿基里斯肌腱退化 / Achilles Tendinosis {#阿基里斯肌腱退化--achilles-tendinosis}
 | 項目 | 說明 |
 |------|------|
 | X 光表現 | 肌腱**增粗** |
@@ -4274,6 +4370,9 @@ weight: 5
 | 後界 | 阿基里斯肌腱 |
 
 #### Kager's 脂肪墊軟組織增加的鑑別診斷 / Differential of Increased Soft Tissue in Kager's Fat Pad {#kagers-脂肪墊軟組織增加的鑑別診斷--differential-of-increased-soft-tissue-in-kagers-fat-pad}
+
+![Kager's 脂肪墊軟組織增加的鑑別診斷（印刷頁 411）](/core_radiology/images/msk/page-420.png)
+
 | 診斷 | 說明 |
 |------|------|
 | **阿基里斯肌腱損傷** | 斷裂或退化 |
@@ -4291,8 +4390,6 @@ weight: 5
 > 4. **Haglund 病** = 跟骨後滑囊炎 + 阿基里斯遠端增粗（鞋子摩擦）
 
 > 5. **完全斷裂** = 臨床上確診；X 光可見輪廓中斷 + Kager's 脂肪墊軟組織增加
-
-![Page 411](/core_radiology/images/msk/page-420.png)
 
 ## 膝關節與膝關節 MRI / Knee and Knee MRI {#膝關節與膝關節-mri--knee-and-knee-mri}
 ### 膝關節創傷 / Knee Trauma {#膝關節創傷--knee-trauma}
@@ -4319,7 +4416,7 @@ weight: 5
 | 直接撞擊 | 通常為**粉碎性骨折** |
 | 伸肌機制突然過度張力 | 通常為**分離性骨折 (Distracted Fracture)** |
 
-#### 二分/多分裂髕骨 vs 骨折鑑別 / Bipartite/Multipartite Patella vs Fracture {#二分多分裂髕骨-vs-骨折鑑別--bipartitemultipartite-patella-vs-fracture}
+#### 二分 / 多分裂髕骨 vs 骨折鑑別 / Bipartite / Multipartite Patella vs Fracture {#二分--多分裂髕骨-vs-骨折鑑別--bipartite--multipartite-patella-vs-fracture}
 | 特徵 | 二分/多分裂髕骨 | 骨折 |
 |------|----------------|------|
 | 邊緣 | **皮質化 (Well Corticated)** | 銳利、不規則 |
@@ -4334,6 +4431,9 @@ weight: 5
 ---
 
 ### 脛骨平台骨折 / Tibial Plateau Fracture {#脛骨平台骨折--tibial-plateau-fracture}
+
+![脛骨平台骨折（印刷頁 412）](/core_radiology/images/msk/page-421.png)
+
 | 項目 | 說明 |
 |------|------|
 | 分類 | **Schatzker 分類** |
@@ -4350,8 +4450,6 @@ weight: 5
 > 4. **Schatzker 分類** = 脛骨平台骨折的標準分類
 
 > 5. **內側平台骨折** = 比外側平台骨折更不穩定
-
-![Page 412](/core_radiology/images/msk/page-421.png)
 
 ## 半月板 / Menisci {#半月板--menisci}
 ### 正常解剖 / Normal Anatomy {#正常解剖--normal-anatomy}
@@ -4385,6 +4483,9 @@ weight: 5
 | **白區 (White Zone)** | 中央部 | 無血管，不太能癒合 |
 
 ### 正常半月板 MRI 表現 / Normal Meniscus on MRI {#正常半月板-mri-表現--normal-meniscus-on-mri}
+
+![正常半月板 MRI 表現（印刷頁 413）](/core_radiology/images/msk/page-422.png)
+
 | 切片位置 | 表現 |
 |---------|------|
 | 冠狀/矢狀切片穿過半月板體部 | 經典型**「蝴蝶結」(Bowtie) 表現** |
@@ -4400,8 +4501,6 @@ weight: 5
 > 4. **半月板根部** = 維持半月板穩定性的關鍵附著點
 
 > 5. **正常半月板 MRI** = 矢狀切片呈「蝴蝶結」形態
-
-![Page 413](/core_radiology/images/msk/page-422.png)
 
 ## 半月板黏液樣變性 vs 撕裂 / Myxoid Degeneration vs Tear {#半月板黏液樣變性-vs-撕裂--myxoid-degeneration-vs-tear}
 ### 黏液樣變性 / Myxoid Degeneration {#黏液樣變性--myxoid-degeneration}
@@ -4419,7 +4518,7 @@ weight: 5
 
 ---
 
-### 斜行/水平撕裂 / Oblique / Horizontal Tear {#斜行水平撕裂--oblique--horizontal-tear}
+### 斜行 / 水平撕裂 / Oblique / Horizontal Tear {#斜行--水平撕裂--oblique--horizontal-tear}
 | 項目 | 說明 |
 |------|------|
 | 術語 | 斜行與水平撕裂有時可交換使用 |
@@ -4433,6 +4532,9 @@ weight: 5
 | 病因 | 通常為**退化性**（非創傷性）|
 
 ### 相關發現 / Associated Findings {#相關發現--associated-findings}
+
+![相關發現（印刷頁 414）](/core_radiology/images/msk/page-423.png)
+
 | 發現 | 說明 |
 |------|------|
 | 半月板旁囊腫 (Parameniscal Cysts) | 可伴隨水平/斜行撕裂出現 |
@@ -4449,9 +4551,7 @@ weight: 5
 
 > 5. **MRI 診斷半月板撕裂** = 敏感度與特異度皆 > 90%
 
-![Page 414](/core_radiology/images/msk/page-423.png)
-
-## 垂直/縱向撕裂 / Vertical / Longitudinal Tear {#垂直縱向撕裂--vertical--longitudinal-tear}
+## 垂直 / 縱向撕裂 / Vertical / Longitudinal Tear {#垂直--縱向撕裂--vertical--longitudinal-tear}
 ### 影像特徵 / Imaging Features {#影像特徵--imaging-features-9}
 | 項目 | 說明 |
 |------|------|
@@ -4473,6 +4573,9 @@ weight: 5
 | 移位的半月板碎片 | 最常見位置：**髁間窩 (Intercondylar Notch)** |
 
 ### 特殊徵象 / Special Signs {#特殊徵象--special-signs}
+
+![特殊徵象（印刷頁 415）](/core_radiology/images/msk/page-424.png)
+
 | 徵象 | 移位方向 | MRI 切片 |
 |------|---------|---------|
 | **Double Delta Sign** | 向前移位 | 矢狀切片 |
@@ -4490,9 +4593,7 @@ weight: 5
 
 > 5. **Double Delta Sign** = 向前移位（矢狀切片）
 
-![Page 415](/core_radiology/images/msk/page-424.png)
-
-## 放射狀/橫向撕裂 / Radial / Transverse Tear {#放射狀橫向撕裂--radial--transverse-tear}
+## 放射狀 / 橫向撕裂 / Radial / Transverse Tear {#放射狀--橫向撕裂--radial--transverse-tear}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-64}
 | 項目 | 說明 |
 |------|------|
@@ -4521,6 +4622,9 @@ weight: 5
 | 形成機制 | 關節液透過半月板撕裂**延伸至半月板外** |
 
 ### 臨床特徵 / Clinical Features {#臨床特徵--clinical-features-9}
+
+![臨床特徵（印刷頁 416）](/core_radiology/images/msk/page-425.png)
+
 | 特徵 | 說明 |
 |------|------|
 | 最常見相關撕裂 | **水平撕裂** |
@@ -4539,8 +4643,6 @@ weight: 5
 
 > 5. **半月板囊腫** = 即使半月板被切除，症狀仍可持續
 
-![Page 416](/core_radiology/images/msk/page-425.png)
-
 ## 盤狀半月板 / Discoid Meniscus {#盤狀半月板--discoid-meniscus}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-66}
 | 項目 | 說明 |
@@ -4550,6 +4652,9 @@ weight: 5
 | MRI 診斷標準 | 標準 4 mm 矢狀切片上，連續 **3 個或以上切片**可見橢圓形或蝴蝶結狀半月板（等於 12 mm 內外側厚度）|
 
 ### 臨床特徵 / Clinical Features {#臨床特徵--clinical-features-10}
+
+![臨床特徵（印刷頁 417）](/core_radiology/images/msk/page-426.png)
+
 | 項目 | 說明 |
 |------|------|
 | 好發年齡 | 兒童 |
@@ -4569,8 +4674,6 @@ weight: 5
 
 > 5. **兒童關節線疼痛/鎖住** → 優先考慮盤狀半月板
 
-![Page 417](/core_radiology/images/msk/page-426.png)
-
 ## 膝關節韌帶 / Knee Ligaments {#膝關節韌帶--knee-ligaments}
 ### 前十字韌帶 / Anterior Cruciate Ligament (ACL) {#前十字韌帶--anterior-cruciate-ligament-acl}
 ### 正常解剖 / Normal Anatomy {#正常解剖--normal-anatomy-1}
@@ -4588,6 +4691,9 @@ weight: 5
 | MRI 表現 | 韌帶纖維**明顯連續性中斷**或異常走向及信號 |
 
 ### 相關損傷 / Associated Injuries {#相關損傷--associated-injuries}
+
+![相關損傷（印刷頁 418）](/core_radiology/images/msk/page-427.png)
+
 | 損傷 | 說明 |
 |------|------|
 | **O'Donoghue 三聯徵** | ACL 撕裂常伴隨**半月板撕裂**和 **MCL 撕裂** |
@@ -4605,9 +4711,7 @@ weight: 5
 
 > 5. **後外側角損傷** = 常與 ACL 損傷同時存在
 
-![Page 418](/core_radiology/images/msk/page-427.png)
-
-## ACL 損傷（續）/ ACL Injury (Continued) {#acl-損傷續-acl-injury-continued}
+## ACL 損傷（續） / ACL Injury (Continued) {#acl-損傷續--acl-injury-continued}
 ### ACL 損傷的次級發現 / Secondary Findings of ACL Injury {#acl-損傷的次級發現--secondary-findings-of-acl-injury}
 | 發現 | 說明 |
 |------|------|
@@ -4623,6 +4727,9 @@ weight: 5
 | 病理基礎 | 被認為是**外側關節囊韌帶**的剝離 |
 
 #### 重要臨床提醒 {#重要臨床提醒-1}
+
+![重要臨床提醒（印刷頁 419）](/core_radiology/images/msk/page-428.png)
+
 - Segond 骨折在 X 光上**容易被忽略**，但診斷意義重大
 
 - 一旦發現，建議安排 **MRI**
@@ -4638,8 +4745,6 @@ weight: 5
 > 4. **PCL Buckling** = 陽性 Drawer 徵（脛骨前移）
 
 > 5. **ACL 重建後復健進度** → 監測移植韌帶走向（避免過陡或過鬆）
-
-![Page 419](/core_radiology/images/msk/page-428.png)
 
 ## ACL 重建後併發症 / Post-ACL Reconstruction Complications {#acl-重建後併發症--post-acl-reconstruction-complications}
 ### 重建後正常表現 / Normal Post-Op ACL Graft {#重建後正常表現--normal-post-op-acl-graft}
@@ -4675,6 +4780,9 @@ weight: 5
 | MRI 表現 | PCL **鬆弛度增加**，伴/不伴 T2 加權像異常高信號 |
 
 ### PCL 損傷特徵 / PCL Injury Characteristics {#pcl-損傷特徵--pcl-injury-characteristics}
+
+![PCL 損傷特徵（印刷頁 420）](/core_radiology/images/msk/page-429.png)
+
 | 發現 | 說明 |
 |------|------|
 | 間質撕裂 (Interstitial Tear) | 厚度增加 + 異常信號 + 鬆弛 |
@@ -4692,8 +4800,6 @@ weight: 5
 > 4. **PCL 撕裂** = 鬆弛度增加為主（T2 高信號可見可不見）
 
 > 5. **PCL 損傷**比 ACL 少見，修復頻率也較低
-
-![Page 420](/core_radiology/images/msk/page-429.png)
 
 ## 內側副韌帶 / Medial Collateral Ligament (MCL) {#內側副韌帶--medial-collateral-ligament-mcl}
 ### 正常解剖 / Normal Anatomy {#正常解剖--normal-anatomy-3}
@@ -4757,6 +4863,9 @@ weight: 5
 | MRI 表現 | 髂脛束**淺層及深層**的液體 |
 
 ### 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis-8}
+
+![鑑別診斷（印刷頁 421）](/core_radiology/images/msk/page-430.png)
+
 | 病變 | 說明 |
 |------|------|
 | IT Band 症候群 | 非手術治療 |
@@ -4773,8 +4882,6 @@ weight: 5
 > 4. **IT Band 症候群** = 跑步者膝痛（非手術治療）
 
 > 5. **LCL 複合體**：股二頭肌 → LCL → IT Band（由後至前）
-
-![Page 421](/core_radiology/images/msk/page-430.png)
 
 ## 伸肌機制與髕骨 / Extensor Mechanism and Patella {#伸肌機制與髕骨--extensor-mechanism-and-patella}
 ### 伸肌機制正常解剖 / Normal Anatomy of Extensor Mechanism {#伸肌機制正常解剖--normal-anatomy-of-extensor-mechanism}
@@ -4826,6 +4933,9 @@ weight: 5
 | 與股四頭肌腱撕裂的差異 | 造成**高位髕骨 (Patella Alta)**（髕骨向上移位）|
 
 ### 髕骨肌腱退化 (Jumper's Knee) / Patellar Tendinosis (Jumper's Knee) {#髕骨肌腱退化-jumpers-knee--patellar-tendinosis-jumpers-knee}
+
+![髕骨肌腱退化 (Jumper's Knee)（印刷頁 422）](/core_radiology/images/msk/page-431.png)
+
 | 項目 | 說明 |
 |------|------|
 | MRI 表現 | 髕骨肌腱**增粗** |
@@ -4842,16 +4952,20 @@ weight: 5
 
 > 5. **伸肌機制任何撕裂** → 膝關節伸直功能立即喪失
 
-![Page 422](/core_radiology/images/msk/page-431.png)
-
 ## 脛骨粗隆骨軟骨發育不良（Osgood–Schlatter 病） / Osteochondrosis of the Tibial Tubercle {#脛骨粗隆骨軟骨發育不良osgoodschlatter-病--osteochondrosis-of-the-tibial-tubercle}
-**Osgood–Schlatter 病** 是**脛骨粗隆（tibial tubercle）的骨軟骨發育不良（osteochondrosis）**，一般認為由**反覆性微創傷（repetitive microtrauma）**造成，好發於**青少年**。X 光可見**脛骨粗隆增大並碎裂**及鄰近水腫；MRI 則顯示**遠端髕骨肌腱訊號增高**、脛骨粗隆內的**骨髓水腫**，以及 **Hoffa 脂肪墊水腫**。 Osgood–Schlatter disease is an osteochondrosis of the tibial tubercle, thought to be caused by repetitive microtrauma, and it occurs in adolescents. Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema, while MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
+- **Osgood–Schlatter 病** 是**脛骨粗隆（tibial tubercle）的骨軟骨發育不良（osteochondrosis）**，一般認為由**反覆性微創傷（repetitive microtrauma）**造成，好發於**青少年**
+- X 光可見**脛骨粗隆增大並碎裂**及鄰近水腫；MRI 則顯示**遠端髕骨肌腱訊號增高**、脛骨粗隆內的**骨髓水腫**，以及 **Hoffa 脂肪墊水腫**
+- Osgood–Schlatter disease is an osteochondrosis of the tibial tubercle, thought to be caused by repetitive microtrauma, and it occurs in adolescents. Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema, while MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
 
-**重點摘要**
-- **影像表現**：矢狀面液體敏感（左圖）與質子密度（右圖）MRI 顯示**增大且碎裂的脛骨粗隆（黃色箭頭）**，並有脛骨粗隆前方與 Hoffa 脂肪墊內的水腫（紅色箭頭）。Sagittal fluid-sensitive (left image) and proton density (right image) MRI shows an enlarged, fragmented tibial tubercle (yellow arrows), with associated edema anterior to the tibial tubercle and within Hoffa’s fat pad (red arrow).
-- **好發族群與病因**：好發於青少年，一般認為與反覆性微創傷有關。It occurs in adolescents and is thought to be caused by repetitive microtrauma.
-- **X 光**：X 光顯示脛骨粗隆增大、碎裂並有鄰近水腫。Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema.
-- **MRI**：MRI 顯示遠端髕骨肌腱訊號增高、脛骨粗隆內骨髓水腫與 Hoffa 脂肪墊水腫。MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
+> **臨床要點**
+
+> - **影像表現**：矢狀面液體敏感（左圖）與質子密度（右圖）MRI 顯示**增大且碎裂的脛骨粗隆（黃色箭頭）**，並有脛骨粗隆前方與 Hoffa 脂肪墊內的水腫（紅色箭頭）。Sagittal fluid-sensitive (left image) and proton density (right image) MRI shows an enlarged, fragmented tibial tubercle (yellow arrows), with associated edema anterior to the tibial tubercle and within Hoffa’s fat pad (red arrow).
+
+> - **好發族群與病因**：好發於青少年，一般認為與反覆性微創傷有關。It occurs in adolescents and is thought to be caused by repetitive microtrauma.
+
+> - **X 光**：X 光顯示脛骨粗隆增大、碎裂並有鄰近水腫。Radiographs show an enlarged tibial tuberosity with fragmentation and adjacent edema.
+
+> - **MRI**：MRI 顯示遠端髕骨肌腱訊號增高、脛骨粗隆內骨髓水腫與 Hoffa 脂肪墊水腫。MRI shows increased signal of the distal patellar tendon, marrow edema within the tibial tubercle, and edema within Hoffa’s fat pad.
 
 ### 髕骨外側脫臼 / Lateral Patellar Dislocation {#髕骨外側脫臼--lateral-patellar-dislocation}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-67}
@@ -4878,6 +4992,9 @@ weight: 5
 | 好發年齡 | **青少年** |
 
 ### 影像特徵 / Imaging Features {#影像特徵--imaging-features-11}
+
+![影像特徵（印刷頁 423）](/core_radiology/images/msk/page-432.png)
+
 | 檢查 | 發現 |
 |------|------|
 | **X 光** | 脛骨粗隆增大並碎裂 + 鄰近軟組織水腫 |
@@ -4894,8 +5011,6 @@ weight: 5
 > 4. **Osgood-Schlatter X 光**：脛骨粗隆增大/碎裂
 
 > 5. **創傷性髕骨脫臼** → 內側支持帶撕裂為主要穩定性結構
-
-![Page 423](/core_radiology/images/msk/page-432.png)
 
 ## 膝關節軟骨 / Knee Cartilage {#膝關節軟骨--knee-cartilage}
 ### 概述與解剖 / Overview and Anatomy {#概述與解剖--overview-and-anatomy}
@@ -4954,6 +5069,9 @@ weight: 5
 | **肘關節（體操/投擲運動員）** | 肱骨小頭前外側 |
 
 ### 不穩定型病灶 / Unstable Lesion {#不穩定型病灶--unstable-lesion}
+
+![不穩定型病灶（印刷頁 424）](/core_radiology/images/msk/page-433.png)
+
 | 指標 | 說明 |
 |------|------|
 | MRI 表現 | 液體敏感序列上，碎片與底層骨頭之間有**曲線形高信號** |
@@ -4970,8 +5088,6 @@ weight: 5
 > 4. **剝離 (Delamination)** = 軟骨下表面與骨頭的分離性損傷
 
 > 5. **Stage 3-4 OCD** = 不穩定，需手術治療
-
-![Page 424](/core_radiology/images/msk/page-433.png)
 
 ## 滑膜 / Synovium {#滑膜--synovium}
 ### 色素沉著絨毛結節性滑膜炎 / Pigmented Villonodular Synovitis (PVNS) {#色素沉著絨毛結節性滑膜炎--pigmented-villonodular-synovitis-pvns}
@@ -5005,6 +5121,9 @@ weight: 5
 ---
 
 ### 樹枝狀脂肪瘤 / Lipoma Arborescens {#樹枝狀脂肪瘤--lipoma-arborescens}
+
+![樹枝狀脂肪瘤（印刷頁 425）](/core_radiology/images/msk/page-434.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 關節內滑膜脂肪組織的過度增生，形成**分葉狀/球狀**關節內脂肪團塊 |
@@ -5022,9 +5141,7 @@ weight: 5
 
 > 5. **PVNS** vs **Lipoma Arborescens**：PVNS = 低信號（血黃素）；Lipoma Arborescens = 脂肪信號
 
-![Page 425](/core_radiology/images/msk/page-434.png)
-
-## 膝關節軟組織（續）/ Knee Soft Tissues (Continued) {#膝關節軟組織續-knee-soft-tissues-continued}
+## 膝關節軟組織（續） / Knee Soft Tissues (Continued) {#膝關節軟組織續--knee-soft-tissues-continued}
 ### 貝克氏囊腫 / Baker's Cyst {#貝克氏囊腫--bakers-cyst}
 | 項目 | 說明 |
 |------|------|
@@ -5056,6 +5173,9 @@ weight: 5
 | **坐骨 (Ischium)** | 後方 |
 
 ### 軟骨、唇緣與韌帶 / Cartilage, Labrum, and Ligaments {#軟骨唇緣與韌帶--cartilage-labrum-and-ligaments}
+
+![軟骨、唇緣與韌帶（印刷頁 426）](/core_radiology/images/msk/page-435.png)
+
 | 結構 | 說明 |
 |------|------|
 | 髖臼關節軟骨 | 馬蹄形薄關節軟骨覆蓋 |
@@ -5076,8 +5196,6 @@ weight: 5
 
 > 5. **圓韌帶** = 橫韌帶延伸 + 連接股骨頭凹窩
 
-![Page 426](/core_radiology/images/msk/page-435.png)
-
 ## 髖關節肌肉截面解剖 / Cross-Sectional Anatomy of Hip Musculature {#髖關節肌肉截面解剖--cross-sectional-anatomy-of-hip-musculature}
 ### 重要肌肉與結構標註 / Key Structures {#重要肌肉與結構標註--key-structures}
 | 區域 | 肌肉/結構 |
@@ -5094,13 +5212,16 @@ weight: 5
 | 軟骨覆蓋 | 股骨頭大部分有關節軟骨覆蓋 |
 | 凹窩 (Fovea Capitis) | 中央凹陷，**圓韌帶 (Ligamentum Teres)** 附著處（此處無軟骨）|
 
-### 大/小轉子 / Greater and Lesser Trochanters {#大小轉子--greater-and-lesser-trochanters}
+### 大 / 小轉子 / Greater and Lesser Trochanters {#大--小轉子--greater-and-lesser-trochanters}
 | 結構 | 附著肌肉 |
 |--------|---------|
 | **大轉子** | 臀中肌、臀小肌、閉孔內肌、閉孔外肌、梨狀肌 |
 | **小轉子** | 髂腰肌 |
 
 ### 重要臨床提醒 {#重要臨床提醒-2}
+
+![重要臨床提醒（印刷頁 427）](/core_radiology/images/msk/page-436.png)
+
 | 發現 | 臨床意義 |
 |------|---------|
 | **成人小轉子骨折** | 除非另有證明，應視為**病理性骨折** |
@@ -5116,8 +5237,6 @@ weight: 5
 > 4. **股直肌**起源於前下髂棘 (AIIS)；**縫匠肌**起源於前上髂棘 (ASIS)
 
 > 5. **坐骨神經**穿過梨狀肌下方（臀大肌深層）
-
-![Page 427](/core_radiology/images/msk/page-436.png)
 
 ## 創傷 / Trauma {#創傷--trauma}
 ### 髖臼骨折 / Acetabular Fracture {#髖臼骨折--acetabular-fracture}
@@ -5166,7 +5285,7 @@ weight: 5
 | 轉子間骨折 | 囊外 (Extracapsular) |
 | 轉子下骨折 | 囊外 (Extracapsular) |
 
-### 股骨頭/頸部血供與缺血性壞死 / Blood Supply & AVN Risk {#股骨頭頸部血供與缺血性壞死--blood-supply--avn-risk}
+### 股骨頭 / 頸部血供與缺血性壞死 / Blood Supply & AVN Risk {#股骨頭--頸部血供與缺血性壞死--blood-supply--avn-risk}
 | 項目 | 說明 |
 |------|------|
 | 股骨頭主要血供 | **旋股外側動脈**；在股骨頸底部形成環並發出上行分支至股骨頭 |
@@ -5174,6 +5293,9 @@ weight: 5
 | 圓韌帶 | 只有少量血供來自其內的小血管 |
 
 ### 囊外骨折特徵 / Extracapsular Fracture Features {#囊外骨折特徵--extracapsular-fracture-features}
+
+![囊外骨折特徵（印刷頁 428）](/core_radiology/images/msk/page-437.png)
+
 | 項目 | 說明 |
 |------|------|
 | 病因 | 通常為直接創傷（如摔倒），影響老年人 |
@@ -5192,8 +5314,6 @@ weight: 5
 
 > 5. **髂恥線中斷** = 前柱骨折；**髂坐骨線中斷** = 後柱骨折
 
-![Page 428](/core_radiology/images/msk/page-437.png)
-
 ## 股骨頭骨折-脫臼 / Femoral Head Fracture-Dislocation {#股骨頭骨折-脫臼--femoral-head-fracture-dislocation}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-71}
 | 項目 | 說明 |
@@ -5211,7 +5331,7 @@ weight: 5
 
 ---
 
-### 股骨頸骨折（囊內）/ Femoral Neck Fracture {#股骨頸骨折囊內-femoral-neck-fracture}
+### 股骨頸骨折（囊內） / Femoral Neck Fracture {#股骨頸骨折囊內--femoral-neck-fracture}
 ### 解剖分類 / Anatomic Classification {#解剖分類--anatomic-classification-1}
 | 骨折位置 | 說明 |
 |---------|------|
@@ -5230,6 +5350,9 @@ weight: 5
 | **Stage IV** | 完全、移位骨折；股骨頭骨小樑與髖臼對線正常（正常解剖對線）| 預後最差 |
 
 ### Garden 分類記憶 / Garden Classification Memory Aid {#garden-分類記憶--garden-classification-memory-aid}
+
+![Garden 分類記憶（印刷頁 429）](/core_radiology/images/msk/page-438.png)
+
 | 類型 | 角度 | 對線 |
 |------|------|------|
 | **Valgus（外翻）** | > 180° | Stage I（穩定）|
@@ -5248,8 +5371,6 @@ weight: 5
 > 4. **股骨頭骨折-脫臼** → 後側髖關節脫臼的併發症
 
 > 5. **股骨頸骨折** → 囊內 = 缺血性壞死風險高
-
-![Page 429](/core_radiology/images/msk/page-438.png)
 
 ## Garden 分類圖解 / Garden Classification Diagram {#garden-分類圖解--garden-classification-diagram}
 ### Stage I：嵌入性/不完全骨折 {#stage-i嵌入性不完全骨折}
@@ -5274,7 +5395,7 @@ weight: 5
 
 ---
 
-### 轉子間骨折（囊外）/ Intertrochanteric Fracture {#轉子間骨折囊外-intertrochanteric-fracture}
+### 轉子間骨折（囊外） / Intertrochanteric Fracture {#轉子間骨折囊外--intertrochanteric-fracture}
 ### 分類系統 / Classification Systems {#分類系統--classification-systems}
 | 系統 | 使用者 |
 |------|--------|
@@ -5284,13 +5405,16 @@ weight: 5
 
 ---
 
-### 轉子下骨折（囊外）/ Subtrochanteric Fracture {#轉子下骨折囊外-subtrochanteric-fracture}
+### 轉子下骨折（囊外） / Subtrochanteric Fracture {#轉子下骨折囊外--subtrochanteric-fracture}
 ### 定義 / Definition {#定義--definition-1}
 | 項目 | 說明 |
 |------|------|
 | 定義 | 骨折位於**小轉子或其下方** |
 
 ### 分類系統 / Classification Systems {#分類系統--classification-systems-1}
+
+![分類系統（印刷頁 430）](/core_radiology/images/msk/page-439.png)
+
 | 系統 | 使用者 |
 |------|--------|
 | **Fielding 分類** | 骨科醫師 |
@@ -5307,8 +5431,6 @@ weight: 5
 > 4. **轉子下骨折** = 小轉子或其下方（Fielding/Seinsheimer 分類）
 
 > 5. **囊外骨折** vs **囊內骨折**：囊外骨折缺血性壞死風險低
-
-![Page 430](/core_radiology/images/msk/page-439.png)
 
 ## 髖關節 MRI 技術 / Hip MRI Technique {#髖關節-mri-技術--hip-mri-technique}
 ### 金屬髖關節置換成像 / Imaging Metallic Hip Arthroplasties {#金屬髖關節置換成像--imaging-metallic-hip-arthroplasties}
@@ -5370,6 +5492,9 @@ weight: 5
 | 持續水腫 | 提示治療失敗 |
 
 ### 其他 Stress 骨折位置 / Additional Stress Fracture Sites {#其他-stress-骨折位置--additional-stress-fracture-sites}
+
+![其他 Stress 骨折位置（印刷頁 431）](/core_radiology/images/msk/page-440.png)
+
 | 位置 |
 |------|
 | 上下恥骨支 |
@@ -5387,8 +5512,6 @@ weight: 5
 > 4. **雙磷酸鹽**可能導致非典型股骨骨折（骨幹外側/橫向）
 
 > 5. **8 週追蹤 MRI** = 水腫消退 = 癒合；持續水腫 = 治療失敗
-
-![Page 431](/core_radiology/images/msk/page-440.png)
 
 ## 缺血性壞死 / Avascular Necrosis (AVN) {#缺血性壞死--avascular-necrosis-avn}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-72}
@@ -5444,6 +5567,9 @@ weight: 5
 | **骨髓水腫** | 50% 的病例可見；與疼痛臨床相關 |
 
 ### AVN 報告要素 / Complete AVN Description Should Include {#avn-報告要素--complete-avn-description-should-include}
+
+![AVN 報告要素（印刷頁 432）](/core_radiology/images/msk/page-441.png)
+
 | 要素 | 說明 |
 |------|------|
 | 塌陷的存在 | CT 最敏感，X 光次之 |
@@ -5461,8 +5587,6 @@ weight: 5
 > 4. **類固醇/酒精 + AVN** = 考慮非創傷性 AVN
 
 > 5. **高雪氏症線索** = 脾腫大 + AVN；**鐮刀型** = 小鈣化脾臟 + AVN
-
-![Page 432](/core_radiology/images/msk/page-441.png)
 
 ## 短暫性骨髓水腫 / Transient Bone Marrow Edema (TBME) {#短暫性骨髓水腫--transient-bone-marrow-edema-tbme}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-73}
@@ -5507,6 +5631,9 @@ weight: 5
 | 危險因素 | 股骨髖臼發育不良（發育性髖關節發育不良）、**股骨髖臼撞擊症 (FAI)** |
 
 ### 診斷方法 / Diagnosis {#診斷方法--diagnosis}
+
+![診斷方法（印刷頁 433）](/core_radiology/images/msk/page-442.png)
+
 | 方法 | 說明 |
 |------|------|
 | **MR 關節造影** | 最佳診斷工具；顯示對比劑局部浸潤至唇緣部分下方 |
@@ -5524,8 +5651,6 @@ weight: 5
 > 4. **唇緣損傷最常見位置** = 前上方 (Anterosuperior)
 
 > 5. **股骨髖臼撞擊症 (FAI)** = 年輕運動員髖關節疼痛的重要原因
-
-![Page 433](/core_radiology/images/msk/page-442.png)
 
 ## 股骨髖臼撞擊症 / Femoroacetabular Impingement (FAI) {#股骨髖臼撞擊症--femoroacetabular-impingement-fai}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-75}
@@ -5551,7 +5676,7 @@ weight: 5
 | **Alpha 角** | 測量股骨頭-頸部異常程度；> **55°** 為異常 |
 | 治療 | 股骨骨質整形術 (Femoral Osteoplasty) |
 
-#### Alpha 角測量 {#alpha-角測量}
+#### 角測量 / Alpha {#角測量--alpha}
 | 測量方式 | 定義 |
 |---------|------|
 | 方法 | 在斜軸向 MRI 或 CT 上測量；第一條線：穿過股骨頸中心並等分股骨頭；第二條線：連接股骨頭中心至股骨頭/頸最 proximal 異常輪廓 |
@@ -5569,6 +5694,9 @@ weight: 5
 ---
 
 ### 混合型撞擊症 / Mixed-type Impingement {#混合型撞擊症--mixed-type-impingement}
+
+![混合型撞擊症（印刷頁 434）](/core_radiology/images/msk/page-443.png)
+
 | 說明 |
 |------|
 | 最常見的 FAI 形式；同時具有股骨頭-頸連接處與髖臼的異常 |
@@ -5585,17 +5713,15 @@ weight: 5
 
 > 5. **Pistol-grip 畸形** = Cam-type FAI 的特徵性形態
 
-![Page 434](/core_radiology/images/msk/page-443.png)
-
-## Crossover Sign（續）/ Crossover Sign (Continued) {#crossover-sign續-crossover-sign-continued}
+## Crossover Sign（續） / Crossover Sign (Continued) {#crossover-sign續--crossover-sign-continued}
 | 項目 | 說明 |
 |------|------|
 | 意義 | 代表 Pincer-type FAI；前後位 X 光上，髖臼前壁越過後壁 |
 
 ---
 
-### 腰椎/胸椎 / Lumbar/Thoracic Spine {#腰椎胸椎--lumbarthoracic-spine}
-### 腰椎/胸椎創傷 / Lumbar/Thoracic Spine Trauma {#腰椎胸椎創傷--lumbarthoracic-spine-trauma}
+### 腰椎 / 胸椎 / Lumbar / Thoracic Spine {#腰椎--胸椎--lumbar--thoracic-spine}
+### 腰椎 / 胸椎創傷 / Lumbar / Thoracic Spine Trauma {#腰椎--胸椎創傷--lumbar--thoracic-spine-trauma}
 ### 三柱概念 / Three Column Concept {#三柱概念--three-column-concept}
 | 柱子 | 組成 |
 |------|------|
@@ -5621,7 +5747,10 @@ weight: 5
 
 ---
 
-### 椎弓峽部裂（椎弓峽部缺損）/ Spondylolysis {#椎弓峽部裂椎弓峽部缺損-spondylolysis}
+### 椎弓峽部裂（椎弓峽部缺損） / Spondylolysis {#椎弓峽部裂椎弓峽部缺損--spondylolysis}
+
+![椎弓峽部裂（椎弓峽部缺損）（印刷頁 435）](/core_radiology/images/msk/page-444.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 椎弓峽部 (Pars Interarticularis) 骨折 |
@@ -5640,8 +5769,6 @@ weight: 5
 > 4. **脊椎前移症 (Spondylolisthesis)** = 椎體相對前移（由脊椎滑脫症引起）
 
 > 5. **Crossover Sign** = Pincer-type FAI = 前壁越過後壁
-
-![Page 435](/core_radiology/images/msk/page-444.png)
 
 ## 頸椎 / Cervical Spine {#頸椎--cervical-spine}
 ### 頸椎創傷 / Cervical Spine Trauma {#頸椎創傷--cervical-spine-trauma}
@@ -5667,6 +5794,9 @@ weight: 5
 | **棘突線 (Spinous Process Line)** | 追蹤棘突後緣尖端 |
 
 ### 脊髓腔評估 / Spinal Canal Assessment {#脊髓腔評估--spinal-canal-assessment}
+
+![脊髓腔評估（印刷頁 436）](/core_radiology/images/msk/page-445.png)
+
 | 測量 | 說明 |
 |------|------|
 | 脊髓腔 | 後椎體線與棘突椎板線之間的空間 |
@@ -5682,8 +5812,6 @@ weight: 5
 > 4. **所有頸椎側位片都應評估** 四條線的連續性與平滑度
 
 > 5. **脊髓腔** = 後椎體線與棘突椎板線之間的空間
-
-![Page 436](/core_radiology/images/msk/page-445.png)
 
 ## 頸椎特殊骨折概覽 / Overview of Named Cervical Spine Fractures {#頸椎特殊骨折概覽--overview-of-named-cervical-spine-fractures}
 ### 各頸椎層級的特殊骨折 / Named Cervical Spine Fractures {#各頸椎層級的特殊骨折--named-cervical-spine-fractures}
@@ -5714,7 +5842,7 @@ weight: 5
 | **Type II** | 齒突基部 | **不穩定**；通常手術融合 |
 | **Type III** | 齒突延伸至 C2 椎體 | 不穩定至穩定不定 |
 
-#### Type I 齒突骨折的鑑別診斷 {#type-i-齒突骨折的鑑別診斷}
+#### 齒突骨折的鑑別診斷 / Type I {#齒突骨折的鑑別診斷--type-i}
 | 項目 | 說明 |
 |------|------|
 | **Os Odontoideum** | 齒突尖部的正常變異性次級骨化中心 |
@@ -5722,6 +5850,9 @@ weight: 5
 ---
 
 ### Hangman's 骨折 / Hangman's Fracture {#hangmans-骨折--hangmans-fracture}
+
+![Hangman's 骨折（印刷頁 437）](/core_radiology/images/msk/page-446.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | C2 的創傷性脊椎滑脫症 (Spondylolysis) |
@@ -5741,9 +5872,7 @@ weight: 5
 
 > 5. **C2 在 C3 上位移 > 3 mm** = Hangman's 骨折不穩定
 
-![Page 437](/core_radiology/images/msk/page-446.png)
-
-## 頸椎骨折（續）/ Cervical Spine Fractures (Continued) {#頸椎骨折續-cervical-spine-fractures-continued}
+## 頸椎骨折（續） / Cervical Spine Fractures (Continued) {#頸椎骨折續--cervical-spine-fractures-continued}
 ### 爆裂骨折 / Burst Fracture {#爆裂骨折--burst-fracture}
 | 項目 | 說明 |
 |------|------|
@@ -5780,7 +5909,7 @@ weight: 5
 
 ---
 
-### 雙側關節面脫位（鎖定關節面）/ Bilateral Interfacetal Dislocation (Locked Facets) {#雙側關節面脫位鎖定關節面-bilateral-interfacetal-dislocation-locked-facets}
+### 雙側關節面脫位（鎖定關節面） / Bilateral Interfacetal Dislocation (Locked Facets) {#雙側關節面脫位鎖定關節面--bilateral-interfacetal-dislocation-locked-facets}
 | 項目 | 說明 |
 |------|------|
 | 機制 | 過度屈曲；所有脊椎韌帶完全斷裂，相關椎體前移位 > **50%** |
@@ -5800,6 +5929,9 @@ weight: 5
 ---
 
 ### Grisel 症候群 / Grisel Syndrome {#grisel-症候群--grisel-syndrome}
+
+![Grisel 症候群（印刷頁 438）](/core_radiology/images/msk/page-447.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 繼發於發炎性腫塊（通常為咽喉炎或咽後膿胸）的**非創傷性寰樞椎旋轉半脫位** |
@@ -5815,8 +5947,6 @@ weight: 5
 > 4. **Naked Facet Sign** = 雙側鎖定關節面的特徵
 
 > 5. **Grisel 症候群** = 非創傷性寰樞椎半脫位（咽喉炎後）
-
-![Page 438](/core_radiology/images/msk/page-447.png)
 
 ## 肩關節與肩關節 MRI / Shoulder and Shoulder MRI {#肩關節與肩關節-mri--shoulder-and-shoulder-mri}
 ### 肩關節骨骼解剖 / Bony Anatomy of the Shoulder {#肩關節骨骼解剖--bony-anatomy-of-the-shoulder}
@@ -5864,6 +5994,9 @@ weight: 5
 | X 光最佳顯現位置 | 手臂內旋位的 AP 片 |
 
 ### Bankart 病灶 / Bankart Lesion {#bankart-病灶--bankart-lesion}
+
+![Bankart 病灶（印刷頁 439）](/core_radiology/images/msk/page-448.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | 關節盂前下緣的損傷 |
@@ -5881,8 +6014,6 @@ weight: 5
 > 4. **AC 關節損傷** = CC 距離增寬 > 100% = Grade V
 
 > 5. **Bony Bankart** = 關節盂骨質骨折
-
-![Page 439](/core_radiology/images/msk/page-448.png)
 
 ## 後側盂肱關節脫位 / Posterior Glenohumeral Dislocation {#後側盂肱關節脫位--posterior-glenohumeral-dislocation}
 | 項目 | 說明 |
@@ -5906,7 +6037,10 @@ weight: 5
 
 ---
 
-### 下側盂肱關節脫位（Luxatio Erecta）/ Inferior Glenohumeral Dislocation (Luxatio Erecta) {#下側盂肱關節脫位luxatio-erecta-inferior-glenohumeral-dislocation-luxatio-erecta}
+### 下側盂肱關節脫位（Luxatio Erecta） / Inferior Glenohumeral Dislocation (Luxatio Erecta) {#下側盂肱關節脫位luxatio-erecta--inferior-glenohumeral-dislocation-luxatio-erecta}
+
+![下側盂肱關節脫位（Luxatio Erecta）（印刷頁 440）](/core_radiology/images/msk/page-449.png)
+
 | 項目 | 說明 |
 |------|------|
 | 發病率 | 約 1% 的脫位（罕見）|
@@ -5925,8 +6059,6 @@ weight: 5
 > 4. **Luxatio Erecta** = 手臂外展受傷 + 向下脫位
 
 > 5. **後側肩關節脫位**：Grashey 片上肱骨頭與關節盂重疊 = 高度懷疑
-
-![Page 440](/core_radiology/images/msk/page-449.png)
 
 ## 脫位及相關後遺症 / Dislocations and Associated Sequelae {#脫位及相關後遺症--dislocations-and-associated-sequelae}
 ### 前側脫位相關損傷圖解 / Anterior Dislocation Findings {#前側脫位相關損傷圖解--anterior-dislocation-findings}
@@ -5947,7 +6079,10 @@ weight: 5
 | Hill-Sachs（後外側肱骨頭）| Trough Sign（前內側肱骨頭）|
 | Bankart（前下關節盂）| Reverse Bankart（後關節盂）|
 
-### MRI/關節造影表現 / MR Arthrogram Findings {#mri關節造影表現--mr-arthrogram-findings}
+### MRI / 關節造影表現 / MR Arthrogram Findings {#mri--關節造影表現--mr-arthrogram-findings}
+
+![MRI（印刷頁 441）](/core_radiology/images/msk/page-450.png)
+
 | 發現 | 說明 |
 |------|------|
 | Hill-Sachs | 軸向 T1 脂肪抑制 MR 關節造影：後外側肱骨頭楔形壓迫骨折 |
@@ -5965,10 +6100,8 @@ weight: 5
 
 > 5. 所有肩關節脫位患者都應注意**神經血管損傷**（尤其下側脫位的腋神經）
 
-![Page 441](/core_radiology/images/msk/page-450.png)
-
 ## 肩關節滑囊 / Shoulder Bursae {#肩關節滑囊--shoulder-bursae}
-### 肩峰下/三角肌下滑囊 / Subacromial and Subdeltoid Bursae {#肩峰下三角肌下滑囊--subacromial-and-subdeltoid-bursae}
+### 肩峰下 / 三角肌下滑囊 / Subacromial and Subdeltoid Bursae {#肩峰下--三角肌下滑囊--subacromial-and-subdeltoid-bursae}
 | 項目 | 說明 |
 |------|------|
 | 正常溝通 | 肩峰下與三角肌下滑囊正常情況下**彼此相通** |
@@ -5989,6 +6122,9 @@ weight: 5
 | 原始描述 | 穿過喙肩弓的結構（岡上肌腱、二頭肌腱、肩峰下滑囊）的慢性壓迫/刺激 |
 
 ### 夾擊症侯群分類 / Classification {#夾擊症侯群分類--classification}
+
+![夾擊症侯群分類（印刷頁 442）](/core_radiology/images/msk/page-451.png)
+
 | 類型 | 說明 |
 |------|------|
 | **外在性夾擊** | 由關節外部的結構異常引起 |
@@ -6007,8 +6143,6 @@ weight: 5
 > 4. **內在性夾擊** = 旋轉袖/關節囊問題，無喙肩弓異常
 
 > 5. **慢性外在性夾擊** → 岡上肌腱、二頭肌腱退化、部分或完全撕裂
-
-![Page 442](/core_radiology/images/msk/page-451.png)
 
 ## 肩峰形態與方向 / Acromial Shape and Orientation {#肩峰形態與方向--acromial-shape-and-orientation}
 ### Bigliani 肩峰形態分類 / Bigliani Acromial Morphology Classification {#bigliani-肩峰形態分類--bigliani-acromial-morphology-classification}
@@ -6046,6 +6180,9 @@ weight: 5
 | **肩胛下肌 (Subscapularis)** | 肩胛骨前側 | **小結節** |
 
 ### 功能 {#功能}
+
+![功能（印刷頁 443）](/core_radiology/images/msk/page-452.png)
+
 | 功能 | 說明 |
 |------|------|
 | 旋轉袖 | 為盂肱關節的關鍵主動穩定結構 |
@@ -6061,8 +6198,6 @@ weight: 5
 > 4. 旋轉袖為盂肱關節的**主動穩定結構**
 
 > 5. 臨床上肩峰形態對夾擊症的影響仍存在爭議
-
-![Page 443](/core_radiology/images/msk/page-452.png)
 
 ## 旋轉袖解剖圖解 / Rotator Cuff Anatomy Diagram {#旋轉袖解剖圖解--rotator-cuff-anatomy-diagram}
 ### 冠狀切片觀 / Coronal View {#冠狀切片觀--coronal-view}
@@ -6094,11 +6229,14 @@ weight: 5
 | 肩胛下肌 |
 
 ### 重要解剖關係 {#重要解剖關係}
+
+![重要解剖關係（印刷頁 444）](/core_radiology/images/msk/page-453.png)
+
 | 關係 | 說明 |
 |------|------|
 | 岡上肌腱 | 穿過肩峰下空間，最易受夾擊影響 |
 | 二頭肌腱 | 長頭通過節稷間溝，與旋轉袖病變相關 |
-| 唇緣 | 圍繞关節盂，增加盂肱關節深度 |
+| 唇緣 | 圍繞關節盂，增加盂肱關節深度 |
 
 > **臨床要點**
 
@@ -6112,9 +6250,7 @@ weight: 5
 
 > 5. 旋轉袖肌腱在**大結節**匯聚
 
-![Page 444](/core_radiology/images/msk/page-453.png)
-
-## 肌腱退化/肌腱病 / Tendinosis / Tendinopathy {#肌腱退化肌腱病--tendinosis--tendinopathy}
+## 肌腱退化 / 肌腱病 / Tendinosis / Tendinopathy {#肌腱退化--肌腱病--tendinosis--tendinopathy}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-76}
 | 項目 | 說明 |
 |------|------|
@@ -6162,6 +6298,9 @@ weight: 5
 | 頻率 | 最常見的部分撕裂類型 |
 
 ### PAINT 病灶 / PAINT Lesion {#paint-病灶--paint-lesion}
+
+![PAINT 病灶（印刷頁 445）](/core_radiology/images/msk/page-454.png)
+
 | 項目 | 說明 |
 |------|------|
 | 全名 | Partial Articular Tear with Intratendinous Extension |
@@ -6178,8 +6317,6 @@ weight: 5
 > 4. **關節面撕裂** = 最常見的部分撕裂（90%）
 
 > 5. **PAINT** = 關節面撕裂延伸至肌腱內部
-
-![Page 445](/core_radiology/images/msk/page-454.png)
 
 ## 完全厚度旋轉袖撕裂 / Full-Thickness Rotator Cuff Tear {#完全厚度旋轉袖撕裂--full-thickness-rotator-cuff-tear}
 ### 影像表現 / Imaging Findings {#影像表現--imaging-findings}
@@ -6223,6 +6360,9 @@ weight: 5
 - 肌肉退化程度與手術修復預後相關
 
 ### Goutallier 分類 / Goutallier Classification {#goutallier-分類--goutallier-classification}
+
+![Goutallier 分類（印刷頁 446）](/core_radiology/images/msk/page-455.png)
+
 | 分級 | 表現 |
 |------|------|
 | **Grade 0** | 正常肌肉，無脂肪 |
@@ -6242,8 +6382,6 @@ weight: 5
 > 4. **類風濕性關節炎** = 肱骨頭向上移位與肩峰對撞
 
 > 5. **巨型撕裂 (> 5 cm)** = 修復困難，預後較差
-
-![Page 446](/core_radiology/images/msk/page-455.png)
 
 ## 粘連性關節囊炎 / Adhesive Capsulitis {#粘連性關節囊炎--adhesive-capsulitis}
 ### 疾病概述 / Disease Overview {#疾病概述--disease-overview-77}
@@ -6287,6 +6425,9 @@ weight: 5
 | **後束 (Posterior Band)** | 提供後側穩定性；IGHL 是唯一有後側成分的 GHL |
 
 ### 二頭肌長頭附著 / Long Head Biceps Tendon Attachment {#二頭肌長頭附著--long-head-biceps-tendon-attachment}
+
+![二頭肌長頭附著（印刷頁 447）](/core_radiology/images/msk/page-456.png)
+
 - 與 SGHL、MGHL 共同附著於前上方關節唇緣
 
 > **臨床要點**
@@ -6300,8 +6441,6 @@ weight: 5
 > 4. **GHL 由唇緣衍生**，構成關節囊的一部分
 
 > 5. **MGHL** = 1/3 患者先天缺失
-
-![Page 447](/core_radiology/images/msk/page-456.png)
 
 ## 二頭肌腱 / Biceps Tendon {#二頭肌腱--biceps-tendon}
 ### 二頭肌腱解剖 / Anatomy of the Biceps Tendon {#二頭肌腱解剖--anatomy-of-the-biceps-tendon}
@@ -6340,6 +6479,9 @@ weight: 5
 | 相關損傷 | 與橫韌帶損傷相關 |
 
 ### 橫韌帶 / Transverse Humeral Ligament {#橫韌帶--transverse-humeral-ligament}
+
+![橫韌帶（印刷頁 448）](/core_radiology/images/msk/page-457.png)
+
 | 項目 | 說明 |
 |------|------|
 | 功能 | 附著於大結節與小結節，正常時將二頭肌腱固定於溝內 |
@@ -6355,8 +6497,6 @@ weight: 5
 > 4. **空的結節間溝** = 完全撕裂伴回縮，或二頭肌腱脫位
 
 > 5. **橫韌帶** = 穩定二頭肌腱於溝內
-
-![Page 448](/core_radiology/images/msk/page-457.png)
 
 ## 二頭肌腱脫位 / Biceps Tendon Dislocation {#二頭肌腱脫位--biceps-tendon-dislocation}
 | 項目 | 說明 |
@@ -6393,6 +6533,9 @@ weight: 5
 | **AMBRI** | Atraumatic, Multidirectional, Bilateral, Rehabilitation, Inferior shift |
 
 ### 不穩定性的放射學分類 {#不穩定性的放射學分類}
+
+![不穩定性的放射學分類（印刷頁 449）](/core_radiology/images/msk/page-458.png)
+
 | 方向 | 發病率 |
 |------|--------|
 | **前側不穩定** | 絕大多數（**95%**）|
@@ -6411,8 +6554,6 @@ weight: 5
 > 4. **95% 的肩關節不穩定**為前側方向
 
 > 5. **軸向 MRI** 為二頭肌腱脫位的最佳影像位置
-
-![Page 449](/core_radiology/images/msk/page-458.png)
 
 ## 關節唇緣解剖 / Anatomy of the Glenoid Labrum {#關節唇緣解剖--anatomy-of-the-glenoid-labrum}
 ### 功能 / Function {#功能--function}
@@ -6435,13 +6576,16 @@ weight: 5
 | **唇緣下孔 (Sublabral Foramen)** | 10% | 前上方段未附著於骨性關節盂 |
 | **Buford 複合體 (Buford Complex)** | 6.5% | 索狀 MGHL + 前上方唇緣缺失 |
 
-### Buford 複合體 vs 病理性撕裂 {#buford-複合體-vs-病理性撕裂}
+### 複合體 vs 病理性撕裂 / Buford {#複合體-vs-病理性撕裂--buford}
 | 特徵 | Buford 複合體 | 病理性撕裂 |
 |------|--------------|------------|
 | MGHL | 索狀結構 | 可能缺失或撕裂 |
 | 唇緣 | 前上方缺失 | 前上方撕裂 |
 
 ### 唇緣固定於唇緣的結構 {#唇緣固定於唇緣的結構}
+
+![唇緣固定於唇緣的結構（印刷頁 450）](/core_radiology/images/msk/page-459.png)
+
 | 結構 |
 |------|
 | 肩關節 GHL |
@@ -6459,8 +6603,6 @@ weight: 5
 > 4. **唇緣位置描述**：六分法或鐘面法
 
 > 5. 識別正常變異可避免將 Buford 複合體誤認為病理性撕裂
-
-![Page 450](/core_radiology/images/msk/page-459.png)
 
 ## 不穩定性相關病灶 / Instability: Associated Lesions {#不穩定性相關病灶--instability-associated-lesions}
 ### 大多數「字母湯」病灶的位置 {#大多數字母湯病灶的位置}
@@ -6523,6 +6665,9 @@ weight: 5
 | 相關損傷 | 與肩胛下肌腱撕裂相關 |
 
 ### BHAGL (Bony HAGL) {#bhagl-bony-hagl}
+
+![BHAGL (Bony HAGL)（印刷頁 451）](/core_radiology/images/msk/page-460.png)
+
 | 項目 | 說明 |
 |------|------|
 | 定義 | HAGL + 肱骨解剖頸的骨質撕脫骨折 |
@@ -6539,8 +6684,6 @@ weight: 5
 
 > 5. **HAGL** = IGHL 肱骨端撕脫（與 Bankart 損傷方向相反）
 
-![Page 451](/core_radiology/images/msk/page-460.png)
-
 ## 前下側不穩定病灶總結 / Summary of Anterior-Inferior Instability Lesions {#前下側不穩定病灶總結--summary-of-anterior-inferior-instability-lesions}
 ### 前下側不穩定病灶比較表 / Comparison of Anterior-Inferior Instability Lesions {#前下側不穩定病灶比較表--comparison-of-anterior-inferior-instability-lesions}
 | 病灶 | 骨膜 | 唇緣位置 | 方向 |
@@ -6553,6 +6696,9 @@ weight: 5
 | **BHAGL** | — | HAGL + 骨質撕脫 | — |
 
 ### 圖解記憶要點 {#圖解記憶要點}
+
+![圖解記憶要點（印刷頁 452）](/core_radiology/images/msk/page-461.png)
+
 | 病灶 | 關鍵特徵 |
 |------|---------|
 | **Bankart** | 唇緣從關節盂剝離 + 骨膜掀起 |
@@ -6571,8 +6717,6 @@ weight: 5
 > 4. **HAGL** = IGHL 肱骨端撕脫（與 Bankart 的唇緣側不同）
 
 > 5. **BHAGL** = HAGL + 骨質（為 HAGL 的骨性變異）
-
-![Page 452](/core_radiology/images/msk/page-461.png)
 
 ## 後側不穩定性 / Posterior Instability {#後側不穩定性--posterior-instability}
 | 項目 | 說明 |
@@ -6612,6 +6756,9 @@ weight: 5
 | 分類數量 | 最初 4 型，現已增至 **10 種**亞型 |
 
 ### SLAP 分型 / SLAP Classification {#slap-分型--slap-classification}
+
+![SLAP 分型（印刷頁 453）](/core_radiology/images/msk/page-462.png)
+
 | 分型 | 特徵 |
 |------|------|
 | **Type I** | 上唇邊緣毛糙但無明確撕裂；二頭肌腱完整 |
@@ -6630,8 +6777,6 @@ weight: 5
 > 4. **SLAP Type IV** = 上唇桶柄狀撕裂延伸至二頭肌腱
 
 > 5. **SLAP** = 與二頭肌腱附著相關的前-後方向上唇撕裂
-
-![Page 453](/core_radiology/images/msk/page-462.png)
 
 ## GLAD 病灶 / Glenoid Labral Articular Disruption (GLAD) {#glad-病灶--glenoid-labral-articular-disruption-glad}
 | 項目 | 說明 |
@@ -6675,6 +6820,9 @@ weight: 5
 ---
 
 ### 肩胛上神經夾擊於肩胛上切跡 / Suprascapular Nerve Entrapment at Suprascapular Notch {#肩胛上神經夾擊於肩胛上切跡--suprascapular-nerve-entrapment-at-suprascapular-notch}
+
+![肩胛上神經夾擊於肩胛上切跡（印刷頁 454）](/core_radiology/images/msk/page-463.png)
+
 | 項目 | 說明 |
 |------|------|
 | 近端肩胛上神經功能 | 支配**岡上肌和岡下肌** |
@@ -6693,8 +6841,6 @@ weight: 5
 
 > 5. **肩胛上神經近端夾擊** = 岡上肌 + 岡下肌同時萎縮
 
-![Page 454](/core_radiology/images/msk/page-463.png)
-
 ## 肩胛上神經夾擊於肩胛棘切跡 / Suprascapular Nerve Entrapment at the Spinoglenoid Notch {#肩胛上神經夾擊於肩胛棘切跡--suprascapular-nerve-entrapment-at-the-spinoglenoid-notch}
 - 遠端肩胛上神經僅支配**岡下肌**；在肩胛棘切跡受壓時，會造成岡下肌孤立性萎縮。The distal suprascapular nerve supplies only the infraspinatus; entrapment at the spinoglenoid notch causes isolated infraspinatus atrophy.
 
@@ -6708,9 +6854,10 @@ weight: 5
 - 四邊空間邊界為肱骨（外側）、三頭肌長頭（內側）、小圓肌（上方）及大圓肌（下方）；內含腋神經與旋肱後動脈。
 
 ### Parsonage–Turner 症候群 / Parsonage–Turner Syndrome {#parsonageturner-症候群--parsonageturner-syndrome}
-- 為可造成旋轉袖肌萎縮的特發性臂神經病變；屬排除性診斷，必須先排除腫塊或囊腫壓迫神經等結構性原因。
 
-![Page 455](/core_radiology/images/msk/page-464.png)
+![Parsonage–Turner 症候群（印刷頁 455）](/core_radiology/images/msk/page-464.png)
+
+- 為可造成旋轉袖肌萎縮的特發性臂神經病變；屬排除性診斷，必須先排除腫塊或囊腫壓迫神經等結構性原因。
 
 ## 肘與前臂創傷 / Elbow and Forearm Trauma {#肘與前臂創傷--elbow-and-forearm-trauma}
 ### 肘關節脫位 / Elbow Dislocation {#肘關節脫位--elbow-dislocation}
@@ -6724,9 +6871,10 @@ weight: 5
 - 兒童最常見的肘部骨折。
 
 ### Essex–Lopresti 骨折脫位 / Essex–Lopresti Fracture-Dislocation {#essexlopresti-骨折脫位--essexlopresti-fracture-dislocation}
-- 橈骨頭骨折合併骨間膜撕裂，並在遠端橈尺關節發生尺骨脫位。
 
-![Page 456](/core_radiology/images/msk/page-465.png)
+![Essex–Lopresti 骨折脫位（印刷頁 456）](/core_radiology/images/msk/page-465.png)
+
+- 橈骨頭骨折合併骨間膜撕裂，並在遠端橈尺關節發生尺骨脫位。
 
 ## 前臂骨折脫位 / Forearm Fracture-Dislocations {#前臂骨折脫位--forearm-fracture-dislocations}
 ### Monteggia 骨折脫位 / Monteggia Fracture-Dislocation {#monteggia-骨折脫位--monteggia-fracture-dislocation}
@@ -6739,23 +6887,26 @@ weight: 5
 - 遠端橈骨骨折伴背側成角，通常延伸至關節面，是前臂遠端最常見的損傷；典型機轉為伸手撐地跌倒（FOOSH）。
 
 ### Hutchinson（Chauffeur）骨折 / Hutchinson (Chauffeur) Fracture {#hutchinsonchauffeur骨折--hutchinson-chauffeur-fracture}
+
+![Hutchinson（Chauffeur）骨折（印刷頁 457）](/core_radiology/images/msk/page-466.png)
+
 - 遠端橈骨橈側骨折，延伸至橈骨莖突與橈腕關節。
 
-![Page 457](/core_radiology/images/msk/page-466.png)
-
 ## 手與腕常見骨折總覽 / Common Hand and Wrist Fractures {#手與腕常見骨折總覽--common-hand-and-wrist-fractures}
-- 總覽圖列出槌狀指與鈕扣狀畸形（伸肌腱損傷）、掌側板骨折、Gamekeeper’s thumb（尺側副韌帶損傷）、Bennett 與 Rolando 骨折，以及大多角骨、三角骨與舟狀骨骨折、舟月韌帶損傷和 Kienböck 病。
 
-![Page 458](/core_radiology/images/msk/page-467.png)
+![手與腕常見骨折總覽（印刷頁 458）](/core_radiology/images/msk/page-467.png)
+
+- 總覽圖列出槌狀指與鈕扣狀畸形（伸肌腱損傷）、掌側板骨折、Gamekeeper’s thumb（尺側副韌帶損傷）、Bennett 與 Rolando 骨折，以及大多角骨、三角骨與舟狀骨骨折、舟月韌帶損傷和 Kienböck 病。
 
 ## 腕骨解剖與排列 / Carpal Anatomy and Alignment {#腕骨解剖與排列--carpal-anatomy-and-alignment}
 - **Gilula 弧線**應平滑且連續；中斷可能代表韌帶損傷或骨折。
 
 ### 月狀骨與周圍月狀骨脫位 / Lunate and Perilunate Dislocation {#月狀骨與周圍月狀骨脫位--lunate-and-perilunate-dislocation}
+
+![月狀骨與周圍月狀骨脫位（印刷頁 459）](/core_radiology/images/msk/page-468.png)
+
 - **周圍月狀骨脫位**：月狀骨仍與橈骨對位，但頭狀骨未與月狀骨對位。
 - **月狀骨脫位**：月狀骨向掌側脫位，而頭狀骨仍大致與橈骨對位。
-
-![Page 459](/core_radiology/images/msk/page-468.png)
 
 ## 舟月韌帶損傷 / Scapholunate Ligament Injury {#舟月韌帶損傷--scapholunate-ligament-injury}
 - 常由伸手撐地跌倒造成。**Terry Thomas sign** 指舟月間隙增寬。
@@ -6768,9 +6919,10 @@ weight: 5
 - 正位片可能不易察覺；側位片常見三角骨背側的撕脫骨片。
 
 ### Kienböck 病 / Kienböck Disease {#kienböck-病--kienböck-disease}
-- 月狀骨缺血性壞死，與尺骨負變異（尺骨短於橈骨）相關，可能源於月狀骨負荷增加。
 
-![Page 460](/core_radiology/images/msk/page-469.png)
+![Kienböck 病（印刷頁 460）](/core_radiology/images/msk/page-469.png)
+
+- 月狀骨缺血性壞死，與尺骨負變異（尺骨短於橈骨）相關，可能源於月狀骨負荷增加。
 
 ## 手指與手部創傷 / Fingers and Hand Trauma {#手指與手部創傷--fingers-and-hand-trauma}
 ### 槌狀指 / Mallet Finger {#槌狀指--mallet-finger}
@@ -6780,10 +6932,11 @@ weight: 5
 - 伸肌腱中央束在中節指骨處受損，最常見於類風濕關節炎，也可為外傷後改變；造成近端指間關節固定屈曲及遠端指間關節伸展。
 
 ### Gamekeeper’s Thumb（Skier’s Thumb） {#gamekeepers-thumbskiers-thumb}
+
+![Gamekeeper’s Thumb（Skier’s Thumb）（印刷頁 461）](/core_radiology/images/msk/page-470.png)
+
 - 拇指近節指骨基底的尺側副韌帶因強迫外展受傷，可合併撕脫骨片。完全撕裂需手術治療。
 - **Stener 病灶**為尺側副韌帶完全斷裂且內收肌腱膜介入，必須手術治療。
-
-![Page 461](/core_radiology/images/msk/page-470.png)
 
 ## 拇指與掌骨骨折 / Thumb and Metacarpal Fractures {#拇指與掌骨骨折--thumb-and-metacarpal-fractures}
 ### Bennett 骨折 / Bennett Fracture {#bennett-骨折--bennett-fracture}
@@ -6796,16 +6949,18 @@ weight: 5
 - 掌骨頸骨折，最常發生於第五掌骨。
 
 ### 掌側板骨折 / Volar Plate Fracture {#掌側板骨折--volar-plate-fracture}
+
+![掌側板骨折（印刷頁 462）](/core_radiology/images/msk/page-471.png)
+
 - 過度伸展造成中節指骨近端掌側的撕脫骨折。
 
-![Page 462](/core_radiology/images/msk/page-471.png)
-
 ## 參考文獻、資源與延伸閱讀 / References, Resources, and Further Reading {#參考文獻資源與延伸閱讀--references-resources-and-further-reading}
+
+![參考文獻、資源與延伸閱讀（印刷頁 463）](/core_radiology/images/msk/page-472.png)
+
 - 本頁列出關節炎、腫瘤、感染、足踝與膝關節影像學的參考文獻。
 
-![Page 463](/core_radiology/images/msk/page-472.png)
-
-## 參考文獻（續）/ References (Continued) {#參考文獻續-references-continued}
+## 參考文獻（續） / References (Continued) {#參考文獻續--references-continued}
 - 本頁續列髖關節、脊椎、肩關節，以及肘、前臂、腕與手部影像學的參考文獻。
 
 ## 圖片出處 / Image References {#圖片出處--image-references}
