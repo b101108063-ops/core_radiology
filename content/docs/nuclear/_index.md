@@ -375,7 +375,7 @@ weight: 7
 
 #### Normal HIDA {#normal-hida}
 
-- Liver visible by 5 min; gallbladder by 15 min; small bowel by 30–60 min (patent CBD).
+- Liver visible by 5 min; gallbladder by 15 min. Tracer should be seen in the small bowel to ensure a patent CBD.
 
 #### Acute Cholecystitis {#acute-cholecystitis}
 

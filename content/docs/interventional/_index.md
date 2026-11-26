@@ -60,9 +60,9 @@ weight: 10
 ### 胸主動脈與上腔靜脈發育變異 {#胸主動脈與上腔靜脈發育變異}
 ![胸主動脈與上腔靜脈發育變異](/core_radiology/images/interventional/page-709.png)
 
-**中文：** 胸主動脈病變參見心血管影像章節。上腔靜脈（SVC）先天發育異常包括 <span style="color:#22d3ee">持久性左側上腔靜脈（Persistent left SVC）</span>，此為胚胎期左前基底靜脈未退化所致（發生率約 0.3–0.5%），左側 SVC 下行匯入 <span style="color:#22d3ee">擴張的冠狀靜脈竇（Coronary sinus）</span> 回流至右心房。其他胸腔大靜脈變異尚包含上腔靜脈重複（Duplicated SVC）與下腔靜脈發育異常，臨床進行中央靜脈置管或造影時需精準識別，避免將異位靜脈導管誤判為血管穿孔或縱隔腔誤置。
+**中文：** 胸主動脈病變參見心血管影像章節。上腔靜脈（SVC）先天發育異常包括 <span style="color:#22d3ee">持久性左側上腔靜脈（Persistent left SVC）</span>，此為胚胎期左前主靜脈（left anterior cardinal vein）未退化所致，左側 SVC 下行匯入 <span style="color:#22d3ee">擴張的冠狀靜脈竇（Coronary sinus）</span> 回流至右心房。其他胸腔大靜脈變異尚包含上腔靜脈重複（Duplicated SVC）與下腔靜脈發育異常，臨床進行中央靜脈置管或造影時需精準識別，避免將異位靜脈導管誤判為血管穿孔或縱隔腔誤置。
 
-**English:** Congenital anomalies of the thoracic venous system include persistent left-sided superior vena cava, resulting from failure of involution of the embryonic left anterior cardinal vein in 0.3% to 0.5% of the population. A persistent left superior vena cava typically courses adjacent to the left mediastinum and drains directly into an enlarged coronary sinus. Additional venous malformations include duplicated superior vena cava and anomalous inferior vena cava pathways. Precise recognition of these thoracic venous variants during central venous catheterization or fluoroscopy prevents misinterpretation of venous placement as arterial perforation or mediastinal extravasation.
+**English:** Congenital anomalies of the thoracic venous system include persistent left-sided superior vena cava, resulting from failure of involution of the embryonic left anterior cardinal vein. A persistent left superior vena cava typically courses adjacent to the left mediastinum and drains directly into an enlarged coronary sinus. Additional venous malformations include duplicated superior vena cava and anomalous inferior vena cava pathways. Precise recognition of these thoracic venous variants during central venous catheterization or fluoroscopy prevents misinterpretation of venous placement as arterial perforation or mediastinal extravasation.
 
 ### 肺動脈造影技術與心導管併發症防範 {#肺動脈造影技術與心導管併發症防範}
 ![肺動脈造影技術與心導管併發症防範](/core_radiology/images/interventional/page-710.png)
