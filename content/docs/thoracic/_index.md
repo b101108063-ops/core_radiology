@@ -1896,7 +1896,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 ### 流行病學 / Epidemiology {#流行病學--epidemiology}
 
 - **危險因子**：吸菸（90%相關）、二手菸、氡氣暴露、石棉、空氣汙染
-- **組織學分類**：非小細胞肺癌（85%）、小細胞肺癌（15%）
+- **組織學分類**：非小細胞肺癌（NSCLC）、小細胞肺癌（SCLC）
 - **好發年齡**：55-74歲
 
 ### 非小細胞肺癌組織學類型 / NSCLC Subtypes {#非小細胞肺癌組織學類型--nsclc-subtypes}
@@ -3105,10 +3105,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 ## 兩階段 / Two Phases of AIP {#兩階段--two-phases-of-aip}
 
-| Phase | Timing | Pathology | CT Findings |
-|---|---|---|---|
-| **Exudative (early)** | First week | Hyaline membranes; diffuse alveolar immune cell infiltration; noncardiogenic pulmonary edema | **Geographic ground glass attenuation** (nonspecific) |
-| **Organizing (chronic)** | After 1 week | Alveolar wall thickening from granulation tissue; chronic fibrosis | Fibrosis; traction bronchiectasis |
+| Phase | Pathology | CT Findings |
+|---|---|---|
+| **Exudative (early)** | Hyaline membranes; diffuse alveolar immune cell infiltration; noncardiogenic pulmonary edema | **Geographic ground glass attenuation** (nonspecific) |
+| **Organizing (chronic)** | Alveolar wall thickening from granulation tissue; chronic fibrosis | Fibrosis; traction bronchiectasis |
 
 ---
 
@@ -3148,7 +3148,7 @@ The **distribution** of ground glass opacification provides important diagnostic
 
 > - **AIP has the worst prognosis** of all IIPs — similar to severe ARDS
 
-> - The exudative phase (first week) → organizing phase (after 1 week) mirrors the clinical progression of ARDS
+> - The exudative (early) phase → organizing (chronic) phase mirrors the clinical progression of ARDS
 
 ## 過敏原與暴露相關肺病 / Antigen and Exposure-Related Lung Disease {#過敏原與暴露相關肺病--antigen-and-exposure-related-lung-disease}
 ![過敏原與暴露相關肺病（印刷頁 56）](/core_radiology/images/thoracic/page-065.png)
