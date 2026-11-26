@@ -18,15 +18,11 @@ description: 腹部、婦產科、血管超音波
 - 膽囊超聲檢查時，患者空腹可減少膽囊收縮並使膽囊壁更易觀察；膽囊正常壁厚<3mm，膽總管直徑正常<=6mm（60歲前）或按年齡遞增
 
 > **臨床要點**
-
+>
 > - **超聲波特性**：無創、無輻射、可移動，為腹部器官首選篩檢工具
-
 > - **後方聲影（Acoustic Shadowing）**：高迴聲結構（結石、鈣化）阻擋聲波
-
 > - **後方聲增強（Acoustic Enhancement）**：低衰減結構（囊腫）後方信號增強
-
 > - **膽囊正常壁厚**：<3mm；膽總管：60歲前<=6mm
-
 > - **空腹準備**：檢查前空腹6-8小時，避免膽囊收縮影響觀察
 
 ---
@@ -43,11 +39,9 @@ description: 腹部、婦產科、血管超音波
 - 若膽囊完全被結石填滿，辨識會更困難，此時「壁-迴聲-陰影三重徵」（WES sign）可輔助診斷
 
 > **臨床要點**
-
+>
 > - **膽囊結石（Cholelithiasis）**：高迴聲、後方聲影、可移動
-
 > - **WES sign**：膽囊壁與結石前緣的雙弧線徵象，代表膽囊被結石填滿
-
 > - **風險因子**：女性、肥胖、妊娠、中年、糖尿病
 
 ---
@@ -63,11 +57,9 @@ description: 腹部、婦產科、血管超音波
 - 併發症如氣腫性膽囊炎（膽囊壁內有氣體）有較高穿孔風險，壞疽性膽囊炎則可見膽囊腔內分層的高迴聲物質代表出血與脫落的膜狀物
 
 > **臨床要點**
-
+>
 > - **急性膽囊炎（Acute Cholecystitis）**：膽囊壁>3mm、結石、Murphy徵陽性
-
 > - **氣腫性膽囊炎（Emphysematous Cholecystitis）**：膽囊壁有氣體，緊急手術治療
-
 > - **壞疽性膽囊炎（Gangrenous Cholecystitis）**：膽囊壁壞死，腔內可見出血與膜狀物
 
 ---
@@ -83,13 +75,10 @@ description: 腹部、婦產科、血管超音波
 - 腺肌症的超聲特徵為膽囊壁局灶性增厚並出現 comet-tail 偽影，代表 Rokitansky–Aschoff 竇內的微小結晶
 
 > **臨床要點**
-
+>
 > - **膽囊瓷化（Porcelain Gallbladder）**：膽囊壁鈣化，建議預防性膽囊切除
-
 > - **Courvoisier膽囊**：膽囊顯著擴張，常見於惡性膽道阻塞
-
 > - **腺肌症（Adenomyomatosis）**：comet-tail 偽影為特徵
-
 > - **草莓膽囊（Strawberry Gallbladder）**：膽固醇沉積，為病理診斷而非影像診斷
 
 ---
@@ -106,11 +95,9 @@ description: 腹部、婦產科、血管超音波
 - 超聲波可見膽囊內具血流訊號的突起腫塊，常直接侵犯肝臟
 
 > **臨床要點**
-
+>
 > - **膽囊瘜肉（Gallbladder Polyp）**：非移動性、無聲影、寬基底者需警覺
-
 > - **六個S原則**：>10mm、單一、Sessile、有結石、PSC、年齡>=60
-
 > - **膽囊癌（Gallbladder Cancer）**：具血流訊號的突起腫塊，常侵犯肝臟
 
 ---
@@ -127,11 +114,9 @@ description: 腹部、婦產科、血管超音波
 - 臨床上遇到膽囊壁異常時，彩色都卜勒可幫助區分膽囊靜脈曲張（具血流）與其他病變
 
 > **臨床要點**
-
+>
 > - **膽囊壁增厚**：需區分水腫性、發炎性與腫瘤性病因
-
 > - **膽囊靜脈曲張（Gallbladder Varices）**：門脈高壓相關，彩色都卜勒確診
-
 > - **WES sign**：膽囊填滿結石時，出現壁-迴聲-陰影三重徵
 
 ---
@@ -144,11 +129,9 @@ description: 腹部、婦產科、血管超音波
 - 超聲波上，氣膽管炎於肝臟中央可見高迴聲性小氣泡，後方髒汙陰影，與門靜脈氣體（周邊分布、尖銳波形）不同
 
 > **臨床要點**
-
+>
 > - **膽管結石（Choledocholithiasis）**：膽總管擴張，內見高迴聲結石
-
 > - **Mirizzi症候群**：膽囊管結石壓迫總肝管，術前診斷至關重要
-
 > - **氣膽管炎（Pneumobilia）**：中央分布；門靜脈氣體為周邊分布
 
 ---
@@ -164,11 +147,9 @@ description: 腹部、婦產科、血管超音波
 - 超聲波在評估膽管癌時主要用於初始檢查鄰近淋巴結與血管結構，肝門部是最常見發生位置
 
 > **臨床要點**
-
+>
 > - **總膽管直徑原則**：60歲前<=6mm；60歲後每10年+1mm
-
 > - **膽管癌（Cholangiocarcinoma）**：無痛性黃疸，肝門部最常見（Klatskin tumor）
-
 > - **肝內膽管異常**：直徑>2mm或>相鄰門靜脈40%
 
 ---
@@ -183,11 +164,9 @@ description: 腹部、婦產科、血管超音波
 - 肝膿瘍（Pyogenic Abscess）由大腸桿菌等 pus-forming 菌引起，超聲波可見邊界不清的低迴聲結構（蜂窩組織炎期）演變為邊界清楚的低迴聲膿瘍
 
 > **臨床要點**
-
+>
 > - **肝臟脂肪變性（Hepatic Steatosis）**：肝臟比腎皮質迴聲更強
-
 > - **肝硬化（Cirrhosis）**：粗大不均質、結節狀輪廓、尾狀葉肥大
-
 > - **星空狀（Starry Sky Pattern）**：病毒性肝炎門脈區高迴聲點
 
 ---
@@ -202,11 +181,9 @@ description: 腹部、婦產科、血管超音波
 - 海綿狀血管瘤（Cavernous Hemangioma）為最常見的肝臟良性腫瘤，典型超聲表現為單一、邊界清楚且均質的高迴聲團塊，彩色都卜勒無血流，後方聲增强（posterior acoustic enhancement）為非特異性表現
 
 > **臨床要點**
-
+>
 > - **阿米巴性膿瘍**：右葉頂部、低迴聲，抗阿米巴藥物治療通常足夠
-
 > - **包蟲囊腫（Hydatid Disease）**：周邊子囊、water-lily sign
-
 > - **海綿狀血管瘤（Cavernous Hemangioma）**：高迴聲、無血流、後方聲增強
 
 ---
@@ -220,11 +197,9 @@ description: 腹部、婦產科、血管超音波
 - 囊腺瘤（Biliary Cystadenoma）為具有膽道上皮內襯的良性囊性腫塊，為良性但有惡性轉化風險，手術切除為主
 
 > **臨床要點**
-
+>
 > - **FNH（局灶性結節性增生）**：中央星狀疤痕、spoke-wheel血管分布
-
 > - **肝腺瘤（Hepatic Adenoma）**：口服避孕藥相關，出血風險高
-
 > - **囊腺瘤（Biliary Cystadenoma）**：多分隔囊性腫塊，有惡性轉化風險
 
 ---
@@ -239,11 +214,9 @@ description: 腹部、婦產科、血管超音波
 - 肝細胞癌（HCC）在慢性肝炎或肝硬化背景下出現，超聲波有多種表現型，肝臟內發現團塊在肝硬化患者應視為HCC直到證實為其他疾病
 
 > **臨床要點**
-
+>
 > - **轉移性肝病**：比原發性HCC更常見，多種迴聲性取決於原發腫瘤
-
 > - **肝細胞癌（HCC）**：肝硬化患者的肝內團塊應首先考慮HCC
-
 > - **fibrolamellar carcinoma**：年輕成人、無肝硬化、預後較佳
 
 ---
@@ -258,11 +231,9 @@ description: 腹部、婦產科、血管超音波
 - 移植後淋巴增生病（PTLD）為實體器官或骨髓移植後因EB病毒引起的淋巴瘤類疾病，超聲波表現多變且非特異性
 
 > **臨床要點**
-
+>
 > - **HCC**：肝硬化患者常規篩檢目標，都卜勒顯示腫瘤血栓內有血流
-
 > - **肝臟淋巴瘤**：低迴聲團塊，多發
-
 > - **PTLD**：移植後任何器官新發團塊均需考慮
 
 ---
@@ -276,11 +247,9 @@ description: 腹部、婦產科、血管超音波
 - 門靜脈搏動波形為異常所見，需考慮三尖瓣逆流或右心衰竭
 
 > **臨床要點**
-
+>
 > - **門靜脈高壓（Portal Hypertension）**：分為肝前型、肝內型與肝後型
-
 > - **hepatopetal flow（肝向性流）**：正常門靜脈波形，低、都卜勒波形搏動為異常
-
 > - **hepatofugal flow（離肝性流）**：門靜脈血流逆轉，為門靜脈高壓之診斷標準
 
 ---
@@ -294,11 +263,9 @@ description: 腹部、婦產科、血管超音波
 - 門靜脈壓力定義為直接測量超過5mmHg，但臨床上通常以血流逆轉與否來診斷門靜脈高壓
 
 > **臨床要點**
-
+>
 > - **再通臍靜脈**：門靜脈高壓的診斷標準之一
-
 > - **門靜脈流速降低**：<16 cm/sec 為門靜脈高壓徵象
-
 > - **脾腎分流（Splenorenal Shunt）**：門體分流常見類型之一
 
 ---
@@ -315,11 +282,9 @@ description: 腹部、婦產科、血管超音波
 - TIPS狹窄的診斷標準包括：TIPS內流速>190 cm/sec（高流速狹窄）或<90 cm/sec（低流速狹窄），或相對於基準改變>50 cm/sec
 
 > **臨床要點**
-
+>
 > - **TIPS通暢性**：門靜脈主幹hepatopetal、左右分枝hepatofugal
-
 > - **TIPS狹窄**：TIPS內速度>190或<90 cm/sec，或變化>50 cm/sec
-
 > - **TIPS阻塞**：左右門靜脈分枝血流「再逆轉」為hepatopetal
 
 ---
@@ -335,11 +300,9 @@ description: 腹部、婦產科、血管超音波
 - 門靜脈氣體（Portal Venous Gas）代表腹部災難（缺血與梗塞）直到證實為其他原因，超聲波可見周邊分布的斑駁分支狀高迴聲焦點，與氣膽管炎的中央分布不同
 
 > **臨床要點**
-
+>
 > - **門靜脈血栓**：門靜脈內無血流、血栓內有血流為腫瘤血栓
-
 > - **海綿樣變性（Cavernous Transformation）**：門靜脈區域多條側枝形成
-
 > - **門靜脈氣體**：周邊分布，需緊急CT檢查
 
 ---
@@ -352,13 +315,10 @@ description: 腹部、婦產科、血管超音波
 - 肝靜脈搏動增加（A波增強）由右心病變引起，包括右心衰竭或三尖瓣逆流，兩者皆以增強的A波為特徵，但S波在右心衰竭正常，三尖瓣逆流則因右心室血液逆流入右心房而S波降低或逆轉
 
 > **臨床要點**
-
+>
 > - **A波（atrial systole）**：心房收縮，血液逆流至肝臟
-
 > - **S波（ventricular systole）**：心室收縮，血液回流右心房
-
 > - **D波（ventricular diastole）**：心室舒張，少量血液回流
-
 > - **A波增強**：右心衰竭或三尖瓣逆流
 
 #### 肝靜脈 A 波（A-wave） / Hepatic Vein A-Wave {#肝靜脈-a-波a-wave--hepatic-vein-a-wave}
@@ -389,11 +349,9 @@ description: 腹部、婦產科、血管超音波
 - 慢性胰臟炎（Chronic Pancreatitis）常由反覆急性發作引起，典型超聲表現為腺體萎縮、瀰漫性鈣化及遠端胰管擴張呈串珠狀
 
 > **臨床要點**
-
+>
 > - **急性胰臟炎**：常由酒精或膽結石引起；超聲用於評估結石或膽道阻塞
-
 > - **急性期影像**：胰臟可正常，或瀰漫腫大、相對低迴聲
-
 > - **慢性胰臟炎**：腺體萎縮、瀰漫性鈣化、串珠狀胰管擴張
 
 ---
@@ -407,13 +365,10 @@ description: 腹部、婦產科、血管超音波
 - 胰島素瘤（Insulinoma）為最常見的胰臟內分泌腫瘤，通常為低迴聲、有包膜的結節，術前超聲檢出率低於60%；胃泌素瘤（Gastrinoma）為第二常見，診斷時60%已有肝轉移
 
 > **臨床要點**
-
+>
 > - **胰臟腺癌**：胰頭最常見，可造成 double duct sign
-
 > - **漿液性囊腺瘤**：老年女性、多數微小囊泡，鈣化疤痕少見但具特異性
-
 > - **IPMN**：與主胰管或分支胰管相通，超聲不易證實相通性
-
 > - **胰島素瘤**：最常見胰臟內分泌腫瘤，低迴聲、有包膜
 
 ---
@@ -429,11 +384,9 @@ description: 腹部、婦產科、血管超音波
 - 脾腫大（>14cm）常見原因包括門靜脈高壓（最常見）、感染及愛滋病；中重度脾腫大則需考慮白血病/淋巴瘤或傳染性單核細胞增多症
 
 > **臨床要點**
-
+>
 > - **脾腫大（Splenomegaly）**：定義為>14cm，門靜脈高壓為最常見原因
-
 > - **脾臟低迴聲病灶**：需考慮淋巴瘤、膿瘍、轉移及梗塞
-
 > - **脾梗塞**：周邊分布的低迴聲區域
 
 ---
@@ -449,11 +402,9 @@ description: 腹部、婦產科、血管超音波
 - 阻力指數（Resistive Index, RI）可幫助評估急性阻塞，計算公式為 RI = (PSV – EDV)/PSV；患側 RI >0.7 或兩腎差異 >0.1 提示急性阻塞，雙側 RI 升高則非特異性
 
 > **臨床要點**
-
+>
 > - **腎結石**：高迴聲、後方聲影
-
 > - **腎積水**：阻塞性結石最常見，但亦有非阻塞性原因
-
 > - **阻力指數**：患側 >0.7 或兩腎差異 >0.1 提示急性阻塞
 
 ---
@@ -467,11 +418,9 @@ description: 腹部、婦產科、血管超音波
 - 腎臟淋巴瘤最常表現為多發低迴聲腎臟團塊，常伴腹膜後淋巴結病變
 
 > **臨床要點**
-
+>
 > - **AML**：高迴聲；約三分之一有聲影，>4 cm 時出血風險增加
-
 > - **RCC**：最常見實質性腎臟腫塊，需評估腎靜脈侵犯
-
 > - **腫瘤血栓**：都卜勒可見彩色血流及動脈波形
 
 ---
@@ -485,9 +434,8 @@ description: 腹部、婦產科、血管超音波
 - 部分 RCC 可呈複雜囊性病灶；超聲上的疑慮特徵包括厚分隔、不規則壁增厚及壁結節
 
 > **臨床要點**
-
+>
 > - **腎竇囊腫**：彼此不相通，可藉此與腎積水鑑別
-
 > - **複雜囊性腫塊**：厚分隔、不規則壁增厚或壁結節需警覺
 
 ---
@@ -501,11 +449,9 @@ description: 腹部、婦產科、血管超音波
 - 腎膿瘍為具有明確壁的局灶性壞死性腎實質感染；小於 3 cm 者常先接受保守藥物治療，較大的膿瘍通常需要引流
 
 > **臨床要點**
-
+>
 > - **急性瀰漫性腎盂腎炎**：超聲最常呈正常腎臟
-
 > - **局灶性腎盂腎炎**：低迴聲團塊，缺乏明確壁
-
 > - **腎膿瘍**：具有明確壁；較大者通常需要引流
 
 ---
@@ -520,11 +466,9 @@ description: 腹部、婦產科、血管超音波
 - 自體顯性多囊腎（ADPKD）為成人多發腎囊腫最常見的原因，與肝臟及其他內臟囊腫相關；15% 患者有**囊狀腦動脈瘤（saccular cerebral aneurysm）**，自然病程通常在中年發展為腎衰竭
 
 > **臨床要點**
-
+>
 > - **XGP**：反覆低度感染合併阻塞性結石，造成腎實質纖維脂肪取代
-
 > - **膿腎**：阻塞合併感染，需緊急解除阻塞
-
 > - **ADPKD**：15% 有囊狀腦動脈瘤，通常在中年發展為腎衰竭
 
 ---
@@ -541,13 +485,10 @@ description: 腹部、婦產科、血管超音波
 - 髓質腎鈣化（Medullary Nephrocalcinosis）最常見原因為副甲狀腺機能亢進，其他原因包括遠端腎小管酸中毒、髓質海綿腎及乳頭壞死
 
 > **臨床要點**
-
+>
 > - **移植腎積液時間表**：血腫（立即）、尿囊腫（1-2週）、膿瘍（3-4週）、淋巴囊腫（2月以上）
-
 > - **腎靜脈血栓**：舒張期血流逆轉
-
 > - **腎臟迴聲增強**：HIV腎病之特徵
-
 > - **髓質腎鈣化（Medullary Nephrocalcinosis）**：副甲狀腺機能亢進為最常見原因
 
 ---
@@ -564,11 +505,9 @@ description: 腹部、婦產科、血管超音波
 - 睪丸微鈣化（Testicular Microlithiasis）為多發性點狀睪丸鈣化，與睪丸腫瘤的相對風險增加相關，但整體絕對風險仍然很小
 
 > **臨床要點**
-
+>
 > - **睪丸內團塊**：90-95%惡性
-
 > - **精細胞瘤（Seminoma）**：最常見睪丸惡性腫瘤，低迴聲有血流的異質性團塊
-
 > - **睪丸微鈣化（Testicular Microlithiasis）**：>5個鈣化點為定義
 
 ---
@@ -584,11 +523,9 @@ description: 腹部、婦產科、血管超音波
 - 燃燒型生殖細胞腫瘤（Burnt-out Germ Cell Tumor）為原發性睪丸腫瘤在睪丸內已無活性但常有活性轉移病變，睪丸內特徵為局灶性鈣化伴聲影
 
 > **臨床要點**
-
+>
 > - **NSGCT**：比精細胞瘤更具侵襲性，常見於20-30歲年輕男性
-
 > - **絨毛膜癌（Choriocarcinoma）**：hCG必定升高，早期腦/肺部轉移
-
 > - **Burnt-out Germ Cell Tumor**：睪丸內僅見鈣化，主動轉移需治療
 
 ---
@@ -606,11 +543,9 @@ description: 腹部、婦產科、血管超音波
 - 精索靜脈曲張（Varicocele）為陰囊靜脈擴張，因睪丸靜脈瓣膜功能不全引起，左側常見（85%），因為左側睪丸靜脈引流至左腎靜脈；孤立性右側精索靜脈曲張需排除右側腹膜後團塊
 
 > **臨床要點**
-
+>
 > - **精索靜脈曲張（Varicocele）**：左側85%，孤立性右側需排除腹膜後腫瘤
-
 > - **水囊腫（Hydrocele）**：無症狀，睪丸周圍液體過多
-
 > - **副睪囊腫（Epididymal Cyst）**：副睪丸無回聲囊腫
 
 ---
@@ -626,11 +561,9 @@ description: 腹部、婦產科、血管超音波
 - 陰囊創傷包括血腫（陰囊外腫塊無都卜勒血流）與睪丸破裂（需緊急手術修補以保住睪丸）
 
 > **臨床要點**
-
+>
 > - **睪丸扭轉（Testicular Torsion）**：6小時黃金期，24小時後預後極差
-
 > - **睪丸破裂（Testicular Rupture）**：需要緊急手術修補
-
 > - **段性梗塞（Segmental Infarction）**：楔形低迴聲無血流區
 
 ---
@@ -646,11 +579,9 @@ description: 腹部、婦產科、血管超音波
 - 福尼爾氏壞疽（Fournier Gangrene）為會陰與陰囊的壞死性筋膜炎，為高度致死的手術急症，超聲可見皮下氣體（氣體高迴聲伴髒汙陰影）
 
 > **臨床要點**
-
+>
 > - **附睪炎（Epididymitis）**：附睪腫大、都卜勒血流增加，睪丸血流正常
-
 > - **副睪睪丸炎（Epididymo-orchitis）**：睪丸與附睪血流皆增加
-
 > - **福尼爾氏壞疽（Fournier Gangrene）**：皮下氣體為關鍵發現
 
 ---
@@ -667,11 +598,9 @@ description: 腹部、婦產科、血管超音波
 - 狹窄處PSV升高的鑑別診斷包括：下游狹窄、對側阻塞或嚴重狹窄的代償性血流、健康年輕人的生理性高動態狀態
 
 > **臨床要點**
-
+>
 > - **都卜勒角度原則**：角度越大頻移越小，90度無頻移；測量應<=60度
-
 > - **PSV（峰值收縮速度）**：狹窄評估最準確的方法
-
 > - **角度校正**：θ > 60度測量結果不可靠
 
 ---
@@ -686,13 +615,10 @@ description: 腹部、婦產科、血管超音波
 - 終端舒張速度（EDV）>100 cm/sec 也提示>70%狹窄
 
 > **臨床要點**
-
+>
 > - **PSV >125 cm/sec**：提示>50% ICA狹窄
-
 > - **PSV >230 cm/sec**：提示>70% ICA狹窄
-
 > - **ICA/CCA比值**：>4提示>70%狹窄
-
 > - **終端舒張速度（EDV）**：>100 cm/sec提示>70%狹窄
 
 ---
@@ -706,11 +632,9 @@ description: 腹部、婦產科、血管超音波
 - 阻力指數（RI）升高（>0.7）為非特異性，可見於急性泌尿阻塞或內科腎臟疾病
 
 > **臨床要點**
-
+>
 > - **tardus et parvus波形**：近端狹窄導致，收縮期上升支緩慢
-
 > - **腎臟狹窄PSV標準**：>=180 cm/sec
-
 > - **腎主動脈速度比**：>3.5提示腎臟狹窄
 
 ---
@@ -724,9 +648,8 @@ description: 腹部、婦產科、血管超音波
 - 慢性血栓可能見血栓回縮、血栓顯示不佳、僅部分可壓迫、靜脈壁不規則增厚及明顯側枝靜脈
 
 > **臨床要點**
-
+>
 > - **DVT**：靜脈不可壓迫為核心超聲發現
-
 > - **慢性血栓**：可見血栓回縮、管壁不規則增厚與側枝靜脈
 
 ---
@@ -739,11 +662,9 @@ description: 腹部、婦產科、血管超音波
 - 發現動脈瘤後，應在三個互相垂直的平面測量直徑；軸向直徑 >5.5 cm 應考慮選擇性治療，3–5.5 cm 通常追蹤觀察
 
 > **臨床要點**
-
+>
 > - **AAA 篩檢**：65–79 歲且曾吸菸的男性
-
 > - **>5.5 cm**：考慮選擇性治療
-
 > - **3–5.5 cm**：通常追蹤觀察
 
 ---
@@ -758,11 +679,9 @@ description: 腹部、婦產科、血管超音波
 - 格雷夫斯氏病（Graves disease）可造成甲狀腺瀰漫腫大與粗糙、不均質迴聲；彩色都卜勒的甲狀腺烈火徵（thyroid inferno sign）代表顯著充血
 
 > **臨床要點**
-
+>
 > - **橋本氏甲狀腺炎**：瀰漫性結節樣或粗糙腺體，峽部特徵性增厚
-
 > - **格雷夫斯氏病**：瀰漫腫大與甲狀腺烈火徵
-
 > - **快速增大的結節**：橋本氏甲狀腺炎患者應警覺甲狀腺淋巴瘤
 
 ---
@@ -775,11 +694,9 @@ description: 腹部、婦產科、血管超音波
 - 甲狀腺結節沒有任何單一超聲特徵可確切區分良惡性；實質性結節合併點狀鈣化、不規則邊緣或越高越寬（taller-than-wide）定向時較可疑
 
 > **臨床要點**
-
+>
 > - **亞急性甲狀腺炎**：斑駁低迴聲，無明確結節或充血增加
-
 > - **可疑結節**：實質性、點狀鈣化、不規則邊緣、taller-than-wide
-
 > - **多結節腺體**：可同時包含囊性與實質性結節
 
 ---
@@ -793,11 +710,9 @@ description: 腹部、婦產科、血管超音波
 - 正常副甲狀腺通常無法在超聲看見；副甲狀腺增生時四個腺體皆增大，副甲狀腺腺瘤則為單一功能亢進腺體，必要時可用 Tc-99m sestamibi 掃描定位
 
 > **臨床要點**
-
+>
 > - **乳頭狀甲狀腺癌**：最常見甲狀腺癌，預後最佳
-
 > - **惡性淋巴結**：圓形、不規則邊緣、點狀或中央鈣化
-
 > - **副甲狀腺腺瘤**：單一增大；sestamibi 掃描可輔助定位
 
 ---
@@ -814,11 +729,9 @@ description: 腹部、婦產科、血管超音波
 - 約 20 度的子宮前彎屬正常；子宮後傾或後彎可使經腹部掃描時宮底顯示不佳
 
 > **臨床要點**
-
+>
 > - **Retzius 間隙**：恥骨聯合與膀胱之間的腹膜外潛在間隙
-
 > - **真骨盆與假骨盆**：由終骨線分隔
-
 > - **正常子宮位置**：約 20 度前彎；後傾或後彎可限制宮底顯示
 
 ---
@@ -831,9 +744,8 @@ description: 腹部、婦產科、血管超音波
 - 經腹部掃描中，影像上方為前方、左側朝向頭部；轉為經陰道方向時，矢狀影像需逆時針旋轉 90 度，患者通常先排空膀胱
 
 > **臨床要點**
-
+>
 > - **矢狀面方向**：經腹部與經陰道掃描相差 90 度
-
 > - **經陰道掃描**：通常在排空膀胱後進行
 
 ---
@@ -847,11 +759,9 @@ description: 腹部、婦產科、血管超音波
 - 內膜厚度應在經陰道矢狀面最厚處測量；若內膜腔有液體，應分別測量兩側內膜後相加，不將液體計入
 
 > **臨床要點**
-
+>
 > - **中隔子宮**：最常見，與妊娠流失關聯最高
-
 > - **雙角子宮**：部分融合失敗，形成兩個宮底
-
 > - **雙子宮**：完全融合失敗，形成兩個分離的子宮與宮頸
 
 ---
@@ -863,11 +773,9 @@ description: 腹部、婦產科、血管超音波
 月經期（第 1–4 天）內膜厚度小於 4 mm；早期增生期（第 5–9 天）為 4–8 mm；晚期增生／排卵期（第 10–14 天）為 6–10 mm，呈三層型；分泌期（第 15–28 天）為 7–14 mm，內膜均勻增厚並呈高迴聲。
 
 > **臨床要點**
-
+>
 > - **月經期**：<4 mm
-
 > - **晚期增生期**：6–10 mm，呈三層型
-
 > - **分泌期**：7–14 mm，均勻增厚且迴聲增加
 
 ---
@@ -881,11 +789,9 @@ description: 腹部、婦產科、血管超音波
 - 超過 95% 的內膜癌以停經後出血表現；未出血者停經後內膜應小於 8 mm，停經後出血而內膜小於 5 mm 時，癌症風險極低
 
 > **臨床要點**
-
+>
 > - **內膜瘜肉**：局灶性增厚，可見供應血管
-
 > - **Tamoxifen**：可造成不規則囊性內膜及增加內膜癌風險
-
 > - **停經後出血**：內膜 >5 mm 需進一步評估
 
 ---
@@ -899,11 +805,9 @@ description: 腹部、婦產科、血管超音波
 - 肌瘤典型為稍不均質的低迴聲子宮團塊伴線性聲影
 
 > **臨床要點**
-
+>
 > - **巧克力囊腫**：均勻低層次迴聲與後方透聲增強
-
 > - **子宮腺肌症**：肌層異質、黏膜下囊腫、子宮球形增大
-
 > - **肌瘤**：稍不均質低迴聲團塊伴線性聲影
 
 ---
@@ -918,11 +822,9 @@ description: 腹部、婦產科、血管超音波
 - 子宮動靜脈畸形在灰階與彩色都卜勒可呈增大、不均質且多囊性並有豐富血流的子宮
 
 > **臨床要點**
-
+>
 > - **停經後內膜積液**：評估宮頸狹窄與惡性病變
-
 > - **IUD**：Mirena 伴聲影；傳統 IUD 為高迴聲
-
 > - **子宮 AVM**：多囊性外觀伴豐富彩色都卜勒血流
 
 ---
@@ -938,11 +840,9 @@ description: 腹部、婦產科、血管超音波
 - 第 8–13 天主導卵泡以每日約 2–3 mm 生長，排卵前最大直徑約 2 cm；排卵後形成黃體，液體可使其達約 3 cm
 
 > **臨床要點**
-
+>
 > - **卵巢雙重血供**：卵巢動脈與子宮動脈
-
 > - **輸卵管四段**：間質部、峽部、壺腹部、漏鬥部
-
 > - **排卵後黃體**：可保留液體並達約 3 cm
 
 ---
@@ -956,11 +856,9 @@ description: 腹部、婦產科、血管超音波
 - 出血性囊腫可出現網狀內部迴聲
 
 > **臨床要點**
-
+>
 > - **單純囊腫**：無迴聲、薄壁、後方增強、無內部血流
-
 > - **停經前 >7 cm**：MRI 或手術評估
-
 > - **出血性囊腫**：可見網狀內部迴聲
 
 ---
@@ -973,9 +871,8 @@ description: 腹部、婦產科、血管超音波
 - 多囊性卵巢症候群（PCOS）的超聲標準包括超過 12 個小卵泡（皆不大於 9 mm）及卵巢體積大於 10 mL
 
 > **臨床要點**
-
+>
 > - **OHSS**：不孕治療併發症，增大卵巢合併腹水或胸水
-
 > - **PCOS**：>12 個小卵泡、各 ≤9 mm、卵巢體積 >10 mL
 
 ---
@@ -989,11 +886,9 @@ description: 腹部、婦產科、血管超音波
 - 附屬器扭轉常見增大的卵巢、骨盆游離液與異常都卜勒表現，但因卵巢有雙重血供，即使扭轉仍可能見到血流
 
 > **臨床要點**
-
+>
 > - **腹膜包涵囊腫**：與卵巢密切相關，避免手術
-
 > - **輸卵管積水**：擴張管狀結構伴不完整分隔
-
 > - **附屬器扭轉**：卵巢增大；存在血流不能排除扭轉
 
 ---
@@ -1006,11 +901,9 @@ description: 腹部、婦產科、血管超音波
 - 卵巢惡性腫瘤的可疑超聲特徵包括壁結節、厚或不規則的壁／分隔、實質成分、高彩色都卜勒血流、腹水及乳頭狀突起
 
 > **臨床要點**
-
+>
 > - **皮樣囊腫**：Rokitansky 結節、dot-dash pattern、tip-of-the-iceberg sign
-
 > - **惡性特徵**：壁結節、高血流、厚或不規則分隔、實質成分、腹水
-
 > - **Meigs 症候群**：良性卵巢纖維瘤、腹水及右側胸水
 
 ---
@@ -1027,11 +920,9 @@ description: 腹部、婦產科、血管超音波
 - 卵黃囊通常在 5.5 週可見；可見胚胎卻無心跳時，妊娠失敗風險很高
 
 > **臨床要點**
-
+>
 > - **妊娠囊**：最早的妊娠影像發現
-
 > - **MSD 8 mm**：應可見卵黃囊
-
 > - **MSD 16 mm**：應可見胚胎
 
 ---
@@ -1045,11 +936,9 @@ description: 腹部、婦產科、血管超音波
 - 心率以 M-mode 測量
 
 > **臨床要點**
-
+>
 > - **確定妊娠失敗**：CRL ≥7 mm 無心跳，或可靠孕齡 ≥6.5 週無心跳
-
 > - **心率 <90 bpm**：預後很差
-
 > - **妊娠日期**：CRL 可估算至 12 週，其後使用多項胎兒測量
 
 ---
@@ -1062,9 +951,8 @@ description: 腹部、婦產科、血管超音波
 - 確定妊娠失敗的標準為可靠孕齡 ≥6.5 週而無心跳，或胚胎 CRL ≥7 mm 而無心跳
 
 > **臨床要點**
-
+>
 > - **預後不確定**：使用追蹤超聲，不應過早確診失敗
-
 > - **確定失敗**：可靠孕齡 ≥6.5 週無心跳，或 CRL ≥7 mm 無心跳
 
 ---
@@ -1078,11 +966,9 @@ description: 腹部、婦產科、血管超音波
 - 子宮外妊娠囊若含胚胎或卵黃囊可確診宮外孕；正常宮內妊娠合併正常附屬器則可排除一般宮外孕，但仍需注意極罕見的同時宮內與宮外妊娠
 
 > **臨床要點**
-
+>
 > - **臨床疑似宮外孕**：新驗孕陽性合併疼痛或出血
-
 > - **影像目標**：確認宮內妊娠並檢查附屬器
-
 > - **確診徵象**：子宮外妊娠囊內有胚胎或卵黃囊
 
 ---
@@ -1096,11 +982,9 @@ description: 腹部、婦產科、血管超音波
 - 接受輔助生殖治療者的同時宮內與宮外妊娠風險增加，即使已見宮內妊娠仍應仔細評估附屬器
 
 > **臨床要點**
-
+>
 > - **輸卵管宮外孕**：約 95%；壺腹部占 70%
-
 > - **間質部**：較晚破裂且大量出血風險高
-
 > - **異位合併宮內妊娠**：輔助生殖治療後風險增加
 
 ---
@@ -1115,11 +999,9 @@ description: 腹部、婦產科、血管超音波
 - 連續追蹤 β-hCG 可輔助後續評估
 
 > **臨床要點**
-
+>
 > - **附屬器環且無宮內妊娠**：宮外孕 PPV 95%
-
 > - **附屬器團塊且無宮內妊娠**：宮外孕 PPV 92%
-
 > - **Ring-of-fire sign**：非特異性，不能單獨確診
 
 ---
@@ -1134,11 +1016,9 @@ description: 腹部、婦產科、血管超音波
 - 外觀正常且內膜厚度小於 10 mm 的子宮極不可能有 RPOC
 
 > **臨床要點**
-
+>
 > - **完全性葡萄胎**：無胎兒部分、hCG 顯著升高、暴風雪外觀
-
 > - **部分性葡萄胎**：可有胎兒組織，通常為三倍體
-
 > - **RPOC**：增厚不均質內膜；都卜勒血流並非診斷必要條件
 
 ---
@@ -1156,13 +1036,10 @@ description: 腹部、婦產科、血管超音波
 - 臨床上，超聲確定胎盤類型時，應優先評估兩個胎兒之間的**隔膜厚度**（Di/Di型隔膜較厚，由兩層絨毛膜＋兩層羊膜組成），以及各自是否有獨立的胎盤
 
 > **臨床要點**
-
+>
 > - **絨毛膜性（Chorionicity）**：由受精後第4-8天的分裂時間決定，影響胎盤數量與類型
-
 > - **羊膜性（Ammnionicity）**：由受精後第8-13天的分裂時間決定，影響羊膜腔數量
-
 > - **單卵雙胞胎（Monozygotic twins）**：分裂時間決定胎盤類型，約66%為Mono/Di型，可出現Di/Di（33%）、Mono/Di（66%）或Mono/Mono（1%）
-
 > - **雙卵雙胞胎（Dizygotic twins）**：一定為Di/Di型，兩個獨立受精卵，可能為不同性別
 
 ---
@@ -1176,11 +1053,9 @@ description: 腹部、婦產科、血管超音波
 - 更晚的分裂可能形成連體雙胞胎
 
 > **臨床要點**
-
+>
 > - **Di/Di（33%）**：0–4 天分裂
-
 > - **Mono/Di（66%）**：4–8 天分裂
-
 > - **Mono/Mono（1%）**：超過 8 天分裂
 
 ---
@@ -1196,13 +1071,10 @@ description: 腹部、婦產科、血管超音波
 - 若為同性別雙胞胎且超聲可見兩個明確獨立的胎盤，則高度支持Di/Di的診斷
 
 > **臨床要點**
-
+>
 > - **Dichorionic/Diamniotic（Di/Di）**：兩個獨立胎盤＋兩個獨立羊膜腔，併發症風險最低
-
 > - **隔膜厚度（Inter-twin membrane thickness）**：Di/Di型因兩層絨毛膜＋兩層羊膜，隔膜較厚
-
 > - **兩層絨毛膜＋兩層羊膜**：與Mono/Di型（僅兩層羊膜）相比，厚度差異是超聲鑑別要點
-
 > - **隔膜厚度侷限性**：中晚期時羊膜變薄，隔膜厚度作為絨毛膜性判斷依據的可靠性下降
 
 ---
@@ -1218,13 +1090,10 @@ description: 腹部、婦產科、血管超音波
 - TRAP序列症若不及時干預，供血胎兒因承擔雙倍心輸出量而極易出現心衰竭，預後不良
 
 > **臨床要點**
-
+>
 > - **TRAP序列症（ Twin Reversed Arterial Perfusion Sequence）**：單絨毛膜雙胞胎的嚴重血管併發症
-
 > - **供血胎兒（Donor twin）**：為自身及無心畸胎雙倍供血，心衰竭風險極高
-
 > - **無心畸胎（Acardiac twin）**：上胸腔以上結構發育缺失或原始（如無心、無腦），被動接受反向灌注
-
 > - **反向灌注（Reversed arterial perfusion）**：臍動脈血流反向，都卜勒確診TRAP的核心發現
 
 ---
@@ -1239,13 +1108,10 @@ description: 腹部、婦產科、血管超音波
 - 後續（第10-12週之後），菱腦會向尾側移動至頸部位置，超聲追蹤此結構的位置變化有助於確認胚胎發育正常
 
 > **臨床要點**
-
+>
 > - **頭臀長（Crown-Rump Length, CRL）**：6-12週孕期估算首選參數，誤差僅正負3-5天
-
 > - **前腦（Prosencephalon）**：原始前側腦泡，發育為大腦半球與間腦，超聲冠狀切面可見無回音性結構
-
 > - **菱腦（Rhombencephalon）**：原始後腦結構，發育為小腦與腦橋，矢狀或軸狀切面可見
-
 > - **第一孕期侷限性**：胚胎過小無法完整結構掃描，僅能評估CRL與主要原始解剖構造
 
 ---
@@ -1257,15 +1123,11 @@ description: 腹部、婦產科、血管超音波
 - Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities, and with a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21; the measurement must be performed properly to obtain an accurate value.
 
 > **臨床要點**
-
+>
 > - **與染色體異常的關聯**：頸項透明層增厚與唐氏症及其他染色體異常的風險增加相關。 Increased thickness of the nuchal translucency is associated with increased risk of Down syndrome and other chromosomal abnormalities.
-
 > - **偵測率**：在固定 5% 假陽性率下，單靠頸項透明層可偵測約三分之二的 21 三體症病例。 With a fixed false-positive rate of 5%, nuchal translucency alone can detect approximately two thirds of cases of trisomy 21.
-
 > - **正常值上限**：11 weeks 時正常上限為 2.2 mm；14 weeks（CRL 79 mm）時正常上限為 2.8 mm。 At 11 weeks, the upper limit of normal is 2.2 mm; at 14 weeks (CRL 79 mm), the upper limit of normal is 2.8 mm.
-
 > - **量測條件與影像表現**：應使用高對比的頸項設定（high-contrast nuchal setting），胎頭應填滿大部分螢幕，頸部保持中立位置，羊膜應可見，並在最寬處做內緣對內緣（inner−inner）量測；鼻骨應可見。 The measurement requires the high-contrast nuchal setting, the fetal head should fill most of the screen, the neck should be in neutral position, the amnion should be visible, the inner-to-inner measurement is taken at the widest point, and the nasal bone should be visible.
-
 > - **與母體血清檢測合併**：頸項透明層與母體血清檢測（maternal serum testing）合併，用以計算 21 三體症的整體風險。 Nuchal translucency is combined with maternal serum testing to calculate an overall risk of trisomy 21.
 
 ### 第二、三孕期胎頭測量 / Second and Third Trimester Head Measurements {#第二三孕期胎頭測量--second-and-third-trimester-head-measurements}
@@ -1279,13 +1141,10 @@ description: 腹部、婦產科、血管超音波
 - 值得注意的是，BPD與頭圍（Head Circumference, HC）在生長評估中各有價值：當胎頭形狀異常（例如因頭顱骨的軟骨發育不良導致）時，頭圍較BPD更為可靠
 
 > **臨床要點**
-
+>
 > - **雙頂徑（Biparietal Diameter, BPD）**：第二、三孕期胎兒頭部測量最常用參數
-
 > - **外─內測量法（Outer-to-Inner, OO）**：從靠近探頭側顱骨外緣到遠側顱骨內緣
-
 > - **測量平面**：丘腦（Thalamus）水平中軸切面，應顯示透明隔腔（CSP）與丘腦結構
-
 > - **頭圍（Head Circumference, HC）**：當胎頭形狀異常時，HC較BPD更可靠
 
 ---
@@ -1300,13 +1159,10 @@ description: 腹部、婦產科、血管超音波
 - 需要特別注意的是，AFI作為單一指標存在一定局限性，在臨界值附近時應**結合主觀評估（Subjective assessment）** 進行整體判斷；若臨床表現與AFI數值不一致，應以主觀超聲評估為優先
 
 > **臨床要點**
-
+>
 > - **羊水指數（Amniotic Fluid Index, AFI）**：四個象限最大垂直液性暗區之和，適用於16-42週
-
 > - **羊水過少（Oligohydramnios）**：AFI ≤6.3cm（約第2.5百分位），24週時第2.5百分位為9.0cm
-
 > - **羊水過多（Polyhydramnios）**：AFI ≥19.2cm（約第97.5百分位），36週時第97.5百分位為27.9cm
-
 > - **主觀評估優先（Subjective assessment takes precedence）**：臨界值或臨床不符時，應優先採用主觀超聲評估
 
 ### 胎盤胚胎學與單一臍動脈 / Placental Embryology and Single Umbilical Artery {#胎盤胚胎學與單一臍動脈--placental-embryology-and-single-umbilical-artery}
@@ -1318,13 +1174,10 @@ description: 腹部、婦產科、血管超音波
 - 正常胎盤厚度在妊娠中期約為 2–4 cm，足月時一般不超過 4–5 cm，過厚可能與糖尿病、妊娠滋養層疾病或胎盤血腫有關
 
 > **臨床要點**
-
+>
 > - **絨毛膜絨毛（Chorionic Villi）**：胎盤的 fetal portion，執行母胎氣體與營養交換
-
 > - **單一臍帶動脈（Single Umbilical Artery, SUA）**：雙血管臍帶，50% 與其他畸形相關，Trisomy 13/18 風險增加
-
 > - **胎盤厚度（Placental Thickness）**：正常中期妊娠 2–4 cm，足月不超過 4–5 cm
-
 > - **彩色都卜勒（Color Doppler）**：確診 SUA 的標準工具，確認膀胱旁僅見單一臍帶動脈
 
 ---
@@ -1338,13 +1191,10 @@ description: 腹部、婦產科、血管超音波
 - 真正的完全性前置胎盤（Complete Previa）定義為胎盤組織完全覆蓋宮頸內口，無論胎兒位置為何，均須以剖腹產方式分娩
 
 > **臨床要點**
-
+>
 > - **胎盤邊緣距內口 >3 cm**：正常位置，無需特殊處置
-
 > - **胎盤邊緣距內口 <3 cm**：描述前緣距離內口的實際數值，避免使用不一致的術語
-
 > - **完全性前置胎盤（Complete Previa）**：胎盤完全覆蓋宮頸內口，須剖腹產
-
 > - **部分性/低置性前置胎盤（Partial/Low-Lying Previa）**：術語不統一，臨床建議以測量值溝通
 
 ---
@@ -1358,17 +1208,12 @@ description: 腹部、婦產科、血管超音波
 - 超聲波特徵包括：胎盤後方的無迴聲間隙（Retroplacental Clear Space）消失、子宮漿膜層與膀胱介面連續性中斷、以及「蛀蝕狀胎盤」（Moth-Eaten Placenta），意即胎盤內出現多發性血管腔隙樣（Vascular Lacunar）低迴聲區
 
 > **臨床要點**
-
+>
 > - **胎盤黏連（Placenta Accreta）**：絨毛附著於肌層表面，不入浸肌層
-
 > - **胎盤侵入（Placenta Increta）**：絨毛深入侵入，子宮肌層
-
 > - **胎盤穿透（Placenta Percreta）**：絨毛穿透漿膜層，可達膀胱或腸道
-
 > - **前置胎盤合併剖腹產史**：PAS 高風險組合，術前應充分準備
-
 > - **蛀蝕狀胎盤（Moth-Eaten Placenta）**：PAS 的特異性超聲波徵象，血管腔隙樣低迴聲區
-
 > - **胎盤後方無迴聲間隙消失**：肌層與絨毛界消失，正常應有 1–2 mm 的低迴聲間隙
 
 ---
@@ -1382,13 +1227,10 @@ description: 腹部、婦產科、血管超音波
 - 非免疫性水腫病因多樣，包括原發性心臟異常、心外分流、感染、膠體滲透壓下降、微血管通透性增加及靜脈阻塞
 
 > **臨床要點**
-
+>
 > - **胎兒水腫**：液體過剩狀態，需有至少兩項診斷所見
-
 > - **診斷所見**：腹水、肋膜或心包積液、皮膚增厚、羊水過多、胎盤增大
-
 > - **免疫性水腫**：常由 Rh 抗原相關的胎兒溶血性貧血造成
-
 > - **非免疫性水腫**：病因多樣，預後通常較差
 
 ---
@@ -1404,17 +1246,12 @@ description: 腹部、婦產科、血管超音波
 - 臨床常以羊水指數（Amniotic Fluid Index, AFI）或最大羊水池深度（Single Deepest Pocket, SDP）來量化羊水量
 
 > **臨床要點**
-
+>
 > - **羊水過少（Oligohydramnios）**：AFI <5 cm 或 SDP <2 cm
-
 > - **波特序列（Potter Sequence）**：羊水過少導致肺發育不良、四肢變形與 Potter 面容
-
 > - **羊水過多（Polyhydramnios）**：AFI >24 cm 或 SDP >8 cm
-
 > - **羊水指數（Amniotic Fluid Index, AFI）**：四象限羊水深度總和，正常 5–24 cm
-
 > - **最大羊水池深度（Single Deepest Pocket, SDP）**：單一最深垂直徑，正常 2–8 cm
-
 > - **食道閉鎖（Esophageal Atresia）**：羊水過多合併無法見到胃泡，為常見鑑別診斷
 
 ---
@@ -1429,17 +1266,12 @@ description: 腹部、婦產科、血管超音波
 - 發現側腦室擴大後，應完整掃描胎兒結構與胎兒腦部MRI以排除其他腦發育異常
 
 > **臨床要點**
-
+>
 > - **側腦室寬度正常值**：<10 mm（任何妊娠週數均適用）
-
 > - **輕度擴大（Mild Ventriculomegaly）**：10–12 mm，良性變異率約 80%
-
 > - **中度擴大（Moderate Ventriculomegaly）**：12–15 mm，異常風險顯著增加
-
 > - **重度擴大（Marked Ventriculomegaly）**：>15 mm，預後不良，須全面掃描胎兒結構
-
 > - **懸垂脈絡叢徵（Dangling Choroid Sign）**：腦室擴大時脈絡叢垂離腦室頂端
-
 > - **胎兒腦部 MRI**：側腦室擴大時的補充檢查，評估腦皮層發育
 
 ---
@@ -1454,17 +1286,12 @@ description: 腹部、婦產科、血管超音波
 - 囊性水瘤（Cystic Hygroma）為胎兒頸部的先天性淋巴管發育異常（ Lymphatic Malformation），超聲波下見分隔壁膜的多房性囊腫，好發於後頸部，是胎兒最常見的頸部腫塊；約 50–70% 合併染色體異常（尤其 Turner 症候群與 Trisomy 21）
 
 > **臨床要點**
-
+>
 > - **腦膜膨出（Meningocele）**：僅含腦膜與腦脊液，不含神經組織，預後較佳
-
 > - **腦膜腦膨出（Encephalocele）**：含腦組織，預後較差，常伴 Trisomy 18
-
 > - **囊性水瘤（Cystic Hygroma）**：分隔壁膜的多房性囊腫，50–70% 合併染色體異常
-
 > - **枕部腦膨出（Occipital Cephalocele）**：最常見位置，佔所有腦膨出約 75%
-
 > - ** Turner 症候群（Turner Syndrome）**：45,XO，囊性水瘤的常見染色體病因之一
-
 > - **Trisomy 21（唐氏症候群）**：囊性水瘤常見相關染色體異常
 
 ---
@@ -1478,17 +1305,12 @@ description: 腹部、婦產科、血管超音波
 - HPE 常伴隨中線顏面畸形（如眼球融合Cyclopia、喙鼻Proboscis）及染色體異常，其中以 Trisomy 13（Patau 症候群）最為常見，約佔 50–75% 的中型或重型 HPE 病例
 
 > **臨床要點**
-
+>
 > - **全前腦序列症（Holoprosencephaly, HPE）**：前腦分葉失敗，中線結構融合
-
 > - **融合丘腦（Fused Thalami）**：HPE 的特異性超聲波徵象，矢狀面可見單一丘腦
-
 > - **單一腦室（Monoventricle）**：無側腦室分界的單一原始腦室腔
-
 > - **背側囊（Dorsal Cyst）**：與 monoventricle 相通的大型囊性結構
-
 > - **Trisomy 13（Patau 症候群）**：HPE 最常見的相關染色體異常，佔 HPE 病例 50–75%
-
 > - **無腦畸形（Alobar HPE）**：HPE 最嚴重類型，單一腦室、背側囊與嚴重中線畸形
 
 #### 側腦室水滴狀擴大（Colpocephaly）與胼胝體發育不全 / Colpocephaly and Agenesis of the Corpus Callosum {#側腦室水滴狀擴大colpocephaly與胼胝體發育不全--colpocephaly-and-agenesis-of-the-corpus-callosum}
@@ -1498,15 +1320,11 @@ description: 腹部、婦產科、血管超音波
 - Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum; because the normal corpus callosum is not always visualized on ultrasound, the diagnosis often relies on secondary abnormal morphology of the ventricular system.
 
 > **臨床要點**
-
+>
 > - **診斷上的困難與 CSP 缺失**：胼胝體缺失很難診斷，因為正常胼胝體在超聲上不一定看得到，常需依賴腦室系統的次級異常形態；透明隔腔（CSP）缺失與胼胝體發育不全相關。 Absence of the corpus callosum can be a difficult diagnosis to make; because the normal corpus callosum is not always visualized on ultrasound, it is often necessary to rely on secondary abnormal morphology of the ventricular system, and absence of the cavum septum pellucidum (CSP) is associated with agenesis of the corpus callosum.
-
 > - **水滴狀側腦室形態**：側腦室呈異常水滴狀形態並伴隨枕角擴大，即 colpocephaly，與胼胝體發育不全相關，且常與腦室擴大（ventriculomegaly）同時出現。 Abnormal teardrop morphology of the lateral ventricles with dilated occipital horns, known as colpocephaly, is associated with absence of the corpus callosum, and colpocephaly is often seen together with ventriculomegaly.
-
 > - **額角分離與平行走向**：側腦室額角分離過寬，以及側腦室呈平行排列，兩者都提示胼胝體發育不全。 Widely separated ventricular frontal horns and parallel configuration of the lateral ventricles both suggest agenesis of the corpus callosum.
-
 > - **Probst 束與中線囊腫**：Probst 束是正常構成胼胝體的軸突，胼胝體發育不全時不跨越中線，而沿大腦半球間裂平行走行並壓跡側腦室內側緣，連同扣帶回（cingulate gyrus）造成內側緣呈凹形；中線大腦半球間囊腫可存在，代表第三腦室向上疝出。 The medial borders of the lateral ventricles may be concave, due to protrusion of Probst bundles and the cingulate gyrus; in agenesis the Probst bundles do not cross the midline but pursue an aberrant course parallel to the interhemispheric fissure, indenting the medial margin of the lateral ventricles, and a midline interhemispheric cyst may represent superior herniation of the third ventricle.
-
 > - **影像表現**：側腦室呈 colpocephalic 形態，枕角擴大呈水滴狀（以卡尺標示），側腦室內側緣呈凹形（以箭頭標示）代表 Probst 束的突出，腦室走向與大腦鐮刀平行。 The lateral ventricle has a colpocephalic configuration with a dilated teardrop-shaped occipital horn (calipers), a concave medial border (arrows) of the lateral ventricle representing protrusion of Probst bundles, and the ventricle oriented parallel to the falx.
 
 ---
@@ -1523,17 +1341,12 @@ description: 腹部、婦產科、血管超音波
 脈（Middle Cerebral Artery, MCA）阻塞或宮內感染（如巨細胞病毒）所致；超聲波下可見大腦皮層組織完全消失或極度變薄，僅剩腦幹與小腦保留，由 MCA 分布區域的無迴聲液體所取代。
 
 > **臨床要點**
-
+>
 > - **透明隔腔（Cavum Septum Pellucidum, CSP）**：胎兒 18–37 週應恆可見
-
 > - **胼胝體發育不全（Agenesis of Corpus Callosum, ACC）**：CSP 缺失的最常見病因
-
 > - **透明隔-眼發育不全序列症（Septo-Optic Dysplasia）**：CSP 缺失但胼胝體存在，須 MRI 確診
-
 > - **積水無腦畸形（Hydranencephaly）**：大腦皮層全面破壞，MCA 分布區被液體取代
-
 > - **大腦中動脈阻塞（MCA Occlusion）**：積水無腦畸形的常見病因之一
-
 > - **冠狀切面「牛眼」徵（Bull's Eye Sign）**：ACC 時側腦室與第三腦室的特徵性表現
 
 ---
@@ -1549,17 +1362,12 @@ description: 腹部、婦產科、血管超音波
 - 肺發育不良的嚴重程度是影響 CDH 出生後預後的最重要因素
 
 > **臨床要點**
-
+>
 > - **心臟軸向（Cardiac Axis）**：異常軸向為胸腔病變的重要線索
-
 > - **先天性橫膈疝氣（Congenital Diaphragmatic Hernia, CDH）**：腹臟經橫膈缺損進入胸腔
-
 > - **Bochdalek 孔疝氣（Left Posterolateral CDH）**：最常見類型，佔 85–90%，左側為主
-
 > - **胃泡異位（Intrathoracic Gastric Bubble）**：CDH 的特異性超聲波徵象
-
 > - **肺發育不良（Pulmonary Hypoplasia）**：CDH 最重要的預後因素
-
 > - **心臟偏移（Mediastinal Shift）**：胸腔內佔位導致心臟推向對側
 
 ---
@@ -1575,17 +1383,12 @@ description: 腹部、婦產科、血管超音波
 - 超聲波徵象包括：羊水過多（因無法吞嚥羊水）、口腔至胃之間無連續性可見（Nasogastric Tube 不能進入胃部）以及掃描中無法見到胃泡（Gastric Bubble Absence），但若合併遠端 TEF，少量液體仍可經瘻管進入胃部，使胃泡淺見或延遲出現
 
 > **臨床要點**
-
+>
 > - **先天性高位呼吸道阻塞症候群（CHAOS）**：致死性，雙側腫大高迴聲肺
-
 > - **食道閉鎖（Esophageal Atresia）**：盲端食道，85% 合併氣管食道瘻管（TEF）
-
 > - **氣管食道瘻管（Tracheoesophageal Fistula, TEF）**：食道閉鎖最常見的合併異常
-
 > - **胃泡消失（Gastric Bubble Absence）**：食道閉鎖的特異性超聲波徵象
-
 > - **羊水過多（Polyhydramnios）**：胎兒無法吞嚥羊水，為消化道阻塞的常見表現
-
 > - **CHAOS 的典型超聲波所見**：雙側對稱性高迴聲肺、心臟中央位置、橫膈上升
 
 ---
@@ -1603,11 +1406,9 @@ description: 腹部、婦產科、血管超音波
 - 高回聲腸管（hyperechoic small bowel）為非特異性徵象，與唐氏症相關，其他原因包括 TORCH 感染、囊性纖維化與吞入羊水內血液
 
 > **臨床要點**
-
+>
 > - **Omphalocele**：最常見前腹壁缺損，臍帶插入於囊底正中，50–75% 合併其他異常
-
 > - **Gastroschisis**：臍旁缺腸管疝出無腹膜覆蓋，腸圈呈分葉狀，多為孤立性
-
 > - **胎便性腹膜炎**：胎內腸穿孔，最終形成營養不良性鈣化
 
 ---
@@ -1623,11 +1424,9 @@ description: 腹部、婦產科、血管超音波
 - 胎兒水腎的篩檢用於評估可治療的病因（阻塞或逆流）；以腎盂軸徑測量，正常範圍隨孕週而異：小於 4 mm 永遠正常、≥10 mm 永遠異常；20 週後 5–9 mm 為可疑，20–30 週 ≥8 mm、16–20 週 ≥6 mm 為異常
 
 > **臨床要點**
-
+>
 > - **羊水過少**：需完整評估胎兒泌尿生殖系統
-
 > - **膀胱不可見**：提示腎臟異常（多囊性異生腎、腎 agenesis、ARPKD）
-
 > - **胎兒水腎量測**：<4 mm 正常、≥10 mm 異常，20–30 週 ≥8 mm 為異常
 
 ---
@@ -1643,15 +1442,11 @@ description: 腹部、婦產科、血管超音波
 - 影像上可見多個互不相通的囊腫與異生腎實質交錯分布；與腎積水不同之處在於 MCDK 的囊腫不與 Collecting System 相通，且其自然病程為逐漸退化（Involution）
 
 > **臨床要點**
-
+>
 > - **後尿道瓣膜（Posterior Urethral Valves）**：後尿道擴張形成鑰匙孔徵，膀胱增大壁增厚
-
 > - **水輸尿管腎積水與羊水過少**：後尿道瓣膜的典型合併表現
-
 > - **ARPKD**：腎臟極大且高回聲，囊腫過小無法解析，預後不佳，常合併肝臟纖維化
-
 > - **MCDK**：多個互不相通的囊腫與異生腎實質交錯，與腎積水之別在於不與 Collecting System 相通
-
 > - **MCDK 預後**：單側且無其他異常時預後極佳，雙側可能致命
 
 ---
@@ -1667,15 +1462,11 @@ description: 腹部、婦產科、血管超音波
 - 骶尾部畸胎瘤（Sacrococcygeal Teratoma）為骶骨 germ cell tumor，產前常以混合性實質與囊狀的複雜腫塊表現，並可能合併高輸出量心臟衰竭；遠端胎兒脊髓腫塊的主要鑑別診斷為脊髓脊膜膨出（Myelomeningocele），後者伴隨脊椎異常與背側皮膚缺損
 
 > **臨床要點**
-
+>
 > - **成骨不全症（OI）**：I 型膠原蛋白異常、多發性骨折、長骨與肋骨「皺縮」外觀、骨質礦化**下降**
-
 > - **致死型 OI（第 2 型）**：第二孕期即可診斷
-
 > - **致死性骨骼發育不全（Thanatophoric Dysplasia）**：電話聽筒狀股骨、椎體扁平台狀、三葉草狀顱骨，骨質礦化**正常**
-
 > - **骶尾部畸胎瘤**：混合性實質與囊狀腫塊，可合併高輸出量心臟衰竭
-
 > - **與脊髓脊膜膨出的鑑別**：後者有脊椎異常與背側皮膚缺損
 
 ---
@@ -1689,13 +1480,10 @@ description: 腹部、婦產科、血管超音波
 - **Trisomy 18** 的超聲波所見包含：脈絡膜叢囊腫（Choroid Plexus Cyst，圖中可見巨大囊腫幾乎取代整個脈絡膜）、顏面裂（Facial Cleft，3D 超聲可見唇裂）、小頜症（Micrognathia）、心臟異常、臍帶疝、先天性橫膈疝氣、馬蹄形腎、腎積水、握拳不開且手指重疊（Clenched Hand That Never Opens）、搖椅腳（Rocker Bottom Feet），以及「草莓徵（Strawberry Sign）」——額骨向內彎曲使顱蓋呈現草莓狀，尖端朝前突出
 
 > **臨床要點**
-
+>
 > - **哨兵徵象（Sentinel Finding）**：臍帶疝可提示 Trisomy 13、Trisomy 18 或 Beckwith–Wiedemann 症候群
-
 > - **Trisomy 13**：全前腦畸形、腦膨出、多指症、多囊性腎、馬蹄形腎
-
 > - **Trisomy 18**：脈絡膜叢囊腫、顏面裂、小頜症、握拳不開、搖椅腳、草莓徵
-
 > - **草莓徵（Strawberry Sign）**：額骨內彎使顱蓋呈草莓狀，尖端朝前
 
 ---
@@ -1711,15 +1499,11 @@ description: 腹部、婦產科、血管超音波
 - 最後，**新生兒腦部影像**（Germinal Matrix Hemorrhage）：胚芽層是位於尾狀丘腦溝（Caudothalamic Groove）的神經前驅細胞所在位置，其出血分為四級：第一級為出血侷限於胚芽層內；第二級為出血延伸入腦室但無腦室擴大；第三級為出血延伸入腦室並伴隨腦室擴大；第四級為出血自腦室延伸進入腦實質
 
 > **臨床要點**
-
+>
 > - **頸項褶皺 >6 mm（15–21 週）**：Trisomy 21 最敏感且最特異的超聲波所見
-
 > - **Trisomy 21 其他所見**：鼻骨骨化缺失、高回聲腸道、十二指腸閉鎖症、心內高回聲點、沙漏腳趾
-
 > - **Beckwith–Wiedemann 症候群**：過度生長、巨舌、半側肥大；威爾姆氏瘤與肝母細胞瘤風險增加，每 3 個月追蹤至 8 歲
-
 > - **Meckel–Gruber 症候群**：腦膨出、腎異生（高回聲腎）、多指症
-
 > - **胚芽層出血分級**：I 侷限於胚芽層；II 延伸入腦室無腦室擴大；III 延伸入腦室伴腦室擴大；IV 延伸入腦實質
 
 ---

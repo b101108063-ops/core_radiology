@@ -32,15 +32,11 @@ description: 腎上腺、腎臟、輸尿管、膀胱、生殖器官
 ---
 
 > **臨床要點**
-
+>
 > - 腎臟是後腹腔最重要的器官之一，位於**腎周間隙**內
-
 > - 腎臟腫塊的評估首要確定**是否存在強化**（最重要的良惡性區分特徵）
-
 > - **非增強 CT 衰減值 ≤10 HU** 的腎上腺結節可直接診斷為腺瘤
-
 > - 腎臟囊性病變使用 **Bosniak 分類** 指導臨床管理
-
 > - 理解腎臟的解剖位置和周圍筋膜結構對疾病擴散評估至關重要
 
 ## 後腹腔 / Retroperitoneum {#後腹腔--retroperitoneum}
@@ -71,15 +67,11 @@ description: 腎上腺、腎臟、輸尿管、膀胱、生殖器官
 | **後腎筋膜（Zuckerkandl's fascia）** | 腎臟後方 |
 
 > **臨床要點**
-
+>
 > - 後腹腔由三個筋膜隔分為三個間室
-
 > - 腎上腺和腎臟位於**腎周間隙**內
-
 > - 胰臟和結腸位於**腎旁前間隙**內
-
 > - **腎旁後間隙**為潛在空間，是炎症或腫瘤擴散的途徑
-
 > - 理解後腹腔間隙結構對於追蹤疾病擴散路徑至關重要
 
 ### 後腹腔腫瘤 / Retroperitoneal Tumors {#後腹腔腫瘤--retroperitoneal-tumors}
@@ -182,11 +174,9 @@ description: 腎上腺、腎臟、輸尿管、膀胱、生殖器官
 ---
 
 > **臨床要點**
-
+>
 > - **脂肪肉瘤**：最常見原發性後腹腔腫瘤；分化良好型以脂肪衰減為主；侵襲性亞型可無明顯脂肪
-
 > - **後腹腔纖維化**：軟組織腫塊圍繞主/下肢血管；特徵為**不抬高主動脈**（區別於惡性淋巴結病）；常引起輸尿管阻塞
-
 > - **後腹腔三大常見腫瘤**：脂肪肉瘤（最常見）、平滑肌肉瘤、惡性纖維組織細胞瘤
 
 ## 腎上腺 / Adrenal Glands {#腎上腺--adrenal-glands}
@@ -251,15 +241,11 @@ description: 腎上腺、腎臟、輸尿管、膀胱、生殖器官
 ---
 
 > **臨床要點**
-
+>
 > - 腎上腺皮質分泌三種激素：醛固酮（球狀帶）、糖皮質激素（束狀帶）、雄激素（網狀帶）
-
 > - 腎上腺髓質分泌兒茶酚胺
-
 > - **康恩綜合徵**：小腎上腺腺瘤引起醛固酮過剩 → 高血壓 + 低血鉀
-
 > - **庫欣綜合徵**：皮質醇過剩，可來自腎上腺腺瘤或異位 ACTH
-
 > - **嗜鉻細胞瘤**：兒茶酚胺過剩，典型表現為陣發性高血壓、頭痛、出汗
 
 ### 腎上腺功能減退 / Adrenal Hypofunction {#腎上腺功能減退--adrenal-hypofunction}
@@ -341,15 +327,11 @@ description: 腎上腺、腎臟、輸尿管、膀胱、生殖器官
 ---
 
 > **臨床要點**
-
+>
 > - **≤10 HU（非增強 CT）= 富含脂肪型腺瘤**，直接確診，無需隨訪
-
 > - **>10 HU + 需確診** → 腎上腺 washout CT 或化學位移 MRI
-
 > - **絕對 washout >60%** = 腺瘤
-
 > - 反相位 MRI：腺瘤訊號抑制（丟失），轉移瘤通常不抑制
-
 > - **碰撞瘤**：已有腺瘤 + 近期增大/不均質 → 需警惕轉移
 
 ### 腎上腺 Washout CT / Adrenal Washout CT {#腎上腺-washout-ct--adrenal-washout-ct}
@@ -417,15 +399,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **Washout CT 診斷流程：** 非增強 → 增強（60 秒）→ 延遲（15 分鐘）
-
 > - **>60% 絕對 washout = 腺瘤**（即使 >10 HU）
-
 > - **>40% 相對 washout**（無非增強時）= 腺瘤
-
 > - 15 分鐘 washout 敏感性優於 10 分鐘
-
 > - 不確定性病灶且臨床需確診時：化學位移 MRI 或活檢
 
 ### 良性腎上腺腫塊 / Benign Adrenal Masses {#良性腎上腺腫塊--benign-adrenal-masses}
@@ -509,11 +487,9 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **骨髓脂肪瘤：** 含有巨觀脂肪 = 幾乎特異性診斷；與脂肪肉瘤的區別在於起源位置
-
 > - **腎上腺囊腫：** 內皮囊腫最常見（45%）；假性囊腫與出血相關
-
 > - 囊性與實性腎上腺腫塊的鑑別首要依靠**強化特徵**
 
 ### 惡性（或潛在惡性）腎上腺腫塊 / Malignant (or Potentially Malignant) Adrenal Masses {#惡性或潛在惡性腎上腺腫塊--malignant-or-potentially-malignant-adrenal-masses}
@@ -584,13 +560,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **嗜鉻細胞瘤：「10% 規則」— 10% 腎上腺外、10% 雙側、10% 惡性、10% 家族性**
-
 > - 典型 MRI 表現：**T2 高訊號**（亮訊號）
-
 > - **膀胱副神經節瘤：** 排尿後暈厥為特徵性臨床表現
-
 > - MEN 2A/2B、von Hippel-Lindau、神經纖維瘤病 1 型需排除嗜鉻細胞瘤
 
 ### 惡性腎上腺腫塊（續） / Malignant Adrenal Masses (continued) {#惡性腎上腺腫塊續--malignant-adrenal-masses-continued}
@@ -733,15 +706,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **腎上腺皮質癌：** 極罕見（1/1,000,000）；66% 功能性；大型異質性腫塊伴壞死/出血
-
 > - **轉移瘤：** >25% 癌症患者屍檢有腎上腺轉移；肺癌和黑色素瘤最常見
-
 > - **腎上腺出血：** 右側多見；抗凝治療後前幾週；無強化、隨訪縮小；需與新發腫瘤鑑別
-
 > - **腎上腺增生：** 雙側增大，由應激或異位 ACTH 引起
-
 > - **腎上腺鈣化：** 很少引起功能減退；常見於肉芽腫性疾病、結核、組織胞漿菌病
 
 ## 腎臟 / Kidneys {#腎臟--kidneys}
@@ -807,19 +776,13 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **三時相 CT 方案：** 非增強 → 腎實質期（100秒）→ 腎盂期（15分鐘）
-
 > - **強化是區分良惡性的最重要特徵：**
-
 > - <10 HU（CT）= 無強化
-
 > - 10-19 HU = 不確定
-
 > - **≥20 HU = 明確強化**
-
 > - **腎盂期可鑑別腎積水（顯影）與腎竇囊腫（不顯影）**
-
 > - 小於 6 mm 的病變（3 mm 層厚時）無法準確特徵分析
 
 ### 實性腎臟腫塊 / Solid Renal Masses {#實性腎臟腫塊--solid-renal-masses}
@@ -888,15 +851,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **腎細胞癌：** 佔所有癌症 2-3%；透明細胞型最常見（75%）
-
 > - ** Robson 分期：** I 期（包膜內）→ II 期（筋膜內）→ III 期（血管/淋巴結）→ IV 期（筋膜外/遠處轉移）
-
 > - **乳頭狀 RCC：** 乏血供，預後較好（80-90% 存活率）
-
 > - **髓質癌：** 極具侵襲性，與鐮狀細胞特質相關，平均存活僅 15 個月
-
 > - **VHL 綜合徵患者：** 需定期篩查 RCC
 
 ### 血管平滑肌脂肪瘤 / Angiomyolipoma (AML) {#血管平滑肌脂肪瘤--angiomyolipoma-aml}
@@ -963,15 +922,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **巨觀脂肪** = AML 的特異性診斷標準（非鈣化性腎臟病變中）
-
 > - **≥4 cm** AML 出血風險增加
-
 > - **結節性硬化症患者**：40% 伴有 AML，需定期監測
-
 > - **乏脂肪 AML（4%）**：需 MRI 進一步評估；T2 高訊號提示透明細胞型 RCC
-
 > - 超音波高回聲不可靠（1/3 RCC 也可呈高回聲）
 
 ### 嗜酸細胞瘤與腎臟淋巴瘤 / Oncocytoma and Renal Lymphoma {#嗜酸細胞瘤與腎臟淋巴瘤--oncocytoma-and-renal-lymphoma}
@@ -1036,13 +991,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **嗜酸細胞瘤：** 最常切除的良性腎臟腫塊；均勻強化 + 中央疤痕提示但不能確診；影像學無法與 RCC 可靠區分
-
 > - **腎臟淋巴瘤：** 原發性罕見；多發結節為最常見模式（50%）；需與 RCC 鑑別
-
 > - **局灶性腎盂腎炎：** 可模擬實性腎臟腫塊
-
 > - **腎 AVM：** 增強明顯，注意不對稱腎靜脈強化（早期短路表現）
 
 ### 腎臟假性腫塊與綜合徵相關腎臟腫塊 / Renal Pseudotumors and Syndromic Renal Masses {#腎臟假性腫塊與綜合徵相關腎臟腫塊--renal-pseudotumors-and-syndromic-renal-masses}
@@ -1092,15 +1044,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **貝爾坦柱肥大**和**胎兒分葉持續存在**是常見的腎臟假性腫塊，避免不必要的活檢
-
 > - **VHL：** 3 號染色體突變；雙側/多灶性透明細胞型 RCC + 嗜鉻細胞瘤；CNS 血管母細胞瘤
-
 > - **Birt-Hogg-Dube：** 多發性腎嗜酸細胞瘤 + 皮膚病變 + 肺囊性疾病
-
 > - **結節性硬化症：** 多發性雙側 AML（50%）；心臟橫紋肌肌瘤；肺部淋巴管肌瘤病
-
 > - 所有三種綜合徵均增加 **RCC 風險**，需定期監測
 
 ### 囊性腎臟腫塊的鑑別診斷 / Approach to a Cystic Renal Mass {#囊性腎臟腫塊的鑑別診斷--approach-to-a-cystic-renal-mass}
@@ -1192,15 +1140,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - 囊性腎臟腫塊常見病因：**RCC** 和**腎膿腫**
-
 > - **單純性腎囊腫**：50 歲以上患者 50% 可見；無需隨訪
-
 > - **高密度囊腫**：>70 HU（CT 非增強）= 良性；無非增強圖像時無法確診
-
 > - MRI 對 **Bosniak IIF vs III** 的區分比 CT 更準確
-
 > - **腎盂旁囊腫**（大、單發）vs **腎竇周囊腫**（小、多發）的鑑別
 
 ### 囊性腎臟腫塊的 Bosniak 分類 / Bosniak Classification of Cystic Renal Masses {#囊性腎臟腫塊的-bosniak-分類--bosniak-classification-of-cystic-renal-masses}
@@ -1287,15 +1231,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **Bosniak I 和 II**：良性，無需隨訪
-
 > - **Bosniak IIF**：需影像隨訪；區別於 III 類的關鍵是無「可測量強化」
-
 > - **Bosniak III**：牆壁/隔膜增厚且有「可測量強化」；但仍可能為良性（感染、多房囊性腎瘤）
-
 > - **Bosniak IV**：與壁/隔膜分開的「強化結節」= 明顯惡性
-
 > - 分類基於形態學，非大小
 
 ### 多囊性腎臟疾病與腎細胞癌風險 / Multicystic Renal Disease and Risk for Renal Neoplasm {#多囊性腎臟疾病與腎細胞癌風險--multicystic-renal-disease-and-risk-for-renal-neoplasm}
@@ -1385,13 +1325,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **ADPKD：** 長期透析患者 10% 的病因；三四十歲發病；一半患者有顱內囊狀動脈瘤
-
 > - **後天囊性腎病：** 透析患者 RCC 風險增加（2-3%）
-
 > - **腎盂腎炎：** 最常見腎臟細菌感染；影像學 75% 可能正常；單側腎臟增大需考慮
-
 > - **條紋狀腎造影：** 非特異性，需結合臨床鑑別腎盂腎炎、腎梗塞、腫瘤等
 
 ### 腎臟感染（續） / Renal Infections (continued) {#腎臟感染續--renal-infections-continued}
@@ -1527,15 +1464,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **腎積膿：** 感染的阻塞集合系統；緊急經皮腎造口引流
-
 > - **腎膿腫：** <3 cm 保守治療；≥3 cm 穿刺引流
-
 > - **氣腫性腎盂腎炎：** 糖尿病患者；氣體取代腎實質；外科急症
-
 > - **黃色肉芽腫性腎盂腎炎：** 鹿角結石 + 腎實質脂肪替代 + 熊爪徵；腎切除術
-
 > - **腎結核：** 乳頭壞死、漏鬥部狹窄、膏狀腎
 
 ### 泌尿系統結石 / Nephrolithiasis and Ureterolithiasis {#泌尿系統結石--nephrolithiasis-and-ureterolithiasis}
@@ -1617,15 +1550,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **含鈣結石**佔所有泌尿系統結石的 73%
-
 > - **軟組織邊緣徵**有助於區分靜脈石與輸尿管結石
-
 > - **POSTCARD 記憶法**：腎盂腎炎、阻塞、鐮狀細胞病、結核、肝硬化、鎮痛劑、腎靜脈血栓、糖尿病
-
 > - **乳頭壞死三徵**：球在球座上徵、龍蝦爪徵、印章環徵
-
 > - 印章環徵：脫落乳頭被造影劑環繞
 
 ### 延遲（持續）腎造影與髓質腎鈣化 / Delayed Nephrogram and Medullary Nephrocalcinosis {#延遲持續腎造影與髓質腎鈣化--delayed-nephrogram-and-medullary-nephrocalcinosis}
@@ -1698,11 +1627,9 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **延遲腎造影：** 單側見於急性阻塞、腎靜脈血栓、腎動脈狹窄；雙側見於雙側阻塞、造影劑腎病、低血壓、骨髓瘤腎病
-
 > - **髓質腎鈣化：** 髓質錐體鈣化；常見於甲狀旁腺功能亢進、海綿腎、遠端 RTA
-
 > - **皮質腎鈣化：** 腎皮質鈣化；常見於慢性腎小球腎炎
 
 ### 皮質腎鈣化與皮質壞死 / Cortical Nephrocalcinosis and Cortical Necrosis {#皮質腎鈣化與皮質壞死--cortical-nephrocalcinosis-and-cortical-necrosis}
@@ -1758,11 +1685,9 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **皮質腎鈣化：** 皮質外周鈣化，髓質不受累；常見於慢性腎小球腎炎、急性皮質壞死
-
 > - **皮質壞死：** 急性缺血性皮質損傷；高達 50% 進展為慢性腎衰竭
-
 > - 兩者關係：皮質壞死可導致皮質腎鈣化
 
 ### 腎外造影劑與腎創傷 / Extracalyceal Contrast Medium and Renal Trauma {#腎外造影劑與腎創傷--extracalyceal-contrast-medium-and-renal-trauma}
@@ -1805,13 +1730,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **Grade I 最常見（95%）**，多為腎挫傷
-
 > - **Grade III 陷阱：** 集合系統的血塊初期可能阻止尿液外滲，但血塊被尿激酶溶解後可能延遲發生尿液外滲
-
 > - **創傷性腎動脈血栓：** 缺血 2 小時後腎功能永久喪失
-
 > - **Page kidney：** 數月後發生高血壓；包膜下血腫壓迫；穿刺引流可能有效
 
 ## 輸尿管 / Ureter {#輸尿管--ureter}
@@ -1884,13 +1806,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **CTU 為評估血尿的首選檢查**
-
 > - **泌尿道上皮癌（TCC）** 是最常見的輸尿管惡性腫瘤，可多灶性發生
-
 > - 膀胱同步評估至關重要
-
 > - 成人（≥40 歲）三時相 CTU；年輕患者可採用 split-bolus 方案降低輻射
 
 ### 良性輸尿管腫塊與發炎性疾病 / Benign Ureteral Masses and Inflammatory / Infectious Ureteral Disease {#良性輸尿管腫塊與發炎性疾病--benign-ureteral-masses-and-inflammatory--infectious-ureteral-disease}
@@ -1962,15 +1881,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **纖維上皮息肉：** 最常見的良性輸尿管腫瘤；有長柄，近端輸尿管好發
-
 > - **囊性輸尿管炎：** 無惡性潛能；多個微小充盈缺損
-
 > - **軟化斑：** 中年女性；遠端輸尿管多個扁平缺損
-
 > - **輸尿管結核：** 多灶性狹窄為特徵
-
 > - **泌尿道上皮癌是輸尿管充盈缺損的首要擔憂**
 
 ### 結構性輸尿管病變 / Structural Ureteral Lesions {#結構性輸尿管病變--structural-ureteral-lesions}
@@ -2034,15 +1949,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **UPJ 阻塞：** 腎盂擴張 + 正常口徑輸尿管；先天性或後天性
-
 > - **輸尿管囊腫：** 膀胱內輸尿管末端囊性擴張
-
 > - **原位性：** 成人，無症狀，通常不需要治療
-
 > - **異位性：** 兒童，與重複集合系統相關
-
 > - **假性輸尿管囊腫：** 輸尿管套疊入膀胱，需找出根本原因（腫瘤、結石、放射性）
 
 ## 膀胱 / Bladder {#膀胱--bladder}
@@ -2085,15 +1996,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - 膀胱是泌尿系統的重要儲尿器官，位於骨盆腔內
-
 > - 膀胱腫瘤以**泌尿道上皮癌（Transitional cell carcinoma）**最常見
-
 > - 膀胱炎症可分為急性和慢性，影像學表現各異
-
 > - 膀胱創傷的評估首選 **CT 膀胱造影**
-
 > - 理解膀胱的解剖結構和周圍組織關係對疾病診斷至關重要
 
 ### 膀胱疾病 / Bladder Disorders {#膀胱疾病--bladder-disorders}
@@ -2139,13 +2046,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **膀胱 TCC**：最常見膀胱癌；無痛性血尿；70% 非肌肉浸潤（內視鏡切除）；25% 浸潤性（膀胱切除）
-
 > - **膀胱腺癌**：罕見；與臍尿管殘餘相關
-
 > - 偏離中線的膀胱結石：需注意是否有膀胱腫瘤或前列腺增大推移
-
 > - 臨床上懷疑膀胱癌時，CTU 陰性不能免除膀胱鏡檢查
 
 ### 膀胱創傷 / Bladder Trauma {#膀胱創傷--bladder-trauma}
@@ -2196,13 +2100,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **CT 膀胱造影**：膀胱完全充盈（≥350 mL）是評估膀胱破裂的關鍵
-
 > - **腹膜外破裂**（最常見）vs **腹膜內破裂**：前者與骨盆骨折相關，保守治療；後者需手術修復
-
 > - **Molar tooth sign**：腹膜外破裂的特徵性表現（倒 U 形對比劑外滲至 Retzius 間隙）
-
 > - 男性創傷患者：如有尿道口出血或肉眼血尿，先行 **RUG** 再放 Foley 導管
 
 ### 腹膜內膀胱破裂 / Intraperitoneal Bladder Rupture {#腹膜內膀胱破裂--intraperitoneal-bladder-rupture-1}
@@ -2255,13 +2156,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **腹膜內膀胱破裂：** 膀胱頂部破裂；對比劑在腸曲之間交錯；**手術治療**
-
 > - **腹膜外膀胱破裂：** 對比劑在 Retzius 間隙（磨牙徵）；**保守治療**
-
 > - 創傷時對比劑外滲至腸曲之間 = 腹膜內破裂的診斷標準
-
 > - 創傷患者出現休克腸（腸道黏膜高強化和增厚）提示急性低血容量
 
 ## 尿道 / Urethra {#尿道--urethra}
@@ -2303,13 +2201,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **後尿道：** 前列腺部（移行上皮）和膜部（含外括約肌）
-
 > - **前尿道：** 球部（淋病性狹窄好發）和陰莖部（導尿後狹窄好發）
-
 > - **精阜：** 射精管口位置，也是後尿道瓣膜的阻塞部位
-
 > - **導尿後狹窄**常見於陰莖-陰囊交界處
 
 ### 男性尿道的影像學 / Imaging of the Male Urethra {#男性尿道的影像學--imaging-of-the-male-urethra}
@@ -2372,13 +2267,10 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **RUG** 最佳評估前尿道；**VCUG** 最佳評估後尿道
-
 > - **淋病性狹窄**和**騎跨傷狹窄**好發於**球部**；**導尿後狹窄**好發於**陰莖-陰囊交界處**
-
 > - **Type III 尿道損傷**最常見，球膜部破裂，對比劑外滲至骨盆和會陰
-
 > - 創傷時懷疑尿道損傷：先 RUG，確診後放置恥骨上導管
 
 ### 女性尿道 / Female Urethra {#女性尿道--female-urethra}
@@ -2435,11 +2327,9 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **女性尿道**不分段；Skene 腺與男性前列腺同源
-
 > - **尿道憩室：** 排尿後滴瀝 + 尿道疼痛；Skene 腺感染後腺體擴張；可並發結石和腺癌
-
 > - MRI 矢狀位和冠狀位可清晰顯示憩室與尿道的關係
 
 ## 前列腺 / Prostate {#前列腺--prostate}
@@ -2452,15 +2342,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - From an imaging standpoint, there are two components of the prostate that can be resolved on MRI: the peripheral zone and the central gland, and the central gland refers to both the central zone and the transition zone, as they cannot be distinguished on MRI; in younger men the central gland is composed mostly of the central zone, while the transition zone enlarges as benign prostatic hyperplasia develops, so the central gland becomes predominantly composed of transition zone in older males.
 
 > **臨床要點**
-
+>
 > - **前列腺癌的典型 MRI 表現**：T2 加權影像上，周邊區的高訊號背景中出現 T2 低訊號區域。The typical MRI appearance of prostate cancer is a T2 hypointense region within the T2 hyperintense peripheral zone.
-
 > - **MRI 的定位與限制**：MRI 以 T2 加權序列可清楚描出前列腺分區解剖（中央腺體與周邊區），直腸內線圈可增強影像；但因成本高且敏感度與特異度低，MRI 不適合作為篩檢工具。MRI is able to clearly delineate the prostatic zonal anatomy with T2-weighted sequences, and imaging is enhanced with an endorectal coil; however, MRI is inappropriate for screening due to cost and low sensitivity and specificity.
-
 > - **漏診因素**：部分癌症在 T2 加權影像上並非低訊號，中央區癌症在 T2 加權影像上難以偵測，若周邊區本身不是 T2 高訊號，腫瘤的顯影度也會下降。MRI may not detect all prostate cancer: some cancer is not hypointense on T2-weighted images, central zone cancers are difficult to detect on T2-weighted images, and cancer conspicuity is decreased if the peripheral zone is not T2 hyperintense.
-
 > - **特異性與進階技術**：周邊區 T2 低訊號的鑑別診斷包括攝護腺炎（prostatitis）、出血（hemorrhage）及抗雄性激素治療（androgen-deprivation therapy）造成的退行性變化；磁波波譜分析（MRI spectroscopy）、動態對比增強（dynamic contrast-enhanced imaging）與擴散成像（diffusion imaging）等進階技術可提高特異性。MRI is also not specific: the differential diagnosis of a region of peripheral zone T2 hypointensity includes prostatitis, hemorrhage, and involutional changes from androgen-deprivation therapy; advanced MRI techniques such as MRI spectroscopy, dynamic contrast-enhanced imaging, and diffusion imaging may increase specificity.
-
 > - **進階技術的典型表現**：波譜可見膽鹼（choline）升高與檸檬酸鹽（citrate）降低；動態對比增強顯示腫瘤相對周邊區提早強化；擴散成像則通常呈現受限擴散。MRI spectroscopy of prostate cancer may show elevated choline and depressed citrate peaks compared to normal prostate; dynamic contrast-enhanced MRI typically shows prostate cancer to have early enhancement relative to the peripheral zone; and prostate cancer typically shows restricted diffusion.
 
 ### 前列腺 MRI / MRI of the Prostate {#前列腺-mri--mri-of-the-prostate}
@@ -2522,17 +2408,12 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **周邊區：** 70% 腺癌的發生部位；T2 高訊號
-
 > - **過渡區：** BPH 發生部位
-
 > - **前列腺癌典型表現：** T2 低訊號位於周邊區（周邊區正常為 T2 高訊號）
-
 > - **MRI 光譜分析：** 膽鹼↑、枸櫞酸↓ = 前列腺癌
-
 > - **DCE：** 前列腺癌早期強化
-
 > - **DWI：** 前列腺癌受限擴散（ADC 低訊號）
 
 ### 前列腺癌分期 / Prostate Cancer Staging {#前列腺癌分期--prostate-cancer-staging}
@@ -2598,17 +2479,12 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **T2a vs T2b：** 以單側葉 50% 為界
-
 > - **T2c：** 雙側葉受累
-
 > - **T3a：** 僅包膜外侵犯；精囊未受累
-
 > - **T3b：** 腫瘤侵犯精囊
-
 > - **N1：** 區域淋巴結轉移
-
 > - **M 分期：** M1a（非區域淋巴結）、M1b（骨轉移）、M1c（其他）
 
 ### 前列腺癌分期示例：T3b N1 / Staging Example: T3b N1 Prostate Cancer {#前列腺癌分期示例t3b-n1--staging-example-t3b-n1-prostate-cancer}
@@ -2656,15 +2532,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 ---
 
 > **臨床要點**
-
+>
 > - **T3b = 精囊侵犯**（與 T3a 的區別點）
-
 > - **T3b N1** = 通常非手術治療
-
 > - 精囊被包圍（engulfment）是 T3b 的特徵性表現
-
 > - 區域淋巴結 = **N1**
-
 > - 前列腺癌的 MRI 分期需結合 T2、DWI、DCE 等多種序列綜合判讀
 
 ---
@@ -2689,9 +2561,8 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - Adenomyosis represents ectopic endometrial glands within the myometrium; unlike endometriosis, the ectopic tissue is nonfunctioning.
 
 > **臨床要點**
-
+>
 > - T2 加權影像顯示連接帶增厚 >12 mm，常伴多個 T2 高訊號小灶；8–12 mm 為臨界增厚，不能單獨確診。A thickened junctional zone >12 mm with multiple small T2-hyperintense foci supports adenomyosis; 8–12 mm is borderline and not diagnostic.
-
 > - 局灶性腺肌症可模仿平滑肌瘤，但腺肌症邊界通常不清，平滑肌瘤則通常界線清楚。Focal adenomyosis may mimic a leiomyoma, but adenomyosis typically has indistinct margins whereas leiomyoma is sharply marginated.
 
 ### 子宮平滑肌瘤（纖維瘤） / Uterine Leiomyoma (Fibroids) {#子宮平滑肌瘤纖維瘤--uterine-leiomyoma-fibroids}
@@ -2703,15 +2574,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - A leiomyoma, commonly known as a fibroid, is an extremely common benign tumor of smooth muscle, which affects up to 40% of reproductive-age women; fibroids are often multiple and may be intramural (within the myometrial wall), submucosal (directly underneath the endometrial mucosa), or subserosal (directly underneath the outer uterine serosa).
 
 > **臨床要點**
-
+>
 > - **影像表現**：小纖維瘤因平滑肌緊密而於 T2 加權影像呈低訊號，但囊狀變性或黏液樣變性可使 T2 訊號不均勻地升高；紅色（肉樣）變性（carneous degeneration）或出血性變性則可在 T1 加權影像呈高訊號。Small leiomyomas are hypointense on T2-weighted images due to compact smooth muscle; however, cystic or myxoid degeneration may increase T2 signal heterogeneously; carneous or hemorrhagic degeneration may appear hyperintense on T1-weighted images.
-
 > - **影像表現（圖）**：矢狀位 T2 加權（左圖）與對比增強矢狀位 T1 加權脂肪抑制 MRI（右圖）顯示多發纖維瘤，最大者為一顆優勢性肌壁間纖維瘤，另有其他較小的肌壁間纖維瘤，以及單顆黏膜下與漿膜下纖維瘤。Submucosal, subserosal, and intramural fibroids: sagittal T2-weighted (left image) and post-contrast sagittal T1-weighted fat suppressed MRI shows numerous fibroids, with the largest a dominant intramural fibroid, with other smaller intramural fibroids in addition to single submucosal and subserosal fibroids.
-
 > - **惡性變化**：惡性平滑肌肉瘤（leiomyosarcoma）非常罕見，可從頭發生（de-novo）或由纖維瘤惡性變化而來；影像上除非出現明確惡性行為（例如侵犯鄰近構造或轉移），否則無法可靠區分平滑肌瘤與平滑肌肉瘤，在沒有明顯惡性影像所見時，外觀異常的纖維瘤極可能只是變性的良性纖維瘤。Malignant leiomyosarcoma is very rare and may arise de-novo or from malignant degeneration of a fibroid; imaging cannot reliably differentiate between leiomyoma and leiomyosarcoma unless clearly malignant behavior is identified such as invasion of adjacent structures or metastases; in the absence of obvious malignant imaging findings, an unusual-looking fibroid is overwhelmingly likely to represent a degenerating benign fibroid rather than a leiomyosarcoma.
-
 > - **治療規劃與陷阱**：MRI 常在子宮動脈栓塞（uterine artery embolization, UAE）前用於治療規劃，但出血性或壞死性平滑肌瘤對 UAE 效果不佳，此類病例以手術肌瘤切除或子宮切除為優先；此外若存在卵巢動脈與子宮動脈的吻合（ovarian–uterine artery anastomosis），UAE 成功的機會也較低。MRI is often performed for treatment planning prior to uterine artery embolization; hemorrhagic or necrotic leiomyomas are not treated effectively by UAE, and surgical myomectomy or hysterectomy would be the preferred treatment in these cases; additionally, there is less chance of UAE success if an ovarian–uterine artery anastomosis is present.
-
 > - **鑑別診斷**：子宮收縮（uterine contraction）可能模仿平滑肌瘤。A uterine contraction may mimic a leiomyoma.
 
 ### 子宮內膜癌 / Endometrial Carcinoma {#子宮內膜癌--endometrial-carcinoma}
@@ -2722,9 +2589,8 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - Endometrial carcinoma is the most common female gynecologic malignancy and typically presents with postmenopausal bleeding; risk factors include nulliparity, hormone replacement, and tamoxifen therapy.
 
 > **臨床要點**
-
+>
 > - 組織學確診後可用 MRI 分期；子宮肌層侵犯的存在與深度是分期關鍵，侵犯深度與淋巴結轉移高度相關。MRI is used for staging after histologic confirmation; the presence and depth of myometrial invasion are key and correlate with nodal metastasis.
-
 > - 對比增強影像的特異性最高；子宮內膜癌的強化通常低於周圍子宮肌層。Post-contrast imaging is most specific, and endometrial cancer enhances less avidly than surrounding myometrium.
 
 | FIGO 分期 | 掃描所列範圍 |
@@ -2762,17 +2628,12 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - Septate uterus and bicornuate uterus are the most common uterine anomalies, which may be differentiated by MRI; a septate uterus is caused by incomplete resorption of the septum of fused Müllerian ducts.
 
 > **臨床要點**
-
+>
 > - **定義**：隔膜子宮只有單一外部子宮底（fundus），但有一個纖維性或肌性隔膜將兩個子宮內膜腔分隔開來。A septate uterus has a single external fundus but a fibrous or muscular septation dividing two endometrial canals.
-
 > - **不孕**：隔膜子宮女性的不孕比雙角子宮更常見。Infertility is more common in women with septate uterus compared to bicornuate uterus.
-
 > - **治療**：子宮成形術（metroplasty，切除隔膜）在隔膜為纖維性時可經子宮鏡（hysteroscopically）進行，若隔膜為肌性則需經開腹途徑。Metroplasty (resection of the septum) can be performed hysteroscopically if the septum is fibrous, or via an open approach if the septum is muscular.
-
 > - **與雙角子宮的鑑別**：相較於隔膜子宮，雙角子宮的子宮底向內凹陷 >15 mm，隔膜子宮則為連續而凸起的子宮底。In contrast to a septate uterus, the fundus of a bicornuate uterus pinches inwards >15 mm, whereas the septate uterus has a continuous convex fundus.
-
 > - **影像表現**：子宮輸卵管造影（hysterosalpingogram，左圖）顯示共用的下段子宮內膜腔分成兩個獨立的子宮內膜腔（黃色箭頭），此 HSG 表現並不具特異性，可能代表隔膜子宮或雙角子宮；可見雙側腹腔內對比劑外溢，證明輸卵管通暢。軸位 T2 MRI（右圖）同樣顯示分開的子宮內膜腔，但外側肌層已融合，形成連續而凸起的子宮底。Septate uterus: hysterosalpingogram (left image) shows a common lower endometrial cavity that splits to form two separate endometrial cavities (yellow arrows); this appearance on HSG is nonspecific and may represent either a septate or bicornuate uterus; there is bilateral intraperitoneal spillage of contrast, confirming normal patent fallopian tubes; axial T2 MRI (right image) also shows the split endometrial canal; however, the outer myometrium has fused, yielding a continuous convex fundus.
-
 > - **分類參考**：苗勒管異常的美國生殖醫學會（American Fertility Society）分類已於超音波章節討論。The American Fertility Society classification of Müllerian duct anomalies is discussed in the ultrasound section.
 
 #### 雙角子宮（Bicornuate uterus） / Bicornuate Uterus {#雙角子宮bicornuate-uterus--bicornuate-uterus}
@@ -2784,15 +2645,11 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - A bicornuate uterus and a septate uterus are the most common uterine anomalies, which may be differentiated by MRI; a bicornuate uterus is due to incomplete fusion of the Müllerian ducts.
 
 > **臨床要點**
-
+>
 > - **定義**：雙角子宮描述的是部分分裂的子宮，具有兩個獨立的子宮底（uterine fundi）；相較於隔膜子宮，雙角子宮的子宮底向內凹陷 >15 mm。A bicornuate uterus describes a partially split uterus with two separate uterine fundi; in contrast to a septate uterus, the fundus of a bicornuate uterus pinches inwards >15 mm.
-
 > - **治療**：若需治療，子宮成形術（metroplasty）必須經腹膜外（transabdominally）進行，較子宮鏡下子宮成形術更具侵入性。If treated, metroplasty must be performed transabdominally, which is a more invasive procedure compared to hysteroscopic metroplasty.
-
 > - **影像表現**：軸位（左圖）與冠狀位 T2 加權 MRI（右圖）顯示兩個獨立的子宮內膜腔（黃色箭頭），並有明確的外部子宮底裂隙（紅色箭頭）；另有兩個獨立的子宮頸（雙頸，bicollis；藍色箭頭），共用共同肌層。Bicornuate, bicollis uterus: axial (left image) and coronal T2-weighted MRI (right image) shows two separate endometrial canals (yellow arrows) with a definite external fundal cleft (red arrow); there are two separate cervices (bicollis; blue arrows), which share a common myometrium.
-
 > - **與隔膜子宮的鑑別**：隔膜子宮只有單一外部子宮底，但由纖維性或肌性隔膜將兩個子宮內膜腔分隔；雙角子宮則有兩個獨立的子宮底。 A septate uterus has a single external fundus but a fibrous or muscular septation dividing two endometrial canals, whereas a bicornuate uterus has two separate uterine fundi.
-
 > - **分類參考**：苗勒管異常的美國生殖醫學會（American Fertility Society）分類已於超音波章節討論。The American Fertility Society classification of Müllerian duct anomalies is discussed in the ultrasound section.
 
 ### 附件 MRI / MRI of the Adnexa {#附件-mri--mri-of-the-adnexa}
@@ -2818,11 +2675,9 @@ $$\frac{112 - 46}{112 - 16} = \frac{66}{96} = 69\%$$
 - Ovarian cancer is the second most common female pelvic malignancy and among the most lethal; approximately 65% present with advanced disease.
 
 > **臨床要點**
-
+>
 > - MRI 用於描述不確定附件腫塊，而非主要分期；實性強化成分、病灶內壞死、腹水或腹膜結節提示惡性。MRI characterizes indeterminate adnexal masses rather than serving primarily for staging; an enhancing solid component, necrosis, ascites, or peritoneal nodularity suggests malignancy.
-
 > - 約 90% 的惡性卵巢腫瘤源自上皮；漿液性腫瘤最常見，通常雙側且呈混合實性與囊性腫塊。Approximately 90% are epithelial; serous tumors are most common, frequently bilateral, and typically mixed solid and cystic masses.
-
 > - 掃描病例顯示雙側強化附件腫塊與腹膜癌病，Douglas 窩可見腹膜植入。The illustrated case shows bilateral enhancing adnexal masses with peritoneal carcinomatosis and implants in the pouch of Douglas.
 
 ---

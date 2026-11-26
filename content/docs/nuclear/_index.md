@@ -505,15 +505,11 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - Bowman’s space is the capsular space outside the glomerulus that continues into the proximal tubule, where glomerular filtrate is formed; ACE inhibitor renography exploits the efferent arteriolar relaxation that lowers the GFR.
 
 > **臨床要點**
-
+>
 > - **檢查原理與檢查前準備**：給予 ACE inhibitor（通常是 captopril 25–50 mg）後，出球小動脈舒張、GFR 下降；已在使用 ACE inhibitor 的病人應於檢查前停藥 48 hours 至 1 week，並維持靜脈通路，以便低血壓時進行液體補充。 After administration of an ACE inhibitor (typically captopril, 25–50 mg), the efferent arterioles relax and the GFR decreases; if a patient is already on an ACE inhibitor, it should be stopped for 48 hours to 1 week prior to the exam, and intravenous access should be maintained in case fluid resuscitation is needed to treat hypotension.
-
 > - **陽性檢查的判讀重點**：檢查結果取決於放射藥物（MAG3 或 DTPA），但其特徵是 ACE inhibitor 後的腎圖變得異常或更加異常。 A positive study depends on the radiotracer (MAG3 or DTPA), but the hallmark is a post-ACE inhibitor renogram that becomes abnormal or more abnormal.
-
 > - **MAG3（腎小管型藥物）的陽性標準**：即使 GFR 下降，攝取與分泌大致保留，但 GFR 進一步下降會造成尿量減少與分泌藥物自收集系統清除減少；陽性標準包括任一腎在 2–3 minutes 的攝取 <40%、皮質活性相差 20%，或到達尖峰活性的時間比 ACE inhibitor 前延遲超過 2 minutes。 For MAG3 (a tubular agent), uptake and secretion are generally preserved even with a reduced GFR, but further decrease in GFR results in decreased urine production and decreased washout of secreted agent from the collecting system; positive criteria include <40% uptake by one kidney at 2–3 minutes, a difference in cortical activity of 20%, or a delay in time to peak activity of more than 2 minutes compared to the pre-ACE inhibitor study.
-
 > - **DTPA（腎小球型藥物）**：與 MAG3 不同，GFR 下降會造成 DTPA 的攝取與排泄都減少。 For DTPA (a glomerular agent), unlike MAG3, a decreased GFR causes diminished uptake and excretion of DTPA.
-
 > - **影像表現**：腎元示意圖標示鮑曼氏間隙（Bowman’s space）與近端小管（proximal tubule），並附 ACE inhibitor 前、後的 MAG3 與 DTPA 腎圖對照。 The nephron diagram labels Bowman’s space and the proximal tubule, and MAG3 and DTPA renograms are shown before and after ACE inhibitor administration.
 
 #### 全身腫瘤造影藥物（Whole-Body Tumor-Imaging Agents） / Whole-Body Tumor-Imaging Agents {#全身腫瘤造影藥物whole-body-tumor-imaging-agents--whole-body-tumor-imaging-agents}
@@ -528,13 +524,10 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - An Indium-111 pentetreotide study (Octreoscan) is used primarily to image carcinoid. Indium-111 is cyclotron-produced and decays by electron capture, emitting two photons at 173 and 247 keV; its half-life is 67 hours. Pentetreotide is an analog of octreotide that detects tumors with somatostatin receptors, including amine precursor uptake and decarboxylation (APUD) tumors.
 
 > **臨床要點**
-
+>
 > - **主要用途**：Octreoscan 主要用於類癌造影。Octreoscan is used primarily to image carcinoid.
-
 > - **製造與衰變**：銦-111 由迴旋加速器製造，經電子捕獲衰變，放出 173 與 247 keV 的兩個光子。Indium-111 is cyclotron-produced and decays by electron capture, emitting two photons at 173 and 247 keV.
-
 > - **半衰期**：銦-111 的半衰期為 67 小時。The half-life of indium-111 is 67 hours.
-
 > - **受體標靶**：噴曲肽為奧曲肽類似物，可偵測具有生長抑素受體的腫瘤，包括 APUD 腫瘤。Pentetreotide is an octreotide analog used to detect tumors with somatostatin receptors, including APUD tumors.
 
 #### 利尿劑腎圖（Diuretic renogram） / Diuretic Renography for Hydronephrosis {#利尿劑腎圖diuretic-renogram--diuretic-renography-for-hydronephrosis}
@@ -543,15 +536,11 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - If hydronephrosis is present, a diuretic renogram can distinguish between obstruction and a nonobstructive cause of collecting system dilation; both renal function and urodynamics are evaluated, and the radiotracer is Tc-99m MAG3, much less commonly Tc-99m DTPA.
 
 > **臨床要點**
-
+>
 > - **檢查目的與放射藥物**：利尿劑腎圖可區分阻塞與非阻塞性的收集系統擴張，同時評估腎功能與尿流動力學；放射藥物為 Tc-99m MAG3，較少用 Tc-99m DTPA。 A diuretic renogram can distinguish between obstruction and a nonobstructive cause of collecting system dilation, evaluating both renal function and urodynamics; the radiotracer is Tc-99m MAG3, much less commonly Tc-99m DTPA.
-
 > - **Furosemide 給藥**：約 20 minutes 的影像後給予 40 mg IV lasix（furosemide），腎功能不佳的病人可能需要較高劑量。 After approximately 20 minutes of imaging, 40 mg IV lasix is administered, and a higher dose of lasix may be needed in patients with renal insufficiency.
-
 > - **曲線判讀**：固定性機械阻塞時腎圖曲線在給藥後沒有變化；非阻塞性腎積水時，利尿後腎臟的額外壓力會撐開收集系統，讓放射性藥物由腎臟排出。 A fixed mechanical obstruction shows no change in the renogram curve after lasix, whereas in non-obstructive hydronephrosis the additional pressure of the diuresed kidney opens up the collecting system and allows drainage of radiotracer from the kidney.
-
 > - **清除半衰時間的閾值**：給藥後清除半衰時間 <10 minutes 為正常，10–20 minutes 為邊界值，>20 minutes 則提示阻塞。 After administration of lasix, a clearance half-time <10 minutes is normal, 10–20 minutes is borderline, and >20 minutes suggests obstruction.
-
 > - **偽陽性**：偽陽性（即在沒有真正阻塞時仍判為阻塞）可見於脫水、膀胱過度充盈或腎衰竭（對利尿劑的反應降低）。 False positives, meaning a diuretic renogram is positive for obstruction in the absence of a true obstruction, can be seen in dehydration, distended bladder, or renal failure with decreased response to diuretics.
 
 #### 放射性核素膀胱造影（Radionuclide cystography, RNC） / Radionuclide Cystography for Pediatric Reflux {#放射性核素膀胱造影radionuclide-cystography-rnc--radionuclide-cystography-for-pediatric-reflux}
@@ -565,15 +554,11 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - Radionuclide cystography is the most sensitive test for evaluation of pediatric reflux, with less radiation exposure compared to voiding cystourethrogram; Tc-99m pertechnetate, Tc-99m DTPA, and Tc-99m sulfur colloid all work well, and regardless of the radiotracer chosen, the radionuclide is injected retrograde into the catheterized bladder.
 
 > **臨床要點**
-
+>
 > - **檢查敏感度**：RNC 是評估小兒逆流最敏感的檢查，且輻射暴露少於排尿膀胱輸尿管攝影。 Radionuclide cystography is the most sensitive test for evaluation of pediatric reflux, with less radiation exposure compared to voiding cystourethrogram.
-
 > - **放射藥物與注射方式**：Tc-99m pertechnetate、Tc-99m DTPA 與 Tc-99m sulfur colloid 皆可使用；不論選用哪一種，放射性核素均經導尿管逆行注入膀胱。 The radiotracer chosen is variable; Tc-99m pertechnetate, Tc-99m DTPA, and Tc-99m sulfur colloid work well, and the radionuclide is injected retrograde into the catheterized bladder regardless of the choice.
-
 > - **輕度逆流（RNC grade I）**：逆流侷限於輸尿管。 Minimal reflux (RNC grade I): reflux is confined to the ureter.
-
 > - **中度逆流（RNC grade II）**：逆流向上延伸至腎盂腎盞系統。 Moderate reflux (RNC grade II): reflux extends superiorly to the pelvicalyceal system.
-
 > - **重度逆流（RNC grade III）**：嚴重逆流造成迂曲的輸尿管及／或擴張的腎內系統。 Severe reflux (RNC grade III): severe reflux causing a tortuous ureter and/or dilated intrarenal system.
 
 #### 銦-111 奧辛標記白血球（Indium-111 oxine leukocytes） / Indium-111 Oxine Leukocytes (WBCs) {#銦-111-奧辛標記白血球indium-111-oxine-leukocytes--indium-111-oxine-leukocytes-wbcs}
@@ -584,15 +569,11 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - The normal distribution of indium-111 oxine leukocytes (WBCs) is spleen > liver >> bone marrow, and infection imaging is performed at 24 hours. Compared with gallium, there is no physiologic bowel accumulation, allowing evaluation of abdominal or bowel infection and inflammation; disadvantages include a tedious labeling procedure, a higher radiation dose, and less accuracy for diagnosing spinal osteomyelitis. Compared with Tc-99m HMPAO leukocytes, there is no interfering bowel or renal activity, delayed imaging is possible, and simultaneous Tc-99m sulfur colloid or Tc-99m MDP bone scanning can be performed.
 
 > **臨床要點**
-
+>
 > - **正常分布**：銦-111 標記白血球的正常分布為脾臟 > 肝臟 >> 骨髓。The normal distribution of indium-111 labeled WBCs is spleen > liver >> bone marrow.
-
 > - **造影時間**：銦-111 白血球感染造影於 24 小時進行。Infection imaging with an indium-111 WBC scan is performed at 24 hours.
-
 > - **相較鎵的優點**：無生理性腸道聚積，因此可評估腹部或腸道感染與發炎。The lack of physiologic bowel accumulation permits evaluation of abdominal or bowel infection and inflammation.
-
 > - **相較鎵的缺點**：標記程序繁瑣、輻射劑量較高，且診斷脊椎骨髓炎的準確度較低。Disadvantages include a tedious labeling procedure, a higher radiation dose, and less accuracy in diagnosing spinal osteomyelitis.
-
 > - **相較 Tc-99m HMPAO 的優點**：不受腸道及腎臟活性干擾，可進行延遲造影，亦可同時施作 Tc-99m 硫膠體或 Tc-99m MDP 骨骼掃描；這些合併方法有助於評估基礎骨骼掃描異常時的骨髓炎，例如人工關節評估。Advantages include absence of interfering bowel and renal activity, delayed imaging, and simultaneous Tc-99m sulfur colloid or Tc-99m MDP bone scanning; these combined approaches help evaluate osteomyelitis when the baseline bone scan is abnormal, such as in prosthesis evaluation.
 
 #### 鎵與鉈合併造影（Combined gallium and thallium imaging） / Combined Gallium and Thallium Imaging {#鎵與鉈合併造影combined-gallium-and-thallium-imaging--combined-gallium-and-thallium-imaging}
@@ -613,15 +594,11 @@ description: PET-CT、核醫心臟、甲狀腺、腸胃道、肺、骨骼、腎�
 - Combined gallium and thallium imaging can be used in immunocompromised patients to distinguish Kaposi sarcoma, lymphoma, and tuberculosis. Kaposi sarcoma is thallium avid but does not take up gallium; tuberculosis and atypical mycobacteria take up gallium but not thallium; lymphoma takes up both. Thallium was also historically used as a myocardial agent.
 
 > **臨床要點**
-
+>
 > - **鑑別用途**：鎵掃描結合鉈造影，可在免疫功能低下患者中區分卡波西肉瘤、淋巴瘤與結核病。Gallium scanning combined with thallium imaging can distinguish Kaposi sarcoma, lymphoma, and tuberculosis in immunocompromised patients.
-
 > - **卡波西肉瘤**：卡波西肉瘤攝取鉈，但不攝取鎵；記憶口訣為 KaT。Kaposi sarcoma is thallium avid but does not take up gallium; the mnemonic is KaT.
-
 > - **結核病與非典型分枝桿菌**：兩者攝取鎵，但不攝取鉈，與卡波西肉瘤相反；記憶口訣為 TuG。Tuberculosis and atypical mycobacteria take up gallium but not thallium, the opposite of Kaposi sarcoma; the mnemonic is TuG.
-
 > - **淋巴瘤**：淋巴瘤同時攝取鎵與鉈，記憶口訣為 Lymphoma likes both。Lymphoma takes up both gallium and thallium; the mnemonic is ‘Lymphoma likes both.’
-
 > - **鉈的歷史用途**：鉈過去亦曾作為心肌造影劑。Thallium was also historically used as a myocardial agent.
 
 ### 腎臟 / Kidneys {#腎臟--kidneys}

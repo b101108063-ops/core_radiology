@@ -1,0 +1,18 @@
+{{- /* render-blockquote.html — 依開頭粗體標籤套用教學卡樣式
+     例：> **臨床要點** → is-keypoints；注意／禁忌症／危急值 → is-pitfalls */ -}}
+{{- $text := .Text -}}
+{{- $class := "" -}}
+{{- $m := findRESubmatch `^\s*<p><strong>([^<]{1,20})</strong></p>` $text 1 -}}
+{{- with $m -}}
+  {{- $label := index (index . 0) 1 -}}
+  {{- $map := dict
+      "臨床要點" "is-keypoints" "重點" "is-keypoints" "閱讀重點" "is-keypoints" "診斷要點" "is-keypoints" "臨床建議" "is-keypoints"
+      "注意" "is-pitfalls" "禁忌症" "is-pitfalls" "危急值" "is-pitfalls" "Note" "is-pitfalls" "重要陷阱（pitfall）" "is-pitfalls"
+      "記憶口號" "is-pearls" "記憶" "is-pearls"
+      "影像例" "is-findings" "影像例 2" "is-findings" "解剖圖示" "is-findings" -}}
+  {{- $class = index $map $label | default "is-keypoints" -}}
+  {{- $text = replaceRE `^\s*<p><strong>[^<]{1,20}</strong></p>` (printf `<span class="atlas-block-label">%s</span>` $label) $text 1 -}}
+{{- end -}}
+<blockquote{{ with $class }} class="{{ . }}"{{ end }}>
+{{ $text | safeHTML }}
+</blockquote>
