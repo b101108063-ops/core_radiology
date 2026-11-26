@@ -14,13 +14,10 @@ description: 腦部、脊椎、頭頸部
 - 內容結合 MRI 與 CT 影像特徵，協助鑑別診斷
 
 > **臨床要點**
-
+>
 > - **Neuroimaging**：神經影像學，涵蓋頭頸部與中樞神經系統的各種病變
-
 > - **Brain tumors**：腦腫瘤，包括原發性與轉移性
-
 > - **Stroke / Vascular disease**：腦中風與腦血管疾病
-
 > - **Cerebral infection**：腦部感染
 
 ---
@@ -35,13 +32,10 @@ description: 腦部、脊椎、頭頸部
 - massa intermedia（中間塊）是連接兩側丘腦的灰白質結構
 
 > **臨床要點**
-
+>
 > - **Foramen of Monro**：室間孔，連接側腦室與第三腦室
-
 > - **Cerebral aqueduct (of Sylvius)**：大腦導水管，連接第三與第四腦室
-
 > - **Foramina of Luschka & Magendie**：第四腦室通訊至蛛網膜下腔的三個孔
-
 > - **Massa intermedia**：丘腦間黏合，又稱 interthalamic adhesion
 
 ---
@@ -58,13 +52,10 @@ description: 腦部、脊椎、頭頸部
 腦水腫分為三型：細胞毒性水腫（cytotoxic edema）因鈉鉀 ATPase 泵衰竭導致細胞腫脹，常見於腦梗塞；血管性水腫（vasogenic edema）因微血管通透性增加導致間質水腫，主要見於白質，由腫瘤、感染或梗塞引起；間質性水腫（interstitial edema）因 CSF 流通受阻所致，見於阻塞性水腦，影像上呈現腦室周圍液體積聚。
 
 > **臨床要點**
-
+>
 > - **CSF production**：由 choroid plexus 每日產生約 500 mL
-
 > - **Cytotoxic edema**：細胞毒性水腫，常見於 infarct（腦梗塞）
-
 > - **Vasogenic edema**：血管性水腫，主要影響白質
-
 > - **Interstitial edema**：間質性水腫，腦室周圍「CSF 跨室管膜流動」外觀
 
 ---
@@ -83,13 +74,10 @@ description: 腦部、脊椎、頭頸部
 小腦扁桃體疝脫（cerebellar tonsillar herniation）：小腦扁桃體通過枕骨大孔往下移，壓迫延髓呼吸中樞可能致命。
 
 > **臨床要點**
-
+>
 > - **Subfalcine herniation**：大腦鏟間隙疝，cingulate gyrus 滑過 falx
-
 > - **Transtentorial (uncal) herniation**：小腦幕疝，uncal herniation 可能導致 CN III palsy 與 Duret hemorrhages
-
 > - **Cerebellar tonsillar herniation**：小腦扁桃體疝，可能致命
-
 > - **Duret hemorrhages**：腦幹上段穿通血管撕裂出血，暗示腦疝脫預後不良
 
 ---
@@ -110,13 +98,10 @@ description: 腦部、脊椎、頭頸部
 - 基底腦池的壓迫或消失可能是即將發生或已發生腦疝脫的徵象
 
 > **臨床要點**
-
+>
 > - **Communicating hydrocephalus**：交通性水腦，CSF 迴路通暢但吸收受阻
-
 > - **Normal pressure hydrocephalus (NPH)**：正常壓力水腦，臨床三聯徵 dementia、ataxia、incontinence
-
 > - **Noncommunicating hydrocephalus**：非交通性水腦，由阻塞性病變引起
-
 > - **Basal cisterns**：基底腦池，腦疝脫評估的重要指標
 
 ---
@@ -137,13 +122,10 @@ T2 低訊號的原因包括：血質（含鐵血紅素）、鈣化、纖維性�
 - 正常 FLAIR：白質訊號低於灰質（與 T1 相反，T1 上白質因脂肪性髓鞘而比灰質亮）
 
 > **臨床要點**
-
+>
 > - **T1 shortening**：T1 縮短，病因包括 gadolinium、脂肪、methemoglobin、melanin
-
 > - **T2 prolongation**：T2 延長，多數病理病竈在 T2 權重影像上呈現高訊號
-
 > - **FLAIR**：抑制 CSF 訊號的 T2 權重影像，是神經影像的主力序列
-
 > - **White matter darker than gray matter on FLAIR**：FLAIR 上白質訊號低於灰質
 
 ---
@@ -166,13 +148,10 @@ T2 低訊號的原因包括：血質（含鐵血紅素）、鈣化、纖維性�
 質子密度（Proton Density, PD）影像神經影像學中主要用於多發性硬化症（MS）的評估，特別是後顱窩的去髓鞘斑塊。
 
 > **臨床要點**
-
+>
 > - **DWI (Diffusion Weighted Imaging)**：急性腦中風的首選序列，受限擴散呈現高訊號
-
 > - **ADC (Apparent Diffusion Coefficient)**：受限擴散在 ADC map 上呈現低訊號（dark）
-
 > - **T2 shine through**：DWI 的假象，需配合 ADC map 排除
-
 > - **b-value**：影響擴散影像對比度與訊噪比的關鍵參數
 
 ---
@@ -197,13 +176,10 @@ T2 低訊號的原因包括：血質（含鐵血紅素）、鈣化、纖維性�
 - 可用於腦中風與腫瘤評估
 
 > **臨床要點**
-
+>
 > - **GRE / T2* imaging**：對 hemosiderin 與鈣化敏感，適合偵測微出血
-
 > - **MR Spectroscopy**：分析 Cho、Cr、NAA 等化合物，協助鑑別腫瘤復發與輻射壞死
-
 > - **Hunter's angle**：頻譜判讀技巧，連線向上＝正常
-
 > - **Perfusion MRI**：測量 rCBV（relative cerebral blood volume），高級膠質瘤灌流增加
 
 ---
@@ -223,13 +199,10 @@ T2 低訊號的原因包括：血質（含鐵血紅素）、鈣化、纖維性�
 腦室周圍強化（periventricular enhancement）的軸內鑑別診斷：原發性中樞神經淋巴瘤（Primary CNS lymphoma），CT 高密度，MRI T2 低訊號（因高細胞密度），ADC 低訊號；巨細胞病毒（CMV）感染性室管膜炎；原發性膠質細胞瘤；多發性硬化症（active plaque 可能強化）。
 
 > **臨床要點**
-
+>
 > - **Blood Brain Barrier (BBB)**：由 astrocytic foot processes 與內皮細胞構成
-
 > - **Normal enhancing structures**：choroid plexus、pituitary、pineal gland、area postrema
-
 > - **Periventricular enhancement**：室管膜表面強化，常見於 CNS lymphoma、MS、ependymitis
-
 > - **Primary CNS lymphoma**：T2 低訊號、ADC 低訊號（高細胞密度），均勻強化
 
 ---
@@ -251,13 +224,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 - 幾乎都伴隨水腫
 
 > **臨床要點**
-
+>
 > - **Gyriform enhancement**：腦迴強化，見於 herpes encephalitis、subacute infarct、PRES
-
 > - **Herpes encephalitis**：好發內側顳葉與 cingulate gyrus，DWI 受限擴散常見
-
 > - **Nodular subcortical enhancement**：轉移性疾病典型，好發於 gray-white junction
-
 > - **PRES (Posterior Reversible Encephalopathy Syndrome)**：可逆性後方腦病變，vasogenic edema 為主
 
 ---
@@ -276,13 +246,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 脫髓鞘疾病（Demyelination）：關鍵特徵是缺乏顯著 mass effect；強化「環」常不完整，呈「C」形；MS 是最常見的脫髓鞘疾病。
 
 > **臨床要點**
-
+>
 > - **Ring enhancement**：病因廣泛，MAGIC DR 幫助記憶
-
 > - **Abscess**：DWI 高訊號（受限擴散）與 T2 低訊號 rim 為特徵
-
 > - **GBM (Glioblastoma)**：不規則厚壁，光譜異常超出強化邊緣，灌流增加
-
 > - **Demyelination**：無顯著 mass effect，強化環常不完整
 
 ---
@@ -303,13 +270,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 硬膜尾（dural tail）：腦膜瘤等腦膜腫瘤產生的局部硬膜強化，為反應性變化。
 
 > **臨床要點**
-
+>
 > - **Pachymeninges (Dura)**：「厚膜」，無 BBB；硬膜強化代表 dural edema 而非 BBB 破壞
-
 > - **Intracranial hypotension**：體位性頭痛、硬膜強化、腦下垂體擴大、小腦扁桃體下垂
-
 > - **Dural tail**：腦膜瘤特徵，為 reactive dural enhancement
-
 > - **Pachymeningeal enhancement**：硬膜強化，鑑別包括 intracranial hypotension、術後、腦膜腫瘤、granulomatous disease
 
 ---
@@ -331,13 +295,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 - Moyamoya 病的慢血流可導致「ivy sign」
 
 > **臨床要點**
-
+>
 > - **Leptomeninges (Lepto = thin)**：軟膜-蛛網膜，包含 pia 與 arachnoid
-
 > - **Meningitis**：細線性強化提示 bacterial/viral；結節狀強化提示 fungal
-
 > - **Leptomeningeal carcinomatosis**：腫瘤擴散至 subarachnoid space
-
 > - **Slow flow vs. leptomeningeal enhancement**：慢血流為血管內分布，FLAIR 高訊號但無真正強化
 
 ---
@@ -362,13 +323,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 - 軸內病變則缺乏介於白質與病變之間的灰質
 
 > **臨床要點**
-
+>
 > - **3 H's (Hemorrhage, Hydrocephalus, Herniation)**：腦腫瘤三急症
-
 > - **Extra-axial mass**：CSF cleft、gray matter buckling、gray matter between mass and white matter 為特徵
-
 > - **Intra-axial mass**：缺乏介於白質與病變之間的灰質
-
 > - **Hemorrhagic metastases**：黑色素瘤、腎細胞癌、甲狀腺癌、絨毛膜癌
 
 ---
@@ -388,13 +346,10 @@ Posterior Reversible Encephalopathy Syndrome (PRES) 為自體調節失常引發�
 MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白的轉移瘤、hypercellular 腫瘤（淋巴瘤、medulloblastoma、germinoma）；T1 高訊號腫瘤包括黑色素瘤（melanin）、脂肪瘤（dermoid/teratoma）與出血性轉移。
 
 > **臨床要點**
-
+>
 > - **Extra-axial vs. intra-axial**：位置決定鑑別診斷方向
-
 > - **Metastases usually enhance**：多數腦轉移瘤會強化，但缺乏強化不能絕對排除轉移
-
 > - **Low-grade tumors may not enhance**：低級別膠質瘤可能無強化
-
 > - **T2 hypointense tumors**：lymphoma、medulloblastoma、germinoma、desiccated mucin
 
 ---
@@ -420,13 +375,10 @@ MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白�
 - 分布於側腦室體部與顳角、第三腦室頂部與第四腦室頂部
 
 > **臨床要點**
-
+>
 > - **Glioma**：定義為源自膠質細胞的原發性 CNS 腫瘤，並非所有腦腫瘤
-
 > - **Astrocyte**：維持 BBB、分布於白質
-
 > - **Oligodendrocyte**：維護 CNS myelin（一個細胞維護多條軸突）
-
 > - **Ependymal cell**：用纖毛循環 CSF
 
 ---
@@ -446,13 +398,10 @@ MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白�
 低級別星狀細胞瘤（WHO II 級）典型表現為 T2 高訊號腫塊，無強化；影像學表現可能輕微，臨床上常見於年輕患者。
 
 > **臨床要點**
-
+>
 > - **JPA (Juvenile Pilocytic Astrocytoma)**：WHO Grade I，好發後顱窩，囊性＋強化結節
-
 > - **NF1 association**：視神經路徑 JPA 與 NF1 相關
-
 > - **Low-grade astrocytoma**：WHO Grade II，T2 高訊號，無強化
-
 > - **Fibrillary astrocytoma family**：包括 Grade II-IV，是浸潤性腫瘤
 
 ---
@@ -475,13 +424,10 @@ MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白�
 經胼胝體病變的鑑別診斷包括：GBM、淋巴瘤與脫髓鞘疾病。
 
 > **臨床要點**
-
+>
 > - **Anaplastic astrocytoma**：WHO Grade III，自然病程會進展為 GBM
-
 > - **GBM (Glioblastoma multiforme)**：WHO Grade IV，最常見的原發性 CNS 惡性腫瘤
-
 > - **Butterfly glioma**：GBM 跨越胼胝體，類似淋巴瘤與脫髓鞘疾病
-
 > - **Subependymal spread**：GBM 沿腦室壁在室管膜下擴散
 
 ---
@@ -504,13 +450,10 @@ MRI 訊號特徵有助於特定診斷：T2 低訊號腫瘤包括富含黏蛋白�
 Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成分的混合腫瘤；anaplastic oligodendroglioma（間變性寡樹突膠質細胞瘤）在影像上與 GBM 無法區分，預後差。
 
 > **臨床要點**
-
+>
 > - **Gliomatosis cerebri**：瀰漫性侵犯至少兩個腦葉＋皮質外結構，預後差
-
 > - **Oligodendroglioma**：WHO Grade II，好發年輕患者，癲癇為主，75% 有鈣化
-
 > - **Calcification**：寡樹突膠質細胞瘤的典型特徵，CT 最適合偵測
-
 > - **Anaplastic oligodendroglioma**：影像無法與 GBM 區分，預後不良
 
 ---
@@ -526,13 +469,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 成人脊髓室管膜瘤可能發生於脊髓內任何位置，主要鑑別診斷為膠質瘤，但兩者在影像上難以可靠區分
 
 > **臨床要點**
-
+>
 > - **Ependymoma（室管膜瘤）**：起源於室管膜細胞，兒童後顱窩、成人脊髓；「牙膏腫瘤」特徵為經第四腦室孔擠出
-
 > - **Medulloblastoma（髓母細胞瘤）**：最常見兒童腦瘤，也好發後顱窩，但通常不會擠出第四腦室孔
-
 > - **Lhermitte-Duclos disease**：WHO I級，小腦發育不良神經節細胞瘤，與Cowden症候群相關；特徵為「條紋布」或「虎斑」訊號
-
 > - **ATRT（非典型畸胎樣/橫紋肌樣瘤）**：WHO IV級，高度惡性，比髓母細胞瘤發病年齡更小
 
 ---
@@ -551,13 +491,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 術前應進行全腦與脊椎影像評估
 
 > **臨床要點**
-
+>
 > - **Medulloblastoma（髓母細胞瘤）**：WHO IV級小藍細胞腫瘤，最常見兒童腦瘤，好發小腦蚓部中線
-
 > - **ADC值**：低ADC值代表高細胞密度，可用於與室管膜瘤、毛細胞型星狀膠質瘤鑑別
-
 > - **Sugar-coating/Zuckerguss（糖衣現象）**：軟膜轉移的icing-like強化；33%患者可見
-
 > - **Leptomeningeal dissemination（軟膜播散）**：術前需做全腦與脊椎MRI
 
 ---
@@ -572,15 +509,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Most lesions of the CPA are extra-axial and located in the CPA cistern itself, although some may arise in the internal auditory canal (IAC), temporal bone, or rarely intra-axially from the pons or cerebellum.
 
 > **臨床要點**
-
+>
 > - **CPA 的位置與重要構造**：位於腦橋與小腦之間、岩骨後方，含第 5、7、8 對腦神經與 AICA。The CPA lies between the pons and cerebellum and posterior to the petrous temporal bone and contains cranial nerves 5, 7, and 8 and the AICA.
-
 > - **多為軸外病變**：CPA 腫塊以軸外、位於 CPA 腦池內者居多，少數源自內聽道、顳骨，罕見為軸內。Most CPA masses are extra-axial within the CPA cistern, with some arising in the IAC or temporal bone and rarely intra-axially.
-
 > - **前庭神經瘤的比例**：佔所有 CPA 腫塊超過 75%，為最常見的 CPA 腫塊，且好發於成人。Vestibular schwannoma represents greater than 75% of all CPA masses and CPA masses are more common in adults.
-
 > - **冰淇淋圓錐徵**：T2 高訊號且明顯強化，「cone」穿出並撐寬 porus acousticus，「ice cream」則對小腦－腦橋交界處產生佔位效應。The characteristic ice cream cone appearance describes the cone protruding through and widening the porus acousticus and the ice cream exerting mass effect on the cerebellopontine junction.
-
 > - **影像表現**：軸向 T2 加權（左圖）與 T1 對比 MRI 顯示左側小腦橋角不均勻強化腫塊，呈冰淇淋圓錐外觀，壓凹小腦－腦橋交界（黃箭頭）並向內聽道突出（紅箭頭），內耳道口（porus acousticus）輕度變寬（藍箭頭）。Axial T2-weighted and post-contrast T1-weighted MRI shows a heterogeneously enhancing left CPA mass with an ice cream cone appearance that indents the cerebellopontine junction (yellow arrow) and protrudes into the internal acoustic meatus (red arrow); the porus acousticus is slightly widened (blue arrows).
 
 ### Cystic Mass with Mural Nodule / 囊腫合併壁結節腫瘤 {#cystic-mass-with-mural-nodule--囊腫合併壁結節腫瘤}
@@ -595,13 +528,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Pleomorphic xanthoastrocytoma（多形性黃色星狀膠質瘤，PXA）為WHO II級低惡性膠質瘤，好發於兒童青少年，通常有長期癲癇病史，最常見於顳葉，典型為皮質囊性腫瘤合併強化壁結節，覆蓋硬膜可見增厚強化
 
 > **臨床要點**
-
+>
 > - **Hemangioblastoma（血管母細胞瘤）**：WHO I級血管腫瘤，與VHL症候群相關；典型為囊腫合併強化壁結節
-
 > - **Von Hippel-Lindau（VHL）症候群**：30%血管母細胞瘤患者有VHL；脊髓血管母細胞瘤常伴隨脊髓空洞癥
-
 > - **Pleomorphic xanthoastrocytoma（多形性黃色星狀膠質瘤，PXA）**：低惡性膠質瘤，好發顳葉，覆蓋硬膜可增厚強化
-
 > - **Ganglioglioma（神經節膠質瘤）**：罕見慢生長神經膠質瘤，好發青少年顳葉癲癇，常伴隨鈣化
 
 ---
@@ -621,13 +551,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Subependymoma（室管膜下瘤）為中老年人常見的低度腫瘤，常為偶然發現，最常見位置為第四腦室下端（obex）或側腦室Monro孔，通常不強化
 
 > **臨床要點**
-
+>
 > - **Central neurocytoma（中樞神經細胞瘤）**：低度神經元來源的腫瘤，好發年輕成人，典型附著於透明隔
-
 > - **Choroid plexus papilloma（脈絡叢乳頭狀瘤）**：兒童最常見於側腦室三角區，成人最常見於第四腦室
-
 > - **Intraventricular meningioma（腦室內腦膜瘤）**：實心均勻強化，好發老年患者三角區
-
 > - **SEGA（室管膜下巨大細胞星狀膠質瘤）**：與結節硬化症相關，典型位於Monro孔附近
 
 ---
@@ -646,13 +573,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 多數腦轉移瘤會強化，且常相當明顯，但未見強化不能絕對排除體積很小或相對低血管性的轉移瘤
 
 > **臨床要點**
-
+>
 > - **Primary CNS lymphoma（PCNSL）**：瀰漫性大型B細胞淋巴瘤，免疫正常者均勻強化無壞死，免疫抑制者典型環形強化
-
 > - **ADC值**：低ADC代表高細胞密度，為淋巴瘤特徵
-
 > - **Thallium scan**：淋巴瘤攝取thallium，弓漿蟲感染則不攝取
-
 > - **Intra-axial metastasis（腦實質轉移）**：最常見於灰白質交界處；多數會強化，但缺乏可見強化不能絕對排除轉移瘤
 
 ---
@@ -670,13 +594,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 硬膜為主的腫瘤在影像上難以與軸外腫瘤區分，強化型態為關鍵
 
 > **臨床要點**
-
+>
 > - **Meningioma（腦膜瘤）**：最常見軸外腫瘤，起源蜘蛛膜顆粒細胞，好發老年女性，寬基底附著硬膜
-
 > - **Dural tail（硬膜尾徵）**：血管活性物質釋放所致，非腫瘤侵犯
-
 > - **Dural metastasis（硬膜轉移）**：乳癌最常見，其次淋巴瘤、小細胞肺癌、黑色素瘤
-
 > - **White matter edema（白質水腫）**：腦膜瘤常見且程度與腫瘤大小不符
 
 ---
@@ -694,13 +615,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 若為年輕成人且腫瘤位於側面，需考慮Medulloblastoma
 
 > **臨床要點**
-
+>
 > - **兒童後顱窩**：Medulloblastoma最常見（CT高衰減、低ADC）；Ependymoma會經第四腦室孔擠出
-
 > - **囊性合併壁結節**：毛細胞型星狀膠質瘤；血管母細胞瘤（若有VHL病史或流空血管）
-
 > - **ATRT**：比髓母細胞瘤更年幼，與腎臟惡性橫紋肌樣瘤相關
-
 > - **成人後顱窩**：轉移瘤（多發、有癌症病史）；血管母細胞瘤（VHL）；星狀膠質瘤（少許強化）
 
 ---
@@ -718,13 +636,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Arachnoid cyst（蜘蛛膜囊腫）訊號與CSF相同，FLAIR完全抑制，無受限擴散，可與Epidermoid cyst（膽脂瘤）鑑別
 
 > **臨床要點**
-
+>
 > - **Vestibular schwannoma（聽神經許旺氏細胞瘤）**：最常見CPA腫瘤（>75%），T2高訊號，明顯強化，「冰淇淋甜筒」外觀
-
 > - **CPA meningioma**：第二常見CPA腫瘤，硬膜尾強化，約20%鈣化，不撐大聽神經孔
-
 > - **Arachnoid cyst（蜘蛛膜囊腫）**：CSF訊號，FLAIR完全抑制，無受限擴散
-
 > - **Epidermoid cyst（膽脂瘤）**：FLAIR不完全抑制，DWI受限擴散（亮DWI）
 
 ---
@@ -739,13 +654,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - A posterior fossa intra-axial neoplasm（後顱窩軸內腫瘤）可能向側面侵犯進入CPA：exophytic brainstem glioma、metastasis、medulloblastoma（小兒中線但大童/青年可側面侵犯）、ependymoma（經Luschka孔進入CPA）、hemangioblastoma（小腦半球囊性腫瘤伴流空血管）
 
 > **臨床要點**
-
+>
 > - **Epidermoid cyst（膽脂瘤）**：先天性，外胚層上皮異位，FLAIR不完全抑制，DWI受限擴散
-
 > - **Hemangioblastoma**：VHL相關，小腦半球囊性壁結節腫瘤，常見流空血管
-
 > - **Ependymoma**：經Luschka孔擠出至CPA
-
 > - **VHL另一顱內表現**：內淋巴囊腫瘤（endolymphatic sac tumor）
 
 ---
@@ -761,13 +673,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Empty sella（空蝶鞍）為正常變異，若伴有顱內壓增高症候群（pseudotumor cerebri），則為病態表現，常見於肥胖黑人女性，影像學可見empty sella、Meckel's cave擴大、視盤突入眼球後方
 
 > **臨床要點**
-
+>
 > - **Rathke's pouch（拉克氏囊）**：前垂體胚胎來源；不完全退化可導致顱咽瘤或Rathke's cleft cyst
-
 > - **Posterior pituitary bright spot（後垂體亮點）**：T1高訊號，代表血管加壓素與催產素儲存
-
 > - **Empty sella（空蝶鞍）**：正常變異；也是pseudotumor cerebri的表現之一
-
 > - **Pseudotumor cerebri（假性腦瘤/特發性顱內高壓）**：典型肥胖黑人女性，empty sella、Meckel's cave擴大
 
 ---
@@ -784,13 +693,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Granulomatous hypophysitis（肉芽腫性垂體炎）病因包括結節病、Wegener肉芽腫癥、結核病及Langerhans細胞組織球增生癥
 
 > **臨床要點**
-
+>
 > - **Pituitary macroadenoma（巨腺瘤）**：>10mm，常以視交叉壓迫就診；骨性蝶鞍擴大但少縮窄ICA
-
 > - **Microadenoma（微腺瘤）**：<10mm，以內分泌癥狀就診；ACTH分泌性腺瘤可能高強化
-
 > - **Lymphocytic hypophysitis（淋巴球性垂體炎）**：自體免疫，圍產期女性，垂體柄增厚強化，對類固醇治療有反應
-
 > - **Granulomatous hypophysitis（肉芽腫性垂體炎）**：需與淋巴球性垂體炎鑑別，病因包括結節病、LCH等
 
 ---
@@ -804,15 +710,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - For a suprasellar mass in an adult, the workup proceeds through questions of superior extension, expansion of the sella, and intense enhancement despite a normal sella.
 
 > **臨床要點**
-
+>
 > - **性早熟與下視丘錯構瘤**：性早熟合併不強化、與灰質等訊號的鞍上腫塊時，應考慮下視丘錯構瘤。Precocious puberty with a nonenhancing, gray-matter-isointense suprasellar mass suggests hypothalamic hamartoma.
-
 > - **腦下垂體柄增大與尿崩症**：腦下垂體柄增大且強化合併尿崩症可見於淋巴球性垂體炎（圍產期）或肉芽腫性垂體炎（其他情況），Langerhans 細胞組織球增生症亦可侵犯垂體柄。An enhancing, enlarged pituitary stalk with diabetes insipidus may reflect lymphocytic hypophysitis if peripartum or granulomatous hypophysitis otherwise, and Langerhans cell histiocytosis hypophysitis also involves the stalk.
-
 > - **腦下垂體巨腺瘤向上延伸**：鞍上腫塊向上延伸且蝶鞍擴大者，提示腦下垂體巨腺瘤向上生長。A pituitary mass extending superiorly with expansion of the sella indicates extension of a pituitary macroadenoma.
-
 > - **腦膜瘤**：在正常蝶鞍下呈強烈強化，合併硬膜尾徵、鄰近骨肥厚與鄰近血管變窄，支持腦膜瘤的診斷。Intense enhancement with a normal sella, together with an enhancing dural tail, adjacent hyperostosis, and narrowing of adjacent vasculature, favors meningioma.
-
 > - **其他鑑別**：鈣化、強化且複雜囊性腫塊提示顱咽瘤；非強化囊腫且無鈣化提示 Rathke 裂囊腫；強化程度與血池相等且可見鈣化緣提示動脈瘤。A calcified, enhancing, complex cystic mass suggests craniopharyngioma; a nonenhancing cystic mass without calcification suggests Rathke's cleft cyst; enhancement equal to blood pool with a calcified rim suggests aneurysm.
 
 ### Craniopharyngioma / 顱咽瘤 {#craniopharyngioma--顱咽瘤}
@@ -828,13 +730,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 與顱咽瘤不同的是，Rathke囊囊腫幾乎不強化（僅可見輕微邊緣強化）且不鈣化
 
 > **臨床要點**
-
+>
 > - **Craniopharyngioma（顱咽瘤）**：兒童最常見鞍上病變，雙峰發病年齡，幾乎皆鈣化，明顯強化，與垂體分開
-
 > - **Rathke's cleft cyst（拉克氏囊囊腫）**：中年女性，常無癥狀，不強化（僅rim enhancement），不鈣化
-
 > - **「Claw sign」**：強化的垂體組織完全包繞囊腫，為Rathke囊囊腫特徵
-
 > - **SATCHMO mnemonic**：Sarcoid/Adenoma, Aneurysm, Teratoma, Craniopharyngioma/Cleft cyst, Glioma/Hamartoma, Meningioma/Metastasis, Optic glioma
 
 ---
@@ -855,13 +754,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Germinoma（生殖細胞瘤）最常見於松果體區（80%），鞍上區約20%，T2低訊號、ADC暗色（高細胞密度），均勻明顯強化
 
 > **臨床要點**
-
+>
 > - **Parasellar meningioma（鞍旁腦膜瘤）**：成人第二常見鞍上腫瘤，強化硬膜尾，包繞並縮窄ICA
-
 > - **Optic pathway glioma（視神經途徑膠質瘤）**：兒童第二常見鞍上腫瘤；NF1患者常見，成人為高度惡性
-
 > - **Germinoma（生殖細胞瘤）**：80%位於松果體區，20%鞍上；高細胞密度，均勻強化，T2低訊號
-
 > - **Dermoid/Epidermoid cyst**：先天性囊腫，dermoid可能含脂肪（化學性腦膜炎風險）
 
 ---
@@ -877,13 +773,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 鞍上區域病變的鑑別診斷高度依賴年齡：兒童常見顱咽瘤、視神經途徑膠質瘤、生殖細胞瘤、下視丘錯構瘤；成人則以腦下垂體巨腺瘤延伸為主，其次為腦膜瘤、Rathke囊囊腫、囊狀顱咽瘤
 
 > **臨床要點**
-
+>
 > - **Hypothalamic hamartoma（下視丘錯構瘤）**：非真正腫瘤，兒童發笑性癲癇及性早熟，不強化與灰質等訊號
-
 > - **鞍旁轉移**：乳癌最常見；淋巴瘤罕見
-
 > - **兒童鞍上**：顱咽瘤（最常見）、視神經膠質瘤、生殖細胞瘤（均勻強化）、下視丘錯構瘤（無強化）
-
 > - **成人鞍上**：垂體巨腺瘤（蝶鞍擴大）、腦膜瘤（正常蝶鞍）、Rathke囊囊腫（非強化囊腫，無鈣化）
 
 ---
@@ -900,13 +793,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 松果體細胞腫瘤傾向抬起大腦內靜脈，而小腦幕腦膜瘤則傾向壓低這些靜脈，此關係對手術規劃至關重要
 
 > **臨床要點**
-
+>
 > - **Pineal gland（松果體）**：位於第三腦室後方，無血腦屏障，受交感神經支配分泌褪黑激素
-
 > - **Parinaud syndrome（帕里諾德症候群）**：上視麻痹、瞳孔光反射分離、眼球震顫
-
 > - **Germ cell tumor（生殖細胞瘤）**：松果體區最常見腫瘤為Germinoma（80%），其次為Teratoma
-
 > - **松果體細胞腫瘤 vs 腦膜瘤**：前者抬起大腦內靜脈，後者壓低大腦內靜脈
 
 ---
@@ -925,13 +815,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 延遲顯像（對比劑注射後超過60分鐘）可能導致對比劑滲入囊腫使其呈現實質性
 
 > **臨床要點**
-
+>
 > - **Germinoma（生殖細胞瘤）**：最常見松果體腫瘤，10-19歲男性好發，高細胞密度，「吞噬」並誘導松果體鈣化
-
 > - **Teratoma（畸胎瘤）**：第二常見，預後較差，囊內脂肪提示診斷
-
 > - **Pineal cyst（松果體囊腫）**：常見，MRI發生率40%，FLAIR不完全抑制，多數<1cm無癥狀
-
 > - **延遲對比劑滲透**：對比劑注射後>60分鐘可能使囊腫呈實質性
 
 ---
@@ -949,13 +836,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 容易發生軟膜轉移與CSF種植
 
 > **臨床要點**
-
+>
 > - **Pineocytoma（松果體細胞瘤）**：低惡性度（WHO I-II），任何實質成分皆強化
-
 > - **Pineoblastoma（松果體母細胞瘤）**：WHO IV高度惡性，幼童，PNET同源，易CSF種植
-
 > - **Trilateral retinoblastoma（三眼畸胎瘤）**：雙側視網膜母細胞瘤＋松果體母細胞瘤
-
 > - **「Exploded」calcification（爆炸狀鈣化）**：松果體母細胞瘤特徵，與Germinoma的中央結節狀鈣化不同
 
 ---
@@ -970,13 +854,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Vein of Galen aneurysm（Galen靜脈瘤）並非真正 aneurysm，而是由於動靜脈瘻管導致Galen靜脈擴張所致
 
 > **臨床要點**
-
+>
 > - **Pineal metastasis（松果體轉移）**：因無血腦屏障而相對常見，2/3伴有軟膜疾病
-
 > - **Tentorial meningioma（小腦幕腦膜瘤）**：壓低大腦內靜脈（與松果體細胞腫瘤相反）
-
 > - **Quadrigeminal plate lipoma（四疊板脂肪瘤）**：罕見，可與胼胝體發育不全相關
-
 > - **Vein of Galen aneurysm（Galen靜脈瘤）**：動靜脈瘻管使靜脈端擴張，非真正囊狀動脈瘤
 
 ---
@@ -992,13 +873,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Subacute phase（亞急性期約1-3週）時可呈等衰減值（isodense），診斷關鍵為mass effect、white matter buckling、皮質厚度增加
 
 > **臨床要點**
-
+>
 > - **Epidural hematoma（硬膜外血腫）**：動脈性，透鏡狀，不跨顱縫；Swirl sign提示活動性出血
-
 > - **Subdural hematoma（硬膜下血腫）**：新月形，可跨顱縫；腦室分流患者特別危險
-
 > - **Isodense subdural hematoma（等衰減值硬膜下血腫）**：亞急性期（1-3週），需靠mass effect診斷
-
 > - **Intraventricular hemorrhage（腦室內出血）**：可致阻塞性水腦（導水管阻塞後黏連所致）
 
 ---
@@ -1016,13 +894,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - CT對DAI不敏感，MRI更敏感，GRE對出血性DAI極敏感，FLAIR對非出血性DAI最敏感
 
 > **臨床要點**
-
+>
 > - **Coup/contrecoup（撞擊/對側撞擊）**：對側180度撞擊處也可受傷
-
 > - **Cortical contusion（皮質挫傷）**：撞擊或對側撞擊，亞急性期可呈環形強化
-
 > - **DAI（瀰漫性軸索損傷）**：旋轉減速/加速機制，好發灰白質交界、胼胝體、背外側中腦
-
 > - **MRI序列**：GRE（出血性DAI最敏感）、FLAIR（非出血性DAI最敏感）、DWI（急性期受限擴散）
 
 ---
@@ -1037,13 +912,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Le Fort classification（Le Fort骨折分型）描述可預測的面部骨折模式，均會破壞翼顎支柱並使上頜骨與顱底脫離：Le Fort I（水平骨折，游離硬顎）使上頜齒槽骨與顱底游離；Le Fort II（錐體骨折）使鼻子與硬顎作為單一單位游離；Le Fort III（顱面脫離）為完全面中段脫離，骨折穿過顴骨弓
 
 > **臨床要點**
-
+>
 > - **ZMC fracture（三腳骨折）**：顴骨四關節面皆斷裂導致顴骨漂浮；眼眶緣及顴弓骨折
-
 > - **Le Fort I（勒福I型）**：水平骨折，游離硬顎；齒槽骨與顱底游離
-
 > - **Le Fort II（勒福II型）**：錐體骨折，鼻與硬顎作為單一單位游離
-
 > - **Le Fort III（勒福III型）**：完全面中段脫離，骨折穿過顴骨弓
 
 ---
@@ -1059,13 +931,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 皮質解剖學對於手術前規劃及理解腦功能區定位至關重要
 
 > **臨床要點**
-
+>
 > - **Central sulcus（中央溝）**：分離額葉運動皮質與頂葉感覺皮質
-
 > - **Paracentral lobule（扣帶旁小葉）**：位於邊緣支前方，同時含運動與感覺皮質
-
 > - **Hand knob（手部控制區）**：軸向影像上呈倒轉Omega（Ω）形，位於中央溝前方
-
 > - **Marginal ramus（邊緣支）**：扣帶溝的延伸，為定位中央溝的關鍵標誌
 
 ---
@@ -1077,13 +946,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 頸內動脈（ICA）分為多個段落：Cervical segment（C1，頸段）不分支；Petrous segment（C2，岩段）固定於骨頭，頸部ICA夾層不太可能延伸到顱內；Lacerum segment（C3，破裂孔段）無分支；Cavernous segment（C4，海綿竇段）發出meningohypophyseal trunk供應垂體、小腦幕及斜坡硬膜，以及inferolateral trunk供應第III、IV、VI腦神經及三叉神經節；Clinoid segment（C5，床突段）被兩個硬膜環包繞，可防止近端 aneurysm破裂導致蛛網膜下腔出血；Supraclinoid segment（C6-C7，床突上段）發出眼動脈、後交通動脈（P-comm）、前脈絡膜動脈（供應視交叉、海馬、內囊後肢）。
 
 > **臨床要點**
-
+>
 > - **ICA segments（頸內動脈分段）**：C1頸段（無分支）、C2岩段（固定於骨）、C3破裂孔段、C4海綿竇段、C5床突段、C6-C7床突上段
-
 > - **眼動脈（Ophthalmic artery）**：90%起源於床突上段遠端，可作為定位標誌
-
 > - **Fetal PCA（胎兒型大腦後動脈）**：後交通動脈供應同側PCA，ICA增大
-
 > - **Anterior choroidal artery（前脈絡膜動脈）**：供應視交叉、海馬、內囊後肢
 
 ---
@@ -1096,13 +962,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Willis環為顱內血管病變（如動脈瘤、血管炎）的好發部位，也是評估側支循環的重要解剖結構
 
 > **臨床要點**
-
+>
 > - **Heubner回返動脈（Recurrent artery of Heubner）**：最大豆狀紋狀動脈，起源於A1段，供應尾狀核頭及內囊前肢
-
 > - **P-comm（大腦後交通動脈）**：前後循環唯一直接吻合；fetal PCA時同側PCA由ICA供血
-
 > - **豆狀紋狀動脈（Lenticulostriates）**：內側支起源ACA，外側支起源MCA；高血壓性基底神經節出血的常見來源
-
 > - **SCA/AICA/PICA**：小腦主要供血動脈，分別起源於基底動脈頂端、近端、遠端
 
 ---
@@ -1119,13 +982,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 腦靜脈血栓亦可導致雙側視丘梗塞
 
 > **臨床要點**
-
+>
 > - **Heubner返動脈（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢，發自A1段
-
 > - **內側/外側豆狀核紋狀體穿通支（Lenticulostriate perforators）**：供應基底神經節及內囊
-
 > - **Percheron動脈（Artery of Percheron）**：變異型單一穿通支供應雙側腹內側視丘，梗塞呈V字形
-
 > - **Willis環變異型（Circle of Willis variants）**：A1發育不良（10%）、P-comm發育不良（34%）、fetal PCA（20%），正常解剖僅約25%
 
 ---
@@ -1140,13 +1000,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - MCA供應大腦半球外側大部，包括額葉、頂葉、顳葉外側及基底神經節
 
 > **臨床要點**
-
+>
 > - **M1段（M1 segment）**：ICA末端至sylvian fissure，發出 lenticulostriate arteries（豆狀核紋狀體動脈）
-
 > - **M2段（M2 segment）**：sylvian fissure內，島閾上方，向上走行的分支
-
 > - **M3段（M3 segment）**：sylvian fissure至皮質表面的島蓋部
-
 > - **M4段（M4 segment）**：皮質小分支，供應大腦半球外側面
 
 ---
@@ -1162,11 +1019,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 其他罕見吻合包括otical、hypoglossal及proatlantal intersegmental arteries
 
 > **臨床要點**
-
+>
 > - **前大腦動脈分節（ACA segments）**：A1（交通前）、A2（交通後）、A3（膝部）、A4（胼周動脈）
-
 > - **持久性三叉動脈（Persistent trigeminal artery）**：最常見頸基底吻合，與三叉神經相鄰，三叉戟/τ形造影特徵
-
 > - **Heubner返動脈（Recurrent artery of Heubner）**：供應尾狀核頭部及內囊前肢
 
 ---
@@ -1180,13 +1035,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 理解這些供應領域有助於根據梗塞部位定位責任血管
 
 > **臨床要點**
-
+>
 > - **ACA領域**：內側額葉、胼胝體、旁中央小葉
-
 > - **MCA領域**：外側基底神經節、內囊、皮層外側面（fronto-temporo-parietal lobe）
-
 > - **PCA領域**：枕葉內側面、視丘、中腦
-
 > - **後循環領域**：腦幹、小腦蚓部及半球
 
 ---
@@ -1210,13 +1062,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 半暗帶是相對於核心仍具存活能力的低灌流組織，不能僅以單一低於 20 mL/100 g/min 的血流閾值定義；判讀須依灌流方法、參數與所採門檻而定
 
 > **臨床要點**
-
+>
 > - **tPA時間窗（tPA window）**：靜脈tPA 3小時（部分延伸至4.5小時），動脈內6-8小時
-
 > - **缺血半暗帶（Ischemic penumbra）**：相對於梗塞核心仍存活的低灌流組織；閾值依灌流方法與參數而異
-
 > - **進階影像（Advanced imaging）**：包括DWI、PWI及MR/CT血管成像，不應延誤治療
-
 > - **大範圍梗塞（>1/3 MCA領域）**：靜脈tPA的排除標準
 
 - 非增強CT是評估超急性期腦梗塞的首選檢查，主要目的為排除出血
@@ -1226,13 +1075,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 緻密動脈徵（hyperdense artery sign）直接顯示急性血管內血栓，最常見於MCA，特異性高但敏感性約僅三分之一
 
 > **臨床要點**
-
+>
 > - **腦島帶徵（Insular ribbon sign）**：急性MCA梗塞時腦島灰白質分化消失
-
 > - **緻密動脈徵（Hyperdense artery sign）**：CT可直接見血栓，高特異性、低敏感性（約1/3）
-
 > - **窄窗技術（Window 30/Level 30）**：顯示灰白質界面最清楚
-
 > - **非增強CT目的**：排除出血，確認無靜脈tPA禁忌症
 
 ---
@@ -1248,13 +1094,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - MR血管成像（MRA）可顯示血管閉塞部位及範圍
 
 > **臨床要點**
-
+>
 > - **DWI（Diffusion-weighted imaging）**：超急性期最敏感的MRI序列，數分鐘內即可見異常
-
 > - **ADC map低訊號**：反映細胞毒性水腫及受限擴散，急性期特徵
-
 > - **GRE bloom artifact**：代表腔內血栓，是CT hyperdense artery sign的MRI對應
-
 > - **FLAIR局限性**：超急性期可正常，<6小時敏感性低於DWI
 
 ---
@@ -1270,13 +1113,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 晚期亞急性期（5天-2週）特徵為腦迴強化（gyriform enhancement），mass effect開始消退
 
 > **臨床要點**
-
+>
 > - **超急性期（0-6小時）**：DWI受限擴散最早出現，Na/K ATPase pump failure導致細胞水腫
-
 > - **急性期（6-72小時）**：T2高訊號、vasogenic edema（血管源性水腫）增加、mass effect出現
-
 > - **早期亞急性期（1.5-5天）**：mass effect高峰（3-4天），T2訊號延伸至白質
-
 > - **晚期亞急性期（5天-2週）**：腦迴強化（6天至6週），mass effect消退
 
 ---
@@ -1291,13 +1131,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 晚期亞急性期強化的消退符合「2-2-2規則」：2天開始、2週達峰、2個月消失
 
 > **臨床要點**
-
+>
 > - **慢性梗塞（Chronic infarct）**：囊性腦軟化、膠質增生、DWI訊號恢復正常
-
 > - **Wallerian變性（Wallerian degeneration）**：皮質脊髓束受累導致同側大腦脚/橋腦萎縮
-
 > - **皮質層狀壞死（Cortical laminar necrosis）**：T1及T2皆高訊號，非腦軟化型慢性改變
-
 > - **2-2-2規則**：強化始於2天、達峰於2週、消失於2個月
 
 ---
@@ -1314,13 +1151,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 硬膜動靜脈瘻（dAVF）以皮質靜脈引流程度判斷預後，Cognard分級I至IV型出血風險遞增
 
 > **臨床要點**
-
+>
 > - **AVM（Arteriovenous malformation）**：先天性高流量畸形，無毛細血管，MRI流空訊號特徵
-
 > - **Spetzler-Martin分級（Spetzler-Martin scale）**：nidus大小、靜脈引流、是否功能區三者評估
-
 > - **Galen大腦大靜脈畸形（Vein of Galen malformation）**：兒童常見心衰竭原因
-
 > - **dAVF（Cognard分級）**：皮質靜脈引流程度是預後關鍵，Type IV出血率66%
 
 ---
@@ -1337,13 +1171,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 發育性靜脈異常（DVA）為功能性靜脈引流結構，do not touch lesion（不可觸碰病變），若切除會導致靜脈性梗塞
 
 > **臨床要點**
-
+>
 > - **海綿狀畸形（Cavernous malformation）**：CT高密度、MRI popcorn sign、周邊hemosiderin環
-
 > - **DVA（Developmental venous anomaly）**：靜脈放射狀分布「caput medusa」外觀，絕對不可切除
-
 > - **家族性海綿狀瘤病（Familial cavernomatosis）**：多發性海綿狀畸形，遺傳性疾病
-
 > - **DVA + 海綿狀畸形共存**：孤立性 DVA 出血風險極低；鄰近出血應尋找合併的海綿狀畸形
 
 ---
@@ -1360,11 +1191,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 表層鐵質沉著症（superficial siderosis）因慢性或反覆蛛網膜下腔出血導致軟膜含鐵沉積，臨床上以感音神經性聽力障礙及共濟失調表現，MRI T2可見受累腦溝表層低訊號輪廓
 
 > **臨床要點**
-
+>
 > - **毛細血管擴張（Capillary telangiectasia）**：腦幹無症狀小病變，刷狀強化，do not touch
-
 > - **表層鐵質沉著症（Superficial siderosis）**：T2軟膜低訊號（含鐵沉積），感音神經性聾、共濟失調
-
 > - **dAVF（Cognard分級）**：皮質靜脈引流程度是預後關鍵，Type IV出血率66%
 
 ---
@@ -1380,13 +1209,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 確診後需導管血管造影或CT血管造影評估動脈瘤
 
 > **臨床要點**
-
+>
 > - **SAH病因**：創傷最常見；非創傷性以動脈瘤破裂為首
-
 > - **CT敏感性**：6小時內>95%，第5天約50%
-
 > - **Xanthochromia（黃變）**：腰椎穿刺後上清液黃變提示SAH
-
 > - **FLAIR高訊號**：急性SAH在MRI FLAIR呈高訊號，需與腦膜炎、轉移鑑別
 
 ---
@@ -1400,13 +1226,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 遲發性血管痙攣是存活者最常見致殘致死原因，發病後約7天達峰，治療包括三H療法（高血壓、高容量、血液稀釋）
 
 > **臨床要點**
-
+>
 > - **前交通動脈瘤**：前縱裂出血，最常見（33%）
-
 > - **後交通動脈瘤**：鞍上池出血（33%）
-
 > - **大腦中動脈瘤**：外側裂出血（20%）
-
 > - **Fisher分級（Fisher grade）**：CT分級預測血管痙攣風險，3-4級高風險
 
 ---
@@ -1419,13 +1242,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 動脈瘤形態分類：囊狀（saccular/berry）動脈瘤最常見，位於Willis環分支點，由血流動力學壓力及血管壁退化引起，可分為小（<1cm）、中（1-2.5cm）、巨大（>2.5cm），越大破裂風險越高；梭形（fusiform）動脈瘤為節段性血管擴張無明確neck，常見於椎基底系統；黴菌性（mycotic）動脈瘤因感染性心內膜炎致膿性栓子，多位於末梢循環；創傷性假性動脈瘤缺乏正常血管壁三層結構
 
 > **臨床要點**
-
+>
 > - **RCVS（Reversible cerebral vasoconstriction syndrome）**：可逆性血管收縮，雷擊頭痛
-
 > - **囊狀動脈瘤（Saccular aneurysm）**：最好發，Willis環分支點，與血流方向一致
-
 > - **梭形動脈瘤（Fusiform aneurysm）**：節段性擴張無neck，常累及椎基底系統
-
 > - **黴菌性動脈瘤（Mycotic aneurysm）**：遠端分布（超越Willis環），易破裂
 
 ---
@@ -1440,13 +1260,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 淺部腦靜脈中，Trolard靜脈連接皮層靜脈與上矢狀竇，Labbé靜脈引流顳葉凸面至橫竇，手術中受損可致靜脈性梗塞及失語症
 
 > **臨床要點**
-
+>
 > - **上矢狀竇（Superior sagittal sinus）**：引流運動/感覺strip皮層
-
 > - **竇匯（Torcular Herophili）**：上矢狀竇、橫竇、直竇匯合
-
 > - **靜脈角（Venous angle）**：透明隔靜脈與丘紋靜脈交匯處，Monro孔標誌
-
 > - **Labbé靜脈（Vein of Labbé）**：顳葉至橫竇，手術中損傷可致靜脈性梗塞
 
 ---
@@ -1461,13 +1278,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 靜脈血栓導致靜脈高壓，可能引起梗塞及腦實質出血，依血栓位置不同有三種典型表現：上矢狀竇血栓→旁矢狀區高凸面皮層梗塞；深部靜脈系統血栓→雙側視丘梗塞；橫竇血栓→顳葉後部梗塞
 
 > **臨床要點**
-
+>
 > - **Cord sign**：非增強CT上靜脈竇/皮層靜脈高密度，代表血栓
-
 > - **Empty delta sign**：增強CT靜脈竇內充盈缺損
-
 > - **上矢狀竇血栓**：旁矢狀區皮層梗塞；**深靜脈血栓**：雙側視丘梗塞
-
 > - **靜脈血栓風險因子**：妊娠、口服避孕藥、血栓傾向、惡性腫瘤、感染
 
 ---
@@ -1483,13 +1297,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 及時診斷和治療對改善預後至關重要，因靜脈性梗塞比動脈性更具可逆性
 
 > **臨床要點**
-
+>
 > - **靜脈血栓治療**：低分子量肝素抗凝為首選，血管內溶栓/取栓為補救治療
-
 > - **深靜脈血栓特徵**：DWI雙側視丘受限擴散（非動脈粥樣硬化分布）
-
 > - **靜脈vs.動脈梗塞**：靜脈性梗塞更具可逆性，需積極抗凝治療
-
 > - **預後關鍵**：早期診斷、盡早抗凝，避免進展為靜脈性梗塞及腦實質出血
 
 ## Intraparenchymal Hemorrhage / 腦實質內出血 {#intraparenchymal-hemorrhage--腦實質內出血}
@@ -1501,11 +1312,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - MRI則能根據血紅蛋白演變的不同階段提供更精確的出血「年齡」判定——從超急性期的細胞內氧合血紅蛋白，到急性期的去氧血紅蛋白，再到亞急性期的正鐵血紅蛋白，最終形成慢性期的含鐵血黃素沉積
 
 > **臨床要點**
-
+>
 > - **CT敏感度**：非增強CT對急性顱內出血高度敏感，表現為高密度（English: Noncontrast CT is highly sensitive for acute intracranial hemorrhage）
-
 > - **血紅蛋白演變**：MRI可根據T1/T2訊號變化判定出血階段（English: MRI signal characteristics allow "dating" of hemorrhage based on hemoglobin evolution stages）
-
 > - **治療原則**：出血治療以控制血壓、糾正凝血功能障礙為主，大血腫可考慮手術清除（English: Mainstay of treatment is supportive care; large hemorrhages may require surgical evacuation）
 
 ---
@@ -1522,11 +1331,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 慢性期（含鐵血黃素）則造成T2和梯度回波序列的長期低訊號
 
 > **臨床要點**
-
+>
 > - **超急性血腫（<6小時）**：T2周邊暗邊是關鍵特徵（English: Peripheral T2 hypointense rim is the key finding in hyperacute hematoma）
-
 > - **急性期（6-72小時）**：T2均勻低訊號，T1等至輕度低訊號（English: Acute hematoma becomes hypointense on T2-weighted images throughout）
-
 > - **亞急性期**：正鐵血紅蛋白造成T1高訊號，為出血診斷的重要線索（English: Methemoglobin causes T1 hyperintensity, an important clue to diagnosis）
 
 ---
@@ -1541,13 +1348,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Each stage of this evolution adheres to a reasonably constant time course in the intra-axial space and allows the radiologist to date the hemorrhage based on the unique signal characteristics on T1- and T2-weighted images for each stage.
 
 > **臨床要點**
-
+>
 > - **超急性期的周邊暗邊**：主要含氧合血紅蛋白的血腫在 T2 呈輕度高訊號，周邊有去氧造成的暗邊。A hyperacute hematoma containing primarily oxyhemoglobin is slightly hyperintense on T2-weighted images but features a characteristic dark rim.
-
 > - **慢流血的 T2 輕度高訊號**：含氧血液在 T2 加權影像本身即輕度高訊號，在靜脈性高血壓與毛毛樣血管病（moyamoya disease）等慢流狀態下更明顯；慢流血液不產生 flow-void artifact。The inherent slight T2 hyperintensity of oxygenated blood becomes apparent in slow flow states such as venous hypertension and moyamoya disease; slowly flowing blood is not susceptible to the flow-void artifact.
-
 > - **血紅蛋白演變的階段序列**：細胞內氧合血紅蛋白 → 細胞內去氧血紅蛋白 → 細胞內正鐵血紅蛋白 → 細胞外正鐵血紅蛋白 → 含鐵血黃素與鐵蛋白。The stages progress from intracellular oxyhemoglobin to intracellular deoxyhemoglobin, intracellular methemoglobin, extracellular methemoglobin, and finally hemosiderin and ferritin.
-
 > - **出血的治療**：影像多為找出 AVM 或動脈瘤等可治療原因，腦實質內出血的治療以支持療法為主（血壓控制與凝血功能校正），大血腫有明顯佔位效應或腦疝風險時可手術清除；後顱窩出血大於 3 cm 因腦幹壓迫與第四腦室阻塞造成水腦的風險升高，一般會以手術治療。Imaging is performed mainly to evaluate for a treatable cause such as AVM or aneurysm; treatment of intraparenchymal hemorrhage is supportive, including blood pressure control and normalization of coagulopathy, and a hemorrhage >3 cm in the posterior fossa would generally be treated surgically because of increased risk of brainstem compression or hydrocephalus from fourth ventricular obstruction.
 
 #### 細胞內去氧血紅蛋白（急性期） / Intracellular Deoxyhemoglobin (Acute Stage) {#細胞內去氧血紅蛋白急性期--intracellular-deoxyhemoglobin-acute-stage}
@@ -1560,15 +1364,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - The time course of blood product evolution is highly dependent on macrophage elimination of blood breakdown products; these rules of thumb are not applicable to extra-axial blood, and timing is generally not given for extra-axial blood such as a subdural hematoma.
 
 > **臨床要點**
-
+>
 > - **急性期的 T2 均勻低訊號**：細胞內去氧血紅蛋白使血腫在 T2 加權影像呈均勻低訊號。Acute hematoma with intracellular deoxyhemoglobin is uniformly hypointense on T2-weighted images.
-
 > - **T1 訊號的通則**：除正鐵血紅蛋白階段呈高訊號外，各階段出血在 T1 加權影像多為等訊號或略低訊號。All stages of hemorrhage are isointense or slightly dark on T1-weighted images, except for the methemoglobin stages, which are bright.
-
 > - **正鐵血紅蛋白的訊號**：正鐵血紅蛋白在 T1 與 T2 加權影像均呈高訊號，唯獨細胞內正鐵血紅蛋白在 T2 呈低訊號。Methemoglobin is bright on both T1- and T2-weighted images, except for intracellular methemoglobin, which is dark on T2-weighted images.
-
 > - **非超急性期多為 T2 低訊號**：非超急性期出血在 T2 加權影像一般呈低訊號，例外是細胞外正鐵血紅蛋白呈 T2 高訊號。In general, non-hyperacute hemorrhage is dark on T2-weighted images, with the exception of extracellular methemoglobin, which is hyperintense on T2-weighted images.
-
 > - **治療與軸外出血的例外**：治療以支持療法為主（血壓控制與凝血功能校正），大血腫有明顯佔位效應或腦疝風險時可手術清除，後顱窩出血大於 3 cm 一般建議手術治療；而軸外出血（如硬腦膜下血腫）通常不給予時間判定。Treatment of intraparenchymal hemorrhage is mainly supportive, including blood pressure control and normalization of coagulopathy, and a hemorrhage >3 cm in the posterior fossa is generally treated surgically; for extra-axial blood, timing is generally not given.
 
 ### Causes of Intraparenchymal Hemorrhage / 腦實質內出血的原因 {#causes-of-intraparenchymal-hemorrhage--腦實質內出血的原因}
@@ -1580,11 +1380,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 腦部類澱粉血管病則好發於皮質/葉狀區域，MRI上可見皮質微出血，為正常血壓老年人的葉狀出血病因
 
 > **臨床要點**
-
+>
 > - **高血壓性出血**：好發於基底節、丘腦、小腦（English: Hypertensive hemorrhage occurs in basal ganglia, thalamus, and cerebellum）
-
 > - **類澱粉血管病（CAA）**：正常血壓老年人皮質/葉狀出血的常見原因（English: CAA is a common cause of lobar hemorrhage in normotensive elderly adults）
-
 > - **微出血分佈**：高血壓微出血位於基底節， CAA微出血位於皮質（English: Hypertensive microbleeds are in basal ganglia; CAA microbleeds are cortical）
 
 ---
@@ -1600,11 +1398,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 腫瘤出血則可能表現為水腫程度超過預期或多發性強化病竈
 
 > **臨床要點**
-
+>
 > - **海綿狀血管瘤**：MRI呈「爆米花」樣混合訊號，伴含鐵血黃素邊緣（English: Cavernous malformation shows "popcorn-like" mixed signal with hemosiderin rim）
-
 > - **AVM出血**：年輕患者腦實質出血應考慮AVM破裂（English: AVM rupture tends to affect younger patients with parenchymal hematoma）
-
 > - **腫瘤出血**：膠質母細胞瘤是最常見出血的原發性腦腫瘤（English: Glioblastoma is the most common primary brain tumor to hemorrhage）
 
 ---
@@ -1619,11 +1415,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - FLAIR MRI上的「常春藤徵」（ivy sign）代表因慢速側支血流而在腦溝內顯現的管狀高訊號結構
 
 > **臨床要點**
-
+>
 > - **Moyamoya特徵**：內頸動脈近端進行性狹窄，基底節側支血管增生（English: Progressive stenosis of intracranial ICA with proliferation of lenticulostriate collaterals）
-
 > - **常春藤徵（Ivy sign）**：FLAIR上腦溝內慢速側支血流的高訊號（English: Ivy sign on FLAIR represents slow collateral flow in sulci）
-
 > - **血管炎**：MRI可見基底節和皮質下白質多發性T2延長（English: Vasculitis shows multiple T2 prolongations in basal ganglia and subcortical white matter）
 
 ---
@@ -1636,11 +1430,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 首先判斷是否有高血壓病史，接著依出血部位（基底節/丘腦/小腦 vs 葉狀/皮質）、微出血分佈、白質病變等線索，逐步區分高血壓性出血、類澱粉血管病、動靜脈畸形、靜脈血栓形成、腫瘤出血、缺血性腦梗塞出血轉化、中樞神經系統血管炎及Moyamoya病等診斷
 
 > **臨床要點**
-
+>
 > - **高血壓性出血**：老年高血壓患者，出血位於基底節/丘腦/小腦（English: Elderly hypertensive patient with hemorrhage in basal ganglia/thalamus/cerebellum）
-
 > - **類澱粉血管病**：正常血壓老年人，葉狀/皮質出血（English: Normotensive elderly adult with lobar or cortical hemorrhage）
-
 > - **海綿狀血管瘤**：家族性反覆出血，T2*可見多發暗點（English: Familial recurrent hemorrhage with multiple dark spots on T2* GRE/SWI）
 
 ---
@@ -1656,11 +1448,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 典型MRI特徵包括垂直於腦室的Dawson手指狀病竈（Dawson fingers）和增強活性脫髓鞘斑塊
 
 > **臨床要點**
-
+>
 > - **脫髓鞘疾病關鍵特徵**：相對於病竈大小，佔位效應極輕微（English: Key imaging finding of demyelinating disease is minimal mass effect relative to lesion size）
-
 > - **多發性硬化症（MS）**：白質T2延長，好發於中年高加索女性（English: MS is more common in middle-aged Caucasian females）
-
 > - **復發-緩解型MS**：每次急性發作後可有部分或完全緩解（English: Relapsing-remitting MS shows partial or complete resolution of each acute attack）
 
 ---
@@ -1675,15 +1465,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - These clues sort the causes into aneurysmal hemorrhage, AVM, dAVF, cavernous malformation, venous thrombosis, hemorrhagic neoplasm, hemorrhagic infarct, CNS vasculitis, and moyamoya.
 
 > **臨床要點**
-
+>
 > - **動脈瘤性出血與 AVM**：血腫旁有動脈瘤提示動脈瘤性出血；年輕患者的腦實質出血合併擴大的供應動脈與鄰近腦軟化提示 AVM。An aneurysm adjacent to the hematoma suggests aneurysmal hemorrhage, whereas parenchymal hemorrhage in a young patient with an enlarged feeding artery and adjacent encephalomalacia suggests AVM.
-
 > - **硬膜動靜脈瘻（dAVF）**：出血位於海綿竇旁或後顱窩，合併擴大的腦膜動脈或皮質靜脈，支持 dAVF。Hemorrhage adjacent to the cavernous sinus or in the posterior fossa with an enlarged meningeal artery or cortical vein suggests dAVF.
-
 > - **海綿狀畸形**：對比增強影像可見鄰近的發育性靜脈異常（DVA）；T2* 上出現多發暗點為家族性變異的表現。An adjacent DVA on post-contrast images or multiple dark spots on T2* (familial variant) suggests cavernous malformation.
-
 > - **靜脈血栓與出血性腫瘤**：旁矢狀或雙側丘腦出血須考慮靜脈血栓；多發強化病灶提示出血性腫瘤。Parasagittal or bilateral thalamic hemorrhage raises concern for venous thrombosis, while multiple enhancing lesions suggest a hemorrhagic neoplasm.
-
 > - **其他鑑別**：年輕女性患者的丘腦出血、腦皮質靜脈或硬腦膜竇密度增加提示靜脈血栓；腦梗塞病史或溶血治療史提示出血性梗塞；多發深部白質 T2 延長合併系統性血管炎病史提示 CNS 血管炎；頸內動脈阻塞合併多發側支循環提示毛毛樣血管病（moyamoya）。Other clues include a young patient, especially female, with increased density in a cortical vein or dural sinus (venous thrombosis); history of infarct or thrombolytic therapy (hemorrhagic infarct); history of systemic vasculitis with multifocal deep white matter T2 prolongation (CNS vasculitis); and occlusion of the internal carotid arteries with multiple collateral vessels (moyamoya).
 
 ### Multiple Sclerosis - Dawson Fingers and Black Holes / 多發性硬化症 - Dawson手指與黑洞 {#multiple-sclerosis---dawson-fingers-and-black-holes--多發性硬化症---dawson手指與黑洞}
@@ -1696,9 +1482,8 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 影像確診需滿足McDonald標準：病竈在空間上分佈於CNS不同區域，時間上新病竈陸續出現
 
 > **臨床要點**
-
+>
 > - **Dawson手指**：垂直指向腦室的橢圓形T2延長病變（English: Dawson fingers are periventricular ovoid foci of T2 prolongation pointing toward ventricles）
-
 > - **黑洞（Black holes）**：T1低訊號病變，與嚴重脫髓鞘和軸突丟失相關（English: T1 hypointense "black holes" are associated with more severe demyelination and axonal loss）
 
 #### Marchiafava–Bignami 病 / Marchiafava-Bignami Disease {#marchiafavabignami-病--marchiafava-bignami-disease}
@@ -1711,15 +1496,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Wernicke encephalopathy is an acute syndrome of ataxia, confusion, and oculomotor dysfunction caused either by alcoholism or generalized metabolic disturbances such as bariatric surgery, whereas PRES is a disorder of vasogenic edema with a posterior circulation predominance.
 
 > **臨床要點**
-
+>
 > - **Marchiafava–Bignami 病**：男性酒精成癮者出現胼胝體的暴發性脫髓鞘。Marchiafava-Bignami is a fulminant demyelinating disease of the corpus callosum seen in male alcoholics.
-
 > - **韋尼克腦病的影像**：乳突體與丘腦內側 T2 延長並可有強化，非酒精性型亦可侵犯皮質。Imaging shows T2 prolongation and possible enhancement within the mammillary bodies and medial thalamus, and the non-alcoholic form may also affect the cortex.
-
 > - **PRES 的病因**：由自動調節失敗造成高灌流所致，最常見原因是急性高血壓，也與子癇、敗血症、自體免疫疾病、多藥化療與器官或幹細胞移植相關。PRES is triggered by failed autoregulation and resultant hyperperfusion, most commonly caused by acute hypertension, and is also associated with eclampsia, sepsis, autoimmune disorders, multidrug chemotherapy, and solid or stem cell transplantation.
-
 > - **PRES 的水腫性質**：與梗塞不同，其水腫為血管性（vasogenic）而非細胞毒性（cytotoxic），擴散可正常、增高或受限。In contrast to infarction, the edema is vasogenic in etiology, not cytotoxic, and diffusion may be normal, increased, or restricted.
-
 > - **PRES 的影像分布**：對稱性皮質下白質異常（CT 低衰減、MR T2 延長），以枕葉、頂葉與後顱窩為主，可見輕微佔位效應與強化。Imaging shows symmetric regions of subcortical white matter abnormality (hypoattenuation on CT and T2 prolongation on MR), especially in the posterior circulation (occipital and parietal lobes and posterior fossa), with mild mass effect and enhancement.
 
 ### MS Variants and Demyelinating Diseases / 脫髓鞘疾病變異型 {#ms-variants-and-demyelinating-diseases--脫髓鞘疾病變異型}
@@ -1730,11 +1511,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 此外介紹PRES（後部可逆性腦病變症候群），為自體調節失敗導致血管性水腫，好發於後循環，觸發因素包括急性高血壓、子癇前期/癲癇、敗血症及化療
 
 > **臨床要點**
-
+>
 > - **同心圓性硬化（Balo）**：MS罕見變異型，呈現正常與異常髓鞘交替的同心圓帶（English: Concentric Balo sclerosis has alternating concentric bands of normal and abnormal myelin）
-
 > - **Devic病（視神經脊髓炎）**：NMO-IgG抗aquaporin-4抗體為診斷標誌（English: NMO-IgG antibody to aquaporin-4 is highly specific for Devic disease）
-
 > - **PRES**：後循環為主的對稱性皮質下白質病變，血管性水腫（English: PRES shows symmetric posterior-predominant subcortical white matter abnormalities of vasogenic edema）
 
 ---
@@ -1748,11 +1527,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 微血管病變（Microangiopathy）為年齡相關性慢性軸突丟失和缺血性改變，常達80%老年人，但從不侵犯胼胝體
 
 > **臨床要點**
-
+>
 > - **CADASIL**：前顳葉T2延長對本病高度特異（English: Anterior temporal lobe T2 prolongation is highly specific for CADASIL）
-
 > - **血管炎**：可見出血竈（GRE/SWI），可用於與MS鑑別（English: Vasculitis may show hemorrhagic foci, helping differentiate from MS）
-
 > - **微血管病變**：從不侵犯胼胝體；若胼胝體受累應考慮其他診斷（English: Microangiopathy never involves corpus callosum）
 
 ---
@@ -1767,11 +1544,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 放射性腦損傷分為急性、早期延遲性（脫髓鞘）和晚期延遲性（白質損傷或放射性壞死）三階段
 
 > **臨床要點**
-
+>
 > - **PML**：不對稱白質病變，少有佔位效應或強化（English: PML shows asymmetric white matter lesions with rare mass effect or enhancement）
-
 > - **ADAM**：單相性，常在病毒感染後，好發於兒童（English: ADEM is monophasic, often post-viral, primarily in children）
-
 > - **放射性腦損傷**：晚期延遲性可出現壞死性腫塊，需與腫瘤復發鑑別（English: Late delayed radiation injury may cause necrotic mass requiring differentiation from tumor recurrence）
 
 ---
@@ -1786,11 +1561,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 成熟膿腫的典型影像特徵包括：T2均勻低訊號的薄壁、光滑的環形強化，以及DWI高訊號/ADC低訊號（受限擴散），此乃因膿液高黏滳性所致
 
 > **臨床要點**
-
+>
 > - **環形強化**：膿腫壁薄而光滑，有別於膠質母細胞瘤或轉移瘤的不規則厚壁（English: Abscess rim is thin and smooth, unlike the thick irregular wall of glioma or metastasis）
-
 > - **DWI受限擴散**：幾乎所有化膿性膿腫都表現DWI高訊號/ADC低訊號（English: Pyogenic brain abscess almost always demonstrates restricted diffusion on DWI）
-
 > - **腦室周圍膿腫**：膿腫壁朝向腦室側較薄，提示可能即將破裂（English: Periventricular abscess has thinner capsule oriented toward ventricles, suggesting impending rupture）
 
 ---
@@ -1804,11 +1577,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 隱球菌也可在脈絡叢產生環形強化的肉芽腫（隱球菌瘤）
 
 > **臨床要點**
-
+>
 > - **結核瘤**：T2低訊號（化膿性膿腫通常高訊號）（English: Tuberculoma tends to have T2 hypointensity, unlike pyogenic abscess which is hyperintense）
-
 > - **隱球菌**：AIDS患者最常見CNS真菌感染，CD4 <100 cells/μL時易感性增加（English: Cryptococcosis is most common CNS fungal infection in AIDS patients with CD4 <100）
-
 > - **隱球菌瘤**：脈絡叢的環形強化肉芽腫（English: Cryptococcomas are ring-enhancing granulomas within the ventricles, especially choroid plexus）
 
 ---
@@ -1823,11 +1594,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 弓漿蟲病（Toxoplasmosis）是AIDS患者最常見的腦部腫塊病變，典型表現為基底節單發或多發環形強化病竈
 
 > **臨床要點**
-
+>
 > - **神經囊蟲病四期**：囊泡期→膠樣期→結節/顆粒期→鈣化期（English: Four stages of neurocysticercosis: viable/vesicular → colloidal → nodular/granular → calcified）
-
 > - **弓漿蟲病**： AIDS患者最常見腦部腫塊，典型位於基底節（English: Toxoplasmosis is most common mass lesion in AIDS patients, typically in basal ganglia）
-
 > - **與淋巴瘤鑑別**：弓漿蟲病無受限擴散，rCBV不高（English: Toxoplasmosis does not show restricted diffusion or elevated rCBV, unlike CNS lymphoma）
 
 ---
@@ -1841,11 +1610,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - HIV腦病變（HIV encephalopathy）是AIDS患者最常見CNS感染，影像可見瀰漫性腦萎縮和對稱性腦室周圍及深部白質T2延長，但不同於PML，U纖維和皮質下白質不受累
 
 > **臨床要點**
-
+>
 > - **皰疹腦炎**：發燒、內側顳葉訊號異常、急性意識改變——應作為首要考量（English: Fever, mesial temporal lobe signal abnormality, acute altered mental status—herpes should be first consideration）
-
 > - **CMV腦炎**：CD4 <50 cells/μL時易感性增加，主要表現為腦室炎（English: CMV encephalitis affects immunosuppressed with CD4 <50, manifests as ventriculitis）
-
 > - **HIV腦病變**：對稱性白質T2延長，保留U纖維（English: HIV encephalitis shows symmetric white matter T2 prolongation with sparing of U-fibers）
 
 ---
@@ -1860,11 +1627,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 缺氧缺血性腦病變（HIE）同樣影響灰質結構，預後不良指標是基底節受累
 
 > **臨床要點**
-
+>
 > - **CJD典型表現**：皮層帶狀強化+齒狀核/丘腦受累（English: CJD shows cortical ribboning with involvement of basal ganglia and thalami）
-
 > - **曲棍球棒徵**：背內側丘腦高訊號，為CJD特徵性表現（English: Hockey stick sign describes bright signal in dorsomedial thalamus in CJD）
-
 > - **HIE**：蒼白球對稱性T2/DWI高訊號，小腦相對保留（「小腦白徵」）（English: HIE shows symmetric globus pallidus T2/DWI hyperintensity with relative cerebellar sparing）
 
 ---
@@ -1879,11 +1644,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - HIE由循環或呼吸衰竭引起的全腦缺氧/缺氧導致，影像上灰質結構優先受累，預後不良時見基底節受累
 
 > **臨床要點**
-
+>
 > - **肝臟疾病**：T1蒼白球高訊號 = 錳沉積（English: T1 hyperintensity in globus pallidus in liver disease indicates manganese deposition）
-
 > - **一中氧化碳中毒**：蒼白球對稱性T2延長和受限擴散（English: Carbon monoxide poisoning causes symmetric globus pallidus T2 prolongation and restricted diffusion）
-
 > - **HIE預後指標**：基底節受累提示預後不良（English: Basal ganglia involvement in HIE portends a worse prognosis）
 
 ---
@@ -1898,15 +1661,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - The two characteristic thalamic signs are the pulvinar sign and the hockey stick sign.
 
 > **臨床要點**
-
+>
 > - **皮質帶狀徵（cortical ribboning）**：大腦皮質呈帶狀 FLAIR 高訊號並伴隨受限擴散，基底核與丘腦亦受累。Cortical ribboning describes ribbonlike FLAIR hyperintensity and restricted diffusion of the cerebral cortex, with involvement of the basal ganglia and thalami.
-
 > - **丘腦徵象**：pulvinar sign 為丘腦 pulvinar 核的 DWI 與 FLAIR 高訊號；hockey stick sign 為背內側丘腦的 DWI 與 FLAIR 高訊號。The pulvinar sign describes bright DWI and FLAIR signal within the pulvinar nucleus of the thalamus, and the hockey stick sign describes bright DWI and FLAIR signal within the dorsomedial thalamus.
-
 > - **運動皮質相對保留**：常見運動皮質相對不受侵犯，是與其他皮質帶狀病變鑑別的線索。There is often relative sparing of the motor cortex.
-
 > - **影像表現**：軸向 FLAIR（上排）與 DWI（下排）顯示大腦皮質、基底核與背內側丘腦訊號廣泛增高並受限擴散（與 ADC map 對照未附），運動皮質相對保留（紅箭頭），第一張 FLAIR 影像上可見丘腦的曲棍球棒徵（黃箭頭）。Axial FLAIR (top row) and DWI (bottom row) show diffusely increased FLAIR signal with restricted diffusion (when correlated to ADC maps, not shown) in the cerebral cortex, basal ganglia, and dorsomedial thalamus, with relative sparing of the motor cortex (red arrows); a hockey stick sign is visible in the thalami on the first FLAIR image (yellow arrows).
-
 > - **曲棍球棒徵的形態**：FLAIR 影像上背內側丘腦的高訊號，其形態模擬曲棍球棒。On FLAIR the hyperintensity of the dorsomedial thalami mimics the shape of a hockey stick.
 
 ## Head & Neck Infections / 頭頸部感染 {#head--neck-infections--頭頸部感染}
@@ -1920,11 +1679,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 影像上可見口腔底部的軟組織水腫和條紋影
 
 > **臨床要點**
-
+>
 > - **咽後間隙**：從顱底延伸至上縱隔的潛在空間（English: Retropharyngeal space extends from skull base to superior mediastinum）
-
 > - **危險間隙**：位於咽後間隙後方，為感染擴散至橫膈的通道（English: Danger space is posterior to retropharyngeal space and allows infection to travel to diaphragm）
-
 > - **Ludwig angina**：口腔底蜂窩組織炎，可致舌頭向後移位（English: Ludwig angina is cellulitis of floor of mouth that can rapidly displace tongue posteriorly）
 
 ---
@@ -1939,11 +1696,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 影像上可見扁桃體周圍或咽後間隙的周邊強化液體聚集
 
 > **臨床要點**
-
+>
 > - **咽後膿腫（兒童）**：多由上呼吸道感染擴散而來（English: Retropharyngeal abscess in children usually from spread of upper respiratory infection）
-
 > - **Lemierre症候群**：咽旁靜脈血栓性靜脈炎，病原為厭氧梭桿菌（English: Lemierre syndrome is venous thrombophlebitis of peritonsillar veins caused by anaerobic Fusobacterium）
-
 > - **Bezold膿腫**：耳乳突炎併發乳突尖壞死（English: Bezold abscess is complication of otomastoiditis with necrosis of mastoid tip）
 
 ---
@@ -1957,11 +1712,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 皮樣囊腫為包含至少兩個胚層的畸胎瘤性囊腫，MRI特徵為「彈珠袋」徵（sack of marbles），代表浮動脂肪球
 
 > **臨床要點**
-
+>
 > - **甲狀舌管囊腫（TDC）**：沿甲狀腺胚胎發育路徑，舌頭伸出時上抬（English: TDC follows midline descent of thyroid; mass elevates with tongue protrusion）
-
 > - **皮樣囊腫**：包含脂肪，MRI可見「彈珠袋」徵（English: Dermoid contains fat with characteristic "sack of marbles" appearance on MRI）
-
 > - **黏液囊腫（Ranula）**：源於舌下腺的黏液囊腫，位於舌下或下頜下間隙（English: Ranula is mucous retention cyst from sublingual gland）
 
 ---
@@ -1975,11 +1728,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 在老年人中，囊性轉移（如乳頭狀甲狀腺癌或口腔/扁桃腺鱗狀細胞癌）應作為囊性頸部腫塊的首要考量
 
 > **臨床要點**
-
+>
 > - **第二鰓裂囊腫位置**：下頜下腺後方、胸鎖乳突肌前方、頸總動脈分歧處附近（English: Second BCC is posterior to submandibular gland, anterior to SCM, near carotid bifurcation）
-
 > - **鰓裂囊腫與囊性轉移**：老年人囊性頸部腫塊應考慮囊性轉移（English: Cystic metastasis should be considered in older adults with cystic neck mass）
-
 > - **囊腫感染**：壁強化、周圍軟組織條紋影（English: Infected cyst shows wall enhancement and surrounding soft tissue stranding）
 
 ---
@@ -1993,11 +1744,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Thornwaldt囊腫是脊索殘留物，典型位於鼻咽正中線
 
 > **臨床要點**
-
+>
 > - **牙源性膿腫**：最常見咀嚼肌/下頜下膿腫原因（English: Dental disease is most common cause of masticator/submandibular abscess）
-
 > - **囊性水瘤**：淋巴管畸形最常見類型，與染色體異常相關（English: Cystic hygroma is most common lymphatic malformation, associated with chromosomal anomalies）
-
 > - **Thornwaldt囊腫**：鼻咽中線的脊索殘留，可致口臭（English: Thornwaldt cyst is a notochordal remnant in midline nasopharynx）
 
 ---
@@ -2012,11 +1761,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 聲門下腔從聲門室頂端下方1cm延伸至第一氣管環
 
 > **臨床要點**
-
+>
 > - **聲門上腔**：從會厭至聲門室，包含假聲帶和杓狀軟骨（English: Supraglottic larynx extends from epiglottis to ventricle, includes false cords and arytenoids）
-
 > - **聲門（Glottis）**：真聲帶和甲杓肌，喉部最常見腫瘤部位（English: Glottis includes true vocal cords; 65% of laryngeal tumors are glottic）
-
 > - **聲門下腔**：從聲門室頂端下方1cm延伸至第一氣管環（English: Subglottic larynx begins 1 cm inferior to apex of laryngeal ventricles）
 
 ---
@@ -2029,11 +1776,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 聲門上或聲門小腫瘤可雷射切除並保留喉功能，但聲門下或跨越聲門腫瘤需全喉切除
 
 > **臨床要點**
-
+>
 > - **聲帶麻痺**：左喉返神經最常受累（English: Left recurrent laryngeal nerve is most commonly affected）
-
 > - **喉囊腫**：吹奏樂器者和COPD患者好發（English: Laryngocele is associated with trumpet players, glassblowers, and COPD patients）
-
 > - **喉癌分期**：聲門上（30%）、聲門（65%，預後最好）、聲門下（5%，需全喉切除）（English: 30% supraglottic, 65% glottic, 5% subglottic tumors）
 
 ---
@@ -2048,11 +1793,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - CT是鼻竇影像學的首選工具，手術前需仔細評估紙樣板和篩狀板是否有骨裂
 
 > **臨床要點**
-
+>
 > - **OMU**：上頜竇、額竇和前篩竇的共同引流通道（English: Ostiomeatal unit is common drainage pathway for maxillary, frontal, and anterior ethmoid sinuses）
-
 > - **紙樣板**：分隔篩竇和眼眶，骨裂時內側眼眶可向內突出（English: Lamina papyracea separates ethmoid sinus from orbit; dehiscence causes medial orbital bulging）
-
 > - **CT首選**：鼻竇CT是首選影像工具，低mA技術劑量與傳統X光相當（English: CT is the primary modality for sinus imaging; low-mA technique has comparable dose to radiographs）
 
 ---
@@ -2068,11 +1811,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 慢性骨髓炎可導致額骨骨膜下膿腫（Pott's puffy tumor）
 
 > **臨床要點**
-
+>
 > - **慢性鼻竇炎**：持續12週以上，美國影響>3000萬人（English: Chronic sinusitis lasts ≥12 weeks, affecting >30 million people annually in the US）
-
 > - **眼眶併發症**：可直接蔓延導致眶隔前蜂窩組織炎或骨膜下膿腫（English: Orbital complications include preseptal cellulitis and subperiosteal abscess from direct spread）
-
 > - **Pott's puffy tumor**：額骨骨髓炎伴發帽狀腱膜下膿腫（English: Pott's puffy tumor is subgaleal abscess from frontal bone osteomyelitis）
 
 ---
@@ -2086,11 +1827,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 急性侵入性真菌性鼻竇炎好發於免疫抑制患者，病原以麯菌（Aspergillus）和接合菌（Zygomycetes）最常見，早期影像僅見黏膜增厚，後期可見局部侵犯、骨質破壞和顱內/眼眶蔓延
 
 > **臨床要點**
-
+>
 > - **慢性過敏性真菌性鼻竇炎**：免疫正常、氣喘患者，竇腔擴張伴混合衰減內容物（English: Chronic allergic fungal sinusitis occurs in immunocompetent patients with asthma; sinuses are expanded with mixed attenuation contents）
-
 > - **急性侵入性真菌性鼻竇炎**：免疫抑制患者，麯菌最常見（English: Acute invasive fungal sinusitis occurs in immunosuppressed patients; Aspergillus is most common organism）
-
 > - **抗、反轉術（Antrochoanal polyp）**：從上頜竇經竇口擴展至鼻咽（English: Antrochoanal polyp extends from maxillary sinus through ostium into nasopharynx）
 
 ---
@@ -2105,15 +1844,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Chronic sinusitis is thought to be caused by obstruction of the normal drainage pathways, and the goal of functional endoscopic sinus surgery (FESS) is to relieve the obstruction.
 
 > **臨床要點**
-
+>
 > - **上鼻道**：位於上鼻甲旁側，後篩竇與蝶竇經蝶篩竇窩（sphenoethmoidal recess）引流至上鼻道。The superior meatus is adjacent to the superior turbinate; the posterior ethmoids and sphenoid sinus drain into it via the sphenoethmoidal recess.
-
 > - **中鼻道**：位於中鼻甲外側的空氣通道，為上頜竇、額竇與前篩竇經 OMU 引流的共同路徑。The middle meatus is the air channel lateral to the middle turbinate and is the common drainage pathway of the maxillary, frontal, and anterior ethmoid sinuses via the OMU.
-
 > - **下鼻道**：位於下鼻甲正下方，為淚管（lacrimal duct）的引流路徑。The inferior meatus is just inferior to the inferior turbinate and is the drainage pathway of the lacrimal duct.
-
 > - **術前必須報告的骨壁缺損**：紙樣板（lamina papyracea）缺損在影像上呈現眼球向內側膨出，篩狀板（cribriform plate）缺損則造成額葉向下膨出，手術醫師若不知情可能誤入。A dehiscent lamina papyracea appears as a medial bulging of the orbit, and a dehiscent cribriform plate may produce inferior bulging of the frontal lobe, which can be entered by mistake at endoscopic surgery.
-
 > - **慢性鼻竇炎的成因**：正常引流路徑阻塞是慢性鼻竇炎的主要成因，FESS 的目標即為解除阻塞。Chronic sinusitis is thought to be caused by obstruction of the normal drainage pathways, and the goal of FESS is to relieve the obstruction.
 
 ### Mucocele and Inverted Papilloma / 黏囊腫與內翻性乳頭狀瘤 {#mucocele-and-inverted-papilloma--黏囊腫與內翻性乳頭狀瘤}
@@ -2125,11 +1860,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 典型CT可見骨質重塑，MRI增強掃描可見特徵性「大腦狀」強化模式（cerebriform pattern），即曲線樣、腦回狀強化
 
 > **臨床要點**
-
+>
 > - **黏囊腫**：竇口阻塞→竇腔擴張無氣；內容物訊號隨脫水程度變化（English: Mucocele results from sinus ostium obstruction; signal varies with desiccation degree）
-
 > - **內翻性乳頭狀瘤**：10-20%與鱗狀細胞癌相關（English: Inverted papilloma is associated with squamous cell carcinoma in 10-20% of cases）
-
 > - **大腦狀強化（cerebriform）**：內翻性乳頭狀瘤的特徵性MRI強化模式（English: Cerebriform enhancement pattern is characteristic of inverted papilloma on MRI）
 
 ---
@@ -2144,15 +1877,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Related sinonasal sections in the same source describe chronic sinusitis and the complications of sinusitis.
 
 > **臨床要點**
-
+>
 > - **定義**：中鼻甲下部球狀部分氣化即形成氣化鼻甲。Concha bullosa is formed when the inferior bulbous portion of the middle turbinate is pneumatized.
-
 > - **臨床意義**：通常為偶然發現，較大者可造成鼻中隔偏移與鼻竇漏鬥通道狹窄。It is usually incidental, but may cause septal deviation and narrowing of the infundibulum when large.
-
 > - **慢性鼻竇炎**：鼻竇黏膜持續發炎至少 12 consecutive weeks 稱為慢性鼻竇炎，在美國每年影響超過 3,000 萬人，屬臨床診斷，影像主要保留給術前規劃或評估疑似的併發症。Chronic sinusitis is inflammation of the paranasal sinus mucosa that lasts for at least 12 consecutive weeks, affecting more than 30 million people annually in the US; it is a clinical diagnosis, with imaging reserved for presurgical planning or suspected complications.
-
 > - **鼻竇炎的併發症**：感染直接蔓延可造成眼眶併發症（骨膜下膿瘍、眶蜂窩組織炎、眼靜脈血栓）、顱內併發症（海綿竇血栓、腦膜炎、硬膜外、硬膜下或腦實質內膿腫）與骨質併發症；額骨骨髓炎可造成帽狀腱膜下膿腫，即 Pott's puffy tumor。Direct spread of infection can cause orbital complications (subperiosteal abscess, orbital cellulitis, ophthalmic vein thrombosis), intracranial complications (cavernous sinus thrombosis, meningitis, epidural, subdural or intraparenchymal abscess) and bony complications, with frontal bone osteomyelitis producing a subgaleal abscess called Pott's puffy tumor.
-
 > - **黏液滯留囊腫**：屬常見的偶然發現，代表小黏膜漿液性或黏液性腺體阻塞。A mucus retention cyst is a common incidental finding representing obstruction of the small mucosal serous or mucinous glands.
 
 ## Salivary Glands / 唾液腺 {#salivary-glands--唾液腺}
@@ -2167,11 +1896,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 舌下腺是最小大唾液腺，位於下頜骨內側、口腔底前方
 
 > **臨床要點**
-
+>
 > - **腮腺分葉**：外科以面神經為界，影像以下頜後靜脈為界（English: Surgeons use facial nerve as demarcation; radiologists use retromandibular vein）
-
 > - **Stensen管**：腮腺導管（English: Parotid duct is known as Stensen's duct）
-
 > - **小唾液腺**：分布於鼻竇、口腔、鼻咽、氣管黏膜下；惡性比率高於大唾液腺腫瘤（English: Minor salivary glands are throughout sinonasal/oral/nasopharyngeal mucosa; tumors are more likely malignant than parotid）
 
 ---
@@ -2185,11 +1912,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Warthin瘤（淋巴乳頭狀囊腺瘤）是第二常見腮腺良性腫瘤（10%），15%為雙側，典型為老年男性，與吸菸相關，常含囊性成分，但實質部分通常會強化，且可呈明顯或不均勻強化
 
 > **臨床要點**
-
+>
 > - **多形性腺瘤**：腮腺最常見腫瘤（80%），完整切除防復發（English: Pleomorphic adenoma is most common parotid tumor (80%); complete excision prevents recurrence）
-
 > - **Warthin瘤**：第二常見（10%），老年男性，吸菸相關，常呈實質－囊性，實質部分會強化（English: Warthin tumor is second most common (10%), occurs in older male smokers, and is often solid-cystic with enhancement of solid components）
-
 > - **MRI首選**：CT對小腮腺腫瘤不敏感（English: MRI is preferred; CT is insensitive for small parotid tumors）
 
 ---
@@ -2203,11 +1928,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 影像上腺樣囊性癌的特徵是強化腫瘤伴神經周圍擴散
 
 > **臨床要點**
-
+>
 > - **黏液表皮樣癌**：腮腺最常見原發性惡性腫瘤（English: Mucoepidermoid carcinoma is most common primary parotid malignancy）
-
 > - **腺樣囊性癌**：沿神經擴散（perineural spread）為特徵，常有局部復發（English: Adenoid cystic carcinoma has tendency for perineural spread and high local recurrence）
-
 > - **癌在多形性腺瘤中**：15年存在者9.5%惡性變性（English: 9.5% risk of malignant transformation after 15 years for pleomorphic adenoma）
 
 ---
@@ -2222,11 +1945,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - HIV淋巴上皮性病變表現為雙側多發囊性腫塊，腮腺是唯一含有固有淋巴組織的唾液腺
 
 > **臨床要點**
-
+>
 > - **Sjögren症候群**：唾液腺和淚腺自體免疫疾病，中年女性（English: Sjögren syndrome is autoimmune disorder affecting salivary and lacrimal glands, middle-aged females）
-
 > - **淋巴瘤風險**：腮腺/頭頸部淋巴瘤風險增加（English: Markedly increased risk of parotid and head/neck lymphoma in Sjögren syndrome）
-
 > - **HIV淋巴上皮性病變**：雙側多發囊性腮腺腫塊（English: HIV lymphoepithelial lesions present as multiple bilateral cystic parotid masses）
 
 ---
@@ -2240,15 +1961,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Sialolithiasis (stone disease of the salivary ducts) can cause obstruction of the duct and resultant inflammation of the salivary gland, referred to as obstructive sialadenitis. Sarcoidosis can involve the parotid gland.
 
 > **臨床要點**
-
+>
 > - **定義**：唾液腺結石是唾液腺導管內的結石，可阻塞導管並造成腺體發炎，即阻塞性唾液腺炎。Sialolithiasis is stone disease of the salivary ducts; obstruction of the duct with resultant inflammation of the salivary gland is referred to as obstructive sialadenitis.
-
 > - **最常見位置**：絕大多數（80–90%）的唾液腺結石發生於分泌黏液的**下頜下腺（submandibular gland）**。The vast majority (80–90%) of salivary calculi occur in the mucus-producing submandibular gland.
-
 > - **形成原因**：下頜下腺的分泌物相對黏稠且呈鹼性，加上**下頜下腺導管呈上坡走向（uphill course）**，容易造成分泌滯留。The submandibular gland has relatively viscous and alkaline secretions, and the submandibular duct has an uphill course, which predisposes to stasis.
-
 > - **類肉芽腫病與腮腺**：類肉芽腫病患者中最多 30% 可見腮腺侵犯，通常表現為**雙側無痛性腫大**。Involvement of the parotid gland is seen in up to 30% of patients with sarcoidosis, typically presenting as bilateral painless swelling.
-
 > - **葡萄膜腮腺熱與熊貓徵**：**葡萄膜腮腺熱（uveoparotid fever）** 表現為雙側葡萄膜炎、腮腺增大與顏面神經麻痺，被視為類肉芽腫病的特徵性表現；**鎵-67 閃爍掃描（gallium-67 scintigraphy）** 可因淚腺與腮腺攝取增加而產生典型的**熊貓徵（panda sign）**。Uveoparotid fever presents with bilateral uveitis, parotid enlargement, and facial nerve palsy and is considered pathognomonic for sarcoidosis; gallium-67 scintigraphy produces the classic panda sign from increased uptake by the lacrimal and parotid glands.
 
 ### Pterygopalatine Fossa Anatomy / 翼顎窩解剖 {#pterygopalatine-fossa-anatomy--翼顎窩解剖}
@@ -2262,11 +1979,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 重要通道包括：蝶顎孔（通向鼻咽）、圓孔（V2）、 Vidius管（翼管神經和血管）
 
 > **臨床要點**
-
+>
 > - **翼顎窩**：面部與顱內之間的橋樑，是腫瘤/感染擴散路徑（English: Pterygopalatine fossa is bridge between face and brain, key pathway for tumor/infection spread）
-
 > - **蝶顎孔**：翼顎窩內側出口，通向鼻咽上部（English: Sphenopalatine foramen is medial exit to superior nasopharynx）
-
 > - **圓孔**：V2（三叉神經上頜支）走行（English: Foramen rotundum transmits V2）
 
 ---
@@ -2282,11 +1997,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 術前栓塞是減少腫瘤血管性的標準流程
 
 > **臨床要點**
-
+>
 > - **JNA**：青少年男性鼻咽部富血管腫瘤，鼻塞和鼻出血（English: JNA is benign highly vascular nasopharyngeal tumor in adolescent males with nasal obstruction and epistaxis）
-
 > - **三個經典表現**：鼻咽部腫塊、翼顎窩擴張、上頜竇後壁前移位（English: Three classic findings: nasopharyngeal mass, pterygopalatine fossa expansion, anterior bowing of posterior maxillary wall）
-
 > - **術前栓塞**：減少血管性以利手術切除（English: Preoperative embolization reduces vascularity prior to resection）
 
 ---
@@ -2302,11 +2015,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 鱗狀細胞癌強化是與良性炎性疾病（如鼻息肉或黏囊腫）鑑別的關鍵
 
 > **臨床要點**
-
+>
 > - **嗅神經母細胞瘤**：神經嵴來源，好發於青少年和中年，邊緣囊性竈為特徵（English: Esthesioneuroblastoma is neural crest tumor with bimodal age, peripheral tumor cysts at intracranial margin are characteristic）
-
 > - **鱗狀細胞癌**：鼻竇/鼻腔最常見惡性腫瘤，上頜竇最常見原發部位（English: SCC is most common sinonasal malignancy; maxillary antrum is most common primary site）
-
 > - **眼眶侵犯**：常經紙樣板（lateral orbital wall weakest）入侵（English: Orbital invasion most commonly occurs through lamina papyracea, the weak medial orbital wall）
 
 ---
@@ -2322,11 +2033,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 影像上，CT是評估骨質細節（特別是慢性中耳疾病和創傷）的首選，MRI則更適合評估軟組織和內耳結構
 
 > **臨床要點**
-
+>
 > - **外耳**：外耳道（EAC）包括軟骨和骨性部分（English: External ear consists of fibrocartilaginous and bony portions of external auditory canal）
-
 > - **中耳**：含聽小骨（錘骨、砧骨、鐙骨）和兩條肌肉（English: Middle ear contains ossicles: malleus, incus, and stapes）
-
 > - **內耳**：耳蝸（聽覺）、前庭和半規管（平衡），位於骨性迷路內（English: Inner ear contains cochlea (hearing), vestibule and semicircular canals (balance) within otic capsule）
 
 ---
@@ -2341,11 +2050,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 內耳疾病包括耳蝸發育不良（Mondini畸形）和前庭導水管擴大綜合徵
 
 > **臨床要點**
-
+>
 > - **壞死性外耳炎**：老年糖尿病/免疫抑制患者，銅綠假單胞菌（English: Necrotizing external otitis occurs in elderly diabetics/immunocompromised; Pseudomonas aeruginosa is most common pathogen）
-
 > - **膽固醇肉芽腫**：岩錐部最常見良性病變，T1高訊號（English: Cholesterol granuloma is most common benign petrous apex lesion, T1 hyperintense）
-
 > - **膽脂瘤**：DWI受限擴散（與膽固醇肉芽腫鑑別要點）（English: Cholesteatoma shows restricted diffusion on DWI, distinguishing it from cholesterol granuloma）
 
 ### 外耳與外耳道 / 外耳與外耳道（External Ear and EAC） {#外耳與外耳道--外耳與外耳道external-ear-and-eac}
@@ -2364,13 +2071,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 外耳道最常見的惡性腫瘤為鱗狀細胞癌
 
 > **臨床要點**
-
+>
 > - **External auditory canal（EAC）**：外耳道，聲音傳遞至中耳的纖維軟骨通道
-
 > - **EAC atresia（外耳道閉鎖）**：第一鰓裂結構異常，鎚骨與砧骨通常也受影響
-
 > - **Necrotizing external otitis（壞死性外耳炎）**：免疫抑制老年患者併發，骨侵蝕為特色
-
 > - **Cholesteatoma（膽脂瘤）**：外耳道軟組織腫塊合併骨侵蝕需考慮
 
 ---
@@ -2384,15 +2088,11 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Keratosis obturans is characterized by keratin plugs within an enlarged EAC, and is typically seen in young patients with sinusitis and bronchiectasis. It is usually bilateral. Acquired cholesteatomas occur more commonly in the middle ear, but should be considered in the differential of an EAC soft tissue mass, especially in the presence of bony erosion.
 
 > **臨床要點**
-
+>
 > - **定義**：阻塞性角化病的特徵是擴大的外耳道內有角化栓塞堆積。Keratosis obturans is characterized by keratin plugs within an enlarged EAC.
-
 > - **好發族群**：典型見於合併鼻竇炎與支氣管擴張的年輕患者。It is typically seen in young patients with sinusitis and bronchiectasis.
-
 > - **多為雙側**：通常為雙側性病變。It is usually bilateral.
-
 > - **影像表現**：CT 可見擴大的外耳道，其內有角化栓塞（軟組織樣物質）填塞。CT demonstrates an enlarged external auditory canal containing keratin plugs.
-
 > - **與膽脂瘤的鑑別**：後天性膽脂瘤較常見於中耳，但外耳道軟組織腫塊合併骨質侵蝕時仍應列入鑑別診斷；外耳道最常見的惡性腫瘤為**鱗狀細胞癌（squamous cell carcinoma）**。Acquired cholesteatomas occur more commonly in the middle ear but should be considered in the differential of an EAC soft tissue mass with bony erosion; the most common malignancy of the external auditory canal is squamous cell carcinoma.
 
 ### 中耳 / 中耳與相鄰顏面神經（Middle Ear and Facial Nerve） {#中耳--中耳與相鄰顏面神經middle-ear-and-facial-nerve}
@@ -2408,11 +2108,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 膽固醇肉芽腫（膽固醇囊腫）是最常見的良性岩部病變，耳鏡下可見鼓膜後藍色腫塊，MRI T1加權圖像通常呈高訊號
 
 > **臨床要點**
-
+>
 > - **Glomus tympanicum（頸靜脈球瘤）**：最常見原發性中耳腫瘤，脈搏性耳鳴為典型症狀
-
 > - **Facial nerve schwannoma（顏面神經鞘瘤）**：顏面神經在顳骨內走行的鞘瘤，遲發性顏面神經麻痺
-
 > - **Cholesterol granuloma（膽固醇肉芽腫）**：T1高訊號，藍色鼓膜後腫塊
 
 ---
@@ -2430,11 +2128,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 臨床上若疑似膽脂瘤，需注意三個重要標誌：外半規管、鼓室蓋（ tegmen tympani）與顏面神經
 
 > **臨床要點**
-
+>
 > - **Cholesteatoma（膽脂瘤）**：「皮膚長在錯誤位置」，非脂肪也非真正腫瘤
-
 > - **Scutum（斧蓋）**：膽脂瘤侵蝕時會出現斧蓋鈍化，為重要影像學徵象
-
 > - **Tegmen tympani（鼓室蓋）**：分隔乳突與顱內的骨性屋頂，膽脂瘤需注意此處是否受侵犯
 
 ---
@@ -2450,11 +2146,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - CT對發現小型膽脂瘤很敏感，但無法區分膽脂瘤與其他軟組織腫塊（如膽固醇肉芽腫或腫瘤）
 
 > **臨床要點**
-
+>
 > - **DWI hyperintensity（擴散權重高訊號）**：膽脂瘤的特徵，與囊腫內容物黏滯性相關
-
 > - **Non-enhancement（不增強）**：膽脂瘤在造影MRI上通常不增強，有助與其他腫瘤鑑別
-
 > - **CT sensitivity（CT敏感性）**：CT偵測小型膽脂瘤敏感度高，但特異性低
 
 ---
@@ -2473,11 +2167,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 耳硬化症（otospongiosis）好發於年輕與中年女性，85%為雙側性，分為窗性與窗後性兩種
 
 > **臨床要點**
-
+>
 > - **Otic capsule（耳囊）**：內耳的骨性結構，人體最緻密的骨頭
-
 > - **Cochlear dysplasia（柯氏發育不全）**：又稱不完全分割第二型，與擴大的前庭導水管高度相關
-
 > - **Otospongiosis（耳硬化症）**：主要影響年輕中年女性，窗性型最常見，CT可見骨質透亮度增加
 
 ---
@@ -2491,13 +2183,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Michel aplasia is a very rare complete lack of development of the entire inner ear. The same page lists enlarged vestibular aqueduct syndrome, associated with congenital hearing loss, and otospongiosis; in both, inner ear structures are present, in contrast to the complete absence of the inner ear in Michel aplasia.
 
 > **臨床要點**
-
+>
 > - **定義**：Michel 發育不全為整個內耳（耳蝸、前庭與半規管）完全缺乏發育。Michel aplasia is a very rare complete lack of development of the entire inner ear.
-
 > - **罕見程度**：屬於非常罕見的先天性內耳發育異常。It is a very rare congenital developmental abnormality of the inner ear.
-
 > - **與前庭導水管擴大症候群的區別**：前庭導水管擴大症候群的內耳構造仍完整存在，僅前庭導水管擴大，並可造成進行性聽力損失。In enlarged vestibular aqueduct syndrome, inner ear structures remain present with enlargement of the vestibular aqueduct, and progressive hearing loss may result.
-
 > - **與耳硬化症的區別**：耳硬化症為耳囊的原發性骨發育不良，好發於年輕與中年女性且 85% 為雙側，屬於已發育內耳的病變而非內耳缺如。Otospongiosis is a primary bone dysplasia of the otic capsule occurring most commonly in young and middle-aged women and is bilateral 85% of the time; it affects a normally developed inner ear rather than an absent one.
 
 ### 迷路炎與顳骨骨折 / 迷路炎與顳骨骨折（Labyrinthitis and Temporal Bone Fractures） {#迷路炎與顳骨骨折--迷路炎與顳骨骨折labyrinthitis-and-temporal-bone-fractures}
@@ -2511,11 +2200,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 20%的縱向骨折與50%的橫向骨折會造成顏面神經損傷
 
 > **臨床要點**
-
+>
 > - **Labyrinthitis ossificans（骨化性迷路炎）**：迷路炎最終階段，CT為首選檢查，可見迷路內鈣化
-
 > - **Longitudinal fracture（縱向顳骨骨折）**：最常見，與傳導性聽力損失相關
-
 > - **Transverse fracture（橫向顳骨骨折）**：易損傷內耳與顏面神經，與感音神經性聽力損失相關
 
 ---
@@ -2531,11 +2218,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 蘭格罕氏細胞組織球增生症（LCH）是嗜酸性球與蘭格罕氏細胞的腫瘤性增生的疾病，顳骨是最常見的顱底侵犯部位
 
 > **臨床要點**
-
+>
 > - **Cholesterol cyst（膽固醇囊腫）**：MRI T1高訊號，脂肪抑制序列不衰減
-
 > - **Apical petrositis（岩部尖骨髓炎）**：Gradenigo三聯症（耳乳突炎、顏面疼痛、外展神經麻痺）
-
 > - **Langerhans cell histiocytosis（蘭格罕氏細胞組織球增生症）**：顳骨最常見的顱底侵犯部位
 
 ---
@@ -2550,11 +2235,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 脊索瘤則起源於斜坡，同樣呈T2高訊號並有骨質破壞
 
 > **臨床要點**
-
+>
 > - **ACGME'S MC 口訣**：ACGME用於記憶岩部良性病變的鑑別要點
-
 > - **Chondrosarcoma（軟骨肉瘤）**：T2高訊號分葉狀腫塊，CT可見環弧狀軟骨基質
-
 > - **Chordoma（脊索瘤）**：起源於斜坡的T2高訊號腫瘤，具骨質破壞
 
 ---
@@ -2572,11 +2255,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 乳癌有明顯的斜坡轉移傾向
 
 > **臨床要點**
-
+>
 > - **Chordoma（脊索瘤）**：脊索殘餘腫瘤，50%在薦骨，35%在斜坡；T2高訊號，侵襲性生長
-
 > - **Chondrosarcoma（軟骨肉瘤）**：可從斜坡中央或岩部尖旁起源，T2高訊號
-
 > - **Fatty marrow（脂肪骨髓）**：正常成人斜坡T1高訊號，為確定的MRI標誌
 
 ---
@@ -2593,11 +2274,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 頸靜脈鼓室球瘤（glomus tympanicum）則侷限於中耳
 
 > **臨床要點**
-
+>
 > - **Paraganglioma（類副神經節瘤）**：高度血管性腫瘤，MRI「鹽與胡椒」外觀（流空現象）
-
 > - **Glomus jugulare（頸靜脈球瘤）**：頸靜脈孔最常見原發性腫瘤，蟲蝕狀骨質破壞
-
 > - **Glomus tympanicum（頸靜脈鼓室球瘤）**：僅限於中耳的類副神經節瘤
 
 ---
@@ -2612,11 +2291,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 迷走神經鞘瘤也可能發生在相同位置，也會使頸動脈向內前位移，但鞘瘤血管較少，不會有迷走神經球瘤典型的流空現象
 
 > **臨床要點**
-
+>
 > - **Glomus jugulotympanicum（頸靜脈鼓室球瘤）**：頸靜脈球瘤蔓延至中耳
-
 > - **Carotid body tumor（頸動脈體瘤）**：分開頸內與頸外動脈（splay the carotids）
-
 > - **Glomus vagale（迷走神經球瘤）**：使頸動脈向內前位移，與頸總動脈分開不同
 
 ---
@@ -2633,13 +2310,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 眼眶可分為五個解剖區室：眶隔前（淺層潛在空間，無眶內結構）與眶隔後，後者再分為眶外間隙（包含淚腺、脂肪與骨性眼眶）、錐內間隙（包含眼外肌）與眼球
 
 > **臨床要點**
-
+>
 > - **Superior orbital fissure（上眶裂）**：CN III、IV、VI、V1及上眼靜脈的共同通道
-
 > - **Annulus of Zinn（Zinn環）**：眼外肌的共同附著點，位於眼眶尖端的骨纖維環
-
 > - **Extraconal compartment（眶外間隙）**：包含淚腺、脂肪與骨性眼眶
-
 > - **Intraconal compartment（錐內間隙）**：包含視神經鞘複合構造、眼部運動與感覺神經
 
 ---
@@ -2652,13 +2326,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 眼眶感染代表一個從輕到重的連續光譜：眶隔前感染僅表現為眼瞼腫脹與紅斑；眼眶蜂窩組織炎/蜂窩織炎為眼眶內感染但尚未形成膿癤；骨膜下膿癤（subperiosteal abscess）是骨膜下的感染性積液臨床上表現為眼球突出與視力障礙，是需緊急手術的急症，因為有因眼壓升高導致永久失明的風險；眼眶膿癤是比骨膜下膿癤更嚴重的感染，臨床上除眼球突出外還有眼肌麻痺；海綿竇血栓是眼眶感染的嚴重後遺症，可出現多發性腦神經麻痺
 
 > **臨床要點**
-
+>
 > - **Preseptal infection（眶隔前感染）**：眼瞼腫脹紅斑，無眶內結構侵犯
-
 > - **Orbital cellulitis（眼眶蜂窩組織炎）**：需與骨膜下膿癤鑑別，影像上無離散液體收集
-
 > - **Subperiosteal abscess（骨膜下膿癤）**：外科急症，需靜脈抗生素與手術引流
-
 > - **Cavernous sinus thrombosis（海綿竇血栓）**：多發性腦神經麻痺為特色
 
 ---
@@ -2674,11 +2345,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 眼眶淋巴瘤在CT上呈高密度，T1與T2均呈低訊號（高細胞密度）
 
 > **臨床要點**
-
+>
 > - **Cavernous hemangioma（海綿狀血管瘤）**：成人最常見眼眶腫瘤，眶內位置，T2高訊號
-
 > - **Capillary hemangioma（毛細血管瘤）**：兒童血管瘤，出生後數月內自行消退
-
 > - **Orbital lymphoma（眼眶淋巴瘤）**：高細胞密度腫瘤，T1/T2均低訊號，常與系統性疾病相關
 
 ---
@@ -2696,11 +2365,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 淚腺病竈中，上皮性腫瘤約50%良性（如多形性腺瘤）與50%惡性（如腺樣囊性癌與黏液表皮樣癌）
 
 > **臨床要點**
-
+>
 > - **Lymphangioma（淋巴管瘤）**：多房囊性腫塊，常見液體平面與先前出血的證據
-
 > - **Schwannoma/neurofibroma（神經鞘瘤/神經纖維瘤）**：無法由影像區分，好發於眼眶上部
-
 > - **Scirrhous breast metastasis（硬斑性乳癌轉移）**：可致眼球內陷而非突出，因纖維化造成
 
 ---
@@ -2718,11 +2385,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - Tolosa-Hunt症候群與眼眶假瘤病理過程相同，但侵犯海綿竇而非眼眶
 
 > **臨床要點**
-
+>
 > - **Thyroid ophthalmopathy（甲狀腺眼眶病變）**：雙側，保留肌腱，I'M SLow口訣
-
 > - **Orbital pseudotumor（眼眶假瘤）**：疼痛性眼球突出為特色，排除性診斷
-
 > - **Tolosa-Hunt syndrome（Tolosa-Hunt症候群）**：海綿竇版假瘤，侵犯動眼神經、滑車神經、三叉神經與外展神經
 
 ---
@@ -2739,11 +2404,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 視神經鞘腦膜瘤（optic nerve sheath meningioma）是第二常見的視神經鞘腫瘤，起源於視神經軟膜中的蛛網膜細胞，典型患者為中年女性，影像上可見神經鞘環形增厚，均勻強化，軸位圖像上腫瘤強化而中央視神經不強化，形成所謂的「電車軌道徵」（tram-track sign）
 
 > **臨床要點**
-
+>
 > - **Optic nerve glioma（視神經膠質瘤）**：孩童常為低度星狀細胞瘤（與NF1相關），成人常為高度惡性
-
 > - **Optic nerve meningioma（視神經鞘腦膜瘤）**：中年女性好發，「電車軌道徵」為特徵
-
 > - **Tram-track sign（電車軌道徵）**：強化腫瘤包繞不強化的中央視神經
 
 ---
@@ -2760,11 +2423,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 多發性硬化症的白質病竈在FLAIR影像上最為明顯，典型分布在腦室周圍
 
 > **臨床要點**
-
+>
 > - **Optic neuritis（視神經炎）**：疼痛性亞急性視力喪失，最常與多發性硬化症相關
-
 > - **Devic syndrome（Devic症候群）**：視神經炎合併脊髓脫髓鞘，無腦部病竈
-
 > - **75% optic neuritis patients**：有腦白質病竈，MRI需常規評估頭部
 
 ---
@@ -2782,11 +2443,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 早產兒視網膜病變（ROP）僅見於早產兒，因長期氧氣治療所致，表現包括異常血管發育、出血與視網膜剝離，雙眼受影響程度相似，通常為小眼球（microphthalmia）
 
 > **臨床要點**
-
+>
 > - **Retinoblastoma（視網膜母細胞瘤）**：5歲以下最常見，leukocoria為典型表現，CT可見鈣化
-
 > - **Coat disease（Coat病）**：視網膜血管病，眼球大小正常，視網膜下軟組織不強化
-
 > - **ROP（早產兒視網膜病變）**：早產兒長期氧療，雙眼小眼球為與視網膜母細胞瘤的鑑別點
 
 ---
@@ -2805,13 +2464,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 隔視神經發育不全（septo-optic dysplasia）特徵為視神經發育不全與透明中隔缺如，常與裂腦症（schizencephaly）相關
 
 > **臨床要點**
-
+>
 > - **PHPV（持續性原始玻璃體增生症）**：Microphthalmia，玻璃體高密度，無鈣化
-
 > - **Coloboma（脈絡膜缺損）**：與13/18三染色體及CHARGE、VATER關聯症相關
-
 > - **Sphenoid wing dysplasia（蝶骨翼發育不全）**：NF1相關，搏動性眼球突出
-
 > - **Septo-optic dysplasia（隔視神經發育不全）**：視神經發育不全＋透明中隔缺如
 
 ---
@@ -2832,11 +2488,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 咽是頭頸部的解剖中心，各間隙依其位置與相鄰結構形成特徵性的鑑別診斷
 
 > **臨床要點**
-
+>
 > - **Masticator space（咀嚼肌間隙）**：位於腮腺前方，含咀嚼肌、下頜骨與V3
-
 > - **Perineural spread（神經周圍蔓延）**：咀嚼肌間隙病變需評估是否沿V3蔓延
-
 > - **Rhabdomyosarcoma（橫紋肌肉瘤）**：兒童最常見頭頸部腫瘤
 
 ---
@@ -2853,11 +2507,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - MRI上，神經纖維瘤與神經鞘瘤無法區分
 
 > **臨床要點**
-
+>
 > - **Carotid space（頸動脈間隙）**：包含頸動脈、頸靜脈、頸動脈體與CN IX、X、XI、XII
-
 > - **Splay the carotids（分開頸動脈）**：頸動脈體瘤的特徵性病徵
-
 > - **Vagal schwannoma（迷走神經鞘瘤）**：將頸動脈向前內側位移，與球瘤相似但較少血管性
 
 ---
@@ -2873,9 +2525,8 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 內容物包括椎動脈、椎旁肌肉、脊椎與穿出的神經
 
 > **臨床要點**
-
+>
 > - **Parapharyngeal space（咽旁間隙）**：三角形脂肪填充間隙，病變位移方向可判斷起源
-
 > - **Perivertebral space（椎體前間隙）**：深層頸筋膜圍繞椎前與椎旁肌肉
 
 ---
@@ -2892,11 +2543,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 各層級定義如下：IA為頦下淋巴結，位於兩側二腹肌前腹內側之間；IB為頜下淋巴結，位於頜下腺外側至其後緣；IIA與IIB為上頸內淋巴結，介於顱底與舌骨之間，IIA在頸內靜脈前方，IIB在後方；III為中頸內淋巴結；IV為下頸內淋巴結；VA與VB為後頸淋巴結；VI為甲狀腺前淋巴結；VII為上縱隔淋巴結
 
 > **臨床要點**
-
+>
 > - **AJCC 7 levels（AJCC七層級）**：以解剖標誌定義，頭頸鱗狀細胞癌分期用
-
 > - **Level I（第一層級）**：頦下（IA）與頜下（IB）淋巴結
-
 > - **Level II（第二層級）**：上頸內淋巴結，分IIA（前）與IIB（後）
 
 ---
@@ -2913,11 +2562,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 熟悉這些解剖學分區是系統性分析脊椎MRI的基礎
 
 > **臨床要點**
-
+>
 > - **Intramedullary（髓內）**：星狀膠質細胞瘤、室管膜瘤、血管母細胞瘤
-
 > - **Intradural-extramedullary（髓外膜內）**：神經鞘瘤、腦膜瘤
-
 > - **Extradural（硬膜外）**：椎間盤突出、轉移、脊椎原發腫瘤
 
 ### 髓內病竈 / 髓內病竈（Intramedullary Lesions） {#髓內病竈--髓內病竈intramedullary-lesions}
@@ -2932,11 +2579,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 室管膜瘤在成人最常見，起源於排列中央管的室管膜細胞，與第二型神經纖維瘤病相關，典型影像特徵為明顯強化、囊腫形成與明顯的極性囊腫
 
 > **臨床要點**
-
+>
 > - **Astrocytoma（星狀膠質細胞瘤）**：兒童最常見髓內腫瘤，常為低度，紡錘狀脊髓擴大
-
 > - **Ependymoma（室管膜瘤）**：成人最常見髓內腫瘤，與NF2相關，出血常見
-
 > - **Hemangioblastoma（血管母細胞瘤）**：與VHL疾病相關三分之一，強化明顯，有流空現象
 
 ---
@@ -2954,11 +2599,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 多發性硬化症活動性病竈可強化並類似脊椎腫瘤，但通常無脊髓擴大可資區別
 
 > **臨床要點**
-
+>
 > - **Scalloping（齒痕狀）**：過去室管膜瘤的經典影像特徵，代表慢性疾病與腫瘤長期壓迫
-
 > - **Hemangioblastoma（血管母細胞瘤）**：與VHL相關，明顯強化＋囊腫＋流空現象三合一
-
 > - **Flow voids（流空現象）**：血管母細胞瘤因腫瘤內血管豐富所見
 
 ---
@@ -2976,11 +2619,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 腦膜瘤為良性腫瘤，起源於蛛網膜帽狀細胞，最常見於老年女性，典型影像特徵包括寬廣的硬膜附著部與經常性鈣化
 
 > **臨床要點**
-
+>
 > - **Schwannoma vs neurofibroma（神經鞘瘤與神經纖維瘤）**：鞘瘤有包膜可保守切除，纖維瘤需切除神經
-
 > - **Target sign（靶徵）**：T2中心低訊號、周邊高訊號，提示良性神經鞘瘤
-
 > - **Meningioma（腦膜瘤）**：良性，起源於蛛網膜帽狀細胞，寬廣硬膜附著部為特色
 
 ---
@@ -2998,11 +2639,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 神經鞘瘤（神經纖維瘤與神經鞘瘤）是最常見的髓外膜內腫瘤，15%同時有髓外膜內與硬膜外成分（啞鈴狀腫瘤）
 
 > **臨床要點**
-
+>
 > - **Dermoid cyst（皮樣囊腫）**：含囊性脂肪，T1高訊號，破裂可致化學性腦膜炎
-
 > - **Epidermoid cyst（表皮樣囊腫）**：T1低/T2高訊號，受限擴散與囊狀蛛網膜囊腫不同
-
 > - **Dumbbell tumor（啞鈴狀腫瘤）**：15%神經鞘瘤同時有膜內與硬膜外成分
 
 ---
@@ -3019,11 +2658,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 典型影像所見包括神經根位移與最終的硬膜囊消失
 
 > **臨床要點**
-
+>
 > - **Myxopapillary ependymoma（黏液乳頭狀室管膜瘤）**：圓錐/終絲最常見腫瘤，高血管性
-
 > - **Vertebral scalloping（椎體齒痕狀）**：慢生長腫瘤長期壓迫椎體的結果
-
 > - **Arachnoiditis（蛛網膜炎）**：腰椎手術為今日最常見原因，三種影像模式
 
 ---
@@ -3043,11 +2680,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 侵襲性變異型偶見於胸椎，可有硬膜外軟組織成分導致脊髓壓迫
 
 > **臨床要點**
-
+>
 > - **Metastatic disease（轉移性疾病）**：成人最常見硬膜外惡性腫瘤，乳癌/肺癌/攝護腺最常見
-
 > - **Hemangioma（血管瘤）**：典型T1/T2高訊號，CT粗布紋樣外觀為特色
-
 > - **Aggressive hemangioma（侵襲性血管瘤）**：胸椎，伴隨硬膜外軟組織成分，可壓迫脊髓
 
 ---
@@ -3064,11 +2699,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 退化性脊椎疾病是背部疼痛最常見的原因，核磁共振檢查的主要目標是找出可手術糾正的病竈或可注射類固醇治療的病變
 
 > **臨床要點**
-
+>
 > - **Chordoma（脊索瘤）**：notochord殘餘，惡性，T2高訊號，常見於薦骨與斜坡
-
 > - **Plasmacytoma（漿細胞瘤）**：多發性骨髓瘤前驅病變，單一溶骨性病竈
-
 > - **Epidural lipomatosis（椎體外脂肪瘤病）**：類固醇使用或肥胖引起的手術治療對象
 
 ---
@@ -3085,11 +2718,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 椎間盤突出可能導致神經根壓迫與脊椎狹窄
 
 > **臨床要點**
-
+>
 > - **Disc bulge（椎間盤膨出）**：超過周徑 25%（>90°）的廣泛性超出
-
 > - **Protrusion（突出）**：脫出的一種，頸部比頂部寬
-
 > - **Extrusion（擠出）**：脫出的一種，頂部比頸部寬（類似囊狀動脈瘤）
 
 ---
@@ -3106,11 +2737,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 椎間孔或外側脫出則影響離開的神經根（例如L4-L5的椎間孔或外側脫出會影響L4神經根）
 
 > **臨床要點**
-
+>
 > - **Descending nerve root（下行神經根）**：中央或旁中央脫出影響的對應椎間盤下方神經根
-
 > - **Exiting nerve root（離開神經根）**：椎間孔或外側脫出影響的該節段神經根
-
 > - ** Cervical vs lumbar（頸椎與腰椎）**：頸椎神經根離開上方椎體；腰椎神經根離開下方椎體
 
 ---
@@ -3127,13 +2756,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 黃韌帶位於椎管後方，內折或肥厚可加重椎管狹窄
 
 > **臨床要點**
-
+>
 > - **Sequestered fragment（游離碎片）**：椎間盤物質與母椎間盤分離後可向頭側或尾側移行
-
 > - **Schmorl node（Schmorl 結節）**：椎間盤向相鄰椎體終板疝入；急性期可呈 T2 高訊號
-
 > - **Modic changes**：第 1 型為水腫發炎、第 2 型為脂肪化、第 3 型為硬化
-
 > - **Ligamentum flavum infolding（黃韌帶內折）**：可造成或加重椎管狹窄
 
 ---
@@ -3150,13 +2776,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 術後脊椎 MRI 通常使用對比劑：瘢痕組織多為整體強化，復發性椎間盤病變則多僅周邊強化
 
 > **臨床要點**
-
+>
 > - **Facet arthropathy（小面關節病變）**：可造成神經孔狹窄並伴滑膜囊腫
-
 > - **Annular fissure（纖維環裂隙）**：T2 高訊號區，可能與疼痛相關
-
 > - **DISH**：至少四個椎體節段的流動性前方骨化，椎間隙保留
-
 > - **OPLL**：後縱韌帶骨化，CT 顯示最佳，可壓迫脊髓
 
 ---
@@ -3172,13 +2795,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 結核性骨髓炎（Pott disease）通常保留椎間盤，因結核分枝桿菌缺乏分解椎間盤的蛋白水解酶；典型造成椎體前方楔形壓迫，進而形成銳角後凸的 gibbus deformity。
 
 > **臨床要點**
-
+>
 > - **Pyogenic discitis-osteomyelitis**：T1 低訊號跨越異常椎間盤兩側終板，椎間盤 T2 高訊號
-
 > - **Staphylococcus aureus**：最常見致病菌
-
 > - **Pott disease（結核性骨髓炎）**：通常保留椎間盤，可形成 gibbus deformity
-
 > - **Soft-tissue extension**：常合併椎旁或硬膜外感染
 
 ---
@@ -3195,13 +2815,10 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 脊髓栓系症候群可由增厚終絲或脂肪瘤牽拉脊髓；正常脊髓圓錐應終止於 L2 下終板以上，低於此處應考慮栓系
 
 > **臨床要點**
-
+>
 > - **Spinal dAVF**：脊髓周圍流空、脊髓腫脹與髓內 T2 高訊號
-
 > - **Spinal cord infarction**：常累及上胸椎或胸腰椎，DWI 可見受限擴散
-
 > - **Artery of Adamkiewicz**：遠端脊髓的重要血供
-
 > - **Tethered cord（脊髓栓系）**：脊髓圓錐終止低於 L2 下終板，可能由增厚終絲或脂肪瘤造成
 
 ---
@@ -3214,11 +2831,9 @@ Oligoastrocytoma（混合少突星狀細胞瘤）為同時具有星狀細胞成�
 - 脂肪終絲（fatty filum）在 T1 加權影像呈高訊號，可與脊髓縱裂或脊髓栓系並存，也可能只是無臨床意義的偶然發現
 
 > **臨床要點**
-
+>
 > - **Diastematomyelia（脊髓縱裂）**：先天性分裂脊髓，可能與脊柱側彎相關
-
 > - **Fatty filum（脂肪終絲）**：T1 高訊號，可伴隨脊髓縱裂或脊髓栓系
-
 > - **Clinical significance**：脂肪終絲亦可為無症狀的偶然發現
 
 ---

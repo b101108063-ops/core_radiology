@@ -53,11 +53,9 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 ### 重度對比劑反應 / Severe Contrast Reactions {#重度對比劑反應--severe-contrast-reactions}
 
 > **危急值**
-
+>
 > - 靜脈注射碘對比劑後的重度反應可能立即危及生命
-
 > - 過敏性重度反應包括過敏性反應與血管性水腫，症狀多變，可能包含意識改變、呼吸窘迫、瀰漫性紅斑、嚴重低血壓或心跳停止
-
 > - 非過敏性重度反應包括嚴重肺水腫、嚴重支氣管痙攣及嚴重癲癇發作
 
 ### 預防性給藥 / Premedication to Prevent Contrast Reaction {#預防性給藥--premedication-to-prevent-contrast-reaction}
@@ -65,7 +63,7 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 - 已知對比劑過敏的患者，若再次使用對比劑，反應的嚴重程度可能比上次更輕或更重
 
 > **禁忌症**
-
+>
 > - 有過往**重度過敏性反應**病史者，靜脈注射對比劑通常為禁忌
 
 | 給藥時機 | 處方內容 |
@@ -74,7 +72,7 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 | 緊急預防 | Hydrocortisone 200 mg IV Q4h，檢查前 1-2 次；diphenhydramine 50 mg 檢查前 1 小時 |
 
 > **注意**
-
+>
 > - 靜脈注射類固醇在檢查前不到 4 小時給藥並無效果
 
 ### 對比劑腎病變 / Contrast-Induced Nephropathy, CIN {#對比劑腎病變--contrast-induced-nephropathy-cin}
@@ -90,9 +88,8 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 | eGFR > 60 ml/min/1.73m² | 極為罕見 |
 
 > **注意**
-
+>
 > - 釓對比劑不會引起對比劑腎病變
-
 > - 多發性骨髓瘤患者使用高滲透壓對比劑時，發生不可逆腎衰竭的風險增加（因腎小管蛋白沉澱）
 
 ### CIN 預防策略 / Prevention of Contrast Nephropathy {#cin-預防策略--prevention-of-contrast-nephropathy}
@@ -146,9 +143,8 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 | eGFR > 60 | 從未發生（文獻中無案例）|
 
 > **禁忌症**
-
+>
 > - 接受腎透析或 eGFR < 30 的患者，**通常不應給予釓對比劑**
-
 > - 不同品牌與配方之釓對比劑的 NSF 發生率各異
 
 ### 孕婦與哺乳 / Pregnancy and Breast-Feeding {#孕婦與哺乳--pregnancy-and-breast-feeding}
@@ -158,11 +154,9 @@ description: 對比劑、輻射劑量、X光、CT、MRI、超音波物理
 **圖說：** 本頁整理 NSF 的臨床表現與腎功能風險，並說明孕期及哺乳期使用釓對比劑的考量。
 
 > **禁忌症**
-
+>
 > - 懷孕期間不應給予釓對比劑
-
 > - 釓會穿過胎盤，可能累積於羊水中並長期停留，有解離出毒性游離釓離子的風險
-
 > - 哺乳方面，24 小時內經乳汁分泌的劑量不到母體劑量的 0.04%，嬰兒吸收劑量僅約 0.0004%，持續哺乳應屬安全
 
 ---
@@ -531,15 +525,11 @@ DLP 是估計 CT 輻射風險的最佳方式：DLP = CTDIvol × 掃描長度（m
 - Acute skin reactions are dose-dependent: robust erythema is seen at 6 Gy, desquamation may begin 4 weeks after exposure, and 15 Gy produces moist desquamation.
 
 > **臨床要點**
-
+>
 > - **紅斑與脫屑**：6 Gy 造成明顯紅斑（robust erythema）；脫屑可在照射後 4 週開始，15 Gy 造成濕性脫屑（moist desquamation）。Robust erythema at 6 Gy; desquamation may begin 4 weeks after exposure, and 15 Gy causes moist desquamation.
-
 > - **脫毛**：脫毛（epilation）約在照射後 3 週發生，3 Gy 造成暫時性脫毛，7 Gy 造成永久性脫毛。Epilation occurs after about 3 weeks; 3 Gy causes temporary epilation and 7 Gy causes permanent epilation.
-
 > - **血管損傷與晚期效應**：皮膚劑量 >20 Gy 時預期會有血管損傷；潰瘍與色素脫失是因真皮損傷所致的晚期效應。Vascular damage is expected for skin doses >20 Gy; ulceration and depigmentation are late effects due to dermal damage.
-
 > - **生殖與遺傳效應**：輻射可造成男性或女性不孕，男性在 >0.15 Gy 後出現暫時性不孕，女性在 >3.5 Gy 後出現永久性不孕與提早絕經；倍數劑量（doubling dose）是使族群自發性突變率加倍所需的劑量，約為 1 Gy 給予族群中的每一位成員，個人遺傳效應的風險約為每 Sv 0.2%，例如性腺劑量 100 mSv 的遺傳效應風險 = 0.2% * 0.1 Sv = 0.02%。Sterility can be caused in males or females; males show temporary sterility after >0.15 Gy, while females develop permanent sterility and early menopause after >3.5 Gy; the doubling dose is the dose required to double the spontaneous mutation rate when applied to a population, approximately 1 Gy given to each member of the population, and the risk of hereditary effects (for an individual) is thought to be approximately 0.2% per Sv, so that the risk of a hereditary effect from a gonad dose of 100 mSv = 0.2% * 0.1 Sv = 0.02%.
-
 > - **全身輻射致死劑量**：LD 50/X 表示在 X 天內殺死 50% 族群的致死劑量，例如 LD 50/60 會在 60 天內殺死 50% 的族群；3–4 Gy 為 LD 50/60（造血系統衰竭），10 Gy 為 LD 50/5（胃腸道黏膜剝落，其中小腸最敏感），100 Gy 為 LD 50/2（腦血管症候群）。Terminology: LD 50/X = lethal dose that kills 50% of the population in X days; for instance, an LD 50/60 will kill 50% of the population in 60 days; 3–4 Gy is LD 50/60 due to failure of the hematopoietic system, 10 Gy is LD 50/5 due to denuding of the GI tract lining (small bowel most sensitive), and 100 Gy is LD 50/2 due to cerebrovascular syndrome.
 
 ### DNA 損傷 / DNA Damage {#dna-損傷--dna-damage}
@@ -614,7 +604,7 @@ LD 50/X：** 使 X 天內 50% 人口死亡的劑量。3-4 Gy = LD 50/60（造血
 - 目前無對照研究，但 MRI 可在任何孕期進行
 
 > **禁忌症**
-
+>
 > - 整個孕期皆應避免使用<a style="color:#fb923c">**釓對比劑**</a>
 
 ### MRI 安全考量 / MRI Safety Considerations {#mri-安全考量--mri-safety-considerations}
@@ -819,15 +809,11 @@ LD 50/X：** 使 X 天內 50% 人口死亡的劑量。3-4 Gy = LD 50/60（造血
 - The symbol t denotes elapsed time and is used in time-dependent nuclear medicine calculations. Cumulative activity is the total number of nuclear decays over time, represented by the area under the decay curve, and is calculated as 1.44 × f × A0 × TE. Effective half-life accounts for both the intrinsic physical half-life of the radionuclide and biological clearance.
 
 > **臨床要點**
-
+>
 > - **時間與累積活度**：t 代表經過的時間；累積活度是隨時間發生的核衰變總數，等於衰變曲線下的面積，公式為 1.44 × f × A0 × TE。The symbol t represents elapsed time; cumulative activity is the total number of nuclear decays over time, equals the area under the decay curve, and is calculated as 1.44 × f × A0 × TE.
-
 > - **公式中的參數**：f 為攝取分率（fractional uptake），未明確說明時假定為 1；A0 為初始活度（initial activity），TE 為有效半衰期。The parameter f is fractional uptake and is assumed to be 1 unless explicitly stated otherwise; A0 is initial activity, and TE is effective half-life.
-
 > - **有效半衰期**：有效半衰期是放射性核種在器官內的半衰期，同時考量物理半衰期與生物清除；其關係式為 1/TE = 1/TB + 1/T1/2，其中 TB 為生物半衰期，T1/2 為物理半衰期。Effective half-life is the half-life of a radionuclide within an organ and accounts for physical half-life and biological clearance; the relationship is 1/TE = 1/TB + 1/T1/2, where TB is biologic half-life and T1/2 is physical half-life.
-
 > - **系統解析度**：系統解析度（system resolution）同時考量閃爍攝影機未裝準直儀時的固有解析度與準直儀解析度，公式為 R = √(Ri² + Rc²)，其中 Ri 為固有解析度，Rc 為準直儀解析度。System resolution accounts for the intrinsic resolution of the scintillation camera without a collimator and the collimator resolution; R = √(Ri² + Rc²), where Ri is intrinsic resolution and Rc is collimator resolution.
-
 > - **品質控制**：劑量校正器（dose calibrator）的恆常性每日以半衰期 30 year 的 137Cs 測試，線性度每季以 99mTc 衰變測試，準確度每年以校準源測試；這些是劑量校正器而非影像系統的測試。影像系統（imaging system）的均勻度每日以 Co-57 測試。Dose calibrator constancy is tested daily with 137Cs, which has a 30 year half-life; linearity is tested quarterly with 99mTc decay, and accuracy is tested annually with a calibrated source; these test the dose calibrator, not the imaging system. Imaging-system uniformity is tested daily with Co-57.
 
 ## 參考文獻 / References {#參考文獻--references}

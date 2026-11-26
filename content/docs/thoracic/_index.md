@@ -45,13 +45,10 @@ This chapter covers the following major topics in thoracic imaging:
 | Recognize pleural and mediastinal pathology | 發現非肺實質病變 |
 
 > **臨床要點**
-
+>
 > - Chest radiography remains the first-line imaging modality for thoracic disease
-
 > - CT provides superior detail for characterizing lung parenchymal, airway, and mediastinal pathology
-
 > - Pattern recognition is key to formulating focused differential diagnoses in thoracic imaging
-
 > - Always compare current study with prior imaging when available — stability suggests benignity
 
 ## 肺部解剖 / Lung Anatomy {#肺部解剖--lung-anatomy}
@@ -92,11 +89,9 @@ This chapter covers the following major topics in thoracic imaging:
 | **Azygos fissure** | Accessory; <1% of patients | Defines an azygos lobe (RUL apical/posterior segments within own pleural sac) |
 
 > **臨床要點**
-
+>
 > - **Fissure displacement** toward an opacity indicates lobar volume loss; the minor fissure specifically helps assess RUL and RML collapse
-
 > - The **azygos lobe** is a normal variant — do not mistake for pathology
-
 > - **Major fissure** visibility on lateral CXR is key to distinguishing upper vs. lower lobe collapse
 
 ## 影像辨識要點 / Imaging Recognition {#影像辨識要點--imaging-recognition}
@@ -108,11 +103,9 @@ This chapter covers the following major topics in thoracic imaging:
 - **Hilar structures** contain the pulmonary arteries and veins; the bronchi are normally not visible as separate structures within the hilum
 
 > **臨床要點**
-
+>
 > - Knowledge of lobar and segmental anatomy is essential for localizing pathology on chest radiography
-
 > - Use fissure displacement, lobar volume loss, hilar displacement, and the silhouette sign to localize lobar collapse
-
 > - Segment-by-segment analysis helps distinguish lobar collapse from pleural effusion or mass
 
 ## 肺膨脹不全 / Atelectasis {#肺膨脹不全--atelectasis}
@@ -178,11 +171,9 @@ This chapter covers the following major topics in thoracic imaging:
 - **Air bronchograms** are absent in **obstructive atelectasis** (due to central bronchial obstruction) but may be seen in **subsegmental atelectasis**; presence of air bronchograms favors pneumonia over atelectasis
 
 > **臨床要點**
-
+>
 > - **Indirect signs** are often more easily recognized than direct signs on CXR
-
 > - **Mediastinal shift away** from an opacity favors pleural effusion; **toward** the opacity favors atelectasis
-
 > - **Rib crowding** is a simple and reliable sign of volume loss on the affected side
 
 ## 機制分類 / Mechanisms of Atelectasis {#機制分類--mechanisms-of-atelectasis}
@@ -196,11 +187,9 @@ This chapter covers the following major topics in thoracic imaging:
 | **Subsegmental atelectasis** | Small airway (bronchiole) obstruction by secretions | Post-surgical, general illness | Very common post-operatively; no proven relationship with postoperative fever; usually bibasilar |
 
 > **臨床要點**
-
+>
 > - **Obstructive** is the most common mechanism overall; always identify the obstructing lesion in non-post-surgical adults
-
 > - In **ICU patients** on 100% O₂, atelectasis can develop within minutes due to rapid absorption of alveolar gas
-
 > - **Subsegmental atelectasis** in post-surgical patients does not require antibiotics in isolation — no causative relationship proven with fever
 
 ## 臨床特點 / Clinical Features {#臨床特點--clinical-features}
@@ -236,11 +225,9 @@ This chapter covers the following major topics in thoracic imaging:
 - **Subsegmental atelectasis** and mild fever are common post-operatively; no proven causative relationship between atelectasis and postoperative fever
 
 > **臨床要點**
-
+>
 > - **Supplemental O₂ accelerates obstructive atelectasis** — in high-risk patients, use the lowest FiO₂ needed
-
 > - **Foreign-body aspiration in children** often causes partial ball-valve obstruction with air trapping; complete obstruction may instead cause atelectasis
-
 > - **Post-operative fever + atelectasis** is a classic pairing, but evidence does not support atelectasis as the cause of fever
 
 ## 鑑別診斷 / Differential Diagnosis {#鑑別診斷--differential-diagnosis}
@@ -253,11 +240,9 @@ This chapter covers the following major topics in thoracic imaging:
 | Silhouette sign | Positive | Positive | Positive |
 
 > **臨床要點**
-
+>
 > - **Obstructive atelectasis** is the most common type; always consider an underlying obstructing lesion (tumor or mucus) in non-post-surgical patients
-
 > - **Subsegmental atelectasis** is extremely common post-operatively and does not require antibiotics in isolation
-
 > - The presence of **air bronchograms** helps distinguish pneumonia from atelectasis
 
 ## 肺葉塌陷方向 / Patterns of Lobar Atelectasis {#肺葉塌陷方向--patterns-of-lobar-atelectasis}
@@ -284,11 +269,9 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 - **Lower lobe collapse**: Collapses medially and posteriorly; appears as a retrocardiac opacity on frontal view
 
 > **臨床要點**
-
+>
 > - Each lobe collapses in a predictable direction — knowing normal collapse patterns helps identify abnormal findings
-
 > - **Right middle lobe** collapse can be subtle; loss of the right heart border silhouette is the key finding
-
 > - **Lower lobe** collapse mimics pleural effusion or cardiomegaly on frontal radiographs; lateral view is essential
 
 ## 左上葉肺膨脹不全 / Left Upper Lobe Atelectasis {#左上葉肺膨脹不全--left-upper-lobe-atelectasis}
@@ -341,11 +324,9 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 | **Juxtaphrenic peak** | Upper lobe atelectasis (any) | Peridiaphragmatic triangular opacity |
 
 > **臨床要點**
-
+>
 > - **Upper lobe collapse** in a non-post-surgical adult should prompt investigation for an underlying obstructing malignancy
-
 > - The **luftsichel sign** is specific for left upper lobe collapse and should not be mistaken for aortic pathology or pneumonia
-
 > - **Golden's S sign** indicates an underlying mass and requires further evaluation (CT, bronchoscopy)
 
 ## 下葉肺膨脹不全 / Lower Lobe Atelectasis {#下葉肺膨脹不全--lower-lobe-atelectasis}
@@ -386,11 +367,9 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 - **Hiatal hernia** — contains bowel gas; may mimic lower lobe collapse
 
 > **臨床要點**
-
+>
 > - **Lower lobe collapse** can mimic pleural effusion or cardiomegaly; look for **volume loss signs** (rib crowding, mediastinal shift) to differentiate
-
 > - The **flat waist sign** (LLL collapse) is a helpful clue — always check the left heart border contour
-
 > - **Right and left lower lobe** collapse are mirror images; compare the two sides when in doubt
 
 ## 右中葉肺膨脹不全 / Right Middle Lobe Atelectasis {#右中葉肺膨脹不全--right-middle-lobe-atelectasis}
@@ -444,11 +423,9 @@ Each of the five pulmonary lobes collapses in a **predictable direction**, depen
 | **Focal scar** | No mass effect; no pleural abnormality required |
 
 > **臨床要點**
-
+>
 > - **Right middle lobe** collapse is easily missed — always check for loss of the right heart border silhouette
-
 > - **Round atelectasis** is a benign finding — recognizing the comet tail sign and pleural association avoids unnecessary biopsy
-
 > - All five criteria must be met to diagnose round atelectasis; if in doubt, further workup may be needed
 
 ## 次級肺小葉 / Secondary Pulmonary Lobule (SPL) {#次級肺小葉--secondary-pulmonary-lobule-spl}
@@ -498,21 +475,16 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 | **Acini (≤12 per SPL)** | No | Overaeration → emphysema; underaeration → atelectasis |
 
 > **臨床要點**
-
+>
 > - **Centrilobular nodules never touch the pleura** — this distinguishes them from perilymphatic and random nodules
-
 > - **Perilymphatic distribution** with upper-lobe predominance is classic for **sarcoidosis** (noncaseating granulomas)
-
 > - **Random nodules** that touch the pleura suggest hematogenous spread — think metastases or miliary TB
-
 > - The **centrilobular artery** is often the only visible component of the SPL on routine CT
 
 > **臨床要點**
-
+>
 > - The **secondary pulmonary lobule** is the key to understanding pattern-based lung disease analysis on CT
-
 > - **Centrilobular artery** is often the only visible component of the SPL on CT
-
 > - Recognition of disease distribution (centrilobular vs. perilymphatic vs. random) is essential for formulating differentials
 
 ## 肺泡異常 / Abnormalities of the Secondary Pulmonary Lobule {#肺泡異常--abnormalities-of-the-secondary-pulmonary-lobule}
@@ -556,11 +528,9 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 ---
 
 > **臨床要點**
-
+>
 > - **Consolidation** implies complete alveolar filling; **air bronchograms** favor consolidation over atelectasis
-
 > - **Acute consolidation** in the correct clinical setting is most likely **pneumonia**, but always consider hemorrhage and ARDS in critically ill patients
-
 > - **Chronic consolidation** should raise suspicion for **bronchioloalveolar carcinoma** or **organizing pneumonia**
 
 ## 毛玻璃樣浸潤 / Ground Glass Opacification (GGO) {#毛玻璃樣浸潤--ground-glass-opacification-ggo}
@@ -612,11 +582,9 @@ Understanding SPL anatomy is essential for **pattern-based lung disease analysis
 | **Peripheral-predominant** | Organizing pneumonia, chronic eosinophilic pneumonia, atypical/viral pneumonia, drug reaction |
 
 > **臨床要點**
-
+>
 > - **Ground glass** is a nonspecific finding — always consider chronicity (acute vs. chronic) and distribution (central vs. peripheral vs. diffuse)
-
 > - **Hypersensitivity pneumonitis** in the subacute phase characteristically shows GGO with centrilobular nodules and mosaic attenuation
-
 > - **Peripheral GGO** with upper-lobe predominance is classic for **chronic eosinophilic pneumonia**; peripheral consolidation is classic for **organizing pneumonia**
 
 ## 毛玻璃分布 / Ground Glass Distribution Patterns {#毛玻璃分布--ground-glass-distribution-patterns}
@@ -662,11 +630,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Pulmonary edema** | Peripheral/非心因性 edema (e.g., drug reaction) — unusual for **cardiogenic** edema |
 
 > **臨床要點**
-
+>
 > - **Central GGO** is the classic pattern for **alveolar proteinosis** (often with crazy paving) and **PCP**
-
 > - **Peripheral GGO** should suggest **organizing pneumonia** or **chronic eosinophilic pneumonia** — both treatable with steroids
-
 > - **Cardiogenic pulmonary edema** typically has a **central** (perihilar) rather than peripheral distribution
 
 ## 小葉間隔增厚 / Interlobular Septal Thickening {#小葉間隔增厚--interlobular-septal-thickening}
@@ -729,11 +695,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Key imaging sign** | Kerley B lines | Nodular beading along septa |
 
 > **臨床要點**
-
+>
 > - **Smooth septal thickening** in the appropriate clinical setting (heart failure, renal failure) is most consistent with **pulmonary edema**
-
 > - **Nodular septal thickening** should raise immediate concern for **lymphangitic carcinomatosis** (especially with known primary malignancy) or **sarcoidosis**
-
 > - Always compare the pattern of septal thickening to the distribution of any underlying masses or lymphadenopathy
 
 ## 碎石路徵 / Crazy Paving {#碎石路徵--crazy-paving}
@@ -790,11 +754,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 - In asymptomatic patients with chronic disease, **alveolar proteinosis** is classic
 
 > **臨床要點**
-
+>
 > - **Crazy paving** is a nonspecific pattern — always consider the clinical context (immunocompromised, heart failure, exposure history)
-
 > - **Alveolar proteinosis** is the "classic" crazy paving entity; look for central distribution sparing the periphery
-
 > - **PCP** in AIDS patients typically shows upper-lobe crazy paving — consider this diagnosis in the right clinical setting
 
 ## 肺部多發結節 / Approach to Multiple Pulmonary Nodules {#肺部多發結節--approach-to-multiple-pulmonary-nodules}
@@ -849,11 +811,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Silicosis** | Silica inhalation; upper-lobe predominant; centrilobular AND perilymphatic |
 
 > **臨床要點**
-
+>
 > - **Centrilobular nodules never touch the pleura** — this is the key distinguishing feature from perilymphatic or random nodules
-
 > - **HSP** and **RB-ILD** are the two most common inflammatory causes; both are exposure-related
-
 > - In an **elderly woman** with right middle lobe/lingular centrilobular nodules and bronchiectasis, think of **Mycobacterium avium-intracellulare** (Lady Windermere syndrome)
 
 ## 淋巴管周圍結節 / Perilymphatic Nodules {#淋巴管周圍結節--perilymphatic-nodules}
@@ -890,11 +850,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Common causes** | HSP, RB-ILD, TB, MAI | **Sarcoidosis**, pneumoconiosis | Miliary TB, metastases, Langerhans cell histiocytosis |
 
 > **臨床要點**
-
+>
 > - **Sarcoidosis** is by far the most common cause of perilymphatic nodules — look for upper-lobe predominance and galaxy sign
-
 > - In patients with occupational exposure (sandblasters, coal miners), think of **pneumoconiosis** (silicosis, CWP)
-
 > - **Perilymphatic nodules** often **touch the pleura** — this distinguishes them from centrilobular nodules
 
 ## 隨機分布結節 / Random Nodules {#隨機分布結節--random-nodules}
@@ -937,11 +895,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Angiocentric** | No | No | **Yes** |
 
 > **臨床要點**
-
+>
 > - **Random nodules touching the pleura** distinguish this pattern from centrilobular nodules
-
 > - **Miliary TB** should be considered in any patient with diffuse tiny nodules and constitutional symptoms (fever, weight loss)
-
 > - **PLCH** is distinguished from other random nodule causes by the presence of **irregular cysts** and a smoking history
 
 ## 樹芽徵結節 / Tree-in-Bud Nodules {#樹芽徵結節--tree-in-bud-nodules}
@@ -977,11 +933,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Tree-in-bud pattern can also be seen in **diffuse panbronchiolitis** (typically Asian patients)
 
 > **臨床要點**
-
+>
 > - **Tree-in-bud nodules** are a strong indicator of **small airways infection** — always consider mycobacteria in the right clinical context
-
 > - The pattern of **TB vs. atypical mycobacteria** differs: TB is upper-lobe predominant; MAI is classic in the right middle lobe/lingula in elderly women
-
 > - In immunocompromised patients with tree-in-bud, think of **Aspergillus** or atypical mycobacteria
 
 ## 空洞性與囊性肺部疾病 / Cavitary and Cystic Lung Disease {#空洞性與囊性肺部疾病--cavitary-and-cystic-lung-disease}
@@ -1058,11 +1012,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Pneumatocele** | Post-traumatic or post-infectious (Staph aureus, PCP) |
 
 > **臨床要點**
-
+>
 > - **Wall thickness** is the most useful predictor: ≤4 mm favors benign; >15 mm favors malignancy
-
 > - **Multiple cavitary nodules** with a vascular distribution suggests **septic emboli** or **vasculitis**
-
 > - **LAM** in a young woman with diffuse thin-walled cysts and chylous effusion is a classic clinical-radiologic diagnosis
 
 ## 纖維化改變 / Fibrotic Lung Changes {#纖維化改變--fibrotic-lung-changes}
@@ -1126,11 +1078,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 - **Upper-lobe fibrosis + lymphadenopathy** = consider **sarcoidosis**
 
 > **臨床要點**
-
+>
 > - **IPF** is the most common cause of idiopathic pulmonary fibrosis; basilar honeycombing is the radiologic hallmark
-
 > - **NSIP** and **IPF** both cause basilar fibrosis, but honeycombing distinguishes IPF (present) from NSIP (usually absent)
-
 > - **Upper-lobe predominant fibrosis** should always prompt consideration of alternative diagnoses beyond IPF
 
 ## 肺部感染 / Pulmonary Infection {#肺部感染--pulmonary-infection}
@@ -1221,13 +1171,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Infection remains confined due to **incomplete formation of pores of Kohn**
 
 > **臨床要點**
-
+>
 > - **S. pneumoniae** is the most common cause of CAP; look for lobar consolidation with air bronchograms
-
 > - **Mycoplasma** is the great mimicker — can produce consolidation, GGO, or centrilobular/tree-in-bud nodules
-
 > - **Klebsiella** in alcoholics produces massive inflammatory exudates causing the classic **bulging fissure sign**
-
 > - **Immunocompromised patients** require a broad differential including opportunistic organisms
 
 ## 肺炎併發症 / Complications of Pneumonia {#肺炎併發症--complications-of-pneumonia}
@@ -1323,13 +1270,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Other causes: **Nocardia**, **Actinomyces**
 
 > **臨床要點**
-
+>
 > - **Empyema** progresses through three stages — early drainage is easier than late surgical intervention
-
 > - **Split pleura sign** is helpful for empyema but not specific; clinical correlation is essential
-
 > - **Pneumatoceles** from Staph aureus or PCP almost always resolve — do not mistake for persistent cavitary disease
-
 > - **BPF** is most commonly iatrogenic (post-surgical); always consider in post-operative patients with persistent air leaks
 
 ## 結核病 / Tuberculosis (TB) {#結核病--tuberculosis-tb}
@@ -1418,13 +1362,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - May mimic immune reconstitution syndrome in HIV patients
 
 > **臨床要點**
-
+>
 > - **Primary TB** = lower lobe, adenopathy, no cavitation; **Reactivation TB** = upper lobe, cavitation, no adenopathy
-
 > - **Cavitation** is the key imaging feature distinguishing reactivation from primary TB
-
 > - In HIV/immunocompromised patients, always consider TB when you see low-attenuation adenopathy — it mimics immune reconstitution syndrome
-
 > - TB treatment is the same regardless of primary vs. reactivation classification
 
 ## 結核性淋巴結病 / Tuberculous Adenopathy {#結核性淋巴結病--tuberculous-adenopathy}
@@ -1474,11 +1415,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Sarcoidosis** (advanced) | Upper-lobe predominant; constitutional symptoms |
 
 > **臨床要點**
-
+>
 > - **Miliary TB** is a life-threatening condition requiring urgent treatment — always consider in febrile immunocompromised patients with diffuse random nodules
-
 > - **Healed TB** with apical scarring, volume loss, and superior hilar retraction is a classic finding — don't mistake for active disease or lung cancer
-
 > - Miliary TB can develop from either **primary** or **reactivation** infection
 
 ## 非典型分枝桿菌 / Atypical Mycobacteria {#非典型分枝桿菌--atypical-mycobacteria}
@@ -1518,13 +1457,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Fibrosing mediastinitis** | Rare; mediastinal lymph node infection → pulmonary venous obstruction, bronchial stenosis, pulmonary artery stenosis; lymph nodes tend to calcify |
 
 > **臨床要點**
-
+>
 > - **Atypical mycobacteria** in an elderly woman with RML/lingular bronchiectasis = think Lady Windermere syndrome
-
 > - **Histoplasma** is the great mimicker of lung cancer, TB, and sarcoidosis depending on the clinical presentation
-
 > - **Fibrosing mediastinitis** from Histoplasma is a rare but important cause of superior vena cava syndrome–like presentation
-
 > - **Coccidioides** in the southwestern US can present with nodules, consolidation, or miliary disease
 
 ## 免疫抑制患者的感染 / Infections in the Immunocompromised {#免疫抑制患者的感染--infections-in-the-immunocompromised}
@@ -1562,13 +1498,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Disease can be present despite a **normal chest radiograph**
 
 > **臨床要點**
-
+>
 > - A **normal chest X-ray does not exclude PCP** — CT is required if clinical suspicion is high
-
 > - **Bilateral perihilar GGO with peripheral sparing** is the classic CXR finding for PCP
-
 > - **Pneumatoceles** in an HIV patient with pneumonia should strongly suggest PCP
-
 > - CD4 count < 200 cells/cc is the threshold for PCP risk; routine prophylaxis has reduced incidence
 
 ## 隱球菌 / Cryptococcus neoformans {#隱球菌--cryptococcus-neoformans}
@@ -1601,13 +1534,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Angioinvasive** | Severely immunocompromised (chemo, transplant, AIDS) | **Halo sign**; **air crescent sign** |
 
 > **臨床要點**
-
+>
 > - **Aspergillus** affects only patients with **abnormal immunity** or **preexisting pulmonary disease** — the clinical context determines which form to consider
-
 > - **ABPA** (asthma + finger-in-glove sign) vs. **Aspergilloma** (preexisting cavity + mobile ball) are the two most distinct entities
-
 > - **Halo sign** = angioinvasive aspergillosis in a severely neutropenic patient = medical emergency
-
 > - **Cryptococcus** is the most common fungal infection in AIDS patients — look for it when CD4 < 100
 
 ## 過敏性支氣管肺麴菌病 / Allergic Bronchopulmonary Aspergillosis (ABPA) {#過敏性支氣管肺麴菌病--allergic-bronchopulmonary-aspergillosis-abpa}
@@ -1656,13 +1586,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Air crescent sign** | Angioinvasive aspergillosis | Crescent of air from retraction of **infarcted lung** (recovery phase) |
 
 > **臨床要點**
-
+>
 > - **Finger-in-glove sign** in an asthmatic patient = classic for ABPA — look for upper-lobe bronchiectasis with high-attenuation mucoid impaction
-
 > - **Aspergilloma** presents as a mobile ball in a cavity — always ask if the opacity changes position between views
-
 > - **Monod sign** vs. **air crescent sign** are easily confused but indicate completely different diseases — clinical context is key
-
 > - In a patient with hemoptysis and a pre-existing cavity, always consider **aspergilloma**
 
 ## 半侵襲性（慢性壞死性）麴菌病 / Semi-Invasive (Chronic Necrotizing) Aspergillosis {#半侵襲性慢性壞死性麴菌病--semi-invasive-chronic-necrotizing-aspergillosis}
@@ -1733,13 +1660,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Pathology** | Vascular invasion/occlusion | Airway epithelial invasion |
 
 > **臨床要點**
-
+>
 > - **Halo sign** in a neutropenic patient is **angioinvasive aspergillosis** until proven otherwise — act urgently
-
 > - **Air crescent sign** (unlike Monod sign) indicates recovery from angioinvasive aspergillosis — good prognosis
-
 > - **Semi-invasive aspergillosis** progresses over months (vs. days-weeks for the invasive forms) — consider in diabetic/alcoholic/COPD patients with chronic cavitary disease
-
 > - **Airway-invasive** and **angioinvasive** aspergillosis both occur in immunocompromised hosts but differ in mechanism and key imaging signs
 
 ## 肺水腫 / Pulmonary Edema {#肺水腫--pulmonary-edema}
@@ -1798,13 +1722,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - **Reexpansion pulmonary edema**: Complication of aggressive thoracentesis — rapid reexpansion of lung collapsed >3 days
 
 > **臨床要點**
-
+>
 > - **Vascular redistribution** → **interstitial edema** → **alveolar edema** represents the classic radiographic progression of pulmonary edema
-
 > - **Kerley B lines** = peripheral septal thickening = interstitial edema from elevated pulmonary venous pressures
-
 > - **Asymmetric right upper lobe** edema should prompt evaluation for **mitral regurgitation** (papillary muscle rupture)
-
 > - **Reexpansion pulmonary edema** is a recognized complication of rapid thoracentesis — go slow with large-volume taps
 
 ## ICU 設備與血管指標 / ICU Imaging — Vascular Pedicle & Support Devices {#icu-設備與血管指標--icu-imaging--vascular-pedicle--support-devices}
@@ -1859,13 +1780,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Other complications** | Intracardiac catheter knot, arrhythmia |
 
 > **臨床要點**
-
+>
 > - **Vascular pedicle width** >58 mm on serial ICU radiographs suggests fluid overload — correlate with clinical volume status
-
 > - **Right mainstem bronchus intubation** is a common and critical error — always check tube position on every chest X-ray
-
 > - **PICC in the azygos vein** is a specific malposition pattern — look for the characteristic medial-then-posterior course
-
 > - **Swan-Ganz tip** may lie in the main, right, or left pulmonary artery, but should not extend beyond the proximal interlobar pulmonary artery
 
 ## 胸腔引流管 / Chest Tubes {#胸腔引流管--chest-tubes}
@@ -1876,11 +1794,9 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Position check** | Radiograph confirms location and assesses for re-expansion |
 
 > **臨床要點**
-
+>
 > - **Azygos vein malposition** of a PICC is a specific and important complication — recognize the imaging pattern to avoid serious adverse events
-
 > - **Swan-Ganz catheters** can cause catastrophic **pulmonary artery rupture** if placed too distally — know the normal anatomy and expected depth
-
 > - All intravascular catheters should be confirmed to be in the correct position on chest radiograph before use
 
 ## 肺癌 / Lung Cancer — Clinical Overview {#肺癌--lung-cancer--clinical-overview}
@@ -1968,13 +1884,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Ground glass (or mixed) nodule** | More likely malignant than solid |
 
 > **臨床要點**
-
+>
 > - **Size** is the single most important risk factor for malignancy — larger nodules have higher cancer risk
-
 > - **Ground glass nodules** are more likely malignant than solid nodules — follow more cautiously
-
 > - **Calcification pattern** matters: central, diffuse, popcorn, and fat-containing nodules are almost always benign
-
 > - Smoking history dramatically increases lung cancer risk — always incorporate into risk stratification
 
 ## 孤立性肺結節隨訪 / Solitary Pulmonary Nodule — Follow-Up {#孤立性肺結節隨訪--solitary-pulmonary-nodule--follow-up}
@@ -2020,13 +1933,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - **5-year survival 15%** overall
 
 > **臨床要點**
-
+>
 > - **No change for 2 years** strongly favors benignity for solid nodules, but **ground glass nodules** require extended follow-up (BAC can be very indolent)
-
 > - **Fleischner guidelines** provide evidence-based follow-up intervals — use size and risk status to determine management
-
 > - **Adenocarcinoma** is the most common lung cancer subtype and is typically a peripheral, spiculated nodule
-
 > - A **26% increase in diameter** = volume doubling — use this threshold to define nodule growth
 
 ## 鱗狀細胞癌 / Squamous Cell Carcinoma (SCC) {#鱗狀細胞癌--squamous-cell-carcinoma-scc}
@@ -2074,13 +1984,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Important differential for **chronic ground glass/consolidation**
 
 > **臨床要點**
-
+>
 > - **SCC** is the classic central, cavitating lung cancer — think SCC for central hilar masses with cavitation
-
 > - **BAC** spectrum ranges from indolent ground glass nodules to aggressive mucinous adenocarcinoma — always assess consolidation chronicity
-
 > - **Mucinous BAC** with chronic consolidation can mimic pneumonia but is non-resolving with near-normal WBC — key clue
-
 > - **Lepidic growth** (along alveolar walls) is the pathologic hallmark of BAC — this pattern correlates with ground glass appearance on CT
 
 ## 小細胞肺癌 / Small Cell Carcinoma {#小細胞肺癌--small-cell-carcinoma}
@@ -2137,13 +2044,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Carcinoid** | Not associated | Central or peripheral | Endobronchial mass |
 
 > **臨床要點**
-
+>
 > - **Small cell carcinoma** presents as a large central mass — treat as systemic disease; surgery rarely an option
-
 > - **Carcinoid tumors** can present as an endobronchial mass causing atelectasis — think carcinoid in a non-smoker with a central lung lesion
-
 > - **Large cell carcinoma** is a diagnosis of exclusion — immunohistochemistry differentiates it from adenocarcinoma or SCC
-
 > - **DIPNECH** is a rare precursor syndrome — consider it when you see multiple tumorlets and bronchiectasis in a non-smoking woman
 
 ## 肺癌的影像學表現 / Radiologic Presentation of Lung Cancer {#肺癌的影像學表現--radiologic-presentation-of-lung-cancer}
@@ -2202,13 +2106,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Endobronchial mass** | Carcinoid |
 
 > **臨床要點**
-
+>
 > - A **solitary pulmonary nodule** is most likely **adenocarcinoma** — BAC spectrum lesions may appear as ground glass or mixed-attenuation nodules
-
 > - **Obstructive pneumonia** with a non-resolving consolidation should always raise concern for underlying lung cancer — bronchoscopy is indicated
-
 > - **Tapered bronchus** narrowing from a hilar mass is a highly specific sign of lung cancer
-
 > - **Two atelectatic foci** that cannot be explained by one endobronchial lesion favors a benign process — but CT/bronchoscopy still needed
 
 ## 肺上溝瘤 / Superior Sulcus Tumor {#肺上溝瘤--superior-sulcus-tumor}
@@ -2255,13 +2156,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Pancreatic, prostate** | Less common |
 
 > **臨床要點**
-
+>
 > - **Pancoast tumor** (superior sulcus tumor + Horner syndrome) presents with shoulder/arm pain — think of it when you see an apical lung mass with Horner syndrome
-
 > - **Lymphangitic carcinomatosis** presents with nodular septal thickening (asymmetric) — not smooth like pulmonary edema
-
 > - **Asymmetric** nodular septal thickening in a patient with known malignancy should be considered lymphangitic carcinomatosis until proven otherwise
-
 > - **Superior sulcus tumors** are stage T3 and may be resectable with combined chemotherapy and radiotherapy
 
 ## 肺癌併發症 / Complications of Lung Cancer {#肺癌併發症--complications-of-lung-cancer}
@@ -2324,13 +2222,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **IV** | Systemic therapy; surgery only for solitary adrenal or brain metastasis |
 
 > **臨床要點**
-
+>
 > - **Malignant pleural effusion = M1a** — curative resection is no longer possible; always cytologically confirm suspected malignant effusions
-
 > - The **2009 TNM staging** applies to both small cell and non-small cell lung cancer
-
 > - **Stage IIIB (N3 or T4/N2)** is unresectable — nodal involvement determines operability more than T stage
-
 > - **Stage IV** with a solitary metastasis (adrenal or brain) may still be surgically resectable in selected cases
 
 ## 肺癌分期：淋巴結 / N (Nodes) — Lung Cancer Staging {#肺癌分期淋巴結--n-nodes--lung-cancer-staging}
@@ -2362,13 +2257,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **M1b** | Distant/extrathoracic metastases | Median survival **6 months**; 1-year survival **22%** |
 
 > **臨床要點**
-
+>
 > - **N3 disease** (contralateral or supraclavicular nodes) makes the tumor **unresectable** — always assess nodal stations carefully
-
 > - **M1a** (malignant pleural effusion or contralateral lung nodule) = **Stage IV** — curative surgery not possible
-
 > - **N2** (ipsilateral mediastinal nodes) may still be resectable depending on the specific nodal station and number of stations involved
-
 > - **M1b** carries the worst prognosis — median survival of only 6 months
 
 ## 肺癌分期案例 / Lung Cancer Staging — Case Examples {#肺癌分期案例--lung-cancer-staging--case-examples}
@@ -2426,13 +2318,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **M1** (Stage IV) | **Not surgical** (except solitary adrenal/brain in select cases) |
 
 > **臨床要點**
-
+>
 > - **Stage IIIA** with limited N2 disease may be resectable — depends on number and station of involved nodes
-
 > - **Any M1 disease** (pleural effusion, contralateral nodule, distant mets) = Stage IV — curative surgery not possible
-
 > - Always look for **contralateral lung nodules** and **adrenal masses** in lung cancer staging CT
-
 > - **Adrenal masses** in lung cancer patients are metastases until proven otherwise — most are benign adrenal adenomas
 
 ## 肺血管疾病 / Pulmonary Vascular Disease {#肺血管疾病--pulmonary-vascular-disease}
@@ -2473,13 +2362,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 ---
 
 > **臨床要點**
-
+>
 > - **WHO Groups 1–5** classify by etiology; **pre- vs. post-capillary** classifies by hemodynamic site of obstruction
-
 > - **Group 4 (CTEPH)** is important to recognize — it is potentially **surgically curable** with pulmonary thromboendarterectomy
-
 > - **Eisenmenger syndrome** (reversal of left-to-right shunt due to progressive PAH) represents the most severe complication of untreated congenital shunts
-
 > - Pulmonary hypertension may be **pre-capillary, post-capillary, or both** — imaging findings help differentiate but right heart catheterization is definitive
 
 ## 肺高血壓的影像學表現 / Imaging of Pulmonary Hypertension {#肺高血壓的影像學表現--imaging-of-pulmonary-hypertension}
@@ -2516,13 +2402,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Areas of decreased attenuation correspond to hypoperfused lung regions
 
 > **臨床要點**
-
+>
 > - **Main PA diameter > aortic root** is a simple CXR clue to pulmonary hypertension
-
 > - **Pulmonary artery calcification** is specific for chronic pulmonary hypertension — not commonly seen but highly specific
-
 > - **Mosaic attenuation** on CT in a patient with pulmonary hypertension strongly suggests **CTEPH**
-
 > - The **hilum convergence sign** helps avoid misdiagnosing an enlarged pulmonary artery as a mediastinal mass
 
 ## 原發性肺高血壓 / Primary Pulmonary Hypertension (PPH) — WHO Group 1 {#原發性肺高血壓--primary-pulmonary-hypertension-pph--who-group-1}
@@ -2592,13 +2475,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **CTEPH (G4)** | Peripheral eccentric filling defects; mosaic perfusion; **curable with surgery** |
 
 > **臨床要點**
-
+>
 > - **CTEPH** is the only WHO group with a potentially curative surgical treatment (thromboendarterectomy) — always consider it in unexplained pulmonary hypertension
-
 > - **PVOD** presents with pulmonary hypertension + pulmonary edema + centrilobular nodules — looks like left heart failure but without elevated PCWP
-
 > - **Eisenmenger syndrome** represents shunt reversal from long-standing left-to-right shunt — cyanosis, clubbing, and right heart failure
-
 > - **WHO Group 1** PAH (including PPH) is treated with prostacyclins, endothelin receptor antagonists, and PDE-5 inhibitors — not surgical
 
 ## 纖維化縱膈炎 / Fibrosing Mediastinitis — WHO Group 5 {#纖維化縱膈炎--fibrosing-mediastinitis--who-group-5}
@@ -2661,13 +2541,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Associated findings** | Wedge-shaped consolidation, pleural effusion, linear subsegmental atelectasis (nonspecific) |
 
 > **臨床要點**
-
+>
 > - **Fibrosing mediastinitis** from histoplasmosis/TB can cause both postcapillary (vein) and precapillary (artery) pulmonary hypertension
-
 > - **CTPA** is the standard imaging for PE — look for filling defects at arterial bifurcations
-
 > - **Pleural effusions and consolidation** are seen equally in patients with and without PE — not diagnostic
-
 > - **D-dimer** has limited utility in hospitalized patients due to false positives from comorbid conditions
 
 ## 肺栓塞的 X 光表現 / Plain Film Evaluation of Pulmonary Embolism {#肺栓塞的-x-光表現--plain-film-evaluation-of-pulmonary-embolism}
@@ -2702,13 +2579,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Unopacified pulmonary veins** | May simulate PE on single slice — trace vessel back to heart to differentiate |
 
 > **臨床要點**
-
+>
 > - **Hampton's hump** (wedge-shaped peripheral opacity) = pulmonary infarct from PE — don't mistake for pneumonia or effusion
-
 > - **RV:LV ratio >1** on CT in massive PE is a critical finding indicating right heart strain and poor prognosis
-
 > - **Hilar lymph nodes** are a common pitfall that can mimic PE — always correlate with clinical probability
-
 > - When in doubt about a filling defect, trace the vessel back to the heart to distinguish artery from vein
 
 ## 瀰漫性肺部疾病 / Diffuse Lung Disease {#瀰漫性肺部疾病--diffuse-lung-disease}
@@ -2749,13 +2623,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - **AIP** = most lethal (acute respiratory distress syndrome-like presentation)
 
 > **臨床要點**
-
+>
 > - The lung has a **limited repertoire of responses** to injury — IIPs are classified by the specific pattern of that response
-
 > - **IPF** and **NSIP** are the two most common IIPs; distinguishing them by the presence of honeycombing vs. ground glass is essential
-
 > - **Type II pneumocyte** dysfunction (surfactant deficiency) is central to several IIPs including AIP
-
 > - All IIPs require correlation between clinical, radiologic, and pathologic findings for definitive diagnosis
 
 ## 特發性肺纖維化 / Idiopathic Pulmonary Fibrosis (IPF) {#特發性肺纖維化--idiopathic-pulmonary-fibrosis-ipf}
@@ -2817,13 +2688,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Prognosis** | Similar | Generally better than IPF |
 
 > **臨床要點**
-
+>
 > - **Honeycombing + posterior subpleural basilar distribution** = highly specific for UIP on CT — look for this to diagnose IPF without biopsy
-
 > - **IPF survival is ~2–4 years** — worse than many cancers; counsel patients appropriately
-
 > - **Asbestos exposure** (calcified pleural plaques) + UIP pattern = asbestosis, not IPF
-
 > - **Fibroblastic foci** on pathology correlate with disease activity and worse prognosis in UIP
 
 ## 非特異性間質性肺炎 / Nonspecific Interstitial Pneumonitis (NSIP) {#非特異性間質性肺炎--nonspecific-interstitial-pneumonitis-nsip}
@@ -2884,13 +2752,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Steroid response** | Yes | Poor |
 
 > **臨床要點**
-
+>
 > - **Ground glass** is the key imaging feature distinguishing NSIP from IPF — NSIP has GGO; UIP has honeycombing
-
 > - **Subpleural sparing** is a very specific sign for NSIP and is not seen in UIP
-
 > - **NSIP** is the most common pulmonary manifestation of **scleroderma** and **dermatomyositis** — look for esophageal dilation as a clue to scleroderma
-
 > - If honeycombing is present, the diagnosis is likely **UIP** rather than NSIP — this distinction significantly affects prognosis
 
 ## 隱源性機化性肺炎 / Cryptogenic Organizing Pneumonia (COP) {#隱源性機化性肺炎--cryptogenic-organizing-pneumonia-cop}
@@ -2932,13 +2797,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Key CT** | Peripheral consolidation + reverse halo | Honeycombing | GGO with subpleural sparing |
 
 > **臨床要點**
-
+>
 > - **Reverse halo sign** (central lucency + peripheral GGO) is the imaging hallmark of COP — don't confuse with the halo sign of invasive aspergillosis
-
 > - **COP responds to steroids** and has an excellent prognosis — unlike IPF, this is a treatable condition
-
 > - **Recurrences** are common in COP even after successful treatment — long-term follow-up is needed
-
 > - COP can be **secondary** (infection, drugs, inhalational exposure) — always look for an underlying cause before labeling it "cryptogenic"
 
 ## 呼吸性細支氣管炎相關間質性肺病 / Respiratory Bronchiolitis–Interstitial Lung Disease (RB-ILD) {#呼吸性細支氣管炎相關間質性肺病--respiratory-bronchiolitisinterstitial-lung-disease-rb-ild}
@@ -2984,13 +2846,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **IPF** | Honeycombing; basilar subpleural | No |
 
 > **臨床要點**
-
+>
 > - **RB-ILD** is a diagnosis of exclusion in a **smoker** with centrilobular nodules — always rule out hypersensitivity pneumonitis (exposure history)
-
 > - The distinction between **RB** (asymptomatic) and **RB-ILD** (symptomatic) is clinical, not radiologic
-
 > - RB-ILD is part of the **smoking-related spectrum** (RB → RB-ILD → DIP) — all share the macrophage-mediated pathology
-
 > - Treatment for RB-ILD is **smoking cessation** — the disease may stabilize or improve with this alone
 
 ## 脫屑性間質性肺炎 / Desquamative Interstitial Pneumonia (DIP) {#脫屑性間質性肺炎--desquamative-interstitial-pneumonia-dip}
@@ -3023,13 +2882,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Prognosis** | Good with smoking cessation | Variable |
 
 > **臨床要點**
-
+>
 > - **DIP** represents the severe end of the smoking-related macrophage spectrum — GGO is much more extensive than in RB-ILD
-
 > - **Smoking cessation** is the primary treatment for DIP — disease may improve or stabilize
-
 > - The presence of even a few **cysts** in a smoker with diffuse GGO should suggest DIP (or RB-ILD spectrum)
-
 > - DIP is rare compared to RB-ILD; most smokers with GGO have other diagnoses
 
 ## 淋巴球性間質性肺炎 / Lymphoid Interstitial Pneumonia (LIP) {#淋巴球性間質性肺炎--lymphoid-interstitial-pneumonia-lip}
@@ -3076,13 +2932,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **PJP** | Immunocompromised; ground glass; cysts in late disease |
 
 > **臨床要點**
-
+>
 > - **LIP** is strongly associated with **Sjögren syndrome** and **HIV** — always test for these conditions in a patient with LIP pattern
-
 > - **Perivascular thin-walled cysts** are the imaging hallmark of LIP — think of LIP when you see cysts in a patient with autoimmune disease
-
 > - **Pneumothorax** is a recognized complication of LIP due to cyst rupture
-
 > - LIP can progress to pulmonary lymphoma in some cases — long-term follow-up is important
 
 ## 急性間質性肺炎 / Acute Interstitial Pneumonia (AIP) {#急性間質性肺炎--acute-interstitial-pneumonia-aip}
@@ -3136,13 +2989,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **AIP** | **Acute** | Geographic GGO | Poor | **Worst** |
 
 > **臨床要點**
-
+>
 > - **AIP** is the only **acute** IIP — think of it in any patient with rapid-onset ARDS of unknown cause
-
 > - The ground glass of early AIP is **nonspecific** — always rule out infection, pulmonary edema, and hemorrhage first
-
 > - **AIP has the worst prognosis** of all IIPs — similar to severe ARDS
-
 > - The exudative (early) phase → organizing (chronic) phase mirrors the clinical progression of ARDS
 
 ## 過敏原與暴露相關肺病 / Antigen and Exposure-Related Lung Disease {#過敏原與暴露相關肺病--antigen-and-exposure-related-lung-disease}
@@ -3203,13 +3053,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 - Both silicosis and CWP increase **TB risk**
 
 > **臨床要點**
-
+>
 > - **Upper-lobe predominant** disease suggests pneumoconiosis or chronic HSP; **lower-lobe** suggests asbestosis
-
 > - **Eggshell lymph node calcification** in a miner = classic for silicosis
-
 > - **Pleural plaques** = evidence of asbestos exposure — even without parenchymal fibrosis
-
 > - **Chronic HSP** with upper-lobe fibrosis and base sparing mimics silicosis — exposure history is key
 
 ## 嗜酸性粒細胞肺病 / Eosinophilic Lung Disease {#嗜酸性粒細胞肺病--eosinophilic-lung-disease}
@@ -3258,13 +3105,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Churg-Strauss** | Asthma; eosinophilia; vasculitis | Variable |
 
 > **臨床要點**
-
+>
 > - **Chronic eosinophilic pneumonia** with peripheral upper-lobe consolidation is a classic mimicker of pneumonia — think of it when consolidation doesn't resolve with antibiotics
-
 > - **Churg-Strauss** should be suspected in any asthmatic patient with peripheral eosinophilia and pulmonary infiltrates
-
 > - **Steroid responsiveness** is a hallmark of eosinophilic lung diseases — rapid improvement is expected
-
 > - **Peripheral blood eosinophilia** is a key clue — always check the differential in patients with unexplained pulmonary infiltrates
 
 ## 顯微鏡性多血管炎 / Microscopic Polyangiitis {#顯微鏡性多血管炎--microscopic-polyangiitis}
@@ -3316,13 +3160,10 @@ The **distribution** of ground glass opacification provides important diagnostic
 | **Asthma** | No | No | **Yes** |
 
 > **臨床要點**
-
+>
 > - **C-ANCA positive** cavitary lung nodules with sinusitis and renal failure = think **Wegener granulomatosis**
-
 > - **Microscopic polyangiitis** is the most common cause of pulmonary hemorrhage with renal failure — P-ANCA+
-
 > - **Airway stenosis** in a patient with WG is a recognized complication — look for it on CT
-
 > - All three ANCA vasculitides can cause pulmonary-renal syndrome — C-ANCA points to WG, P-ANCA to MPA or Churg-Strauss
 
 ## 醫源性肺病 / Iatrogenic Lung Disease {#醫源性肺病--iatrogenic-lung-disease}
@@ -3370,13 +3211,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 | **>12 months** | Stable fibrosis |
 
 > **臨床要點**
-
+>
 > - **Radiation fibrosis** has a characteristic **non-anatomic distribution** confined to the radiation port — this distinguishes it from other causes of fibrosis
-
 > - Drug-induced lung disease can mimic almost any interstitial lung disease pattern — always take a thorough drug history
-
 > - **Radiation pneumonitis** peaks at 3–4 months — don't mistake it for infection or tumor progression
-
 > - Many drugs can cause pulmonary toxicity — common culprits include methotrexate, bleomycin, and cytotoxic chemotherapy
 
 ## 結節病 / Sarcoidosis {#結節病--sarcoidosis}
@@ -3424,13 +3262,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 | **Lymphadenopathy** | Present (Stages 1–2) | Absent |
 
 > **臨床要點**
-
+>
 > - **Symmetric bilateral hilar adenopathy** with **1-2-3 sign** on CXR is the classic presentation of Stage I sarcoidosis
-
 > - **Eggshell calcification** of lymph nodes in up to 50% of sarcoidosis patients — distinguish from silicosis (which also has eggshell nodes)
-
 > - **Sarcoidosis** causes **upper-lobe fibrosis** (mimicking chronic HSP) while **IPF** causes **basilar fibrosis** — distribution is the key differentiator
-
 > - Sarcoidosis is a **systemic** disease — look for extrapulmonary manifestations (skin, eyes, cardiac, neurologic)
 
 ## 結節病的CT表現 / Sarcoidosis — CT Features {#結節病的ct表現--sarcoidosis--ct-features}
@@ -3464,13 +3299,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 | **Bone** | Rarely involved |
 
 > **臨床要點**
-
+>
 > - **Upper-lobe perilymphatic nodules** on CT in the right clinical context = highly suggestive of sarcoidosis
-
 > - **Galaxy sign** (small nodules peripheral to a confluent mass) is a helpful sign of sarcoidosis — not specific but supportive
-
 > - Sarcoidosis is a **systemic** disease — always look for splenic, hepatic, or CNS involvement
-
 > - The **stage** on chest X-ray (0–4) does not always progress stepwise — some patients present with Stage 4 without going through earlier stages
 
 ## 肺蘭格罕氏細胞組織球增生症 / Pulmonary Langerhans Cell Histiocytosis (PLCH) {#肺蘭格罕氏細胞組織球增生症--pulmonary-langerhans-cell-histiocytosis-plch}
@@ -3518,13 +3350,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 | **Chylous effusion** | No | **Yes** |
 
 > **臨床要點**
-
+>
 > - **Smoking + upper-lobe irregular cysts + spontaneous pneumothorax** = classic PLCH
-
 > - PLCH and LAM both cause cystic lung disease, but **PLCH** affects upper lobes sparing bases, while **LAM** involves all lobes uniformly
-
 > - PLCH cysts are **irregular** (vs. LAM's perfectly round cysts) — look carefully at cyst wall morphology
-
 > - **Smoking cessation** is the most important intervention in PLCH — disease can stabilize or improve
 
 ## 肺泡蛋白質沉積症 / Pulmonary Alveolar Proteinosis (PAP) {#肺泡蛋白質沉積症--pulmonary-alveolar-proteinosis-pap}
@@ -3566,13 +3395,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 - **Bronchoalveolar lavage** — primary treatment
 
 > **臨床要點**
-
+>
 > - **Crazy paving** with normal heart size and no pleural effusions = think **PAP** (mimics pulmonary edema but without cardiomegaly or effusions)
-
 > - **PAP** patients are susceptible to **Nocardia** superinfection — always consider in a PAP patient with new consolidation
-
 > - **Bronchoalveolar lavage** is both diagnostic and therapeutic for PAP
-
 > - Crazy paving is **not specific** for PAP — clinical context determines the diagnosis
 
 ## 淋巴管平滑肌肌瘤症 / Lymphangioleiomyomatosis (LAM) {#淋巴管平滑肌肌瘤症--lymphangioleiomyomatosis-lam}
@@ -3612,13 +3438,10 @@ The lung responds to drug injury with a limited repertoire of patterns:
 | **Pneumothorax** | Yes | Yes | Rare |
 
 > **臨床要點**
-
+>
 > - **Smooth, round, thin-walled cysts** in a **woman of childbearing age** = classic LAM
-
 > - **Tuberous sclerosis** patients (seizures, mental retardation, adenoma sebaceum) with diffuse cystic lung disease = think **TSC-associated LAM**
-
 > - **Chylous pleural effusion** is associated with LAM — look for this in any woman with unexplained chylous effusion
-
 > - **Anti-estrogen therapy** (e.g., sirolimus) is the treatment for LAM — unlike PLCH, smoking cessation alone is not curative
 
 ## 縱膈腔 / Mediastinum — Anatomy {#縱膈腔--mediastinum--anatomy}
@@ -3679,13 +3502,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Posterior** | Neurogenic tumor (schwannoma, ganglioneuroma), esophageal lesions, descending aortic aneurysm |
 
 > **臨床要點**
-
+>
 > - **Anterior mediastinum** = most common location for mediastinal masses (thymoma, teratoma, thyroid goiter)
-
 > - **Middle mediastinum** = lymph nodes, vascular structures, foregut cysts
-
 > - **Posterior mediastinum** = neurogenic tumors are the most common masses
-
 > - Masses can cross compartments — use exact anatomic origin on CT for precise diagnosis
 
 ## 線條、條紋與介面 / Lines, Stripes, and Interfaces {#線條條紋與介面--lines-stripes-and-interfaces}
@@ -3722,13 +3542,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 - Distortion → esophageal mass, hiatal hernia, left atrial enlargement, adenopathy
 
 > **臨床要點**
-
+>
 > - The **right paratracheal stripe** is the most commonly seen mediastinal line (~97% of normal CXRs) — always check its contour
-
 > - **Thickening of paratracheal stripes** should prompt evaluation for adenopathy, mass, or pleural thickening
-
 > - **Posterior tracheal stripe** is the only mediastinal interface visible on the **lateral** CXR — use it to assess the posterior tracheal wall
-
 > - The **azygoesophageal recess** is a key landmark — distortion suggests esophageal or mediastinal pathology
 
 ## 縱膈線條（續） / Mediastinal Lines and Stripes (Continued) {#縱膈線條續--mediastinal-lines-and-stripes-continued}
@@ -3781,13 +3598,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 - Dilated in **SVC obstruction** (collateral pathway)
 
 > **臨床要點**
-
+>
 > - **AP window convexity** in a patient with hoarseness and diaphragmatic paralysis → recurrent laryngeal nerve involvement (possible lung cancer or lymphoma)
-
 > - **Paraspinal line displacement** → always evaluate for posterior mediastinal mass (neurogenic tumor, lymphoma, aortic aneurysm)
-
 > - **Retrosternal clear space obliteration** on lateral CXR = anterior mediastinal mass until proven otherwise
-
 > - **Aortic nipple** (LSIV) seen on CXR → evaluate for SVC obstruction
 
 ## 縱膈腫塊的放射學定位 / Radiographic Localization of a Mediastinal Mass {#縱膈腫塊的放射學定位--radiographic-localization-of-a-mediastinal-mass}
@@ -3833,13 +3647,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Posterior** | Paraspinal line displacement, azygoesophageal recess distortion, posterior junction line abnormality |
 
 > **臨床要點**
-
+>
 > - **Hilum overlay sign** = vessels seen through a mediastinal mass — the mass is anterior or posterior to the hilum, not in the middle mediastinum
-
 > - **Retrosternal clear space obliteration** on lateral CXR is the most direct sign of anterior mediastinal mass
-
 > - **azygoesophageal recess distortion** is a key sign of posterior mediastinal pathology — always assess on frontal CXR
-
 > - Use the **paratracheal stripes** as your first-line screening tool for middle mediastinal masses on every frontal CXR
 
 ## 前縱膈腫塊 — 前部（前上縱膈） / Anterior Mediastinal Mass — Prevascular (Superior Anterior) {#前縱膈腫塊--前部前上縱膈--anterior-mediastinal-mass--prevascular-superior-anterior}
@@ -3891,13 +3702,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Thymic carcinoid** | Neuroendocrine; 50% hormonally active (ACTH → Cushing); MEN I/II association |
 
 > **臨床要點**
-
+>
 > - **Thymoma** is the most common anterior mediastinal mass — always check for **myasthenia gravis** symptoms (fatigable weakness)
-
 > - **Invasion of phrenic nerve** (hemidiaphragm elevation) is a key finding in invasive thymoma
-
 > - **Drop metastases** (pleural/pericardial implants) are the most common spread pattern of invasive thymoma — not hematogenous
-
 > - **Thymic carcinoid** with Cushing syndrome = look for MEN I/II association
 
 ## 其他胸腺病變 / Less Common Thymic Lesions {#其他胸腺病變--less-common-thymic-lesions}
@@ -3932,13 +3740,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Thyroid goiter** | Extends from neck |
 
 > **臨床要點**
-
+>
 > - **Teratoma** with fat/calcification on CT in a young adult is nearly diagnostic
-
 > - **Seminoma** is the most common malignant GCT in the anterior mediastinum and occurs almost exclusively in men
-
 > - **Thymic carcinoid** (neuroendocrine tumor) should be suspected when a mediastinal mass is associated with Cushing syndrome — check for MEN I/II
-
 > - **Thymolipoma** is a benign fat-containing tumor that can grow very large — fat on CT is diagnostic
 
 ## 甲狀腺病變 / Thyroid Lesions {#甲狀腺病變--thyroid-lesions}
@@ -3975,13 +3780,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Avid enhancement** | **Castleman disease**, sarcoidosis, TB, vascular metastases (renal cell, thyroid, lung, sarcoma, melanoma) |
 
 > **臨床要點**
-
+>
 > - **Eggshell calcification** of lymph nodes in a patient with occupational exposure = silicosis or CWP
-
 > - **Avidly enhancing adenopathy** = think Castleman disease, sarcoidosis, or vascular metastases (thyroid, renal cell)
-
 > - **Low-attenuation lymph nodes** in a patient from an endemic area = tuberculosis
-
 > - Lymphoma rarely calcifies before treatment — if you see calcification, consider prior therapy or alternative diagnosis
 
 ## Castleman 病 / Castleman Disease {#castleman-病--castleman-disease}
@@ -4014,13 +3816,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Ascending aortic / arch aneurysm** | May simulate mediastinal mass on CXR |
 
 > **臨床要點**
-
+>
 > - **Pericardial cyst** at the right cardiophrenic angle is a classic benign mediastinal lesion — look for fluid attenuation on CT
-
 > - **Morgagni hernia** with bowel gas on CXR/CT is diagnostic — look for omental vessels tracing to the abdomen
-
 > - **Castleman disease** with avidly enhancing nodes in a young person = think localized (curable) vs. multicentric (systemic)
-
 > - Always check for **continuity with the thyroid** in any superior mediastinal mass — goiter is the most common thyroid lesion extending into the mediastinum
 
 ## 肺動脈擴大 / Enlarged Pulmonary Artery {#肺動脈擴大--enlarged-pulmonary-artery}
@@ -4062,13 +3861,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Paraspinal abscess** | Paraspinal line displacement; vertebral osteomyelitis |
 
 > **臨床要點**
-
+>
 > - **Neurogenic tumors** are the most common posterior mediastinal masses — schwannoma is the most common in adults
-
 > - **Hiatal hernia** with an air-fluid level above the diaphragm is a classic mimicker of a posterior mediastinal mass
-
 > - **Extramedullary hematopoiesis** in a patient with severe anemia (thalassemia, sickle cell) = look for bilateral inferior paravertebral masses
-
 > - **Lateral meningocele** with neurofibromatosis = think NF1
 
 ## 後縱膈病變（續） / Posterior Mediastinal Lesions (Continued) {#後縱膈病變續--posterior-mediastinal-lesions-continued}
@@ -4097,13 +3893,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Other** | Extramedullary hematopoiesis, foregut cyst, lateral meningocele |
 
 > **臨床要點**
-
+>
 > - **Paraspinal line displacement** on CXR should prompt evaluation for vertebral osteomyelitis or paraspinal abscess
-
 > - **Foregut duplication cysts** (bronchogenic, esophageal) present as fluid-attenuation cysts — surgical removal is curative
-
 > - In any patient with neurofibromatosis and a posterior mediastinal mass, think **lateral meningocele**
-
 > - **Esophageal carcinoma** on CXR may present as abnormal convexity of the azygoesophageal recess — always assess the esophagus
 
 ## 氣道疾病 / Airways — Diffuse Non-Neoplastic Tracheal Disease {#氣道疾病--airways--diffuse-non-neoplastic-tracheal-disease}
@@ -4154,13 +3947,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Wegener granulomatosis** | Subglottic stenosis + pulmonary nodules/cavities |
 
 > **臨床要點**
-
+>
 > - **Relapsing polychondritis** spares the posterior membranous trachea because it lacks cartilage — always check for this pattern
-
 > - **TPO** presents with nodular calcific deposits on the tracheal wall — benign condition that may be asymptomatic
-
 > - **Subglottic tracheal stenosis** in a patient with systemic vasculitis symptoms → think **Wegener granulomatosis**
-
 > - In diffuse tracheal disease, always check for associated findings (perilymphatic nodules → sarcoidosis; systemic vasculitis → WG)
 
 ## 結核與類澱粉沉積症 / Tuberculosis and Amyloidosis {#結核與類澱粉沉積症--tuberculosis-and-amyloidosis}
@@ -4200,13 +3990,10 @@ The mediastinum is divided into **three compartments** to aid differential diagn
 | **Sarcoidosis** | Variable: smooth to nodular | Not spared |
 
 > **臨床要點**
-
+>
 > - **Smooth, long-segment (>3 cm) tracheal narrowing** in a patient with TB = think endobronchial TB spread
-
 > - **Amyloidosis** with tracheal narrowing may be calcified — posterior membrane is **not spared** (unlike relapsing polychondritis)
-
 > - The **posterior membranous trachea** is the key dividing line: spared in relapsing polychondritis and TPO; involved in amyloidosis, WG, sarcoidosis, and TB
-
 > - All causes of diffuse tracheal disease can present with similar narrowing patterns — clinical context is essential
 
 ## 韋格納肉芽腫症與結節病 / Wegener Granulomatosis and Sarcoidosis {#韋格納肉芽腫症與結節病--wegener-granulomatosis-and-sarcoidosis}
@@ -4268,13 +4055,10 @@ Mucus plugging → bacterial colonization → inflammatory response
 | **Impaired immunity** | Congenital immunodeficiency, transplant, agammaglobulinemia |
 
 > **臨床要點**
-
+>
 > - **Subglottic stenosis** in a young adult = think **Wegener granulomatosis** (20% of WG patients)
-
 > - **Intubation** has ~1% risk and **tracheostomy** has ~30% risk of tracheal stenosis
-
 > - **Bronchiectasis** always has an underlying cause — always investigate (CF, primary ciliary dyskinesia, immune deficiency)
-
 > - Bronchiectasis from **cystic fibrosis** shows upper-lobe predominant cylindrical bronchiectasis with mucus plugging
 ### 先天性結締組織疾病 / Congenital Connective Tissue Disorders {#先天性結締組織疾病--congenital-connective-tissue-disorders}
 

@@ -161,17 +161,12 @@ description: 血管造影、栓塞、TIPS、膽道與非血管介入
 - PAN is a systemic necrotizing vasculitis of small and medium-sized arteries that causes multiple small visceral aneurysms.
 
 > **臨床要點**
-
+>
 > - **影像表現**：上腸繫膜動脈（superior mesenteric artery）選擇性數位減影血管攝影顯示眾多細小的周邊動脈瘤（箭頭）。Polyarteritis nodosa: selective digital substraction angiogram of the superior mesenteric artery shows numerous tiny peripheral aneurysms (arrows).
-
 > - **受累血管**：PAN 通常侵犯腎臟、肝臟與腸繫膜的終末小動脈。PAN typically affects renal, hepatic, and mesenteric end-arterioles.
-
 > - **血清標記**：典型 PAN 通常為 ANCA 陰性；若 ANCA 陽性，應重新考慮顯微鏡下多血管炎或其他 ANCA 相關血管炎。Classic PAN is characteristically ANCA-negative; ANCA positivity should prompt reconsideration of microscopic polyangiitis or another ANCA-associated vasculitis.
-
 > - **多發腎動脈瘤的鑑別診斷**：包括多發敗血性栓塞（multiple septic emboli）、speed kidney（與長期安非他命濫用有關）及 Ehlers–Danlos 症候群。The differential diagnosis of multiple renal artery aneurysms includes multiple septic emboli, speed kidney (due to chronic methamphetamine abuse), and Ehlers–Danlos.
-
 > - **相關疾病（CLASH）**：PAN 與數種疾病相關，可用首字母縮寫 CLASH 記憶：冷球蛋白血症（cryoglobulinemia）、白血病（leukemia）、類風濕性關節炎（rheumatoid arthritis）、Sjögren 症候群（Sjögren syndrome）與 B 型肝炎（hepatitis B）。PAN is associated with several medical conditions remembered with the mnemonic CLASH (cryoglobulinemia, leukemia, rheumatoid arthritis, Sjögren syndrome, and hepatitis B).
-
 > - **治療**：PAN 的治療是類固醇（steroids），而非介入性處置。Treatment of PAN is with steroids, not procedures.
 
 ### 脾動脈瘤、內臟動脈瘤與急性腸系膜缺血 / Splenic and Visceral Artery Aneurysms and Acute Mesenteric Ischemia {#脾動脈瘤內臟動脈瘤與急性腸系膜缺血--splenic-and-visceral-artery-aneurysms-and-acute-mesenteric-ischemia}
@@ -251,15 +246,11 @@ description: 血管造影、栓塞、TIPS、膽道與非血管介入
 - Nutcracker syndrome is compression of the left renal vein between the aorta and the SMA; this is similar to SMA syndrome, but the renal vein is compressed instead of the duodenum.
 
 > **臨床要點**
-
+>
 > - **影像示意**：SMA 壓迫左側腎靜脈（left renal vein）。The SMA compresses the left renal vein.
-
 > - **後位型**：後位型（posterior nutcracker）是腎動脈後位（retroaortic）或環主動脈（circumaortic）的腎靜脈被主動脈與椎體夾壓。A posterior variant, called posterior nutcracker, is the compression of a retroaortic (or circumaortic) renal vein between the aorta and the vertebral body.
-
 > - **臨床表現**：症狀變異很大，包括疼痛、血尿（hematuria）、直立性蛋白尿（orthostatic proteinuria）、骨盆鬱血（pelvic congestion），以及男性的精索靜脈曲張（varicocele）。Nutcracker syndrome can present with variable clinical symptoms including pain, hematuria, orthostatic proteinuria, pelvic congestion, and varicocele (in a male).
-
 > - **治療**：治療取決於症狀；血尿病例多數在觀察兩年內可自行緩解，若確有治療需求，可行腎靜脈血管成形與支架置放（angioplasty and stenting of the renal vein）。Treatment depends on the symptoms; the majority of cases of hematuria resolve within two years of observation, and if treatment is desired, angioplasty and stenting of the renal vein can be performed.
-
 > - **相關壓迫症候群（May–Thürner）**：May–Thürner 症候群為右側總髂動脈橫跨下腔靜脈與右總髂動脈分叉處，造成左側總髂靜脈的靜脈性血栓；軸位對比增強 CT（左圖）顯示左側總髂靜脈擴張且低衰減（黃色箭頭），提示血栓；冠狀位 CT（右圖）顯示右側總髂動脈（紅色箭頭）橫跨下腔靜脈與右總髂靜脈（黃色箭頭）的分叉處，靜脈血栓在冠狀位上並不明顯。May–Thürner syndrome is venous thrombosis of the left common iliac vein caused by compression from the crossing right common iliac artery; axial contrast-enhanced CT (left image) shows a distended and hypoattenuating left common iliac vein (yellow arrow) suggestive of thrombosis, while coronal CT (right image) shows the right common iliac artery (red arrow) crossing the bifurcation of the IVC and right common iliac vein (yellow arrow), and the venous thrombosis is not apparent on the coronal view.
 
 ### 門靜脈高壓與門脈壓力差（HVPG）測定 / Portal Hypertension and HVPG Measurement {#門靜脈高壓與門脈壓力差hvpg測定--portal-hypertension-and-hvpg-measurement}
@@ -395,15 +386,11 @@ description: 血管造影、栓塞、TIPS、膽道與非血管介入
 - Buerger disease is a medium and small vessel occlusive vasculitis that affects the lower extremities (most commonly) and the hands (less commonly); it is seen in adult male smokers and should be clinically suspected in a middle-aged male presenting with claudication.
 
 > **臨床要點**
-
+>
 > - **血管攝影表現**：腿部中型與小型動脈可見節段性狹窄（segmental stenoses），並有血管壁滋養血管（vasa vasorum）典型的螺旋狀側支（corkscrew collaterals）。On angiography, there are segmental stenoses of the medium and small arteries in the leg, with typical corkscrew collaterals in the vasa vasorum.
-
 > - **大動脈相對保留**：較大的動脈，包括股總動脈（common femoral artery）、股淺動脈（superficial femoral artery）與膕動脈（popliteal artery），典型上會被保留（spared）。The larger arteries, including the common femoral artery, superficial femoral artery, and popliteal artery, are typically spared.
-
 > - **首要治療**：柏格氏病的首要治療是戒菸（smoking cessation）。Primary treatment of Buerger disease is smoking cessation.
-
 > - **鑑別：膕動脈夾擠症候群**：膕動脈夾擠症候群（popliteal entrapment syndrome）是由小腿肌肉或纖維帶壓迫膕動脈所致，最常見的是腓腸肌內側頭異常（aberrant medial head of the gastrocnemius），為健康年輕男性運動性跛行的重要原因，且常為雙側受累；依異常肌肉與膕動脈偏位的不同可分為六型，其中以腓腸肌內側頭合併膕動脈內偏（第一型）或無偏移（第二型）最常見，治療為手術鬆解病變肌肉，血管攝影僅用於診斷而非治療。Popliteal entrapment syndrome is compression of the popliteal artery by a calf muscle or fibrous band, most commonly an aberrant medial head of the gastrocnemius; it is an important cause of exercise-induced claudication in healthy young males, and bilateral involvement is common; there are six different types of popliteal entrapment depending on the deviation of the aberrant muscle and the popliteal artery, by far the most common involving the medial head of the gastrocnemius with either medial deviation (type I) or no deviation (type II) of the popliteal artery, and treatment is surgical release of the offending muscle, while angiography is only used for diagnosis, not therapy.
-
 > - **鑑別：囊性外膜病**：囊性外膜病（cystic adventitial disease）是遠端跛行（distal claudication）的罕見原因，一個或多個黏液性囊腫位於包繞膕動脈的外膜，造成管腔壓迫；臨床上多為主訴跛行的中年男性；MRI 為最佳診斷工具，囊性成分呈典型 T2 高訊號；治療為手術切除囊腫或手術繞道，雖可抽吸但囊腫幾乎一定復發。Cystic adventitial disease is a rare cause of distal claudication where one or more mucoid cysts in the adventitia surrounding the popliteal artery lead to lumenal compression; most patients are middle-aged men presenting with claudication; MRI is the best diagnostic tool, as the cystic component can be readily identified with typical T2 hyperintensity; treatment is surgical resection of the cyst or surgical bypass, although cyst aspiration can also be performed, the cyst almost always recurs.
 
 ---
@@ -463,13 +450,10 @@ description: 血管造影、栓塞、TIPS、膽道與非血管介入
 - Raynaud disease is small arterial vasospasm triggered by cold temperature; on imaging, there is decreased perfusion of the distal digital arteries, with improvement upon warming or vasodilator administration; Raynaud disease is associated with scleroderma and other connective tissue disorders.
 
 > **臨床要點**
-
+>
 > - **定義與誘因**：雷諾氏症為低溫誘發的小動脈血管痙攣。Raynaud disease is small arterial vasospasm triggered by cold temperature.
-
 > - **影像表現**：遠端指動脈灌流減少，於保溫或給予血管擴張劑後改善。On imaging, there is decreased perfusion of the distal digital arteries, with improvement upon warming or vasodilator administration.
-
 > - **相關疾病**：雷諾氏症與硬皮症及其他結締組織疾病相關。Raynaud disease is associated with scleroderma and other connective tissue disorders.
-
 > - **鑑別：上肢血栓栓塞疾病**：上肢血栓栓塞疾病最常由心臟栓塞引起（心房顫動為常見原因），較少見的是鎖骨下動脈瘤作為血栓來源；若栓塞來源在中樞（如心臟）應預期雙側病變，單側病灶則顯示單側栓塞；其特徵性影像表現為手部遠端小動脈阻塞。Thromboembolic disease of the upper extremities is most commonly caused by cardiac emboli (of which atrial fibrillation is a common cause); less commonly, a subclavian artery aneurysm may be the source of the thrombus; if the source of emboli is central (such as the heart), bilateral disease would be expected, while a unilateral lesion would show unilateral emboli; the characteristic imaging feature of distal thromboembolic disease is occlusion of distal small arteries of the hand.
 
 ### 介入放射學權威參考文獻與書目（一） / References (1) {#介入放射學權威參考文獻與書目一--references-1}
